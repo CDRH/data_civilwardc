@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d2e31337">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Stanhope, B. S.</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+       <idno>med.d2e31337</idno>
+       <authority>Civil War Washington</authority>
+       <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor>
+       <name>Center for Digital Research in the Humanities</name>
+       <address><addrLine>319 Love Library</addrLine>
+       <addrLine>University of Nebraska–Lincoln</addrLine>
+       <addrLine>Lincoln, NE 68588-4100</addrLine>
+       <addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+    </distributor>
+    <date>2011</date>
+    <availability>
+        <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+         republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+         law, requires express written consent from the editors and advance notification of the
+         publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+ <persName xml:id="kw">Kenneth Winkle</persName> 
+     <persName xml:id="mb">Matthew Bosley</persName>   
+     <persName xml:id="kk">Kourtney Klein</persName>
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl>
+     <title level="j">The Medical and Surgical History of the War of the Rebellion. (1861-65.)</title>
+     <pubPlace>Washington, DC</pubPlace>
+     <publisher>Government Printing Office</publisher>
+     <biblScope type="part">Part 2</biblScope>
+     <biblScope type="volume">Volume 2</biblScope>
+     <date when="1876">1876</date>
+     <biblScope type="page">861</biblScope>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+       <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+      <keywords scheme="#medsurg">
+       <term>wounds and injuries of the upper extremities</term>
+       <term>wounds and injuries of the elbow joint</term> 
+       <term>shot wounds of the elbow joint</term>
+       <term>excisions at the elbow joint for shot injury</term> 
+       <term>primary excisions at the elbow</term>
+       <term>fatal cases after primary excision at the elbow</term>
+       <term>wounded in elbow</term> 
+       <term>wounded in upper extremity</term>
+       <term>ball entered above tip of olecranon in semiflexion, breaking the humerus, partially denuding the radius, exited in anterior inferior third of forearm</term>
+       <term>primary resection performed</term>
+       <term>lower extremity of right humerus transversely fractured with comminution just above articulation</term>
+       <term>musculo-spiral and ulnar nerves injured</term> 
+       <term>tetanus, acute opisthotonos </term>          
+     </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+ <change who="#kw" when="2014-05">blessed</change>
+   <change who="#kk" when="2014-01-17">added figure encoding</change>
+   <change who="#mb" when="2012-07-17">copied case from MSHWR, added proofing of transcription and encoding, identified keyword terms</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>   
+   <p><hi rend="initialcap">C</hi>ASE 1789.&#8212;<name type="person" key="xxx">Major B. S. Stanhope</name>, <name type="organization" key="xxx">6th Ohio Cavalry</name>, was wounded in the right elbow at <name type="place">Aldie Gap</name>, <date type="injury" when="1863-06-17">June 17, 1863</date>, and entered the field hospital of the 2d division, Cavalry Corps.  <name type="person" key="244">Assistant Surgeon G. M. McGill</name>, <name type="organization" key="190">U. S. A.</name>, who performed excision, furnished the following account of the case: &#34;He was wounded in the right upper extremity by a carbine ball. Entrance two inches above the tip of the olecranon in semiflexion; course inward, downward, and forward, breaking the humerus&#8212;without extensive shock of the bone or comminution&#8212;passing down anteriorly, partially denuding the radius; exit in the anterior inferior third of the forearm. Primary resection was performed six hours after the injury. Patient is about 26 years, short, and has an abundance of adipose tissue.&#34;  The specimen, represented in the annexed cut (<hi rend="initialcap">F</hi>IG. 612), consists of three inches of the lower extremity of the right humerus, which was nearly transversely fractured, with some comminution, two inches above the articulation. It was contributed by <name type="person" key="244">the operator</name>. On <date type="transfer" when="1863-06-18">the day following the injury</date> the patient reached <name type="hospital" key="202">Prince Street Hospital</name>, at <name type="place">Alexandria</name>, whence <name type="person" key="307">Surgeon J. R. Spencer</name>, <name type="organization" key="132">U. S. V.</name>, reported the following result: &#34;This patient had been transported sixteen miles in an ambulance wagon and the same distance by cars, after the operation, before entering this hospital. The weather was warm and damp. The musculo-spiral and ulnar nerves were injured. Tetanus in the form of acute opisthotonos set in on June 23d. The treatment consisted of stimulants, tonics, and narcotics.  Death occurred on <date type="death" when="1863-06-25">June 25, 1863</date>.&#34;</p> 
+   
+   <figure>
+    <graphic url="cww.001734.001" />
+    <head><hi rend="initialcap">F</hi>IG. 612.&#8212;Three inches of the lower extremity of the right humerus excised for shot injury.     <hi rend="italic">Spec</hi>. 1282.</head>
+   </figure>
+   
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d2e8312">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Ruoss, G.</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+    <idno>med.d2e8312</idno>
+    <authority>Civil War Washington</authority>
+    <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor><name>Center for Digital Research in the
+     Humanities</name><address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address></distributor>
+    <date>2011</date>
+    <availability>
+     <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+      republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+      law, requires express written consent from the editors and advance notification of the
+      publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+ <persName xml:id="kw">Kenneth Winkle</persName> <persName xml:id="ajh">AJ Howell</persName>
+     <persName xml:id="mb">Matthew Bosley</persName>
+     <persName xml:id="el">Elizabeth Lorang</persName>
+     <persName xml:id="sb">Stacey Berry</persName>
+     <persName xml:id="et">Elisabeth Tracey</persName>
+     <persName xml:id="ss">Sarah Synovec</persName>
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title level="j">The Medical and Surgical History of the War of the Rebellion.
+      (1861-65.)</title><pubPlace>Washington, DC</pubPlace><publisher>Government Printing
+      Office</publisher><biblScope type="part">Part 3</biblScope><biblScope type="volume">Volume
+      2</biblScope><date when="1883">1883</date><biblScope type="page">183-184</biblScope></bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+     <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <keywords scheme="#medsurg">
+     <term>wounds and injuries of the lower extremities</term>
+     <term>injuries of the shaft of the femur</term>
+     <term>shot fractures of the shaft of the femur</term>
+     <term>shot fractures of the shaft of the femur treated by conservation</term>
+     <term>shot fractures of the upper third of the femur treated by conservation</term>
+     <term>recoveries after shot fractures of the upper third of the femur treated by
+      conservation</term>
+     <term>ball entered anterior outer aspect of thigh below great trochanter, comminuted upper and
+      middle thirds of femur, escaped posteriorly near middle of gluteal fold</term>
+     <term>general anesthesia, ether</term>
+     <term>diarrh&#339;a</term>
+     <term>erysipelas, commenced near wound, spread over entire surface of leg and foot</term>
+     <term>pus formed on thigh above knee, opened to sinus connecting with seat of fracture</term>
+     <term>extensive periostitis</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+ <change who="#kw" when="2014-05">blessed</change>
+   <change who="#ajh" when="2013-08-22">added figure encoding</change>
+   <change who="#mb" when="2012-04-20">additional proofing of transcription and encoding, identified
+    keyword terms</change>
+   <change who="#el" when="2011-05-11">case text extracted and transformed from larger file</change>
+   <change who="#sb" when="2011-06-04">Enrich Encoding, Edit and validate</change>
+   <change who="#sb" when="2011-01-28">Validated File</change>
+   <change who="#ss" when="2008-09-22">Sarah Synovec initial checking of OCR text; encoded P5
+    Encoding</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+
+   <p><hi rend="initialcap">C</hi>ASE 373.&#8212;<name type="person" key="1019">Private G.
+     Ruoss</name>, <name type="organization" key="240">Co. G, 7th New York</name>, aged 27 years,
+    was wounded near <name type="BATTLE" key="xxx">Petersburg</name>, <date type="injury"
+     when="1865-03-31">March 31, 1865</date>, and admitted to the field hospital of the 1st
+    division, Second Corps, where <name type="person" key="xx">Surgeon F. M. Hammond</name>, <name
+     type="organization" key="364">126th New York</name>, noted: "Shot fracture of right thigh." On
+     <date type="transfer" when="1865-04-01">the day following the injury</date> the wounded man was
+    sent to the Depot Hospital at <name type="place">City Point</name>, and <date type="transfer"
+     when="1865-04">several days afterwards</date> he was conveyed to <name type="place"
+     key="#Washington">Washington</name>, where he entered <name type="hospital" key="174">Campbell
+     Hospital</name>, and subsequently <name type="hospital" key="175">Stanton Hospital</name>.
+     <name type="person" key="158">Surgeon R. B. Bontecou</name>, <name type="organization"
+     key="132">U. S. V.</name>, reported his admission to <name type="hospital" key="173">Harewood
+     Hospital</name>
+    <date type="transfer" when="1865-09-12">September 12th</date>, and his condition as follows:
+    "The patient was suffering from great deformity of the right limb, the result of a shot wound of
+    the upper third of the thigh, fracturing the femur. When admitted he had so far recovered as to
+    be able to sit up, and his constitutional state was tolerably good. The fractured parts had
+    firmly united but with great deformity; the wound of entrance had healed, but there were still
+    some discharges from sinuses in the thigh, and small fragments of necrosed bones were daily
+    removed. The prospects of usefulness of the limb are unfavorable; otherwise the patient is doing
+    tolerably well." At the closing of <name type="hospital" key="173">Harewood Hospital</name>,
+     <date type="transfer" when="1866-05-01">May 1, 1866</date>, the patient was transferred to the
+     <name type="hospital" key="89">Post Hospital</name> at Washington, where he was operated on by
+     <name type="person" key="200">Assistant Surgeon W. Thomson</name>, <name type="organization"
+     key="190">U. S. A.</name>, who described the injury and operation as follows: "The wound was
+    caused by a mini&#233; ball, which entered on the anterior and outer aspect of the thigh about
+    three inches below the great trochanter, passed inward and a little downward, comminuting
+    portions of the upper and middle thirds of the femur, and escaped posteriorly near the middle of
+    the gluteal fold. On <date type="operation" when="1866-06-08">June 8th</date>, the patient was
+    etherized and a triangular incision, three by three and a half inches, was made on the upper and
+    outer side of the thigh, and several pieces of bone were removed. On September 30th the wound
+    had almost healed. Three sinuses, evidently leading to necrosed bone, however, still existed,
+    two of which were located on the upper and one on the lower surface. The patient's health was
+    not very good, having suffered from several attacks of diarrh&#339;a, and a severe attack of
+    erysipelas which commenced near the wound and soon spread over the entire surface of the leg and
+    foot. On December 31st, the sinuses were still open and discharging, and there was great
+    deformity, with about five inches shortening, and almost complete anchylosis of the knee joint."
+     <name type="person" key="1020">Assistant Surgeon J. Brooke</name>, <name type="organization"
+     key="190">U. S. A.</name>, who took charge of the patient in November, 1867, reported the
+    termination of the case: "I found the limb in much the same condition as described by <name
+     type="person" key="200">Dr. Thomson</name>, except that a collection of pus, which had formed
+    on the inner aspect of the thigh just above the knee, had been opened and a sinus found to
+    connect with the seat of the fracture. This sinus, as well as those already described by <name
+     type="person" key="200">Dr. Thomson</name>, remained open, and the patient continued extremely
+    feeble, became greatly emaciated, and suffered much from diarrh&#339;a and frequent attacks of
+    almost total loss of appetite. These symptoms continued until his death, which occurred on <date
+     type="death" when="1868-06-27">June 27, 1868</date>. At the <hi rend="italic">autopsy</hi> the
+    liver was found to be enormously enlarged, weighing ten pounds and ten ounces, and the right
+    lung contained a small mass of calcareous matter." The injured femur, with the os innominatum
+    and patella attached, and portions of the tibia and fibula were contributed to <name
+     type="hospital" key="431">the Museum</name> by <name type="person" key="1020">Dr.
+    Brooke</name>, and constitute specimen 5450 of the Surgical Section. The femur is imperfectly
+    united, with great displacement and a deposit of foliaceous callus, and shows that extensive
+    periostitis has taken place, and the patella and upper portions of tibia and fibula also show
+    similar pathological changes. The photograph represented in the wood-cut (<hi rend="initialcap"
+     >F</hi>IG. 140) was obtained at the <name type="hospital" key="173">Harewood Hospital</name>,
+    and contributed by <name type="person" key="158">Surgeon Bontecou</name>. Other photographs of
+    the patient, taken at the same hospital and at the <name type="hospital" key="431">Army Medical
+     Museum</name>, are represented by No. 40, Vol. 8, of <hi rend="italic"><choice>
+      <sic>Photo's</sic>
+      <corr>Photos</corr>
+     </choice> of Surgical Cases, S. G. O.</hi>; <hi rend="italic">Card <choice>
+      <sic>Photo's</sic>
+      <corr>Photos</corr>
+     </choice></hi>, Vol. 2, p. 21, and Vol. 3, p. 27, and <hi rend="italic">Surgical Photograph
+     Series</hi>, Nos. 139, 178, 179, and 292.</p>
+   <figure>
+    <graphic url="cww.001561.001"/>
+    <head><hi rend="initialcap">F</hi>IG. 140.&#8212;Shot fracture of upper third of right femur.
+     [From a photograph.]</head>
+   </figure>
+
+  </body>
+ </text>
+</TEI>

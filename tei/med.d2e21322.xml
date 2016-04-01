@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d2e21322">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Fox, C. W.</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+    <idno>med.d2e21322</idno>
+    <authority>Civil War Washington</authority>
+    <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor><name>Center for Digital Research in the
+     Humanities</name><address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address></distributor>
+    <date>2011</date>
+    <availability>
+     <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+      republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+      law, requires express written consent from the editors and advance notification of the
+      publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+     <persName xml:id="mb">Matthew Bosley</persName>
+     <persName xml:id="el">Elizabeth Lorang</persName>
+     <persName xml:id="sb">Stacey Berry</persName>
+     <persName xml:id="et">Elisabeth Tracey</persName>
+     <persName xml:id="ss">Sarah Synovec</persName>
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title level="j">The Medical and Surgical History of the War of the Rebellion.
+      (1861-65.)</title><pubPlace>Washington, DC</pubPlace><publisher>Government Printing
+      Office</publisher><biblScope type="part">Part 3</biblScope><biblScope type="volume">Volume
+      2</biblScope><date when="1883">1883</date><biblScope type="page">551</biblScope></bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+     <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <keywords scheme="#medsurg">
+     <term>wounds and injuries of the lower extremities</term> 
+     <term>wounds and operations in the leg</term>
+     <term>shot fractures of the bones of the leg</term>
+     <term>amputations in the continuity of the leg for shot fractures</term> 
+     <term>secondary amputations in the continuity of the leg for shot injury</term> 
+     <term>secondary amputations in the lower third of the leg for shot injury</term> 
+     <term>recoveries after secondary amputations in the lower third of the leg for shot injury</term>
+     <term>metatarsal bone of big toe fractured, os calcis severely injured</term> 
+     <term>gangrene, disorganization of ankle joint, necrosis of bone</term> 
+     <term>limb amputated at lower third</term>
+     <term>re-amputated stump with sequestrum</term>     
+     <term>supplied with artificial leg</term> 
+    </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change who="#mb" when="2012-06-12">additional proofing of transcription and encoding, identified keyword terms</change>
+   <change who="#el" when="2011-05-11">case text extracted and transformed from larger file</change>
+   <change who="#sb" when="2011-06-04">Enrich Encoding, Edit and validate</change>
+   <change who="#sb" when="2011-01-28">Validated File</change>
+   <change who="#ss" when="2008-09-22">initial checking of OCR text; encoded P5 Encoding</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>   
+    <p><hi rend="initialcap">C</hi>ASE 802.&#8212;<name type="person" key="1357">Private C. W.
+      Fox</name>, <name type="organization" key="221">Co. I, 111th New York</name>, aged 18 years,
+     was wounded in the right foot during the engagement at the <name type="BATTLE" key="283">South Side Railroad</name>, <date type="injury" when="1865-03-31">March 31, 1865</date>. He was
+     admitted to <name type="hospital" key="173">Harewood Hospital</name>, Washington, <date type="admit" when="1865-04-05">five days afterwards</date>, where amputation was performed by <name type="person" key="158">Surgeon R. B.
+      Bontecou</name>, <name type="organization" key="132">U. S. V.</name>, who made the following
+     report:  "The metatarsal bone of the big toe was fractured and the os calcis severely injured.
+     When admitted the patient appeared to be considerably debilitated; the condition of the injured
+     parts, however, was tolerably good. The parts subsequently became gangrenous, with
+     disorganization of the ankle joint, sloughing of soft parts, and necrosis of bone. Sinuses
+     formed and extended up the leg. The limb was amputated at the lower third by the circular
+     method on <date type="operation" when="1865-05-03">May 3d</date>. The patient did well after the operation under simple dressings, aided by a
+     supporting and nourishing diet throughout. The parts had nearly healed when he was transferred
+     to <name type="hospital" key="171">Armory Square Hospital</name> <date type="transfer" when="1865-07-20">July 20th</date>."  <date type="transfer" when="1865-08">About one month
+     later</date> he was transferred to <name type="hospital" key="175">Stanton Hospital</name>, where a
+     second operation became necessary and was performed by <name type="person" key="405">Surgeon
+      B. B. Wilson</name>, <name type="organization" key="132">U. S. V.</name>, who describes it as
+     follows:  "The first amputation had been performed about one inch above the ankle joint. At the
+     time of the patient's admission to <name type="hospital" key="175">Stanton Hospital</name> the
+     stump had entirely healed, but it was swollen and painful and presented evidence of suppurative
+     inflammation within. Poultices were applied and abscesses soon pointed in two or three places,
+     one in or near the cicatrix of the operation and the other along the lower part of the shaft of
+     the tibia, which, on rupturing, discharged a bloody and ill-conditioned pus pretty freely. Upon
+     examination with a probe the existence of necrosed bone was detected, and at the earnest
+     request of the patient, who desired to get rid of his trouble as quickly and fully as possible,
+     it was determined to re-amputate the stump as far as the sequestrum extended. The operation was
+     performed on <date type="operation" when="1865-09-06">September 6th</date>, three inches of the bones being removed by the ordinary circular
+     method and the sequestrum found to extend quite up to the point severed by the saw. The
+     integument was brought together laterally and secured by interrupted sutures and adhesive
+     straps. The patient did well and the healing process progressed rapidly. At the closing of
+     <name type="hospital" key="175">Stanton Hospital</name>, on <date type="transfer" when="1865-09-19">September 19th</date>, he was sent to
+      <name type="hospital" key="162">Douglas Hospital</name>, where I saw him two weeks afterwards,
+     when the stump was almost entirely healed and looked admirably."  In <date type="servicedischarge"
+      when="1865-10">October, 1865</date>, the patient was discharged from service, to date from
+     <date type="servicedischarge" when="1865-09-06">September 6th</date>, and pensioned, having been previously supplied with an artificial leg. In his applications for commutation he described the stump as being in "sound" and "good condition." His
+     pension was paid <date type="pension" when="1880-09-04">September 4,1880</date>. The bones removed at the second amputation were contributed
+     to <name type="hospital" key="431">the Museum</name> by <name type="person" key="405">the operator</name> and constitute specimen
+     2454 of the Surgical Section, exhibiting the fibula in a state of caries and a large spongy
+     involucrum surrounding a small sequestrum of the tibia. </p>
+   
+  </body>
+ </text>
+</TEI>

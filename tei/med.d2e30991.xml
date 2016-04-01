@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d2e30991">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">McAtee, A. M.</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+       <idno>med.d2e30991</idno>
+       <authority>Civil War Washington</authority>
+       <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor>
+       <name>Center for Digital Research in the Humanities</name>
+       <address><addrLine>319 Love Library</addrLine>
+       <addrLine>University of Nebraska–Lincoln</addrLine>
+       <addrLine>Lincoln, NE 68588-4100</addrLine>
+       <addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+    </distributor>
+    <date>2011</date>
+    <availability>
+        <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+         republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+         law, requires express written consent from the editors and advance notification of the
+         publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+ <persName xml:id="kw">Kenneth Winkle</persName> 
+     <persName xml:id="mb">Matthew Bosley</persName>
+     <persName xml:id="sp">Scott Pulverenti</persName> 
+     <persName xml:id="kk">Kourtney Klein</persName>
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl>
+     <title level="j">The Medical and Surgical History of the War of the Rebellion. (1861-65.)</title>
+     <pubPlace>Washington, DC</pubPlace>
+     <publisher>Government Printing Office</publisher>
+     <biblScope type="part">Part 2</biblScope>
+     <biblScope type="volume">Volume 2</biblScope>
+     <date when="1876">1876</date>
+     <biblScope type="page">886</biblScope>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+       <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+      <keywords scheme="#medsurg">
+       <term>wounds and injuries of the upper extremities</term>
+       <term>wounds and operations of the elbow joint</term>
+       <term>shot wounds of the elbow</term>
+       <term>shot fractures of the elbow</term>
+       <term>excisions at the elbow joint for shot injury</term> 
+       <term>secondary excisions at the elbow</term> 
+       <term>recoveries after secondary excisions at the elbow</term>
+       <term>wounded left elbow</term>
+       <term>injured joint excised</term> 
+       <term>extremity of humerus and ulna removed below coronoid process</term>
+       <term>olecranon fractured, vertical fracture extending through middle of trochlea</term>       
+       <term>articular surface eroded</term>
+       <term>gunshot wound of elbow joint</term> 
+       <term>compound comminuted fracture of olecranon, condyle of humerus, and shaft of humerus</term>
+       <term>half the lower third of the humerus removed with olecranon and articular head of ulna</term>
+       <term>ball passed longitudinally through elbow joint</term>
+       <term>joint and rendering arm useless</term>
+       <term>injury equals loss of forearm</term>
+       <term>muscles shrunken</term>       
+     </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+ <change who="#kw" when="2014-05">blessed</change>
+   <change who="#kk" when="2014-01-22">added figure encoding</change>
+   <change who="#mb" when="2012-07-09">additional proofing of transcription and encoding, identified keyword terms</change>
+   <change who="#sp" when="2011-02-24">checked OCR; added minimal mark-up for personal names, place names, and dates</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>   
+   <p><hi rend="initialcap">C</hi>ASE 1821.&#8212;<name type="person" key="xxx">Private A. M. McAtee</name>, <name type="organization" key="xxx">Co. F, 23d Ohio</name>, aged 20 years, was wounded in the left elbow, at <name type="BATTLE" key="33">Antietam, Maryland</name>, <date type="injury" when="1862-09-17">September 17, 1862</date>.  <date type="admit" when="1862-09-22">Five days afterward</date> he was admitted to <name type="hospital" key="165">Mount Pleasant Hospital</name>, Washington, where <name type="person" key="339">Assistant Surgeon C. A. McCall</name>, <name type="organization" key="190">U. S. A.</name>, excised the injured joint on <date type="operation" when="1862-10-21">October 21st</date>. The patient recovered, and was discharged from service, <date type="servicedischarge" when="1862-12-30">December 30, 1862</date>, and pensioned.  The specimen, represented in the wood-cut (<hi rend="initialcap">F</hi>IG. 642), was contributed by the operator, and consists of two inches of the extremity of the humerus, and the ulna removed just below the coronoid process, the olecranon being fractured, and a vertical fracture extending through the middle of the trochlea. The articular surface is partly eroded. An account of this case was published by <name type="person" key="339">Dr. McCall</name> in the <hi rend="italic">Medical and Surgical Reporter</hi>, Vol. IX, 1862-63, p. 231, as follows: &#34;Gunshot wound of elbow joint, causing compound comminuted fracture of olecranon, of condyle of humerus, and of the shaft of the latter bone for some distance above the articular head. About half the lower third of the humerus was removed, together with the olecranon and articular head of the ulna. The radius was left intact. The arm was put upon a straight splint, with simple absorbent dressings to parts. Tonics and stimulants. The straight splint was exchanged for an angular pasteboard one about November 1st, the forearm being semi-flexed upon the arm. No untoward symptoms occurred; the wound healed well, and ceased discharging the first week in December. At this date all pain and most of the swelling had disappeared. The fingers could be moved slightly, but the arm had no power to support itself without the splint. The mobility of the joint was considerable: the arm could be moved, without cruising pain or inconvenience, from a nearly straight to a semi-flexed condition.&#34;  <name type="person" key="xxx">Examiner W. D. Scarff</name>, of <name type="organization" key="xxx">Bellefontaine, Ohio</name>, certified, on the following respective dates:  <date type="pension" when="1863-04-04">April 4, 1863</date>: &#34;The ball seems to have passed longitudinally through the joint, thereby destroying the joint and rendering the arm useless.&#34;   <date type="pension" when="1864-02-16">February 16, 1864</date>: &#34;The wound has healed entire, but the forearm hangs just as an appendage and is an encumbrance, of no use to him.&#34;  <date type="pension" when="1866-11-11">November 11, 1866</date>: &#34;The injury is fully equal to the loss of the forearm.&#34;  <date type="pension" when="1873-09-04">September 4, 1873</date>: &#34;The muscles are all shrunken, and the entire arm is more of an encumbrance than otherwise.&#34;  The pensioner was paid <date type="pension" when="1875-09-04">September 4, 1875</date>.</p>
+   
+   <figure>
+    <graphic url="cww.001706.001" />
+    <head><hi rend="initialcap">F</hi>IG. 642.&#8212;Bones of left elbow excised for shot fracture.     <hi rend="italic">Spec</hi>. 343.</head>
+   </figure>
+   
+  </body>
+ </text>
+</TEI>

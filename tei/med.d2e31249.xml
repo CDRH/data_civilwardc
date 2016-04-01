@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d2e31249">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">McDavitt, C.</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+       <idno>med.d2e31249</idno>
+       <authority>Civil War Washington</authority>
+       <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor>
+       <name>Center for Digital Research in the Humanities</name>
+       <address><addrLine>319 Love Library</addrLine>
+       <addrLine>University of Nebraska–Lincoln</addrLine>
+       <addrLine>Lincoln, NE 68588-4100</addrLine>
+       <addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+    </distributor>
+    <date>2011</date>
+    <availability>
+        <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+         republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+         law, requires express written consent from the editors and advance notification of the
+         publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+     <persName xml:id="mb">Matthew Bosley</persName>
+     <persName xml:id="bt">Ben Tomjack</persName>    
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl>
+     <title level="j">The Medical and Surgical History of the War of the Rebellion. (1861-65.)</title>
+     <pubPlace>Washington, DC</pubPlace>
+     <publisher>Government Printing Office</publisher>
+     <biblScope type="part">Part 2</biblScope>
+     <biblScope type="volume">Volume 2</biblScope>
+     <date when="1876">1876</date>
+     <biblScope type="page">910</biblScope>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+       <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+      <keywords scheme="#medsurg">
+       <term>wounds and injuries of the upper extremities</term>
+       <term>wounds and injuries of the elbow joint</term>
+       <term>shot wounds of the elbow joint</term> 
+       <term>amputations at the elbow joint for shot injury</term>
+       <term>primary disarticulations</term> 
+       <term>gunshot fracture of arm</term>
+       <term>arm amputated</term>
+       <term>amputation for compound comminuted fracture of both bones of forearm</term> 
+       <term>flesh wound of leg</term>
+       <term>ball caused compound comminuted fracture of forearm, required amputation at elbow joint</term>
+       <term>wounded in calf of leg, injured muscles and tendons, he is lame</term>
+       <term>furnished with artificial limb, awkward and useless</term>
+       <term>amputation for gunshot fracture of forearm at elbow joint</term> 
+       <term>furnished with artificial limb</term>       
+     </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change who="#mb" when="2012-07-13">additional proofing of transcription and encoding, identified keyword terms</change>
+   <change who="#bt" when="2011-02-25">checked OCR; added minimal mark-up for personal names, place names, and dates</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>   
+   <p><hi rend="initialcap">C</hi>ASE 1836.&#8212;<name type="person" key="xxx">Private C. McDavitt</name>, <name type="organization" key="xxx">Co. K, 19th Massachusetts</name>, aged 23 years, was wounded at <name type="BATTLE" key="4">Fredericksburg</name>, <date type="injury" when="1862-12-13">December 13, 1862</date>.  <name type="person" key="xxx">Assistant Surgeon V. R. Stone</name>, of <name type="organization" key="xxx">the regiment</name>, recorded: &#34;Gunshot fracture of arm; amputated. Transferred to General Hospital.&#34;  <name type="person" key="131">Surgeon H. Bryant</name>, <name type="organization" key="132">U. S. V.</name>, recorded the man's admission to <name type="hospital" key="176">Lincoln Hospital</name>, Washington, <date type="transfer" when="1862-12-23">December 23d</date>, with &#34;amputation in consequence of compound comminuted fracture of both bones of right forearm by mini&#233; ball, and slight flesh wound of left leg.&#34;  The patient was subsequently transferred to Lovell Hospital, <name type="place">Portsmouth Grove</name>, whence he was discharged <date type="servicedischarge" when="1863-05-28">May 28, 1863</date>, and pensioned.  <name type="person" key="xxx">Examiner B. T. Shaw</name>, of <name type="place">Boston</name>, <date type="pension" when="1863-06-04">June 4, 1863</date>, certified:  &#34;Was wounded by a ball which caused a compound comminuted fracture of his right forearm, which required amputation at the elbow joint. He was also wounded by a mini&#233; ball in the calf of the left leg at the same time, badly injuring the muscles and tendons, so that he is lame.&#34;  In <date type="pension" when="1864-03">March, 1864</date>, the pensioner was furnished with an artificial limb by <name type="person" key="xxx">M. Lincoln</name>, of <name type="place">Boston</name>, who described the amputation as having been performed by the &#34;circular method (though very uncertain).&#34;  <name type="person" key="xxx">Dr. B. B. Breed</name>, of <name type="place">Lynn, Mass.</name>, late surgeon <name type="organization" key="132">U. S. V.</name>, in answer to a request of the <name type="person" key="3416">Surgeon General</name>, <name type="organization" key="190">U. S. A.</name>, communicated, <date type="pension" when="1866-07-19">July 19, 1866</date>: &#34;I have examined the case of <name type="person" key="xxx">C. McDavitt</name>, late private, <name type="organization" key="xxx">Co. K, 19th Massachusetts</name>. <name type="person" key="xxx">McDavitt</name> is a man of good intelligence, and after his discharge from <name type="organization" key="xxx">the 19th</name> received a commission in the <name type="organization" key="xxx">4th Massachusetts Heavy Artillery</name>. His arm was amputated for gunshot fracture of the forearm at the elbow joint. The arm is very thin, and bears marks of numerous cicatrices where collections of pus have been opened. The skin is drawn rather tightly over the condyles, and is thin and tender. He thinks the stump would have been much sounder if the amputation had been performed two inches higher. His principal objection to the operation is, however, that in fitting an artificial limb the maker was obliged to make the joint two inches below the extremity of the stump, thus making an awkward and useless limb. He has only worn it for a few days, and states that it is as &#39;good as so much cord-wood, and no better.&#39; It proved a great encumbrance, and not of the slightest benefit. The operation was performed by <name type="person" key="xx">Surgeon N. Hayward</name>, <name type="organization" key="xxx">20th Massachusetts</name>,&#34; etc.  In a communication dated <date type="pension" when="1866-07-21">July 21, 1866</date>, the pensioner stated that &#34;his arm was amputated on <date type="operation" when="1862-12-14">the day following the injury</date>,&#34; and that &#34;the stump healed up about four months after his discharge from service, and had given no trouble since.&#34;  The pensioner was paid <date type="pension" when="1875-09-04">September 4, 1875</date>.</p>   
+  </body>
+ </text>
+</TEI>

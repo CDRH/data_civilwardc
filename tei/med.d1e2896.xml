@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e2896">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">N&#8212;&#8212;, Alexander</title>
+                <title level="m" type="sub">a machine readable transcription</title>
+                <principal>Susan C. Lawrence</principal>
+                <principal>Kenneth M. Price</principal>
+                <principal>Kenneth J. Winkle</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2011</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <idno>med.d1e2896</idno>
+                <authority>Civil War Washington</authority>
+                <publisher>University of Nebraska–Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+                </distributor>
+                <date>2011</date>
+                <availability>
+                    <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved.
+                        Redistribution or republication in any medium, except as allowed under the
+                        Fair Use provisions of U.S. copyright law, requires express written consent
+                        from the editors and advance notification of the publisher, the University
+                        of Nebraska–Lincoln.</p>
+                </availability>
+            </publicationStmt>
+            <notesStmt>
+                <note type="project">The following are responsible for particular readings or for
+                    changes to this file, as noted: 
+ <persName xml:id="kw">Kenneth Winkle</persName> <persName xml:id="ajh">AJ Howell</persName>
+                    <persName xml:id="mb">Matthew Bosley</persName>
+                    <persName xml:id="el">Elizabeth Lorang</persName>
+                    <persName xml:id="sb">Stacey Berry</persName>
+                    <persName xml:id="et">Elisabeth Tracey</persName>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>The Medical and Surgical History of the War of the Rebellion.
+                        (1861&#8211;65.)</title>
+                    <editor role="compiler">Surgeon General Joseph K.Barnes, United States
+                        Army</editor>
+                    <pubPlace>Washington, D.C.</pubPlace>
+                    <publisher>Government Printing Office</publisher>
+                    <biblScope type="part">Part 1</biblScope>
+                    <biblScope type="volume">Volume 2</biblScope>
+                    <date when="1870">1870</date>
+                    <biblScope type="page">42-43</biblScope>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <classDecl>
+                <taxonomy xml:id="medsurg">
+                    <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme="#medsurg">
+                    <term>on special wounds and injuries of the head</term>
+                    <term>wounds and injuries of the head</term>
+                    <term>miscellaneous injuries of the head</term>
+                    <term>falls</term>
+                    <term>simple or compound fractures of the cranium produced by falls</term>
+                    <term/>
+                    <term/>
+                    <term>linear fracture of frontal bone, not depressed</term>
+                    <term>thrown from horse, riding in streets of Washington</term>
+                    <term>head struck violently upon pavement</term>
+                    <term>autopsy performed</term>
+                    <term>severe contusion of forehead, and three-branched linear fracture of
+                        frontal bone</term>
+                    <term>inner table fissured with one line of fracture</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+ <change who="#kw" when="2014-05">blessed</change>
+            <change who="#ajh" when="2013-08-09">added figure encoding</change>
+            <change who="#mb" when="2013-05-14">additional proofing of transcription and encoding,
+                edited and added keyword terms</change>
+            <change who="#mb" when="2011-10-13">additional proofing of transcription and
+                encoding</change>
+            <change who="#mb" when="2011-06-03">additional proofing of transcription and
+                encoding</change>
+            <change who="#el" when="2011-11-05">case text extracted and transformed from larger
+                file</change>
+            <change who="#sb" when="2011-02-09">enriched encoding</change>
+            <change who="#sb" when="2011-01-28">validated file</change>
+            <change who="#et" when="2009-08-01">encoded</change>
+            <change who="#sb" when="2008-09-22">initial checking of OCR text against PDF;
+                encoded</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body xml:id="ch1.sc2.0007">
+            <p><hi rend="initialcap">C</hi>ASE.&#8212;<name type="person" key="120">Sergeant
+                    Alexander N&#8212;&#8212;</name>, <name type="organization" key="82">Co. B, 13th
+                    New York Cavalry</name>, was thrown from his horse while riding in the streets
+                of Washington, on <date type="injury" when="1865-08-10">August 10th, 1865</date>,
+                his head striking violently upon the pavement. He was taken to the hospital at <name
+                    type="hospital" key="118">Camp Barry</name> in an insensible condition, and, in
+                a few hours, became delirious. He remained so until his death, which took place on
+                    <date type="death" when="1865-08-14">August 14th, 1865</date>. There was no
+                external evidence of depression or fracture of the skull, but simply a severe
+                contusion of the forehead. The autopsy revealed a three-branched linear fracture of
+                the frontal bone. Its direction is indicated in the accompanying wood cut. (<hi
+                    rend="initialcap">F</hi>ig. 14.) Externally one line of fracture passes from the
+                centre of the superior border of the bone downward and outward through the right
+                frontal eminence. From the upper third of this fissure a second fissure passes
+                nearly at right angles downward through the left frontal eminence. This last fissure
+                involves the external table only. The inner table is fissured to correspond with the
+                first line of fracture, and there is also a short fissure branching upward. The
+                inner table opposite each frontal eminence is reticulated, and in the centre of the
+                perforated plate on the left side there is a small nodule of bone of the size of a
+                grain of wheat. The specimen, with a memorandum of the case, was forwarded to the
+                    <name type="hospital" key="431">Army Medical Museum</name> by <name
+                    type="person" key="121">Surgeon J. M. Homiston</name>, <name type="organization"
+                    key="130">3d New York Provisional Cavalry</name>.</p>
+            <figure>
+                <graphic url="cww.001358.001"/>
+                <head><hi rend="initialcap">F</hi>IG. 14.&#8212;Fracture of the frontal bone without
+                    displacement, from a fall from a horse.&#8212;<hi rend="italic">Spec.</hi> 2970,
+                    Sect. I, A. M. M.</head>
+            </figure>
+
+        </body>
+    </text>
+</TEI>

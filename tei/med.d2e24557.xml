@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d2e24557">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Shields, C. H.</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+    <idno>med.d2e24557</idno>
+    <authority>Civil War Washington</authority>
+    <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor><name>Center for Digital Research in the
+     Humanities</name><address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address></distributor>
+    <date>2011</date>
+    <availability>
+     <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+      republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+      law, requires express written consent from the editors and advance notification of the
+      publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+     <persName xml:id="mb">Matthew Bosley</persName>
+     <persName xml:id="el">Elizabeth Lorang</persName>
+     <persName xml:id="sb">Stacey Berry</persName>
+     <persName xml:id="et">Elisabeth Tracey</persName>
+     <persName xml:id="ss">Sarah Synovec</persName>
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title level="j">The Medical and Surgical History of the War of the Rebellion.
+      (1861-65.)</title><pubPlace>Washington, DC</pubPlace><publisher>Government Printing
+      Office</publisher><biblScope type="part">Part 3</biblScope><biblScope type="volume">Volume
+      2</biblScope><date when="1883">1883</date><biblScope type="page">642</biblScope></bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+     <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <keywords scheme="#medsurg">
+     <term>miscellaneous injuries</term> 
+     <term>burns and scalds</term>
+     <term>injured by explosion of cartridges during battle</term>
+     <term>severe burn of face and hands by powder</term> 
+     <term>discharged from service for disability </term> 
+     <term>both ears deformed and partially destroyed</term> 
+     <term>side of the face is scarred and blackened</term>
+     <term>use of hand impaired by scar of burn</term>
+     <term>partial deafness from closure of external meatus of one ear</term> 
+     <term>upper and greater portion of both ears burned off by explosion</term> 
+     <term>disability results from disfigurement and partial deafness</term>     
+    </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change who="#mb" when="2012-06-19">additional proofing of transcription and encoding, identified keyword terms</change>
+   <change who="#el" when="2011-05-11">case text extracted and transformed from larger file</change>
+   <change who="#sb" when="2011-06-04">Enrich Encoding, Edit and validate</change>
+   <change who="#sb" when="2011-01-28">Validated File</change>
+   <change who="#ss" when="2008-09-22">initial checking of OCR text; encoded P5 Encoding</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>   
+    <p><hi rend="initialcap">C</hi>ASE 938.&#8212;<name type="person" key="1415">Private C. H.
+      Shields</name>, <name type="organization" key="531">6th Maine Battery</name>, aged 21 years,
+     was injured by the explosion of some cartridges during the battle of <name type="BATTLE"
+      key="12">the Wilderness</name>, <date type="injury" when="1864-05-06">May 6, 1864</date>.  <name
+      type="person" key="xx">Surgeon H. C. Tompkins</name>, <name type="organization" key="532">4th
+      New York Artillery</name>, reported his admission to the Artillery Brigade Hospital, Second Corps, with "severe burn of face and hands by powder."  From the field the injured man passed to <name
+       type="hospital" key="171">Armory Square Hospital</name> at Washington, and thence to Cony Hospital at <name type="place">Augusta</name>, where he was discharged from service
+     for disability <date type="servicedischarge" when="1865-06-13">June 13, 1865</date>, and pensioned.
+     <name type="person" key="xx">Examining Surgeon J. B. Bell</name> reported, <date type="pension" when="1865-07-08">July 8, 1865</date>, that "the disability results chiefly from disfigurement. Both ears were disagreeably deformed and
+     partially destroyed. The left side of the face is scarred and blackened, and the use of the
+     left hand is somewhat impaired by the scar of the burn."  <name type="person" key="xx">Examiner
+      G. W. Burket</name>, of <name type="place" key="xx">Tyrone, Penn.</name>, certified
+     <date type="pension" when="1873-09-04">September 4, 1873</date>:  "Both ears were burnt, causing partial deafness from closure of the external
+     meatus of the left ear."  <name type="person" key="xx">Examiner I. E. Oatman</name>, of <name
+      type="place" key="xx">Sacramento, Cal.</name>, <date type="pension" when="1879-09-04">September 4, 1879</date>, confirmed the
+     existence of partial deafness, also that the upper and greater portion of both ears were burned off by the explosion.</p>   
+  </body>
+ </text>
+</TEI>

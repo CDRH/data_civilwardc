@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d2e31399">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Morrison, John</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+       <idno>med.d2e31399</idno>
+       <authority>Civil War Washington</authority>
+       <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor>
+       <name>Center for Digital Research in the Humanities</name>
+       <address><addrLine>319 Love Library</addrLine>
+       <addrLine>University of Nebraska–Lincoln</addrLine>
+       <addrLine>Lincoln, NE 68588-4100</addrLine>
+       <addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+    </distributor>
+    <date>2011</date>
+    <availability>
+        <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+         republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+         law, requires express written consent from the editors and advance notification of the
+         publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+ <persName xml:id="kw">Kenneth Winkle</persName> 
+     <persName xml:id="mb">Matthew Bosley</persName>
+     <persName xml:id="cp">Chang Pang</persName> 
+     <persName xml:id="kk">Kourtney Klein</persName>
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl>
+     <title level="j">The Medical and Surgical History of the War of the Rebellion. (1861-65.)</title>
+     <pubPlace>Washington, DC</pubPlace>
+     <publisher>Government Printing Office</publisher>
+     <biblScope type="part">Part 2</biblScope>
+     <biblScope type="volume">Volume 2</biblScope>
+     <date when="1876">1876</date>
+     <biblScope type="page">537-538</biblScope>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+       <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+      <keywords scheme="#medsurg">
+       <term>wounds and injuries of the upper extremities</term>
+       <term>wounds of the shoulder joint</term>
+       <term>decapitations of the humerus for shot injury</term>
+       <term>intermediary decapitations of the humerus for shot injury</term>
+       <term>successful cases of intermediary decapitation of the humerus</term>
+       <term>ball took effect in surgical neck of humerus</term> 
+       <term>compound fracture of humerus at surgical neck</term>
+       <term>ball ploughed groove along head of humerus, opening joint capsule</term>
+       <term>resection performed, head of humerus excised, disarticulated and removed, shattered end of shaft taken off below fracture</term> 
+       <term>arm with little power, forearm weak</term>
+       <term>fractured great tuberosity, crushed cancellated structure, small portion of anatomical neck involved</term>         
+     </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+ <change who="#kw" when="2014-05">blessed</change>
+   <change who="#kk" when="2014-01-17">added figure encoding</change>
+   <change who="#mb" when="2012-07-23">additional proofing of transcription and encoding, identified keyword terms</change>
+   <change who="#cp" when="2011-02-20">checked OCR; added minimal mark-up for personal names, place names, and dates</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body> 
+   <p><hi rend="initialcap">C</hi>ASE 1509.&#8212;<name type="person" key="xxx">Private John Morrison</name>, <name type="organization" key="xxx">Co. F, 109th Pennsylvania</name>, aged 35 years, was wounded at <name type="battle" key="68">Cedar Mountain</name>, <date type="injury" when="1862-08-09">August 9, 1862</date>, and was admitted to <name type="hospital" key="171">Armory Square Hospital</name>, Washington, on <date type="admit" when="1862-08-15">the 15th</date>.  <name type="person" key="123">Surgeon D. W. Bliss</name>, <name type="organization" key="132">U. S. V.</name>, made the following special report: &#34;The patient had always enjoyed perfect health up to the time of the injury. When struck he was in the act of firing, the whole arm being raised on a horizontal plane, parallel to the shoulder, and the ball took effect in the surgical neck of the right humerus. He walked one mile, and was then taken in an ambulance to <name type="place">Culpeper</name>, where he received surgical care. The wound was probed and search made for the ball, but to no purpose. Cold-water dressings were applied.  On <date type="admit" when="1862-08-15">August 15th</date>, the patient was sent by railroad to <name type="place" key="#Washington">Washington</name> and admitted to <name type="hospital" key="171">this hospital</name>; he was extremely feeble and restless, with an anxious countenance and anorexia, entire indifference as to situation, pulse 110, the wound emitting copious sanious discharge. Examination showed that the ball had produced a compound fracture of the humerus at the surgical neck, and ploughed a groove along the head, opening the capsule. The ball could not be found. There was considerable depression from effect of wound. Opiates and stimulants were administered, and tepid substituted for cold water.  <date type="operation" when="1862-08-19">August 19th</date>, resection was performed by <name type="person" key="123">Surgeon Bliss</name>, assisted by <name type="person" key="xx">Surgeons Clymer</name>, <name type="person" key="288">Brinton</name>, and <name type="person" key="xxx">Breed</name>. The head of the humerus was excised by the &#8744; incision, disarticulated and removed; the shattered end of the shaft below the fracture was taken off, with the chain saw, to the length of an inch and a half, and the spicul&#230; of bone embedded in the surrounding tissues carefully removed. The ball could not be found, nor its course traced, but it was supposed to be lodged in the axilla or thoracic walls. The incision was closed by interrupted sutures, and a tent introduced at the dependent point. Tepid-water dressings were applied; opiates in small and oft-repeated doses, alternated with brandy and beef tea, were given.  September 1st, patient is improving; pulse at 90; healing by granulation has commenced.  September 5th, the wound is rapidly granulating; the discharge is profuse but of a healthy character. Same treatment continued.  September 7th, the arm is dressed with strips of adhesive plaster applied so as to form an easy and firm support. Patient is permitted to walk about through the ward.  September 16th, patient still improving.  October 1st, patient is attacked with febrile symptoms; the discharges from the wound are less profuse.  October 7th, the fever proved to be of the intermittent type, accompanied by anorexia and night sweating. These symptoms were controlled by powders containing sulphate of quinine, ipecac, opium, and tannic acid, one of which was given every three hours, and by minute doses of oxide of zinc.  <date type="operation" when="1862-10-12">October 12th</date>, patient complained of a tumefaction on the shoulder, which, on examination, was found to be extremely tender; it was small, hard, circumscribed, and situated an inch and a half below the middle of the spine of the scapula. An incision was made, and a conoidal ragged bullet was extracted; some pus of an unhealthy character escaped from the wound. The incision in the arm is nearly closed.  October 25th, both incisions are nearly closed, and the general health of the patient is good.&#34;  The specimen (<hi rend="initialcap">F</hi>IG. 409), contributed by <name type="person" key="123">the operator</name>, consists of &#34;the head of the right humerus excised through the surgical neck. An elongated ball fractured the great tuberosity, crushing in the cancellated structure. A small portion of the anatomical neck is involved. The line of excision is very oblique. The missile is mounted with the specimen.&#34;  This soldier was discharged from service <date type="servicedischarge" when="1862-12-12">December 12, 1862</date>, and pensioned.  <name type="person" key="123">Dr. Bliss</name> saw the man in <name type="place">Philadelphia</name> in <date type="pension" when="1865-05">May, 1865</date>, and reported that he had a useful arm.  <name type="person" key="xxx">Examiner J. Neill</name> reported, <date type="pension" when="1868-04-27">April 27, 1868</date>, less favorably regarding the results of this excision.  <name type="organization" key="xxx">The Philadelphia Examining Board of <date type="pension" when="1873">1873</date></name>, <name type="person" key="xxx">Drs. Goodman</name>, <name type="person" key="xxx">Sherwood</name>, and <name type="person" key="xxx">Collins</name>, describe &#34;the arm swinging, dumb, and with little power; forearm weak.&#34;</p>
+   
+   <figure>
+    <graphic url="cww.001747.001" />
+    <head><hi rend="initialcap">F</hi>IG. 409.&#8212;Excised head of humerus, with the missile that caused the fracture.     <hi rend="italic">Specs</hi>. 190 and 2432.</head>
+   </figure>   
+   
+  </body>
+ </text>
+</TEI>

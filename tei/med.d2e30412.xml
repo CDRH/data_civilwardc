@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d2e30412">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Crawford, J. T.</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+    <idno>med.d2e30412</idno>
+    <authority>Civil War Washington</authority>
+    <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor>
+     <name>Center for Digital Research in the Humanities</name>
+     <address><addrLine>319 Love Library</addrLine>
+       <addrLine>University of Nebraska–Lincoln</addrLine>
+       <addrLine>Lincoln, NE 68588-4100</addrLine>
+       <addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+    </distributor>
+    <date>2011</date>
+    <availability>
+     <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+      republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+      law, requires express written consent from the editors and advance notification of the
+      publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+ <persName xml:id="kmp">Kenneth M. Price</persName> 
+     <persName xml:id="ajh">AJ Howell</persName>
+     <persName xml:id="mb">Matthew Bosley</persName>
+     <persName xml:id="no">Nathan Olson</persName>
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl>
+     <title level="j">The Medical and Surgical History of the War of the Rebellion.
+      (1861-65.)</title>
+     <pubPlace>Washington, DC</pubPlace>
+     <publisher>Government Printing Office</publisher>
+     <biblScope type="part">Part 2</biblScope>
+     <biblScope type="volume">Volume 2</biblScope>
+     <date when="1876">1876</date>
+     <biblScope type="page">784</biblScope>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+     <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <keywords scheme="#medsurg">
+     <term>wounds and injuries of the upper extremities</term>
+     <term>injuries of the shaft of the humerus</term>
+     <term>amputations of the arm for shot injury</term>
+     <term>amputations in the shaft of the humerus</term>
+     <term>secondary amputations in the arm</term>
+     <term>secondary amputations in the continuity</term>
+     <term>secondary amputation at the middle third of the arm</term>
+     <term>successful cases</term>
+     <term>fracture of arm, resection of upper third of ulna and radius</term>
+     <term>gunshot wound through elbow joint</term>
+     <term>ball entered near outer edge of coronoid process of ulna, emerged behind the
+      olecranon</term>
+     <term>entire comminution of joint</term>
+     <term>arm amputated at middle third of humerus</term>
+     <term>longitudinal fracture split off lower and outer humerus, tip of olecranon fractured,
+      articular surfaces of three bones carious</term>
+     <term>artificial arm furnished</term>
+     <term>general anesthesia, ether</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+ <change who="#kmp" when="2014-05">blessed</change>
+   <change who="#ajh" when="2013-08-23">added figure encoding</change>
+   <change who="#mb" when="2012-06-28">additional proofing of transcription and encoding, identified
+    keyword terms</change>
+   <change who="#no" when="2011-02-23">checked OCR; added minimal mark-up for personal names, place
+    names, and dates</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p><hi rend="initialcap">C</hi>ASE 1700.&#8212;<name type="person" key="xxx">Private J. T.
+     Crawford</name>, <name type="organization" key="xxx">Co. K, 51st New York</name>, aged 17
+    years, was wounded in the left arm, at <name type="BATTLE" key="127">Manassas</name>, <date
+     type="injury" when="1862-08-30">August 30, 1862</date>, and entered <name type="hospital"
+     key="428">Judiciary Square Hospital</name> at Washington. <name type="person" key="xxx">Surgeon
+     C. Page</name>, <name type="organization" key="190">U. S. A.</name>, reported: &#34;Gunshot
+    wound through left elbow joint, ball entering nearly over and somewhat toward the outer edge of
+    the coronoid process of the ulna and emerging behind the olecranon. The wound was explored on
+     <date type="operation" when="1862-09-16">September 16th</date>, when entire comminution of the
+    joint was discovered. The arm was amputated at the middle third of the humerus, on <date
+     type="operation" when="1862-10-07">October 7th</date>, by <name type="person" key="xxx">Acting
+     Assistant Surgeon F. H. Brown</name>. Ether was used.&#34; The specimen (<hi rend="initialcap"
+     >F</hi>IG. 556) was contributed by <name type="person" key="xxx">the operator</name>, and
+    consists of &#34;the lowest third of the left humerus and upper halves of the bones of the
+    forearm. &#42; &#42; A nearly longitudinal fracture has split off the lower and outer four
+    inches of the humerus; the tip of the olecranon is fractured, and the articular surfaces of the
+    three bones are carious. A large fragment of the shaft has reunited with displacement. The
+    epiphyseal lines are well shown.&#34;&#8212;(<hi rend="italic">Cat. Surg. Sect.</hi>, 1866, p.
+    166.) On <date type="transfer" when="1863-03-28">March 28th</date>, the patient was transferred
+    to Ladies Home, <name type="place">New York City</name>, whence he was transferred to the <name
+     type="organization" key="109">Veteran Reserve Corps</name> on <date type="duty"
+     when="1863-09-14">September 14, 1863</date>. He was ultimately discharged on <date
+     type="servicedischarge" when="1865-11-28">November 28, 1865</date>, and pensioned. An
+    artificial arm was furnished in <date type="pension" when="1864-05">May, 1864</date>, by <name
+     type="person" key="xxx">Mr. Lincoln</name>, of <name type="place">Boston</name>, who reported
+    that the amputation was performed by flap method. In his application for commutation, in <date
+     type="pension" when="1870">1870</date>, the pensioner reported that two operations were
+    performed, subsequent to the amputation, by <name type="person" key="xxx">Surgeon A. B.
+     Mott</name>, <name type="organization" key="132">U. S. V.</name>, and <name type="person"
+     key="xxx">Acting Assistant Surgeon G. M. Smith</name>, at the Ladies Home Hospital, and
+    described &#34;the remaining stump of the arm as being four inches long from the shoulder, and
+    in good condition.&#34; This pensioner was paid <date type="pension" when="1875-06-04">June 4,
+     1875</date>.</p>
+   <figure>
+    <graphic url="cww.001685.001"/>
+    <head><hi rend="initialcap">F</hi>IG. 556.&#8212;Shot comminuti'n of the left elbow. <hi
+      rend="italic">Spec</hi>. 132.</head>
+   </figure>
+  </body>
+ </text>
+</TEI>

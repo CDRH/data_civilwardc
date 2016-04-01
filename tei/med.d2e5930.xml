@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d2e5930">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Machlin, F.</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+    <idno>med.d2e5930</idno>
+    <authority>Civil War Washington</authority>
+    <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor><name>Center for Digital Research in the
+     Humanities</name><address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address></distributor>
+    <date>2011</date>
+    <availability>
+     <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+      republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+      law, requires express written consent from the editors and advance notification of the
+      publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+ <persName xml:id="kw">Kenneth Winkle</persName> 
+     <persName xml:id="ajh">AJ Howell</persName>
+     <persName xml:id="mb">Matthew Bosley</persName>
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title level="j">The Medical and Surgical History of the War of the Rebellion.
+      (1861-65.)</title><pubPlace>Washington, DC</pubPlace><publisher>Government Printing
+      Office</publisher><biblScope type="part">Part 3</biblScope><biblScope type="volume">Volume
+      2</biblScope><date when="1883">1883</date><biblScope type="page">110</biblScope></bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+     <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <keywords scheme="#medsurg">
+     <term>wounds and injuries of the lower extremities</term>
+     <term>wounds and injuries of the hip joint</term>
+     <term>shot fractures at the hip joint</term>
+     <term>excision at the hip after shot injury</term>
+     <term>intermediary excisions</term>
+     <term>ball entered buttock, emerged below and within anterior superior spinous process of
+      ilium</term>
+     <term>neck of femur comminuted and shaft uninjured</term>
+     <term>surgeon in charge confined to bed by illness</term>
+     <term>general anesthesia, chloroform</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+ <change who="#kw" when="2014-05">blessed</change>
+   <change who="#ajh" when="2013-08-22">added figure encoding</change>
+   <change who="#mb" when="2012-02-20">additional case copied from MSHWR, performed proofing of copy
+    and XML encoding, and key terms identified</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+
+   <p>
+    <hi rend="initialcap">C</hi>ASE 258.&#8212;<name type="person" key="xxx">Private F.
+     Machlin</name>,&#185; <name type="organization" key="xxx">11th Pennsylvania</name>, a robust
+    man, was wounded at the <name type="battle" key="127">second battle of Bull Run</name>, <date
+     type="injury" when="1862-08-30">August 30, 1862</date>. He laid on the field several days, and
+    was then transported thirty miles in a wagon to the <name type="hospital" key="xxx">Warehouse
+     Hospital, Georgetown</name>, D. C., where he was received on <date type="admit"
+     when="1862-09-08">September 8th</date>. A musket ball had entered the right buttock and emerged
+    an inch and a half below and within the anterior superior spinous process of the ilium. The limb
+    was shortened, and the foot was everted; any movement gave excessive pain. A thorough
+    examination was made under the influence of chloroform, and showed that the neck of the bone was
+    comminuted and the shaft uninjured. The case was considered to be a particularly favorable one
+    for the operation of excision of the broken fragments, and the general condition of the patient
+    was such as to offer some hopes of its success, and it was determined to do the operation on the
+    following day. But the surgeon in charge of the hospital was confined to his bed by illness, and
+    was unable to see the patient for five days. On September 13th the general condition of the
+    latter was less favorable. His pulse was 130, quick and weak, and his tongue was dry. He was
+    placed under very careful nursing, and beef essence, brandy, eggs, and milk, and other
+    concentrated nourishment and stimulants were administered <hi rend="italic">ad libitum</hi>. By
+    September 20th this treatment had produced slight improvement, and though he was still in a very
+    unfavorable condition for an operation, it was determined, on consultation, that an excision
+    might afford the patient relief from the constant pain he suffered, and that it could not
+    greatly depress him. At noon on <date type="operation" when="1862-09-20">September 20th</date>,
+    accordingly <name type="person" key="xxx">Assistant Surgeon B. A. Clements</name>, <name
+     type="organization" key="190">U. S. A.</name>, assisted by <name type="person" key="xxx">Dr.
+     George K. Smith</name>, of <name type="place">Brooklyn</name>, and the surgical staff of the
+    hospital, performed the operation. An incision five inches in length was made from a point two
+    inches behind and an inch below the anterior superior process of the ilium, downward over the
+    prominence of the trochanter major. The incision exposed the parts freely, and the muscular
+    insertions being divided, and several small loose fragments of bone removed, the irregular
+    broken extremity of the shaft, at its junction with the neck and the tip of the great
+    trochanter, were excised by a chain saw. The remnant of the capsular ligament and the round
+    ligament were now cut, the joint being opened from below and in front with a probe-pointed
+    bistoury. A blade of a long bullet forceps was then introduced as a lever and the head was
+    disarticulated by gently prying it out of the cotyloid cavity. These steps in the operation were
+    facilitated by rotating the trochanter outward, and by lifting the extensor muscles by a
+    metallic retractor. A small vessel was tied at the upper end and another at the lower end of the
+    wound. The wound was well washed out by means of a syringe and a few stitches were applied, the
+    middle portion of the wound being left open. The limb was suspended in a Smith's anterior wire
+    splint. The patient appeared to rally from the operation satisfactorily. At 9 o'clock P. M. he
+    was free from pain; his pulse was 136, and the skin was cool and natural. He had slept
+    tranquilly. On the following day, September 21st, his pulse was 120 and very feeble. The
+    discharge from the wound was dark and thin, and copious. His countenance was placid, the
+    pinched, distressed expression it had worn having disappeared. But in the afternoon he sank
+    rapidly, and died in the evening, thirty-six hours after the operation, <date type="death"
+     when="1862-09-21">September 21, 1862</date>. The specimen is No. 329 of the Surgical Section of
+    the <name type="hospital" key="431">Army Medical Museum</name>, and is represented in the
+    accompanying wood-cut (<hi rend="initialcap">F</hi>IG. 66).&#8212;(<hi rend="italic"
+     >Circular</hi> 6, S. G. O., 1865, p. 64; <hi rend="italic">Circular</hi> 2, S. G. O., 1869, pp.
+    37, 135.) </p>
+
+   <p> &#185; <hi rend="initialcap">B</hi>ATES (<hi rend="initialcap">S</hi>. <hi rend="initialcap"
+     >P</hi>.) (<hi rend="italic">History of Pennsylvania Volunteers</hi>, 1861-5, Harrisburg, 1869,
+    Vol. I, p. 30) records the name of this patient as Philip Mechling, Co. I, 11th Pennsylvania
+    Volunteers. </p>
+
+   <figure><graphic url="cww.001540.001"/><head>
+    <hi rend="initialcap">F</hi>IG. 66.&#8212;Excised head of right femur. <hi rend="italic"
+     >Spec</hi>. 329.</head></figure>
+
+
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="cww.02504">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Letter From Washington</title>
+                <title level="m" type="sub">a machine readable transcription</title>
+                <editor role="co-editor">R. J. Weir</editor>
+                <principal>Susan C. Lawrence</principal>
+                <principal>Elizabeth Lorang</principal>
+                <principal>Kenneth M. Price</principal>
+                <principal>Kenneth J. Winkle</principal>
+                <respStmt>
+                    <resp>transcription and encoding</resp>
+                    <persName xml:id="ak">Alex Kinnaman</persName>
+                    <persName xml:id="el">Elizabeth Lorang</persName>
+                    <persName xml:id="bw">Becca Weir</persName>
+                    <persName xml:id="kk">Kourtney Klein</persName>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2015</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <idno>cww.02504</idno>
+                <distributor>Civil War Washington</distributor>
+                <publisher>University of Nebraska Lincoln</publisher>
+                <address>
+                    <addrLine>Center for Digital Research in the Humanities</addrLine>
+                    <addrLine>319 Love Library</addrLine>
+                    <addrLine>University of Nebraska-Lincoln</addrLine>
+                    <addrLine>P.O. Box 884100</addrLine>
+                    <addrLine>Lincoln, NE 68588-4100</addrLine>
+                </address>
+                <address>
+                    <addrLine>
+                        <email>cdrh@unl.edu</email>
+                    </addrLine>
+                </address>
+                <date>2015</date>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+                        <p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License (http://creativecommons.org/licenses/by-nc-sa/3.0/). Derivatives must be credited to Civil War Washington and R. J. Weir, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct xml:id="letter">
+                    <analytic>
+                        <author ref="#logic">Bob Logic</author>
+                        <title level="a">Letter from Washington</title>
+                    </analytic>
+                    <monogr>
+                        <title xml:id="paper" level="j">The Anglo-African</title>
+                        <imprint>
+                            <date xml:id="issue_date" when="1863-08-15">15 August 1863</date>                    
+                        </imprint>
+                        <biblScope type="pp">[1]</biblScope>                    
+                    </monogr>           
+                </biblStruct>
+                
+                <biblStruct xml:id="issue">               
+                    <monogr>
+                        <title level="j" sameAs="#paper"/>
+                        <imprint>
+                            <date sameAs="#issue_date"/>                  
+                        </imprint>              
+                    </monogr>                   
+                </biblStruct>                        
+            </sourceDesc>       
+        </fileDesc>
+        <encodingDesc> 
+            <p>This electronic text is a semi-diplomatic transcription of the source text. Hyphenation, punctuation, variant spellings, and errors present in the source text have been retained. The transcription does not attempt to capture all aspects of the original formatting or layout.</p>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <persName xml:id="logic">Unknown</persName>
+                <persName xml:id="rh">Hamilton, Robert</persName>
+                <persName xml:id="th">Hamilton, Thomas</persName>
+                <date when="1863">1863</date>
+            </creation>
+            <langUsage>
+                <language ident="en-US">modern American English</language>
+            </langUsage>
+            <textClass>
+                <classCode scheme="http://authorities.loc.gov">
+                    <term xml:id="sh2009113992">African American soldiers--History--19th century</term>
+                    <term xml:id="sh2009114063">African Americans--Washington (D.C.)</term>
+                    <term xml:id="sh2009114001">African American women--History</term>
+                    <term xml:id="n96034498">Bowser, David Bustill, 1820-1900</term>
+                    <term xml:id="n96039162">Cook, John Francis, 1810-1855</term>
+                    <term xml:id="n81141734">Fifteenth Street Presbyterian Church (Washington, D.C.)</term>
+                    <term xml:id="n85055360">Keckley, Elizabeth, approximately 1818-1907</term>
+                    <term xml:id="n93053256">United States. Colored Troops</term>
+                    <term xml:id="sh2007100004">United States--History--Civil War, 1861-1865--Participation, African American</term>
+                    <term xml:id="sh85140274">United States--History--Civil War, 1861-1865--Societies, etc</term>
+                </classCode>
+                <classCode scheme="http://civilwardc.org">
+                    <term>Colombian Harmony Cemetery Association</term>
+                    <term>Datcher, Francis</term>
+                    <term>Leach, Robert Boyd</term>
+                </classCode>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when="2015-03-24" who="#el">checked transcription and encoding and made necessary changes; updated TEI header, including keywords</change>
+            <change when="2015-03-03" who="#ak">added keywords</change>
+            <change when="2014-02-22" who="#ak">checked, corrected, updated xml:id</change>
+            <change when="2014-11-05" who="#ak">checked transcription and encoding</change>
+            <change when="2014-04-14" who="#el">checked encoding; revised TEI header</change>
+            <change when="2014-04-16" who="#kk">transcribed, encoded</change>
+        </revisionDesc>
+    </teiHeader>
+    
+    <facsimile corresp="#issue">
+        <surface xml:id="pp1">
+            <graphic url="aa.18630815.pp1.jpg"/>
+            <zone xml:id="pp1_cropped" corresp="#letter">
+                <graphic url="aa.18630815.pp1_cropped.jpg"/>
+            </zone>
+        </surface>
+        <surface xml:id="pp2">
+            <graphic url="aa.18630815.pp2.jpg"/>
+        </surface>
+        <surface xml:id="pp3">
+            <graphic url="aa.18630815.pp3.jpg"/>
+        </surface>
+        <surface xml:id="pp4">
+            <graphic url="aa.18630815.pp4.jpg"/>
+        </surface>
+    </facsimile>
+    
+    <text corresp="#letter #pp1_cropped">
+        <body>
+            
+            <head type="main" subtype="authorial" rend="center"><emph rend="italic">LETTER FROM WASHINGTON.</emph></head>
+            <milestone unit="undeclared" rend="medium-bar"/>
+            
+            <opener>
+                <dateline rend="right"><emph rend="smallcaps">Washington</emph>, Aug. 9th, 1863.</dateline>
+                <salute><emph rend="smallcaps">Mr. Editor</emph>:</salute> 
+            </opener>
+            
+            <p>The draft in the District is <lb/>nearly completed, and whilst it has created a <lb/>great deal of excitement, it has not been void <lb/>of many amusing incidents, particularly in the <lb/>First Ward, which is generally called the <lb/>Court-end, or Upper-tendom, much to the <choice><orig>de-<lb/>light</orig><reg>delight</reg></choice> of the low and vicious. The draft has <lb/>fallen on many of our useful young men <choice><orig>en-<lb/>gaged</orig><reg>engaged</reg></choice> in pursuits of civil life. There are <lb/>many young men about Washington engaged <lb/>in doing nothing, who could be better spared, <lb/>and not missed from this community, than <lb/>those young men who have been drafted and <lb/>are so useful in society.</p>
+            
+            <p>This draft is singular in its operations; it <lb/>seems to baffle the understanding of many. <lb/>But one thing is certain: the drafted men <lb/>seem to learn very quick how to look for a <choice><orig>sub-<lb/>stitute</orig><reg>substitute</reg></choice>. They learn that sooner than anything <lb/>else. But substitutes seem to be scarce, and <lb/>some of the drafted, or lucky, ones are at their <lb/>wits' ends to find a substitute, but it is just <lb/>as I predicted. I have urged them to enlist, <lb/>and not wait for the draft. They have put me <lb/>off by asking the silly question, "What are we <lb/>going to fight for?"  Now they are drafted, <lb/>that question they have lost sight of.</p>
+            
+            <p>Aside from drafting, Washington is dull. I <lb/>stroll about to gather up something for your <lb/>most excellent paper, and the other evening I <lb/>dropped in at the 15th Street Presbyterian <lb/>church, where a meeting of the Contraband <lb/>Relief Association was being held. There I <lb/>had the extreme pleasure of seeing the flag <lb/><choice><sic>gotton</sic><corr>gotten</corr></choice> up by this Association for the First <lb/>Colored District regiment. It is a beautiful <lb/>one, and seems to get the admiration of <choice><orig>every-<lb/>body</orig><reg>everybody</reg></choice> that has seen it. The design is most <choice><orig>ex-<lb/>cellent</orig><reg>excellent</reg></choice>, and the artist, Mr. Bowser, of <choice><orig>Philadel-<lb/>phia</orig><reg>Philadelphia</reg></choice>, has a multitude of plaudits bestowed <lb/>upon him for his great artistic powers. I <choice><orig>hap-<lb/>pened</orig><reg>happened</reg></choice> in the meeting just as the President <lb/>(Mrs. Keckley) called the house to order. The <lb/>house was crowded. Here let me say that the <lb/>President presided with dignity, modesty and <lb/>firmness. The whole Society seemed to be <lb/>present, and she managed them with ease and <lb/>comfort, and all seemed to reverence her <choice><orig>posi-<lb/>tion</orig><reg>position</reg></choice>. In a word, she is a noble woman.</p>
+            
+            <p>Speaking of societies, I cannot let this <choice><orig>occa-<lb/>sion</orig><reg>occasion</reg></choice> pass without noticing the Colombian <choice><orig>Har-<lb/>mony</orig><reg>Harmony</reg></choice> Cemetery Association. Of all societies <lb/>that I have had the pleasure of visiting, this <lb/>is the most dignified. Were you present at <lb/>one of their sessions, you would think you <lb/>were in the midst of grave senators. The <choice><orig>As-<lb/>sociation</orig><reg>Association</reg></choice> has a cemetery about two and a half <lb/>miles from the city. A visit out there last <lb/>week perfectly convinced me that it was <emph rend="italic">the <lb/>cemetery</emph>; in fact there is no burial-ground of <lb/>any note (of color) in the vicinity of <choice><orig>Washing-<lb/>ton</orig><reg>Washington</reg></choice> except this. It is beautiful beyond <choice><orig>de-<lb/>scription</orig><reg>description</reg></choice>. Adorned with cedars that would <lb/>compare with the cedars of Lebanon that we <lb/>read of in the Scriptures, it contains about <lb/>seventeen acres of land, all enclosed with a <lb/>good fence, sexton's house, etc. The <choice><orig>Associa-<lb/>tion</orig><reg>Association</reg></choice> contemplates building a chapel, which, <lb/>when done, will add much to the appearance <lb/>of the ground. This is the place where rest <lb/>the remains of the late Dr. Robert Boyd Leach <lb/>of Cleveland, Ohio, who died in Philadelphia <lb/>on the 29th of July. The death of this good <lb/>man will be keenly felt by all who knew him. <lb/>In looking at the different tombstones, I came <lb/>across one towering over the remains of the <lb/>lamented Rev. John F. Cook, who was a <choice><orig>mem-<lb/>ber</orig><reg>member</reg></choice> of this Association; also, of the late <choice><orig>An-<lb/>drew</orig><reg>Andrew</reg></choice> Foote, Francis Datcher, and many old <lb/>citizens whom I remember well in their palmiest <lb/>days; but they are all gone to that rest <choice><orig>pre-<lb/>pared</orig><reg>prepared</reg></choice> for the people of God.</p>  
+            
+            <closer>
+                <signed><emph rend="smallcaps">Bob Logic</emph>.</signed>
+            </closer>
+            
+        </body>
+    </text>
+</TEI>

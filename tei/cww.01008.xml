@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="cww.01008">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>                
+                <title level="m" type="main">Petition of Harriet F. Belt, 16 August 1862</title>
+                <title level="m" type="main">Evidence Relating to the Petition of Harriet F. Belt, 16 August 1862</title>
+                <title level="m" type="sub">a machine readable transcription</title>
+                <principal>Susan C. Lawrence</principal>
+                <principal>Kenneth M. Price</principal>
+                <principal>Kenneth J. Winkle</principal>
+                <respStmt>
+                    <resp>transcription and encoding</resp>
+<name xml:id="kjw">Kenneth J. Winkle</name>
+                    <name xml:id="jc">Janel Cayer</name>
+                    <name xml:id="km">Kevin McMullen</name>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2012</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <idno>cww.01008</idno>
+                <distributor>Civil War Washington</distributor>
+                <publisher>University of Nebraska–Lincoln</publisher>
+                <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>P.O. Box 884100</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+            </address>
+                <date>2012</date>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+                        <p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License (http://creativecommons.org/licenses/by-nc-sa/3.0/). Derivatives must be credited to Civil War Washington, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl xml:id="rg21">
+                    <title>Petition of Harriet F. Belt, 16 August 1862</title>                   
+                    <date when="1862-08-16">August 16, 1862</date>
+                    <idno>Microcopy 433, Reel 3</idno>                
+                    <orgName>National Archives and Records Administration</orgName>
+                    <relatedItem type="original">
+                        <bibl>
+                            <title>Petition of Harriet F. Belt, 16 August 1862</title>                            
+                            <date when="1862-08-16">August 16, 1862</date>
+                            <idno type="rg">Record Group 21</idno>
+                            <orgName>Records of the District Courts of the United States, 1685&#8211;2004, National Archives and Records Administration</orgName>
+                            <orgName>Emancipation Records, compiled 1862&#8211;1863</orgName>
+                            <note type="project">Within the National Archives' Archival Description Catalog, see ARC Identifier 4314547 / MLR Number NC-2 33 (http://arcweb.archives.gov).</note>
+                        </bibl>
+                    </relatedItem>
+                    <note type="project">Our transcription is based on a digital image of a microfilm copy of the original.</note>
+                </bibl>
+                
+                <bibl xml:id="rg217">
+                    <title>Evidence Relating to the Petition of Harriet F. Belt, 16 August 1862</title>                    
+                    <date when="1862-08-16">August 16, 1862</date>
+                    <idno>Microcopy 520, Reel 6</idno>
+                    <orgName>National Archives and Records Administration</orgName>
+                    <relatedItem type="original">
+                        <bibl>
+                            <title>Evidence Relating to the Petition of Harriet F. Belt, 16 August 1862</title>            
+                            <date when="1862-08-16">August 16, 1862</date>
+                            <idno type="rg">Record Group 217.6.5</idno>
+                            <orgName>Records of the Accounting Officers of the Department of the Treasury, 1775&#8211;1978, National Archives and Records Administration</orgName>
+                            <note type="project">Within the National Archives' Archival Description Catalog, see ARC Identifier 4644616 / MLR Number A1 347 (http://arcweb.archives.gov).</note>
+                        </bibl>
+                    </relatedItem>
+                    <note type="project">Our transcription is based on a digital image of a microfilm copy of the original.</note>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <particDesc>
+                <person role="owner">
+                    <persName>William J. Bailey</persName>
+                </person>
+                <person role="petitioner-slave">
+                    <persName>Harriet F. Belt</persName>
+                </person>
+            </particDesc>
+        </profileDesc>
+        <revisionDesc>
+<change when="2013-03-21" who="#jc">blessed</change>
+<change when="2013-03-19" who="#kjw">blessed</change>
+            <change when="2012-09-20" who="#jc">checked</change>
+            <change when="2012-07-20" who="#km">transcribed, encoded</change>
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            <!-- Begins with the text of the petition. -->
+            <pb xml:id="leaf001r" facs="cww.01008.001.jpg"/>
+            
+            
+            <div1 type="petition" subtype="handwritten" corresp="#rg21">                
+                                
+                <div2 type="document">
+                    <opener>
+                        <salute><persName>John A Smith</persName> Clerk of Circuit Court <placeName>DC</placeName></salute>
+                        <salute>Sir</salute>
+                    </opener>
+                    
+                    <p><persName>William J. Bailey</persName> of the <placeName>city of Washington</placeName> having claim to the service of the undersigned &#38; having failed &#38; refused <choice><sic>to to</sic><corr>to</corr></choice> file his claim therefor in this office provided for in the 9th <choice><abbr>Sec</abbr><expan>Section</expan></choice> of the Act of Congress entitled An act for the release of certain persons held to service or labor in the <placeName>District of Columbia</placeName> Approved <date when="1862-04-16">16th April 1862</date> you will please file the <unclear reason="illegible" cert="low" resp="#km">and said</unclear> schedule in pursuance of an act supplemental to the above recited act approved <date when="1862-07-12">12 July 1862</date> The undersigned resided in the <placeName>city of Washington</placeName> before &#38; at the time of the passage of said act</p>
+                    <table>
+                        <row>
+                            <cell>Name</cell>
+                            <cell>Sex</cell>
+                            <cell>Age</cell>
+                            <cell>Description</cell>
+                        </row>
+                        <row>
+                            <cell><persName>Harriet F Beltt</persName></cell>
+                            <cell>Female</cell>
+                            <cell>24</cell>
+                            <cell><choice><sic>Mullato</sic><corr>Mulatto</corr></choice></cell>
+                        </row>
+                    </table>
+                    
+                    <closer>
+                        <signed>her X mark Harriet Beltt</signed><lb/>
+                        <signed>Witness<lb/> <persName><unclear reason="illegible" cert="medium" resp="#km">L N Wright</unclear></persName></signed>
+                    </closer>
+                </div2>
+                
+                <pb xml:id="leaf001v" facs="cww.01008.002.jpg"/>
+                
+                <div2 type="cover" subtype="handwritten">
+                    <div3 type="section">
+                        <ab>paid</ab>
+                        <ab><persName>Harriet Belt</persName></ab>
+                        <ab>Schedule</ab>
+                        <ab>Amended Act</ab>
+                        <ab><choice><abbr>cert</abbr><expan>certificate</expan></choice> given <choice><abbr>Idfd</abbr><expan>Identified</expan></choice> by CB Bayly</ab>
+                        
+                        <ab>Filed <date when="1862-08-16">August 16th 1862</date></ab>
+                        <ab>Recorded in Manumission Record No. 2 folio 59</ab>
+                    </div3>
+                                        
+                    <div3 type="section">
+                        <p>The Commissioners satisfied on the testimony of <persName>Chas. B. Bailey</persName>, <persName>H. <unclear reason="illegible" cert="medium" resp="#km">Lasielle</unclear></persName> &#38; <persName>Patrick Selby</persName> (&#38; by consent of owner through A. <unclear reason="illegible" cert="low" resp="#km">Carver</unclear>, counsel) of the truth of the within statement order the same to be so reported to the Clerk of the Circuit Court of the <placeName>District of Columbia</placeName></p>
+                        <closer>
+                            <dateline><date when="1862-08-16">Aug. 16, 1862</date>.</dateline>                        
+                            <signed>Clerk to Commissioners</signed>
+                        </closer>                        
+                    </div3>                    
+                </div2>
+            </div1>
+            
+            <!-- Evidence pertaining to the case begins here. -->
+            
+            <pb xml:id="leaf002r" facs="cww.01008.003.jpg"/>
+            <div1 type="evidence" corresp="#rg217" subtype="handwritten">
+                
+                <dateline><date when="1862-08-15">Aug 15</date>.</dateline>
+            
+                <div2 type="procedural">
+                    <ab><persName>Harriet F. Belt</persName></ab>
+                    <ab>servant of <persName>William F. Bayly</persName></ab>
+                </div2>
+            
+            <div2 type="testimony">                
+                <ab><persName>Charles B. Bayley</persName>&#8212;I know that servant was Mr <persName>William F. Bayly</persName> up to <date when="1861-10">Octr 1861</date>, when she ran off&#8212;we do not know that she was here in <date when="1861-04">April 1861</date>. He did not sell. She ran away one night. did not advertise her&#8212;I never saw her from the time she ran away in <date when="1861-10">Oct</date> until a day or two ago&#8212;we had every reason to believe she was out of the <placeName>District</placeName></ab>
+            </div2>
+            
+            <div2 type="procedural">
+                <ab>Further witnesses required</ab>
+            </div2>
+                
+            <!-- strange configuration to these documents; testimony runs onto the cover -->    
+            <div2 type="cover">
+                <ab><persName>Harriet F. Belt</persName></ab>
+                <ab><date when="1862-08-16">August 16</date></ab>                
+            </div2>
+            
+                        
+            <pb xml:id="leaf003r" facs="cww.01008.004.jpg"/>              
+                
+                <div2 type="testimony">
+                    <dateline><date when="1862-08-16">Aug 16</date>.</dateline>
+                    <ab><persName>H. <unclear reason="illegible" cert="medium" resp="#km">Lasielle</unclear></persName>. Have known woman since <date when="1862-05-03">3 May</date> last never saw her before she was in <placeName>District</placeName> &#38; this city&#8212;have seen her frequently since lived at my house. Never knew she was a slave until a few days since&#8212; do not know where she was on <date when="1862-04-16">16 Apl</date>&#8212;</ab>
+                </div2>
+                
+                <div2 type="testimony">
+                    <ab><persName>Patrick Selvey</persName> (<choice><abbr>Col</abbr><expan>Colored</expan></choice>)</ab>
+                    <ab>have known <persName>Harriet Belt</persName> 2 or 3 years&#8212;she was claimed by gentleman under Willards book store (<persName>Mr Bayly</persName>) I knowed her all <date when="1862-04">last April</date> In <date when="1862-04">April</date> she was at my aunts washing for Mr <persName>Evans</persName>&#8212;soldier&#8212; <date when="1862-04">last April</date> and before&#8212;I saw her most every night during winter when I went out to my aunts&#8212;left her master last fall. she was not out of city all that time my aunt is named <persName>Anna Gilbert</persName>&#8212;living on <address><addrLine>8th <choice><abbr>bet</abbr><expan>between</expan></choice> O &#38; P st</addrLine></address> Harriet washed for soldiers and came home every night&#8212;saw her then <gap reason="illegible" extent="about one word" unit="chars" quantity="6"/> and until she came to where she is <choice><sic>allway</sic><corr>always</corr></choice> knew she was a slave</ab>
+                </div2>
+                
+                <pb xml:id="leaf004r" facs="cww.01008.005.jpg"/>
+                <div2 type="letter">
+                    <opener><placeName>Buffalo Mills P. 6.<lb/>
+                        Bedford Co. Pa </placeName>
+                        <date when="1862-09-17">Sept. 17 "62</date>
+                        
+                    <salute>My <unclear reason="illegible" cert="medium" resp="#km"><choice><abbr>Dr.</abbr><expan>Dear</expan></choice></unclear> Sir,</salute>
+                    </opener>
+                    
+                    <p>I am medicating here for the benefit of my health &#38; am somewhat improved but very feeble &#38; sick yet&#8212;I am sorry to trouble you with my affairs at this time, for I know you are in trouble &#38; I sincerely condole with you in your loss, but I cannot avoid it as I learn that by the 20th the Emancipation act &#38; <choice><abbr>payt.</abbr><expan>payment</expan></choice> for Negroes will then be closed&#8212;I will be brief in the statement of my case&#8212;on the <date when="1860-10-01">1st of Oct. 1860</date> I bought of <persName>J. Riordan</persName> opposite Riggs &#38; <choice><abbr>Co</abbr><expan>Company</expan></choice> on <address><addrLine>15th St.</addrLine></address> a fine young mulatto woman &#38; <choice><abbr>pd.</abbr><expan>paid</expan></choice> him 1,000$ cash for her&#8212;I found her to be one of the best servants I ever had in my house, she was faithful, honest, and did her work to our greatest satisfaction &#38; my wife during all the time she was with us did not have one unpleasant word ever with her&#8212;she was a Catholic &#38; attended her church regularly also&#8212;and it was only when the soldiers were encamped
+                        
+                   <pb xml:id="leaf004v" facs="cww.01008.006.jpg"/>
+                        
+                        opposite my house on <placeName>Franklin Square</placeName> that I began to doubt her, she got in the family way and on <date when="1861-09-29">29th Sept</date> just one <choice><abbr>yr.</abbr><expan>year</expan></choice> from the time I bought her she ran off &#38; carried Every thing belonging to her. I thought at the time she went Either to <placeName>New York</placeName> or <placeName>Ohio</placeName>&#8212;I spoke to all the best officers &#38; offered 100$ reward for her but heard nothing of her until she came to my son the other day in <placeName>Washington</placeName> and demanded her certificate&#8212;I could not apply to the <unclear reason="illegible" cert="high" resp="#km">commissioners</unclear> for I could not swear that she was in <placeName>Washington</placeName> at the time the act was passed, <gap reason="illegible" extent="one word" unit="chars" quantity="3"/> do I believe it now, so you see I was <gap reason="illegible" extent="one word" unit="chars" quantity="5"/> out of all <unclear reason="illegible" cert="high" resp="#jc">renumeration</unclear>&#8212;I have left the matter in the hands of my son for being absent &#38; so <unclear reason="illegible" cert="medium" resp="#jc">unwell</unclear> I am entirely unfitted to attend to it myself&#8212;I thought I might trouble you by laying a plain statement of the case before you with the request that you would do all in your power to
+                    
+                    <pb xml:id="leaf005r" facs="cww.01008.007.jpg"/>
+                    protect my interests in the matter, and get such <gap reason="illegible" extent="partial word" unit="chars" quantity="8"/>tion as would suffice for the loss I have met with.</p>
+                    <p>Regretting that <gap reason="torn away" extent="one word" unit="chars" quantity="10"/> <unclear reason="illegible" cert="low" resp="#jc">compelled</unclear> to tr<gap reason="torn away" extent="partial word" unit="chars" quantity="12"/> I am</p>                    
+                    <closer>
+                        <salute>very truly yours,</salute>
+                        <signed>Wm. F. Bayly</signed>
+                    </closer>
+                </div2>                
+            </div1>            
+        </body>
+    </text>
+</TEI>
+                
+                
+                
+                
+                
+

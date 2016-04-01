@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e41147">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">York, Ephraim</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+    <idno>med.d1e41147</idno>
+       <authority>Civil War Washington</authority>
+       <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor>
+       <name>Center for Digital Research in the Humanities</name>
+       <address><addrLine>319 Love Library</addrLine>
+       <addrLine>University of Nebraska–Lincoln</addrLine>
+       <addrLine>Lincoln, NE 68588-4100</addrLine>
+       <addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+    </distributor>
+    <date>2011</date>
+    <availability>
+        <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+         republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+         law, requires express written consent from the editors and advance notification of the
+         publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+     <persName xml:id="mb">Matthew Bosley</persName>
+     <persName xml:id="el">Elizabeth Lorang</persName>
+     <persName xml:id="sb">Stacey Berry</persName>
+     <persName xml:id="ao">Alyssa Olson</persName>
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl>
+     <title level="j">The Medical and Surgical History of the War of the Rebellion. (1861-65.)</title>
+     <pubPlace>Washington, DC</pubPlace>
+     <publisher>Government Printing Office</publisher>
+     <biblScope type="part">Part 2</biblScope>
+     <biblScope type="volume">Volume 1</biblScope>
+     <date when="1879">1879</date>
+     <biblScope type="page">175</biblScope>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+       <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+      <keywords scheme="#medsurg">
+       <term>diarrh&#339;a and dysentery</term>
+       <term>fatal cases of diarrh&#339;a and dysentery, with accounts of the morbid appearances observed</term>
+       <term>from Lincoln Hospital, Washington, D. C.</term>
+       <term>acute diarrh&#339;a</term>
+       <term>pharynx in state of chronic inflammation, small abscesses about size of peas beneath mucous membrane</term>
+       <term>epiglottis thickened and injected </term>
+       <term>base of epiglottis presented several ulcers, which were filled with tenacious pus-like exudation</term>       
+       <term>both lungs filled with sanguineous fluid, which poured forth on section but also crepitated on pressure</term>
+       <term>intestines healthy except lower large intestine congested</term>
+       <term>autopsy performed</term>       
+     </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change who="#mb" when="2012-11-15">additional proofing of transcription and encoding, identified keyword terms</change>
+   <change who="#el" when="2010-11-05">case text extracted and transformed from larger file</change>
+   <change who="#sb" when="2010-05-01">enrich encoding, proof and edit</change>
+   <change who="#ao" when="2008-10-02">encoding and editing</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body> 
+   <p>Case from the case-book of <name type="hospital" key="176"><hi rend="initialcap">L</hi>INCOLN <hi rend="initialcap">H</hi>OSPITAL</name>, Washington, D. C.; <name type="person" key="242">Assistant Surgeon Roberts Bartholow</name>, <name type="organization" key="190">U. S. A.</name>, in charge from August 21st to December, 1863.</p>
+   <p><hi rend="initialcap">C</hi>ASE 386.&#8212;<name type="person" key="xxx">Private Ephraim York</name>, <name type="organization" key="xxx">company C, 19th Maine volunteers</name>; admitted <date type="admit" when="1863-11-23">November 23, 1863</date>.  Acute diarrh&#339;a.  Died, <date type="death" when="1863-12-04">December 4th</date>.  <hi rend="italic">Autopsy</hi> <date type="autopsy" when="1863-12-05">next day</date>: Rigor mortis marked; body considerably emaciated; surface slightly jaundiced. The brain was healthy; it weighed fifty-three ounces; the lateral ventricles contained a drachm of fluid. The pharynx was in a state of chronic inflammation; the walls were much thickened, the constrictor muscles very pale, the mucous membrane of a dim yellowish-gray color; beneath it were numerous small abscesses about the size of peas. The epiglottis was thickened and slightly injected on its free anterior border. The mucous membrane of the larynx had the same color as that of the pharynx, except over the cricoid cartilage, where it was of a stone-blue color. The left side of the rima glottidis was tumid and coated by a whitish-yellow exudation, beneath which was an ulcer with ragged irregular edges; the base of the epiglottis on the same side also presented several ulcers, which had everted edges and were filled with a tenacious pus-like exudation; on the right side of the base of the epiglottis there was a small ulcer about the size of a buckshot; the superior borders of the chord&#230; vocales were also ulcerated, more extensively on the right than on the left side; these ulcers were comparatively superficial, and were coated by a whitish deposit of lymph. The mucous membrane of the trachea was yellowish-gray down to its bifurcation, where it was of an intense red. The right lung weighed twenty-seven ounces; it was very much congested, and filled with a sanguineous fluid, which poured forth on section, but crepitated on pressure everywhere; the left lung was in the same condition as the right, and weighed twenty-eight ounces. The pericardium contained an ounce and a quarter of yellow serum. The heart weighed eleven ounces; its right side contained a large, firm, fibrinous clot, with but little venous admixture; a smaller clot was found on the opposite side. The liver was firm, rather pale, and weighed forty-five ounces; the gall-bladder contained four drachms of bile. The pancreas was purplish and unusually thick. The spleen weighed twelve ounces. The right kidney weighed six ounces, the left seven ounces; both kidneys were of a dark-purple color, the pyramids being a shade or two darker than the cortical portion. The intestines were healthy, except that the lower part of the large intestine was congested.&#8212;<name type="person" key="245">Assistant Surgeon Harrison Allen</name>, <name type="organization" key="190">U. S. A.</name>&#8432;</p>
+   <p>&#8432; September 14, 1864, <name type="person" key="245">Dr. Allen</name> presented to the Pathological Society of Philadelphia a brief &#34;<hi rend="italic">Synopsis of Autopsies made at <name type="hospital" key="176">Lincoln General Hospital</name></hi>,&#34; to which the reader is referred.&#8212;(Proceedings of the Pathological Society of Philadelphia, in the American Journal of the Medical Sciences, January, 1865, page 133.)  In this paper he analyzes the appearances observed in forty-one cases of diarrh&#339;a and dysentery, thirty-five of fever, twenty-one of pneumonia, and five of diphtheria. The notes of <name type="person" key="245">Dr. Allen</name>'s autopsies, from which the accounts here presented have been condensed, were not contained in the case-books of <name type="hospital" key="176">Lincoln hospital</name> turned in to the <name type="organization" key="xxx">Surgeon General's Office</name> at the close of the war, but have since been copied into them from the originals, loaned for the purpose.</p>
+  </body>
+ </text>
+</TEI>

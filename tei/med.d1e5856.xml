@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e5856">
+        <teiHeader>
+                <fileDesc>
+                        <titleStmt>
+                                <title level="m" type="main">Whitlock, Dudley</title>
+                                <title level="m" type="sub">a machine readable transcription</title>
+                                <principal>Susan C. Lawrence</principal>
+                                <principal>Kenneth M. Price</principal>
+                                <principal>Kenneth J. Winkle</principal>
+                        </titleStmt>
+                        <editionStmt>
+                                <edition>
+                                        <date>2011</date>
+                                </edition>
+                        </editionStmt>
+                        <publicationStmt>
+                                <idno>med.d1e5856</idno>
+                                <authority>Civil War Washington</authority>
+                                <publisher>University of Nebraska–Lincoln</publisher>
+                                <distributor>
+                                        <name>Center for Digital Research in the Humanities</name>
+                                        <address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+                                </distributor>
+                                <date>2011</date>
+                                <availability>
+                                        <p>Copyright © 2011 by University of Nebraska–Lincoln, all
+                                                rights reserved. Redistribution or republication in
+                                                any medium, except as allowed under the Fair Use
+                                                provisions of U.S. copyright law, requires express
+                                                written consent from the editors and advance
+                                                notification of the publisher, the University of
+                                                Nebraska–Lincoln.</p>
+                                </availability>
+                        </publicationStmt>
+                        <notesStmt>
+                                <note type="project">The following are responsible for particular
+                                        readings or for changes to this file, as noted: 
+                                        <persName xml:id="mb">Matthew Bosley</persName>
+                                        <persName xml:id="el">Elizabeth Lorang</persName>
+                                        <persName xml:id="sb">Stacey Berry</persName>
+                                        <persName xml:id="et">Elisabeth Tracey</persName>
+                                </note>
+                        </notesStmt>
+                        <sourceDesc>
+                                <bibl>
+                                        <title level="j">The Medical and Surgical History of the War
+                                                of the Rebellion</title>
+                                        <pubPlace>Washington, DC</pubPlace>
+                                        <publisher>Government Printing Office</publisher>
+                                        <biblScope type="part">Part 3</biblScope>
+                                        <biblScope type="volume">Volume 1</biblScope>
+                                        <date when="1888">1888</date>
+                                        <biblScope type="page">339</biblScope>
+                                </bibl>
+                        </sourceDesc>
+                </fileDesc>
+                <encodingDesc>
+                        <classDecl>
+                                <taxonomy xml:id="medsurg">
+                                        <bibl>Medical and Surgical History of the War of the
+                                                Rebellion</bibl>
+                                </taxonomy>
+                        </classDecl>
+                </encodingDesc>
+                <profileDesc>
+                        <textClass>
+                                <keywords scheme="#medsurg">
+                                        <term>post-mortem records</term>
+                                        <term>continued fevers</term>
+                                        <term>typhoid fever</term>
+                                        <term>Peyer's patches ulcerated, large intestine also implicated</term>
+                                        <term>semi-purulent discharge from ears</term>
+                                </keywords>
+                        </textClass>
+                </profileDesc>
+                <revisionDesc>
+                        <change who="#mb" when="2011-10-07">additional proofing of transcription and encoding</change>
+                        <change who="#mb" when="2011-06-14">additional proofing of transcription and encoding</change>
+                        <change who="#el" when="2011-05-11">case text extracted and transformed from
+                                larger file</change>
+                        <change who="#sb" when="2011-02-23">Encoding and Proofing</change>
+                        <change who="#et" when="2009-12-01">Initial Checking OCR Text to PDF file,
+                        </change>
+                </revisionDesc>
+        </teiHeader>
+        <text>
+                <body xml:id="ch4.sc4.1.00023">
+                        
+                                <p><hi rend="initialcap">C</hi>ASE 23.&#8212;<name type="person"
+                                                key="606">Private Dudley Whitlock</name>, <name
+                                                type="organization" key="169">Co. E, 5th Mich.
+                                                Cav.</name>; age 17; was admitted <date type="admit"
+                                                when="1863-03-25">March 25, 1863</date>. On April 1
+                                        his condition was noted as follows: Weak; tongue dry and
+                                        coated; pulse 144, compressible; respiration 66, difficult;
+                                        bowels regular; skin hot and dry; bed-sores on back and
+                                        hips; urine passed involuntarily; <choice><orig>dulness</orig><reg>dullness</reg></choice> on percussion over
+                                        each lung, most marked posteriorly; greatly increased vocal
+                                        resonance; bronchial respiration; irritable cough. 3d: Pulse
+                                        130; respiration 11O; sputa somewhat tenacious. 6th:
+                                        Stronger; profuse semi-purulent discharge from each ear.
+                                        7th: Diarrh&#339;a, seven stools; pulse 110; respiration
+                                        41; tongue moist. 10th: Diarrh&#339;a continues; he
+                                        refuses medicine. Body sponged with whiskey; medicine given
+                                        by enema. <date type="death" when="1863-04-14">14th</date>:
+                                        Pulse 158; respiration 21; weak; death. <hi rend="italic">Post-mortem</hi> examination twenty hours after
+                                        death: Rigor mortis; emaciation, brain normal. Trachea and
+                                        bronchi filled with white viscid sputa; mucous membrane dark
+                                        purplish; bronchial glands firm, of a dull liver color
+                                        mottled blackish in centre. Lungs solidified and dark purple
+                                        posteriorly, reddish anteriorly; minute whitish points in
+                                        central portions; pleuritic effusion on left side. Heart
+                                        contained small white clots on both sides. Liver mottled
+                                        purple and pale yellow, interlobular areas yellowish;
+                                        twenty-six drachms of dark bile in gall-bladder. Spleen
+                                        firm, dark mulberry color. &#338;sophagus pale; mucous
+                                        membrane of stomach mottled a delicate pink color; deposit
+                                        of black pigment on pylorus. Small intestine in upper part
+                                        pale yellowish; duodenum filled with thick stringy mucus;
+                                        Peyer's patches normal to within eighteen inches of
+                                        ileo-c&#230;cal valve, where they were thickened,
+                                        elevated, congested and in many places indurated and
+                                        ulcerated, the ulcers having well-defined edges and in some
+                                        instances reddish bases; solitary follicles the size of
+                                        small shot. Mucous membrane of large intestine pale,
+                                        rug&#230; dark red; solitary glands prominent, dotted
+                                        with pigment in centre; lower portion of intestine
+                                        presenting many minute superficial ulcers unconnected with
+                                        solitary glands. Kidneys pale; suprarenal capsules
+                                                mottled.&#8212;<hi rend="italic"><name
+                                                  type="person" key="245">Ass't Surg. Harrison
+                                                  Allen</name>, <name type="organization" key="190">U. S. A.</name>, <name type="hospital" key="176">Lincoln Hospital</name>, Washington D. C.</hi>
+                                </p>
+                        
+                </body>
+        </text>
+</TEI>

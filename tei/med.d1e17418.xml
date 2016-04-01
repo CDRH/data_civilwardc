@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e17418">
+                <teiHeader>
+                                <fileDesc>
+                                                <titleStmt>
+                                                                <title level="m" type="main">Cole, John T.</title>
+                                                  <title level="m" type="sub">a machine readable
+                                                  transcription</title>
+                                                  <principal>Susan C. Lawrence</principal>
+                                                  <principal>Kenneth M. Price</principal>
+                                                  <principal>Kenneth J. Winkle</principal>
+                                                </titleStmt>
+                                                <editionStmt>
+                                                  <edition><date>2011</date></edition>
+                                                </editionStmt>
+                                                <publicationStmt>
+                                                  <idno>med.d1e17418</idno>
+                                                  <authority>Civil War Washington</authority>
+                                                  <publisher>University of
+                                                  Nebraska–Lincoln</publisher>
+                                                  <distributor><name>Center for Digital Research in
+                                                  the
+                                                  Humanities</name><address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address></distributor>
+                                                  <date>2011</date>
+                                                  <availability>
+                                                  <p>Copyright © 2011 by University of
+                                                  Nebraska–Lincoln, all rights reserved.
+                                                  Redistribution or republication in any medium,
+                                                  except as allowed under the Fair Use provisions of
+                                                  U.S. copyright law, requires express written
+                                                  consent from the editors and advance notification
+                                                  of the publisher, the University of
+                                                  Nebraska–Lincoln.</p>
+                                                  </availability>
+                                                </publicationStmt>
+                                                <notesStmt>
+                                                  <note type="project">The following are responsible
+                                                  for particular readings or for changes to this
+                                                  file, as noted:                                                                   
+                                                                  <persName xml:id="mb">Matthew Bosley</persName>
+                                                                  <persName xml:id="el">Elizabeth Lorang</persName>
+                                                  <persName xml:id="sb">Stacey Berry</persName>
+                                                  <persName xml:id="et">Elisabeth Tracey</persName>
+                                                  </note>
+                                                </notesStmt>
+                                                <sourceDesc>
+                                                  <bibl><title>The Medical and Surgical History of
+                                                  the War of the Rebellion.
+                                                  (1861&#8211;65.)</title><editor role="compiler"
+                                                  >Surgeon General Joseph K. Barnes, United States
+                                                  Army</editor><pubPlace>Washington,
+                                                  D.C.</pubPlace><publisher>Government Printing
+                                                  Office</publisher><biblScope type="part">Part
+                                                  1</biblScope>
+                                                  <biblScope type="volume">Volume 2</biblScope><date
+                                                  when="1870">1870</date><biblScope type="page"
+                                                  >327</biblScope></bibl>
+                                                </sourceDesc>
+                                </fileDesc>
+                                <encodingDesc>
+                                                <classDecl>
+                                                  <taxonomy xml:id="medsurg">
+                                                  <bibl>Medical and Surgical History of the War of
+                                                  the Rebellion</bibl>
+                                                  </taxonomy>
+                                                </classDecl>
+                                </encodingDesc>
+                                <profileDesc>
+                                                <textClass>
+                                                  <keywords scheme="#medsurg">
+                                                                  <term>wounds and injuries of the face</term>
+                                                                  <term>gunshot wounds of the face</term>
+                                                                  <term>gunshot wounds of the orbital region</term>   
+                                                    <term>gunshot wounds of the eye</term>
+                                                                  <term>disability pension</term>                                                                 
+                                                  </keywords>
+                                                </textClass>
+                                </profileDesc>
+                                <revisionDesc>
+                                  <change who="#mb" when="2011-09-13">additional proofing of transcription and encoding</change>                                                
+                                                <change who="#el" when="2011-11-05">case text
+                                                  extracted and transformed from larger
+                                                  file</change>
+                                                <change who="#sb" when="2011-02-09">enriched
+                                                  encoding</change>
+                                                <change who="#sb" when="2011-01-28">validated
+                                                  file</change>
+                                                <change who="#et" when="2009-08-01">encoded</change>
+                                                <change who="#sb" when="2008-09-22">initial checking
+                                                  of OCR text against PDF; encoded </change>
+                                </revisionDesc>
+                </teiHeader>
+                <text>
+                                <body>
+                                                
+                                                <p><hi rend="initialcap">C</hi>ASE.&#8212;<name type="person">Private John T. Cole</name>, <name type="organization">Co. A, 10th Vermont Volunteers</name>, aged 24 years, was wounded at
+                                                                <name type="BATTLE" key="254">Petersburg</name>, <date type="injury" when="1865-04-02">April 2d, 1865</date>, by a conoidal ball, which entered just above the left zygoma, passed
+                                                  through the orbit, and emerged through the outer
+                                                  and upper portion of the right orbital structure,
+                                                  destroying both eyes. He was, on <date type="admit" when="1865-04-03">the following
+                                                  day</date>, admitted to the <name type="hospital">depot field hospital at City
+                                                                  Point</name>; on <date type="transfer" when="1865-04-07">April 7th</date>, sent to the<name type="hospital" key="176">Lincoln Hospital</name>, Washington, and, on <date type="transfer" when="1865-05-26">May 26th</date>, transferred to the
+                                                                <name type="hospital">Sloan Hospital, Montpelier, Vermont</name>. At this time
+                                                  the wound of entrance had healed and the general
+                                                  health of the patient was good, but lying on the
+                                                  left side would cause headache; the sense of smell
+                                                  was entirely destroyed. Cold water dressings were
+                                                  applied; during the treatment, small pieces of
+                                                  bone were taken from the wound of entrance.
+                                                  Otherwise the case progressed well, and, on <date type="servicedischarge" when="1865-06-12">June
+                                                  12th, 1865</date>, Cole was discharged from service and
+                                                  pensioned at $25 per month</p>
+                                                
+                                </body>
+                </text>
+</TEI>

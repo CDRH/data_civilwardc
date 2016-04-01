@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d2e31321">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Poquett, M.</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+       <idno>med.d2e31321</idno>
+       <authority>Civil War Washington</authority>
+       <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor>
+       <name>Center for Digital Research in the Humanities</name>
+       <address><addrLine>319 Love Library</addrLine>
+       <addrLine>University of Nebraska–Lincoln</addrLine>
+       <addrLine>Lincoln, NE 68588-4100</addrLine>
+       <addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+    </distributor>
+    <date>2011</date>
+    <availability>
+        <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+         republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+         law, requires express written consent from the editors and advance notification of the
+         publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+ <persName xml:id="kw">Kenneth Winkle</persName> 
+     <persName xml:id="mb">Matthew Bosley</persName>
+     <persName xml:id="nb">Nate Bernth</persName>
+     <persName xml:id="kk">Kourtney Klein</persName>
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl>
+     <title level="j">The Medical and Surgical History of the War of the Rebellion. (1861-65.)</title>
+     <pubPlace>Washington, DC</pubPlace>
+     <publisher>Government Printing Office</publisher>
+     <biblScope type="part">Part 2</biblScope>
+     <biblScope type="volume">Volume 2</biblScope>
+     <date when="1876">1876</date>
+     <biblScope type="page">931</biblScope>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+       <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+      <keywords scheme="#medsurg">
+       <term>wounds and injuries of the upper extremities</term>
+       <term>wounds and operations in the forearm</term>
+       <term>shot wounds of the forearm</term> 
+       <term>shot fractures of the forearm</term>
+       <term>shot fractures of the forearm treated by expectation</term> 
+       <term>fractures of the radius treated by expectation</term>
+       <term>fatal cases of shot fracture of the radius treated by expectation</term>
+       <term>gunshot fracture of forearm</term> 
+       <term>bullet passed through arm, fractured radius, caused flesh wound over ninth rib</term>
+       <term>erysipelas</term>
+       <term>dyspn&#339;a and chest pain</term>
+       <term>acute capillary bronchitis</term>        
+     </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+ <change who="#kw" when="2014-05">blessed</change>
+   <change who="#kk" when="2014-01-17">added figure encoding</change>
+   <change who="#mb" when="2012-07-17">additional proofing of transcription and encoding, identified keyword terms</change>
+   <change who="#nb" when="2011-02-22">checked OCR; added minimal mark-up for personal names, place names, and dates</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>   
+   <p><hi rend="initialcap">C</hi>ASE 1881.&#8212;<name type="person" key="xxx">Private M. Poquett</name>, <name type="organization" key="xxx">Co. A, 33d New York</name>, aged 30 years, was wounded at <name type="BATTLE" key="10">Chancellorsville</name>, <date type="injury" when="1863-05-03">May 3, 1863</date>.  <name type="person" key="xxx">Surgeon D. E. Dickerson</name>, of <name type="organization" key="xxx">the regiment</name>, recorded the injury as &#34;Gunshot fracture of right forearm,&#34; and the man's transfer to General Hospital <date type="transfer" when="1863-05-07">May 7th</date>. On <date type="admit" when="1863-05-08">the following day</date> the patient entered <name type="hospital" key="162">Douglas Hospital</name>, Washington, whence <name type="person" key="200">Assistant Surgeon W. Thomson</name> furnished the following history: &#34;He was struck by a bullet, which passed through his right arm, fracturing the radius, and then caused a flesh wound over the ninth rib. At time of admission had diffused erysipelas extending to the shoulder, which yielded to local use of tincture of iodine, etc. There was copious discharge from the arm.  On the 19th, the erysipelas recurred, and was successfully treated by one-drop doses of bromine internally. His general condition, however, was improving, and on the 21st he suffered from dyspn&#339;a and pain in the chest. This increased rapidly, and was supposed to be due to acute capillary bronchitis. He finally died, on <date type="death" when="1863-06-22">June 22, 1863</date>.  Autopsy: There were adhesions in the right pleural cavity, with serum in both pleural cavities. The mucous membrane lining the bronchial tubes was strongly injected; both lungs seemed to be much congested, sinking in water, but with no hepatization. A fracture of the radius, surrounded by a fibrous investment and in a fair way to be united, was found, which is now forwarded.&#34;  The specimen is represented in the adjacent wood-cut (<hi rend="initialcap">F</hi>IG. 671), and shows a few necrosed splinters entangled in the callus that was thrown out.</p>
+   
+   <figure>
+    <graphic url="cww.001730.001" />
+    <head><hi rend="initialcap">F</hi>IG. 671.&#8212;Right radius fractured in middle third.     <hi rend="italic">Spec</hi>. 1341.</head>
+   </figure>
+   
+  </body>
+ </text>
+</TEI>

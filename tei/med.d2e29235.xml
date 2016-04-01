@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d2e29235">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Dearing, A. L.</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+       <idno>med.d2e29235</idno>
+       <authority>Civil War Washington</authority>
+       <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor>
+       <name>Center for Digital Research in the Humanities</name>
+       <address><addrLine>319 Love Library</addrLine>
+       <addrLine>University of Nebraska–Lincoln</addrLine>
+       <addrLine>Lincoln, NE 68588-4100</addrLine>
+       <addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+    </distributor>
+    <date>2011</date>
+    <availability>
+        <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+         republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+         law, requires express written consent from the editors and advance notification of the
+         publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+         <persName xml:id="mb">Matthew Bosley</persName>         
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl>
+        <title level="j">The Medical and Surgical History of the War of the Rebellion. (1861-65.)</title>
+        <pubPlace>Washington, DC</pubPlace>
+        <publisher>Government Printing Office</publisher>
+        <biblScope type="part">Part 3</biblScope>
+        <biblScope type="volume">Volume 2</biblScope>
+        <date when="1883">1883</date>
+        <biblScope type="page">760-761</biblScope>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+       <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+      <keywords scheme="#medsurg">
+       <term>wounds and  complications</term>
+       <term>shot wounds</term>
+       <term>primary symptoms common to gunshot wounds</term>
+       <term>pain</term> 
+       <term>gunshot wound of thigh bone</term>
+       <term>round musket ball in thigh, near hip joint</term>
+       <term>ball struck bone without injuring it, passed around to opposite side</term> 
+       <term>ball entered middle of <choice><sic>nates</sic><corr>natis</corr></choice>, part of ball removed at junction of upper and middle thirds of thigh at outer border of sartorius muscle</term>
+       <term>knee swollen and painful</term>
+       <term>considerable yet no very severe pain, severest and most continuous where ball entered and struck bone</term>         
+     </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+       <change who="#mb" when="2012-06-27">additional case copied from MSHWR, performed proofing of copy and XML encoding, and key terms identified</change>  
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>   
+   <p><hi rend="initialcap">C</hi>ASE 1104.&#8212;<name type="person" key="xxx">Captain A. L. Dearing</name>, <name type="organization" key="xxx">Co. H, 5th Maine</name>, aged 28 years, was wounded at <name type="BATTLE" key="10">Chancellorsville</name>, <date type="injury" when="1863-05-03">May 3, 1863</date>.  He was admitted into <name type="hospital" key="156">Seminary Hospital</name>, Georgetown, on <date type="transfer" when="1863-05-08">May 8th</date>. <name type="person" key="xxx">Surgeon H. W. Ducachet</name>, <name type="organization" key="132">U. S. V.</name>, reported:  &#34;Gunshot wound of left thigh bone.&#34;  The following account of the case was furnished by the patient:  &#34;I was wounded,&#34; says this officer,
+    &#34;on <date type="injury" when="1863-05-03">Sunday, May 3d</date>, by a round musket ball in my left thigh, very near the hip joint, the enemy being fifty or sixty yards
+    distant. The sensation produced when the ball struck me was as though a ball of glass had been thrown with irresistible force
+    and shivered to atoms against the bone of my thigh. This sensation was very distinct, and no other was felt for the instant. I
+    have no recollection of falling; but found myself lying on my left side, with a strange feeling of numbness <hi rend="italic">rushing</hi> through the
+    entire leg. This lasted but a few moments; the blood flowing freely, this <hi rend="italic">active</hi> numbness soon died away. I believed myself
+    mortally wounded, as I had no doubt the bone was shattered to the hip joint. Dreading to fall into the hands of the enemy I
+    dragged myself from the battle-field about two hundred yards, when some of our men carried me to a place of safety. Taken
+    to the hospital at <name type="place">Falmouth</name> on <date type="admit" when="1863-05-04">the 4th</date>, my wound was probed by <name type="person" key="xxx">Surgeon N. S. Barnes</name>, <name type="organization" key="xxx">27th New York</name>, on the morning of <date type="operation" when="1863-05-05">the 5th</date>. The probe struck the bone and followed the wound a short distance around it on the inside, without feeling the ball. <name type="person" key="xxx">Surgeon Barnes</name> decided that the ball struck the bone, and, without injuring it, glanced to the right, passing around to the opposite
+    side from which it entered, and probably lay deep in the groin; but my thigh was so much swollen that the ball could not be
+    found.  On <date type="transfer" when="1863-05-08">May 8th</date> I reached <name type="hospital" key="156">Seminary Hospital</name>, Georgetown. At length, after the swelling had subsided considerably, the
+    ball was found near the groin and near the surface. It was extracted by <name type="person" key="xxx">Surgeon Ducachet</name> on <date type="operation" when="1863-05-18">May 18th</date>, but this ragged, misshapen piece of lead was so light that doubts were expressed as to its being a whole ball. The wound seemed to be doing well; there was considerable yet no very severe pain, the severest and most continuous being in that region where the ball entered and struck the bone. On May 27th a small piece of bone was discharged from the wound, indicating that the bone was more or less injured.  On May 28th I was attacked with a most intense pain on the inside of the thigh, midway between the wound and
+    the opening where the ball had been extracted. This pain brought on fever and a severe headache. Chloroform liniment was
+    freely applied and alleviated the pain. On <date type="operation" when="1863-05-31">May 31st</date> a piece of lead made its appearance at the opening where the ball had
+    entered, and was extracted by <name type="person" key="xxx">Dr. Miller</name>, and proved to be very nearly as large as that extracted on the 18th. This second
+    piece of lead is very ragged, and holds a portion of the cloth which it had carried into the wound.  About <date type="injury" when="1863-06-01">the first of June</date> the
+    nerves of my left foot, mostly in the toes, commenced troubling me, causing many sleepless nights and restless days for two
+    weeks. It was like a continuous nervous toothache. A powerful chloroform liniment was freely applied, but it proved less
+    effectual than cold water in easing the pain. This pain was not constant, but would burn my toes as with boiling water for ten
+    or fifteen minutes, then ease away somewhat for a few minutes, and then return in full force. On June 12th a course of vigorous
+    rubbing with a coarse towel was commenced on the foot and leg to the knee. On the third day the pain began to yield, and has
+    now, June 24, 1863, almost ceased. My leg remains as yet almost perfectly helpless. It cannot support its own weight. My
+    general health is very good.&#34;  The patient was discharged from service <date type="servicedischarge" when="1863-09-15">September 15, 1863</date>, and pensioned. The <name type="organization" key="xxx">Hartford
+     examining board</name> reported, <date type="pension" when="1872-08-07">August 7, 1872</date>:  &#34;Ball entered at middle of left <choice><sic>nates</sic><corr>natis</corr></choice> and passed forward; part of the ball was
+    removed at the junction of the upper and middle thirds of the left thigh at the outer border of the sartorius muscle. In its passage
+    the ball struck the inner side of the femur, and in consequence of which portions of bone, with the remainder of the ball, were
+    discharged through the point of entrance in the nates. The knee becomes swollen and painful from slight use.&#34;</p>
+   <p></p>   
+  </body>
+ </text>
+</TEI>

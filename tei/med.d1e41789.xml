@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e41789">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Lamb, Hiram</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+    <idno>med.d1e41789</idno>
+       <authority>Civil War Washington</authority>
+       <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor>
+       <name>Center for Digital Research in the Humanities</name>
+       <address><addrLine>319 Love Library</addrLine>
+       <addrLine>University of Nebraska–Lincoln</addrLine>
+       <addrLine>Lincoln, NE 68588-4100</addrLine>
+       <addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+    </distributor>
+    <date>2011</date>
+    <availability>
+        <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+         republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+         law, requires express written consent from the editors and advance notification of the
+         publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+     <persName xml:id="mb">Matthew Bosley</persName>     
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl>
+     <title level="j">The Medical and Surgical History of the War of the Rebellion. (1861-65.)</title>
+     <pubPlace>Washington, DC</pubPlace>
+     <publisher>Government Printing Office</publisher>
+     <biblScope type="part">Part 2</biblScope>
+     <biblScope type="volume">Volume 1</biblScope>
+     <date when="1879">1879</date>
+     <biblScope type="page">204</biblScope>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+       <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+      <keywords scheme="#medsurg">
+       <term>diarrh&#339;a and dysentery</term>
+       <term>fatal cases of diarrh&#339;a and dysentery, with accounts of the morbid appearances observed</term>
+       <term>from the L'Ouverture Hospital, Alexandria, Virginia</term>
+       <term>native of North Carolina</term>
+       <term>three-quarters white</term>
+       <term>chronic diarrh&#339;a</term>
+       <term>lungs filled with tubercles, large cavities in apex of each</term>
+       <term>liver and spleen contained tubercles</term>
+       <term>large and deep ulcers in ileum, colon, and rectum</term>       
+       <term>autopsy performed</term>       
+     </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change who="#mb" when="2013-01-22">copied case from MSHWR, added proofing of transcription and encoding, identified keyword terms and figures</change>   
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body> 
+   <p>Case from the case-book of the <hi rend="initialcap">L'O</hi>UVERTURE <hi rend="initialcap">H</hi>OSPITAL, Alexandria, Virginia, <name type="person" key="134">Surgeon Edwin Bentley</name>, <name type="organization" key="132">U. S. V.</name>, in charge.  All the patients were colored men, most of them sent to Alexandria from the hospital for colored troops, <name type="place">City Point, Virginia</name>.</p>
+   <p><hi rend="initialcap">C</hi>ASE 550.&#8212;<name type="person" key="xxx">Private Hiram Lamb</name>, <name type="organization" key="xxx">company D, 28th United States colored troops</name>; age 55; native of North Carolina; three-quarters white; enlisted about <date type="enlist" when="1864-01-01">January 1, 1864</date>, but had been able to do but little duty, except as nurse at <name type="place">City Point</name> hospital; admitted from the hospital for colored troops, <name type="place">City Point, Virginia</name>, <date type="admit" when="1864-10-31">October 31, 1864</date>, with chronic diarrh&#339;a, from which he said he had suffered all summer.  Treatment: Astringents, opiates, stimulants and light diet.  He appeared to improve for a few days, but again declined, and died rather suddenly <date type="death" when="1864-11-12">November 12th</date>.  <hi rend="italic">Autopsy:</hi> The lungs were filled with tubercles, and in the apex of each were large cavities. The liver and spleen also contained tubercles. There were large and deep ulcers in the ileum, colon and rectum.&#8212;<name type="person" key="851">Acting Assistant Surgeon Freeman Stoddard</name>.</p>    
+  </body>
+ </text>
+</TEI>

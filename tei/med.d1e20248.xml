@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e20248">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title level="m" type="main">Lawrence, Carlos E.</title>
+        <title level="m" type="sub">a machine readable transcription</title>
+        <principal>Susan C. Lawrence</principal>
+        <principal>Kenneth M. Price</principal>
+        <principal>Kenneth J. Winkle</principal>
+      </titleStmt>
+      <editionStmt>
+        <edition><date>2011</date></edition>
+      </editionStmt>
+      <publicationStmt>
+        <idno>med.d1e20248</idno>
+        <authority>Civil War Washington</authority>
+        <publisher>University of Nebraska–Lincoln</publisher>
+        <distributor><name>Center for Digital Research in the
+          Humanities</name><address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address></distributor>
+        <date>2011</date>
+        <availability>
+          <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution
+            or republication in any medium, except as allowed under the Fair Use provisions of U.S.
+            copyright law, requires express written consent from the editors and advance
+            notification of the publisher, the University of Nebraska–Lincoln.</p>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="project">The following are responsible for particular readings or for changes to
+          this file, as noted: 
+ <persName xml:id="kmp">Kenneth M. Price</persName> 
+          <persName xml:id="ajh">AJ Howell</persName>
+          <persName xml:id="mb">Matthew Bosley</persName>
+          <persName xml:id="el">Elizabeth Lorang</persName>
+          <persName xml:id="sb">Stacey Berry</persName>
+          <persName xml:id="et">Elisabeth Tracey</persName>
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl><title>The Medical and Surgical History of the War of the Rebellion.
+            (1861&#8211;65.)</title><editor role="compiler">Surgeon General Joseph K. Barnes, United
+            States Army</editor><pubPlace>Washington, D.C.</pubPlace><publisher>Government Printing
+            Office</publisher><biblScope type="part">Part 1</biblScope>
+          <biblScope type="volume">Volume 2</biblScope><date when="1870">1870</date><biblScope
+            type="page">583</biblScope></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <classDecl>
+        <taxonomy xml:id="medsurg">
+          <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="#medsurg">
+          <term>wounds and injuries of the chest</term>
+          <term>operations on the chest</term>
+          <term>excisions</term>
+          <term>balls and foreign bodies lodged</term>
+          <term>asthenia</term>
+          <term>ball entered one inch from spinous process of sixth dorsal vertebra</term>
+          <term>ball possessed momentum to carry it through thorax, detained by elasticity of
+            skin</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+ <change who="#kmp" when="2014-05">blessed</change>
+      <change who="#ajh" when="2013-08-21">added figure encoding</change>
+      <change who="#mb" when="2012-01-24">additional proofing of transcription and encoding</change>
+      <change who="#el" when="2011-05-11">case text extracted and transformed from larger
+        file</change>
+      <change who="#sb" when="2011-02-09">enriched encoding</change>
+      <change who="#sb" when="2011-01-28">validated file</change>
+      <change who="#et" when="2009-08-01">encoded</change>
+      <change who="#sb" when="2008-09-22">initial checking of OCR text against PDF; encoded</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+
+      <p>
+        <hi rend="initialcap">C</hi>ASE 5.&#8212;<name type="person" key="xxx">Private <hi
+            rend="italic">Carlos E. Lawrence</hi></name>, <name type="organization" key="xxx">Co. E,
+          57th North Carolina Regiment</name>, aged 34 years, was wounded at <name type="BATTLE"
+          key="262">Rappahannock Station</name>, <date type="injury" when="1863-11-07">November 7th,
+          1863</date>, by a conoidal ball, which entered one inch to the right of the spinous
+        process of the sixth dorsal vertebra, passed forward and lodged one inch inside of the right
+        nipple. On <date type="admit" when="1863-11-09">the 9th</date>, he was admitted to <name
+          type="hospital" key="171">Armory Square Hospital</name>. The patient, whose constitution
+        was not naturally strong, was extremely debilitated and much enfeebled from the effects of
+        the wound, which was much swollen and highly inflamed. On <date type="operation"
+          when="1863-11-10">the 10th</date>, the ball was excised by <name type="person" key="1212"
+          >Acting Assistant Surgeon D. W. C. Van Slyck</name>. The patient's system failed to
+        respond to the most thorough and stimulating treatment, and he continued to sink, and died
+        on <date type="death" when="1863-11-16">November 16th, 1863</date>, from asthenia. The
+        missile, somewhat roughened near the apex, was forwarded to the <name type="hospital"
+          key="431">Army Medical Museum</name>, with a minute of the case, by <name type="person"
+          key="123">Surgeon D. W. Bliss</name>, <name type="organization" key="132">U. S. V.</name>,
+        and is represented in the wood-cut adjoining (<hi rend="initialcap">F</hi>IG. 278). </p>
+
+      <figure><graphic url="cww.001488.001"/><head>
+        <hi rend="initialcap">F</hi>IG. 278.&#8212;Ball removed after traversing the chest. <hi
+          rend="italic">Spc</hi>. 563, Sect. I, A. M. M.</head></figure>
+
+    </body>
+  </text>
+</TEI>

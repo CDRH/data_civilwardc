@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d2e24856">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Boyle, R.</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+    <idno>med.d2e24856</idno>
+       <authority>Civil War Washington</authority>
+       <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor>
+       <name>Center for Digital Research in the Humanities</name>
+       <address><addrLine>319 Love Library</addrLine>
+       <addrLine>University of Nebraska–Lincoln</addrLine>
+       <addrLine>Lincoln, NE 68588-4100</addrLine>
+       <addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+    </distributor>
+    <date>2011</date>
+    <availability>
+        <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+         republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+         law, requires express written consent from the editors and advance notification of the
+         publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+         <persName xml:id="mb">Matthew Bosley</persName>         
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl>
+        <title level="j">The Medical and Surgical History of the War of the Rebellion. (1861-65.)</title>
+        <pubPlace>Washington, DC</pubPlace>
+        <publisher>Government Printing Office</publisher>
+        <biblScope type="part">Part 3</biblScope>
+        <biblScope type="volume">Volume 2</biblScope>
+        <date when="1883">1883</date>
+        <biblScope type="page">649</biblScope>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+       <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+      <keywords scheme="#medsurg">
+       <term>miscellaneous injuries</term> 
+       <term>simple and compound fractures</term>
+       <term>fracture of the sternum; railroad accident</term>
+       <term>transverse fracture of sternum between articulations of third and fourth ribs, displacement</term> 
+       <term>crushing of first and second dorsal vertebr&#230;, no paralysis</term>         
+       <term>evidently recovering, with considerable deformity</term>
+       <term>crippled in appearance</term>
+     </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+       <change who="#mb" when="2012-06-20">additional case copied from MSHWR, performed proofing of copy and XML encoding, and key terms identified</change>  
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p><hi rend="initialcap">C</hi>ASE 963.&#8212;<hi rend="italic">Fracture of the sternum; railroad accident.</hi>&#8212;<name type="person" key="xxx">Private R. Boyle</name>, <name type="organization" key="xxx">Co. A, 3d New Jersey</name>, met with a railroad
+    accident on <date type="injury" when="1862-04-03">April 3, 1862</date>, and was admitted to hospital at <name type="place" key="#Alexandria">Alexandria</name> <date type="admit" when="1862-04">several days afterwards</date>. Surgeon J. E. Summers,
+    U. S. A., described the injury as a &#34;transverse fracture of the sternum between the articulations of the third and fourth ribs,
+    with displacement, the fractured ends sliding upon each other and shortening the bone one and a half inches. From the posteriorly curved condition of the spinal column there is reason to think that there was crushing of the first and second dorsal
+    vertebr&#230;, although there was no paralysis of any of the limbs or organs. The patient is much crippled in appearance, but is
+    evidently recovering, although slowly, with considerable deformity.&#34;  The patient was discharged for disability resulting from
+    his injury <date type="servicedischarge" when="1862-06-16">June 16, 1862</date>. He is not a pensioner.</p>   
+  </body>
+ </text>
+</TEI>

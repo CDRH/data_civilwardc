@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d2e31596">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Clemence, J.</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+       <idno>med.d2e31596</idno>
+       <authority>Civil War Washington</authority>
+       <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor>
+       <name>Center for Digital Research in the Humanities</name>
+       <address><addrLine>319 Love Library</addrLine>
+       <addrLine>University of Nebraska–Lincoln</addrLine>
+       <addrLine>Lincoln, NE 68588-4100</addrLine>
+       <addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+    </distributor>
+    <date>2011</date>
+    <availability>
+        <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+         republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+         law, requires express written consent from the editors and advance notification of the
+         publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+     <persName xml:id="mb">Matthew Bosley</persName>
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl>
+     <title level="j">The Medical and Surgical History of the War of the Rebellion. (1861-65.)</title>
+     <pubPlace>Washington, DC</pubPlace>
+     <publisher>Government Printing Office</publisher>
+     <biblScope type="part">Part 2</biblScope>
+     <biblScope type="volume">Volume 2</biblScope>
+     <date when="1876">1876</date>
+     <biblScope type="page">86</biblScope>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+       <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+      <keywords scheme="#medsurg">
+       <term>injuries of the abdomen</term>
+       <term>penetrating wounds of the abdomen</term>
+       <term>wounds of the large intestines</term>
+       <term>gunshot wounds</term>
+       <term>cases of recovery</term> 
+       <term>ball entered lumbar region, midway between crest of ilium and fourth lumbar vertebra, passed obliquely upward</term>
+       <term>missile from anterior wall of belly near anterior superior spinous process of ilium</term>
+       <term>f&#230;cal matter discharged from wound of entrance</term>
+       <term>Ball entered back near sacrum, passed out above anterior spinous process of ilium</term>
+       <term>disability from pain upon change of position, walking, lifting</term>
+       <term>Disability three-fourths, indefinite duration</term>
+     </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change who="#mb" when="2012-08-10">copied case from MSHWR, added proofing of transcription and encoding, identified keyword terms</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body> 
+   <p><hi rend="initialcap">C</hi>ASE 262.&#8212;<name type="person" key="xxx">Corporal J. Clemence</name>, <name type="organization" key="xxx">Co. F, 14th United States Infantry</name>, aged 21 years, was wounded in the abdomen at <name type="BATTLE" key="2">Gettysburg</name>, <date type="injury" when="1863-07-02">July 2, 1863</date>, by a conoidal ball. He was admitted to Seminary Hospital on <date type="admit" when="1863-07-03">the following day</date>, and remained until <date type="transfer" when="1863-07-31">July 31st</date>, when he was transferred to Camp Letterman Hospital.  <name type="person" key="xxx">Acting Assistant Surgeon W. L. Hays</name>, who had charge of the case, reports: &#34;Wounded by a mini&#233; ball entering the right lumbar region, midway between the crest of the ilium and the fourth lumbar vertebra, and passing obliquely upward. The missile was removed, on <date type="operation" when="1863-07-10">July 10th</date>, from the anterior wall of the belly, two inches above and to the right of the anterior superior spinous process of the ilium.  F&#230;cal matter discharged from the wound of entrance up to August 17th.  On <date type="hospitaldischarge" when="1863-09-28">September 28th</date>, this man was discharged, cured.&#34;  He was admitted to the Filbert Street Hospital on <date type="admit" when="1863-09-28">the same day</date>, and transferred to Broad and Cherry Streets Hospital <date type="transfer" when="1863-12-07">December 7, 1863</date>.  He was admitted to <name type="hospital" key="214">Fairfax Seminary Hospital</name> <date type="admit" when="1864-04-21">April 21, 1864</date>, and registered as a &#34;flesh wound of abdominal parietes,&#34; and was transferred, <date type="transfer" when="1864-06-21">June 21st</date>, to Ward Hospital, at <name type="place">Newark</name>.  He was discharged the service <date type="servicedischarge" when="1864-12-23">December 23, 1864</date>.  <name type="person" key="xxx">Examining Surgeon Geo. W. Cook</name>, of <name type="place">Syracuse</name>, reported, <date type="pension" when="1866-03-20">March 20, 1866</date>:  &#34;Ball entered the back, near the sacrum, and passed out just above the anterior spinous process of the ilium of the right side&#8212;a track of about eight inches. The disability is from pain upon change of position, walking, lifting, etc. Disability three-fourths, and of indefinite duration.&#34;  Last paid to <date type="pension" when="1872-12-04">December 4, 1872</date>.</p>         
+  </body>
+ </text>
+</TEI>

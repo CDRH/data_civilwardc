@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d2e24056">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Pero, P.</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+       <idno>med.d2e24056</idno>
+       <authority>Civil War Washington</authority>
+       <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor>
+       <name>Center for Digital Research in the Humanities</name>
+       <address><addrLine>319 Love Library</addrLine>
+       <addrLine>University of Nebraska–Lincoln</addrLine>
+       <addrLine>Lincoln, NE 68588-4100</addrLine>
+       <addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+    </distributor>
+    <date>2011</date>
+    <availability>
+        <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+         republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+         law, requires express written consent from the editors and advance notification of the
+         publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+         <persName xml:id="mb">Matthew Bosley</persName>         
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl>
+        <title level="j">The Medical and Surgical History of the War of the Rebellion. (1861-65.)</title>
+        <pubPlace>Washington, DC</pubPlace>
+        <publisher>Government Printing Office</publisher>
+        <biblScope type="part">Part 3</biblScope>
+        <biblScope type="volume">Volume 2</biblScope>
+        <date when="1883">1883</date>
+        <biblScope type="page">623-624</biblScope>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+       <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+      <keywords scheme="#medsurg">
+       <term>wounds and injuries of the lower extremities</term> 
+       <term>wounds and operations in the foot</term>
+       <term>shot wounds of the bones of the foot</term>
+       <term>shot fractures of the bones of the foot</term> 
+       <term>excisions in the bones of the foot</term> 
+       <term>primary excisions in the bones of the foot</term> 
+       <term>wounded in foot, on picket duty</term>
+       <term>ball entered inner side of middle of metatarsal bone of great toe, emerged over metatarsal of little toe</term>
+       <term>first, second, third, and fourth metatarsal bones shattered</term> 
+       <term>excision of first metatarsal bone and fragments of second, third, and fourth metatarsals</term> 
+       <term>h&#230;morrhage arrested by pressure on dorsal artery</term>
+       <term>tibio-tarsal articulation completely anchylosed</term>
+       <term>leg amputated at middle third</term>        
+       <term>chronic  diarrh&#339;a</term>
+       <term>general anesthesia, chloroform</term>
+     </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+       <change who="#mb" when="2012-06-18">additional case copied from MSHWR, performed proofing of copy and XML encoding, and key terms identified</change>  
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p><hi rend="initialcap">C</hi>ASE 913.&#8212;<name type="person" key="xxx">Private P. Pero</name>, <name type="organization" key="xxx">Co. C, 2d New York Cavalry</name>, aged 22 years, was wounded in the right foot, while on picket
+    duty near <name type="place" key="#Alexandria">Alexandria</name>, <date type="injury" when="1864-05-05">May 5, 1864</date>. <name type="person" key="xxx">Surgeon C. Powers</name>, <name type="organization" key="xxx">160th New York</name>, in charge of the <name type="place" key="#Alexandria">Alexandria</name> Hospital, made the following report:  &#34;The ball entered at the inner side of the middle of the metatarsal bone of the great toe and emerged over that
+    of the little toe. The first, second, third, and fourth metatarsal bones were shattered. The patient suffered considerable pain.
+    <date type="operation" when="1864-05-07">Two days after the injury</date> excision of the first metatarsal bone was performed and the shattered fragments of the second, third,
+    and fourth were removed by <name type="person" key="xxx">Assistant Surgeon C. H. Andrus</name>, <name type="organization" key="xxx">128th New York</name>. Chloroform was used, and the patient reacted promptly. He did well afterwards. Five days after the operation considerable h&#230;morrhage occurred, but was completely arrested by light pressure on the dorsal artery. Simple water dressings were used. The case was still doing well when the
+    patient was, on <date type="transfer" when="1864-05-22">May 22d</date>, transferred to University Hospital at <name type="place">New Orleans</name>.&#34; <name type="person" key="xxx">Surgeon S. Kneeland</name>, <name type="organization" key="132">U. S. V.</name>, in charge of the latter hospital, reported the result of the case as follows:  &#34;The whole foot became greatly swollen, purulent inflammation having
+    occurred on the dorsal and plantar surfaces; several of the bones became disorganized and the tibio-tarsal articulation completely
+    anchylosed; patient greatly reduced by the excessive suppuration; pulse 78; appetite tolerably good. He also suffered from
+    chronic diarrh&#339;a and intermittent fever, from which he had recovered on <date type="operation" when="1864-06-20">June 20th</date>, when the leg was amputated at the middle
+    third by <name type="person" key="xxx">Acting Assistant Surgeon F. Hassenburg</name>. Chloroform was used, and the h&#230;morrhage attending the operation was
+    slight. Under a supporting diet and cool dressings the patient did well up to June 30th.  He died from the effects of chronic diarrh&#339;a <date type="death" when="1864-07-15">July 15, 1864</date>.&#34;</p>   
+  </body>
+ </text>
+</TEI>

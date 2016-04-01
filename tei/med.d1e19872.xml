@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e19872">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title level="m" type="main">Jordan, John F.</title>
+        <title level="m" type="sub">a machine readable transcription</title>
+        <principal>Susan C. Lawrence</principal>
+        <principal>Kenneth M. Price</principal>
+        <principal>Kenneth J. Winkle</principal>
+      </titleStmt>
+      <editionStmt>
+        <edition><date>2011</date></edition>
+      </editionStmt>
+      <publicationStmt>
+        <idno>med.d1e19872</idno>
+        <authority>Civil War Washington</authority>
+        <publisher>University of Nebraska–Lincoln</publisher>
+        <distributor><name>Center for Digital Research in the
+          Humanities</name><address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address></distributor>
+        <date>2011</date>
+        <availability>
+          <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution
+            or republication in any medium, except as allowed under the Fair Use provisions of U.S.
+            copyright law, requires express written consent from the editors and advance
+            notification of the publisher, the University of Nebraska–Lincoln.</p>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="project">The following are responsible for particular readings or for changes to
+          this file, as noted: 
+ <persName xml:id="kmp">Kenneth M. Price</persName> 
+          <persName xml:id="ajh">AJ Howell</persName>
+          <persName xml:id="mb">Matthew Bosley</persName>
+          <persName xml:id="el">Elizabeth Lorang</persName>
+          <persName xml:id="sb">Stacey Berry</persName>
+          <persName xml:id="et">Elisabeth Tracey</persName>
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl><title>The Medical and Surgical History of the War of the Rebellion.
+            (1861&#8211;65.)</title><editor role="compiler">Surgeon General Joseph K. Barnes, United
+            States Army</editor><pubPlace>Washington, D.C.</pubPlace><publisher>Government Printing
+            Office</publisher><biblScope type="part">Part 1</biblScope>
+          <biblScope type="volume">Volume 2</biblScope><date when="1870">1870</date><biblScope
+            type="page">543-544</biblScope></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <classDecl>
+        <taxonomy xml:id="medsurg">
+          <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="#medsurg">
+          <term>wounds and injuries of the chest</term>
+          <term>operations on the chest</term>
+          <term>ligations</term>
+          <term>traumatic <choice>
+              <orig>aneurism</orig>
+              <reg>aneurysm</reg>
+            </choice></term>
+          <term>circumscribed <choice>
+              <orig>aneurism</orig>
+              <reg>aneurysm</reg>
+            </choice> from gunshot injury</term>
+          <term>circumscribed traumatic <choice>
+              <orig>aneurism</orig>
+              <reg>aneurysm</reg>
+            </choice> of the axillary artery</term>
+          <term>old tuberculosis</term>
+          <term>wounds of axillary artery and brachial plexus of nerves</term>
+          <term>arm paralyzed, loss of sensibilty and mobility</term>
+          <term>general anesthesia, ether</term>
+          <term>ligation of subclavian artery external to scalenus</term>
+          <term>ligations of the subclavian</term>
+          <term>autopsy performed</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+ <change who="#kmp" when="2014-05">blessed</change>
+      <change who="#ajh" when="2013-08-21">added figure encoding</change>
+      <change who="#mb" when="2012-01-10">additional proofing of transcription and encoding</change>
+      <change who="#el" when="2011-05-11">case text extracted and transformed from larger
+        file</change>
+      <change who="#sb" when="2011-02-09">enriched encoding</change>
+      <change who="#sb" when="2011-01-28">validated file</change>
+      <change who="#et" when="2009-08-01">encoded</change>
+      <change who="#sb" when="2008-09-22">initial checking of OCR text against PDF; encoded
+      </change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p> The complete report is given in the author's own language:&#178; </p>
+      <p>
+        <hi rend="initialcap">C</hi>ASE 20.&#8212; &#34;<name type="person" key="xxx">Captain <hi
+            rend="italic">John F. Jordan</hi></name>, <name type="organization" key="xxx">Co. B,
+          13th Virginia Cavalry</name>, aged 31 years, and of sound constitution, was admitted to
+          <name type="hospital" key="175">Stanton United States Army General Hospital</name>, <date
+          type="admit" when="1863-06-23">June 23d, 1863</date>. He had been wounded on <date
+          type="injury" when="1863-06-21">June 21st</date>, in action near <name type="battle"
+          >Middleburgh, Virginia</name>, by a shot from a carbine. The bullet, which, by the way,
+        was conical in shape, penetrated the pectoralis major muscle of the left side, at a point on
+        a level with the axillary artery, and about one and a half inches from the margin of the
+        armpit, passed directly backward beneath the shoulder, wounding the axillary artery,
+        together with the brachial plexus of nerves, and escaped behind. Patient said he lost a
+        great deal of blood immediately after the wound was inflicted, so much indeed that he
+        fainted, when the h&#230;morrhage ceased of itself, and did not return. On admission to
+        hospital, his left arm exhibited some swelling, &#339;dematous in character, and its inner
+        side was ecchymosed nearly down to the elbow-joint. It was also paralyzed, the loss of both
+        sensibilty and mobility being complete. There was no radial pulse in that arm, and pulsation
+        could not be detected in the brachial or any other artery thereof. From this we inferred
+        that the axillary artery had been severed by the bullet. The temperature of the limb was not
+        below the normal standard; on the contrary, we thought it to be somewhat warmer than the
+        limb of the opposite side. There was nothing remarkable in the appearance of the wound. The
+        patient's general condition was good. He did not look as if he had suffered from
+        h&#230;morrhage. His bowels were constipated; ordered a saline purge, together with a spare
+        diet, and, with a view to lessen the tendency to secondary h&#230;morrhage, he was directed
+        to remain quiet in bed, to exert himself as little as possible, and to have ice applied
+        constantly over the injured artery. He was also directed to take morphine at night if
+        necessary to procure rest. Under this treatment the patient progressed without an
+        unfavorable symptom; the wound cleaned itself and closed up in a satisfactory manner, and we
+        congratulated the patient in that he was likely to get well without suffering the terrible
+        secondary h&#230;morrhage, which frequently attends gunshot wounds of the axillary artery.
+        The limb continued to be completely paralyzed as to motion, but sensation had gradually been
+        restored to the fingers, hand, and forearm. On the morning of the 12th of July, we noticed
+        the appearance of a small, rounded, circumscribed swelling of the size of an egg, at the
+        seat of injury to the artery. The scar of the anterior orifice of the gunshot wound was
+        exactly on the summit of the convexity of the swelling, as the patient lay in bed. The tumor
+        was tense in feel, and pulsated distinctly and synchronously with the heart. There was,
+        however, an entire absence of the <choice>
+          <orig>aneurismal</orig>
+          <reg>aneurysmal</reg>
+        </choice> thrill and <choice>
+          <orig>aneurismal</orig>
+          <reg>aneurysmal</reg>
+        </choice> bruit. By compressing the subclavian artery against the first rib, the tumor
+        became soft, much less in size, and ceased to pulsate. On withdrawing compression the tumor
+        speedily filled up, became tense, and pulsated again. Patient stated that during the
+        preceding night he felt something "give way" in his left armpit, while attempting to change
+        the position of this arm by the aid of the right hand. During the day the <choice>
+          <orig>aneurism</orig>
+          <reg>aneurysm</reg>
+        </choice> increased rapidly in size, and in the evening was fully twice as large as when
+        first noticed in the morning. July 13th, the <choice>
+          <orig>aneurism</orig>
+          <reg>aneurysm</reg>
+        </choice> continued to increase steadily in size, and in the evening was about half as large
+        as the clenched fist. July 14th, the <choice>
+          <orig>aneurism</orig>
+          <reg>aneurysm</reg>
+        </choice> had grown but little since previous day; it was still rounded, distinctly
+        circumscribed, and somewhat oval in shape. By compressing the subclavian, it ceased to
+        pulsate, became soft and much shrunken, but the prior condition of things was restored
+        speedily on withdrawing compression; as on a previous occasion, there was still no thrill or
+        bruit. Diagnosis: <hi rend="italic">Circumscribed traumatic <choice>
+            <orig>aneurism</orig>
+            <reg>aneurysm</reg>
+          </choice> of the axillary artery</hi>. From the entire absence of pulsation in all the
+        arteries beyond the <choice>
+          <orig>aneurism</orig>
+          <reg>aneurysm</reg>
+        </choice>, which existed even at the time of admission to hospital, and the complete want of
+        thrill and bruit in the <choice>
+          <orig>aneurism</orig>
+          <reg>aneurysm</reg>
+        </choice> itself, we believed that the <choice>
+          <orig>aneurism</orig>
+          <reg>aneurysm</reg>
+        </choice> had been developed from the proximal end of the severed artery, and that opinion
+        was strengthened by the fact that the swelling had not expanded outward and downward into
+        the armpit, where there was but little in the anatomical structure of the parts to obstruct
+        its growth, any more rapidly than it had done in another direction, where it was covered
+        over and bound down by the pectoral muscles. The swelling had expanded so equally in all
+        directions, that the scar of the anterior wound still remained exactly over the centre of
+        the tumor, as when we first saw it. The <choice>
+          <orig>aneurism</orig>
+          <reg>aneurysm</reg>
+        </choice> was so distinctly circumscribed that, although its origin was traumatic, it was
+        deemed advisable to attempt a cure of it by the Hunterian method. As there was not
+        sufficient space to secure the artery below the clavicle without opening the sac, I
+        proceeded to tie the left subclavian artery external to the scalenus, on the afternoon of
+        that day (<date type="operation" when="1863-07-14">July 14th</date>). The patient being
+        under sulphuric ether, that operation was performed without difficulty by the ordinary
+        method. On tightening the ligature the tumor ceased to pulsate, shrunk a good deal, and
+        became soft. The left arm was directed to be wrapped in cotton wool, and to be kept warm by
+        the further aid of bottles of warm water, to be renewed from time to time as occasion might
+        require. A full dose of morphia was prescribed. He was enjoined to preserve the recumbent
+        posture, and to avoid exertion of every kind. A milk diet was allowed. July 10th, patient
+        had a comfortable night; temperature of arm not diminished: discontinued the warm water.
+        July 16th, patient doing well in every respect; arm warm; color thereof good; discontinued
+        the cotton wool. July 17th, bowels being confined, he took an ounce of sulphate of magnesia.
+        July 19th, <choice>
+          <orig>aneurismal</orig>
+          <reg>aneurysmal</reg>
+        </choice> sac opened spontaneously last night through the anterior sear of the gunshot
+        wound, and discharged two or three ounces of very dark-colored blood, mixed with pus.
+        Suppuration of the sac had been threatened ever since the day after the operation. He was
+        allowed a full diet. July 20th, a moderate discharge of old blood and pus, accompanied with
+        a gradual diminution in the size of the <choice>
+          <orig>aneurism</orig>
+          <reg>aneurysm</reg>
+        </choice>, and but a moderate degree of inflammation of the sac continued on this and
+        several days following, the patient s general condition being unexceptionable all the while.
+        July 27th, the <choice>
+          <orig>aneurismal</orig>
+          <reg>aneurysmal</reg>
+        </choice> swelling had entirely disappeared; suppuration of the sac, moderate in quantity,
+        still continued, the pus being of a good quality. <date type="operation" when="1863-08-01"
+          >August 1st</date>, <hi rend="italic">the ligature separated and was removed to-day,
+          without the occurrence of h&#230;morrhage or any other difficulty</hi>; discharge from sac
+        good in quality and steadily diminishing in quantity; discovered some excoriation at the
+        inner side of the left elbow, occasioned probably by pressure, the patient having followed
+        very closely the injunction to keep as still as possible in the recumbent posture; directed
+        a stimulating plaster to be applied, and the pressure to be removed to other situations by
+        arranging pillows. August 5th, discharge from sac had subsided to a small quantity of
+        healthy pus, and the orifice was manifestly contracting. We hoped that adhesion of the sac
+        was taking place. Patient's condition seemed to be favorable in every respect, except that
+        he had been losing flesh rapidly for several days without obvious cause. For want of any
+        other reason, we attributed it to the extreme heat of the weather, the temperature both day
+        and night having been unprecedented ever since July 25th, the mercury at midday ranging from
+        90&#176; to 100&#176; in the shade, and seldom falling below 80&#176; at night. August 6th:
+        a profuse flow of blood from the sac came on this morning without warning; the loss of blood
+        being so rapid as to threaten speedy death. The officer of the day was close at hand, and
+        stopped the bleeding by injecting about one ounce of liquor ferri persulphatis into the
+        bottom of the sac, through a female catheter, introduced for the purpose. The
+        h&#230;morrhage ceased immediately. We had been emboldened to use the persulphate of iron
+        freely in this way, because we had a few weeks before (June 22d) stopped a troublesome
+        secondary flow, in alarming quantity, of arterial blood from the cavity of a large abscess,
+        associated with gunshot fracture of the right thigh, by injecting about two drachms of
+        liquor ferri persulphatis through a catheter, carried into the neighborhood of the supposed
+        source of the h&#230;morrhage, a branch of the profunda artery, and no unpleasant effect of
+        any kind followed it. Again, about the same time, we had been troubled to manage a case of
+        general oozing of blood from the cut surface of a thigh, amputated secondarily for gunshot
+        injury. After trying exposure to the air, ice-water, and even ice, without effect, we
+        stopped this bleeding immediately by covering the end of the stump with pledgets of lint
+        soaked in liquor ferri persulphatis. Aside from pretty severe pain, which soon subsided, no
+        unpleasant consequence of any kind followed. We did not discover any evidence of even the
+        feeblest action as an escharotic, and indeed have since thought that the case progressed
+        better than other amputations of the same class. In consequence of the secondary
+        h&#230;morrhage and the efforts to repress it, the <choice>
+          <orig>aneurismal</orig>
+          <reg>aneurysmal</reg>
+        </choice> sac became filled up again to the original size. August 10th, another severe
+        h&#230;morrhage occurred from the same orifice; it was readily stopped by again injecting
+        persulphate of iron in solution. August 11th: profuse h&#230;morrhage occurred to-day
+        through the opening of the posterior orifice made by the bullet, after it had been healed
+        for more than a month. This bleeding was also suppressed immediately by injecting liquor
+        ferri persulphatis through a catheter. After this there was no more h&#230;morrhage. During
+        the next few days he seemed to rally from the depression produced by these repeated losses
+        of blood. He was ordered to have wine, and anything in the line of supporting treatment that
+        he would take. August 18th: the <choice>
+          <orig>aneurismal</orig>
+          <reg>aneurysmal</reg>
+        </choice> sac has again suppurated, and there is a profuse discharge of dark-colored and
+        very offensive pus. August 25th: patient failing rapidly; suppuration very profuse and
+        extremely offensive in character. <date type="death" when="1863-08-29">August 29th</date>,
+        he died worn out with the suppuration and the h&#230;morrhages, forty-six days after the
+        operation, and twenty-eight days after the ligature came away. Autopsy eighteen hours after
+        death: Emaciation extreme; rigor mortis moderate; a large elongated cavity, with ragged
+        dark-colored walls, occupies the original seat of the <choice>
+          <orig>aneurism</orig>
+          <reg>aneurysm</reg>
+        </choice>, and extends beyond it outward into the axilla; the axillary artery is found to
+        have been severed obliquely by the bullet about one and one-half inches above its
+        termination in the brachial; the divided extremities are separated widely apart (to the
+        extent of about three inches); the distal end appeal s to have been pushed away from the
+        proximal end, either by the original <choice>
+          <orig>aneurism</orig>
+          <reg>aneurysm</reg>
+        </choice>, or the subsequent h&#230;morrhages and suppuration; the proximal end is oblique
+        and closed, while the bruised and lacerated portion of it appears about to be cast off by
+        the ulcerative process, as a distinct line of demarcation has been formed; the distal end is
+        oblique and unclosed, but the calibre of the artery is contracted down to about a line in
+        diameter, and it is blocked up by a coagulum three-eighths of an inch long; the branches of
+        the axillary given off above the point of injury, especially the superior thoracic and the
+        acromial thoracic, are much enlarged; the axillary vein is greatly diminished in size about
+        the track of the bullet, but it is still pervious; the brachial plexus of nerves was also
+        wounded by the bullet, all the trunks being cut off except that of the <choice>
+          <orig>musculo-spiral</orig>
+          <reg>radial</reg>
+        </choice> and circumflex nerves. The proximal extremities of the divided trunks were
+        somewhat bulbous. At the seat of the operation the wound, which at one time was nearly
+        closed, is now open quite down to the artery at the point of ligation, the new granulations
+        having been reabsorbed to that extent, but the artery for a distance on each side thereof is
+        surrounded by a dense mass of new connective tissue, so thick and dense as to make it a
+        little difficult to get at and remove the specimen without injury. On the proximal side of
+        the ligature the vessel is blocked up to a distance of about five-eighths of an inch; on the
+        other side of the ligature it is blocked up to the extent of about two-eighths of an inch.
+        In the cavity of the thorax we find old pleuritic adhesions on both sides, and old
+        tuberculous cicatrices at the apex of each lung; but both lungs are now entirely free from
+        tuberculous deposits; abdomen not opened.&#34; The specimen, represented in the above
+        wood-cut (<hi rend="initialcap">F</hi>IG. 249), and also specimen 3243, showing the brachial
+        plexus, were contributed by the operator. </p>
+
+      <p> &#178;<hi rend="initialcap">L</hi>IDELL, <hi rend="italic">On the Wounds of Blood-vessels,
+          Traumatic H&#230;morrhage, Traumatic Aneurism, and Traumatic Gangrene</hi>. In Surgical
+        Memoirs of the War of the Rebellion, Vol. I, p. 101, New York, 1870. </p>
+
+      <figure><graphic url="cww.001475.001"/><head>
+        <hi rend="initialcap">F</hi>IG. 249.&#8212;Drawing of the arterial preparation from Dr.
+        Lidell's case of ligation of he left subclavian. <hi rend="italic">Spec</hi>. 1684, Sect. I,
+        A. M. M.</head></figure>
+
+    </body>
+  </text>
+</TEI>

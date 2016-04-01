@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e41824">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Green, Stephen</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+    <idno>med.d1e41824</idno>
+       <authority>Civil War Washington</authority>
+       <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor>
+       <name>Center for Digital Research in the Humanities</name>
+       <address><addrLine>319 Love Library</addrLine>
+       <addrLine>University of Nebraska–Lincoln</addrLine>
+       <addrLine>Lincoln, NE 68588-4100</addrLine>
+       <addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+    </distributor>
+    <date>2011</date>
+    <availability>
+        <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+         republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+         law, requires express written consent from the editors and advance notification of the
+         publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+     <persName xml:id="mb">Matthew Bosley</persName>
+     <persName xml:id="el">Elizabeth Lorang</persName>
+     <persName xml:id="sb">Stacey Berry</persName>
+     <persName xml:id="ao">Alyssa Olson</persName>
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl>
+     <title level="j">The Medical and Surgical History of the War of the Rebellion. (1861-65.)</title>
+     <pubPlace>Washington, DC</pubPlace>
+     <publisher>Government Printing Office</publisher>
+     <biblScope type="part">Part 2</biblScope>
+     <biblScope type="volume">Volume 1</biblScope>
+     <date when="1879">1879</date>
+     <biblScope type="page">258</biblScope>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+       <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+      <keywords scheme="#medsurg">
+       <term>diarrh&#339;a and dysentery</term>
+       <term>fatal cases of diarrh&#339;a and dysentery, with accounts of the morbid appearances observed</term>
+       <term>from the Freedman's Hospital, Washington, D. C.</term>
+       <term>dark mulatto</term>
+       <term><choice><orig>dulness</orig><reg>dullness</reg></choice> on percussion under both clavicles</term>
+       <term>cough with pain in pr&#230;cordial region</term>
+       <term>emaciated and night-sweats</term>
+       <term>serum in subarachnoid space, each lateral ventricle, and posterior foss&#230; of cranium</term>
+       <term>lungs with many tubercles</term>
+       <term>upper lobes of lungs contained numerous vomic&#230;</term>
+       <term>cortical substance of kidneys congested and fatty</term>
+       <term>few solitary glands ulcerated in jejunum</term>
+       <term>c&#230;cum and entire colon filled to rectum with hard f&#230;ces</term>
+       <term>points of ulceration throughout colon, particularly points containing hard f&#230;ces</term>
+       <term>in upper ileum Peyer's patches slightly ulcerated</term>
+       <term>in middle ileum glands ulcerated, some ulcers contained tubercles</term>
+       <term>in lower ileum Peyer's patches extensively ulcerated</term>       
+       <term>autopsy performed</term>       
+     </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change who="#mb" when="2013-01-23">additional proofing of transcription and encoding, identified keyword terms</change>
+   <change who="#el" when="2010-11-05">case text extracted and transformed from larger file</change>
+   <change who="#sb" when="2010-05-01">enrich encoding, proof and edit</change>
+   <change who="#ao" when="2008-10-02">encoding and editing</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body> 
+   <p>One of eight cases observed at the <name type="hospital" key="440"><hi rend="initialcap">F</hi>REEDMAN'S <hi rend="initialcap">H</hi>OSPITAL</name>, Washington, D. C., during 1865, 1866, and 1867.&#8432;  In none of them were the patients soldiers. Five are of interest as examples of tubercular ulceration of the intestines. Besides the specimens from these cases, several other examples of tubercular ulceration of the intestines are preserved at <name type="hospital" key="431">the Museum</name>, which were obtained from autopsies of colored women who died at the same hospital during the period mentioned. . . . In all of them extensive tubercular deposits were found in the lungs and other organs. Most of the specimens are portions of the ileum with tubercular ulcers of the mucous membrane and miliary tubercles on the peritoneal surface opposite:</p>
+   <p><hi rend="initialcap">C</hi>ASE 862.&#8212;<name type="person" key="xxx">Stephen Green</name>, a dark mulatto; age 31; admitted <date type="admit" when="1865-09-05">September 5, 1865</date>.  When admitted he had <choice><orig>dulness</orig><reg>dullness</reg></choice> on percussion under both clavicles, pain on pressure under the clavicles and over the stomach, and cough causing pain in the pr&#230;cordial region. He was extremely emaciated and had night-sweats; his bowels were constipated; his appetite good up to three hours before death.  Died, <date type="death" when="1865-12-17">December 17th</date>, at 10 A. M.  <hi rend="italic">Autopsy</hi> <date type="autopsy" when="1865-12-18">sixteen hours after death</date>: Height five feet three inches; weight about 120 pounds; some emaciation; rigor mortis well marked. The brain weighed forty-six ounces and a half; the pia mater was congested; there was an ounce of serum in the subarachnoid space, a drachm in each lateral ventricle; the substance of the brain was soft. The cerebellum was congested, its substance very soft; the posterior foss&#230; of the cranium contained two ounces of serum. The upper portion of the left lung was slightly adherent to the pleura costalis; there were a number of small vomic&#230; throughout its upper lobe; the lung was filled with gray tubercles; it weighed twelve ounces; the upper portion of the right lung was firmly adherent, the lower portion adherent by numerous fibrinous bands; the upper lobe contained numerous vomic&#230;, some as large as a hulled walnut, and was filled with tubercles; the lower lobe was congested and contained many tubercles; it weighed nineteen ounces. The pericardium contained no fluid. The heart was very dark colored and congested; there was a large firm white clot in the right ventricle extending into the pulmonary artery; a similar one in the right auricle; also a small one in the left ventricle, which extended into the aorta; the valves were normal; the heart weighed eight ounces. The liver was small and congested; it presented a mottled appearance externally and was of a dark reddish brown internally. The spleen was small and shrivelled; it was of a light-blue color and weighed three ounces and a half. The right kidney was small; its cortical substance congested and fatty; it weighed three ounces; the left kidney weighed three ounces and a half and was in the same condition as the right. The mucous membrane of the stomach was thickened and slightly congested; that of the duodenum much thickened and unusually congested; that of the jejunum thickened, congested, and a few of the solitary glands ulcerated. In the upper portion of the ileum Peyer's patches were slightly ulcerated and the gut considerably congested; in the middle portion a number of the glands were ulcerated; some of the ulcers were scooped out, with rough irregular edges, others had thickened raised edges; some of the patches contained deposits of tubercles [?]; in the lower portion Peyer's patches were extensively ulcerated; near the ileoc&#230;cal valve the ileum was very much congested. The c&#230;cum was filled with hard f&#230;ces, was much congested, and presented ulcers over nearly half its surface. The ascending colon was much distended at the hepatic flexure with a collection of hard f&#230;ces; the transverse colon was very large, and distended with gas to fully three inches in diameter; the descending colon was sacculated and contained a collection of hard lumpy f&#230;ces. The sigmoid flexure was distended with gas. The rectum contained lumps of hard f&#230;ces. The colon presented numerous points of ulceration throughout its whole extent, particularly at the points containing f&#230;ces, which had the appearance of having been confined for some time at these places. The bladder was small, its walls slightly thickened; it contained a small quantity of pus like fluid.&#8212;<name type="person" key="3420">Hospital Steward Samuel S. Bond</name>.   [No. 674, Medical Section, <name type="hospital" key="431">Army Medical Museum</name>, is from this case.  The specimen is a portion of the ileum taken from near the ileoc&#230;cal valve, showing a Peyer's patch, which is moderately thickened and presents a considerable number of small ulcers.]</p>
+   <p>&#8432; During this period two of the hospital stewards on duty in <name type="hospital" key="431">the Museum</name>, <name type="person" key="3421">D. S. Lamb</name> and <name type="person" key="3420">S. S. Bond</name>, were frequently sent to the <name type="hospital" key="440">Freedman's Hospital</name> for the purpose of making autopsies. A considerable number of specimens illustrative of the diseases of the freedmen were thus obtained.</p> 
+  </body>
+ </text>
+</TEI>

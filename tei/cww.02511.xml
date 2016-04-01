@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="cww.02511">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Letters From "Ethiop." Number V</title>
+                <title level="m" type="sub">a machine readable transcription</title>
+                <editor role="editor">R. J. Weir</editor>
+                <principal>Susan C. Lawrence</principal>
+                <principal>Elizabeth Lorang</principal>
+                <principal>Kenneth M. Price</principal>
+                <principal>Kenneth J. Winkle</principal>
+                <respStmt>
+                    <resp>transcription and encoding</resp>
+                    <persName xml:id="ak">Alex Kinnaman</persName>
+                    <persName xml:id="el">Elizabeth Lorang</persName>
+                    <persName xml:id="bw">R. J. Weir</persName>
+                    <persName xml:id="kk">Kourtney Klein</persName>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2015</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <idno>cww.02511</idno>
+                <distributor>Civil War Washington</distributor>
+                <publisher>University of Nebraska Lincoln</publisher>
+                <address>
+                    <addrLine>Center for Digital Research in the Humanities</addrLine>
+                    <addrLine>319 Love Library</addrLine>
+                    <addrLine>University of Nebraska-Lincoln</addrLine>
+                    <addrLine>P.O. Box 884100</addrLine>
+                    <addrLine>Lincoln, NE 68588-4100</addrLine>
+                </address>
+                <address>
+                    <addrLine>
+                        <email>cdrh@unl.edu</email>
+                    </addrLine>
+                </address>
+                <date>2015</date>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+                        <p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License (http://creativecommons.org/licenses/by-nc-sa/3.0/). Derivatives must be credited to Civil War Washington and R. J. Weir, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct xml:id="letter">
+                    <analytic>
+                        <author ref="#ethiop">Ethiop</author>
+                        <title type="main" level="a">Letters From "Ethiop"</title>
+                        <title type="sub" level="a">Number V</title>
+                    </analytic>
+                    <monogr>
+                        <title xml:id="paper" level="j">The Anglo-African</title>
+                        <imprint>
+                            <date xml:id="issue_date" when="1863-10-10">10 October 1863</date>                    
+                        </imprint>
+                        <biblScope type="pp">[1]</biblScope>                    
+                    </monogr>           
+                </biblStruct>
+                
+                <biblStruct xml:id="issue">               
+                    <monogr>
+                        <title level="j" sameAs="#paper"/>
+                        <imprint>
+                            <date sameAs="#issue_date"/>                  
+                        </imprint>              
+                    </monogr>                   
+                </biblStruct>                        
+            </sourceDesc>       
+        </fileDesc>
+        <encodingDesc> 
+            <p>This electronic text is a semi-diplomatic transcription of the source text. Hyphenation, punctuation, variant spellings, and errors present in the source text have been retained. The transcription does not attempt to capture all aspects of the original formatting or layout.</p>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <persName xml:id="ethiop">Wilson, William J.</persName>
+                <persName xml:id="rh">Hamilton, Robert</persName>
+                <persName xml:id="th">Hamilton, Thomas</persName>
+                <date when="1863">1863</date>
+            </creation>
+            <langUsage>
+                <language ident="en-US">modern American English</language>
+            </langUsage>
+            <textClass>
+                <classCode scheme="http://authorities.loc.gov">
+                    <term xml:id="n98802468">Abbott, Anderson Ruffin, 1832-1913</term>
+                    <term xml:id="sh2009114063">African Americans--Washington (D.C.)</term>
+                    <term xml:id="no94014581">Augusta, Alexander T., 1825-</term>
+                    <term xml:id="sh85051692">Freedmen</term>
+                    <term xml:id="n50033418">Gilmore, James R. (James Roberts), 1822-1903</term>
+                    <term xml:id="sh2001003369">Slave narratives</term>
+                    <term xml:id="sh85123326">Slavery--United States</term>
+                    <term xml:id="nr93003067">Smith, James McCune, 1813-1865</term>
+                    <term xml:id="n79093331">Stowe, Harriet Beecher, 1811-1896</term>
+                    <term xml:id="sh85140239">United States--History--Civil War, 1861-1865--Hospitals</term>
+                </classCode>
+                <classCode scheme="http://civilwardc.org">
+                    <term>Powell, William P., 1834-1915</term>
+                    <term>Rector, Morton</term>
+                    <term>Thornton, George</term>
+                    <term>Wright, Nora</term>
+                    <term>Washington, Ellen</term>
+                    <term>Ford, George</term>
+                    <term>Matthews, Henson</term>
+                    <term target="http://civilwardc.org/data/places/view/655">Camp Barker</term>
+                </classCode>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when="2015-04-07" who="#ak">corrected</change>
+            <change when="2015-03-24" who="#el">checked and corrected transcription and encoding; updated TEI header, including keywords</change>
+            <change when="2015-03-03" who="#ak">updated keywords</change>
+            <change when="2015-02-23" who="#ak">checked, corrected, updated xml:id</change>
+            <change when="2014-08-06" who="#el">checked transcription and encoding</change>
+            <change when="2014-04-14" who="#el">checked encoding; revised TEI header</change>
+            <change when="2014-04-30" who="#kk">encoded</change>
+            <change when="2014-04" who="#kk">checked transcription</change>
+            <change when="2014-04-01" who="#bw">checked transcription</change>
+            <change when="2014-03" who="#bw">transcribed</change>
+        </revisionDesc>
+    </teiHeader>
+    
+    <facsimile corresp="#issue">
+        <surface xml:id="pp1">
+            <graphic url="aa.18631010.pp1.jpg"/>
+            <zone xml:id="pp1_cropped" corresp="#letter">
+                <graphic url="aa.18631010.pp1_cropped.jpg"/>
+            </zone>
+        </surface>
+        <surface xml:id="pp2">
+            <graphic url="aa.18631010.pp2.jpg"/>
+        </surface>
+        <surface xml:id="pp3">
+            <graphic url="aa.18631010.pp3.jpg"/>
+        </surface>
+        <surface xml:id="pp4">
+            <graphic url="aa.18631010.pp4.jpg"/>
+        </surface>
+    </facsimile>
+    
+    <text corresp="#letter #pp1_cropped">
+        <body>
+            <head type="main" subtype="authorial" rend="center"><emph rend="italic">LETTERS FROM &#8220;ETHIOP.&#8221;</emph></head>
+            
+            <milestone unit="undeclared" rend="short-bar"/>
+            
+            <head type="sub" subtype="authorial" rend="center">NUMBER V.</head>
+            
+            <opener>
+                <salute><emph rend="smallcaps">Dear Doctor</emph>:</salute>
+            </opener> 
+            
+            <p>We were up betimes the next <lb/>day; people here rise before the <emph rend="italic">Larks;</emph> and <lb/>if you wish to stand well you must rise with <lb/>the people. We were up, therefore, and to <lb/>business early, that we might have no <choice><orig>hin-<lb/>drance</orig><reg>hindrance</reg></choice> to our afternoon's visit to the <choice><orig>Freed-<lb/>men's</orig><reg>Freedmen's</reg></choice> Camp at Washington, intimated in my <lb/>last.</p>
+            
+            <p>Business over, we found ourselves at the <lb/>camp by 2 o'clock p.m., and very cordially <choice><orig>re-<lb/>ceived</orig><reg>received</reg></choice> by Drs. Powell and Abbot, Dr. Augusta <lb/>coming into camp shortly after our arrival. <lb/>Dinner was in waiting, and we were, by <choice><orig>rea-<lb/>son</orig><reg>reason</reg></choice> of the hour and the result of the day's <lb/>work, well prepared to do it justice. Have <lb/>you a clear idea of a camp dinner&#8212;I mean not <lb/>among the rank and file, but among the belted <lb/>and epauletted gentlemen? If you have not, <lb/>rid yourself of the thought of tough junk beef, <lb/>salt hickory pork, Bohea tea, sugarless; black <lb/>bread without butter, and soft, watery <choice><orig>pota-<lb/>toes</orig><reg>potatoes</reg></choice> with the skins on. Rid yourself, also, of <lb/>the idea of dirty sleeves and dirtier aprons, <lb/>bad cooking, and rough pine tables without <lb/>covers, and smoky coffee in tin cans. All this <lb/>may sound well in romance, and may be <choice><orig>lite-<lb/>rally</orig><reg>literally</reg></choice> true somewhere; but be assured, my <lb/>dear sir, none of it was apparent at the dinner <lb/>given by <emph rend="italic">The Shoulder-Straps</emph> to their friends <lb/>at <emph rend="italic">Camp in these Latter Days</emph> at Washington.</p>
+                 
+                <p>You have but to subtract out of the account <lb/>unceiled hat-rooms and unplained and <choice><orig>uncar-<lb/>peted</orig><reg>uncarpeted</reg></choice> floors, iron knives with backs and blades <lb/>undistinguishable, and shapeless forks with <lb/>pointless prongs; and for the rest, a camp <lb/>dinner with the <emph rend="italic">elect&#8212;the Shoulder-Straps</emph>&#8212;is <lb/>one of the cosiest, jolliest, <emph rend="italic"><choice><orig>longest-to-be-remem-<lb/>bered</orig><reg>longest-to-be-remembered</reg></choice></emph> things conceivable; presenting the best <lb/>viands the land affords, and served up in the <lb/>best manner imaginable. Ours, on this <choice><orig>occa-<lb/>sion</orig><reg>occasion</reg></choice>, was so eminently so in every particular <lb/>that I should fail to do it justice were I to <lb/>attempt any further description of it. A <lb/>smart-looking little fellow, and a fine, frank, <lb/>intelligent buxom lass, both having been not <lb/>long since transferred from bits of property to <lb/>good specimens of humanity, curtesied in <choice><orig>at-<lb/>tendance</orig><reg>attendance</reg></choice> upon us as we regaled ourselves <lb/>from the rich repast so bountifully provided.</p>
+            
+                <p>It may seem undignified in a gentleman&#8212;a <lb/>guest at dinner-table&#8212;to converse with the <lb/>servants thereof; but as our visit had a <choice><orig>dou-<lb/>ble</orig><reg>double</reg></choice> purpose&#8212;to dine with our <emph rend="italic">friends</emph> proper <lb/>and to take a look in at our recently <choice><orig>emanci-<lb/>pated</orig><reg>emancipated</reg></choice> friends&#8212;we broke through all rule and <lb/>began with these two, who occupied the back <lb/>ground of the <emph rend="italic">Officers' Camp Dining Room</emph>. <lb/>"How old are you?" said I to the one of the <lb/>feminine gender. "Just twenty, sir," she <choice><orig>re-<lb/>sponded</orig><reg>responded</reg></choice> in a good round ringing voice that <lb/>was truly electric*<anchor xml:id="a1"/>; while her countenance <lb/>lighted up with an intelligence usually found <lb/>only among the most refined. "Were you a <lb/>slave?" "Oh, yes sir; always till the <choice><orig>Yan-<lb/>kees</orig><reg>Yankees</reg></choice> come <choice><sic>done</sic><corr>down</corr></choice> here, sir." "How did you <lb/>get free?" "Why, when the Yankees, some <lb/>of them, one time, got upset from a small boat <lb/>and were about to drown, I swam off and saved <lb/>the lives of several of them; and they freed <lb/>me and took me along<choice><sic>.</sic><corr>."</corr></choice> The recital of this <lb/>simple story, of which this is but the outline, <lb/>though Dr. Augusta attested to its <choice><orig>truthful-<lb/>ness</orig><reg>truthfulness</reg></choice>, so effected me that I forgot to inquire <lb/>when and where it occurred. So pleased was <lb/>I with the ready intelligence and frankness of <lb/>this girl, that I tauntingly quizzed one of the <lb/>doctors about her; and he will not, I trust, <lb/>now challenge me to mortal combat if I <choice><orig>con-<lb/>fess</orig><reg>confess</reg></choice>, that in my imagination (which is ever <lb/>running astray) I see him striding down <choice><orig>Penn-<lb/>sylvania</orig><reg>Pennsylvania</reg></choice> avenue with this bouncing lass <choice><orig>tug-<lb/>ging</orig><reg>tugging</reg></choice> away at his arm, <emph rend="italic">a la</emph> Darby and Joan, <lb/>she only a few steps in the rear.</p>
+            
+            <p>After dinner we accompanied the Doctor and <lb/>assistants through the hospital, and found, to <lb/>our high satisfaction, everything clean and in <lb/>good order. Too much praise cannot be given <lb/>to these gentlemen for their efforts to afford <lb/>every comfort to those under their charge here.</p>
+            
+                <p>There were, I think, some 129 patients under <lb/>their care, among whom I found many <choice><orig>interest-<lb/>ing</orig><reg>interesting</reg></choice> cases. He who will go from camp to <lb/>camp, and sit down and listen to and gather <lb/>up the simple stories of these once hard <choice><orig>op-<lb/>pressed</orig><reg>oppressed</reg></choice> but now liberated people, and in all <lb/>faithfulness print them, will produce the <choice><orig>great-<lb/>est</orig><reg>greatest</reg></choice> book of the age&#8212;the book of America&#8212;a <lb/>book beside which "Dred," and "Among the <lb/>Pines," and "Uncle Tom's Cabin," will seldom <lb/>be mentioned.</p>
+            
+            <p>We listened to many of these stories in <lb/>brief, and felt often our throat swelling and <lb/>the tear starting; often the cold sweat upon <lb/>our brow, often a sudden dizziness seized upon <lb/>us as we heard and felt, and reflected: <lb/>"Oh righteous God, we know Thy justice sleepeth not!"</p>
+            
+            <p>What is remarkable, and what I leave for <lb/>ethnologists to decipher, is the many cases of <lb/>very aged persons to be found among these <lb/>freedmen.</p>
+            
+            <p>For example: Morton Rector, a slave boy, <lb/>aged 80 (of course, all are boys here until <lb/>they can't work), quite interesting, a slave all <lb/>his life till the Yankees came, and only since <lb/>then has he left off work. George Thornton, a <lb/>boy of 73 years of age, is taking matters a <choice><orig>lit-<lb/>tle</orig><reg>little</reg></choice> easy now for the first time. Nora Wright, <lb/>a girl, aged 67, has worked in the field of an <lb/>old Virginia white brother since she was seven <lb/>years old. Knew that the Yankees were <choice><orig>com-<lb/>ing</orig><reg>coming</reg></choice>; was right glad of it; did not dare to say <lb/>so. They entered old master's premises, and <lb/>old master and all his household skedaddled <lb/>in double quick save the girl Nora and her <lb/>sable kith and kin, who saw the Yankees eat <lb/>up all old massa's bacon and drink up all his <lb/>wine, etc., etc.; and then Nora and all the <lb/>black household struck out for other parts. <lb/>Nora is now taking a little comfort at <choice><orig>Wash-<lb/>ington</orig><reg>Washington</reg></choice> <emph rend="italic">Camp</emph>. Ellen Washington, a girl of <lb/>52, has seen much of slave life's rough <choice><orig>wea-<lb/>ther</orig><reg>weather</reg></choice>, and has been obliged to have both legs <lb/>cut off, and sits in the Contraband Camp to-day <lb/>a picture of American slavery. George Ford, <lb/>a boy who has neither feet nor hands&#8212;the <lb/>miraculous institution has brought out the fact <lb/>such can be made to work&#8212;is quite handy. <lb/>This boy George lost these unimportant <choice><orig>mem-<lb/>bers</orig><reg>members</reg></choice> of his body forty years ago, and is now <lb/>63, but till recently has never ceased to work <lb/>for old master. George is from "my <choice><orig>Mary-<lb/>land</orig><reg>Maryland</reg></choice>"; and one day hearing of these same <lb/>confounded Yankees being in that vicinity, and <lb/>having a mother somewhere in the District, <lb/>kindly told his master that he was going to <lb/>see her. And so George, though footless, <lb/>stepped out; and the Yankees, so he says, <lb/>with a kind of twinkle in his eyes, detained <lb/>him. No matter; George's hands and feet <lb/>and legs are still up in "my Maryland," and <lb/>perhaps old master L&#8212;&#8212;, being a doctor (no <lb/>offence, sir), may be able to resurrect and <choice><orig>gal-<lb/>vanize</orig><reg>galvanize</reg></choice> these, and be satisfied. George has <lb/>language large, is witty, sensible, fluent in <lb/>speech, and is quite a companionable fellow; <lb/>another picture of the slavocracy's idea of a <lb/>brute. Then, again, here is Henson Mathews. <lb/>This is the oldest boy of the camp&#8212;or I <choice><orig>sup-<lb/>pose</orig><reg>suppose</reg></choice> we may now call him a man, since he was <lb/>compelled to leave off work&#8212;that is, regular <lb/>work&#8212;three years ago. Henson Mathews is <lb/>now 109 years of age, and has worked, of <lb/>course, for Masters B&#8212;&#8212; well nigh for one <lb/>hundred years, for he has been handed down <lb/>from father to son since his birth. Henson <lb/>remembers the Father of his Country, Gen. <lb/>Washington, well; rowed him many a time <lb/>across the Potomac, James, and other rivers <lb/>of the Old Domain; has a clear remembrance <lb/>of the remarkable countenance of the old <choice><orig>Gene-<lb/>ral</orig><reg>General</reg></choice>, and of his staid manners and great <choice><orig>auste-<lb/>rity</orig><reg>austerity</reg></choice>, so becoming his large bony frame and <lb/>large immovable features. Henson, as you <lb/>may know, is himself a scion of the Old <choice><orig>Do-<lb/>main</orig><reg>Domain</reg></choice> also. Mr. Mathews (for I must so <choice><orig>de-<lb/>nominate</orig><reg>denominate</reg></choice> him) is a <emph rend="italic">carpenter</emph> by trade; and <lb/>only think of ninety full years of hard, <choice><orig>unre-<lb/>mitting</orig><reg>unremitting</reg></choice> service given by this one man to a <choice><orig>sin-<lb/> gle</orig><reg>single</reg></choice> family, and but wounds, and bruises and <lb/>scars in return for it! Not a dollar nor even <lb/>a wherewith at 109 years of age to pillow his <lb/>whitened head; another picture of the infamous <lb/>monster slavery, who pursues a man a hundred <lb/>years, into old age, aye, to the very grave's <lb/>mouth, for dominion and for greed. But the <lb/>owner of this man&#8212;where is he? With all <lb/>his once hoarded wealth, and once many broad <lb/>plantation acres, he is to-day an infirm, <choice><orig>help-<lb/>less</orig><reg>helpless</reg></choice> creature, skulking and crawling through<lb/>the fastnesses of his long-cherished and native <lb/>State; while old Father Mathews, with head <lb/>erect, and eye that yet flashes with the fire of <lb/>youth and vigor, and has never yet been <lb/>shaded with glasses or other helps, sits in the <lb/>door of his tent enjoying the setting sun of his <lb/>life as he watches each day's setting sun which <lb/>so much resembles his own. The old man <choice><orig>oc-<lb/>cupies</orig><reg>occupies</reg></choice> his leisure in making pocket combs, <lb/>which he sells to visitors, one of which we <lb/>purchased and put into our pocket as a <choice><orig>me-<lb/>mento</orig><reg>memento</reg></choice> of him. Having seen the beginning, <lb/>may he be preserved to see the last <choice><orig>relict</orig><reg>relic</reg></choice> of <lb/>American barbarism swept away, and a higher <lb/>state than any man has yet any where attained <lb/>to be inaugurated in its stead; and then say, <lb/>"Now let'st thy servant depart in peace."</p>
+            
+                <p>Of the Camp here and its management much <lb/>can and ought to be said. If these freed <choice><orig>peo-<lb/>ple</orig><reg>people</reg></choice> are to be raised up and fitted for full <choice><orig>mem-<lb/>bership</orig><reg>membership</reg></choice> in this Republic, with its new modeling <lb/>and new destiny, a radical change in the <choice><orig>man-<lb/>agement</orig><reg>management</reg></choice> of all these camps and this people is <lb/>imperatively and immediately demanded. <lb/>More anon.</p>
+            
+            <closer><salute rend="center">Yours truly,</salute>    
+            <signed rend="right"><emph rend="smallcaps">Ethiop</emph>.</signed></closer>
+            <note type="newspaper-editorial"><emph rend="italic">To James M'Cune Smith, M.D.</emph></note>
+            
+            <note type="authorial" anchored="true" corresp="#a1">* Hem!&#8212;<unclear reason="illegible" cert="medium">P</unclear>.D.</note>
+            
+            
+        </body>
+    </text>
+    
+</TEI>
+

@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d2e4305">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Stepps, G. W.</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+    <idno>med.d2e4305</idno>
+    <authority>Civil War Washington</authority>
+    <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor><name>Center for Digital Research in the
+     Humanities</name><address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address></distributor>
+    <date>2011</date>
+    <availability>
+     <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+      republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+      law, requires express written consent from the editors and advance notification of the
+      publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+ <persName xml:id="kw">Kenneth Winkle</persName> 
+     <persName xml:id="ajh">AJ Howell</persName>
+     <persName xml:id="mb">Matthew Bosley</persName>
+     <persName xml:id="el">Elizabeth Lorang</persName>
+     <persName xml:id="sb">Stacey Berry</persName>
+     <persName xml:id="et">Elisabeth Tracey</persName>
+     <persName xml:id="ss">Sarah Synovec</persName>
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title level="j">The Medical and Surgical History of the War of the Rebellion.
+      (1861-65.)</title><pubPlace>Washington, DC</pubPlace><publisher>Government Printing
+      Office</publisher><biblScope type="part">Part 3</biblScope><biblScope type="volume">Volume
+      2</biblScope><date when="1883">1883</date><biblScope type="page">79</biblScope></bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+     <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <keywords scheme="#medsurg">
+     <term>wounds and injuries of the lower extremities</term>
+     <term>wounds and injuries of the hip joint</term>
+     <term>shot fractures at the hip joint</term>
+     <term>shot fractures at the hip joint unsuccessfully treated by conservation</term>
+     <term>acetabulum and head of femur fractured</term>
+     <term>gunshot wound of groin</term>
+     <term>ball entered below and exterior to Poupart's ligament, fracturing head of femur and
+      acetabulum</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+ <change who="#kw" when="2014-05">blessed</change>
+   <change who="#el" when="2014-07-03">corrected typo in figure head</change>
+   <change who="#ajh" when="2013-08-21">added figure encoding</change>
+   <change who="#mb" when="2012-02-14">additional proofing of transcription and encoding, identified
+    keyword terms</change>
+   <change who="#el" when="2011-05-11">case text extracted and transformed from larger file</change>
+   <change who="#sb" when="2011-06-04">Enrich Encoding, Edit and validate</change>
+   <change who="#sb" when="2011-01-28">Validated File</change>
+   <change who="#ss" when="2008-09-22">Sarah Synovec initial checking of OCR text; encoded P5
+    Encoding</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+
+   <p>
+    <hi rend="initialcap">C</hi>ASE 159.&#8212;<name type="person" key="932">Corporal <hi
+      rend="italic">G. W. Stepps</hi></name>, <name type="organization" key="381">Co. C, 20th North
+     Carolina</name>, aged 20 years, was wounded at <name type="BATTLE" key="3"><choice>
+      <orig>Spottsylvania</orig>
+      <reg>Spotsylvania</reg>
+     </choice></name>, <date type="injury" when="1864-05-12">May 12, 1864</date>, and entered <name
+     type="hospital" key="176">Lincoln Hospital</name>, Washington, on <date type="admit"
+     when="1864-05-22">May 22d</date>. <name type="person" key="243">Assistant Surgeon J. C.
+     McKee</name>, <name type="organization" key="190">U. S. A.</name>, reported: &#34;Gunshot wound
+    of right groin, a mini&#233; ball entering half an inch below and exterior to the middle of
+    Poupart's ligament, fracturing the head of the femur and the acetabulum, and escaping at the
+    middle of the right <choice>
+     <sic>nates</sic>
+     <corr>natis</corr>
+    </choice>. Death occurred on <date type="death" when="1864-06-10">June 10, 1864</date>.&#34; A
+    portion of the os innominatum, represented in the wood-cut (<hi rend="initialcap">F</hi>IG. 32),
+    was contributed by <name type="person" key="246">Acting Assistant Surgeon H. M.
+     Dean</name>.&#8212;(<hi rend="italic">Cat. Surg. Sect.</hi>, 1866, p. 236, <hi rend="italic"
+     >Spec</hi>. 2488.) </p>
+
+   <figure><graphic url="cww.001522.001"/><head>
+    <hi rend="initialcap">F</hi>IG. 32.&#8212;Portion of right innominatum, with fracture of base of
+    the acetabulum. <hi rend="italic">Spec</hi>. 2488.</head></figure>
+
+  </body>
+ </text>
+</TEI>

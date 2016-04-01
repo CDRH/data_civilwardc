@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e14769">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">B&#8212;&#8212;, Joseph</title>
+                <title level="m" type="sub">a machine readable transcription</title>
+                <principal>Susan C. Lawrence</principal>
+                <principal>Kenneth M. Price</principal>
+                <principal>Kenneth J. Winkle</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2011</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <idno>med.d1e14769</idno>
+                <authority>Civil War Washington</authority>
+                <publisher>University of Nebraska–Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+                </distributor>
+                <date>2011</date>
+                <availability>
+                    <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved.
+                        Redistribution or republication in any medium, except as allowed under the
+                        Fair Use provisions of U.S. copyright law, requires express written consent
+                        from the editors and advance notification of the publisher, the University
+                        of Nebraska–Lincoln.</p>
+                </availability>
+            </publicationStmt>
+            <notesStmt>
+                <note type="project">The following are responsible for particular readings or for
+                    changes to this file, as noted: 
+ <persName xml:id="kmp">Kenneth M. Price</persName> <persName xml:id="ajh">AJ Howell</persName>
+                    <persName xml:id="mb">Matthew Bosley</persName>
+                    <persName xml:id="el">Elizabeth Lorang</persName>
+                    <persName xml:id="sb">Stacey Berry</persName>
+                    <persName xml:id="et">Elisabeth Tracey</persName>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>The Medical and Surgical History of the War of the Rebellion.
+                        (1861&#8211;65.)</title>
+                    <editor role="compiler">Surgeon General Joseph K. Barnes, United States
+                        Army</editor>
+                    <pubPlace>Washington, D.C.</pubPlace>
+                    <publisher>Government Printing Office</publisher>
+                    <biblScope type="part">Part 1</biblScope>
+                    <biblScope type="volume">Volume 2</biblScope>
+                    <date when="1870">1870</date>
+                    <biblScope type="page">214</biblScope>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <classDecl>
+                <taxonomy xml:id="medsurg">
+                    <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme="#medsurg">
+                    <term>on special wounds and injuries of the head</term>
+                    <term>wounds and injuries of the head</term>
+                    <term>gunshot wounds</term>
+                    <term>gunshot fractures of the cranial bones</term>
+                    <term>crash, smash, or ecrasement</term>
+                    <term>depressed skull fractures produced by cannon balls or by explosion of
+                        large shells, commonly attended by comminution and disjunction of
+                        sutures</term>
+                    <term>other obviously fatal comminution of cranium by gunshot projectiles</term>
+                    <term>abscess over right eye opened in middle of upper lid, pus and fragments of
+                        bone freely discharged</term>
+                    <term>large abscess in anterior left hemisphere of brain</term>
+                    <term>fragment of shell entered centre of frontal bone, passed around left side
+                        of head, emerged near temporo-frontal suture</term>
+                    <term>autopsy performed</term>
+                    <term>comminuted fracture of frontal bone</term>
+                    <term>perforation of dura mater with abscess</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+ <change who="#kmp" when="2014-05">blessed</change>
+            <change who="#ajh" when="2013-08-19">added figure encoding</change>
+            <change who="#mb" when="2013-07-22">additional proofing of transcription and encoding,
+                edited and added keyword terms</change>
+            <change who="#mb" when="2011-07-26">additional proofing of transcription and
+                encoding</change>
+            <change who="#el" when="2011-11-05">case text extracted and transformed from larger
+                file</change>
+            <change who="#sb" when="2011-02-09">enriched encoding</change>
+            <change who="#sb" when="2011-01-28">validated file</change>
+            <change who="#et" when="2009-08-01">encoded</change>
+            <change who="#sb" when="2008-09-22">initial checking of OCR text against PDF;
+                encoded</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body xml:id="ch1.sc3.279">
+            <p><hi rend="initialcap">C</hi>ASE.&#8212;<name type="person" key="1616">Private Joseph
+                    B&#8212;&#8212;</name>, <name type="organization" key="811">Co. D, 17th
+                    Massachusetts Volunteers</name>, was wounded near <name type="battle">New Berne,
+                    North Carolina</name>, <date type="injury" when="1862-09-01">September 1st,
+                    1862</date>, by a fragment of shell which entered about the centre of the
+                frontal bone, passed around the left side of the head, and emerged near the
+                temporo-frontal suture. He was admitted to the <name type="hospital" key="162"
+                    >Douglas Hospital</name>, Washington, on <date type="admit" when="1862-09-05"
+                    >September 5th, 1862</date>, being partially conscious, with the right eye
+                closed and greatly swollen. The skull between the two apertures felt soft. On
+                September 10th, an abscess over the right eye opened about the middle of the upper
+                lid, and pus and a few fragments of bone were freely discharged. On September 13th,
+                the patient became comatose, and died on <date type="death" when="1862-09-16"
+                    >September 16th, 1862</date>. At the autopsy, a large abscess was found in the
+                anterior lobe of the left hemisphere. The pathological specimens are Nos. 236 and
+                514. The former shows a section of the cranium with an extensive comminuted fracture
+                of the frontal bone a little to the left of the median line; the latter a wet
+                preparation of the encephalon, with perforation of the dura mater, and abscess in
+                the upper part of the anterior lobe of the left half of the cerebrum. The specimens
+                were contributed by <name type="person" key="305">Assistant Surgeons W.
+                    Webster</name> and <name type="person" key="1135">J. W. Williams</name>, <name
+                    type="organization" key="190">U. S. A.</name>, respectively. The <choice>
+                    <orig>calvaria</orig>
+                    <reg>calvarium</reg>
+                </choice> is represented in the wood-cut, (<hi rend="initialcap">F</hi>IG. 111.) It
+                is very thin.</p>
+            <figure>
+                <graphic url="cww.001404.001"/>
+                <head><hi rend="initialcap">F</hi>IG. 111.&#8212;Fracture of the frontal bone by a
+                    shell fragment. <hi rend="italic">Spec</hi>. 236, Sect. I, A. M. M.</head>
+            </figure>
+        </body>
+    </text>
+</TEI>

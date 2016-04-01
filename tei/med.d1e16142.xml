@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e16142">
+                <teiHeader>
+                                <fileDesc>
+                                                <titleStmt>
+                                                                <title level="m" type="main">Murphy, Owen</title>
+                                                  <title level="m" type="sub">a machine readable
+                                                  transcription</title>
+                                                  <principal>Susan C. Lawrence</principal>
+                                                  <principal>Kenneth M. Price</principal>
+                                                  <principal>Kenneth J. Winkle</principal>
+                                                </titleStmt>
+                                                <editionStmt>
+                                                  <edition>
+                                                  <date>2011</date>
+                                                  </edition>
+                                                </editionStmt>
+                                                <publicationStmt>
+                                                  <idno>med.d1e16142</idno>
+                                                  <authority>Civil War Washington</authority>
+                                                  <publisher>University of
+                                                  Nebraska–Lincoln</publisher>
+                                                  <distributor>
+                                                  <name>Center for Digital Research in the
+                                                  Humanities</name>
+                                                  <address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+                                                  </distributor>
+                                                  <date>2011</date>
+                                                  <availability>
+                                                  <p>Copyright © 2011 by University of
+                                                  Nebraska–Lincoln, all rights reserved.
+                                                  Redistribution or republication in any medium,
+                                                  except as allowed under the Fair Use provisions of
+                                                  U.S. copyright law, requires express written
+                                                  consent from the editors and advance notification
+                                                  of the publisher, the University of
+                                                  Nebraska–Lincoln.</p>
+                                                  </availability>
+                                                </publicationStmt>
+                                                <notesStmt>
+                                                  <note type="project">The following are responsible for particular readings or for changes to this file, as noted: 
+                                                                  <persName xml:id="mb">Matthew Bosley</persName>
+                                                                  <persName xml:id="el">Elizabeth Lorang</persName>
+                                                  <persName xml:id="sb">Stacey Berry</persName>
+                                                  <persName xml:id="et">Elisabeth Tracey</persName>
+                                                  </note>
+                                                </notesStmt>
+                                                <sourceDesc>
+                                                  <bibl>
+                                                  <title>The Medical and Surgical History of the War of the Rebellion. (1861&#8211;65.)</title>
+                                                  <editor role="compiler">Surgeon General Joseph K. Barnes, United States Army</editor>
+                                                  <pubPlace>Washington, D.C.</pubPlace>
+                                                  <publisher>Government Printing Office</publisher>
+                                                  <biblScope type="part">Part 1</biblScope>
+                                                  <biblScope type="volume">Volume 2</biblScope>
+                                                  <date when="1870">1870</date>
+                                                  <biblScope type="page">239</biblScope>
+                                                  </bibl>
+                                                </sourceDesc>
+                                </fileDesc>
+                                <encodingDesc>
+                                                <classDecl>
+                                                  <taxonomy xml:id="medsurg">
+                                                  <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+                                                  </taxonomy>
+                                                </classDecl>
+                                </encodingDesc>
+                                <profileDesc>
+                                                <textClass>
+                                                  <keywords scheme="#medsurg">
+                                                    <term>on special wounds and injuries of the head</term>
+                                                    <term>wounds and injuries of the head</term>
+                                                    <term>gunshot wounds</term>
+                                                    <term>gunshot fractures of the cranial bones</term> 
+                                                    <term>removal of fragments after gunshot fractures of the skull</term>
+                                                    <term>recovered after gunshot fractures of the skull</term>
+                                                    <term>foreign bodies</term>
+                                                    <term>recovery after removal of fragments of skull for gunshot fracture</term>
+                                                    <term>extraneous substances as cloth or felt or leather extracted with bone splinters</term>
+                                                    <term>survived with disabilities of various degrees, brain more or less seriously affected</term>
+                                                    <term>gunshot fracture of parietal bone near coronal suture</term>
+                                                    <term>removal of pieces of bone</term>
+                                                    <term>constant vertigo</term>                                                      
+                                                    <term>disability one-fourth and temporary</term>                                                                  
+                                                  </keywords>
+                                                </textClass>
+                                </profileDesc>
+                                <revisionDesc>
+                                                <change who="#mb" when="2013-07-31">additional proofing of transcription and encoding, edited and added keyword terms</change>                                  
+                                                <change who="#mb" when="2011-08-01">additional proofing of transcription and encoding</change>
+                                                <change who="#el" when="2011-11-05">case text extracted and transformed from larger file</change>
+                                                <change who="#sb" when="2011-02-09">enriched encoding</change>
+                                                <change who="#sb" when="2011-01-28">validated file</change>
+                                                <change who="#et" when="2009-08-01">encoded</change>
+                                                <change who="#sb" when="2008-09-22">initial checking of OCR text against PDF; encoded</change>
+                                </revisionDesc>
+                </teiHeader>
+                <text>
+                                <body>                                                
+                                                <p><name type="person"><hi rend="initialcap">M</hi>URPHY, <hi rend="initialcap">O</hi>WEN</name>, Private, <name>Co. A., 6th New York
+                                                                Cavalry</name>.  <name type="BATTLE" key="10">Chancellorsville</name>, <date type="injury" when="1863-05-03">May 3d, 1863</date>.  Gunshot
+                                                                fracture of parietal bone, near coronal suture.  <name type="place" key="WASHINGTON">Washington</name> and <name type="place">Baltimore</name> hospitals.  Removal of
+                                                                pieces of bone <date type="operation" when="1864-03-07">March 7th, 1864</date>.  Discharged <date type="servicedischarge" when="1864-07-09">July
+                                                                                9th, 1864</date>.  <name type="person">Examiner J. T. Burdick, M. D.</name>, reports,
+                                                                <date type="pension" when="1867-05-18">May 18th, 1867</date>, that there is constant vertigo.  Disability one-fourth and temporary.</p>                                                
+                                </body>
+                </text>
+</TEI>

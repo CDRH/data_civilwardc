@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d2e16616">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Sims, J.</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+    <idno>med.d2e16616</idno>
+    <authority>Civil War Washington</authority>
+    <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor>
+     <name>Center for Digital Research in the Humanities</name>
+     <address><addrLine>319 Love Library</addrLine>
+       <addrLine>University of Nebraska–Lincoln</addrLine>
+       <addrLine>Lincoln, NE 68588-4100</addrLine>
+       <addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+    </distributor>
+    <date>2011</date>
+    <availability>
+     <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+      republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+      law, requires express written consent from the editors and advance notification of the
+      publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+ <persName xml:id="kw">Kenneth Winkle</persName> 
+     <persName xml:id="ajh">AJ Howell</persName>
+     <persName xml:id="mb">Matthew Bosley</persName>
+     <persName xml:id="el">Elizabeth Lorang</persName>
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl>
+     <title level="j">The Medical and Surgical History of the War of the Rebellion.
+      (1861-65.)</title>
+     <pubPlace>Washington, DC</pubPlace>
+     <publisher>Government Printing Office</publisher>
+     <biblScope type="part">Part 3</biblScope>
+     <biblScope type="volume">Volume 2</biblScope>
+     <date when="1883">1883</date>
+     <biblScope type="page">394</biblScope>
+    </bibl>
+   </sourceDesc> 
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+     <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <keywords scheme="#medsurg">
+     <term>wounds and injuries of the lower extremities</term>
+     <term>wounds and injuries of the knee joint</term>
+     <term>excisions at the knee joint for shot injury</term>
+     <term>intermediary excisions at the knee joint</term>
+     <term>fatal instances of intermediary excision at the knee joint</term>
+     <term>ball entered knee joint below patella on inner and anterior aspect, fractured inner
+      condyle and opened joint, extracted four inches from point of entrance</term>
+     <term>whole joint suppurating mass, pus far down under gastrocnemius and between the muscles of
+      thigh</term>
+     <term>lung infiltrated with pus, single large abscess upon surface of inferior lobe</term>
+     <term>general anesthesia, chloroform</term>
+     <term>post-mortem examination performed</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+ <change who="#kw" when="2014-05">blessed</change>
+   <change who="#el" when="2014-07-21">corrected caption for figure</change>
+   <change who="#ajh" when="2013-08-23">added figure encoding</change>
+   <change who="#mb" when="2012-05-29">additional case copied from MSHWR, performed proofing of copy
+    and XML encoding, and key terms identified</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p><hi rend="initialcap">C</hi>ASE 627.&#8212;<name type="person" key="xxx">Corporal J.
+     Sims</name>, <name type="organization" key="xxx">Co. B, 4th Ohio</name>,&#185; aged 23 years,
+    was wounded at <name type="battle" key="77">Mine Run</name>, <date type="injury"
+     when="1863-11-27">November 27, 1863</date>, by a conoidal ball, which entered the right knee
+    joint just below the patella, on the inner and anterior aspect, fracturing the inner condyle and
+    opening the joint, passed downward and forward, and was extracted about four inches from point
+    of entrance. He was admitted to the <name type="hospital" key="501">Second Division
+     Hospital</name>, <name type="place">Alexandria</name>, <date type="admit" when="1863-12-05"
+     >December 5th</date>. &#34;At the time of admission the joint and thigh were very much inflamed
+    and discharging pus copiously, and the man was much prostrated and terribly anxious as to the
+    result of the wound. But after being washed and fed and otherwise cared for, he appeared much
+    recruited. On <date type="operation" when="1863-12-08">the 8th of December</date> the operation
+    of excision of the knee joint was performed by <name type="person" key="134">Surgeon E.
+     Bentley</name>, <name type="organization" key="132">U. S. V.</name>, who removed one inch of
+    the femur and about one and a half inches of the tibia and fibula. The h&#230;morrhage was
+    slight, but the condition of the tissues was not very satisfactory. The patient endured the
+    operation well under the influence of chloroform, and reacted well. On the following day he
+    complained of severe pain over the lung on the right side of the chest, which continued for
+    several days. On the 10th, he had a severe chill at night, which was followed by two, more
+    severe, on the 11th. Stimulants were freely given with raw eggs well beaten up, and beef essence
+    for diet. He continued to have chills till the night of the 13th, when he was seized with a very
+    severe one, from which he never rallied. He died on the morning of <date type="death"
+     when="1863-12-14">December 14, 1863</date>. The <hi rend="italic">post-mortem</hi> examination
+    showed no attempt at repair, there being considerable sloughing, while on the inside of the
+    thigh there were numerous small abscesses. The heart and left lung were healthy, but the right
+    lung was infiltrated with pus, and a single large abscess appeared upon the surface of the
+    inferior lobe. There was no pus nor abscess found in the liver, but it was very much
+    softened.&#34; The history, with the <hi rend="italic">post-mortem</hi> specimen, represented in
+    the cut (<hi rend="initialcap">F</hi>IG. 246), was contributed to <name type="hospital"
+     key="431">the Museum</name> by <name type="person" key="134">the operator</name>. <name
+     type="person" key="288">Surgeon <choice>
+      <sic>J. B. Brinton</sic>
+      <corr>J. H. Brinton</corr>
+     </choice></name>, <name type="organization" key="132">U. S. V.</name>, who examined the limb
+    two days after the patient's decease, found &#34;the whole joint one suppurating mass; pus
+    extending up and down, far down under the gastrocnemius and up between the muscles on the inside
+    of the thigh; a long abscess in the sheath of the vessels, extending up to the middle of the
+    thigh; small clot in femoral artery, thin and three inches long; none in femoral vein;
+    surrounding tissues of vessels hardened in some places where pus had not readied; long membrane
+    of femoral vein of dirty gray color and softened; clot in saphena vein.&#34;</p>
+   <p>&#185; See <hi rend="italic">Circular</hi> No. 6, War Department, S. G. O.. Washington, 1865,
+    p. 59; <hi rend="initialcap">C</hi>ULBERTSON (<hi rend="initialcap">H</hi>.), <hi rend="italic"
+     >Excision of the Larger Joints of the Extremities</hi>. Prize Essay, in <hi rend="italic"
+     >Trans. Am. Med. Assoc.</hi>, Philadelphia, 1876. Supplement to Vol. XXVII, p. 184, Case
+    13.</p>
+   <figure>
+    <graphic url="cww.001616.001"/>
+    <head><hi rend="initialcap">F</hi>IG. 245.&#8212;Bones of right knee excised. <hi rend="italic">Spec</hi>. 4212.</head>
+   </figure>
+
+  </body>
+ </text>
+</TEI>

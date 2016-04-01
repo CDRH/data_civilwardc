@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e3174">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title level="m" type="main">Cook, George M.</title>
+        <title level="m" type="sub">a machine readable transcription</title>
+        <principal>Susan C. Lawrence</principal>
+        <principal>Kenneth M. Price</principal>
+        <principal>Kenneth J. Winkle</principal>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <date>2011</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <idno>med.d1e3174</idno>
+        <authority>Civil War Washington</authority>
+        <publisher>University of Nebraska–Lincoln</publisher>
+        <distributor>
+          <name>Center for Digital Research in the Humanities</name>
+          <address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+        </distributor>
+        <date>2011</date>
+        <availability>
+          <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution
+            or republication in any medium, except as allowed under the Fair Use provisions of U.S.
+            copyright law, requires express written consent from the editors and advance
+            notification of the publisher, the University of Nebraska–Lincoln.</p>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="project">The following are responsible for particular readings or for changes to
+          this file, as noted: 
+          <persName xml:id="ajh">AJ Howell</persName>
+          <persName xml:id="mb">Matthew Bosley</persName>
+          <persName xml:id="el">Elizabeth Lorang</persName>
+          <persName xml:id="sb">Stacey Berry</persName>
+          <persName xml:id="et">Elisabeth Tracey</persName>
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>
+          <title level="j">The Medical and Surgical History of the War of the Rebellion</title>
+          <pubPlace>Washington, DC</pubPlace>
+          <publisher>Government Printing Office</publisher>
+          <biblScope type="part">Part 3</biblScope>
+          <biblScope type="volume">Volume 1</biblScope>
+          <date when="1888">1888</date>
+          <biblScope type="page">230</biblScope>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <classDecl>
+        <taxonomy xml:id="medsurg">
+          <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="#medsurg">
+          <term>clinical records</term>
+          <term>continued fevers</term>
+          <term>typhoid fever</term>
+          <term>evidence of malarial affection</term>
+          <term>typho-malarial and typhoid fevers</term>
+          <term>Seminary Hospital cases</term>
+          <term>relapse</term> 
+          <term>diarrh&#339;a</term> 
+          <term>eruption</term>
+          <term>wakefulness</term>
+          <term>enteric fever</term>
+          <term>intermittent fever</term>
+          <term>pain in bowels</term>
+          <term>appetite poor</term>
+          <term>abdominal tenderness and tympanites</term>
+          <term>rose-colored spots</term>
+          <term>rheumatism</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change who="#ajh" when="2013-05-31">additional proofing of transcription and encoding, identified keyword terms</change>
+      <change who="#mb" when="2011-10-11">additional proofing of transcription and encoding</change>
+      <change who="#mb" when="2011-06-06">additional proofing of transcription and encoding</change>
+      <change who="#el" when="2011-05-11">case text extracted and transformed from larger
+        file</change>
+      <change who="#sb" when="2011-02-23">Encoding and Proofing</change>
+      <change who="#et" when="2009-12-01">Initial Checking OCR Text to PDF file, </change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body xml:id="ch4.sc2.3.00059">
+      
+      <p><hi rend="initialcap">C</hi>ASE 59.&#8212;<hi rend="italic">Relapse manifested by
+            diarrh&#339;a, eruption, wakefulness and increased temperature.</hi>&#8212;<name
+            type="person" key="517">Sergt. George M. Cook</name>, <name type="organization"
+            key="530">Co. G, 3d Mich. Vols.</name>; age 23; was admitted <date type="admit"
+            when="1861-10-19">Oct. 19, 1861</date>. He had previously suffered from rheumatism,
+          intermittent fever and enteric fever, and while convalescing from the last, about <date type="injury" when="1861-10-14">October
+            14</date>, he was seized with a chill followed by fever and perspiration, wakefulness, thirst,
+          diarrh&#339;a and pain in the bowels. His case on admission was diagnosed typhoid
+          fever. On the 20th he was wakeful, his eyes dull, cheeks not flushed, pulse 66, full and
+          strong, skin somewhat above the natural temperature, tongue red, slightly moist and with a
+          few yellowish patches in the centre, appetite poor; he had six stools with some general
+          abdominal tenderness and tympanites. A few rose-colored spots appeared next day, but
+          otherwise his condition was unaltered. On the 22d he slept well; the pulse rose to 74 and
+          was regular and strong; the skin was of the natural temperature; the tongue flabby and
+          patched with a white fur; the appetite continued poor and the diarrh&#339;a active,
+          the abdominal tenderness being more marked on the right side. After this the
+          diarrh&#339;a gradually lessened, the tongue became clean and the appetite good. Up to
+          the end of the month he was troubled with a slight cough with yellowish expectoration. He
+          was returned to duty <date type="duty" when="1861-11-07">Nov. 7</date>. </p>
+      
+    </body>
+  </text>
+</TEI>

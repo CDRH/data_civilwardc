@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d2e31174">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Baker, L.</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+       <idno>med.d2e31174</idno>
+       <authority>Civil War Washington</authority>
+       <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor>
+       <name>Center for Digital Research in the Humanities</name>
+       <address><addrLine>319 Love Library</addrLine>
+       <addrLine>University of Nebraska–Lincoln</addrLine>
+       <addrLine>Lincoln, NE 68588-4100</addrLine>
+       <addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+    </distributor>
+    <date>2011</date>
+    <availability>
+        <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+         republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+         law, requires express written consent from the editors and advance notification of the
+         publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+     <persName xml:id="mb">Matthew Bosley</persName>
+     <persName xml:id="mv">Michael Vinci</persName>      
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl>
+     <title level="j">The Medical and Surgical History of the War of the Rebellion. (1861-65.)</title>
+     <pubPlace>Washington, DC</pubPlace>
+     <publisher>Government Printing Office</publisher>
+     <biblScope type="part">Part 2</biblScope>
+     <biblScope type="volume">Volume 2</biblScope>
+     <date when="1876">1876</date>
+     <biblScope type="page">562-563</biblScope>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+       <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+      <keywords scheme="#medsurg">
+       <term>wounds and injuries of the upper extremities</term>
+       <term>wounds of the shoulder joint</term>
+       <term>excisions at the shoulder</term> 
+       <term>excisions of the head and portions of the shaft of the humerus</term>
+       <term>primary excisions of the upper extremity of the humerus for shot injury</term> 
+       <term>successful operations</term>
+       <term>wounded at Prince Street Prison</term>
+       <term>gunshot wound of shoulder</term> 
+       <term>ball entered in front below point of shoulder, passed backward and upward, emerged near acromion process</term>
+       <term>excision of part of humerus, including head</term>
+       <term>bone below anatomical neck terribly comminuted</term>
+       <term>abscesses delayed healing</term>       
+       <term>general anesthesia, chloroform</term>
+     </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change who="#mb" when="2012-07-12">additional proofing of transcription and encoding, identified keyword terms</change>
+   <change who="#mv" when="2011-02-23">checked OCR; added minimal mark-up for personal names, place names, and dates</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>   
+   <p><hi rend="initialcap">C</hi>ASE 1535.&#8212;<name type="person" key="xxx">Private L. Baker</name>, <name type="organization" key="xxx">Co. B, 2d Rhode Island</name>, aged 25 years, was wounded at <name type="place">Prince Street Prison, Alexandria</name>, and was removed to the <name type="hospital" key="512">Third Division Hospital</name>.  The following was reported by the operator, <name type="person" key="134">Surgeon E. Bentley</name>, <name type="organization" key="132">U. S. V.</name>:  &#34;Gunshot wound of the left shoulder. Ball entered in front, three inches below the point of the shoulder, passed backward and upward, and emerged from near the acromion process.  <date type="operation" when="1864-07-14">July 14th</date>, excision of four inches of humerus, including head, by a straight incision six inches long; two ligatures; but little h&#230;morrhage. An&#230;sthetic: chloroform.  The bone below the anatomical neck was terribly comminuted, part of it reduced almost to a powder, mixed with the blood and driven into the tissues. The soft parts, severely lacerated, bled freely after injury; bleeding checked by persulphate of iron and compress. The patient at the time of operation was somewhat weakened by confinement and loss of blood, but otherwise in fair condition Water dressings. September 20th, wound doing well; abscesses have formed which have delayed the healing somewhat. Water and solution of sulphate of zinc has been the only local treatment. Stimulants internally.  September 30th, wound nearly healed; in good health.&#34;  The patient was transferred to the <name type="hospital" key="500">First Division Hospital</name> on <date type="transfer" when="1864-10-08">October 8th</date>, and thence to <name type="hospital" key="188"><choice><sic>Sickles Hospital</sic><corr>Sickel Hospital</corr></choice> Hospital</name>, <date type="transfer" when="1865-02-24">February 24, 1865</date>;, and was discharged the service, for disability, <date type="servicedischarge" when="1865-06-12">June 2, 1865</date>. He has never applied for a pension</p>   
+  </body>
+ </text>
+</TEI>

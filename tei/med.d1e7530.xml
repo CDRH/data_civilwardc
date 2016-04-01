@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e7530">
+        <teiHeader>
+                <fileDesc>
+                        <titleStmt>
+                                <title level="m" type="main">Brandt, William</title>
+                                <title level="m" type="sub">a machine readable transcription</title>
+                                <principal>Susan C. Lawrence</principal>
+                                <principal>Kenneth M. Price</principal>
+                                <principal>Kenneth J. Winkle</principal>
+                        </titleStmt>
+                        <editionStmt>
+                                <edition>
+                                        <date>2011</date>
+                                </edition>
+                        </editionStmt>
+                        <publicationStmt>
+                                <idno>med.d1e7530</idno>
+                                <authority>Civil War Washington</authority>
+                                <publisher>University of Nebraska–Lincoln</publisher>
+                                <distributor>
+                                        <name>Center for Digital Research in the Humanities</name>
+                                        <address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+                                </distributor>
+                                <date>2011</date>
+                                <availability>
+                                        <p>Copyright © 2011 by University of Nebraska–Lincoln, all
+                                                rights reserved. Redistribution or republication in
+                                                any medium, except as allowed under the Fair Use
+                                                provisions of U.S. copyright law, requires express
+                                                written consent from the editors and advance
+                                                notification of the publisher, the University of
+                                                Nebraska–Lincoln.</p>
+                                </availability>
+                        </publicationStmt>
+                        <notesStmt>
+                                <note type="project">The following are responsible for particular
+                                        readings or for changes to this file, as noted: 
+                                        <persName xml:id="mb">Matthew Bosley</persName>
+                                        <persName xml:id="el">Elizabeth Lorang</persName>
+                                        <persName xml:id="sb">Stacey Berry</persName>
+                                        <persName xml:id="et">Elisabeth Tracey</persName>
+                                </note>
+                        </notesStmt>
+                        <sourceDesc>
+                                <bibl>
+                                        <title level="j">The Medical and Surgical History of the War
+                                                of the Rebellion</title>
+                                        <pubPlace>Washington, DC</pubPlace>
+                                        <publisher>Government Printing Office</publisher>
+                                        <biblScope type="part">Part 3</biblScope>
+                                        <biblScope type="volume">Volume 1</biblScope>
+                                        <date when="1888">1888</date>
+                                        <biblScope type="page">352</biblScope>
+                                </bibl>
+                        </sourceDesc>
+                </fileDesc>
+                <encodingDesc>
+                        <classDecl>
+                                <taxonomy xml:id="medsurg">
+                                        <bibl>Medical and Surgical History of the War of the
+                                                Rebellion</bibl>
+                                </taxonomy>
+                        </classDecl>
+                </encodingDesc>
+                <profileDesc>
+                        <textClass>
+                                <keywords scheme="#medsurg">
+                                        <term>post-mortem records</term>
+                                        <term>continued fevers</term>
+                                        <term>typhoid fever</term>
+                                        <term>entered as typhoid, but the clinical histories suggestive of malarial complications</term>
+                                        <term>Peyer's patches ulcerated and the ileum or small intestine only affected</term>                                        
+                                        <term>parotid gland painful and swollen</term>
+                                        <term>pneumonia as cause of death</term>
+                                        <term>autopsy confirmed diagnosis of typhoid fever</term>
+                                        <term>sordes appeared on gums</term>
+                                        <term>distinct red papular eruption</term>
+                                        <term>jaundice</term>
+                                </keywords>
+                        </textClass>
+                </profileDesc>
+                <revisionDesc>
+                        <change who="#mb" when="2013-03-22">additional proofing of transcription and encoding, edited and added keyword terms</change>
+                        <change who="#mb" when="2011-10-05">additional proofing of transcription and encoding</change>
+                        <change who="#mb" when="2011-06-20">additional proofing of transcription and encoding</change>
+                        <change who="#el" when="2011-05-11">case text extracted and transformed from
+                                larger file</change>
+                        <change who="#sb" when="2011-02-23">Encoding and Proofing</change>
+                        <change who="#et" when="2009-12-01">Initial Checking OCR Text to PDF file,
+                        </change>
+                </revisionDesc>
+        </teiHeader>
+        <text>
+                <body xml:id="ch4.sc4.1.00097">                        
+                                <p><hi rend="initialcap">C</hi>ASE 97.&#8212;<name type="person"
+                                                key="652">Musician William Brandt</name>, <name
+                                                type="organization" key="484">17th U. S.
+                                        Inf.</name>; age 32; was admitted <date type="admit"
+                                                when="1863-12-11">Dec. 11, 1863</date>.  Diagnosis&#8212;typhoid fever.  He had been sick <date type="injury" when="1863-11-27">for two
+                                                weeks</date> and confined to bed for one week: Delirium at night;
+                                        stupor; tongue dry and coated; skin dry; pulse 98; thirst;
+                                        occasional pains in abdomen; bowels relaxed.  On the 13th the
+                                        right parotid gland became painful and much swollen and on <date type="injury" when="1863-12-17">the 17th</date> typhoid symptoms
+                                        were manifested; sordes appeared on the gums; his stupor
+                                        increased and he was constantly attempting to get out of
+                                        bed. There was some bronchitis with a little painless
+                                        expectoration. A red papular eruption was quite distinct.
+                                        During the next ten days his cough became more troublesome,
+                                        and on Jan. 6, 1864, jaundice and constipation were added to
+                                        the symptoms, with increasing stupor, incoherent talking,
+                                        glazed eyes, thick and tenacious <choice><orig>sputa</orig><reg>sputum</reg></choice> which he was unable
+                                        to expectorate. He died on <date type="death"
+                                                when="1864-01-08">the 8th</date>.  "The autopsy revealed
+                                        pneumonia as the cause of death and confirmed the diagnosis
+                                        of typhoid fever."&#8212;<hi rend="italic"><name
+                                                  type="person" key="208">Act. Ass't. Surg. Carlos
+                                                  Carvallo</name>, <name type="hospital" key="162">Douglas Hospital</name>, Washington D. C.</hi></p>                        
+                </body>
+        </text>
+</TEI>

@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d2e10533">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Lapham, C. N.</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+    <idno>med.d2e10533</idno>
+    <authority>Civil War Washington</authority>
+    <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor><name>Center for Digital Research in the
+     Humanities</name><address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address></distributor>
+    <date>2011</date>
+    <availability>
+     <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+      republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+      law, requires express written consent from the editors and advance notification of the
+      publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+ <persName xml:id="kmp">Kenneth M. Price</persName> 
+     <persName xml:id="ajh">AJ Howell</persName>
+     <persName xml:id="mb">Matthew Bosley</persName>
+     <persName xml:id="el">Elizabeth Lorang</persName>
+     <persName xml:id="sb">Stacey Berry</persName>
+     <persName xml:id="et">Elisabeth Tracey</persName>
+     <persName xml:id="ss">Sarah Synovec</persName>
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title level="j">The Medical and Surgical History of the War of the Rebellion.
+      (1861-65.)</title><pubPlace>Washington, DC</pubPlace><publisher>Government Printing
+      Office</publisher><biblScope type="part">Part 3</biblScope><biblScope type="volume">Volume
+      2</biblScope><date when="1883">1883</date><biblScope type="page">224</biblScope></bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+     <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <keywords scheme="#medsurg">
+     <term>wounds and injuries of the lower extremities</term>
+     <term>injuries of the shaft of the femur</term>
+     <term>amputations in the shaft of the femur</term>
+     <term>primary amputations in the shaft of the femur for shot injury</term>
+     <term>primary amputations in the middle third of the femur</term>
+     <term>recoveries after primary amputation in the middle third of the femur</term>
+     <term>cannon ball carried away both legs</term>
+     <term>both limbs amputated</term>
+     <term>right thigh amputated at middle third, comminution of leg involving knee joint</term>
+     <term>left leg disarticulated at knee joint, benefits of disarticulation incalculable</term>
+     <term>furnished with artificial limbs</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+ <change who="#kmp" when="2014-05">blessed</change>
+   <change who="#ajh" when="2013-08-22">added figure encoding</change>
+   <change who="#mb" when="2012-05-10">additional proofing of transcription and encoding, identified
+    keyword terms</change>
+   <change who="#el" when="2011-05-11">case text extracted and transformed from larger file</change>
+   <change who="#sb" when="2011-06-04">Enrich Encoding, Edit and validate</change>
+   <change who="#sb" when="2011-01-28">Validated File</change>
+   <change who="#ss" when="2008-09-22">initial checking of OCR text; encoded P5 Encoding</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+
+   <p><hi rend="initialcap">C</hi>ASE 436.&#8212;<name type="person" key="1069">Corporal C. N.
+     Lapham</name>, <name type="organization" key="433">Co. K, 1st Vermont Cavalry</name>, aged 23
+    years, was wounded during the engagement near <name type="place">Boonsboro'</name>, <date
+     type="injury" when="1863-07-08">July 8, 1863</date>, by a cannon ball, which carried away both
+    legs. He was conveyed to the field hospital at <name type="place">Boonsboro'</name> where both
+    limbs were amputated <date type="operation" when="1863-07-10">two days after the receipt of the
+     injury</date>. <date type="hospitalservicedischarge" when="1863-11">Four months after the
+     operation</date> the patient was deemed well enough to be allowed to go to his home, where he
+    remained until the following year. On <date type="injury" when="1864-05-31">May 31, 1864</date>,
+    he was furnished with artificial limbs by <name type="person" key="xx">Dr. E. D. Hudson</name>,
+    of <name type="place" key="xx">New York City</name>, who contributed the photographs represented
+    in the annexed cuts (<hi rend="initialcap">F</hi>IGS. 176, 177) and the following description of
+    the operation: "The right thigh was amputated at the middle third, by the antero-posterior flap
+    method, on account of great comminution of the leg involving the knee joint; the stump is healed
+    and in a favorable condition. The left leg was disarticulated at the knee joint. This operation
+    was also performed by antero-posterior flaps, and the stump is healed and in good condition,
+    though the supporting cicatrix at the base is not good. The condyles of the femur, as a base,
+    form the most useful, reliable, and comfortable support, and constitute his chief dependence,
+    and the benefits of disarticulation, when compared with amputations of the thigh, are shown to
+    be incalculable." The patient was discharged from Baxter Hospital, at <name type="place"
+     >Burlington, Vermont</name>, <date type="servicedischarge" when="1864-08-25">Aug. 25,
+     1864</date>, and pensioned. Five months later, when a student at the <name type="organization"
+     key="xx">Collegiate Institute</name> in <name type="place">Poughkeepsie, N. Y.</name>, he wrote
+    to <name type="person" key="xx">Dr. Hudson</name> that "he could walk with ease on level ground,
+    get up and down stairs readily, and was getting along much better than he anticipated in so
+    short a time." Some time afterwards he obtained an appointment as clerk in the <name
+     type="organization" key="451">U. S. Treasury Department</name> at <name type="place"
+     key="#Washington">Washington</name>, in which occupation he is still employed. His pension was
+    paid <date type="pension" when="18790-09-04">September 4, 1879</date>. In his application for
+    commutation he reported that <name type="person" key="xx">Surgeon L. P. Woods</name>, <name
+     type="organization" key="434">5th New York Cavalry</name>, was the operator who amputated his
+    limbs.</p>
+   <figure><graphic url="cww.001579.001"/><head>
+    <hi rend="initialcap">F</hi>IG. 176&#8212;Amputation of right thigh at middle third and of left
+    leg at knee joint. [From a photograph.]</head></figure>
+   <figure><graphic url="cww.001580.001"/><head>
+    <hi rend="initialcap">F</hi>IG. 177&#8212;Appearance of patient with artificial legs. [From a
+    photograph.]</head></figure>
+
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,396 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="cww.00554">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Petition of Henry P. C. Wilson, 29 May 1862</title>
+                <title level="m" type="sub">a machine readable transcription</title>
+                <principal>Susan C. Lawrence</principal>
+                <principal>Kenneth M. Price</principal>
+                <principal>Kenneth J. Winkle</principal>
+                <respStmt>
+                    <resp>transcription and encoding</resp>
+                    <name xml:id="crl">Courtney Rebecca Lawton</name>
+                    <name xml:id="jc">Janel Cayer</name>
+                <name xml:id="kjw">Kenneth J. Winkle</name>
+</respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2013</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <idno>cww.00554</idno>
+                <distributor>Civil War Washington</distributor>
+                <publisher>University of Nebraska–Lincoln</publisher>
+                <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>P.O. Box 884100</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+            </address>
+                <date>2013</date>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+                        <p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike
+                            3.0 Unported License
+                            (http://creativecommons.org/licenses/by-nc-sa/3.0/). Derivatives must be
+                            credited to Civil War Washington, made available non-commercially, and
+                            distributed under the same terms. Requests for permission for commercial
+                            publication or other use should be emailed to the project team.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Petition of Henry P. C. Wilson, 29 May 1862</title>
+                    <date when="1862-05-29">May 29, 1862</date>
+                    <idno>Microcopy 520, Reel 4</idno>
+                    <orgName>National Archives and Records Administration</orgName>
+                    <relatedItem type="original">
+                        <bibl>
+                            <title>Petition of Henry P. C. Wilson, 29 May 1862</title>
+                            <date when="1862-05-29">May 29, 1862</date>
+                            <idno>Record Group 217.6.5</idno>
+                            <orgName>Records of the Accounting Officers of the Department of the
+                                Treasury, 1775–1978, National Archives and Records
+                                Administration</orgName>
+                            <note type="project">Within the National Archives' Archival Description
+                                Catalog, see ARC Identifier 4644616 / MLR Number A1 347
+                                (http://arcweb.archives.gov).</note>
+                        </bibl>
+                    </relatedItem>
+                    <note type="project">Our transcription is based on a digital image of a
+                        microfilm copy of the original.</note>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <particDesc>
+                <person role="petitioner">
+                    <persName>Henry P. C. Wilson</persName>
+                </person>
+                <person role="jp">
+                    <persName>Nicholas Callan</persName>
+                </person>
+            </particDesc>
+        </profileDesc>
+        <revisionDesc>
+<change when="2013-07-22" who="#jc">blessed</change>
+<change when="2013-07-11" who="kjw">blessed</change>            
+            <change when="2013-07-09" who="#jc">updated values at facs</change>
+<change when="2013-06-12" who="#jc">performed automated file cleanup</change>
+            <change when="2013-05-16" who="#crl">proofed, checked, created a new table, changed@facs
+                and encoding for leaves recto and verso</change>
+            <change when="2013-03-18" who="#jc">transcribed, encoded</change>
+        </revisionDesc>
+
+    </teiHeader>
+
+    <text>
+        <body>
+            <pb xml:id="leaf001r" facs="cww.00554.006.jpg"/>
+            <div1 type="statement" subtype="mixed">
+                <fw>Paymaster General's Office,</fw>
+                <dateline><placeName>Washington City</placeName>, <date when="1862-05-20"><seg
+                    type="handwritten">May 20</seg> 1862</date>.</dateline>
+                <salute><seg type="handwritten"><choice>
+                    <abbr>Hon</abbr>
+                    <expan>Honorable</expan>
+                </choice> Horatio King</seg></salute>
+                <salute><seg type="handwritten">Dear Sir,</seg></salute>
+                <p><seg type="handwritten">This will be handed you by Mr. <persName>H. P. C.
+                    Wilson</persName> of this City, one of the number of those interested in
+                    the recent Emancipation law. Mr. <persName>W</persName>. has six very
+                    valuable servants. I have known him long and intimately, and most cheerfully
+                    bear testimony to his high character as a gentleman and christian, and this
+                    letter is simply to assure you that any statement he may make under the
+                    rules of your Commission, may be received with the most implicit
+                    confidence</seg></p>
+                <closer><seg type="handwritten">Respectfully &#38; truly <choice>
+                    <abbr>Yrs</abbr>
+                    <expan>Yours</expan>
+                </choice>.</seg>
+                    <signed><seg type="handwritten"><persName>B. F.
+                        Larned</persName></seg></signed></closer>
+            </div1>
+            
+            <pb xml:id="leaf002r" facs="cww.00554.007.jpg"/>
+            <div1 type="petition" subtype="mixed">
+                <head type="main"><supplied reason="pasted over" cert="high" resp="#crl"
+                        source="cww.00349">PETITION.</supplied></head>
+                <p rend="bold">To the Commissioners under the act of Congress approved the <date
+                        when="1862-04-16">16th of April, 1862</date>, entitled "An act for the
+                    release of certain persons held to service or labor in the <placeName>District
+                        of Columbia</placeName>."</p>
+
+                <p>Your Petitioner, <seg type="handwritten"><persName>Henry P. C.
+                        Wilson</persName></seg> of <seg type="handwritten"><placeName>Washington
+                            City, D.C.</placeName></seg> by this <seg type="handwritten">his</seg>
+                    petition in writing, represents and states, that <seg type="handwritten">he</seg> is a person loyal to the <placeName>United States</placeName>,
+                    who, at the time of the passage of the said act of Congress, held a claim to
+                    service or labor against <seg type="handwritten">the following named slaves,</seg> person<seg type="handwritten">s</seg> of African
+                    descent of the name<seg type="handwritten">s</seg> of <seg type="handwritten"><persName>Harriet</persName>, <persName>Severn</persName>,
+                            <persName>Comfort</persName>, <persName>Irving</persName>,
+                            <persName>Cooper</persName> and <persName>Ede</persName></seg> for and
+                    during the life of said <seg type="handwritten">persons,</seg> and that by said
+                    act of Congress said <seg type="handwritten">persons have been</seg> discharged
+                    and freed of and from all claim of your petitioner to such service or labor;
+                    that at the time of said discharge said <seg type="handwritten">persons
+                        were</seg> of the age<seg type="handwritten">s</seg> of <space atLeast="1"/>
+                    and of the personal description following:<note type="government" place="foot"
+                        xml:id="n1">Here describe the person, so as to identify him or her; and if
+                        there be more than one slave, describe each one separately.</note>
+                    <table rend="handwritten">
+                        <row>
+                            <cell>Woman,</cell>
+                            <cell><persName>Harriet</persName>,</cell>
+                            <cell>mulatto,</cell>
+                            <cell>about 5 feet 6 inches in height,</cell>
+                            <cell>Sixty one years old, (61)</cell>
+                        </row>
+                        <row>
+                            <cell>Man,</cell>
+                            <cell><persName>Severn</persName>,</cell>
+                            <cell>black,</cell>
+                            <cell>about 5 feet 5 inches " " </cell>
+                            <cell>Fifty seven " " (57)</cell>
+                        </row>
+                        <row>
+                            <cell>Woman,</cell>
+                            <cell><persName>Comfort</persName>,</cell>
+                            <cell>black</cell>
+                            <cell>" 5 " 3 " " " </cell>
+                            <cell>Fifty nine " " (59)</cell>
+                        </row>
+                        <row>
+                            <cell>Man,</cell>
+                            <cell><persName>Irving</persName>,</cell>
+                            <cell>black,</cell>
+                            <cell>" 5 " 8 " " " </cell>
+                            <cell>Twenty four " " (24)</cell>
+                        </row>
+                        <row>
+                            <cell>Man,</cell>
+                            <cell><persName>Cooper</persName>,</cell>
+                            <cell><choice>
+                                    <sic>Chesnut</sic>
+                                    <corr>Chestnut</corr>
+                                </choice>,</cell>
+                            <cell>" 5 " 8 " " " </cell>
+                            <cell>Twenty two " " (22)</cell>
+                        </row>
+                        <row>
+                            <cell>Woman,</cell>
+                            <cell><persName>Ede</persName>,</cell>
+                            <cell><choice>
+                                    <sic>Chesnut</sic>
+                                    <corr>Chestnut</corr>
+                                </choice>,</cell>
+                            <cell>" 5 " 5 " " " </cell>
+                            <cell>Twenty two " " (22)</cell>
+                        </row>
+                    </table>
+                </p>
+                <ab type="handwritten"><persName>Cooper</persName> and <persName>Ede</persName> are
+                    twins&#8212;</ab>
+                <ab type="handwritten">These servants are all house servants except the Man
+                        <persName>Severn</persName>&#8212;</ab>
+                <ab type="handwritten">They are healthy; the most of them uncommonly intelligent;
+                    and all of them of good moral character&#8212;</ab>
+                <ab type="handwritten"><persName>Harriet</persName>, <persName>Comfort</persName>
+                    and <persName>Cooper</persName> have lived with me as my house
+                    servants&#8212;</ab>
+
+                <table rend="handwritten">
+                    <row>
+                        <cell><persName>Harriet</persName> is a <hi rend="underline">first rate
+                                Cook</hi>, and has been offered</cell>
+                        <cell>Eight dollars a month; say, per <choice><abbr>ann</abbr><expan>annum</expan></choice>:</cell>
+                        <cell>96$</cell>
+                    </row>
+                    <row>
+                        <cell><persName>Comfort</persName> is a good washer &#38; ironer and can
+                            get</cell>
+                        <cell> Seven " " " " " "</cell>
+                        <cell>84</cell>
+                    </row>
+                    <row>
+                        <cell><persName>Cooper</persName> is an excellent house servant " " "</cell>
+                        <cell>Fifteen " " " " " " </cell>
+                        <cell>180</cell>
+                    </row>
+                    <row>
+                        <cell><persName>Irving</persName>, I have hired as a " " </cell>
+                        <cell>Fifteen " " " " " "</cell>
+                        <cell>180</cell>
+                    </row>
+                    <row>
+                        <cell><persName>Ede</persName>, " " " " " </cell>
+                        <cell>Seven " " " " " " </cell>
+                        <cell>84</cell>
+                    </row>
+
+                    <row>
+                        <cell><persName>Severn</persName> has had his own time, and has made a
+                            dollar a day as a Wood sawyer:</cell>
+                        <cell>I have found him his house room &#38; fuel and he has paid me two
+                            dollars a week&#8212;</cell>
+                        <cell>100</cell>
+                    </row>
+                    <row>
+                        <cell>Deduct for clothes, Physician and Taxes,</cell>
+                        <cell>Two hundred &#38; ten dollars:&#8212;</cell>
+                        <cell>724-210=<pb sameAs="#leaf002v"/>Five hundred &#38; fourteen dollars as
+                            the nett Yearly value</cell>
+                    </row>
+                </table>
+
+                <pb xml:id="leaf002v" facs="cww.00554.008.jpg"/>
+                <p>That your petitioner acquired <seg type="handwritten">his</seg> claim to the
+                    aforesaid service or labor of said <seg type="handwritten">Slaves</seg> in
+                    manner following:<note type="government" place="foot" xml:id="n2">Here state how
+                        the claim was acquired, when, from whom, and for what price or
+                        consideration; and, if held under any written evidence of title, make
+                        exhibit thereof, or refer to the public record where the same may be
+                        found.</note>
+                    <seg type="handwritten">He purchased <persName>Harriet</persName>, in
+                            <placeName>Princess Anne</placeName>, <placeName>Eastern Shore,
+                            Maryland</placeName>, about the year, <date when="1835">1835</date>, of
+                        Dr. <persName>Saml. K. Handy</persName>, of that
+                            place&#8212;<persName>Severn</persName> and
+                        <persName>Comfort</persName>, he acquired by marriage with his present Wife.
+                            <persName>Severn</persName> and <persName>Harriet</persName> are man and
+                        Wife and are the Parents of <persName>Irving</persName>,
+                            <persName>Cooper</persName> and <persName>Ede</persName>, born in my
+                        family.</seg></p>
+
+                <p>That your petitioner's claim to the service or labor of said <seg
+                        type="handwritten">Slaves</seg> was, at the time of said discharge
+                    therefrom, of the value of <seg type="handwritten">Four Thousand</seg> dollars
+                    in money.<note type="government" place="foot" xml:id="n3">Here state such facts,
+                        if any there be, touching the value of the petitioner's claim to the service
+                        or labor of the person, as may enhance the same, and also such facts, if
+                        any, touching the moral, mental, and bodily infirmities or defects of said
+                        person, as impair the value of the petitioner's claim to such service or
+                        labor, and conclude such statement with an averment that the petitioner
+                        knows of no other infirmities or defects of said person which impair the
+                        value of petitioner's claim to such service or labor, and that he believes
+                        none other to exist. If the petitioner specify no such infirmity or defect,
+                        then his statement touching the value of his claim should conclude with an
+                        averment that he has no knowledge of any such infirmity or
+                        defect.</note><seg type="handwritten">as follows:</seg>
+                    <table rend="handwritten">
+                        <row>
+                            <cell><persName>Harriet</persName>,</cell>
+                            <cell>$150</cell>
+                        </row>
+                        <row>
+                            <cell><persName>Severn</persName></cell>
+                            <cell>400</cell>
+                        </row>
+                        <row>
+                            <cell><persName>Comfort</persName></cell>
+                            <cell>150</cell>
+                        </row>
+                        <row>
+                            <cell><persName>Irving</persName></cell>
+                            <cell>1300</cell>
+                        </row>
+                        <row>
+                            <cell><persName>Cooper</persName></cell>
+                            <cell>1300</cell>
+                        </row>
+                        <row>
+                            <cell><persName>Ede</persName></cell>
+                            <cell>700</cell>
+                        </row>
+                        <row>
+                            <cell/>
+                            <cell>4000</cell>
+                        </row>
+                    </table>
+                </p>
+                <ab type="handwritten">The Petitioner knows of no moral, mental, bodily, infirmities
+                    or defects of any one of said slaves as would impair the value of his claim, and
+                    he believes none such to exist&#8212;</ab>
+
+                <p>Your petitioner hereby declares that <seg type="handwritten">he</seg> bears true
+                    and faithful allegiance to the Government of the <placeName>United
+                        States</placeName>, and that <seg type="handwritten">he</seg> has not borne
+                    arms against the <placeName>United States</placeName> in the present rebellion,
+                    nor in any way given aid or comfort thereto.</p>
+
+                <p>And your petitioner further states and alleges, that <seg type="handwritten">he</seg> has not brought said <seg type="handwritten">Slaves</seg> into the
+                        <placeName>District of Columbia</placeName> since the passage of said act of
+                    Congress; and that, at the time of the passage thereof, said <seg type="handwritten">Slaves were</seg>
+                    <del>was</del> held to service or labor therein under and by virtue of your
+                    petitioner's claim to such service or labor.</p>
+
+                <p>Your petitioner further states and alleges, that <seg type="handwritten">his</seg> said claim to the service or labor of said <seg type="handwritten">Slaves</seg> does not originate in or by virtue of any
+                    transfer heretofore made by any person who has in any manner aided or sustained
+                    the present rebellion against the Government of the <placeName>United
+                        States</placeName>.</p>
+
+                <p>And your petitioner prays the said Commissioners to investigate and determine the
+                    validity of <seg type="handwritten">his</seg> said claim to the service or labor
+                    of said <seg type="handwritten">Slaves</seg> herein above set forth; and if the
+                    same be found to be valid, that they appraise and apportion the value of said
+                    claim in money, and report the same to the Secretary of the Treasury of the
+                        <placeName>United States</placeName>, in conformity to the provisions of
+                    said act of Congress.</p>
+
+                <closer> (Signed by) <signed><seg type="handwritten"><persName>H. P. C.
+                                Wilson</persName></seg></signed>
+                </closer>
+            </div1>
+            
+            <pb xml:id="leaf003r" facs="cww.00554.004.jpg"/>
+            <div1 type="oath" subtype="mixed">
+                <head type="main">[<hi rend="italic">Form of the Oath for the Verification of the
+                        Petition.</hi>]</head>
+
+                <dateline><placeName>District of Columbia</placeName>,<lb/>
+                    <hi rend="italic"><placeName>Washington County</placeName>, ss.</hi></dateline>
+
+                <div2 type="section">
+                    <p>I, <seg type="handwritten"><persName>Henry P. C. Wilson</persName></seg>
+                        being duly sworn, do depose and say, that all the several matters and things
+                        which are set forth and stated in the foregoing petition, as of my own
+                        knowledge, are true in substance and in fact; and that all the several other
+                        matters and things therein set forth and stated, as from the information of
+                        others, I believe to be true in substance and in fact.</p>
+                    <closer> (Signed by) <signed><seg type="handwritten"><persName>H. P. C.
+                                    Wilson</persName></seg></signed>
+                    </closer>
+                </div2>
+
+                <div2 type="section">
+                    <p>Sworn to and subscribed before me this <date when="1862-05-23"><seg
+                                type="handwritten">23</seg> day of <seg type="handwritten">May</seg>
+                            A. D. 1862</date>.</p>
+                    <closer> (Signed by) <signed><seg type="handwritten"><persName>N
+                                    Callan</persName> JP seal</seg></signed>
+                    </closer>
+                </div2>
+            </div1>
+
+            <div1 type="cover" subtype="handwritten">
+                <note type="editorial">The following note, about the filing of the petition, has
+                    been imaged twice in the National Archives microfilm, but the note occurs in
+                    only one place in the petition: written horizontally on the final page, the Oath
+                    for the Verification.</note>
+                <ab>554</ab>
+                <ab><persName>Henry P. C. Wilson</persName></ab>
+                <ab>Filed <date when="1862-05-29">May 29, 1862</date></ab>
+                <ab><persName>Wm. L. Hodge</persName><lb/>
+                    <choice><abbr>Col</abbr><expan>Colonel</expan></choice>. <persName>B. F. Larned</persName><lb/>
+                    <choice><abbr>Rev</abbr><expan>Reverend</expan></choice>. <choice><abbr>Dr</abbr><expan>Doctor</expan></choice>. <persName>Gurley</persName>
+                    <address><addrLine>N. York Av. Church</addrLine></address></ab>
+            </div1>
+        </body>
+    </text>
+</TEI>

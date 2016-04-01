@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d2e8214">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Crassley, T.</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+    <idno>med.d2e8214</idno>
+    <authority>Civil War Washington</authority>
+    <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor><name>Center for Digital Research in the
+     Humanities</name><address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address></distributor>
+    <date>2011</date>
+    <availability>
+     <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+      republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+      law, requires express written consent from the editors and advance notification of the
+      publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+ <persName xml:id="kmp">Kenneth M. Price</persName> 
+     <persName xml:id="mb">Matthew Bosley</persName>
+     <persName xml:id="el">Elizabeth Lorang</persName>
+     <persName xml:id="sb">Stacey Berry</persName>
+     <persName xml:id="et">Elisabeth Tracey</persName>
+     <persName xml:id="ss">Sarah Synovec</persName>
+     <persName xml:id="kk">Kourtney Klein</persName>
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title level="j">The Medical and Surgical History of the War of the Rebellion.
+      (1861-65.)</title><pubPlace>Washington, DC</pubPlace><publisher>Government Printing
+      Office</publisher><biblScope type="part">Part 3</biblScope><biblScope type="volume">Volume
+      2</biblScope><date when="1883">1883</date><biblScope type="page">178, 182</biblScope></bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+     <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <keywords scheme="#medsurg">
+     <term>wounds and injuries of the lower extremities</term> 
+     <term>injuries of the shaft of the femur</term> 
+     <term>shot fractures of the shaft of the femur</term>
+     <term>shot fractures of the shaft of the femur treated by conservation</term> 
+     <term>shot fractures of the upper third of the femur treated by conservation</term> 
+     <term>recoveries after shot fractures of the upper third of the femur treated by conservation</term> 
+     <term>ball entered near trochanter, injured femur seriously, passed through muscular tissue, escaped near <choice><sic>nates</sic><corr>natis</corr></choice></term>
+     <term>numerous portions of bone removed</term> 
+     <term>ulcers owing to necrosed bone</term>
+     <term></term>
+     <term></term> 
+     <term></term>
+     <term>survived injury eleven years</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+ <change who="#kmp" when="2014-05">blessed</change>
+   <change who="#kk" when="2014-01-29">added figure encoding</change>
+   <change who="#mb" when="2012-04-20">additional proofing of transcription and encoding, identified keyword terms</change>
+   <change who="#el" when="2011-05-11">case text extracted and transformed from larger file</change>
+   <change who="#sb" when="2011-06-04">Enrich Encoding, Edit and validate</change>
+   <change who="#sb" when="2011-01-28">Validated File</change>
+   <change who="#ss" when="2008-09-22">Sarah Synovec initial checking of OCR text; encoded P5 Encoding</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   
+    <p><hi rend="initialcap">C</hi>ASE 369.&#8212;<name type="person" key="1018">Corporal T. Crassley</name>, <name type="organization" key="176">Co. E, 69th New York</name>, aged 34
+     years, was wounded at <name type="FORT" key="xx">Fort Steadman</name>, <date type="injury" when="1865-03-25">March 25, 1865</date>, and admitted to the field hospital of the 1st division, Second Corps, where <name
+      type="person" key="xx">Surgeon F. M. Hammond</name>, <name type="organization" key="364">126th
+       New York</name>, noted: "Shot wound of hip by mini&#233; ball." <name type="person" key="290">Assistant Surgeon C. A. Leale</name>, <name type="organization" key="132">U. S. V.</name>,
+     reported that the wounded man was admitted to <name type="hospital" key="171">Armory Square
+      Hospital</name>, Washington, <date type="admit" when="1865-04-01">April 1st</date>, and
+     discharged from service <date type="servicedischarge" when="1865-07-25">July 25, 1865</date>, by
+     reason of "shot fracture of upper third of right femur, resulting in one inch shortening." The
+      <name type="organization" key="xx">Albany Examining Board</name>, consisting of Drs. <name
+      type="person" key="158">R. B. Bontecou</name>, <name type="person" key="xx">W. H.
+       Craig</name>, and <name type="person" key="xx">C. H. Porter</name>, certified, <date type="pension" when="1873-09-11">September 11,
+     1873</date>: "The ball entered near the right trochanter, injuring the bone seriously. Numerous
+     portions of bone were removed. The missile passed deeply through the muscular tissue and
+     escaped near the inner border of the right <choice><sic>nates</sic><corr>natis</corr></choice>. The limb is greatly weakened, and
+     occasionally ulcers appear near the entrance wound, owing to necrosed bone." The pensioner died
+     at the <name type="hospital" key="xx">National Military Asylum</name> at <name type="place">Dayton, Ohio</name>, <date
+      type="death" when="1876-01-08">January 8, 1876</date>. The immediate cause of his death has
+     not been ascertained. A photograph, taken at the <name type="hospital" key="431">Army Medical
+      Museum</name> in <date type="photo" when="1865-07"></date>July, 1865 (<hi rend="italic">Surg. Phot. Series</hi>, No. 76), is copied in
+     <hi rend="initialcap">F</hi>IG. 2 of <hi rend="initialcap">P</hi>LATE <hi rend="initialcap">LIX</hi>, opp. p. 178.</p>
+   
+   <figure>
+    <graphic url="cww.001804.001" />
+    <head>PLATE  LIX. &#8212; CONSOLIDATED  GUNSHOT  FRACTURES  OF  THE  FEMUR.     Fig. 2.  Case of Corporal T. Crassley, 69th New York.</head>
+   </figure>
+
+   
+  </body>
+ </text>
+</TEI>

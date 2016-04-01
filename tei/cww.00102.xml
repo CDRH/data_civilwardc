@@ -1,0 +1,653 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="cww.00102">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Petition of Benjamin T. Thorn, 8 May 1862</title>
+                <title level="m" type="sub">a machine readable transcription</title>
+                <principal>Susan C. Lawrence</principal>
+                <principal>Kenneth M. Price</principal>
+                <principal>Kenneth J. Winkle</principal>
+                <respStmt>
+                    <resp>transcription and encoding</resp>
+                    <name xml:id="nnk">Nima Najafi Kianfar</name>
+                    <name xml:id="el">Elizabeth Lorang</name>
+                    <name xml:id="scl">Susan C. Lawrence</name>
+                    <name xml:id="jc">Janel Cayer</name>
+                    <name xml:id="rv">Robert Voss</name>
+                    <name xml:id="bj">Brittany Jones</name>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2013</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <idno>cww.00102</idno>
+                <distributor>Civil War Washington</distributor>
+                <publisher>University of Nebraska–Lincoln</publisher>
+                <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>P.O. Box 884100</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+            </address>
+                <date>2013</date>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+                        <p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike
+                            3.0 Unported License
+                            (http://creativecommons.org/licenses/by-nc-sa/3.0/). Derivatives must be
+                            credited to Civil War Washington, made available non-commercially, and
+                            distributed under the same terms. Requests for permission for commercial
+                            publication or other use should be emailed to the project team.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Petition of Benjamin Thorn, 8 May 1862</title>
+                    <date when="1862-05-08">May 8, 1862</date>
+                    <idno>Microcopy 520, Reel 2</idno>
+                    <orgName>National Archives and Records Administration</orgName>
+                    <relatedItem type="original">
+                        <bibl>
+                            <title>Petition of Benjamin Thorn, 8 May 1862</title>
+                            <date when="1862-05-14">May 8, 1862</date>
+                            <idno>Record Group 217.6.5</idno>
+                            <orgName>Records of the Accounting Officers of the Department of the
+                                Treasury, 1775&#8211;1978, National Archives and Records
+                                Administration</orgName>
+                            <note type="project">Within the National Archives' Archival Description
+                                Catalog, see ARC Identifier 4644616 / MLR Number A1 347
+                                (http://arcweb.archives.gov).</note>
+                        </bibl>
+                    </relatedItem>
+                    <note type="project">Our transcription is based on a digital image of a
+                        microfilm copy of the original.</note>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <particDesc>
+                <person role="petitioner">
+                    <persName>Benjamin Thorn</persName>
+                </person>
+                <person role="jp">
+                    <persName> B. W. Ferguson </persName>
+                </person>
+            </particDesc>
+        </profileDesc>
+        <revisionDesc>
+            <change when="2013-07-09" who="#jc">checked transcription for the first page and
+                published revised petition</change>
+            <change when="2013-06-18" who="#nnk">added transcription for the first page</change>
+            <change when="2013-01-20" who="#jc">revised schema declaration</change>
+            <change when="2012-04-05" who="#jc">blessed</change>
+            <change when="2012-03-30" who="#scl">blessed</change>
+            <change when="2012-02-15" who="#el">automated checking across files for extra spaces in
+                elements and other encoding inconsistencies and for regular transcription
+                errors</change>
+            <change when="2012-02-14" who="#el">updated tei header; fixed values for @facs as
+                necessary</change>
+            <change when="2012-01-09" who="#jc">checked</change>
+            <change when="2011-09-09" who="#bj">checked</change>
+            <change when="2011-03-28" who="#rv">transcribed, encoded</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+
+            <pb xml:id="leaf001r" facs="cww.00102.008.jpg"/>
+            <div1 type="petition" subtype="mixed">
+                <head type="main">PETITION.</head>
+                <p rend="bold">To the Commissioners under the act of Congress approved the <date
+                        when="1862-04-16">16th of April, 1862</date>, entitled "An act for the
+                    release of certain persons held to service or labor in the <placeName>District
+                        of Columbia</placeName>."</p>
+
+                <p>Your Petitioner, <seg type="handwritten"><persName>Benjamin T.
+                        Thorn</persName></seg> of <seg type="handwritten"><placeName>Washington
+                            D.C.</placeName></seg> by this <seg type="handwritten">his</seg>
+                    petition in writing, represents and states, that <seg type="handwritten"
+                        >he</seg> is a person loyal to the <placeName>United States</placeName>,
+                    who, at the time of the passage of the said act of Congress, held a claim to
+                    service or labor against <seg type="handwritten">Six</seg> person<seg
+                        type="handwritten">s</seg> of African descent of the name of <seg
+                        type="handwritten"><persName>Emily Dison</persName>, <persName>Ann
+                            Dyson</persName>, <persName>Delilah Dison</persName>, <persName>Thomas
+                            Dison</persName>, <persName>Benjamin Dison</persName>, &#38;
+                            <persName>John H. Hawkins</persName>.</seg> for and during the life of
+                    said <seg type="handwritten">persons above named</seg> and that by said act of
+                    Congress said <seg type="handwritten">persons above named are</seg> discharged
+                    and freed of and from all claim of your petitioner to such service or labor;
+                    that at the time of said discharge said <seg type="handwritten">persons above
+                        named were respectively</seg> of the age<seg type="handwritten">s</seg> of
+                        <seg type="handwritten">37 years, 20 years, 17 years, 14 years, 8 years,
+                        &#38; 34 years</seg> and of the personal description following:<note
+                        type="government" place="foot" xml:id="n1">Here describe the person, so as
+                        to identify him or her; and if there be more than one slave, describe each
+                        one separately.</note>
+                    <list type="handwritten">
+                        <item><persName>Emily Dison</persName>, thirty seven years of age. Dark
+                            Color, likely person, <choice>
+                                <sic>Excelent</sic>
+                                <corr>Excellent</corr>
+                            </choice> Cook Washer &#38; Ironer. A valuable woman, but occasionally
+                            suffers with Rheumatism, eight hundred dollars, $800.00</item>
+                        <item><persName>Ann Dison</persName>, twenty years of age, Black Color,
+                            Sound &#38; healthy, a good and valuable servant, sometimes a little
+                            deaf, worth one thousand dollars.</item>
+                        <item><persName>Delilah Dison</persName>, seventeen years of age, Dark
+                            Color, Sound &#38; healthy, a likely girl and fine servant, worth one
+                            thousand dollars.</item>
+                        <item><persName>Thomas Dison</persName>, Fourteen years of age, Dark Color,
+                            Sound &#38; healthy, and a first rate boy. worth eight hundred
+                            dollars.</item>
+                        <item><persName>Benjamin Dison</persName>, eight years of age, sound &#38;
+                            healthy, a sprightly lad, &#38; promised to make a good servant. worth
+                            Five hundred dollars.</item>
+                        <item><persName>John H. Hawkins</persName>, age thirty four years, black
+                            color, sound, healthy &#38; well formed, a fine man and very valuable
+                            servant. Worth fourteen hundred dollars</item>
+                    </list></p>
+
+                <pb xml:id="leaf001v" facs="cww.00102.001.jpg"/>
+                <p>That your petitioner acquired <seg type="handwritten">his</seg> claim to the
+                    aforesaid service or labor of said <seg type="handwritten"> Persons</seg> in
+                    manner following:<note type="government" place="foot" xml:id="n2">Here state how
+                        the claim was acquired, when, from whom, and for what price or
+                        consideration; and, if held under any written evidence of title, make
+                        exhibit thereof, or refer to the public record where the same may be
+                        found.</note>
+                    <seg type="handwritten">he inherited the Said persons at the death of his Father
+                            <persName>Alexander A. Thorn</persName> of <placeName>St. Mary's County
+                            D.C.</placeName>
+                    </seg>
+                </p>
+
+                <p>That your petitioner's claim to the service or labor of said <seg
+                        type="handwritten">
+                        <persName>Persons</persName>
+                    </seg> was, at the time of said discharge therefrom, of the value of <seg
+                        type="handwritten">Fifty five hundred</seg> dollars in money.<note
+                        type="government" place="foot" xml:id="n3">Here state such facts, if any
+                        there be, touching the value of the petitioner's claim to the service or
+                        labor of the person, as may enhance the same, and also such facts, if any,
+                        touching the moral, mental, and bodily infirmities or defects of said
+                        person, as impair the value of the petitioner's claim to such service or
+                        labor, and conclude such statement with an averment that the petitioner
+                        knows of no other infirmities or defects of said person which impair the
+                        value of petitioner's claim to such service or labor, and that he believes
+                        none other to exist. If the petitioner specify no such infirmity or defect,
+                        then his statement touching the value of his claim should conclude with an
+                        averment that he has no knowledge of any such infirmity or defect.</note>
+                    <seg type="handwritten"> Your petitioner would not have sold his servants at the
+                        price above named. Said persons have always been well used and are more than
+                        ordinarily intelligent. Your petitioner has no knowledge of any other
+                        infirmities than those named in the cases of <persName>Emily</persName>
+                        &#38; <persName>Ann</persName>.</seg>
+                </p>
+
+                <p>Your petitioner hereby declares that <seg type="handwritten">he</seg> bears true
+                    and faithful allegiance to the Government of the United States, and that <seg
+                        type="handwritten">he</seg> has not borne arms against the United States in
+                    the present rebellion, nor in any way given aid or comfort thereto.</p>
+
+                <p>And your petitioner further states and alleges, that <seg type="handwritten"
+                        >he</seg> has not brought said <seg type="handwritten">said persons</seg>
+                    into the <placeName>District of Columbia</placeName> since the passage of said
+                    act of Congress; and that, at the time of the passage thereof, said <seg
+                        type="handwritten">persons</seg> was held to service or labor therein under
+                    and by virtue of your petitioner's claim to such service or labor.</p>
+
+                <p>Your petitioner further states and alleges, that <seg type="handwritten"
+                        >his</seg> said claim to the service or labor of said <seg
+                        type="handwritten"> persons</seg> does not originate in or by virtue of any
+                    transfer heretofore made by any person who has in any manner aided or sustained
+                    the present rebellion against the Government of the United States.</p>
+
+                <p>And your petitioner prays the said Commissioners to investigate and determine the
+                    validity of <seg type="handwritten">his</seg> said claim to the service or labor
+                    of said <seg type="handwritten"> persons</seg> herein above set forth; and if
+                    the same be found to be valid, that they appraise and apportion the value of
+                    said claim in money, and report the same to the Secretary of the Treasury of the
+                    United States, in conformity to the provisions of said act of Congress.</p>
+
+                <closer> (Signed by) <signed>
+                        <seg type="handwritten">
+                            <persName>Benjamin T. Thorn</persName>
+                        </seg>
+                    </signed>
+                </closer>
+            </div1>
+
+            <pb xml:id="leaf002r" facs="cww.00102.002.jpg"/>
+            <div1 type="handwritten">
+                <ab>102 Copy <lb/> Revaluation &#38; Division<lb/> Of Negroes of<lb/>
+                    <persName>Alexander A. Thorn</persName>
+                </ab>
+                <ab>no. 102 <lb/> Claim <persName>B. T. Thorn</persName> under Act <date
+                        when="1862-04-16">16 April 1862</date>
+                </ab>
+                <ab>The clerk will please file the proper evidence in above case <persName>R. T.
+                        Morrell</persName>
+                    <lb/>
+                    <choice>
+                        <abbr>Atty</abbr>
+                        <expan>Attorney</expan>
+                    </choice> for Petitioner</ab>
+                <ab>Filed <date when="1862-07-15">July 15, 1862</date>
+                </ab>
+            </div1>
+
+            <pb xml:id="leaf003r" facs="cww.00102.003.jpg"/>
+            <div1 type="evidence" subtype="handwritten">
+                <div2 type="section">
+                    <ab>Revaluation &#38; Division of Negroes <persName>Alexander A.
+                            Thorn</persName>
+                    </ab>
+                    <p>The State of <placeName>Maryland</placeName> At an Orphan's Court held for
+                            <placeName>Saint Mary's County</placeName> at the Court house in
+                            <placeName>Leonard Town</placeName> on the <date when="1842-11-29">29th
+                            day of November in the year of our Lord one thousand eight hundred and
+                            forty two.</date>
+                    </p>
+                    <signed> Present <persName>R. H. Miles</persName>
+                        <lb/>
+                        <persName>C. Billingsley</persName>
+                        <choice>
+                            <abbr>Esqrs.</abbr>
+                            <expan>Esquires</expan>
+                        </choice><lb/>
+                        <persName>S. H. Gough</persName> Sheriff <persName>G. Combs</persName>
+                        Register </signed>
+                </div2>
+
+                <div2 type="section">
+                    <p>Among other proceedings were the following To wit An Application of
+                            <persName>Ann M. Thorn</persName> &#38; <persName>S. W. Dent</persName>
+                        Administrators of <persName>Alexander A. Thorn</persName> late of
+                            <placeName>Saint Mary's County</placeName> deceased, It is ordered by
+                        the court that <persName>John F. Dent</persName> and <persName>Henry
+                            Mattingly</persName> be appointed to revalue and divide the negroes of
+                        the said deceased among the legal representatives of the deceased, each of
+                        them having first taken the oath hereto annexed a certificate where of they
+                        are to return annexed to the said revaluation and Division.</p>
+                    <p>Lest <persName>G. Combs</persName> Register of Wills, <placeName>St. Mary's
+                            County</placeName> The <persName>John F. Dent</persName> and
+                            <persName>Henry Mattingley</persName> do swear that we will, well and
+                        truly without partiality or prejudice value and divide the negro slaves of
+                            <persName>Alexander A. Thorn</persName> late of <placeName>Saint Mary's
+                            County</placeName> deceased, so far as the same shall come to our sight
+                        and knowledge and will in all respects execute the above warrant to the best
+                        of our skill and judgement. So help us God.</p>
+                    <signed>
+                        <persName>J. F. Dent</persName>
+                        <lb/>
+                        <persName>Henry Mattingly</persName>
+                        <lb/> Commissioners</signed>
+                </div2>
+
+                <div2>
+                    <p>I hereby certify that the aforegoing oath was taken and subscribed to by the
+                        said <persName>J. F. Dent</persName> and <persName>Henry
+                            Mattingly</persName> before the undersigned a Justice of the peace for
+                            <placeName>St. Mary's County</placeName> duly commissioned and qualified
+                        according to Law this <date when="1842-12-03">third of December 1842</date>
+                    </p>
+                    <closer>
+                        <signed>
+                            <persName>H. D. Swann</persName> Justice of the Peace </signed>
+                    </closer>
+                </div2>
+
+
+                <pb xml:id="leaf003v" facs="cww.00102.004.jpg"/>
+                <div2 type="section">
+                    <salute>To the Honorable Judges of the Orphan's Court of <placeName>St. Mary's
+                            County</placeName>
+                    </salute>
+                    <p>We the undersigned commissioners named in a commission from the Orphan's
+                        Court of <placeName>St. Mary's County</placeName> to revalue and divide the
+                        negroes of <persName>Alexander A. Thorn</persName> deceased after having
+                        first taken the oath annexed to said commission proceeded to revalue and
+                        divide said negroes as follows <table>
+                            <row>
+                                <cell>Revaluation</cell>
+                                <cell>Original <choice>
+                                        <abbr>appt.</abbr>
+                                        <expan>appointment</expan>
+                                    </choice></cell>
+                                <cell><choice>
+                                        <abbr>Reappmt.</abbr>
+                                        <expan>Reappointment</expan>
+                                    </choice></cell>
+                            </row>
+                            <row>
+                                <cell>Negro man <persName>Lawson</persName> aged 46 years</cell>
+                                <cell>$445.00</cell>
+                                <cell>$250.00</cell>
+                            </row>
+                            <row>
+                                <cell>" " <persName>Elder John</persName> " 44 "</cell>
+                                <cell>500.00</cell>
+                                <cell>325.00</cell>
+                            </row>
+                            <row>
+                                <cell>" " <persName>Charles</persName> " 37 "</cell>
+                                <cell>600.00</cell>
+                                <cell>400.00</cell>
+                            </row>
+                            <row>
+                                <cell>" " <persName>Younger John</persName> " 15 "</cell>
+                                <cell>550.00</cell>
+                                <cell>400.00</cell>
+                            </row>
+                            <row>
+                                <cell>" " <persName>Henry</persName> " 41 "</cell>
+                                <cell>400.00</cell>
+                                <cell>250.00</cell>
+                            </row>
+                            <row>
+                                <cell>" <persName>Elizabeth</persName> " 41" (unhealthy)</cell>
+                                <cell>250.00</cell>
+                                <cell>175.00</cell>
+                            </row>
+                            <row>
+                                <cell>" <persName>Emily</persName> " 19 " </cell>
+                                <cell>550.00</cell>
+                                <cell>325.00</cell>
+                            </row>
+                            <row>
+                                <cell>" <persName>Sally Maria</persName> " 6 " </cell>
+                                <cell>75.00</cell>
+                                <cell>175.00</cell>
+                            </row>
+                            <row>
+                                <cell>" <persName>Richard</persName> " 4 increase</cell>
+                                <cell/>
+                                <cell>175.00</cell>
+                            </row>
+                            <row>
+                                <cell>" <persName>George</persName> " 2</cell>
+                                <cell/>
+                                <cell>150.00</cell>
+                            </row>
+                            <row>
+                                <cell>" <persName>Mary</persName> " 1</cell>
+                                <cell/>
+                                <cell>50.00</cell>
+                            </row>
+                            <row>
+                                <cell>" <persName>Henry</persName> " 3</cell>
+                                <cell/>
+                                <cell>150.00</cell>
+                            </row>
+                            <row>
+                                <cell>" <persName>Ann</persName> " 19 mos.</cell>
+                                <cell/>
+                                <cell>75.00</cell>
+                            </row>
+                            <row>
+                                <cell>" <persName>Robert</persName> " 8 years</cell>
+                                <cell/>
+                                <cell>250.00</cell>
+                            </row>
+                            <row>
+                                <cell/>
+                                <cell>3375.00</cell>
+                                <cell>3150.00</cell>
+                            </row>
+                            <row>
+                                <cell>Loss</cell>
+                                <cell/>
+                                <cell>225.00</cell>
+                            </row>
+                            <row>
+                                <cell/>
+                                <cell/>
+                                <cell>3375.00</cell>
+                            </row>
+                        </table> We then proceeded to divide said negroes between the widow and two
+                        children of the deceased,</p>
+                    <p>Lot No. 1 We have given to the widow of the deceased, Consisting of <table>
+                            <row>
+                                <cell>
+                                    <persName>Elizabeth</persName>
+                                </cell>
+                                <cell>$175.00</cell>
+                                <cell/>
+                            </row>
+                            <row>
+                                <cell>
+                                    <persName>Elder John</persName>
+                                </cell>
+                                <cell>325.00</cell>
+                                <cell/>
+                            </row>
+                            <row>
+                                <cell>
+                                    <persName>Sally Maria</persName>
+                                </cell>
+                                <cell>175.00</cell>
+                                <cell/>
+                            </row>
+                            <row>
+                                <cell>
+                                    <persName>Robert</persName>
+                                </cell>
+                                <cell>250.00</cell>
+                                <cell/>
+                            </row>
+                            <row>
+                                <cell>
+                                    <persName>Henry</persName>
+                                </cell>
+                                <cell>150.00</cell>
+                                <cell>$1075.00</cell>
+                            </row>
+                            <row>
+                                <cell>This Lot shall pay to lot No. 2</cell>
+                                <cell/>
+                                <cell>25.00 </cell>
+                            </row>
+                            <row>
+                                <cell/>
+                                <cell/>
+                                <cell>$1050.00 </cell>
+                            </row>
+                        </table>
+                    </p>
+
+
+                    <pb xml:id="leaf004r" facs="cww.00102.005.jpg"/>
+
+                    <p>Lot No 2 we have given to <persName>Matild Thorn</persName> a daughter of the
+                        deceased consisting of <table>
+                            <row>
+                                <cell>
+                                    <persName>Henry</persName>
+                                </cell>
+                                <cell>$250.00</cell>
+                                <cell/>
+                            </row>
+                            <row>
+                                <cell>
+                                    <persName>Charles</persName>
+                                </cell>
+                                <cell>400.00</cell>
+                                <cell/>
+                            </row>
+                            <row>
+                                <cell>
+                                    <persName>Mary</persName>
+                                </cell>
+                                <cell>50.00</cell>
+                                <cell/>
+                            </row>
+                            <row>
+                                <cell>
+                                    <persName>George</persName>
+                                </cell>
+                                <cell>150.00</cell>
+                                <cell/>
+                            </row>
+                            <row>
+                                <cell>
+                                    <persName>Richard</persName>
+                                </cell>
+                                <cell>175.00</cell>
+                                <cell>$1025.00</cell>
+                            </row>
+                        </table>
+                    </p>
+                    <p>Lot No 3 we have given to <persName>Benjamin Thorn</persName> A son of the
+                        deceased consisting of <table>
+                            <row>
+                                <cell>
+                                    <persName>Emily</persName>
+                                </cell>
+                                <cell>325.00</cell>
+                                <cell/>
+                            </row>
+                            <row>
+                                <cell>
+                                    <persName>Younger John</persName>
+                                </cell>
+                                <cell>400.00</cell>
+                                <cell/>
+                            </row>
+                            <row>
+                                <cell>
+                                    <persName>Ann</persName>
+                                </cell>
+                                <cell>75.00</cell>
+                                <cell/>
+                            </row>
+                            <row>
+                                <cell>
+                                    <persName>Lawson</persName>
+                                </cell>
+                                <cell>250.00</cell>
+                                <cell>1050.00</cell>
+                            </row>
+                        </table>
+                    </p>
+                    <p>Given under our hands and seals this <date when="1843-08-08">eighth day of
+                            August 1843</date>
+                    </p>
+                    <closer>
+                        <signed>
+                            <persName>J. F. Dent</persName> seal<lb/>
+                            <persName>Henry Mattingly</persName> seal Commissioners</signed>
+                    </closer>
+                </div2>
+
+
+                <div2 type="section">
+                    <p>
+                        <table>
+                            <row>
+                                <cell><persName>J. F. Dent</persName></cell>
+                                <cell>1 Day</cell>
+                                <cell>$2.00</cell>
+                            </row>
+                            <row>
+                                <cell>Making report</cell>
+                                <cell/>
+                                <cell>2.00 </cell>
+                            </row>
+                            <row>
+                                <cell><persName>H. Mattingly</persName></cell>
+                                <cell>1 Day</cell>
+                                <cell>2.00</cell>
+                            </row>
+                            <row>
+                                <cell/>
+                                <cell/>
+                                <cell>$6.00</cell>
+                            </row>
+                        </table>
+                    </p>
+
+                    <p>
+                        <placeName>State of Maryland, Saint Mary's County</placeName> to wit I
+                        hereby certify that the aforegoing is a true copy taken from the Original as
+                        filed in the Orphan's Court of <placeName>Saint Mary's County</placeName>
+                    </p>
+                </div2>
+                <div2 type="section">
+                    <p>In testimony whereof I have hereunto set my hand and affixed the seal of the
+                        Orphan's Court of <placeName>St. Mary's County</placeName> this <date
+                            when="1862-07-10">10th day of July 1862</date>
+                    </p>
+                    <closer>
+                        <signed>
+                            <persName>Jas. T. M. Rally</persName> Regs of Wills<lb/> for St. Mary's
+                            County </signed>
+                    </closer>
+                </div2>
+            </div1>
+
+            <pb xml:id="leaf005r" facs="cww.00102.006.jpg"/>
+            <div1 type="oath" subtype="mixed">
+                <head type="main">[<hi rend="italic">Form of the Oath for the Verification of the
+                        Petition.</hi>]</head>
+                <dateline>
+                    <placeName>District of Columbia</placeName>,
+                    <lb/>
+                    <hi rend="italic"><placeName>Washington County</placeName>, ss.</hi>
+                </dateline>
+
+                <div2 type="section">
+                    <p>I, <seg type="handwritten">
+                            <persName>Benjamin T. Thorn</persName>
+                        </seg> being duly sworn, do depose and say, that all the several matters and
+                        things which are set forth and stated in the foregoing petition, as of my
+                        own knowledge, are true in substance and in fact; and that all the several
+                        other matters and things therein set forth and stated, as from the
+                        information of others, I believe to be true in substance and in fact.</p>
+                    <closer> (Signed by) <signed>
+                            <seg type="handwritten">
+                                <persName>Benjamin T. Thorn</persName>
+                            </seg>
+                        </signed>
+                    </closer>
+                </div2>
+
+                <div2 type="section">
+                    <p>Sworn to and subscribed before me this <date when="1862-05-08">
+                            <seg type="handwritten">8th</seg> day of <seg type="handwritten"
+                                >May</seg> A.D. 1862</date>
+                    </p>
+                    <closer> (Signed by) <signed>
+                            <seg type="handwritten">
+                                <persName>B. M. Ferguson</persName> J.P. </seg>
+                        </signed>
+                    </closer>
+                </div2>
+            </div1>
+
+            <div1 type="cover" subtype="handwritten">
+                <note type="editorial">The following note, about the filing of the petition, has
+                    been imaged twice in the National Archives microfilm, but the note occurs in
+                    only one place in the petition: written horizontally on the final page, the Oath
+                    for the Verification.</note>
+                <ab>102<lb/> Petition of<lb/>
+                    <persName>Benjamin T. Thorn</persName>
+                </ab>
+                <ab>Filed <date when="1862-05-08">May 8, 1862</date>
+                </ab>
+                <ab>
+                    <persName>Isaac Bassett</persName>
+                    <lb/>
+                    <persName>R. T. McLain</persName>
+                </ab>
+            </div1>
+        </body>
+    </text>
+</TEI>

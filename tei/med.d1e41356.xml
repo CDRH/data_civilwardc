@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e41353">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Straw, Emmanuel</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+    <idno>med.d1e41353</idno>
+       <authority>Civil War Washington</authority>
+       <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor>
+       <name>Center for Digital Research in the Humanities</name>
+       <address><addrLine>319 Love Library</addrLine>
+       <addrLine>University of Nebraska–Lincoln</addrLine>
+       <addrLine>Lincoln, NE 68588-4100</addrLine>
+       <addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+    </distributor>
+    <date>2011</date>
+    <availability>
+        <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+         republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+         law, requires express written consent from the editors and advance notification of the
+         publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+     <persName xml:id="mb">Matthew Bosley</persName>     
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl>
+     <title level="j">The Medical and Surgical History of the War of the Rebellion. (1861-65.)</title>
+     <pubPlace>Washington, DC</pubPlace>
+     <publisher>Government Printing Office</publisher>
+     <biblScope type="part">Part 2</biblScope>
+     <biblScope type="volume">Volume 1</biblScope>
+     <date when="1879">1879</date>
+     <biblScope type="page">188</biblScope>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+       <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+      <keywords scheme="#medsurg">
+       <term>diarrh&#339;a and dysentery</term>
+       <term>fatal cases of diarrh&#339;a and dysentery, with accounts of the morbid appearances observed</term>
+       <term>from the First Division of the Alexandria Hospital, Virginia</term>
+       <term>chronic diarrh&#339;a</term>
+       <term>hemorrhoids</term>
+       <term>comatose</term>
+       <term>old pleuritic adhesions</term>
+       <term>liver large, nutmeg appearance</term>
+       <term>small intestine inflamed, colon extensively ulcerated</term>
+       <term>kidneys fatty</term>       
+       <term>autopsy performed</term>       
+     </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change who="#mb" when="2012-12-06">copied case from MSHWR, added proofing of transcription and encoding, identified keyword terms</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body> 
+   <p>The next case was forwarded on medical descriptive lists from the <name type="hospital" key="500"><hi rend="initialcap">F</hi>IRST <hi rend="initialcap">D</hi>IVISION</name>
+    of the <name type="place" key="#Alexandria"><hi rend="initialcap">A</hi>LEXANDRIA</name> <hi rend="initialcap">H</hi>OSPITAL, Virginia, <name type="person" key="134">Surgeon Edwin Bentley</name>, <name type="organization" key="132">U. S. V.</name>, in charge:</p>
+   <p><hi rend="initialcap">C</hi>ASE 441.&#8212;<name type="person" key="xxx">Private Emmanuel Straw</name>, <name type="organization" key="xxx">company I, 58th Pennsylvania volunteers</name>; admitted from <name type="hospital" key="209">Washington street prison</name> <date type="admit" when="1864-09-26">September 26, 1864</date>.  Chronic diarrh&#339;a. This case was complicated with hemorrhoids.  There was great irritability of the stomach from the time of admission.  Died comatose, <date type="death" when="1864-10-21">October 21st</date>.  <hi rend="italic">Autopsy</hi> <date type="autopsy" when="1864-10-21">eight hours after death</date>: Both lungs presented patches of black pigment superficially, but were otherwise healthy; old pleuritic adhesions connected the lower lobe of the right lung to the thoracic parietes. The liver was unusually large, and presented the nutmeg appearance. The small intestine was inflamed throughout; the colon extensively ulcerated. Kidneys fatty.</p> 
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e15231">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Rugg, Erastus R.</title>
+                <title level="m" type="sub">a machine readable transcription</title>
+                <principal>Susan C. Lawrence</principal>
+                <principal>Kenneth M. Price</principal>
+                <principal>Kenneth J. Winkle</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2011</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <idno>med.d1e15231</idno>
+                <authority>Civil War Washington</authority>
+                <publisher>University of Nebraska–Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+                </distributor>
+                <date>2011</date>
+                <availability>
+                    <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved.
+                        Redistribution or republication in any medium, except as allowed under the
+                        Fair Use provisions of U.S. copyright law, requires express written consent
+                        from the editors and advance notification of the publisher, the University
+                        of Nebraska–Lincoln.</p>
+                </availability>
+            </publicationStmt>
+            <notesStmt>
+                <note type="project">The following are responsible for particular readings or for changes to this file, as noted: 
+                    <persName xml:id="mb">Matthew Bosley</persName>                    
+                    <persName xml:id="el">Elizabeth Lorang</persName>
+                    <persName xml:id="sb">Stacey Berry</persName>
+                    <persName xml:id="et">Elisabeth Tracey</persName>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>The Medical and Surgical History of the War of the Rebellion. (1861&#8211;65.)</title>
+                    <editor role="compiler">Surgeon General Joseph K. Barnes, United States Army</editor>
+                    <pubPlace>Washington, D.C.</pubPlace>
+                    <publisher>Government Printing Office</publisher>
+                    <biblScope type="part">Part 1</biblScope>
+                    <biblScope type="volume">Volume 2</biblScope>
+                    <date when="1870">1870</date>
+                    <biblScope type="page">217</biblScope>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <classDecl>
+                <taxonomy xml:id="medsurg">
+                    <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme="#medsurg">                    
+                    <term>on special wounds and injuries of the head</term>
+                    <term>wounds and injuries of the head</term>
+                    <term>gunshot wounds</term>
+                    <term>gunshot fractures of the cranial bones</term> 
+                    <term>removal of fragments after gunshot fractures of the skull</term>
+                    <term>exfoliation and removal of necrosed or detached fragments of cranial bones after gunshot injuries</term>
+                    <term>recovered, slight disabilities, returned to duty</term>
+                    <term>conoidal ball penetrated left temporal bone, passed through dura mater</term>                    
+                    <term>deep depression at seat of injury</term>
+                    <term>dizziness upon slight exertion</term>                    
+                    <term>functions of right ear lost, those of left tremulous and weak</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change who="#mb" when="2013-07-23">additional proofing of transcription and encoding, edited and added keyword terms</change>            
+            <change who="#mb" when="2011-07-26">additional proofing of transcription and encoding</change>
+            <change who="#el" when="2011-11-05">case text extracted and transformed from larger file</change>
+            <change who="#sb" when="2011-02-09">enriched encoding</change>
+            <change who="#sb" when="2011-01-28">validated file</change>
+            <change who="#et" when="2009-08-01">encoded</change>
+            <change who="#sb" when="2008-09-22">initial checking of OCR text against PDF; encoded</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body xml:id="ch.sc3.290">            
+                <p><hi rend="initialcap">C</hi>ASE.&#8212;<name type="person" key="1630">Private
+                        Erastus R. Rugg</name>, <name type="organization" key="229">Co. I, 7th
+                            Wisconsin Volunteers</name>, aged 43 years, was wounded at the battle of <name
+                                type="BATTLE" key="12">the Wilderness, Virginia</name>, <date
+                        type="injury" when="1864-05-05">May 5th, 1864</date>, by a conoidal ball,
+                    which penetrated the left temporal bone and passed through the dura mater.  He
+                    was, on <date type="admit" when="1864-05-06">the following day</date>, admitted to the 4th division, Fifth Corps, hospital,
+                    and on <date type="transfer" when="1864-05-12">the 12th</date>, transferred to
+                    the <name type="hospital" key="162">Douglas Hospital</name>, Washington.  Simple
+                    dressings were employed.  On<date type="operation" when="1864-05-28"> <date type="transfer" when="1864-05-28">May
+                        28th</date>, he was sent to the <name type="hospital">Broad and Cherry Streets Hospital,
+                            Philadelphia</name></date>, where a small piece of necrosed bone was extracted from the wound.
+                    The missile had been previously removed. The patient remained at the above
+                    hospital until the <date type="transfer" when="1864-06-27">27th of June</date>, when he was transferred to the Haddington
+                    Hospital.  He recovered, and was returned to duty on <date type="duty"
+                        when="1865-02-11">February 11th, 1865</date>.  He was discharged <date
+                        type="servicedischarge" when="1865-07-06">July 6th, 1865</date>, and
+                    pensioned.  A communication from the <name type="person">Commissioner of Pensions</name>, <date type="pension" when="1870-01-20">January 20th,
+                        1870</date>, states that there is a deep depression at the seat of injury. The
+                    functions of the right ear are lost, those of the left are tremulous and weak,
+                    and the man is subject to dizziness upon slight exertion.</p>            
+        </body>
+    </text>
+</TEI>

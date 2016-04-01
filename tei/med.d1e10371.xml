@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e10371">
+        <teiHeader>
+                <fileDesc>
+                        <titleStmt>
+                                <title level="m" type="main">McClure, John</title>
+                                <title level="m" type="sub">a machine readable transcription</title>
+                                <principal>Susan C. Lawrence</principal>
+                                <principal>Kenneth M. Price</principal>
+                                <principal>Kenneth J. Winkle</principal>
+                        </titleStmt>
+                        <editionStmt>
+                                <edition>
+                                        <date>2011</date>
+                                </edition>
+                        </editionStmt>
+                        <publicationStmt>
+                                <idno>med.d1e10371</idno>
+                                <authority>Civil War Washington</authority>
+                                <publisher>University of Nebraska–Lincoln</publisher>
+                                <distributor>
+                                        <name>Center for Digital Research in the Humanities</name>
+                                        <address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+                                </distributor>
+                                <date>2011</date>
+                                <availability>
+                                        <p>Copyright © 2011 by University of Nebraska–Lincoln, all
+                                                rights reserved. Redistribution or republication in
+                                                any medium, except as allowed under the Fair Use
+                                                provisions of U.S. copyright law, requires express
+                                                written consent from the editors and advance
+                                                notification of the publisher, the University of
+                                                Nebraska–Lincoln.</p>
+                                </availability>
+                        </publicationStmt>
+                        <notesStmt>
+                                <note type="project">The following are responsible for particular
+                                        readings or for changes to this file, as noted: 
+                                        <persName xml:id="mb">Matthew Bosley</persName>
+                                        <persName xml:id="el">Elizabeth Lorang</persName>
+                                        <persName xml:id="sb">Stacey Berry</persName>
+                                        <persName xml:id="et">Elisabeth Tracey</persName>
+                                </note>
+                        </notesStmt>
+                        <sourceDesc>
+                                <bibl>
+                                        <title level="j">The Medical and Surgical History of the War
+                                                of the Rebellion</title>
+                                        <pubPlace>Washington, DC</pubPlace>
+                                        <publisher>Government Printing Office</publisher>
+                                        <biblScope type="part">Part 3</biblScope>
+                                        <biblScope type="volume">Volume 1</biblScope>
+                                        <date when="1888">1888</date>
+                                        <biblScope type="page">576</biblScope>
+                                </bibl>
+                        </sourceDesc>
+                </fileDesc>
+                <encodingDesc>
+                        <classDecl>
+                                <taxonomy xml:id="medsurg">
+                                        <bibl>Medical and Surgical History of the War of the
+                                                Rebellion</bibl>
+                                </taxonomy>
+                        </classDecl>
+                </encodingDesc>
+                <profileDesc>
+                        <textClass>
+                                <keywords scheme="#medsurg">
+                                        <term>diseases allied to or associated with paroxysmal and continued fevers</term>                                        
+                                        <term>cerebro-spinal fever</term>
+                                        <term>cases at the hospital of Alexandria, Va.</term> 
+                                        <term>eyes fixed and staring, pupils dilated</term>
+                                        <term>coma</term>   
+                                        <term>choroid plexus darkly congested, thickened, and opaque</term>
+                                        <term>post-mortem examination performed</term>
+                                </keywords>
+                        </textClass>
+                </profileDesc>
+                <revisionDesc>
+                        <change who="#mb" when="2012-03-07">additional proofing of transcription and encoding, identified keyword terms</change>
+                        <change who="#mb" when="2011-06-27">additional proofing of transcription and encoding</change>
+                        <change who="#el" when="2011-05-11">case text extracted and transformed from
+                                larger file</change>
+                        <change who="#sb" when="2011-02-23">Encoding and Proofing</change>
+                        <change who="#et" when="2009-12-01">Initial Checking OCR Text to PDF file,
+                        </change>
+                </revisionDesc>
+        </teiHeader>
+        <text>
+                <body>
+                        <p> <hi rend="italic">Cases at the Hospitals of <name type="place">Alexandria, Va.</name></hi>  </p>
+                                <p><hi rend="initialcap">C</hi>ASE 77.&#8212;<name type="person"
+                                                key="831">Private John McClure</name>, <name
+                                                type="organization" key="730">2d U. S. Cav.</name>,
+                                        was admitted <date type="admit" when="1865-04-08">April 8,
+                                                1865</date>, in an unconscious state. He writhed
+                                        incessantly; his pulse was slow and labored; his eyes fixed
+                                        and staring and his pupils dilated. He had no convulsions,
+                                        but died comatose on <date type="death"
+                                                when="1865-04-11">the 11th</date>.   <hi rend="italic">Post-mortem</hi> examination: Serum and yellow
+                                        lymph were found beneath the arachnoid, especially on the
+                                        right side, and also between the optic tracts and crura
+                                        cerebri; the substance of the brain was normal, but the
+                                        choroid plexus on each side was darkly congested and
+                                        somewhat thickened or opaque on its anterior margin. The
+                                        right lung was pale, bloodless and solidified in the
+                                        posterior parts of its upper and middle lobes and deeply
+                                        congested in its lower lobe; the left lung was congested.
+                                        The heart was large and slightly fatty; some old opacities
+                                        were found on the anterior surface of the right ventricle.
+                                        The liver was pale, the spleen small and hard; the lower
+                                        ileum natural.</p>                        
+                </body>
+        </text>
+</TEI>

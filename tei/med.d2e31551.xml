@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d2e31551">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Siebe, F.</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+       <idno>med.d2e31551</idno>
+       <authority>Civil War Washington</authority>
+       <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor>
+       <name>Center for Digital Research in the Humanities</name>
+       <address><addrLine>319 Love Library</addrLine>
+       <addrLine>University of Nebraska–Lincoln</addrLine>
+       <addrLine>Lincoln, NE 68588-4100</addrLine>
+       <addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+    </distributor>
+    <date>2011</date>
+    <availability>
+        <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+         republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+         law, requires express written consent from the editors and advance notification of the
+         publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+ <persName xml:id="kw">Kenneth Winkle</persName> 
+     <persName xml:id="mb">Matthew Bosley</persName>
+     <persName xml:id="mb-o">Miguel Beltran-Orozco</persName>
+     <persName xml:id="kk">Kourtney Klein</persName>
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl>
+     <title level="j">The Medical and Surgical History of the War of the Rebellion. (1861-65.)</title>
+     <pubPlace>Washington, DC</pubPlace>
+     <publisher>Government Printing Office</publisher>
+     <biblScope type="part">Part 2</biblScope>
+     <biblScope type="volume">Volume 2</biblScope>
+     <date when="1876">1876</date>
+     <biblScope type="page">147</biblScope>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+       <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+      <keywords scheme="#medsurg">
+       <term>injuries of the abdomen</term>
+       <term>penetrating wounds of the abdomen</term>
+       <term>wounds of the liver</term>
+       <term>gunshot wounds</term>
+       <term>recoveries from shot wounds of the liver</term> 
+       <term>wound of right abdomen</term>
+       <term>ball entered anteriorly below tenth rib, emerged behind and near spine</term>
+       <term>discharge from wound f&#230;ces mixed with green from ascending colon and liver</term>
+       <term>ball entered to right of sternum, passed through liver, exited to right of spine</term>
+       <term>constant pain in bending body, cannot perform manual labor, disability increased</term>       
+     </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+ <change who="#kw" when="2014-05">blessed</change>
+   <change who="#kk" when="2014-01-17">added figure encoding</change>
+   <change who="#mb" when="2012-08-07">additional proofing of transcription and encoding, identified keyword terms</change>
+   <change who="#mb-o" when="2011-02-20">checked OCR; added minimal mark-up for personal names, place names, and dates</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p><hi rend="initialcap">C</hi>ASE 399.&#8212;<name type="person" key="xxx">Private F. Siebe</name>, <name type="organization" key="xxx">Co. D, 139th New York</name>, aged 23 years, received a wound of the right side of the abdomen at <name type="BATTLE" key="16">Cold Harbor</name>, <date type="injury" when="1864-06-03">June 3, 1864</date>. He was taken to the field hospital of the Eighteenth Corps, and was subsequently sent to <name type="place" key="#Washington">Washington, D. C.</name>, and admitted into <name type="hospital" key="173">Harewood Hospital</name> on <date type="transfer" when="1864-06-15">the 15th</date>.  <name type="person" key="158">Surgeon R. B. Bontecou</name>, <name type="organization" key="132">U. S. V.</name>, states, on the medical descriptive list, that "a musket ball entered the right anterior side below the tenth rib, and emerged behind and about one and a half inches from the spine. On admission, the patient was in a very feeble condition; the discharges from the wound consisted of f&#230;ces, mixed with greenish streaks, from the ascending colon and liver. He complained of pain in the abdomen, which was increased by pressure; the discharge from the rectum was scanty. Cold-water dressings over the abdomen, opium internally, and light, nourishing diet constituted the treatment.  July 1st, the pain in the abdomen diminished, but the discharge remained the same.  July 15th, the patient complains of occasional colicky pains.  The discharge continued the same until August 15th, but from that date the patient began to improve.  By September 1st the wound of exit had healed.  September 14th, wounds entirely healed. Colicky pain recurred now and then, but the patient was able to be about."  He was furloughed <date type="furlough" when="1864-10-08">October 8, 1864</date>, and was returned to duty, entirely well, <date type="photo" when="1864-11-23"><date type="duty" when="1864-11-23">November 23, 1864</date></date>, at which date a photograph, copied in the wood-cut (<hi rend="initialcap">F</hi>IG. 116), was taken at the hospital.  <name type="person" key="xxx">Pension Examiner C. Rowland</name>, of <name type="place">Brooklyn</name>, reports, <date type="pension" when="1867-02-23">February 23, 1867</date>, that "the ball entered the right side of the sternum, passed through the liver, and made it exit on the right side of the spine, resulting in constant pain in bending his body. He is feeble, and cannot perform manual labor. He alleges that his disability has increased since the granting of his pension, <date type="pension" when="1865-06-02">June 2, 1865</date>."  He was last paid <date type="pension" when="1872-09-04">September 4, 1872</date>.</p>    
+   
+   <figure>
+    <graphic url="cww.001765.001" />
+    <head><hi rend="initialcap">F</hi>IG. 116.&#8212;Cicatrices after a shot perforation of the liver.   [From a photograph.]</head>
+   </figure> 
+   
+  </body>
+ </text>
+</TEI>

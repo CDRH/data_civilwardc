@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e41898">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Burley, Martin</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+    <idno>med.d1e41898</idno>
+       <authority>Civil War Washington</authority>
+       <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor>
+       <name>Center for Digital Research in the Humanities</name>
+       <address><addrLine>319 Love Library</addrLine>
+       <addrLine>University of Nebraska–Lincoln</addrLine>
+       <addrLine>Lincoln, NE 68588-4100</addrLine>
+       <addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+    </distributor>
+    <date>2011</date>
+    <availability>
+        <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+         republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+         law, requires express written consent from the editors and advance notification of the
+         publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+     <persName xml:id="mb">Matthew Bosley</persName>
+     <persName xml:id="el">Elizabeth Lorang</persName>
+     <persName xml:id="sb">Stacey Berry</persName>
+     <persName xml:id="ao">Alyssa Olson</persName>      
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl>
+     <title level="j">The Medical and Surgical History of the War of the Rebellion. (1861-65.)</title>
+     <pubPlace>Washington, DC</pubPlace>
+     <publisher>Government Printing Office</publisher>
+     <biblScope type="part">Part 2</biblScope>
+     <biblScope type="volume">Volume 1</biblScope>
+     <date when="1879">1879</date>
+     <biblScope type="page">410</biblScope>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+       <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+      <keywords scheme="#medsurg">
+       <term>diarrh&#339;a and dysentery</term>
+       <term>remarks on the pathology and treatment of diarrh&#339;a and dysentery</term>
+       <term>acute dysentery</term>                    
+       <term>complications of dysentery</term>       
+       <term>paralysis as a sequel to dysentery</term>          
+       <term>dropsy</term>
+       <term>general debility</term>
+       <term>partial paraplegia</term>
+       <term>lower extremities, especially left, partially paralyzed</term>
+       <term>walked only with crutches</term>
+       <term>muscular contractility and sensation good, left leg feeble</term>       
+     </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change who="#mb" when="2013-01-30">additional proofing of transcription and encoding, identified keyword terms</change>
+   <change who="#el" when="2010-11-05">case text extracted and transformed from larger file</change>
+   <change who="#sb" when="2010-05-01">enrich encoding, proof and edit</change>
+   <change who="#ao" when="2008-10-02">encoding and editing</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body> 
+   <p><hi rend="initialcap">C</hi>ASE 886.&#8212;<name type="person" key="xxx">Private Martin Burley</name>, <name type="organization" key="xxx">company F, 2d Pennsylvania cavalry</name>; age 29; admitted to <name type="hospital" key="162">Douglas hospital</name>, Washington, D C., <date type="admit" when="1864-05-10">May 10, 1864</date>.  Diagnosis, dropsy.  Transferred to <name type="place">Philadelphia, Pennsylvania</name>, <date type="transfer" when="1864-05-14">May 14th</date>. Admitted to Mower hospital, <name type="place">Philadelphia</name>, <date type="admit" when="1864-05-15">May 15th</date>.  Diagnosis, general debility.  Transferred, <date type="transfer" when="1865-02-11">February 11, 1865</date>. Admitted to Turner's Lane hospital, <name type="person" key="xxx">Surgeon R. A. Christian</name>, <name type="organization" key="132">U. S. V.</name>, in charge, <date type="admit" when="1865-02-11">February 11th</date>.  Diagnosis, partial paraplegia.  The case-book of the latter hospital states that this man enlisted <date type="enlist" when="1862-02-13">February 13, 1862</date>; was first taken with diarrh&#339;a at <name type="place">Occoquan creek, Virginia</name>; it continued five months. He was furloughed, for sixty days <date type="furlough" when="1863-11">about two months after being taken ill</date>, but was not well enough to return to his regiment when the furlough expired. While on furlough the diarrh&#339;a ceased, but soon after his lower extremities, especially the left, became partially paralyzed.  He went to Washington about six months after he received his furlough, and was admitted to <name type="hospital" key="162">Douglas hospital</name> as above stated. At present his lower limbs are so feeble that he can only walk with crutches. Muscular contractility and sensation appear to be good in both limbs, but the left leg is feeble and three-quarters of an inch smaller round the calf than the other. His general health is apparently good.  This man was discharged from the hospital by reason of expiration of term of service, <date type="servicedischarge" when="1865-03-03"><date type="hospitaldischarge" when="1865-03-03">March 3, 1865</date></date>. His condition at that time was much improved.</p>
+  </body>
+ </text>
+</TEI>

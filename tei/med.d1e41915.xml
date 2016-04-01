@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e41915">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Glascow, Taylor W.</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+    <idno>med.d1e41915</idno>
+    <authority>Civil War Washington</authority>
+    <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor>
+     <name>Center for Digital Research in the Humanities</name>
+     <address><addrLine>319 Love Library</addrLine>
+       <addrLine>University of Nebraska–Lincoln</addrLine>
+       <addrLine>Lincoln, NE 68588-4100</addrLine>
+       <addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+    </distributor>
+    <date>2011</date>
+    <availability>
+     <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+      republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+      law, requires express written consent from the editors and advance notification of the
+      publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+ <persName xml:id="kmp">Kenneth M. Price</persName> <persName xml:id="ajh">AJ Howell</persName>
+     <persName xml:id="mb">Matthew Bosley</persName>
+     <persName xml:id="el">Elizabeth Lorang</persName>
+     <persName xml:id="sb">Stacey Berry</persName>
+     <persName xml:id="ao">Alyssa Olson</persName>
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl>
+     <title level="j">The Medical and Surgical History of the War of the Rebellion.
+      (1861-65.)</title>
+     <pubPlace>Washington, DC</pubPlace>
+     <publisher>Government Printing Office</publisher>
+     <biblScope type="part">Part 2</biblScope>
+     <biblScope type="volume">Volume 1</biblScope>
+     <date when="1879">1879</date>
+     <biblScope type="page">449</biblScope>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+     <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <keywords scheme="#medsurg">
+     <term>diarrh&#339;a and dysentery</term>
+     <term>remarks on the pathology and treatment of diarrh&#339;a and dysentery</term>
+     <term>acute dysentery</term>
+     <term>post mortem appearances in acute dysentery</term>
+     <term>diphtheritic inflammation</term>
+     <term>autopsy performed</term>
+     <term>chronic diarrh&#339;a</term>
+     <term>typhoid fever</term>
+     <term>dysentery</term>
+     <term>chronic flux</term>
+     <term>colon extensively ulcerated</term>
+     <term>condition of other organs not recorded</term>
+     <term>ulcers do not penetrate muscular coat, but do invade submucous connective tissue
+      deeply</term>
+     <term>acute diphtheritic dysentery, in convalescence from typhoid fever</term>
+     <term>small intestine not examined for traces of typhoid fever</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+ <change who="#kmp" when="2014-05">blessed</change>
+   <change who="#ajh" when="2013-08-21">added figure encoding</change>
+   <change who="#mb" when="2013-01-31">additional proofing of transcription and encoding, edited and
+    added keyword terms, added figures</change>
+   <change who="#el" when="2010-11-05">case text extracted and transformed from larger file</change>
+   <change who="#sb" when="2010-05-01">enrich encoding, proof and edit</change>
+   <change who="#ao" when="2008-10-02">encoding and editing</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Somewhat similar is the character of the ulcers shown in the chromo-plate facing page 454. The
+    following is a history of the case:</p>
+   <p><hi rend="initialcap">C</hi>ASE 897.&#8212;<name type="person" key="xxx">Private Taylor W.
+     Glascow</name>, <name type="organization" key="xxx">company H, 110th Pennsylvania
+     volunteers</name>; age 34; admitted to <name type="hospital" key="172">Emory hospital</name>,
+    Washington, D. C., <date type="admit" when="1863-10-17">October 17, 1863</date>. Chronic
+    diarrh&#339;a. This man enlisted <date type="enlist" when="1862-09-25">September 25,
+    1862</date>, and is reported on the muster-rolls of his company as present until March, 1863.
+    Some time <date type="injury" when="1863-04">during April</date> he was taken sick and sent to
+    division hospital. <date type="admit" when="1863-06-14">June 14, 1863</date>, he was admitted to
+    the <name type="hospital" key="500">1st division Alexandria hospital</name>. Diagnosis, typhoid
+    fever. He was, however, now in a convalescent condition, and was returned to duty with his
+    regiment, <date type="duty" when="1863-08-11">August 11th</date>. Shortly after he was attacked
+    with dysentery, for which he was finally admitted to <name type="hospital" key="172">Emory
+     hospital</name>, as above stated. His disease now presented the aspect of a chronic flux. He
+    was treated at first with pills of camphor and opium, but as the discharges from the bowels
+    continued unabated, he was put to bed on the 21st, and tannic acid and opium substituted. Light
+    diet. The diarrh&#339;a was checked for a few days, but again grew worse about November 1st,
+    when a chalk mixture was prescribed and a diet of boiled milk and toast. November 5th, he
+    complained of pain in the abdomen. The diarrh&#339;a was about the same. Substituted Parrish's
+    camphor mixture and laudanum. November 11th, the patient complained of being unable to sleep.
+    The diarrh&#339;a remains about the same. Ordered mercury with chalk, and Dover's powder at
+    night. November 16th, is worse. Stools more frequent. The patient appears much debilitated.
+    Ordered pills of acetate of lead, opium and ipecacuanha; stimulants. Under this treatment he was
+    again temporarily better, but again became worse about the 25th, when calomel and opium were
+    substituted. December 3d, is much weaker; the diarrh&#339;a unchecked. Stopped the pills;
+    continued the stimulants. December 4th, at the request of the patient, procured him some
+    blackberry brandy, which he seemed to relish; but in a few days discontinued its use, as it
+    seemed to nauseate him. December 8th, is considerably emaciated, greatly prostrated and growing
+    rapidly weaker. The stools are very frequent and tinged with blood. Ordered beef tea, brandy and
+    a laudanum injection at night. Died, <date type="death" when="1863-12-13">December 13th</date>.
+     <hi rend="italic">Autopsy:</hi> The colon was considerably thickened and extensively ulcerated.
+    [The condition of the other organs is not recorded.]&#8212;<name type="person" key="xxx">Acting
+     Assist. Surgeon W. H. Combs</name>. [No. 115, Medical Section, <name type="hospital" key="xxx"
+     >Army Medical Museum</name>, is from this case.]</p>
+   <p>A portion of the descending colon from this case was brought to the <name type="hospital"
+     key="431">Army Medical Museum</name> immediately after the autopsy, and a water-color drawing
+    made by <name type="person" key="xxx">Mr. Hermann Faber</name>, of which the chromo-plate is a
+    reproduction. The piece presents a number of ulcers, some of them of considerable size, which
+    for the most part do not penetrate to the muscular coat, but invade the submucous connective
+    tissue more or less deeply. The general surface of the mucous membrane between the ulcers is
+    cream colored, with bluish and greenish streaks and patches. There are also a number of reddish
+    patches in which the congested condition of the small veins is recognizable with the unaided
+    eye. The bases of the ulcers are for the most part quite smooth, and similar in tint to the
+    mucous membrane itself, but two of them are stippled with minute granulations; their edges are
+    bevelled or rounded, not overhanging. This case, like the last, is to be interpreted as one of
+    acute diphtheritic dysentery, which, in this instance, occurred not long after convalescence
+    from typhoid fever. The precise duration of the disease is not shown by the record. It clearly
+    commenced some time after the 11th of August, when the patient had sufficiently recovered from
+    typhoid fever to be returned to his regiment for duty; but it cannot have commenced very long
+    afterwards, for when admitted to <name type="hospital" key="172">Emory hospital</name> the
+    disease had already so far advanced as to present the characters of a chronic flux. The duration
+    of his last illness must therefore have probably been somewhere between three and four months, a
+    sufficient time to permit the complete separation of all the diphtheritic sloughs, but the
+    resulting ulcers were too numerous and extensive to permit recovery. The physician who made the
+    autopsy was unacquainted with the fact that the patient had previously suffered from typhoid
+    fever, and does not appear to have examined the small intestine for traces of that disease.</p>
+   <figure>
+    <graphic url="cww.001503.001"/>
+    <head><hi rend="initialcap">P</hi>LATE XX. ULCERATION OF THE COLON. No. 115. MEDICAL
+     SECTION.</head>
+   </figure>
+   <p/>
+  </body>
+ </text>
+</TEI>

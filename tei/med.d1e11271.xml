@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e11271">
+        <teiHeader>
+                <fileDesc>
+                        <titleStmt>
+                                <title level="m" type="main">Brunor, Jacob</title>
+                                <title level="m" type="sub">a machine readable transcription</title>
+                                <principal>Susan C. Lawrence</principal>
+                                <principal>Kenneth M. Price</principal>
+                                <principal>Kenneth J. Winkle</principal>
+                        </titleStmt>
+                        <editionStmt>
+                                <edition>
+                                        <date>2011</date>
+                                </edition>
+                        </editionStmt>
+                        <publicationStmt>
+                                <idno>med.d1e11271</idno>
+                                <authority>Civil War Washington</authority>
+                                <publisher>University of Nebraska–Lincoln</publisher>
+                                <distributor>
+                                        <name>Center for Digital Research in the Humanities</name>
+                                        <address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+                                </distributor>
+                                <date>2011</date>
+                                <availability>
+                                        <p>Copyright © 2011 by University of Nebraska–Lincoln, all
+                                                rights reserved. Redistribution or republication in
+                                                any medium, except as allowed under the Fair Use
+                                                provisions of U.S. copyright law, requires express
+                                                written consent from the editors and advance
+                                                notification of the publisher, the University of
+                                                Nebraska–Lincoln.</p>
+                                </availability>
+                        </publicationStmt>
+                        <notesStmt>
+                                <note type="project">The following are responsible for particular readings or for changes to this file, as noted: 
+                                        <persName xml:id="mb">Matthew Bosley</persName>
+                                        <persName xml:id="el">Elizabeth Lorang</persName>
+                                        <persName xml:id="sb">Stacey Berry</persName>
+                                        <persName xml:id="et">Elisabeth Tracey</persName>
+                                </note>
+                        </notesStmt>
+                        <sourceDesc>
+                                <bibl>
+                                        <title level="j">The Medical and Surgical History of the War of the Rebellion</title>
+                                        <pubPlace>Washington, DC</pubPlace>
+                                        <publisher>Government Printing Office</publisher>
+                                        <biblScope type="part">Part 3</biblScope>
+                                        <biblScope type="volume">Volume 1</biblScope>
+                                        <date when="1888">1888</date>
+                                        <biblScope type="page">788</biblScope>
+                                </bibl>
+                        </sourceDesc>
+                </fileDesc>
+                <encodingDesc>
+                        <classDecl>
+                                <taxonomy xml:id="medsurg">
+                                        <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+                                </taxonomy>
+                        </classDecl>
+                </encodingDesc>
+                <profileDesc>
+                        <textClass>
+                                <keywords scheme="#medsurg">
+                                        <term>diseases attributed to non-miasmatic exposures</term>
+                                        <term>diseases of the respiratory organs</term>
+                                        <term>pneumonia</term>
+                                        <term>post-mortem records of catarrhal cases</term> 
+                                        <term>lobar pneumonias</term>
+                                        <term>secondary pneumonias</term>
+                                        <term>cases associated with the specific poison of measles, presenting little of interest beyond a specification of the appearance and locality of the affected parts of the lung</term>
+                                        <term>admitted with measles</term>
+                                        <term>jaundice</term>
+                                        <term>pleural surfaces adherent</term>
+                                        <term>lung hepatized</term>
+                                        <term>liver congested, all liquids of body yellowish</term>     
+                                        <term>spleen enlarged</term>
+                                </keywords>
+                        </textClass>
+                </profileDesc>
+                <revisionDesc>
+                        <change who="#mb" when="2013-05-02">additional proofing of transcription and encoding, edited and added keyword terms</change>
+                        <change who="#mb" when="2013-03-11">additional proofing of transcription and encoding, edited and added keyword terms</change>
+                        <change who="#mb" when="2011-07-11">additional proofing of transcription and encoding</change>
+                        <change who="#el" when="2011-05-11">case text extracted and transformed from larger file</change>
+                        <change who="#sb" when="2011-02-23">Encoding and Proofing</change>
+                        <change who="#et" when="2009-12-01">Initial Checking OCR Text to PDF file,</change>
+                </revisionDesc>
+        </teiHeader>
+        <text>
+                <body>                        
+                        <p> <hi rend="initialcap">C</hi>ASE 38.&#8212;<name type="person">Private Jacob Brunor</name>, <name type="organization">Co. C, 51st Pa.</name>; age 18; was admitted <date type="admit" when="1865-04-09">April 9, 1865</date>, with measles.  Pneumonia and jaundice appeared on May 16, and death occurred on <date type="death" when="1865-05-20">the 20th</date>.   <hi rend="italic">Post-mortem</hi> examination: The pleural surfaces were adherent; the left lung hepatized; the middle and lower
+                                        lobes of the right congested. The liver was congested; the
+                                        spleen enlarged and softened. All the liquids of the body
+                                        were yellowish.&#8212;<hi rend="italic"><name type="hospital" key="189">Third Division Hospital</name>, <name type="place">Alexandria, Va.</name></hi> </p>                        
+                </body>
+        </text>
+</TEI>

@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e1918320">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title level="m" type="main">Kearney, John</title>
+        <title level="m" type="sub">a machine readable transcription</title>
+        <principal>Susan C. Lawrence</principal>
+        <principal>Kenneth M. Price</principal>
+        <principal>Kenneth J. Winkle</principal>
+      </titleStmt>
+      <editionStmt>
+        <edition><date>2011</date></edition>
+      </editionStmt>
+      <publicationStmt>
+        <idno>med.d1e1918320</idno>
+        <authority>Civil War Washington</authority>
+        <publisher>University of Nebraska–Lincoln</publisher>
+        <distributor><name>Center for Digital Research in the
+          Humanities</name><address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address></distributor>
+        <date>2011</date>
+        <availability>
+          <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution
+            or republication in any medium, except as allowed under the Fair Use provisions of U.S.
+            copyright law, requires express written consent from the editors and advance
+            notification of the publisher, the University of Nebraska–Lincoln.</p>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="project">The following are responsible for particular readings or for changes to
+          this file, as noted: 
+ <persName xml:id="kmp">Kenneth M. Price</persName> <persName xml:id="ajh">AJ Howell</persName>
+          <persName xml:id="mb">Matthew Bosley</persName>
+          <persName xml:id="el">Elizabeth Lorang</persName>
+          <persName xml:id="sb">Stacey Berry</persName>
+          <persName xml:id="et">Elisabeth Tracey</persName>
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl><title>The Medical and Surgical History of the War of the Rebellion.
+            (1861&#8211;65.)</title><editor role="compiler">Surgeon General Joseph K. Barnes, United
+            States Army</editor><pubPlace>Washington, D.C.</pubPlace><publisher>Government Printing
+            Office</publisher><biblScope type="part">Part 1</biblScope>
+          <biblScope type="volume">Volume 2</biblScope><date when="1870">1870</date><biblScope
+            type="page">474</biblScope></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <classDecl>
+        <taxonomy xml:id="medsurg">
+          <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="#medsurg">
+          <term>wounds and injuries of the chest</term>
+          <term>gunshot wounds of the chest</term>
+          <term>non-penetrating injuries of bones</term>
+          <term>broncho-pneumonia</term>
+          <term>bullet lodged in lower portion of sternum</term>
+          <term>bullet removed by simple incision</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+ <change who="#kmp" when="2014-05">blessed</change>
+      <change who="#ajh" when="2013-08-20">added figure encoding</change>
+      <change who="#mb" when="2011-12-16">additional proofing of transcription and encoding</change>
+      <change who="#el" when="2011-05-11">case text extracted and transformed from larger
+        file</change>
+      <change who="#sb" when="2011-02-09">enriched encoding</change>
+      <change who="#sb" when="2011-01-28">validated file</change>
+      <change who="#et" when="2009-08-01">encoded</change>
+      <change who="#sb" when="2008-09-22">initial checking of OCR text against PDF; encoded
+      </change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+
+      <p>
+        <hi rend="initialcap">C</hi>ASE.&#8212;<name type="person">Private John Kearney</name>,
+          <name type="organization">Co. G, 69th New York Volunteers</name>, was wounded at <name
+          type="battle">Malvern Hill</name>, <date type="injury" when="1862-07-01">July 1st,
+          1862</date>, a bullet striking his chest, about two inches to the left of the median line,
+        at the fourth rib, and lodging in the lower portion of the body of the sternum. Various
+        efforts were made to remove it by counter openings, but in vain, and, <date
+          type="servicedischarge" when="1863-04">after nine months</date> in general hospitals in
+          <name type="place" key="#Washington">Washington</name> and <name type="place">New
+          York</name>, he was discharged, as unfit for service. The wound had healed to a certain
+        extent, and he went to work at his trade of shipwright. He re&#235;nlisted in <date
+          type="enlist" when="1864-02">February, 1864</date>, the wound, at the time of examination,
+        presenting the ordinary appearances of old gunshot wounds. He was immediately sent to <name
+          type="place">Riker's Island, New York Harbor</name>, where he underwent a great deal of
+        unnecessary exposure to the elements, and also to other deleterious influences for which
+        that depot was, at one time, notorious. The wound broke out afresh, the surrounding parts
+        became swollen, red, and painful, and an attack of broncho-pneumonia was superadded. An
+        examination, by N&#233;laton's probe, indicated the nature and position of the bullet, the
+        existence of which had been previously doubted or denied. It was removed, without
+        difficulty, by simple incision. No spicul&#230; of carious bone were found loose, though the
+        sternum exhibited a depression corresponding, in some measure, to the size of the bullet.
+        About an ounce of f&#339;tid pus was discharged from the surrounding tissues. The missile
+        was contributed to the <name type="hospital" key="431">Army Medical Museum</name>, with the
+        foregoing account, by <name type="person">Surgeon William O'Meagher</name>, <name
+          type="organization">69th New York Volunteers</name>. It is shown in the adjoining
+        wood-cut. Not a pensioner.</p>
+
+      <figure>
+        <graphic url="cww.001455.001"/>
+        <head>
+          <hi rend="initialcap">F</hi>IG. 208.&#8212;A flattened conoidal musket ball successfully
+          removed from the sternum. <hi rend="italic">Spec</hi>. 4558, Sect. I, A. M. M.</head>
+      </figure>
+
+    </body>
+  </text>
+</TEI>

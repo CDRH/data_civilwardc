@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e11040">
+        <teiHeader>
+                <fileDesc>
+                        <titleStmt>
+                                <title level="m" type="main">Somers, Theodore</title>
+                                <title level="m" type="sub">a machine readable transcription</title>
+                                <principal>Susan C. Lawrence</principal>
+                                <principal>Kenneth M. Price</principal>
+                                <principal>Kenneth J. Winkle</principal>
+                        </titleStmt>
+                        <editionStmt>
+                                <edition>
+                                        <date>2011</date>
+                                </edition>
+                        </editionStmt>
+                        <publicationStmt>
+                                <idno>med.d1e11040</idno>
+                                <authority>Civil War Washington</authority>
+                                <publisher>University of Nebraska–Lincoln</publisher>
+                                <distributor>
+                                        <name>Center for Digital Research in the Humanities</name>
+                                        <address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+                                </distributor>
+                                <date>2011</date>
+                                <availability>
+                                        <p>Copyright © 2011 by University of Nebraska–Lincoln, all
+                                                rights reserved. Redistribution or republication in
+                                                any medium, except as allowed under the Fair Use
+                                                provisions of U.S. copyright law, requires express
+                                                written consent from the editors and advance
+                                                notification of the publisher, the University of
+                                                Nebraska–Lincoln.</p>
+                                </availability>
+                        </publicationStmt>
+                        <notesStmt>
+                                <note type="project">The following are responsible for particular readings or for changes to this file, as noted: 
+                                        <persName xml:id="mb">Matthew Bosley</persName>
+                                        <persName xml:id="el">Elizabeth Lorang</persName>
+                                        <persName xml:id="sb">Stacey Berry</persName>
+                                        <persName xml:id="et">Elisabeth Tracey</persName>
+                                </note>
+                        </notesStmt>
+                        <sourceDesc>
+                                <bibl>
+                                        <title level="j">The Medical and Surgical History of the War of the Rebellion</title>
+                                        <pubPlace>Washington, DC</pubPlace>
+                                        <publisher>Government Printing Office</publisher>
+                                        <biblScope type="part">Part 3</biblScope>
+                                        <biblScope type="volume">Volume 1</biblScope>
+                                        <date when="1888">1888</date>
+                                        <biblScope type="page">772</biblScope>
+                                </bibl>
+                        </sourceDesc>
+                </fileDesc>
+                <encodingDesc>
+                        <classDecl>
+                                <taxonomy xml:id="medsurg">
+                                        <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+                                </taxonomy>
+                        </classDecl>
+                </encodingDesc>
+                <profileDesc>
+                        <textClass>
+                                <keywords scheme="#medsurg">
+                                        <term>diseases attributed to non-miasmatic exposures</term>
+                                        <term>diseases of the respiratory organs</term>
+                                        <term>pneumonia</term>
+                                        <term>post-mortem records</term> 
+                                        <term>lobar pneumonias</term>
+                                        <term>associated with pericarditis</term>	
+                                        <term>miliary tubercle in lower lobe of lung</term>
+                                        <term><choice><orig>dulness</orig><reg>dullness</reg></choice> on percussion over upper lung</term>
+                                        <term>liver fatty</term>
+                                        <term>dark straw-colored liquid and lymph in pericardium</term>
+                                        <term>apex of lung solid, lower part crepitant, lower lobe dark brownish-red and doughy</term>
+                                </keywords>
+                        </textClass>
+                </profileDesc>
+                <revisionDesc>
+                        <change who="#mb" when="2013-04-29">additional proofing of transcription and encoding, edited and added keyword terms</change>
+                        <change who="#mb" when="2013-03-07">additional proofing of transcription and encoding, edited and added keyword terms</change>
+                        <change who="#mb" when="2011-07-05">additional proofing of transcription and encoding</change>
+                        <change who="#el" when="2011-05-11">case text extracted and transformed from larger file</change>
+                        <change who="#sb" when="2011-02-23">Encoding and Proofing</change>
+                        <change who="#et" when="2009-12-01">Initial Checking OCR Text to PDF file,</change>
+                </revisionDesc>
+        </teiHeader>
+        <text>
+                <body>                        
+                        <p> <hi rend="initialcap">C</hi>ASE 94.&#8212;<name type="person">Private Theodore Somers</name>, <name type="organization">Co. D, 55th
+                                Mass.</name>; age 19; admitted <date type="admit" when="1865-01-29">Jan. 29, 1865</date>.  <choice><orig>Dulness</orig><reg>Dullness</reg></choice> on
+                                        percussion over the upper lobe of the left lung; severe
+                                        cough; free expectoration; anorexia; excessive nostalgia;
+                                        pulse 120, full and soft.  31st: Rolling about, looking
+                                        anxious; wanting to die; refusing food and medicine.  Died
+                                <date type="death" when="1865-02-07">February 7</date>.   <hi rend="italic">Post-mortem</hi> examination: Dark straw-colored
+                                        liquid and lymph in pericardium. Apex of left lung solid,
+                                        lower anterior part crepitant but sloughy; lower lobe dark
+                                        brownish-red and doughy; miliary tubercle in right lower
+                                        lobe. Liver pale and fatty; spleen small; kidneys
+                                        granular.&#8212;<hi rend="italic"><name type="hospital" key="189">Third Division Hospital</name>, <name type="place">Alexandria, Va.</name></hi> </p>                        
+                </body>
+        </text>
+</TEI>

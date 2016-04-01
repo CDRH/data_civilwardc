@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d2e31485">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Voshage, Adolph</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+       <idno>med.d2e31485</idno>
+       <authority>Civil War Washington</authority>
+       <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor>
+       <name>Center for Digital Research in the Humanities</name>
+       <address><addrLine>319 Love Library</addrLine>
+       <addrLine>University of Nebraska–Lincoln</addrLine>
+       <addrLine>Lincoln, NE 68588-4100</addrLine>
+       <addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+    </distributor>
+    <date>2011</date>
+    <availability>
+        <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+         republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+         law, requires express written consent from the editors and advance notification of the
+         publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+     <persName xml:id="mb">Matthew Bosley</persName>     
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl>
+     <title level="j">The Medical and Surgical History of the War of the Rebellion. (1861-65.)</title>
+     <pubPlace>Washington, DC</pubPlace>
+     <publisher>Government Printing Office</publisher>
+     <biblScope type="part">Part 2</biblScope>
+     <biblScope type="volume">Volume 2</biblScope>
+     <date when="1876">1876</date>
+     <biblScope type="page">12</biblScope>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+       <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+      <keywords scheme="#medsurg">
+       <term>injuries of the abdomen</term>
+       <term>injuries of the abdominal walls</term>
+       <term>contusions and wounds of the abdominal parietes</term>
+       <term>complications of parietal wounds</term> 
+       <term>gangrene</term>
+       <term>ball entered near anterior superior spinous process, emerged near Poupart's ligament</term>
+       <term>recurrent gangrene</term> 
+       <term>frequent h&#230;morrhages</term>
+       <term>thigh flexed on abdomen, moved about by resting alternately on nates and palms of hands</term>
+       <term>spurious anchylosis of hip joint</term>
+       <term>limb contracted and useless, unfit for manual labor</term>
+       <term>ur&#230;mia</term>         
+     </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change who="#mb" when="2012-07-31">copied case from MSHWR, added proofing of transcription and encoding, identified keyword terms</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>   
+   <p><hi rend="initialcap">C</hi>ASE 91.&#8212;<name type="person" key="xxx">Private Adolph Voshage</name>, <name type="organization" key="xxx">Co. L, 9th New York State Militia</name>, aged 29 years, was wounded at <name type="BATTLE" key="4">Fredericksburg</name>, <date type="injury" when="1862-12-13">December 13, 1862</date>, admitted to <name type="hospital" key="173">Harewood Hospital</name>, <date type="admit" when="1862-12-23">December 23, 1862</date>. A musket ball had entered near the left anterior superior spinous process, and emerged near Poupart's ligament.  On January 14, 1864, sloughing appeared, and was treated by free cauterization with nitric acid. Pus had burrowed deeply, and the sinuses were laid open, and tents were introduced.  There was recurrent gangrene on the 27th, and great destruction of tissue. Frequent h&#230;morrhages took place, which were arrested by tampons.  In the middle of March, the immense sore was granulating kindly, but pus continued to burrow in the muscular interstices.  By May 1st, the wound had cicatrized. The destruction of tissue was so great that the thigh was flexed on the abdomen, and the patient moved about by resting alternately on the nates and palms of his hands.  He was discharged <date type="servicedischarge" when="1863-07-07">July 7, 1863</date>, &#34;for spurious anchylosis of left hip joint.&#34;  The limb remained contracted and useless, unfitting him for manual labor, according to the <name type="organization" key="xxx">Pension Board</name>, <date type="pension" when="1870-04">April, 1870</date>.  He died, <date type="death" when="1871-07-28">July 28, 1871</date>, &#34;of ur&#230;mia,&#34; according to the report of the attending physician, <name type="person" key="xxx">M. H. Schuler, M. D.</name></p>     
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d2e29312">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Cross, G. P.</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+       <idno>med.d2e29312</idno>
+       <authority>Civil War Washington</authority>
+       <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor>
+       <name>Center for Digital Research in the Humanities</name>
+       <address><addrLine>319 Love Library</addrLine>
+       <addrLine>University of Nebraska–Lincoln</addrLine>
+       <addrLine>Lincoln, NE 68588-4100</addrLine>
+       <addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+    </distributor>
+    <date>2011</date>
+    <availability>
+        <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+         republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+         law, requires express written consent from the editors and advance notification of the
+         publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+         <persName xml:id="mb">Matthew Bosley</persName>         
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl>
+        <title level="j">The Medical and Surgical History of the War of the Rebellion. (1861-65.)</title>
+        <pubPlace>Washington, DC</pubPlace>
+        <publisher>Government Printing Office</publisher>
+        <biblScope type="part">Part 3</biblScope>
+        <biblScope type="volume">Volume 2</biblScope>
+        <date when="1883">1883</date>
+        <biblScope type="page">811-812</biblScope>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+       <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+      <keywords scheme="#medsurg">
+       <term>wounds and  complications</term>
+       <term>h&#230;morrhages and ligations</term>
+       <term>h&#230;morrhage of arteries</term>
+       <term>treatment of h&#230;morrhage</term> 
+       <term>successful case of transfusion of blood</term>
+       <term>flesh wound of posterior aspect of leg</term>
+       <term>exsanguineous from previous loss of blood</term> 
+       <term>h&#230;morrhage from posterior tibial artery</term>
+       <term>gangrene</term>
+       <term>amputation of leg at tubercle of tibia</term> 
+       <term>method of transfusion of blood as recommended by Brown-S&#233;quard</term>       
+       <term>supplied with artificial limb</term> 
+     </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+       <change who="#mb" when="2012-06-27">additional case copied from MSHWR, performed proofing of copy and XML encoding, and key terms identified</change>  
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>   
+   <p><hi rend="initialcap">C</hi>ASE 1186.&#8212;<name type="person" key="xxx">Private G. P. Cross</name>, <name type="organization" key="xxx">Co. F, 1st Massachusetts Heavy Artillery</name>, aged 19 years, was wounded in the right
+    leg, before <name type="BATTLE" key="7">Petersburg</name>, <date type="injury" when="1864-06-16">June 16th, 1864</date>, and entered the <name type="hospital" key="196">Grosvenor Branch Hospital</name>, <name type="place">Alexandria</name>, <date type="admit" when="1864-06-30">two weeks afterwards</date>.  <name type="person" key="134">Surgeon E. Bentley</name>, <name type="organization" key="132">U. S. V.</name>, who operated in the case, made the following report:  &#34;The injury consisted of a flesh wound on the posterior aspect of the leg. At the date of the patient's admission he was exsanguineous from previous loss of blood. Owing to his condition no operative measures were adopted, but his languishing vital powers were sustained by stimulating treatment
+    combined with highly nutritious diet. Under this method he slightly improved in strength, but the circulating fluid was so impoverished in quality and reduced in quantity that the face of the wound looked pale and bad, and ultimately, on August
+    12th, it assumed a gangrenous aspect. Local applications, such as creasote, charcoal poultices, nitric acid, etc., were applied to combat this condition. These means failed to arrest its onward progress, the leg presenting in a short space of time a mass of gangrenous sloughs, horribly fetid.  H&#230;morrhage from the posterior tibial artery again commenced on the afternoon of <date type="operation" when="1864-08-15">August 15th</date>, when it was deemed advisable to amputate to prevent further loss of blood. The operation was accordingly performed just at the tubercle of the tibia, the condition of the parts not allowing a flap to be made below that point. Not more than two tablespoonsful of blood was lost; but the patient not seeming to rally, it was determined to test the method of transfusion of blood as recommended by Brown-S&#233;quard. Blood having been obtained from the temporal artery of a strong healthy German, an attempt was made to penetrate the internal saphenous vein, but was unsuccessful on account of its small size; after which an opening was made into the median basilic, and about two ounces were transfused by means of a Tiemann's syringe. Immediately after the injection a marked difference was noticed in the patient s pulse, which became stronger and firmer. He was then
+    removed to his bed and generous diet was administered, together with stimulants and tonics, under which treatment he gradually improved, his appetite became better, his strength increased, and the stump assumed a healthy aspect.  On <date type="furlough" when="1864-10-20">October 20th</date> the stump had healed and the patient had so far improved as to be able to be furloughed. At its expiration he returned, and, finally, he was transferred to Webster Hospital, <name type="place">Manchester</name>, <date type="transfer" when="1865-01-13">January 13, 1865</date>, cured.&#34;  The patient was ultimately discharged from Central Park Hospital at <name type="place">New York City</name>, <date type="servicedischarge" when="1865-06-09">June 9, 1865</date>, and pensioned, and afterwards he was supplied with a &#34;Hudson&#34; artificial limb.  This pensioner died <date type="death" when="1867-08-24">August 24, 1867</date>.</p>
+   <p></p>   
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d2e30346">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Stewart, S. C.</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+    <idno>med.d2e30346</idno>
+    <authority>Civil War Washington</authority>
+    <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor>
+     <name>Center for Digital Research in the Humanities</name>
+     <address><addrLine>319 Love Library</addrLine>
+       <addrLine>University of Nebraska–Lincoln</addrLine>
+       <addrLine>Lincoln, NE 68588-4100</addrLine>
+       <addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+    </distributor>
+    <date>2011</date>
+    <availability>
+     <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+      republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+      law, requires express written consent from the editors and advance notification of the
+      publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+ <persName xml:id="kw">Kenneth Winkle</persName> <persName xml:id="ajh">AJ Howell</persName>
+     <persName xml:id="mb">Matthew Bosley</persName>
+     <persName xml:id="no">Nathan Olson</persName>
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl>
+     <title level="j">The Medical and Surgical History of the War of the Rebellion.
+      (1861-65.)</title>
+     <pubPlace>Washington, DC</pubPlace>
+     <publisher>Government Printing Office</publisher>
+     <biblScope type="part">Part 2</biblScope>
+     <biblScope type="volume">Volume 2</biblScope>
+     <date when="1876">1876</date>
+     <biblScope type="page">783-784</biblScope>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+     <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <keywords scheme="#medsurg">
+     <term>wounds and injuries of the upper extremities</term>
+     <term>injuries of the shaft of the humerus</term>
+     <term>amputations of the arm for shot injury</term>
+     <term>amputations in the shaft of the humerus</term>
+     <term>secondary amputations in the arm</term>
+     <term>secondary amputations in the continuity</term>
+     <term>secondary amputation at the middle third of the arm</term>
+     <term>successful cases</term>
+     <term>fracture of arm, resection of upper third of ulna and radius</term>
+     <term>shot in elbow</term>
+     <term>missile entered external and posterior part of elbow</term>
+     <term>erysipelas</term>
+     <term>suppuration, pus midway up arm</term>
+     <term>amputation at middle third of arm</term>
+     <term>artificial arm furnished</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+ <change who="#kw" when="2014-05">blessed</change>
+   <change who="#ajh" when="2013-08-23">added figure encoding</change>
+   <change who="#mb" when="2012-06-28">additional proofing of transcription and encoding, identified
+    keyword terms</change>
+   <change who="#no" when="2011-02-23">checked OCR; added minimal mark-up for personal names, place
+    names, and dates</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p><hi rend="initialcap">C</hi>ASE 1699.&#8212;<name type="person" key="xxx">Private S. C.
+     Stewart</name>, <name type="organization" key="xxx">Co. F, 2d Maine</name>, aged 44 years, was
+    wounded at <name type="BATTLE" key="6">Bull Run</name>, <date type="injury" when="1861-07-21"
+     >July 21, 1861</date>, and admitted to the <name type="hospital" key="445">E street
+     Infirmary</name>, at Washington, on <date type="admit" when="1861-07-22">the following
+     day</date>. <name type="person" key="xxx">Assistant Surgeon J. W. S. Gourley</name>, <name
+     type="organization" key="190">U. S. A.</name>, contributed the specimen with the following
+    minutes of the case: &#34;The patient was shot in the left elbow, the ball having been extracted
+    previous to his admission. The missile entered at the external and posterior part of the elbow.
+    On the day subsequent to his admission erysipelas set in, and was followed by very profuse
+    suppuration and burrowing of pus nearly midway up the arm. Free incisions were made for the
+    escape of pus, and the arm kept still, with a hope of performing a secondary resection of the
+    elbow, which had been objected to when the patient was first seen. But about <date
+     type="operation" when="1861-08">one month after the injury</date> he had become so feeble, and
+    his condition was such, that longer delay would have been fatal, and amputation at the middle
+    third was resorted to as the only means of preserving his life. From that moment his condition
+    improved, and the bed-sores which he had healed, he having meanwhile been placed on a water-bed
+    kindly furnished by <name type="person" key="xxx">Dr. T. Foster Jenkins</name>, of the <name
+     type="organization" key="xxx">Sanitary Commission</name>. The patient was discharged from
+    hospital, cured, on <date type="hospitaldischarge" when="1861-09-21">September 21st</date>.&#34;
+    On <date type="servicedischarge" when="1861-10-02">October 2, 1861</date>, the patient was
+    discharged from service and pensioned. On <date type="pension" when="1864-12-21">December 21,
+     1864</date>, an artificial arm was furnished by <name type="person" key="xxx">Mr.
+     Lincoln</name>, of <name type="place">Boston</name>, who described the case as a &#34;circular
+    amputation at the middle of the arm,&#34; and the stump as &#34;healed.&#34; This pensioner died
+    on <date type="death" when="1869-01-23">January 23, 1869</date>. The specimen (<hi
+     rend="initialcap">F</hi>IG. 555) consists of the lower half of the left humerus, from which the
+    outer condyle has been carried away, and a large fragment of the shaft split off and afterward
+    partially reunited.</p>
+   <figure>
+    <graphic url="cww.001684.001"/>
+    <head><hi rend="initialcap">F</hi>IG. 555.&#8212;Results of shot fracture of outer condyle of
+     left humerus. <hi rend="italic">Spec</hi>. 350.</head>
+   </figure>
+  </body>
+ </text>
+</TEI>

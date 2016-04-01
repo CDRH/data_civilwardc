@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d2e31373">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Smith, D.</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+       <idno>med.d2e31373</idno>
+       <authority>Civil War Washington</authority>
+       <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor>
+       <name>Center for Digital Research in the Humanities</name>
+       <address><addrLine>319 Love Library</addrLine>
+       <addrLine>University of Nebraska–Lincoln</addrLine>
+       <addrLine>Lincoln, NE 68588-4100</addrLine>
+       <addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+    </distributor>
+    <date>2011</date>
+    <availability>
+        <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+         republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+         law, requires express written consent from the editors and advance notification of the
+         publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+     <persName xml:id="mb">Matthew Bosley</persName>
+     <persName xml:id="mh">Minda Haas</persName>
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl>
+     <title level="j">The Medical and Surgical History of the War of the Rebellion. (1861-65.)</title>
+     <pubPlace>Washington, DC</pubPlace>
+     <publisher>Government Printing Office</publisher>
+     <biblScope type="part">Part 2</biblScope>
+     <biblScope type="volume">Volume 2</biblScope>
+     <date when="1876">1876</date>
+     <biblScope type="page">997</biblScope>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+       <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+      <keywords scheme="#medsurg">
+       <term>wounds and injuries of the upper extremities</term>
+       <term>wounds and operations at the wrist</term> 
+       <term>shot fractures of the wrist treated by expectation</term>
+       <term>gunshot wound of wrist, treated without amputation or excision</term> 
+       <term>ball passed through middle of wrist at juncture of carpus with metacarpus</term>
+       <term>inflammation involving forearm and arm</term>
+       <term>incisions in hand several times</term>
+       <term>ball entered middle of carpus on dorsum of hand, inclined toward thumb, emerged through adductor pollicis muscle</term>
+       <term>carpal and metacarpal bones injured</term> 
+       <term>wrist anchylosed, fingers and thumb permanently extended</term>
+       <term>no power of prehension remains</term>
+       <term>for manual labor injury almost equals loss of arm or hand</term>           
+     </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change who="#mb" when="2012-07-20">additional proofing of transcription and encoding, identified keyword terms</change>
+   <change who="#mh" when="2011-02-23">checked OCR; added minimal mark-up for personal names, place names, and dates</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>   
+   <p><hi rend="initialcap">C</hi>ASE 1931.&#8212;<name type="person" key="xxx">Private D. Smith</name>, <name type="organization" key="xxx">Co. I, 11th Pennsylvania</name>, aged 26 years, was wounded at <name type="BATTLE" key="127">Bull Run</name>, <date type="injury" when="1862-08-30">August 30, 1862</date>, and admitted to <name type="hospital" key="71">Ryland Chapel Hospital</name>, Washington, <date type="admit" when="1862-09-01">two days afterward</date>.  <name type="person" key="70">Surgeon J. A. Lidell</name>, <name type="organization" key="132">U. S. V.</name>, reported as follows: "Gunshot wound of left wrist, treated without amputation or excision. The ball passed completely through the middle of the wrist, at the juncture of the carpus with the metacarpus. A great deal of inflammation followed, involving the forearm and even the arm. No large pieces of bone have been discharged, but a considerable quantity of grit and small pieces of bone with a great deal of matter flowed away. It was necessary to make incisions in the hand several times.  The patient was admitted to <name type="hospital" key="175">Stanton Hospital</name>, from <name type="hospital" key="71">Ryland Chapel</name>, <date type="transfer" when="1862-12-05">December 5th</date>. The wounds are now healed, and there is a prospect of recovery with a useful hand. This soldier was discharged <date type="servicedischarge" when="1863-01-07">January 7, 1863</date>," and pensioned.  <name type="person" key="xxx">Examiner J. I. McCormick</name>, of <name type="place">Irwin Station, Pennsylvania</name>, <date type="pension" when="1865-05-19">May 19, 1865</date>, certified: "A ball entered the middle of the carpus on the dorsum of the hand, and, inclining toward the thumb, emerged through the adductor pollicis muscle. The carpal and metacarpal bones are much injured. The wrist is completely anchylosed, and the fingers and thumb are permanently extended, except that the index finger at the <choice><sic>metacarpo-phalangal</sic><corr>metacarpo-phalangeal</corr></choice> joint is movable, and can be brought in contact with the thumb, though without power. The little finger is abducted and slightly flexed, but firmly fixed like the rest. No power of prehension remains to him. For purposes of manual labor his injury is almost equal to the loss of his arm or hand."  The pensioner was paid <date type="pension" when="1875-09-04">September 4, 1875</date>.</p>   
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,905 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="cww.00130">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Petition of Milton Garrett, Sarah Caldwell, Sarah
+                    Virginia Zimmerman, A. M. Caldwell, and John H. Caldwell, 9 May 1862</title>
+                <title level="m" type="sub">a machine readable transcription</title>
+                <principal>Susan C. Lawrence</principal>
+                <principal>Kenneth M. Price</principal>
+                <principal>Kenneth J. Winkle</principal>
+                <respStmt>
+                    <resp>transcription and encoding</resp>
+                    <name xml:id="kjw">Kenneth J. Winkle</name>
+                    <name xml:id="jc">Janel Cayer</name>
+                    <name xml:id="nnk">Nima Najafi Kianfar</name>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2013</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <idno>cww.00130</idno>
+                <distributor>Civil War Washington</distributor>
+                <publisher>University of Nebraska–Lincoln</publisher>
+                <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>P.O. Box 884100</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+            </address>
+                <date>2013</date>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+                        <p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike
+                            3.0 Unported License
+                            (http://creativecommons.org/licenses/by-nc-sa/3.0/). Derivatives must be
+                            credited to Civil War Washington, made available non-commercially, and
+                            distributed under the same terms. Requests for permission for commercial
+                            publication or other use should be emailed to the project team.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Petition of Milton Garrett, Sarah Caldwell, Sarah Virginia Zimmerman, A.
+                        M. Caldwell, and John H. Caldwell, 9 May 1862</title>
+                    <date when="1862-05-09">May 9, 1862</date>
+                    <idno>Microcopy 520, Reel 2</idno>
+                    <orgName>National Archives and Records Administration</orgName>
+                    <relatedItem type="original">
+                        <bibl>
+                            <title>Petition of Milton Garrett, Sarah Caldwell, Sarah Virginia
+                                Zimmerman, A. M. Caldwell, and John H. Caldwell, 9 May 1862</title>
+                            <date when="1862-05-09">May 9, 1862</date>
+                            <idno>Record Group 217.6.5</idno>
+                            <orgName>Records of the Accounting Officers of the Department of the
+                                Treasury, 1775–1978, National Archives and Records
+                                Administration</orgName>
+                            <note type="project">Within the National Archives' Archival Description
+                                Catalog, see ARC Identifier 4644616 / MLR Number A1 347
+                                (http://arcweb.archives.gov).</note>
+                        </bibl>
+                    </relatedItem>
+                    <note type="project">Our transcription is based on a digital image of a
+                        microfilm copy of the original.</note>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <particDesc>
+                <person role="petitioner">
+                    <persName>Milton Garrett</persName>
+                </person>
+                <person role="petitioner">
+                    <persName>Sarah Caldwell</persName>
+                </person>
+                <person role="petitioner">
+                    <persName>Sarah Virginia Zimmerman</persName>
+                </person>
+                <person role="petitioner">
+                    <persName>A. M. Caldwell</persName>
+                </person>
+                <person role="petitioner">
+                    <persName>John H. Caldwell</persName>
+                </person>
+                <person role="jp">
+                    <persName>Samuel Drury</persName>
+                </person>
+                <person role="jp">
+                    <persName>Thomas C. Donn</persName>
+                </person>
+            </particDesc>
+        </profileDesc>
+        <revisionDesc>
+            <change when="2013-03-21" who="#jc">blessed</change>
+            <change when="2013-03-19" who="#kjw">blessed</change>
+            <change when="2012-12-26" who="#jc">updated tei header; fixed values for @facs as
+                necessary; automated checking across files for extra spaces in elements and other
+                encoding inconsistencies and for regular transcription errors</change>
+            <change when="2012-12-10" who="#nnk">proofed</change>
+            <change when="2012-10-18" who="#jc">transcribed, encoded</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb xml:id="leaf001r" facs="cww.00130.001.jpg"/>
+
+            <div1 type="petition" subtype="mixed">
+                <head type="main">PETITION.</head>
+                <p rend="bold">To the Commissioners under the act of Congress approved the <date
+                        when="1862-04-16">16th of April, 1862</date>, entitled "An act for the
+                    release of certain persons held to service or labor in the District of
+                    Columbia."</p>
+
+                <p>Your Petitioner, <seg type="handwritten">
+                        <persName>Milton Garrett</persName>
+                    </seg> of <seg type="handwritten">
+                        <placeName>Washington D. C.</placeName>
+                    </seg> by this <seg type="handwritten">his</seg> petition in writing, represents
+                    and states, that <seg type="handwritten">he</seg> is a person loyal to the
+                    United States, who, at the time of the passage of the said act of Congress, held
+                    a claim to service or labor against <seg type="handwritten">
+                        <persName>Grace Payne</persName>, <persName>Maria Carey</persName>,
+                            <persName>Malinda Gorns</persName>, &#38; <persName>Rose
+                            Gorns</persName>,</seg> person<seg type="handwritten">s</seg> of African
+                    descent of the name <del>of</del>
+                    <seg type="handwritten">as stated above</seg> for and during the life of said
+                        <seg type="handwritten">
+                        <persName>Grace Payne</persName>, <persName>Maria Carey</persName>,
+                            <persName>Malinda Gorns</persName> &#38; <persName>Rose
+                        Gorns</persName>,</seg> and that by said act of Congress said <seg
+                        type="handwritten">Persons are</seg> discharged and freed of and from all
+                    claim of your petitioner to such service or labor; that at the time of said
+                    discharge said <seg type="handwritten">
+                        <persName>Grace Payne</persName>, <persName>Maria Carey</persName>
+                        <persName>Malinda Gorns</persName> &#38; <persName>Rose Gorns</persName>
+                        are</seg> of the age <del>of</del> and of the personal description
+                        following:<note type="government" place="foot" xml:id="n1">Here describe the
+                        person, so as to identify him or her; and if there be more than one slave,
+                        describe each one separately.</note>
+                    <list type="handwritten">
+                        <item>
+                            <persName>Grace Payne</persName> is about 55 years of age, very black,
+                            about five feet high, &#38; stoutly built.</item>
+                        <item>
+                            <persName>Maria Carey</persName> is about 23 years old, dark brown,
+                            about five feet one inch high &#38; stoutly built</item>
+                        <item>
+                            <persName>Malinda Gorns</persName> is about 34 years old, about five
+                            feet high &#38; stoutly built.</item>
+                        <item>
+                            <persName>Rose Gorns</persName> is about 10 years old, black, &#38;
+                            about medium height</item>
+                    </list>
+                </p>
+
+                <pb xml:id="leaf001v" facs="cww.00130.002.jpg"/>
+
+                <p>That your petitioner acquired <seg type="handwritten">his</seg> claim to the
+                    aforesaid service or labor of said <seg type="handwritten">Servants</seg> in
+                    manner following:<note type="government" place="foot" xml:id="n2">Here state how
+                        the claim was acquired, when, from whom, and for what price or
+                        consideration; and, if held under any written evidence of title, make
+                        exhibit thereof, or refer to the public record where the same may be
+                        found.</note>
+                    <seg type="handwritten">By inheritance from my wife's Father's Estate, in <date
+                            when="1839">1839</date> in the <placeName>State of Virginia</placeName>
+                        I also hold two sevenths by assignment as the records of this county court
+                        in <date when="1860">1860</date>
+                    </seg>
+                </p>
+
+                <p>That your petitioner's claim to the service or labor of said <seg
+                        type="handwritten">Persons</seg> was, at the time of said discharge
+                    therefrom, of the value of <seg type="handwritten">Two Thousand</seg> dollars in
+                        money.<note type="government" place="foot" xml:id="n3">Here state such
+                        facts, if any there be, touching the value of the petitioner's claim to the
+                        service or labor of the person, as may enhance the same, and also such
+                        facts, if any, touching the moral, mental, and bodily infirmities or defects
+                        of said person, as impair the value of the petitioner's claim to such
+                        service or labor, and conclude such statement with an averment that the
+                        petitioner knows of no other infirmities or defects of said person which
+                        impair the value of petitioner's claim to such service or labor, and that he
+                        believes none other to exist. If the petitioner specify no such infirmity or
+                        defect, then his statement touching the value of his claim should conclude
+                        with an averment that he has no knowledge of any such infirmity or
+                        defect.</note>
+                    <seg type="handwritten">value of <persName>Grace</persName> $200.
+                            <persName>Maria</persName> $800 <persName>Malinda</persName> $600,
+                            <persName>Rose</persName> $400. Your petitioner knows of no infirmities
+                        or defects, either mental <choice>
+                            <sic>of</sic>
+                            <corr>or</corr>
+                        </choice> physical</seg>
+                </p>
+
+                <p>Your petitioner hereby declares that <space atLeast="1"/> bears true and faithful
+                    allegiance to the Government of the United States, and that <space atLeast="1"/>
+                    has not borne arms against the United States in the present rebellion, nor in
+                    any way given aid or comfort thereto.</p>
+
+                <p>And your petitioner further states and alleges, that <space atLeast="1"/> has not
+                    brought said <space atLeast="1"/> into the <placeName>District of
+                        Columbia</placeName> since the passage of said act of Congress; and that, at
+                    the time of the passage thereof, said <space atLeast="1"/> was held to service
+                    or labor therein under and by virtue of your petitioner's claim to such service
+                    or labor.</p>
+
+                <p>Your petitioner further states and alleges, that <space atLeast="1"/> said claim
+                    to the service or labor of said <space atLeast="1"/> does not originate in or by
+                    virtue of any transfer heretofore made by any person who has in any manner aided
+                    or sustained the present rebellion against the Government of the
+                        <placeName>United States</placeName>.</p>
+
+                <p>And your petitioner prays the said Commissioners to investigate and determine the
+                    validity of <space atLeast="1"/> said claim to the service or labor of said
+                        <space atLeast="1"/> herein above set forth; and if the same be found to be
+                    valid, that they appraise and apportion the value of said claim in money, and
+                    report the same to the Secretary of the Treasury of the <placeName>United
+                        States</placeName>, in conformity to the provisions of said act of
+                    Congress.</p>
+
+                <closer> (Signed by) <signed>
+                        <seg type="handwritten">
+                            <persName>Milton Garrett</persName>
+                            <address>
+                        <addrLine>204 G St</addrLine>
+                     </address>
+                            in behalf of myself &#38; as Guardian of the Estate <choice>
+                                <sic>of of</sic>
+                                <corr>of</corr>
+                            </choice>
+                            <persName>Wm S. Caldwell</persName>
+                            <choice>
+                                <abbr>dec'd</abbr>
+                                <expan>deceased</expan>
+                            </choice>.</seg>
+                    </signed>
+                </closer>
+            </div1>
+
+            <pb xml:id="leaf002r" facs="cww.00130.004.jpg"/>
+
+            <div1 type="petition" subtype="mixed">
+                <head type="main">PETITION.</head>
+                <p rend="bold">To the Commissioners under the act of Congress approved the <date
+                        when="1862-04-16">16th of April, 1862</date>, entitled "An act for the
+                    release of certain persons held to service or labor in the District of
+                    Columbia."</p>
+
+                <p>Your Petitioner, <seg type="handwritten">
+                        <persName>Milton Garrett</persName>
+                    </seg> of <seg type="handwritten">
+                        <placeName>Washington City</placeName>
+                    </seg> by this <seg type="handwritten">his</seg> petition in writing, represents
+                    and states, that <seg type="handwritten">he</seg> is a person loyal to the
+                    United States, who, at the time of the passage of the said act of Congress, held
+                    a claim to service or labor against <seg type="handwritten">
+                        <persName>Wm H. Harrison</persName>, <persName>John Berkley</persName> &#38;
+                            <persName>George Gorns</persName>
+                    </seg> person<seg type="handwritten">s</seg> of African descent <del>of the name
+                        of</del> for and during the life of said <seg type="handwritten"
+                        >Slaves</seg> and that by said act of Congress said <seg type="handwritten"
+                        >Slaves are</seg> discharged and freed of and from all claim of your
+                    petitioner to such service or labor; that at the time of said discharge said
+                        <seg type="handwritten">Slaves are respectively</seg> of the age of <seg
+                        type="handwritten">22, 20, &#38; 14 years,</seg> and of the personal
+                    description following:<note type="government" place="foot" sameAs="n1">Here
+                        describe the person, so as to identify him or her; and if there be more than
+                        one slave, describe each one separately.</note>
+                    <list type="handwritten">
+                        <item>
+                            <persName>Wm H. Harrison</persName>, height about 5 feet 6 in., color
+                            dark brown, heavy &#38; squarely made</item>
+                        <item>
+                            <persName>John Berkley</persName>'s height about 5 feet 7 in. color
+                            Black features sound &#38; well set</item>
+                        <item>
+                            <persName>George Gorns</persName>, height about 5 feet 1 in. color
+                            mulatto &#38; heavy set.</item>
+                    </list>
+                </p>
+
+                <pb xml:id="leaf002v" facs="cww.00130.005.jpg"/>
+
+                <p>That your petitioner acquired <seg type="handwritten">his</seg> claim to the
+                    aforesaid service or labor of said <seg type="handwritten">Servants</seg> in
+                    manner following:<note type="government" place="foot" sameAs="n2">Here state how
+                        the claim was acquired, when, from whom, and for what price or
+                        consideration; and, if held under any written evidence of title, make
+                        exhibit thereof, or refer to the public record where the same may be
+                        found.</note>
+                    <seg type="handwritten">By inheritance through the death of <persName>Wm S.
+                            Caldwell</persName>, of whose estate I am the Guardian,</seg>
+                </p>
+
+                <p>That your petitioner's claim to the service or labor of said <seg
+                        type="handwritten">Servants</seg> was, at the time of said discharge
+                    therefrom, of the value of <seg type="handwritten">Three Thousand</seg> dollars
+                    in money.<note type="government" place="foot" sameAs="n3">Here state such facts,
+                        if any there be, touching the value of the petitioner's claim to the service
+                        or labor of the person, as may enhance the same, and also such facts, if
+                        any, touching the moral, mental, and bodily infirmities or defects of said
+                        person, as impair the value of the petitioner's claim to such service or
+                        labor, and conclude such statement with an averment that the petitioner
+                        knows of no other infirmities or defects of said person which impair the
+                        value of petitioner's claim to such service or labor, and that he believes
+                        none other to exist. If the petitioner specify no such infirmity or defect,
+                        then his statement touching the value of his claim should conclude with an
+                        averment that he has no knowledge of any such infirmity or defect.</note>
+                    <seg type="handwritten">or at least $1000. Each<lb/>said servants are to the
+                        best of my Knowledge &#38; belief perfectly sound mentally &#38;
+                        physically&#8212;I own three sevenths of said servants in my own right <choice>
+                            <sic>as as</sic>
+                            <corr>as</corr>
+                        </choice> the records of the Clerks office of this County will show.</seg>
+                </p>
+
+                <p>Your petitioner hereby declares that <seg type="handwritten">he</seg> bears true
+                    and faithful allegiance to the Government of the United States, and that <seg
+                        type="handwritten">he</seg> has not borne arms against the United States in
+                    the present rebellion, nor in any way given aid or comfort thereto.</p>
+
+                <p>And your petitioner further states and alleges, that <seg type="handwritten"
+                        >he</seg> has not brought said <seg type="handwritten">servants</seg> into
+                    the <placeName>District of Columbia</placeName> since the passage of said act of
+                    Congress; and that, at the time of the passage thereof, said <space atLeast="1"
+                    /> was held to service or labor therein under and by virtue of your petitioner's
+                    claim to such service or labor.</p>
+
+                <p>Your petitioner further states and alleges, that <seg type="handwritten"
+                        >his</seg> said claim to the service or labor of said <seg
+                        type="handwritten">servants</seg> does not originate in or by virtue of any
+                    transfer heretofore made by any person who has in any manner aided or sustained
+                    the present rebellion against the Government of the <placeName>United
+                        States</placeName>.</p>
+
+                <p>And your petitioner prays the said Commissioners to investigate and determine the
+                    validity of <seg type="handwritten">his</seg> said claim to the service or labor
+                    of said <seg type="handwritten">servants</seg> herein above set forth; and if
+                    the same be found to be valid, that they appraise and apportion the value of
+                    said claim in money, and report the same to the Secretary of the Treasury of the
+                        <placeName>United States</placeName>, in conformity to the provisions of
+                    said act of Congress.</p>
+
+                <closer> (Signed by) <signed>
+                        <seg type="handwritten">
+                            <persName>Milton Garrett</persName> for self &#38; as Guardian of the
+                            estate of <persName>Wm S. Caldwell</persName>
+                            <choice>
+                                <abbr>dec'd</abbr>
+                                <expan>deceased</expan>
+                            </choice>.</seg>
+                    </signed>
+                </closer>
+            </div1>
+
+            <pb xml:id="leaf003r" facs="cww.00130.006.jpg"/>
+
+            <div1 type="oath" subtype="mixed">
+                <head type="main">[<hi rend="italic">Form of the Oath for the Verification of the
+                        Petition.</hi>]</head>
+
+                <dateline>
+                    <placeName>District of Columbia</placeName>,
+                    <lb/>
+                    <hi rend="italic"><placeName>Washington County</placeName>, ss.</hi>
+                </dateline>
+
+                <div2 type="section">
+                    <p>I, <seg type="handwritten">
+                            <persName>Milton Garrett</persName> Guardian</seg> being duly sworn, do
+                        depose and say, that all the several matters and things which are set forth
+                        and stated in the foregoing petition, as of my own knowledge, are true in
+                        substance and in fact; and that all the several other matters and things
+                        therein set forth and stated, as from the information of others, I believe
+                        to be true in substance and in fact.</p>
+                    <closer> (Signed by) <signed>
+                            <seg type="handwritten">
+                                <persName>Milton Garrett</persName> Guardian &#38; for self.</seg>
+                        </signed>
+                    </closer>
+                </div2>
+
+                <div2 type="section">
+                    <p>Sworn to and subscribed before me this <date when="1862-05-07">
+                            <seg type="handwritten">7th</seg> day of <seg type="handwritten"
+                                >May</seg> A. D. 1862</date>.</p>
+                    <closer> (Signed by) <signed>
+                            <seg type="handwritten">
+                                <persName>Saml Drury</persName> JP</seg>
+                        </signed>
+                    </closer>
+                </div2>
+                <div2 type="section">
+                    <ab type="handwritten">Petition for <persName>Milton Garrett</persName>
+                        Guardian</ab>
+                </div2>
+            </div1>
+
+            <div1 type="cover" subtype="handwritten">
+                <note type="editorial">The following note, about the filing of the petition, has
+                    been imaged twice in the National Archives microfilm, but the note occurs in
+                    only one place in the petition: written horizontally on the final page, the Oath
+                    for the Verification.</note>
+                <ab>130 <persName>Milton Garrett</persName> for<lb/> self and as guardian</ab>
+                <ab>Filed <date when="1862-06-07">June 7, 186<choice>
+                            <orig>1</orig>
+                            <reg>2</reg>
+                        </choice>
+                    </date>
+                    <lb/> with Petition No</ab>
+                <ab>
+                    <persName>John L. Gallaher</persName>
+                    <lb/>
+                    <persName>Samuel Drury</persName>
+                </ab>
+            </div1>
+
+            <pb xml:id="leaf004r" facs="cww.00130.007.jpg"/>
+            <div1 type="billofsale" subtype="handwritten">
+                <div2 type="section">
+                    <ab>Bill sale<lb/>
+                        <persName>J. Washing</persName>
+                    </ab>
+                    <ab>130</ab>
+                </div2>
+
+                <pb xml:id="leaf004v" facs="cww.00130.008.jpg"/>
+
+                <div2 type="section">
+                    <p>Know all men by these presents that I, <persName>John A.
+                            Washington</persName> of the <placeName>County of Jefferson</placeName>
+                        in the <placeName>State of Virginia</placeName>, have bargained &#38; by
+                        these presents do bargain and sell for value <choice>
+                            <abbr>recd</abbr>
+                            <expan>received</expan>
+                        </choice>. I to <persName>William Coldwell</persName> of the
+                            <placeName>County of Christian</placeName> in the <placeName>State of
+                            Kentucky</placeName> negro <persName>Grace</persName> and her infant
+                        child born <gap reason="illegible" extent="less than one word" quantity="1"
+                            unit="chars"/>
+                        <date when="1823-09-21">21 Sept. 1823</date>. And I do warrant and defend
+                        the said negro and child to said <persName>William Coldwell</persName>
+                        aforesaid, against all person or persons whatsoever. Given under my hand and
+                        seal this <date when="1823-10-09">9th of October 1823</date>
+                    </p>
+                    <closer>
+                        <signed>
+                            <persName>John A. Washington</persName> Seal</signed>
+                        <signed>Test <persName>Hugh McDonald</persName>
+                        </signed>
+                    </closer>
+                </div2>
+            </div1>
+
+            <pb xml:id="leaf005r" facs="cww.00130.009.jpg"/>
+
+            <div1 type="statement" subtype="handwritten">
+                <div2 type="section">
+                    <ab>Filed <date when="1863-01-10">Janry 10, 1863</date>
+                    </ab>
+                </div2>
+
+                <pb xml:id="leaf005v" facs="cww.00130.010.jpg"/>
+                <div2 type="section">
+                    <p>In the matter of the claim of the heirs of <persName>William S
+                            Caldwell</persName> deceased for compensation under the act emancipating
+                        the Slaves of the <placeName>District of Columbia</placeName>, approved
+                            <date when="1862-04-16">April 16, 1862</date>.</p>
+                    <p>
+                        <choice>
+                            <abbr>Amnt.</abbr>
+                            <expan>Amount</expan>
+                        </choice> of award of Commissioners for five slaves, $1204.50</p>
+
+                    <p>The Commissioners will please apportion the above sum of $1204.50 among the
+                        parties claiming as follows&#8212;viz <table>
+                            <row>
+                                <cell>To</cell>
+                                <cell>Mrs. <persName>Sarah Caldwell</persName> in lieu of
+                                    dower&#8212;</cell>
+                                <cell>$120.48</cell>
+                            </row>
+                            <row>
+                                <cell>
+                                    <ref xml:id="r1" target="a1">X</ref>"</cell>
+                                <cell>Mrs. <persName>Phoebe Naomi Turner</persName> (formerly
+                                        <persName>Caldwell</persName>)</cell>
+                                <cell>154.86</cell>
+                            </row>
+                            <row>
+                                <cell>"</cell>
+                                <cell>
+                                    <persName>John H Caldwell</persName>
+                                </cell>
+                                <cell>154.86</cell>
+                            </row>
+                            <row>
+                                <cell>"</cell>
+                                <cell>
+                                    <persName>A M Caldwell</persName>
+                                </cell>
+                                <cell>154.86</cell>
+                            </row>
+                            <row>
+                                <cell>"</cell>
+                                <cell>
+                                    <persName>Sarah Virginia Zimmerman</persName> (formerly
+                                        <persName>Caldwell</persName>)</cell>
+                                <cell>154.86</cell>
+                            </row>
+                            <row>
+                                <cell>"</cell>
+                                <cell>
+                                    <persName>Milton Garrett</persName> in right of his wife
+                                    formerly <persName>Mary L. Caldwell</persName>
+                                </cell>
+                                <cell>154.86</cell>
+                            </row>
+                            <row>
+                                <cell>"</cell>
+                                <cell>
+                                    <persName>Milton Garrett</persName> as assignee of <persName>W.
+                                        A. Caldwell</persName>
+                                </cell>
+                                <cell>154.86</cell>
+                            </row>
+                            <row>
+                                <cell>"</cell>
+                                <cell>
+                                    <persName>Milton Garrett</persName> as assignee of
+                                        <persName>Hugh W Caldwell</persName>
+                                </cell>
+                                <cell>
+                                    <hi rend="underline">154.86</hi>
+                                </cell>
+                            </row>
+                            <row>
+                                <cell/>
+                                <cell/>
+                                <cell>
+                                    <hi rend="underline">$1204.50</hi>
+                                </cell>
+                            </row>
+                        </table>
+                    </p>
+                    <closer>
+                        <signed>
+                            <persName>T M Blount</persName>
+                            <lb/>
+                            <choice>
+                                <abbr>Atty</abbr>
+                                <expan>Attorney</expan>
+                            </choice> for <persName>Garrett</persName>
+                        </signed>
+                        <signed>
+                            <persName>A Lloyd</persName>
+                            <lb/> for Widow &#38; Heir named in Petition</signed>
+                    </closer>
+
+                    <note xml:id="a1" target="r1" type="authorial" rend="handwritten">X Should be
+                            <persName>Naomi J. Turner</persName>.</note>
+                </div2>
+            </div1>
+
+            <pb xml:id="leaf006r" facs="cww.00130.012.jpg"/>
+
+            <div1 type="petition" subtype="mixed">
+
+                <head type="main">PETITION.</head>
+                <p rend="bold">To the Commissioners under the act of Congress approved the <date
+                        when="1862-04-16">16th of April, 1862</date>, entitled "An act for the
+                    release of certain persons held to service or labor in the District of
+                    Columbia."</p>
+
+                <p>Your Petitioner<seg type="handwritten">s</seg>, <seg type="handwritten">
+                        <persName>Sarah Caldwell</persName>, <persName>Sarah V Zimmerman</persName>,
+                            <persName>J H. Caldwell</persName>, and <persName>A M.
+                            Caldwell</persName>
+                    </seg>
+                    <del>of</del> by this <seg type="handwritten">their</seg> petition in writing,
+                    represents and states, that <seg type="handwritten">they are</seg>
+                    <del>a</del> person<seg type="handwritten">s</seg> loyal to the United States,
+                    who, at the time of the passage of the said act of Congress, held a claim to
+                    service or labor against <seg type="handwritten">four females and one male (in
+                        the proportion hereinafter stated)</seg> person<seg type="handwritten"
+                        >s</seg> of African descent of the name of <seg type="handwritten">
+                        <persName>Grace Payne</persName>, <persName>Malinda Goans</persName>,
+                            <persName>Maria Carey</persName>
+                        <persName>George Goans</persName> &#38; <persName>Rose Goans</persName>
+                    </seg> for and during the life of said <seg type="handwritten">
+                        <persName>Grace</persName>, <persName>Malinda</persName>,
+                            <persName>Maria</persName>
+                        <persName>George</persName> and <persName>Rose</persName>
+                    </seg> and that by said act of Congress said <seg type="handwritten">
+                        <persName>Grace</persName>, <persName>Malinda</persName>,
+                            <persName>Maria</persName>, <persName>George</persName>, &#38;
+                            <persName>Rose</persName> were</seg> discharged and freed of and from
+                    all claim of your petitioner to such service or labor; that at the time of said
+                    discharge said <seg type="handwritten">
+                        <persName>Grace Payne</persName> was</seg> of the age of <seg
+                        type="handwritten">fifty (50) years or thereabouts</seg> and of the personal
+                    description following:<note type="government" place="foot" sameAs="n1">Here
+                        describe the person, so as to identify him or her; and if there be more than
+                        one slave, describe each one separately.</note>
+                    <seg type="handwritten">of a Black Complexion about 5 ft high quite
+                        stout&#8212;erect in her carriage&#8212; <unclear reason="illegible"
+                            cert="medium" resp="#jc">amicable</unclear> &#38; intelligent.
+                            <persName>Malinda Goans</persName> (daughter of <persName>Grace
+                            Payne</persName>) was of the age of Thirty two (32) years or
+                        thereabouts&#8212;and of the personal description following: of a Black
+                        Complexion, about 5 ft high&#38;Stout and Strong, likely, and intelligent.
+                            <persName>Maria Carey</persName>&#8212;(daughter of <persName>Grace
+                            Payne</persName>.) was of the age of Twenty-five (25) years or
+                        thereabouts and of the personal description following: of a Dark
+                        Complexion&#8212;about 5 ft 2 in high&#8212;stout likely and intelligent.
+                        erect in her carriage. <persName>George Goans</persName>&#8212;(Son of
+                            <persName>Malinda Goans</persName>.) was of the age of Fourteen (14)
+                        years or thereabouts &#38; of the personal description following: of a
+                        yellow complexion&#8212;or Mulatto, about 4 ft 6 in high Stout and able
+                        bodied&#8212;active and strong likely and intelligent.&#8212;<persName>Rose
+                            Goans</persName> daughter of <persName>Malinda Goans</persName> was of
+                        the age of Ten (10) years or thereabouts and of the personal description
+                        following: <pb xml:id="leaf006v" facs="cww.00130.013.jpg"/> of a Black
+                        Complexion rather small in stature strong for her age&#8212;likely and
+                        intelligent.</seg>
+                </p>
+
+                <p>That your petitioner<seg type="handwritten">s</seg> acquired <seg
+                        type="handwritten">their</seg> claim to the aforesaid service or labor of
+                    said <seg type="handwritten">persons</seg> in manner following:<note
+                        type="government" place="foot" sameAs="n2">Here state how the claim was
+                        acquired, when, from whom, and for what price or consideration; and, if held
+                        under any written evidence of title, make exhibit thereof, or refer to the
+                        public record where the same may be found.</note>
+                    <seg type="handwritten">that is by Inheritance that <persName>Wm S
+                            Caldwell</persName>
+                        <choice>
+                            <abbr>dec</abbr>
+                            <expan>deceased</expan>
+                        </choice> the late husband, and father of your Petitioners <persName>Sarah
+                            Caldwell</persName>&#8212;<persName>Sarah V. Zimmerman</persName> (wife
+                        of <persName>Henry F Zimmerman</persName>&#8212;) <persName>J. H
+                            Caldwell</persName> and <persName>A. M.
+                        Caldwell</persName>&#8212;acquired said "<hi rend="underline">
+                            <persName>Grace</persName>
+                        </hi>" about 35 years ago&#8212;by purchase&#8212;and died about 29 years
+                        ago&#8212;intestate&#8212;leaving the said
+                        <persName>Sarah</persName>&#8212;(his widow)&#8212;and <persName>Sarah V.
+                            Zimmerman</persName>, <persName>J. H. Caldwell</persName>
+                        <persName>A. M Caldwell</persName>
+                        <space extent="at least 1 word"/>
+                        <persName>Garrett</persName>, wife of <persName>Milton Garrett</persName>
+                        his children and Heirs at law and Your Petitioners claim according to the
+                        law of Distribution in force in the <placeName>District of
+                            Columbia</placeName>.</seg>
+                </p>
+
+                <p>That your petitioner's claim to the service or labor of said <seg
+                        type="handwritten">persons</seg> w<seg type="handwritten">ere</seg>, at the
+                    time of said discharge therefrom, of the value of <seg type="handwritten"
+                        >$2700</seg> dollars in money.<note type="government" place="foot"
+                        sameAs="n3">Here state such facts, if any there be, touching the value of
+                        the petitioner's claim to the service or labor of the person, as may enhance
+                        the same, and also such facts, if any, touching the moral, mental, and
+                        bodily infirmities or defects of said person, as impair the value of the
+                        petitioner's claim to such service or labor, and conclude such statement
+                        with an averment that the petitioner knows of no other infirmities or
+                        defects of said person which impair the value of petitioner's claim to such
+                        service or labor, and that he believes none other to exist. If the
+                        petitioner specify no such infirmity or defect, then his statement touching
+                        the value of his claim should conclude with an averment that he has no
+                        knowledge of any such infirmity or defect.</note>
+                    <seg type="handwritten">viz: <persName>Grace Payne</persName> $300.
+                            <persName>Malinda Goans</persName> $600. <persName>Maria
+                            Carey</persName> $900. <persName>George Goans</persName> $600 and
+                            <persName>Rose Goans</persName> $300. that the said <hi rend="uderline">
+                            <persName>Grace</persName>
+                        </hi> is a most excellent Cook &#38; Housekeeper of good habits and although
+                        she has been complaining, about 6 months, is not prevented from attending to
+                        her business and can command good wages for her services. <hi
+                            rend="underline">
+                            <persName>Malinda</persName>
+                        </hi> and <hi rend="underline">
+                            <persName>Maria</persName>
+                        </hi> are very useful women either as cooks, chambermaids, or doing house
+                        work generally&#8212;they are sound and healthy of good dispositions and
+                            <unclear reason="illegible" cert="medium" resp="#jc">likely</unclear>
+                        and can command good wages for their services. <hi rend="underline">
+                            <persName>George</persName>
+                        </hi> is a sound &#38; healthy boy of good disposition and habits&#8212;and
+                        useful <gap reason="illegible" extent="about one or two words" quantity="9"
+                            unit="chars"/> or house-hand can command good
+                            wages&#8212;<persName>Rose</persName> is a healthy <gap
+                            reason="illegible" extent="about one word" quantity="7" unit="chars"/>
+                        girl for her age and useful&#8212;and your petitioners have no knowledge of
+                        any defects in any of said persons other than what is stated.</seg>
+                </p>
+
+                <p>Your petitioner<seg type="handwritten">s</seg> hereby declares that <seg
+                        type="handwritten">they</seg> bear<del>s</del> true and faithful allegiance
+                    to the Government of the United States, and that <seg type="handwritten"
+                        >they</seg> ha<seg type="handwritten">ve</seg> not borne arms against the
+                    United States in the present rebellion, nor in any way given aid or comfort
+                    thereto.</p>
+
+                <p>And your petitioner<seg type="handwritten">s</seg> further state<del>s</del> and
+                        allege<del>s</del>, that <seg type="handwritten">they</seg> ha<seg
+                        type="handwritten">ve</seg> not brought said <seg type="handwritten"
+                        >persons</seg> into the <placeName>District of Columbia</placeName> since
+                    the passage of said act of Congress; and that, at the time of the passage
+                    thereof, said <seg type="handwritten">persons</seg> w<seg type="handwritten"
+                        >ere</seg> held to service or labor therein under and by virtue of your
+                    petitioner's claim to such service or labor.</p>
+
+                <p>Your petitioner<seg type="handwritten">s</seg> further states and alleges, that
+                        <seg type="handwritten">their</seg> said claim to the service or labor of
+                    said <seg type="handwritten">persons</seg> do<del>es</del> not originate in or
+                    by virtue of any transfer heretofore made by any person who has in any manner
+                    aided or sustained the present rebellion against the Government of the
+                        <placeName>United States</placeName>.</p>
+
+                <p>And your petitioner<seg type="handwritten">s</seg> pray<del>s</del> the said
+                    Commissioners to investigate and determine the validity of <seg
+                        type="handwritten">their</seg> said claim to the service or labor of said
+                        <seg type="handwritten">persons</seg> herein above set forth; and if the
+                    same be found to be valid, that they appraise and apportion the value of said
+                    claim in money, and report the same to the Secretary of the Treasury of the
+                        <placeName>United States</placeName>, in conformity to the provisions of
+                    said act of Congress.</p>
+
+                <closer> (Signed by) <signed>
+                        <seg type="handwritten">
+                            <persName>Sarah Caldwell</persName> (widow of <persName>Wm S.
+                                Caldwell</persName>
+                            <choice>
+                                <abbr>decd</abbr>
+                                <expan>deceased</expan>
+                            </choice>
+                        </seg>
+                    </signed>
+                    <signed>
+                        <seg type="handwritten">J. H. Caldwell</seg>
+                    </signed>
+                    <signed>
+                        <seg type="handwritten">A M. Caldwell</seg>
+                    </signed>
+                    <signed>
+                        <seg type="handwritten">S. V. Zimmerman</seg>
+                    </signed>
+                </closer>
+            </div1>
+
+            <pb xml:id="leaf007r" facs="cww.00130.014.jpg"/>
+
+            <div1 type="oath" subtype="mixed">
+                <head type="main">[<hi rend="italic">Form of the Oath for the Verification of the
+                        Petition.</hi>]</head>
+
+                <dateline>
+                    <placeName>District of Columbia</placeName>,
+                    <lb/>
+                    <hi rend="italic"><placeName>Washington County</placeName>, ss.</hi>
+                </dateline>
+
+                <div2 type="section">
+                    <p>
+                        <seg type="handwritten">We <persName>Sarah Caldwell</persName>,
+                                <persName>Sarah V. Zimmerman</persName>
+                            <persName>J. H. Caldwell</persName> and <persName>A M
+                                Caldwell</persName>
+                        </seg> being duly sworn, do depose and say, that all the several matters and
+                        things which are set forth and stated in the foregoing petition, as of <seg
+                            type="handwritten">our</seg> own knowledge, are true in substance and in
+                        fact; and that all the several other matters and things therein set forth
+                        and stated, as from the information of others, <seg type="handwritten"
+                            >we</seg> believe to be true in substance and in fact.</p>
+                    <closer> (Signed by) <signed>
+                            <seg type="handwritten">
+                                <persName>Sarah Caldwell</persName>
+                            </seg>
+                        </signed>
+                        <signed>
+                            <seg type="handwritten">
+                                <persName>J. H. Caldwell</persName>
+                            </seg>
+                        </signed>
+                        <signed>
+                            <seg type="handwritten">
+                                <persName>A M Caldwell</persName>
+                            </seg>
+                        </signed>
+                        <signed>
+                            <seg type="handwritten">
+                                <persName>S. V. Zimmerman</persName>
+                            </seg>
+                        </signed>
+                    </closer>
+                </div2>
+
+                <div2 type="section">
+                    <p>Sworn to and subscribed before me this <date when="1862-06-03">
+                            <seg type="handwritten">Third</seg> day of <seg type="handwritten"
+                                >June</seg> A. D. 1862</date>.</p>
+                    <closer> (Signed by) <signed>
+                            <seg type="handwritten">
+                                <persName>Thomas C Donn</persName>
+                                <lb/> Justice of the Peace for <placeName>Washington
+                                    County</placeName>
+                                <placeName>District of Columbia</placeName>
+                            </seg>
+                        </signed>
+                    </closer>
+                </div2>
+            </div1>
+
+            <div1 type="cover" subtype="handwritten">
+                <note type="editorial">The following note, about the filing of the petition, has
+                    been imaged twice in the National Archives microfilm, but the note occurs in
+                    only one place in the petition: written horizontally on the final page, the Oath
+                    for the Verification.</note>
+                <ab>130<lb/> Emancipation Act</ab>
+                <ab>Petition of<lb/>
+                    <persName>Sarah Caldwell</persName> and others.<lb/>
+                    <hi rend="underline">Claimants &#38;c</hi>
+                </ab>
+                <ab>Filed <date when="1862-06-11">11, June 1862</date>
+                </ab>
+            </div1>
+
+            <pb xml:id="leaf008r" facs="cww.00130.015.jpg"/>
+            <div1 type="oath" subtype="mixed">
+                <head type="main">[<hi rend="italic">Form of the Oath for the Verification of the
+                        Petition.</hi>]</head>
+
+                <dateline>
+                    <placeName>District of Columbia</placeName>,
+                    <lb/>
+                    <hi rend="italic"><placeName>Washington County</placeName>, ss.</hi>
+                </dateline>
+
+                <div2 type="section">
+                    <p>I, <seg type="handwritten">Milton Garrett</seg> being duly sworn, do depose
+                        and say, that all the several matters and things which are set forth and
+                        stated in the foregoing petition, as of my own knowledge, are true in
+                        substance and in fact; and that all the several other matters and things
+                        therein set forth and stated, as from the information of others, I believe
+                        to be true in substance and in fact.</p>
+                    <closer> (Signed by) <signed>
+                            <seg type="handwritten">
+                                <persName>Milton Garrett</persName>
+                                <address>
+                           <addrLine>204 G St.</addrLine>
+                        </address>
+                                in behalf of myself &#38; as Guardian of the estate of <persName>Wm
+                                    S. Caldwell</persName>
+                                <choice>
+                                    <abbr>dec'd</abbr>
+                                    <expan>deceased</expan>
+                                </choice>.</seg>
+                        </signed>
+                    </closer>
+                </div2>
+
+                <div2 type="section">
+                    <p>Sworn to and subscribed before me this <date when="1862-05-09">
+                            <seg type="handwritten">9th</seg> day of <seg type="handwritten"
+                                >May</seg> A. D. 1862</date>.</p>
+                    <closer> (Signed by) <signed>
+                            <seg type="handwritten">
+                                <persName>Saml Drury</persName> JP</seg>
+                        </signed>
+                    </closer>
+                </div2>
+            </div1>
+
+            <div1 type="cover" subtype="handwritten">
+                <note type="editorial">The following note, about the filing of the petition, has
+                    been imaged twice in the National Archives microfilm, but the note occurs in
+                    only one place in the petition: written horizontally on the final page, the Oath
+                    for the Verification.</note>
+
+                <ab>130<lb/> Petition of <persName>Milton Garrett</persName> in behalf of self &#38;
+                    as Guardian of the estate of <persName>Wm S. Caldwell</persName>
+                    <choice>
+                        <abbr>dec'd</abbr>
+                        <expan>deceased</expan>
+                    </choice>
+                </ab>
+                <ab>Filed <date when="1862-05-09">May 9, 1862</date>
+                </ab>
+                <ab>Witnesses<lb/>
+                    <persName>Sam'l Drury</persName>
+                    <lb/>
+                    <persName>John S. Gallaher</persName> Sr</ab>
+            </div1>
+        </body>
+    </text>
+</TEI>

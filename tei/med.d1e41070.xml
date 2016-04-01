@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e41070">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Snyder, William L.</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+    <idno>med.d1e41070</idno>
+       <authority>Civil War Washington</authority>
+       <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor>
+       <name>Center for Digital Research in the Humanities</name>
+       <address><addrLine>319 Love Library</addrLine>
+       <addrLine>University of Nebraska–Lincoln</addrLine>
+       <addrLine>Lincoln, NE 68588-4100</addrLine>
+       <addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+    </distributor>
+    <date>2011</date>
+    <availability>
+        <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+         republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+         law, requires express written consent from the editors and advance notification of the
+         publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+     <persName xml:id="mb">Matthew Bosley</persName>
+     <persName xml:id="el">Elizabeth Lorang</persName>
+     <persName xml:id="sb">Stacey Berry</persName>
+     <persName xml:id="ao">Alyssa Olson</persName>
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl>
+     <title level="j">The Medical and Surgical History of the War of the Rebellion. (1861-65.)</title>
+     <pubPlace>Washington, DC</pubPlace>
+     <publisher>Government Printing Office</publisher>
+     <biblScope type="part">Part 2</biblScope>
+     <biblScope type="volume">Volume 1</biblScope>
+     <date when="1879">1879</date>
+     <biblScope type="page">168</biblScope>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+       <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+      <keywords scheme="#medsurg">
+       <term>diarrh&#339;a and dysentery</term>
+       <term>fatal cases of diarrh&#339;a and dysentery, with accounts of the morbid appearances observed</term>
+       <term>from Lincoln Hospital, Washington, D. C.</term>
+       <term>chronic rheumatism</term>
+       <term>chronic diarrh&#339;a</term>
+       <term>lungs pale stone-gray externally, lake-red on section, on pressure yielded bronchial secretion mixed with venous blood</term>
+       <term>mucous membrane of large intestine slate-colored, only one or two small ulcers near anus</term>       
+       <term>autopsy performed</term>       
+     </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change who="#mb" when="2012-11-09">additional proofing of transcription and encoding, identified keyword terms</change>
+   <change who="#el" when="2010-11-05">case text extracted and transformed from larger file</change>
+   <change who="#sb" when="2010-05-01">enrich encoding, proof and edit</change>
+   <change who="#ao" when="2008-10-02">encoding and editing</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body> 
+   <p>Case from the case-book of <name type="hospital" key="176"><hi rend="initialcap">L</hi>INCOLN <hi rend="initialcap">H</hi>OSPITAL</name>, Washington, D. C.; <name type="person" key="241">Surgeon Henry Bryant</name>, <name type="organization" key="132">U. S. V.</name>, in charge to May, 1863.</p>       
+   <p><hi rend="initialcap">C</hi>ASE 364.&#8212;<name type="person" key="xxx">Private William L. Snyder</name>, <name type="organization" key="xxx">company A, 12th United States infantry</name>; admitted <date type="admit" when="1863-04-20">April 20, 1863</date>.  Chronic rheumatism.  [This man appears on the hospital register of the 12th United States infantry, taken sick <date type="admit" when="1863-04-06"><date type="injury" when="1863-04-06">April 6th</date></date>&#8212;diarrh&#339;a&#8212;sent to general hospital <date type="transfer" when="1863-04-19">April 19th</date>.]  Died, <date type="death" when="1863-06-02">June 2d</date>, of chronic diarrh&#339;a.  <hi rend="italic">Autopsy</hi> <date type="autopsy" when="1863-06-03">twenty-four hours after death</date>: Height five feet seven inches; body emaciated; rigor mortis slight. The brain was healthy and weighed fifty-four ounces. The mucous membrane of the &#339;sophagus was firm and of a light-purple color. The trachea contained much bronchial secretion; its mucous membrane was purplish. Both lungs were pale stone-gray externally, lake-red on section, and yielded on pressure a fine bronchial secretion mixed with venous blood; they were permeated with air throughout; on the posterior surface of the lower lobe of the right lung was a small patch of old lymph; the right lung weighed nineteen ounces, the left twenty-four ounces. No fluid was found in the pericardium. The heart weighed nine ounces; in its right side was a very small fibrinous clot; in the left side large mixed clots which extended into the aorta; the valves were healthy. The liver weighed forty-five ounces; the gall bladder contained six drachms of very dark-colored bile. The pancreas weighed three ounces and a quarter; it was healthy, and of a pale flesh-color. The spleen weighed six ounces. Both kidneys were pale; the right weighed seven ounces, the left seven ounces and a half. The mucous membrane of the fundus of the stomach was blackish, the rest mottled gray and crimson. The small intestine was healthy, but much distended with gas; Peyer's patches healthy and not ulcerated. The mucous membrane of the large intestine was slate-colored, but there were no ulcers except one or two small ones near the anus. The transverse colon was much distended with gas. The omentum small, almost denuded of fat, and pushed up toward the diaphragm.&#8212;<name type="person" key="245">Assistant Surgeon Harrison Allen</name>, <name type="organization" key="190">U. S. A.</name>&#8432;</p>
+   <p>&#8432; September 14, 1864, <name type="person" key="245">Dr. Allen</name> presented to the Pathological Society of Philadelphia a brief &#34;<hi rend="italic">Synopsis of Autopsies made at <name type="hospital" key="176">Lincoln General Hospital</name></hi>,&#34; to which the reader is referred.&#8212;(Proceedings of the Pathological Society of Philadelphia, in the American Journal of the Medical Sciences, January, 1865, page 133.)  In this paper he analyzes the appearances observed in forty-one cases of diarrh&#339;a and dysentery, thirty-five of fever, twenty-one of pneumonia, and five of diphtheria. The notes of <name type="person" key="245">Dr. Allen</name>'s autopsies, from which the accounts here presented have been condensed, were not contained in the case-books of <name type="hospital" key="176">Lincoln hospital</name> turned in to the <name type="organization" key="xxx">Surgeon General's Office</name> at the close of the war, but have since been copied into them from the originals, loaned for the purpose.</p>
+  </body>
+ </text>
+</TEI>

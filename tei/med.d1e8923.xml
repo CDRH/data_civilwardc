@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e8923">
+        <teiHeader>
+                <fileDesc>
+                        <titleStmt>
+                                <title level="m" type="main">Chapman, John F.</title>
+                                <title level="m" type="sub">a machine readable transcription</title>
+                                <principal>Susan C. Lawrence</principal>
+                                <principal>Kenneth M. Price</principal>
+                                <principal>Kenneth J. Winkle</principal>
+                        </titleStmt>
+                        <editionStmt>
+                                <edition>
+                                        <date>2011</date>
+                                </edition>
+                        </editionStmt>
+                        <publicationStmt>
+                                <idno>med.d1e8923</idno>
+                                <authority>Civil War Washington</authority>
+                                <publisher>University of Nebraska–Lincoln</publisher>
+                                <distributor>
+                                        <name>Center for Digital Research in the Humanities</name>
+                                        <address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+                                </distributor>
+                                <date>2011</date>
+                                <availability>
+                                        <p>Copyright © 2011 by University of Nebraska–Lincoln, all
+                                                rights reserved. Redistribution or republication in
+                                                any medium, except as allowed under the Fair Use
+                                                provisions of U.S. copyright law, requires express
+                                                written consent from the editors and advance
+                                                notification of the publisher, the University of
+                                                Nebraska–Lincoln.</p>
+                                </availability>
+                        </publicationStmt>
+                        <notesStmt>
+                                <note type="project">The following are responsible for particular
+                                        readings or for changes to this file, as noted: 
+                                        <persName xml:id="mb">Matthew Bosley</persName>
+                                        <persName xml:id="el">Elizabeth Lorang</persName>
+                                        <persName xml:id="sb">Stacey Berry</persName>
+                                        <persName xml:id="et">Elisabeth Tracey</persName>
+                                </note>
+                        </notesStmt>
+                        <sourceDesc>
+                                <bibl>
+                                        <title level="j">The Medical and Surgical History of the War of the Rebellion</title>
+                                        <pubPlace>Washington, DC</pubPlace>
+                                        <publisher>Government Printing Office</publisher>
+                                        <biblScope type="part">Part 3</biblScope>
+                                        <biblScope type="volume">Volume 1</biblScope>
+                                        <date when="1888">1888</date>
+                                        <biblScope type="page">383</biblScope>
+                                </bibl>
+                        </sourceDesc>
+                </fileDesc>
+                <encodingDesc>
+                        <classDecl>
+                                <taxonomy xml:id="medsurg">
+                                        <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+                                </taxonomy>
+                        </classDecl>
+                </encodingDesc>
+                <profileDesc>
+                        <textClass>
+                                <keywords scheme="#medsurg">
+                                        <term>the continued fevers</term>
+                                        <term>post-mortem records of continued fevers</term>                                       
+                                        <term>cases reported as typhoid fever, the clinical history insufficient or absent</term>
+                                        <term>Peyer's patches ulcerated and the large intestine also implicated</term> 
+                                        <term>intestinal perforation</term>                                        
+                                        <term>tubercles in upper lobe of each lung</term>
+                                        <term>colon ulcer penetrated to peritoneum</term>
+                                        <term>Peyer's patches extensively ulcerated, solitary glands showed many ulcers</term>
+                                </keywords>
+                        </textClass>
+                </profileDesc>
+                <revisionDesc>
+                        <change who="#mb" when="2013-04-02">additional proofing of transcription and encoding, edited and added keyword terms</change>
+                        <change who="#mb" when="2011-10-04">additional proofing of transcription and encoding</change>
+                        <change who="#mb" when="2011-06-22">additional proofing of transcription and encoding</change>
+                        <change who="#el" when="2011-05-11">case text extracted and transformed from larger file</change>
+                        <change who="#sb" when="2011-02-23">Encoding and Proofing</change>
+                        <change who="#et" when="2009-12-01">Initial Checking OCR Text to PDF file,</change>
+                </revisionDesc>
+        </teiHeader>
+        <text>
+                <body xml:id="ch4.sc4.1.00166">                        
+                                <p><hi rend="initialcap">C</hi>ASE 166.&#8212;<name
+                                                type="person" key="701">Private John F.
+                                                Chapman</name>, <name type="organization" key="611">Co. I, 32d Me.</name>; age 35; was admitted <date
+                                                type="admit" when="1864-07-02">July 2, 1864</date>,
+                                        with some irritability of the bowels, soreness of abdomen,
+                                        slight tympanites, fever, great thirst, a dry furred tongue
+                                        and a pulse of 111. He became afflicted with a troublesome
+                                        cough on the 5th, which continued for some days, but on the
+                                        11th he was reported as improving.  Two days later the
+                                        stomach became irritable and the skin showed a tendency to
+                                        slough.  On the 14th he refused food and medicine, and <date
+                                                type="death" when="1864-07-15">next day</date> he
+                                        died.  <hi rend="italic">Post-mortem</hi> examination <date type="autopsy" when="1864-07-15">three
+                                        hours after death</date>: The right lung weighed fourteen ounces,
+                                        the left fourteen ounces and a half; both were healthy
+                                        except that there were a few softened tubercles in the upper
+                                        lobe of each. The heart weighed eight ounces; its right
+                                        ventricle contained a small fibrinous clot. The stomach was
+                                        healthy. Peyer's patches were extensively ulcerated; the
+                                        solitary glands showed many ulcers; the ileo-c&#230;cal
+                                        valve was much congested; the ascending colon presented two
+                                        ulcers&#8212;the upper one, about the size of a pea, was
+                                        superficial, the lower, five-eighths of an inch in diameter,
+                                        penetrated to the peritoneum. The liver weighed sixty-nine
+                                        ounces and was slightly congested; the gall-bladder
+                                        contained five or six ounces of thin bile; the spleen
+                                        weighed thirteen ounces.&#8212;<hi rend="italic"><name
+                                                  type="person" key="700">Act. Ass't Surg. James T.
+                                                  Logan</name>, <name type="hospital" key="176">Lincoln Hospital</name>, Washington, D. C.</hi></p>                        
+                </body>
+        </text>
+</TEI>

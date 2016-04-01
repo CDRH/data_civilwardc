@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d2e647">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Schatt, H.</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+    <idno>med.d2e647</idno>
+    <authority>Civil War Washington</authority>
+    <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor><name>Center for Digital Research in the
+     Humanities</name><address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address></distributor>
+    <date>2011</date>
+    <availability>
+     <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+      republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+      law, requires express written consent from the editors and advance notification of the
+      publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+ <persName xml:id="kw">Kenneth Winkle</persName> 
+     <persName xml:id="ajh">AJ Howell</persName>
+     <persName xml:id="mb">Matthew Bosley</persName>
+     <persName xml:id="el">Elizabeth Lorang</persName>
+     <persName xml:id="sb">Stacey Berry</persName>
+     <persName xml:id="et">Elisabeth Tracey</persName>
+     <persName xml:id="ss">Sarah Synovec</persName>
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title level="j">The Medical and Surgical History of the War of the Rebellion.
+      (1861-65.)</title><pubPlace>Washington, DC</pubPlace><publisher>Government Printing
+      Office</publisher><biblScope type="part">Part 3</biblScope><biblScope type="volume">Volume
+      2</biblScope><date when="1883">1883</date><biblScope type="page">17</biblScope></bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+     <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <keywords scheme="#medsurg">
+     <term>wounds and injuries of the lower extremities</term>
+     <term>flesh wounds of the lower extremities</term>
+     <term>shot flesh wounds</term>
+     <term>flesh wounds of the lower limbs with injury of the larger blood-vessels</term>
+     <term>wounds of blood-vessels treated by amputation</term>
+     <term>amputation after proximal ligation of main arterial trunk, ineffectual</term>
+     <term>general anesthesia, ether</term>
+     <term>general anesthesia, chloroform</term>
+     <term>amputation by circular method</term>
+     <term>ball passed through popliteal space</term>
+     <term>injury of popliteal artery</term>
+     <term>popliteal artery wounded</term>
+     <term>limb amputated at lower third of thigh</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+ <change who="#kw" when="2014-05">blessed</change>
+   <change who="#el" when="2014-07-03">corrected typo in figure head</change>
+   <change who="#ajh" when="2013-08-21">added figure encoding</change>
+   <change who="#mb" when="2012-02-01">additional proofing of transcription and encoding</change>
+   <change who="#el" when="2011-05-11">case text extracted and transformed from larger file</change>
+   <change who="#sb" when="2011-06-04">Enrich Encoding, Edit and validate</change>
+   <change who="#sb" when="2011-01-28">Validated File</change>
+   <change who="#ss" when="2008-09-22">Sarah Synovec initial checking of OCR text; encoded P5
+    Encoding</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+
+   <p>
+    <hi rend="initialcap">C</hi>ASE 26.&#8212;<name type="person" key="875">Corporal H.
+     Schatt</name>, <name type="organization" key="175">Co. H, 64th New York</name>, aged 30 years,
+    was wounded at <name type="BATTLE" key="255">Hatcher's Run</name>, <date type="injury"
+     when="1865-03-25">March 25, 1865</date>, and was admitted to the field hospital of the 1st
+    division, Second Corps, where <name type="person" key="xx">Surgeon F. M. Hammond</name>, <name
+     type="organization" key="364">126th New York</name>, noted &#34;a shot wound of the leg.&#34;
+    On the following day the man was sent to <name type="place">City Point</name> and thence to
+     <name type="place" key="#Washington">Washington</name>. <name type="person" key="245">Assistant
+     Surgeon H. Allen</name>, <name type="organization" key="190">U. S. A.</name>, reported his
+    admission to <name type="hospital" key="165">Mount Pleasant Hospital</name>
+    <date type="transfer" when="1865-04-02">April 2d</date>, and contributed the following history:
+    &#34;Gunshot wound of left lower extremity, ball passing through popliteal space from without
+    inward, injuring the popliteal artery. When admitted the patient's pulse was small, sharp, and
+    fast; face pale and tongue coated. His toes were of a bluish tint, and the foot was covered with
+    bluish and yellowish purple spots. The entire leg was greatly swollen and the superficial veins
+    enlarged; the small veins of the lower third of the thigh, on the external surface, were
+    somewhat discolored, and the integument was assuming a yellowish color. The limb was amputated
+    at the lower third of the thigh, on <date type="operation" when="1865-04-02">the day of
+     admission</date>, by <name type="person" key="876">Acting Assistant Surgeon H. Craft</name>.
+    The operation was performed by the circular method, very little blood being lost. Two double
+    ligatures were applied to the femoral and four to the branches. The an&#230;sthetic consisted of
+    equal parts of &#230;ther and chloroform. After the operation, cold-water dressings were
+    applied, and a stimulating course adopted. The ligatures came away on the sixth and seventh
+    days. On May 10th, there were symptoms of the femur exfoliating. The stump was nearly healed,
+    when a collection of pus formed around the bone, and to give exit to it an incision was made
+    just above the end of the stump. This was kept open by a tent and the stump encouraged to heal.
+    Simple dressings were continued, and the tonic and stimulating course was persevered in. The
+    exfoliating process steadily progressed up to June 19th, when a sequestrum was removed which
+    proved to be nine inches long and was nearly a perfect shaft, extending nearly or quite to the
+    trochanter major. It had only been partially destroyed on its under surface, and a new shaft of
+    bone had formed around it. The stimulants and tonics were now increased, with nourishing diet,
+    and by June 30th the patient was progressing favorably.&#34; The sequestrum was forwarded to the
+     <name type="hospital" key="431">Army Medical Museum</name> by <name type="person" key="245">Dr.
+     Allen</name>, and is represented in the annexed cut (<hi rend="initialcap">F</hi>IG. 1). The
+    patient was subsequently transferred to <name type="place">Rochester</name>, and ultimately
+    discharged from Ira Harris Hospital, <name type="place">Albany</name>, <date
+     type="servicedischarge" when="1865-09-25">September 25, 1865</date>. <name type="person"
+     key="xx">Assistant Surgeon J. H. Armsby</name>, <name type="organization" key="132">U. S.
+     V.</name>, contributed a cast of the stump (<hi rend="italic">Cat. Surg. Sect.</hi>, 1866, p.
+    554), which shows the inferior portion to be baggy, and a deep and poorly healed cicatrix at
+    that point, caused by loss of substance over the bone (<hi rend="initialcap">F</hi>IG. 2). <name
+     type="person" key="xx">Examiner G. W. Cook</name>, of <name type="place">Syracuse, N.
+    Y.</name>, <date type="pension" when="1873-07-09">July 9, 1873</date>, certified:
+    &#34;Tenderness of stump and slight covering over end of bone. He does not, nor can he, wear an
+    artificial limb.&#34; The pensioner was paid <date type="pension" when="1876-06-04">June 4,
+     1876</date>.</p>
+
+   <figure><graphic url="cww.001511.001"/><head>
+    <hi rend="initialcap">F</hi>IG. 1.&#8212;Cylindrical sequestrum from stump of left femur. <hi
+     rend="italic">Spec</hi>. 171. &#8531;.</head></figure>
+
+
+   <figure><graphic url="cww.001512.001"/><head>
+    <hi rend="initialcap">F</hi>IG. 2.&#8212;Stump after intermediary amputation of thigh. <hi
+     rend="italic">Spec</hi>. 2283.</head></figure>
+
+
+
+
+  </body>
+ </text>
+</TEI>

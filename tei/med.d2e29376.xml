@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d2e29376">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Phinney, J.</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+       <idno>med.d2e29376</idno>
+       <authority>Civil War Washington</authority>
+       <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor>
+       <name>Center for Digital Research in the Humanities</name>
+       <address><addrLine>319 Love Library</addrLine>
+       <addrLine>University of Nebraska–Lincoln</addrLine>
+       <addrLine>Lincoln, NE 68588-4100</addrLine>
+       <addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+    </distributor>
+    <date>2011</date>
+    <availability>
+        <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+         republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+         law, requires express written consent from the editors and advance notification of the
+         publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+         <persName xml:id="mb">Matthew Bosley</persName>         
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl>
+        <title level="j">The Medical and Surgical History of the War of the Rebellion. (1861-65.)</title>
+        <pubPlace>Washington, DC</pubPlace>
+        <publisher>Government Printing Office</publisher>
+        <biblScope type="part">Part 3</biblScope>
+        <biblScope type="volume">Volume 2</biblScope>
+        <date when="1883">1883</date>
+        <biblScope type="page">825</biblScope>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+       <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+      <keywords scheme="#medsurg">
+       <term>wounds and  complications</term>
+       <term>gangrene</term>
+       <term>gunshot fracture of forearm, lower third</term>
+       <term>gangrenous from elbow down, owing to circulation stopped by applying bandages too tight on the field</term> 
+       <term>arm amputated above elbow joint</term>       
+       <term>general anesthesia, chloroform</term>
+     </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+       <change who="#mb" when="2012-06-27">additional case copied from MSHWR, performed proofing of copy and XML encoding, and key terms identified</change>  
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>   
+   <p><hi rend="initialcap">C</hi>ASE 1205.&#8212;<name type="person" key="xxx">Captain J. Phinney</name>, <name type="organization" key="xxx">Co. K, 86th New York</name>, aged 28 years, received a gunshot fracture of the left forearm,
+    lower third, at <name type="BATTLE" key="3"><choice><orig>Spottsylvania</orig><reg>Spotsylvania</reg></choice></name>, <date type="injury" when="1864-05-10">May 10, 1864</date>.  When he was admitted to <name type="hospital" key="156">Seminary Hospital</name>, Georgetown, <date type="admit" when="1864-05-14">four days afterwards</date>, he was in a rapidly sinking condition, and the injured limb was gangrenous from the elbow down, owing to the circulation
+    having been stopped by applying bandages too tight on the field. On <date type="operation" when="1864-05-15">May 15th</date> the arm was amputated above the elbow joint
+    by <name type="person" key="xxx">Surgeon H. W. Ducachet</name>, <name type="organization" key="132">U. S. V.</name>, who performed the operation by skin flaps and circular section of muscles. Chloroform
+    constituted the an&#230;sthetic.  The patient began to improve within forty-eight hours after the amputation, and, with the exception
+    of the formation of two abscesses in the stump, his improvement continued slowly afterwards. About June 30th he was able to
+    walk about, and <date type="furlough" when="1864-07-21">three weeks later</date> he left the hospital on leave of absence. The history of the case was reported by <name type="person" key="xxx">the operator</name>.  <name type="person" key="xxx">The Adjutant General</name>, <name type="organization" key="190">U. S. A.</name>, reports that <name type="person" key="xxx">Captain Phinney</name> died <date type="death" when="1864-08-10">August 10, 1864</date>.</p>    
+  </body>
+ </text>
+</TEI>

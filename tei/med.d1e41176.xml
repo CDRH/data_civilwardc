@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e41176">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Craft, Nathan</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+    <idno>med.d1e41176</idno>
+       <authority>Civil War Washington</authority>
+       <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor>
+       <name>Center for Digital Research in the Humanities</name>
+       <address><addrLine>319 Love Library</addrLine>
+       <addrLine>University of Nebraska–Lincoln</addrLine>
+       <addrLine>Lincoln, NE 68588-4100</addrLine>
+       <addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+    </distributor>
+    <date>2011</date>
+    <availability>
+        <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+         republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+         law, requires express written consent from the editors and advance notification of the
+         publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+     <persName xml:id="mb">Matthew Bosley</persName>
+     <persName xml:id="el">Elizabeth Lorang</persName>
+     <persName xml:id="sb">Stacey Berry</persName>
+     <persName xml:id="ao">Alyssa Olson</persName>
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl>
+     <title level="j">The Medical and Surgical History of the War of the Rebellion. (1861-65.)</title>
+     <pubPlace>Washington, DC</pubPlace>
+     <publisher>Government Printing Office</publisher>
+     <biblScope type="part">Part 2</biblScope>
+     <biblScope type="volume">Volume 1</biblScope>
+     <date when="1879">1879</date>
+     <biblScope type="page">177</biblScope>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+       <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+      <keywords scheme="#medsurg">
+       <term>diarrh&#339;a and dysentery</term>
+       <term>fatal cases of diarrh&#339;a and dysentery, with accounts of the morbid appearances observed</term>
+       <term>from Lincoln Hospital, Washington, D. C.</term>
+       <term>chronic diarrh&#339;a</term>
+       <term>pneumonia</term>
+       <term>colon presented usual lesions of chronic diarrh&#339;a</term>
+       <term>rectum coated with exudation of lymph</term>
+       <term>layer of lymph united coils of intestine, lymph most abundant upon colon</term>
+       <term>sigmoid flexure firmly adherent posteriorly to peritoneum</term>       
+       <term>autopsy performed</term>       
+     </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change who="#mb" when="2012-11-16">additional proofing of transcription and encoding, identified keyword terms</change>
+   <change who="#el" when="2010-11-05">case text extracted and transformed from larger file</change>
+   <change who="#sb" when="2010-05-01">enrich encoding, proof and edit</change>
+   <change who="#ao" when="2008-10-02">encoding and editing</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body> 
+   <p>Case from the case-book of <name type="hospital" key="176"><hi rend="initialcap">L</hi>INCOLN <hi rend="initialcap">H</hi>OSPITAL</name>, Washington, D. C.; <name type="person" key="243">Surgeon J. Cooper McKee</name>, <name type="organization" key="190">U. S. A.</name>, in charge.</p>
+   <p><hi rend="initialcap">C</hi>ASE 395.&#8212;<name type="person" key="xxx">Private Nathan Craft</name>, <name type="organization" key="xxx">company K, 53d North Carolina regiment, (Confederate ;)</name> admitted from <name type="hospital" key="70">Old Capitol prison</name> <date type="admit" when="1864-01-06">January 6, 1864</date>.  Chronic diarrh&#339;a.  Died, <date type="death" when="1864-01-11">January 11th</date>.  This patient had been sick a long time with the usual symptoms of chronic diarrh&#339;a; toward the close he had pneumonia.  <hi rend="italic">Autopsy</hi> <date type="autopsy" when="1864-01-11">nine hours after death</date>: The right lung was pneumonified, the left congested and filled with sero-sanguineous fluid. The colon presented the usual lesions of chronic diarrh&#339;a, and the rectum was coated with an exudation of lymph. The abdominal cavity contained a quantity of serum, and a thin layer of lymph united the coils of intestine; the lymph was most abundant upon the colon. The sigmoid flexure was quite firmly adherent posteriorly to the peritoneum. The spleen was very soft, and measured four inches and a half by three.&#8212;<name type="person" key="245">Assistant Surgeon Harrison Allen</name>, <name type="organization" key="190">U. S. A.</name>&#8432;</p>
+   <p>&#8432; September 14, 1864, <name type="person" key="245">Dr. Allen</name> presented to the Pathological Society of Philadelphia a brief &#34;<hi rend="italic">Synopsis of Autopsies made at <name type="hospital" key="176">Lincoln General Hospital</name></hi>,&#34; to which the reader is referred.&#8212;(Proceedings of the Pathological Society of Philadelphia, in the American Journal of the Medical Sciences, January, 1865, page 133.)  In this paper he analyzes the appearances observed in forty-one cases of diarrh&#339;a and dysentery, thirty-five of fever, twenty-one of pneumonia, and five of diphtheria. The notes of <name type="person" key="245">Dr. Allen</name>'s autopsies, from which the accounts here presented have been condensed, were not contained in the case-books of <name type="hospital" key="176">Lincoln hospital</name> turned in to the <name type="organization" key="xxx">Surgeon General's Office</name> at the close of the war, but have since been copied into them from the originals, loaned for the purpose.</p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d2e558">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Vickery, R. S.</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+    <idno>med.d2e558</idno>
+    <authority>Civil War Washington</authority>
+    <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor><name>Center for Digital Research in the
+     Humanities</name><address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address></distributor>
+    <date>2011</date>
+    <availability>
+     <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+      republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+      law, requires express written consent from the editors and advance notification of the
+      publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+     <persName xml:id="mb">Matthew Bosley</persName>
+     <persName xml:id="el">Elizabeth Lorang</persName>
+     <persName xml:id="sb">Stacey Berry</persName>
+     <persName xml:id="et">Elisabeth Tracey</persName>
+     <persName xml:id="ss">Sarah Synovec</persName>
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title level="j">The Medical and Surgical History of the War of the Rebellion.
+      (1861-65.)</title><pubPlace>Washington, DC</pubPlace><publisher>Government Printing
+      Office</publisher><biblScope type="part">Part 3</biblScope><biblScope type="volume">Volume
+      2</biblScope><date when="1883">1883</date><biblScope type="page">16-17</biblScope></bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+     <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <keywords scheme="#medsurg">
+     <term>wounds and injuries of the lower extremities</term>                                                                 
+     <term>flesh wounds of the lower extremities</term>
+     <term>shot flesh wounds</term>
+     <term>flesh wounds of the lower limbs with injury of the larger blood-vessels</term>
+     <term>flesh wound injuring large artery of thigh</term>
+     <term>wounds of blood-vessels treated by ligation</term>
+     <term>ligation of femoral artery performed</term> 
+     <term>femoral artery tied both above and below injury</term>
+     <term>gunshot wound of upper third of thigh</term>
+     <term>ball severed femoral artery</term>
+     <term>limb atrophied, leg partially flexed upon thigh, inability to extend</term>
+     <term>Assistant Surgeon</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change who="#el" when="2011-05-11">case text extracted and transformed from larger file</change>
+   <change who="#sb" when="2011-06-04">Enrich Encoding, Edit and validate</change>
+   <change who="#sb" when="2011-01-28">Validated File</change>
+   <change who="#ss" when="2008-09-22">Sarah Synovec initial checking of OCR text; encoded
+    P5 Encoding</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   
+    <p><hi rend="initialcap">C</hi>ASE 25.&#8212;<name type="person" key="873">Assistant Surgeon R. S. Vickery</name>, <name type="organization" key="162">2d Michigan</name>, aged 33 years, was
+     wounded at <name type="BATTLE" key="xxx">Petersburg</name>, <date type="injury" when="1864-07-30">July 30, 1864</date>, and admitted to the field hospital of the 3d division, Ninth Corps. <name type="person" key="xx">Surgeon
+      P. A. O'Connell</name>, <name type="organization" key="132">U. S. V.</name>, reported: &#34;Gunshot wound of upper third of left thigh by mini&#233; ball; ligation of femoral artery performed
+     by <name type="person" key="xx">Surgeon W. B. Fox</name>, <name type="organization" key="363">8th Michigan</name>.&#34; From the field hospital the patient was moved to <name type="place">City Point</name>, and
+     subsequently to <name type="place">New York</name>. <name type="person" key="xx">Assistant Surgeon J. E. Semple</name>,
+     <name type="organization" key="132">U. S. V.</name> reported his admission to the Officers' Hospital, <name type="place">Bedloe's Island</name>, <date type="transfer" when="1864-08-25">August 25th</date>, with &#34;flesh
+     wound involving direct injury to the large artery of the thigh.&#34; In <date type="transfer"
+      when="1865-01">January following</date>, the invalid was transferred to <name type="hospital"
+      key="171">Armory Square Hospital</name>, Washington, where he was discharged from service <date type="servicedischarge" when="1865-03-11">March
+      11, 1865</date>. <name type="person" key="874">Examiner J. Nichols</name>, of Washington,
+     certified, <date type="pension" when="1865-03-24">March 24, 1865</date>: &#34;Gunshot wound of left thigh, inner aspect, upper third, ball
+     severing femoral artery. Limb much atrophied and shrunk away almost to the bone; leg partially
+     flexed upon the thigh; inability to extend it. Great danger of secondary h&#230;morrhage from
+     the artery, which requires a long time for restoration. Limb perfectly useless; prognosis
+     doubtful&#8212;may yet have to be amputated.&#34; <name type="person" key="873">Dr. Vickery</name> was a
+     pensioner until <date type="pension" when="1867-05-14">May 14, 1867</date>, when he was appointed Assistant Surgeon in <name type="organization" key="190">the regular army</name>.  Dr. F. H. Hamilton states (<hi rend="italic">Appendix to Treatise on Military Surgery and Hygiene</hi>, 1865, p. 640) that in this case &#34;the
+     bleeding was arrested temporarily by a tourniquet, and three hours afterwards <name type="person" key="xx">Surgeon Fox</name>, of the <name type="organization" key="162">8th Michigan</name>, enlarged the wound and tied the femoral <hi rend="italic">both above and below the seat</hi> of injury.&#34;  </p>
+   
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d2e16997">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Meier, J.</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+    <idno>med.d2e16997</idno>
+    <authority>Civil War Washington</authority>
+    <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor><name>Center for Digital Research in the
+     Humanities</name><address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address></distributor>
+    <date>2011</date>
+    <availability>
+     <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+      republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+      law, requires express written consent from the editors and advance notification of the
+      publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+ <persName xml:id="kw">Kenneth Winkle</persName> <persName xml:id="ajh">AJ Howell</persName>
+     <persName xml:id="mb">Matthew Bosley</persName>
+     <persName xml:id="el">Elizabeth Lorang</persName>
+     <persName xml:id="sb">Stacey Berry</persName>
+     <persName xml:id="et">Elisabeth Tracey</persName>
+     <persName xml:id="ss">Sarah Synovec</persName>
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title level="j">The Medical and Surgical History of the War of the Rebellion.
+      (1861-65.)</title><pubPlace>Washington, DC</pubPlace><publisher>Government Printing
+      Office</publisher><biblScope type="part">Part 3</biblScope><biblScope type="volume">Volume
+      2</biblScope><date when="1883">1883</date><biblScope type="page">428</biblScope></bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+     <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <keywords scheme="#medsurg">
+     <term>wounds and injuries of the lower extremities</term>
+     <term>wounds and operations in the leg</term>
+     <term>shot contusions of the bones of the leg</term>
+     <term>shot contusions of the bones of the leg treated by conservation</term>
+     <term>recoveries after shot contusions of the bones of the leg treated by conservation</term>
+     <term>ball entered middle third of leg and injured tibia</term>
+     <term>missile extracted</term>
+     <term>periostitis and necrosis of bone</term>
+     <term>loss of osseous substance</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+ <change who="#kw" when="2014-05">blessed</change>
+   <change who="#ajh" when="2013-08-23">added figure encoding</change>
+   <change who="#mb" when="2012-05-31">additional proofing of transcription and encoding, identified
+    keyword terms</change>
+   <change who="#el" when="2011-05-11">case text extracted and transformed from larger file</change>
+   <change who="#sb" when="2011-06-04">Enrich Encoding, Edit and validate</change>
+   <change who="#sb" when="2011-01-28">Validated File</change>
+   <change who="#ss" when="2008-09-22">initial checking of OCR text; encoded P5 Encoding</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p><hi rend="initialcap">C</hi>ASE 655.&#8212;<name type="person" key="1222">Sergeant J.
+     Meier</name>, <name type="organization" key="487">Co. H, 52d New York</name>, aged 43 years,
+    was wounded at <name type="BATTLE" key="3"><choice>
+      <orig>Spottsylvania</orig>
+      <reg>Spotsylvania</reg>
+     </choice></name>, <date type="injury" when="1864-05-12">May 12, 1864</date>, by a musket ball,
+    which entered the middle third of the right leg and injured the tibia. <name type="person"
+     key="xx">Surgeon D. H. Houston</name>, <name type="organization" key="337">2d Delaware</name>,
+    reported that the wounded man was admitted to the field hospital of the 1st division, Second
+    Corps, where the missile was extracted. <date type="transfer" when="1864-05-26">Two weeks after
+     the reception of the injury</date> he was sent to <name type="place" key="#Washington"
+     >Washington</name>, and several days later to <name type="place">Philadelphia</name>. <name
+     type="person" key="xx">Assistant Surgeon T. C. Brainerd</name>, <name type="organization"
+     key="190">U. S. A.</name>, reported that "the patient entered Broad and Cherry Streets Hospital
+     <date type="transfer" when="1864-05-31">May 31st</date>, the wound being healthy at date of
+    admission and continuing so until July 3d, when sloughing set in. This was successfully treated
+    by applications of nitric acid, followed by dressings of coal oil, together with internal
+    administration of tincture of chloride of iron, porter, and generous diet. By July 12th, the
+    wound was again granulating and his general health improving. Complete cicatrization being
+    prevented by the presence of dead bone, that portion of the tibia was removed by <name
+     type="person" key="xx">Acting Assistant Surgeon D. W. Cadwallader</name>, on <date
+     type="operation" when="1864-10-01">October 1st</date>, through an incision over the spine. The
+    small fragments of bone were then thoroughly washed out with a syringe and the parts coaptated
+    by adhesive plaster, over which simple water dressing was applied. Cicatrization progressed
+    rapidly and was complete by <date type="hospitaldischarge" when="1864-10-28">October 28,
+     1864</date>, when the patient was discharged from hospital," his term of service having expired
+    three weeks previously. The removed sequestrum, six inches long, and contributed by <name
+     type="person" key="xx">the operator</name>, is represented in the wood-cut (<hi
+     rend="initialcap">F</hi>IG. 255). <name type="person" key="xx">Examining Surgeon G. J.
+     Fisher</name>, of <name type="place" key="xx">Sing Sing, N. Y.</name>, <date type="pension"
+     when="1865-08-22">August 22, 1865</date>, certified to the injury, and stated: "The front of
+    the injured leg is covered with delicate blue integument, not perfectly healed. He is unable to
+    labor, and an artificial leg would be far preferable." The <name type="organization" key="xx"
+     >New York Examining Board</name> reported, <date type="pension" when="1873-09-03">September 3,
+     1873</date>: "There has been considerable loss of osseous substance. The entire anterior and
+    inner aspect of the middle and upper portion of the leg is covered with encrustations, and there
+    is periostitis and necrosis of bone at present." At subsequent examinations the same indurated,
+    ulcerated, and partly indolent condition of the parts, interfering with locomotion, was
+    reported. The pensioner was paid <date type="pension" when="1879-12-04">December 4, 1879</date>. </p>
+   <figure>
+    <graphic url="cww.001620.001"/>
+    <head><hi rend="initialcap">F</hi>IG. 255.&#8212;Sequestrum from right tibia. <hi rend="italic"
+      >Spec.</hi> 4193.</head>
+   </figure>
+  </body>
+ </text>
+</TEI>

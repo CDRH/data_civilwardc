@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d2e14920">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">McAllister, J.</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+    <idno>med.d2e14920</idno>
+    <authority>Civil War Washington</authority>
+    <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor><name>Center for Digital Research in the
+     Humanities</name><address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address></distributor>
+    <date>2011</date>
+    <availability>
+     <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+      republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+      law, requires express written consent from the editors and advance notification of the
+      publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+     <persName xml:id="mb">Matthew Bosley</persName>
+     <persName xml:id="el">Elizabeth Lorang</persName>
+     <persName xml:id="sb">Stacey Berry</persName>
+     <persName xml:id="et">Elisabeth Tracey</persName>
+     <persName xml:id="ss">Sarah Synovec</persName>
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title level="j">The Medical and Surgical History of the War of the Rebellion.
+      (1861-65.)</title><pubPlace>Washington, DC</pubPlace><publisher>Government Printing
+      Office</publisher><biblScope type="part">Part 3</biblScope><biblScope type="volume">Volume
+      2</biblScope><date when="1883">1883</date><biblScope type="page">366</biblScope></bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+     <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <keywords scheme="#medsurg">
+     <term>wounds and injuries of the lower extremities</term> 
+     <term>wounds and injuries of the knee joint</term>
+     <term>shot injuries of the knee joint</term> 
+     <term>shot contusions of the knee joint</term>
+     <term>shot contusions of the knee joint treated by conservation</term> 
+     <term>fatal cases of shot contusions of the knee joint treated by conservation</term> 
+     <term>ball entered above external condyle, lodged outside of patella, without perforating capsular ligament</term>
+     <term>shot wound of knee</term>
+     <term>bone cut down upon and missile pulled out</term>
+     <term>limb subjected to moderate extension</term>     
+     <term>general anesthesia, ether</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change who="#mb" when="2012-05-24">additional proofing of transcription and encoding, identified keyword terms</change>
+   <change who="#el" when="2011-05-11">case text extracted and transformed from larger file</change>
+   <change who="#sb" when="2011-06-04">Enrich Encoding, Edit and validate</change>
+   <change who="#sb" when="2011-01-28">Validated File</change>
+   <change who="#ss" when="2008-09-22">initial checking of OCR text; encoded P5 Encoding</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   
+    <p><hi rend="initialcap">C</hi>ASE 541.&#8212;<name type="person" key="1121">Private J.
+      McAllister</name>, <name type="organization" key="459">Co. C, 72d Pennsylvania</name>, was
+     wounded in the right knee, at the <name type="BATTLE" key="12">Wilderness</name>, <date
+      type="injury" when="1864-05-06">May 6, 1864</date>, by a mini&#233; ball, which entered four inches
+     above the external condyle and lodged on the outside of the patella, without perforating the
+     capsular ligament.  <name type="person" key="xxx">Surgeon D. Prince</name>, <name
+      type="organization" key="132">U. S. V.</name>, reports that the following treatment was
+     resorted to in the case:  "The bone was cut down upon and the missile pulled out.  No
+     inflammation of the joint ensued until the eleventh day after the injury, when the joint
+     swelled and became excruciatingly painful, attended with free discharge of synovia from the
+     wound in front, on the outer side of the patella.  On <date type="operation" when="1864-05-18">May 18th</date>, this opening was enlarged and a
+     counter-opening was made behind the external lateral ligament and tendon of the biceps, the
+     patient being under the influence of ether. The limb was subjected to moderate extension for
+     the following purposes: 1st, to separate the opposing joint surfaces and obviate the ulceration attending contact and pressure, at the same time lessening the amount of irritation; 2d, to obviate the caries and necrosis of bone apt to follow, and making bony anchylosis
+     impossible; 3d, to preserve the limb in a position to be afterwards useful. The patient was
+     relieved of suffering by the incision and experienced a feeling of comfort from the moderate
+     extension."  The records in this case show that the patient was admitted to the  field hospital of the 2d division, Second Corps, with "shot
+     wound of knee," and <name type="person" key="126">Surgeon T. R. Crosby</name>, <name
+      type="organization" key="132">U. S. V.</name>, reported that the man entered <name
+      type="hospital" key="157">Columbian Hospital</name>, Washington, <date type="transfer"
+      when="1864-05-28">May 28th</date>, with "shot wound of right knee joint," of which he died on
+     the following day, <date type="death" when="1864-05-29">May 29, 1864</date>. </p>
+   
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d2e26884">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Sailor, J. W.</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+    <idno>med.d2e26884</idno>
+    <authority>Civil War Washington</authority>
+    <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor><name>Center for Digital Research in the
+     Humanities</name><address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address></distributor>
+    <date>2011</date>
+    <availability>
+     <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+      republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+      law, requires express written consent from the editors and advance notification of the
+      publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+ <persName xml:id="kw">Kenneth Winkle</persName> <persName xml:id="mb">Matthew Bosley</persName>
+     <persName xml:id="ajh">AJ Howell</persName>
+     <persName xml:id="el">Elizabeth Lorang</persName>
+     <persName xml:id="sb">Stacey Berry</persName>
+     <persName xml:id="et">Elisabeth Tracey</persName>
+     <persName xml:id="ss">Sarah Synovec</persName>
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title level="j">The Medical and Surgical History of the War of the Rebellion.
+      (1861-65.)</title><pubPlace>Washington, DC</pubPlace><publisher>Government Printing
+      Office</publisher><biblScope type="part">Part 3</biblScope><biblScope type="volume">Volume
+      2</biblScope><date when="1883">1883</date><biblScope type="page">722</biblScope></bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+     <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <keywords scheme="#medsurg">
+     <term>wounds and complications</term>
+     <term>shot wounds</term>
+     <term>perforations of bone</term>
+     <term>ball perforated tibia at upper third without involving knee joint</term>
+     <term>cachectic, emaciated</term>
+     <term>diarrh&#339;</term>
+     <term>abscesses along tibia, necrosis of bone</term>
+     <term>cavity of passage of ball enlarged by ulceration, lower shaft being necrosed</term>
+     <term>erysipelas</term>
+     <term>liver enlarged</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+ <change who="#kw" when="2014-05">blessed</change>
+   <change who="#el" when="2014-07-03">corrected typo in figure head</change>
+   <change who="#ajh" when="2013-08-23">added figure encoding</change>
+   <change who="#mb" when="2013-02-11">additional proofing of transcription and encoding, edited and
+    added keyword terms, added figures</change>
+   <change who="#ajh" when="2012-06-18">additional proofing of transcription and encoding,
+    identified keyword terms</change>
+   <change who="#el" when="2011-05-11">case text extracted and transformed from larger file</change>
+   <change who="#sb" when="2011-06-04">Enrich Encoding, Edit and validate</change>
+   <change who="#sb" when="2011-01-28">Validated File</change>
+   <change who="#ss" when="2008-09-22">initial checking of OCR text; encoded P5 Encoding</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p><hi rend="initialcap">C</hi>ASE 1068.&#8212;<name type="person" key="1468">Private <hi
+      rend="italic">J. W. Sailor</hi></name>, <name type="organization" key="555">Co. K, 48th North
+     Carolina</name>, aged 23 years, was wounded in the right leg, at <name type="BATTLE" key="79"
+     >Hatcher's Run</name>, <date type="injury" when="1865-03-13">March 13, 1865</date>. He was
+    treated in Confederate hospitals until <date type="admit" when="1865-05-06">May 6th</date>, when
+    he was admitted into hospital at <name type="place" key="xx">Point Lookout</name>. Subsequently
+    he was transferred to <name type="hospital" key="171">Armory Square</name>, and lastly to <name
+     type="hospital" key="162">Douglas Hospital</name>, Washington. <name type="person" key="201"
+     >Assistant Surgeon W. F. Norris</name>, <name type="organization" key="190">U. S. A.</name>, in
+    charge of the latter, made the following report: "The wound was caused by a ball perforating the
+    tibia at the upper third without involving the knee joint. The patient was cachectic and much
+    emaciated, the wound indolent and discharging a thin unhealthy pus. Stimulants, tonics, and good
+    nutritious diet were freely exhibited. On <date type="operation" when="1865-09-03">September
+     3d</date> the wound was carefully examined and a considerable quantity of carious bone was
+    removed. On the next day the patient had a severe chill which recurred on the 6th. He had been
+    subject to periodical chills and fever, and this attack of intermittent yielded readily to a
+    full dose of quinine. On September 10th slight diarrh&#339;a came on and continued for nine
+    days, the patient growing much weaker. The wound, which had improved in appearance after the
+    removal of the dead bone, again looked unhealthy, small abscesses having formed along the line
+    of the tibia, which, when opened and examined by the probe, showed extensive necrosis of the
+    bone. Subsequently the patient had a slight chill, which was followed by an attack of erysipelas
+    of the leg, and from this period he steadily declined. He died, apparently of exhaustion, on
+     <date type="death" when="1865-10-01">October 1, 1865</date>. The autopsy showed a dirty
+    yellowish clay color of the skin. The thoracic and abdominal organs were apparently healthy,
+    except the liver and the spleen, the former being enlarged and the latter much softened and
+    weighing fourteen ounces." The perforated tibia, contributed with the history by <name
+     type="person" key="201">Assistant Surgeon Norris</name>, and constituting <hi rend="italic"
+     >Specimen</hi> 1444 of the <hi rend="italic">Surgical Section</hi> of <name type="hospital"
+     key="431">the Museum</name>, exhibits the deposit of a large quantity of callus on the outside
+    of the bone, and shows the cavity of the passage of the ball to be enlarged by ulceration, the
+    lower portion of the shaft being superficially necrosed. Posterior and lateral views of the
+    specimen are copied in the wood-cuts (<hi rend="initialcap">F</hi>IGS. 405, 406).</p>
+   <figure><graphic url="cww.001671.001"/><head><hi rend="initialcap">F</hi>IG. 405.&#8212;Posterior view of upper portion right tibia. <hi
+    rend="italic">Spec</hi>. 1444.</head></figure>
+   <figure><graphic url="cww.001672.001"/><head><hi rend="initialcap">F</hi>IG. 406.&#8212;The same specimen; lateral view.</head></figure>
+  </body>
+ </text>
+</TEI>

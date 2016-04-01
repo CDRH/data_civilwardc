@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d2e28794">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Logan, W. J.</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     <date>2011</date>
+    </edition>
+   </editionStmt>
+   <publicationStmt>
+    <idno>med.d2e28794</idno>
+    <authority>Civil War Washington</authority>
+    <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor>
+     <name>Center for Digital Research in the Humanities</name>
+     <address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+    </distributor>
+    <date>2011</date>
+    <availability>
+     <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+      republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+      law, requires express written consent from the editors and advance notification of the
+      publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted:
+     <persName xml:id="ajh">AJ Howell</persName>
+     <persName xml:id="el">Elizabeth Lorang</persName>
+     <persName xml:id="sb">Stacey Berry</persName>
+     <persName xml:id="et">Elisabeth Tracey</persName>
+     <persName xml:id="ss">Sarah Synovec</persName>
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl>
+     <title level="j">The Medical and Surgical History of the War of the Rebellion.
+      (1861-65.)</title>
+     <pubPlace>Washington, DC</pubPlace>
+     <publisher>Government Printing Office</publisher>
+     <biblScope type="part">Part 3</biblScope>
+     <biblScope type="volume">Volume 2</biblScope>
+     <date when="1883">1883</date>
+     <biblScope type="page">850-851</biblScope>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+     <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <keywords scheme="#medsurg">
+     <term>wounds and complications</term> 
+     <term>hospital gangrene</term>
+     <term>shot wound of foot</term>
+     <term>bullet entered front of heel, passed directly upward through top of foot, many pieces of bone extracted</term>
+     <term>amputation of leg at junction of upper and middle thirds</term> 
+     <term>gangrene of foot</term> 
+     <term><choice><orig>aneurism</orig><reg>aneurysm</reg></choice> from gunshot wound of foot</term>
+     <term>gangrene, impaired arterial circulation</term> 
+    </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change who="#ajh" when="2012-06-05">additional proofing of transcription and encoding, identified keyword terms</change>
+   <change who="#el" when="2011-05-11">case text extracted and transformed from larger file</change>
+   <change who="#sb" when="2011-06-04">Enrich Encoding, Edit and validate</change>
+   <change who="#sb" when="2011-01-28">Validated File</change>
+   <change who="#ss" when="2008-09-22">initial checking of OCR text; encoded P5 Encoding</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+    <p><hi rend="initialcap">C</hi>ASE 1213.&#8212;<name type="person" key="1514">Private W. J. Logan</name>, <name type="organization" key="564">Co. K, 9th Pennsylvania Reserves</name>,
+     aged 23 years, received a shot wound of the left foot, at <name type="BATTLE" key="127">Bull Run</name>, <date type="injury" when="1862-08-30">August 30, 1862</date>. The bullet entered
+     the front of the heel and passed directly upward through the top of the foot. Many pieces of bone were extracted. The patient was discharged from service at <name type="hospital" key="167">Carver Hospital</name>, Washington, <date type="servicedischarge" when="1862-11-05">November 5,
+      1862</date>, and pensioned.  <name type="person" key="xx">Dr. John Kirker</name>, of <name type="place"><choice><orig>Pittsburg</orig><reg>Pittsburgh</reg></choice></name>, reported, <date type="pension" when="1870-04-15">April 15, 1870</date>, that on <date type="operation" when="1869-12-23">December 23, 1869</date>, he "amputated the left leg at the junction of the
+     upper and middle thirds because of dry gangrene of the foot produced under the following circumstances: He received a gunshot wound of the foot which so injured it as to compel him to rest
+     chiefly on the heel in walking, causing, in my judgment, <choice><orig>aneurism</orig><reg>aneurysm</reg></choice>, which gradually developed
+     during the summer of 1869. <name type="person" key="xx">Dr. A. M. Pollock</name> operated for <choice><orig>aneurism</orig><reg>aneurysm</reg></choice> in my presence. Dry gangrene resulted from impaired arterial circulation, it
+     commencing in the original wound, and had involved the whole foot at the time the operation of amputation was performed."  The pensioner was paid in <date type="pension" when="1876-06">June, 1876.</date></p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e15153">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Quick, Martin V. B.</title>
+                <title level="m" type="sub">a machine readable transcription</title>
+                <principal>Susan C. Lawrence</principal>
+                <principal>Kenneth M. Price</principal>
+                <principal>Kenneth J. Winkle</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2011</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <idno>med.d1e15153</idno>
+                <authority>Civil War Washington</authority>
+                <publisher>University of Nebraska–Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+                </distributor>
+                <date>2011</date>
+                <availability>
+                    <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved.
+                        Redistribution or republication in any medium, except as allowed under the
+                        Fair Use provisions of U.S. copyright law, requires express written consent
+                        from the editors and advance notification of the publisher, the University
+                        of Nebraska–Lincoln.</p>
+                </availability>
+            </publicationStmt>
+            <notesStmt>
+                <note type="project">The following are responsible for particular readings or for changes to this file, as noted: 
+                    <persName xml:id="mb">Matthew Bosley</persName>
+                    <persName xml:id="el">Elizabeth Lorang</persName>
+                    <persName xml:id="sb">Stacey Berry</persName>
+                    <persName xml:id="et">Elisabeth Tracey</persName>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>The Medical and Surgical History of the War of the Rebellion. (1861&#8211;65.)</title>
+                    <editor role="compiler">Surgeon General Joseph K. Barnes, United States Army</editor>
+                    <pubPlace>Washington, D.C.</pubPlace>
+                    <publisher>Government Printing Office</publisher>
+                    <biblScope type="part">Part 1</biblScope>
+                    <biblScope type="volume">Volume 2</biblScope>
+                    <date when="1870">1870</date>
+                    <biblScope type="page">217</biblScope>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <classDecl>
+                <taxonomy xml:id="medsurg">
+                    <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme="#medsurg">
+                    <term>on special wounds and injuries of the head</term>
+                    <term>wounds and injuries of the head</term>
+                    <term>gunshot wounds</term>
+                    <term>gunshot fractures of the cranial bones</term> 
+                    <term>removal of fragments after gunshot fractures of the skull</term>
+                    <term>exfoliation and removal of necrosed or detached fragments of cranial bones after gunshot injuries</term>
+                    <term>recovered, slight disabilities, returned to duty</term>
+                    <term>ball from canister shot struck left forehead transversely, produced compound comminuted fracture of both tables of frontal bone below protuberance</term>
+                    <term>scalp severely lacerated, brain pulsations visible</term>
+                    <term>wound remained open, with some necrosis, then healed favorably</term>                    
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change who="#mb" when="2013-07-23">additional proofing of transcription and encoding, edited and added keyword terms</change>
+            <change who="#mb" when="2011-07-26">additional proofing of transcription and encoding</change>
+            <change who="#el" when="2011-11-05">case text extracted and transformed from larger file</change>
+            <change who="#sb" when="2011-02-09">enriched encoding</change>
+            <change who="#sb" when="2011-01-28">validated file</change>
+            <change who="#et" when="2009-08-01">encoded</change>
+            <change who="#sb" when="2008-09-22">initial checking of OCR text against PDF; encoded</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body xml:id="ch1.sc3.288">            
+                <p><hi rend="initialcap">C</hi>ASE.&#8212;<name type="person" key="1627">Sergeant Martin V. B. Quick</name>, <name type="organization" key="432">Co.
+                    B, 6th New York Cavalry</name>, aged 24 years, was wounded at <name type="battle" key="xx"><choice><orig>Sailors' Creek</orig><reg>Sailor's Creek</reg></choice>, Virginia</name>, <date type="injury" when="1865-04-06">April 6th, 1865</date>,
+                    by a ball from a canister shot, which struck the left side of the forehead,
+                    transversely, producing a compound comminuted fracture of both tables of the
+                    frontal bone just below the protuberance; the scalp was severely lacerated, and
+                    the brain pulsations distinctly visible. <name type="person" key="1628">Surgeon
+                        A. P. Clarke</name>, <name type="organization" key="432">6th New York
+                            Cavalry</name>, removed several fragments of bone <date type="operation" when="1865-04-06">immediately after the
+                    reception of the injury</date>, dressed the wound, and administered stimulants.  Quick
+                    was conveyed to the field hospital of the 1st division, Cavalry Corps, and after
+                    several days, transferred to <name type="place">City Point, Virginia</name>, entering the Cavalry Corps
+                        depot field hospital on <date type="transfer" when="1865-04-14">the 14th</date>.  On <date type="transfer" when="1865-04-15">the following day</date> he was transferred, per
+                    <name type="hospital">hospital steamer Connecticut</name>, to <name type="place" key="#Washington">Washington</name>, entering <name type="hospital"
+                        key="176">Lincoln Hospital</name> on <date type="admit"
+                            when="1865-04-16">the 16th</date>, and thence, on the <date type="transfer"
+                            when="1865-05-22">22d of May</date>, to <name type="hospital">Satterlee Hospital, Philadelphia</name>.  The wound was still open, with some necrosis. Water dressings were applied and
+                    full diet ordered. The case progressed favorably, and on the <date type="duty"
+                        when="1865-07-12">12th of July</date>, the patient was returned to duty, the
+                    wound having healed.  He is not a pensioner.</p>            
+        </body>
+    </text>
+</TEI>

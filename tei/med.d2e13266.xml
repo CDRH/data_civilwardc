@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d2e13266">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Jones, Jesse M.</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+    <idno>med.d2e13266</idno>
+    <authority>Civil War Washington</authority>
+    <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor><name>Center for Digital Research in the
+     Humanities</name><address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address></distributor>
+    <date>2011</date>
+    <availability>
+     <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+      republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+      law, requires express written consent from the editors and advance notification of the
+      publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+ <persName xml:id="kmp">Kenneth M. Price</persName> 
+     <persName xml:id="ajh">AJ Howell</persName>
+     <persName xml:id="mb">Matthew Bosley</persName>
+     <persName xml:id="el">Elizabeth Lorang</persName>
+     <persName xml:id="sb">Stacey Berry</persName>
+     <persName xml:id="et">Elisabeth Tracey</persName>
+     <persName xml:id="ss">Sarah Synovec</persName>
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title level="j">The Medical and Surgical History of the War of the Rebellion.
+      (1861-65.)</title><pubPlace>Washington, DC</pubPlace><publisher>Government Printing
+      Office</publisher><biblScope type="part">Part 3</biblScope><biblScope type="volume">Volume
+      2</biblScope><date when="1883">1883</date><biblScope type="page">305</biblScope></bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+     <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <keywords scheme="#medsurg">
+     <term>wounds and injuries of the lower extremities</term>
+     <term>injuries of the shaft of the femur</term>
+     <term>amputations in the shaft of the femur</term>
+     <term>secondary amputations in the shaft of the femur for shot injury</term>
+     <term>secondary amputations in the upper third of the shaft of the femur</term>
+     <term>recoveries after secondary amputations in the upper third of the femur</term>
+     <term>amputation not performed until seven years after date of reception of injury</term>
+     <term>limb shortened four and three-fourths inches</term>
+     <term>ball fractured femur at junction of middle and upper thirds</term>
+     <term>fracture united by large deposits of bone</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+ <change who="#kmp" when="2014-05">blessed</change>
+   <change who="#ajh" when="2013-08-22">added figure encoding</change>
+   <change who="#mb" when="2012-05-21">additional proofing of transcription and encoding, identified
+    keyword terms</change>
+   <change who="#el" when="2011-05-11">case text extracted and transformed from larger file</change>
+   <change who="#sb" when="2011-06-04">Enrich Encoding, Edit and validate</change>
+   <change who="#sb" when="2011-01-28">Validated File</change>
+   <change who="#ss" when="2008-09-21">initial checking of OCR text; encoded P5 Encoding</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+
+   <p><hi rend="initialcap">C</hi>ASE 476.&#8212;<name type="person" key="1096">Private Jesse M.
+     Jones</name>, <name type="organization" key="452">&#185; Co. K, 21st Indiana</name>, aged 29
+    years, was wounded at <name type="BATTLE" key="51">Baton Rouge</name>, <date type="injury"
+     when="1862-08-05">August 5, 1862</date>, by a musket ball, which fractured the right femur at
+    the junction of the middle and upper thirds. He was taken to the regimental hospital, <date
+     type="transfer" when="1862-08-06">remained there one day</date>, and was then sent on a
+    hospital transport to <name type="place">New Orleans</name>, the limb meanwhile being supported
+    by bandages and pillows. On arrival, <date type="admit" when="1862-08-07">August 7th</date>, he
+    was admitted to the St. James Hospital, where a long splint was applied, seventeen days after
+    the reception of the wound. He was discharged <date type="servicedischarge" when="1863-04-15"
+     >April 15, 1863</date>, and pensioned. On <date type="pension" when="1866-11-14">November 14,
+     1866</date>, <name type="person" key="xx">Examining Surgeon W. J. Hoadley</name>, of <name
+     type="place" key="xx">Danville, Indiana</name>, reports: "The wound still unhealed, fracture
+    had united by large deposits of bone; limb shortened four and three-fourths inches." In <date
+     type="admit" when="1869-01">January, 1869</date>, he entered <name type="hospital" key="xx"
+     >Providence Hospital</name>, Washington; and, on <date type="operation" when="1869-01-23">the
+     23d</date>, <name type="person" key="123">Dr. D. W. Bliss</name>, late Surgeon <name
+     type="organization" key="132">U. S. V.</name>, amputated the thigh in the upper third by the <choice>
+     <orig>antero-posterior</orig>
+     <reg>anteroposterior</reg>
+    </choice>flap method. The pathological specimen was presented to the <name type="hospital"
+     key="431">Army Medical Museum</name> by <name type="person" key="123">the operator</name>. It
+    is No. 5558 of the Surgical Section (<hi rend="initialcap">F</hi>IG. 196), and shows great
+    deformity, with exfoliations on posterior aspect, and a fragment of lead imbedded in the callus.
+    On <date type="photo" when="1869-03-09">March 9, 1869</date>, <name type="person" key="1096"
+     >Jones</name> visited <name type="hospital" key="431">the Museum</name>, when his photograph
+    (A. M. M. <hi rend="italic">Card Photographs</hi>, Vol. I, p. 27) was taken, a copy of which is
+    shown in the wood-cut (<hi rend="initialcap">F</hi>IG. 197). His pension was paid <date
+     type="pension" when="1879-12-04">December 4, 1879</date>.</p>
+   <p>&#185; An account of the case has been published in <hi rend="italic">Circular</hi> No. 3,
+    Surgeon General's Office, Washington, 1871, p. 209. </p>
+   <figure><graphic url="cww.001596.001"/><head><hi rend="initialcap">F</hi>IG. 196.&#8212;Right femur fractured at junction of upper and
+    middle thirds. <hi rend="italic">Spec</hi>. 5558.</head></figure>
+   <figure><graphic url="cww.001597.001"/><head>
+    <hi rend="initialcap">F</hi>IG. 197.&#8212;Appearance of the stump six weeks after operation.
+    [From a photograph.]</head></figure>
+
+
+  </body>
+ </text>
+</TEI>

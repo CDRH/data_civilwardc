@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e3276">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title level="m" type="main">Dickerson, John</title>
+        <title level="m" type="sub">a machine readable transcription</title>
+        <principal>Susan C. Lawrence</principal>
+        <principal>Kenneth M. Price</principal>
+        <principal>Kenneth J. Winkle</principal>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <date>2011</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <idno>med.d1e3276</idno>
+        <authority>Civil War Washington</authority>
+        <publisher>University of Nebraska–Lincoln</publisher>
+        <distributor>
+          <name>Center for Digital Research in the Humanities</name>
+          <address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+        </distributor>
+        <date>2011</date>
+        <availability>
+          <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution
+            or republication in any medium, except as allowed under the Fair Use provisions of U.S.
+            copyright law, requires express written consent from the editors and advance
+            notification of the publisher, the University of Nebraska–Lincoln.</p>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="project">The following are responsible for particular readings or for changes to
+          this file, as noted: 
+          <persName xml:id="ajh">AJ Howell</persName>
+          <persName xml:id="mb">Matthew Bosley</persName>
+          <persName xml:id="el">Elizabeth Lorang</persName>
+          <persName xml:id="sb">Stacey Berry</persName>
+          <persName xml:id="et">Elisabeth Tracey</persName>
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>
+          <title level="j">The Medical and Surgical History of the War of the Rebellion</title>
+          <pubPlace>Washington, DC</pubPlace>
+          <publisher>Government Printing Office</publisher>
+          <biblScope type="part">Part 3</biblScope>
+          <biblScope type="volume">Volume 1</biblScope>
+          <date when="1888">1888</date>
+          <biblScope type="page">231</biblScope>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <classDecl>
+        <taxonomy xml:id="medsurg">
+          <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="#medsurg">
+          <term>clinical records</term>
+          <term>continued fevers</term>
+          <term>evidence of malarial affection</term>
+          <term>typhoid fever</term>
+          <term>typho-malarial and typhoid fevers</term>
+          <term>mental dullness</term> 
+          <term>rose-spots</term>
+          <term>bowel affection slightly marked</term> 
+          <term> umbilical tenderness</term> 
+          <term>Seminary Hospital cases</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change who="#ajh" when="2013-05-31">additional proofing of transcription and encoding, identified keyword terms</change>
+      <change who="#mb" when="2011-10-11">additional proofing of transcription and encoding</change>
+      <change who="#mb" when="2011-06-06">additional proofing of transcription and encoding</change>
+      <change who="#el" when="2011-05-11">case text extracted and transformed from larger
+        file</change>
+      <change who="#sb" when="2011-02-23">Encoding and Proofing</change>
+      <change who="#et" when="2009-12-01">Initial Checking OCR Text to PDF file, </change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body xml:id="ch4.sc2.3.00063">
+      
+      <p><hi rend="initialcap">C</hi>ASE 63.&#8212;<hi rend="italic">Mental <choice><orig>dulness</orig><reg>dullness</reg></choice>;
+            rose-spots on the 9th day, disappearing on the 16th; bowel affection slightly
+            marked.</hi>&#8212;<name type="person" key="521">Private John Dickerson</name>,
+            <name type="organization" key="622">Co. A, 4th Mich.</name>; age 21; was taken about
+          <date type="injury" when="1861-09-09"></date>Sept. 9, 1861, with pain in the bones, back and head, fever which was said to be worst at
+          noon, and diarrh&#339;a. He was admitted on the <date type="admit" when="1861-09-16">16th</date>. Diagnosis&#8212;typhoid fever. In the evening the fever was slight;
+          pulse 71; skin warm and dry; face flushed; tongue red at the edges, coated yellowish at
+          the base and in the middle, moist and with prominent papill&#230;; a bitter taste was
+          felt in the mouth; one stool was passed during the day, and there was some umbilical
+          tenderness. Two grains each of calomel and jalap were given. Next day the pulse was 70 and
+          small; the skin dry; the tongue dry, heavily coated and brownish; the cheeks flushed; the
+          patient was weak and dull; his bowels had been moved once; a few characteristic rose-spots
+          were seen. Quinine was ordered. During the next week there was little change in the
+          patient's condition; his eyes were injected and half closed and he was dull and drowsy,
+          answering questions in a low tone; the face was flushed and the skin hot, dry, husky and
+          profusely spotted with the rose-colored eruption; the tongue, heavily coated and brown,
+          became moist on the 19th; the bowels quiet and neither tender nor tympanitic; there was
+          some headache with dizziness at this time. On the 22d the patient was dull; his pulse 80
+          and feeble; face flushed; skin hot, moist and spotted; tongue red at tip and gray in
+          centre; he vomited once during the day and had one stool. Next day the pulse was 82 and
+          weak, the eyes suffused, the skin warm and moist, the tongue gray in the centre and red at
+          the tip, the bowels quiet and not tender. On the 24th the pulse was 78, the skin warm and
+          soft, the tongue moist and slightly coated gray, the appetite good. Wine was occasionally
+          given. He was returned to duty <date type="duty" when="1861-10-24">October 24</date>. </p>
+      
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e41064">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Hopkins, Albert</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+    <idno>med.d1e41064</idno>
+       <authority>Civil War Washington</authority>
+       <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor>
+       <name>Center for Digital Research in the Humanities</name>
+       <address><addrLine>319 Love Library</addrLine>
+       <addrLine>University of Nebraska–Lincoln</addrLine>
+       <addrLine>Lincoln, NE 68588-4100</addrLine>
+       <addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+    </distributor>
+    <date>2011</date>
+    <availability>
+        <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+         republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+         law, requires express written consent from the editors and advance notification of the
+         publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+     <persName xml:id="mb">Matthew Bosley</persName>
+     <persName xml:id="el">Elizabeth Lorang</persName>
+     <persName xml:id="sb">Stacey Berry</persName>
+     <persName xml:id="ao">Alyssa Olson</persName>
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl>
+     <title level="j">The Medical and Surgical History of the War of the Rebellion. (1861-65.)</title>
+     <pubPlace>Washington, DC</pubPlace>
+     <publisher>Government Printing Office</publisher>
+     <biblScope type="part">Part 2</biblScope>
+     <biblScope type="volume">Volume 1</biblScope>
+     <date when="1879">1879</date>
+     <biblScope type="page">167</biblScope>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+       <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+      <keywords scheme="#medsurg">
+       <term>diarrh&#339;a and dysentery</term>
+       <term>fatal cases of diarrh&#339;a and dysentery, with accounts of the morbid appearances observed</term>
+       <term>from Lincoln Hospital, Washington, D. C.</term>
+       <term>chronic diarrh&#339;a</term>
+       <term>habit of getting various indigestible foods</term>
+       <term>epileptiform convulsions, delirious until death</term>
+       <term>retention of urine, urine drawn off by catheter</term>
+       <term>face covered with pustular eruption resembling acne</term>
+       <term>feet and legs &#339;dematous</term>
+       <term>mind disturbed, at times perfectly demented</term>
+       <term>farinaceous diet</term>
+       <term>severe pain in loins</term>
+       <term>pericardium contained fluid</term>
+       <term>large intestine inflated with gas, mucous membrane slate-colored</term>
+       <term>back &#339;dematous</term>
+       <term>epileptiform convulsion preceded by retention of urine</term>       
+       <term>autopsy performed</term>       
+     </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change who="#mb" when="2012-11-08">additional proofing of transcription and encoding, identified keyword terms</change>
+   <change who="#el" when="2010-11-05">case text extracted and transformed from larger file</change>
+   <change who="#sb" when="2010-05-01">enrich encoding, proof and edit</change>
+   <change who="#ao" when="2008-10-02">encoding and editing</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body> 
+   <p>Case from the case-book of <name type="hospital" key="176"><hi rend="initialcap">L</hi>INCOLN <hi rend="initialcap">H</hi>OSPITAL</name>, Washington, D. C.; <name type="person" key="241">Surgeon Henry Bryant</name>, <name type="organization" key="132">U. S. V.</name>, in charge to May, 1863.</p>    
+   <p><hi rend="initialcap">C</hi>ASE 361.&#8212;<name type="person" key="xxx">Private Albert Hopkins</name>, <name type="organization" key="xxx">company E, 89th New York volunteers</name>; age 43; enlisted <date type="enlist" when="1861-12-04">December 4, 1861</date>; admitted <date type="admit" when="1863-02-08">February 8, 1863</date>.  Chronic diarrh&#339;a.  The first notes were taken April 1st. At that time the patient still suffered from diarrh&#339;a. He said that he contracted the disease in <date type="injury" when="1862-09">September, 1862</date>, and had not been free from it since. He had on an average four thin watery passages daily. He was weak and somewhat emaciated. There was marked tenderness on pressure over the abdomen, but no enlargement of the liver or spleen could be detected. His face was nearly covered with a pustular eruption resembling acne; his feet and legs were &#339;dematous. On examination of the urine nothing abnormal was detected. The heart and lungs appeared to be healthy. His mind was disturbed, and at times he appeared to be perfectly demented. He was ordered to take, every three hours, a pill containing a grain and a half of acetate of lead and a grain each of opium and capsicum; also a laudanum enema at night. Farinaceous diet.  April 7th: Has had but two passages in the past twenty-four hours; complains of severe pain in the loins. Ordered half an ounce of castor oil. Discontinue the pills until the oil operates. Also six dry cups over the seat of pain.  April 16th: Since last date the patient has resumed the pills and seems a little better, but still complains of pain in the back. Continue treatment. Again apply six dry cups over the seat of pain.  April 25th: I learned that he was in the habit of getting various kinds of indigestible food from the sutler; he was, therefore, confined to his bed.  May 1st: The discharges from the bowels are nearly natural, and the patient is again allowed to sit up.  May 7th: He was seized with severe pain in the loins, which was relieved by dry cups.  May 8th: He had a return of the pain, which was not relieved by cups, but yielded to the influence of a large opiate enema. It was observed that his back was &#339;dematous.  May 9th: He had a severe epileptiform convulsion, preceded by retention of urine. The urine was drawn off by the catheter. On examination it was found to contain nothing abnormal.  May 10th: He had four convulsions, and was delirious from this date until death.  Died, <date type="death" when="1863-05-16">May 16th</date>, at 12.15 A. M.&#8212;Acting Assistant Surgeon G. K. Smith.  <hi rend="italic">Autopsy</hi> <date type="autopsy" when="1863-05-16">ten hours and three-quarters after death</date>: Height five feet four inches; body rigid; no emaciation. The brain was apparently healthy; weight forty-five ounces and a quarter. The trachea and bronchial tubes, including the smaller ramifications, were filled with a fine bronchial secretion; the mucous lining was slightly injected. The upper lobe of the right lung was small and of a grayish color anteriorly; posteriorly it was congested; there were old adhesions at its apex, and the pigmentary deposit was rather abundant; the middle and lower lobes were also hypostatically congested. The left lung was congested posteriorly in a similar manner; on the surface of its lower lobe were numerous small ecchymosed spots. The heart was normal. The pericardium contained two drachms of fluid. The liver weighed sixty-nine ounces; there was a thin layer of recent lymph on its upper surface; on section it was of a pale flesh-color, its acini almost obliterated; the gall-bladder contained eleven drachms of ochre-colored bile. The spleen was six inches long and four inches wide, of a dull lake color and very soft. The pancreas was normal; it weighed two ounces and three quarters. The right kidney weighed seven ounces and a quarter, the left seven ounces and a half; the cortical substance of both was rather pale. The &#339;sophagus was pale; the stomach slightly congested; the small intestine apparently normal. The large intestine was inflated with gas; its mucous membrane was slate-colored.&#8212;<name type="person" key="245">Assistant Surgeon Harrison Allen</name>, <name type="organization" key="190">U. S. A.</name>&#8432;</p>
+   <p>&#8432; September 14, 1864, <name type="person" key="245">Dr. Allen</name> presented to the Pathological Society of Philadelphia a brief &#34;<hi rend="italic">Synopsis of Autopsies made at <name type="hospital" key="176">Lincoln General Hospital</name></hi>,&#34; to which the reader is referred.&#8212;(Proceedings of the Pathological Society of Philadelphia, in the American Journal of the Medical Sciences, January, 1865, page 133.)  In this paper he analyzes the appearances observed in forty-one cases of diarrh&#339;a and dysentery, thirty-five of fever, twenty-one of pneumonia, and five of diphtheria. The notes of <name type="person" key="245">Dr. Allen</name>'s autopsies, from which the accounts here presented have been condensed, were not contained in the case-books of <name type="hospital" key="176">Lincoln hospital</name> turned in to the <name type="organization" key="xxx">Surgeon General's Office</name> at the close of the war, but have since been copied into them from the originals, loaned for the purpose.</p>
+  </body>
+ </text>
+</TEI>

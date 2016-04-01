@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e6815">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Scott, Pembroke</title>
+                <title level="m" type="sub">a machine readable transcription</title>
+                <principal>Susan C. Lawrence</principal>
+                <principal>Kenneth M. Price</principal>
+                <principal>Kenneth J. Winkle</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2011</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <idno>med.d1e6815</idno>
+                <authority>Civil War Washington</authority>
+                <publisher>University of Nebraska–Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+                </distributor>
+                <date>2011</date>
+                <availability>
+                    <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved.
+                        Redistribution or republication in any medium, except as allowed under the
+                        Fair Use provisions of U.S. copyright law, requires express written consent
+                        from the editors and advance notification of the publisher, the University
+                        of Nebraska–Lincoln.</p>
+                </availability>
+            </publicationStmt>
+            <notesStmt>
+                <note type="project">The following are responsible for particular readings or for
+                    changes to this file, as noted: 
+ <persName xml:id="kw">Kenneth Winkle</persName> <persName xml:id="mb">Matthew Bosley</persName>
+                    <persName xml:id="el">Elizabeth Lorang</persName>
+                    <persName xml:id="sb">Stacey Berry</persName>
+                    <persName xml:id="et">Elisabeth Tracey</persName>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>The Medical and Surgical History of the War of the Rebellion.
+                        (1861&#8211;65.)</title>
+                    <editor role="compiler">Surgeon General Joseph K. Barnes, United States
+                        Army</editor>
+                    <pubPlace>Washington, D.C.</pubPlace>
+                    <publisher>Government Printing Office</publisher>
+                    <biblScope type="part">Part 1</biblScope>
+                    <biblScope type="volume">Volume 2</biblScope>
+                    <date when="1870">1870</date>
+                    <biblScope type="page">105</biblScope>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <classDecl>
+                <taxonomy xml:id="medsurg">
+                    <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme="#medsurg">
+                    <term>on special wounds and injuries of the head</term>
+                    <term>wounds and injuries of the head</term>
+                    <term>gunshot wounds</term>
+                    <term>gunshot contusions of the cranial bones</term>
+                    <term>contusion of the skull without fracture</term>
+                    <term>exfoliation</term>
+                    <term>conoidal ball inflicted wound across temporal and edge of parietal bone,
+                        contused outer table of latter</term>
+                    <term>small pieces of outer table of skull were removed</term>
+                    <term>loss of memory</term>
+                    <term>partial aphasia</term>
+                    <term>permanent disability, nervous system much affected</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+ <change who="#kw" when="2014-05">blessed</change>
+            <change who="#el" when="2014-07-03">corrected typo in figure head</change>
+            <change who="#mb" when="2011-10-06">additional proofing of transcription and
+                encoding</change>
+            <change who="#mb" when="2011-06-16">additional proofing of transcription and
+                encoding</change>
+            <change who="#el" when="2011-11-05">case text extracted and transformed from larger
+                file</change>
+            <change who="#sb" when="2011-02-09">enriched encoding</change>
+            <change who="#sb" when="2011-01-28">validated file</change>
+            <change who="#et" when="2009-08-01">encoded</change>
+            <change who="#sb" when="2008-09-22">initial checking of OCR text against PDF;
+                encoded</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body xml:id="ch1.sc3.0083">
+            <p><name type="person" key="1273"><hi rend="initialcap">S</hi>COTT, <hi
+                        rend="initialcap">P</hi>EMBROKE</name>, Private, <name type="organization"
+                    key="403">Co. D, 198th Pennsylvania Volunteers</name>, aged 25, was wounded, in
+                an engagement at <name type="BATTLE" key="291">Gravelly Run, Virginia</name>, <date
+                    type="injury" when="1865-03-29">March 29th, 1865</date>, by a conoidal ball,
+                which inflicted a wound in the scalp, three inches in length, across the left
+                temporal and edge of the left parietal bone, and contused the outer table of the
+                latter. He was conveyed to the field hospital of the 1st division, Fifth Corps, and
+                thence was transferred to <name type="place">City Point, Virginia</name>, where he
+                remained in the depot field hospital of the Ninth Corps until the <date
+                    type="transfer" when="1865-04-02">2d of April</date>, when he was transferred to
+                the <name type="hospital" key="173">Harewood Hospital</name>, Washington, D. C. By
+                April 29th, the wound was doing well and healing kindly, and there were no
+                indications of depression nor compression. On <date type="transfer"
+                    when="1865-05-16">May 16th</date>, he was transferred to the <name
+                    type="hospital">Satterlee Hospital, Philadelphia</name>, Pennsylvania. On <date
+                    type="operation" when="1865-06-16">June 16th</date>, several small pieces of the
+                outer table of the skull were removed. The patient improved gradually, and was, on
+                the <date type="servicedischarge" when="1865-07-06">6th of July, 1865</date>,
+                discharged from service. The appearance of the wound, while the man was at <name
+                    type="hospital" key="173">Harewood Hospital</name>, is exhibited in the third
+                figure of Plate III. Scott was pensioned to date from <date type="pension"
+                    when="1865-07-06">July 5th, 1865</date>. In <date type="pension" when="1866-04"
+                    >April, 1866</date>, <name type="person" key="1272">Pension Examining Surgeon
+                    Wilson Jewell</name> reported that the man's nervous system was much affected,
+                and that loss of memory and partial aphasia were especially noticeable. <name
+                    type="person" key="1272">Dr. Jewell</name> regarded the disability as
+                permanent.</p>
+            <figure>
+                <graphic url="cww.001364.001"/>
+                <head><hi rend="initialcap">P</hi>LATE III. GUNSHOT SCALP WOUNDS AND CONTUSIONS OF THE
+                SKULL. 3. Private Pembroke Scott, Co. D, 198 Penn<hi rend="superscript">a</hi>.
+                    Vol<hi rend="superscript">s</hi>.</head></figure>
+        </body>
+    </text>
+</TEI>

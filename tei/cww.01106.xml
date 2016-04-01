@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="cww.01106">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>                
+                <title level="m" type="main">Petition of Nathaniel Kane, 2 August 1862</title>
+                <title level="m" type="sub">a machine readable transcription</title>
+                <principal>Susan C. Lawrence</principal>
+                <principal>Kenneth M. Price</principal>
+                <principal>Kenneth J. Winkle</principal>
+                <respStmt>
+                    <resp>transcription and encoding</resp>
+                    <name xml:id="jc">Janel Cayer</name>
+                    <name xml:id="el">Elizabeth Lorang</name>
+                <name xml:id="kjw">Kenneth J. Winkle</name>
+</respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2012</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <idno>cww.01106</idno>
+                <distributor>Civil War Washington</distributor>
+                <publisher>University of Nebraska–Lincoln</publisher>
+                <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>P.O. Box 884100</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+            </address>
+                <date>2012</date>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+                        <p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License (http://creativecommons.org/licenses/by-nc-sa/3.0/). Derivatives must be credited to Civil War Washington, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl xml:id="rg21">
+                    <title>Petition of Nathaniel Kane, 2 August 1862</title>
+                    <date when="1862-08-02">August 2, 1862</date>
+                    <idno>Microcopy 433, Reel 3</idno>                
+                    <orgName>National Archives and Records Administration</orgName>
+                    <relatedItem type="original">
+                        <bibl>
+                            <title>Petition of Nathaniel Kane, 2 August 1862</title>
+                            <date when="1862-08-02">August 2, 1862</date>
+                            <idno type="rg">Record Group 21</idno>
+                            <orgName>Records of the District Courts of the United States, 1685&#8211;2004, National Archives and Records Administration</orgName>
+                            <orgName>Emancipation Records, compiled 1862&#8211;1863</orgName>
+                            <note type="project">Within the National Archives' Archival Description Catalog, see ARC Identifier 4314547 / MLR Number NC-2 33 (http://arcweb.archives.gov).</note>
+                        </bibl>
+                    </relatedItem>
+                    <note type="project">Our transcription is based on a digital image of a microfilm copy of the original.</note>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <particDesc>
+                <person role="owner">
+                    <persName>Daddrige C. Lee</persName>
+                </person>
+                <person role="petitioner-slave">
+                    <persName>Nathaniel Kane</persName>
+                </person>
+            </particDesc>
+        </profileDesc>
+        <revisionDesc>
+<change when="2013-07-10" who="#jc">blessed</change>
+<change when="2013-07-08" who="#kjw">blessed</change>
+            <change when="2013-07-02" who="#el">checked</change>
+            <change when="2013-02-27" who="#jc">transcribed, encoded</change>
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            <pb xml:id="leaf001r" facs="cww.01106.001.jpg"/>
+            <div1 type="petition" subtype="handwritten">
+                <div2 type="document" subtype="handwritten">
+                    <opener>
+                        <salute>To <persName>John A. Smith</persName> Clerk of the Circuit Court for the <placeName>District of Columbia</placeName></salute>
+                        <salute>Sir</salute>
+                    </opener>
+                    
+                    <p><persName>Daddrige C Lee</persName> having claim to service or labor of the undersigned and having refused or neglected to file in your Office the Statement in writing or Schedule provided for in the 9th section of the Act of Congress Entitled "An Act for the release of certain persons held to service or labor in the <placeName>District of Columbia</placeName>" Approved <date when="1862-04-16">April 16th 1862</date>,</p>
+                    <p>You will please file and record in your Office the annexed Schedule in pursuance of an act Supplementary to the above recited act approved <date when="1862-07-12">July 12th 1862</date>. The said <persName>Daddridge C Lee</persName> were residents of said <placeName>District</placeName> on the <date when="1862-04-16">16th April 1862</date>, and had been for one year previous to the passage of Act of <date when="1862-04-16">16th April 1862</date></p>
+                    <table>
+                        <row>
+                            <cell>Name</cell>
+                            <cell>Age</cell>
+                            <cell>Sex</cell>
+                            <cell>height</cell>
+                            <cell>Remarks</cell>
+                        </row>
+                        <row rend="handwritten">
+                            <cell><persName>Nathaniel Kane</persName></cell>
+                            <cell>22</cell>
+                            <cell>Male</cell>
+                            <cell></cell>
+                            <cell>Dark color</cell>
+                        </row>
+                    </table>
+                    
+                    <closer>
+                        <signed>his X mark <persName>Nathaniel Kane</persName></signed><lb/>
+                        Witness
+                           <signed><persName>C. B. Baker</persName></signed>                        
+                    </closer>
+                </div2>
+                
+                <pb xml:id="leaf001v" facs="cww.01106.002.jpg"/>
+                
+                <div2 type="cover" subtype="handwritten">
+                    <div3 type="section">
+                        <ab>paid</ab>
+                        <ab><persName>Nathaniel Kane</persName> Schedule</ab>
+                    </div3>
+                    <div3 type="section">
+                        <ab>Filed <date when="1862-08-02">Aug 2d 1862</date></ab>
+                    </div3>
+                    
+                    <div3 type="section">
+                        <ab>Withdrawn</ab>
+                    </div3>
+                    
+                    <div3 type="handwritten">
+                        <ab>Witness</ab>
+                        <ab><gap reason="illegible" extent="one or two words" quantity="6" unit="chars"/> <persName>Wren</persName><lb/>
+                        <address><addrLine>1<unclear reason="illegible" cert="low" resp="#jc">0</unclear>th Street. <choice><abbr>bet</abbr><expan>between</expan></choice> Avenue &#38; E st</addrLine></address></ab>
+                    </div3>
+                </div2>
+            </div1>                      
+        </body>
+    </text>
+</TEI>

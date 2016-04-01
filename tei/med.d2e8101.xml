@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d2e8101">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Lowery, J. S.</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+    <idno>med.d2e8101</idno>
+    <authority>Civil War Washington</authority>
+    <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor><name>Center for Digital Research in the
+     Humanities</name><address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address></distributor>
+    <date>2011</date>
+    <availability>
+     <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+      republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+      law, requires express written consent from the editors and advance notification of the
+      publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+     <persName xml:id="mb">Matthew Bosley</persName>
+     <persName xml:id="el">Elizabeth Lorang</persName>
+     <persName xml:id="sb">Stacey Berry</persName>
+     <persName xml:id="et">Elisabeth Tracey</persName>
+     <persName xml:id="ss">Sarah Synovec</persName>
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title level="j">The Medical and Surgical History of the War of the Rebellion.
+      (1861-65.)</title><pubPlace>Washington, DC</pubPlace><publisher>Government Printing
+      Office</publisher><biblScope type="part">Part 3</biblScope><biblScope type="volume">Volume
+      2</biblScope><date when="1883">1883</date><biblScope type="page">180-181</biblScope></bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+     <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <keywords scheme="#medsurg">
+     <term>wounds and injuries of the lower extremities</term> 
+     <term>injuries of the shaft of the femur</term> 
+     <term>shot fractures of the shaft of the femur</term>
+     <term>shot fractures of the shaft of the femur treated by conservation</term> 
+     <term>shot fractures of the upper third of the femur treated by conservation</term> 
+     <term>recoveries after shot fractures of the upper third of the femur treated by conservation</term> 
+     <term>missile entered middle of thigh, cut out in field above trochanter</term>
+     <term>limb shortened, thigh cannot flex to pelvis</term>
+     <term>perfect consolidation of the ends of the fractured femur</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change who="#mb" when="2012-04-20">additional proofing of transcription and encoding, identified keyword terms</change>
+   <change who="#el" when="2011-05-11">case text extracted and transformed from larger file</change>
+   <change who="#sb" when="2011-06-04">Enrich Encoding, Edit and validate</change>
+   <change who="#sb" when="2011-01-28">Validated File</change>
+   <change who="#ss" when="2008-09-22">Sarah Synovec initial checking of OCR text; encoded P5 Encoding</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>   
+    <p><hi rend="initialcap">C</hi>ASE 367.&#8212;<name type="person" key="1016">Lieutenant J. S.
+      Lowery</name>, <name type="organization" key="392">Co. D, 146th New York</name>, aged 21
+     years, was wounded at <name type="BATTLE" key="115">Bethesda Church</name>, <date type="injury"
+      when="1864-06-03">June 3, 1864</date>. <name type="person" key="xx">Surgeon W. E. DeWitt, <choice><orig> jr.</orig><reg> Jr.</reg></choice></name>, <name type="organization" key="132">U. S. V.</name>, recorded his admission to a
+      Fifth Corps field hospital, with a "severe wound of the right thigh caused by a mini&#233; ball." <name type="person" key="123">Surgeon D. W. Bliss</name>,
+      <name type="organization" key="132">U. S. V.</name>, reported that the patient entered <name
+       type="hospital" key="171">Armory Square Hospital</name>, Washington, <date type="transfer" when="1864-06-07">June 7th</date>, and described his injury as a "shot fracture of the
+     upper third of the femur," but gave no account of any treatment but that of simple dressings.
+      <name type="person" key="1017">Dr. T. M. Flandrau</name>, late Surgeon <name
+      type="organization" key="392">146th New York</name>, who attended <name type="person"
+      key="1016">Lieutenant Lowery</name> at the field hospital, gives the following details: The
+     patient was wounded by a rifle ball while on picket duty. The missile entered at the middle of
+     the thigh, toward its inner aspect, and was cut out on the field by <name type="person"
+      key="xx">Assistant Surgeon G. H. Fossard</name>, <name type="organization" key="392">146th New
+      York</name>, above the trochanter. The femur was fractured in its upper third. The patient was
+     brought six miles on a stretcher to the field hospital of the 2d division, Fifth Corps, where I determined not to amputate, and supported the limb on
+     folded blankets, so that it was very comfortable. He was then carried by some men belonging to
+     the Quartermaster's Department fifteen miles further to the White House, and placed on a
+     steamboat and sent to <name type="place" key="#Washington">Washington</name>. He was left on his stretcher while on board of the transport
+     and was not removed from it until placed on a bed in <name type="hospital" key="171">Armory
+      Square Hospital</name>, <date type="transfer" when="1864-06-07">four days after receiving the injury</date>. At the latter place, <name type="person" key="271">Acting Assistant Surgeon T. O. Bannister</name> had immediate charge of
+     the case. According to the patient's statement the limb was placed in a box, little extension
+     being used and no counter-extension. Three or four small pieces of bone were discharged within
+     a short time, and another small piece was cut since from under the skin. An abscess was opened
+     on, the outer side of the thigh, the scar of which is conspicuous in the photograph. When the
+     patient left the hospital he used crutches, the wound having closed in four or five weeks and
+     the bone united firmly. He continued to use his crutches until the following April. The limb is shortened two and
+     five-eighths inches; the thigh cannot be fully flexed on the pelvis, but the limb is strong,
+     sound, and freely movable, with the afore-mentioned exception. When wearing a boot slightly
+     thickened in the sole he limps but little. Lately he has walked six miles without difficulty,
+     and is actively engaged in business." In a previous communication <name type="person"
+      key="1017">Dr. Flandrau</name> stated that the very expeditious recovery of the patient was,
+     no doubt, to be attributed in a large measure to his good fortune of having unusually
+     comfortable transportation. <name type="person" key="1016">Lieutenant Lowery</name> became a
+     pensioner from the date of his discharge from service, <date type="servicedischarge" when="1865-01-13">January 13, 1865</date>. Various surgeons have examined him at regular intervals, and
+     certified to lameness, etc., as resulting from the injury, up to <date type="pension" when="1872-04">April, 1872</date>, since when he has
+     been exempted from further examinations, owing to the permanent character of his disabilities.
+     He was paid <date type="pension" when="1879-06-04">June 4, 1879</date>. A photograph of the patient was prepared under the direction of <name type="person" key="1017">Dr.
+      Flandrau</name>, who contributed it to the <name type="hospital" key="431">Army Medical
+      Museum</name>. It is numbered 265 of the <hi rend="italic">Surgical Photographic Series</hi>.</p>   
+  </body>
+ </text>
+</TEI>

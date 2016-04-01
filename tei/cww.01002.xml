@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="cww.01002">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>                
+                <!-- The name of this petitioner is spelled differently in each set of documents. This difference in spelling is preserved in the document titles. JC, 2012-07-04. -->
+                <title level="m" type="main">Petition of Mary Ridout, 10 September 1862</title>
+                <title level="m" type="main">Evidence Relating to the Petition of Mary Rideout, 10 September 1862</title>
+                <title level="m" type="sub">a machine readable transcription</title>
+                <principal>Susan C. Lawrence</principal>
+                <principal>Kenneth M. Price</principal>
+                <principal>Kenneth J. Winkle</principal>
+                <respStmt>
+                    <resp>transcription and encoding</resp>                    
+                    <name xml:id="jc">Janel Cayer</name>
+                    <name xml:id="el">Elizabeth Lorang</name>
+                <name xml:id="scl">Susan C. Lawrence</name>
+</respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2012</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <idno>cww.01002</idno>
+                <distributor>Civil War Washington</distributor>
+                <publisher>University of Nebraska–Lincoln</publisher>
+                <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>P.O. Box 884100</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+            </address>
+                <date>2012</date>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+                        <p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License (http://creativecommons.org/licenses/by-nc-sa/3.0/). Derivatives must be credited to Civil War Washington, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl xml:id="rg21">
+                    <title>Petition of Mary Ridout, 10 September 1862</title>
+                    <date when="1862-09-10">September 10, 1862</date>
+                    <idno>Microcopy 433, Reel 3</idno>                
+                    <orgName>National Archives and Records Administration</orgName>
+                    <relatedItem type="original">
+                        <bibl>
+                            <title>Petition of Mary Ridout, 10 September 1862</title>
+                            <date when="1862-09-10">September 10, 1862</date>
+                            <idno type="rg">Record Group 21</idno>
+                            <orgName>Records of the District Courts of the United States, 1685&#8211;2004, National Archives and Records Administration</orgName>
+                            <orgName>Emancipation Records, compiled 1862&#8211;1863</orgName>
+                            <note type="project">Within the National Archives' Archival Description Catalog, see ARC Identifier 4314547 / MLR Number NC-2 33 (http://arcweb.archives.gov).</note>
+                        </bibl>
+                    </relatedItem>
+                    <note type="project">Our transcription is based on a digital image of a microfilm copy of the original.</note>
+                </bibl>
+                
+                <bibl xml:id="rg217">
+                    <title>Evidence Relating to the Petition of Mary Rideout, 10 September 1862</title>
+                    <date when="1862-09-10">September 10, 1862</date>
+                    <idno>Microcopy 520, Reel 6</idno>
+                    <orgName>National Archives and Records Administration</orgName>
+                    <relatedItem type="original">
+                        <bibl>
+                            <title>Evidence Relating to the Petition of Mary Rideout, 10 September 1862</title>
+                            <date when="1862-09-10">September 10, 1862</date>
+                            <idno type="rg">Record Group 217.6.5</idno>
+                            <orgName>Records of the Accounting Officers of the Department of the Treasury, 1775&#8211;1978, National Archives and Records Administration</orgName>
+                            <note type="project">Within the National Archives' Archival Description Catalog, see ARC Identifier 4644616 / MLR Number A1 347 (http://arcweb.archives.gov).</note>
+                        </bibl>
+                    </relatedItem>
+                    <note type="project">Our transcription is based on a digital image of a microfilm copy of the original.</note>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <particDesc>
+                <person role="owner">
+                    <persName>Eliza Powers</persName>
+                </person>
+                <person role="petitioner-slave">
+                    <persName>Mary Ridout</persName>
+                </person>
+            </particDesc>
+        </profileDesc>
+        <revisionDesc>
+<change when="2013-04-29" who="#jc">blessed</change>
+<change when="2013-04-21" who="#scl">blessed</change>            
+            <change when="2013-02-07" who="#el">checked</change>
+            <change when="2012-07-04" who="#jc">transcribed and encoded</change>
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            <pb xml:id="leaf001r" facs="cww.01002.001.jpg"/>
+                        
+            <div1 type="petition" subtype="handwritten" corresp="#rg21">                
+                                
+                <div2 type="document" subtype="handwritten">                   
+                
+                    <opener>
+                        <salute>To <persName>John A. Smith</persName>, <choice><abbr>Esq.</abbr><expan>Esquire</expan></choice> Clerk of the Circuit Court of the <placeName>District of Columbia</placeName>.</salute>
+                        <salute>Sir,</salute>
+                    </opener>
+                    
+                    <p><persName>Eliza Powers</persName> of <placeName>Montgomery County Md</placeName> having claim to the service or labor of the undersigned, and having refused or failed to file in your office the statement in writing or schedule provided for in the 9th section of the Act of Congress, entitled "An Act for the release of certain persons held to service or labor in the <placeName>District of Columbia</placeName>" approved <date when="1862-04-16">16th April 1862</date>.</p>
+                    <p>You will please file the annexed schedule in pursuance of an act supplementary to the above recited act approved <date when="1862-07-12">12th July 1862</date>. The undersigned resided in <placeName>Washington</placeName> before and at the time of the passage of said act of <date when="1862-04-16">16th April 1862</date> with her owners consent</p>
+                    <table>
+                        <row>
+                            <cell>Name</cell>
+                            <cell>Sex</cell>
+                            <cell>Age</cell>
+                            <cell>Description</cell>
+                        </row>
+                        <row>
+                            <cell><persName>Mary Ridout</persName></cell>
+                            <cell>female</cell>
+                            <cell>60 years</cell>
+                            <cell>Mulatto</cell>
+                        </row>
+                    </table>
+                    
+                    <closer>
+                        <signed>her X mark <persName>Mary Ridout</persName></signed><lb/>
+                        Witness<lb/>
+                        <signed><persName>Jno. M. Hanson</persName></signed>
+                    </closer>
+                </div2>
+                
+                <pb xml:id="leaf001v" facs="cww.01002.002.jpg"/>
+                
+                <div2 type="cover" subtype="handwritten">
+                    <div3 type="section">
+                        <ab>paid</ab>
+                        <ab><persName>Mary Ridout</persName></ab>
+</div3>                        
+                    <div3 type="section">    
+                    <ab>Schedule under amended act.</ab>
+                    </div3>
+                    <div3 type="section">
+                        <ab>Recorded in Manumission Record No. 2 folio 80</ab>
+                    </div3>
+                    <div3 type="section">
+                        <ab>Filed <date when="1862-09-10">10th Septr 1862</date>.</ab>
+                    </div3>
+                                        
+                    <div3 type="section">
+                        <p>The Commissioners satisfied on the testimony of <persName>Theodore Franks</persName> of the truth of the within statement, order the same to be so reported to the Clerk of the Circuit Court of the <placeName>District of Columbia</placeName> <date when="1862-09-10">Sept. 10. 1862</date></p>
+                        <closer>
+                            <signed><persName>Wm. R. Woodward</persName><lb/>
+                                Clerk to the Commissioners</signed>
+                        </closer>
+                    </div3>
+                    
+                    <div3 type="section">
+                        <ab><choice><abbr>Cert</abbr><expan>Certificate</expan></choice> given</ab>
+                    </div3>
+                </div2>
+            </div1>
+            
+            <!-- Evidence pertaining to the case begins here. -->
+            
+            <pb xml:id="leaf002r" facs="cww.01002.003.jpg"/>
+            <div1 type="evidence" corresp="#rg217" subtype="handwritten">
+                <dateline><date when="1862-09-10">Sept 10</date>.</dateline>
+                <div2 type="procedural">
+                    <ab><persName>Mary Rideout</persName></ab>
+                    <ab>Servant of <persName>Eliza Powers</persName></ab>
+                </div2>
+                
+                <div2 type="testimony">
+                    <ab><persName>Theodore Franks</persName> I know all the facts stated in the schedule to be true as therein stated</ab>
+                </div2>
+                
+                <div2 type="procedural">
+                    <ab>Certificate ordered</ab>
+                </div2>
+                
+                <pb xml:id="leaf002v" facs="cww.01002.004.jpg"/>
+                <div2 type="cover">
+                    <ab><persName>Mary Rideout</persName></ab>
+                    <ab><date when="1862-09-10">Sept 10</date>.</ab>
+                </div2>
+            </div1>            
+        </body>
+    </text>
+</TEI>
+                
+                
+                
+                
+                
+

@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e11046">
+        <teiHeader>
+                <fileDesc>
+                        <titleStmt>
+                                <title level="m" type="main">Dexter, Clark D.</title>
+                                <title level="m" type="sub">a machine readable transcription</title>
+                                <principal>Susan C. Lawrence</principal>
+                                <principal>Kenneth M. Price</principal>
+                                <principal>Kenneth J. Winkle</principal>
+                        </titleStmt>
+                        <editionStmt>
+                                <edition>
+                                        <date>2011</date>
+                                </edition>
+                        </editionStmt>
+                        <publicationStmt>
+                                <idno>med.d1e11046</idno>
+                                <authority>Civil War Washington</authority>
+                                <publisher>University of Nebraska–Lincoln</publisher>
+                                <distributor>
+                                        <name>Center for Digital Research in the Humanities</name>
+                                        <address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+                                </distributor>
+                                <date>2011</date>
+                                <availability>
+                                        <p>Copyright © 2011 by University of Nebraska–Lincoln, all
+                                                rights reserved. Redistribution or republication in
+                                                any medium, except as allowed under the Fair Use
+                                                provisions of U.S. copyright law, requires express
+                                                written consent from the editors and advance
+                                                notification of the publisher, the University of
+                                                Nebraska–Lincoln.</p>
+                                </availability>
+                        </publicationStmt>
+                        <notesStmt>
+                                <note type="project">The following are responsible for particular readings or for changes to this file, as noted: 
+                                        <persName xml:id="mb">Matthew Bosley</persName>
+                                        <persName xml:id="el">Elizabeth Lorang</persName>
+                                        <persName xml:id="sb">Stacey Berry</persName>
+                                        <persName xml:id="et">Elisabeth Tracey</persName>
+                                </note>
+                        </notesStmt>
+                        <sourceDesc>
+                                <bibl>
+                                        <title level="j">The Medical and Surgical History of the War of the Rebellion</title>
+                                        <pubPlace>Washington, DC</pubPlace>
+                                        <publisher>Government Printing Office</publisher>
+                                        <biblScope type="part">Part 3</biblScope>
+                                        <biblScope type="volume">Volume 1</biblScope>
+                                        <date when="1888">1888</date>
+                                        <biblScope type="page">772</biblScope>
+                                </bibl>
+                        </sourceDesc>
+                </fileDesc>
+                <encodingDesc>
+                        <classDecl>
+                                <taxonomy xml:id="medsurg">
+                                        <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+                                </taxonomy>
+                        </classDecl>
+                </encodingDesc>
+                <profileDesc>
+                        <textClass>
+                                <keywords scheme="#medsurg">
+                                        <term>diseases attributed to non-miasmatic exposures</term>
+                                        <term>diseases of the respiratory organs</term>
+                                        <term>pneumonia</term>
+                                        <term>post-mortem records</term> 
+                                        <term>lobar pneumonias</term>
+                                        <term>cases with peritonitis</term>	
+                                        <term>admitted as convalescent from typhoid fever</term>
+                                        <term>pain in upper chest on both sides, sonorous <choice><sic>ronchus</sic><corr>rhonchus</corr></choice> heard, both sides resonant</term>
+                                        <term><choice><orig>dulness</orig><reg>dullness</reg></choice> with subcrepitant r&#226;les</term>
+                                        <term>expectoration decidedly pneumonitic</term>
+                                        <term>bronchial respiration with <choice><orig>dulness</orig><reg>dullness</reg></choice> on percussion over entire lung</term>
+                                        <term>both lungs adherent to parietes</term>
+                                        <term>posterior upper lobe of lung consolidated and grayish-purple</term>
+                                        <term>upper lobe of lung hepatized red, lower lobe congested but not solidified</term>
+                                        <term>patches of atheroma in aorta</term>
+                                        <term>omentum contracted to right side, liver adherent to adjoining organs</term>
+                                        <term>knuckles of intestine united by soft exudation</term>
+                                        <term>dark-colored Peyer's patches below ileoc&#230;cal valve</term>
+                                        <term>solitary follicles numerous and prominent in mucous membrane of c&#230;cum</term>
+                                </keywords>
+                        </textClass>
+                </profileDesc>
+                <revisionDesc>
+                        <change who="#mb" when="2013-04-29">additional proofing of transcription and encoding, edited and added keyword terms</change>
+                        <change who="#mb" when="2013-03-07">additional proofing of transcription and encoding, edited and added keyword terms</change>
+                        <change who="#mb" when="2011-07-05">additional proofing of transcription and encoding</change>
+                        <change who="#el" when="2011-05-11">case text extracted and transformed from larger file</change>
+                        <change who="#sb" when="2011-02-23">Encoding and Proofing</change>
+                        <change who="#et" when="2009-12-01">Initial Checking OCR Text to PDF file,</change>
+                </revisionDesc>
+        </teiHeader>
+        <text>
+                <body>                        
+                        <p> <hi rend="initialcap">C</hi>ASE 97.&#8212;<name type="person">Private Clark D. Dexter</name>, <name type="organization">Co. L, 10th N. Y. Cav.</name>; age 21; was admitted <date type="admit" when="1863-02-19">Feb. 19, 1863</date>, as a convalescent from typhoid fever. He
+                                        improved and in a short time had entirely recovered.  On
+                                        March 21 he complained of pain in the upper part of the
+                                        chest on both sides and of some cough, but no dyspn&#339;a;
+                                        sonorous <choice><sic>ronchus</sic><corr>rhonchus</corr></choice> was heard, but both sides were resonant.  Two days later, having been treated in the meantime with dry
+                                        cups, blue-pill and ipecacuanha, the pain and cough had
+                                        increased, the expectoration was slightly tinged with blood,
+                                        and there was <choice><orig>dulness</orig><reg>dullness</reg></choice> with subcrepitant r&#226;les over the
+                                        upper part of the left side.  He suffered much from pain
+                                        during the night of the 24th and did not sleep; next morning
+                                        the expectoration was decidedly pneumonitic. Calomel,
+                                        muriate of ammonia and Dover's powder were given every
+                                        three hours; a blister was applied over the left lung and
+                                        the whole chest was covered with an oil-silk jacket.  On the
+                                        26th the abdomen was so painful and tender that complaint
+                                        was made of the weight of the bedclothes.  On the 28th there
+                                        was bronchial respiration with <choice><orig>dulness</orig><reg>dullness</reg></choice> on percussion over
+                                        the entire left lung. Carbonate of ammonia, syrup of squill
+                                        and camphorated tincture of opium were given, with beef-tea
+                                        and milk-punch.  Next day the upper part of the right lung
+                                        became involved; respiration was hurried and laborious.  He
+                                        died on <date type="death" when="1863-03-31">the 31st</date>.   <hi rend="italic">Post-mortem</hi> examination: Body somewhat
+                                        emaciated. The brain was healthy. The right lung,
+                                        twenty-five ounces, was partly adherent; the posterior part
+                                        of its upper lobe was consolidated and grayish-purple; the
+                                        remaining lobes were healthy. The left pleural sac contained
+                                        nine ounces of serum; the lung, twenty-five ounces, was
+                                        adherent to the parietes by thick, tough, recent lymph; its
+                                        upper lobe was hepatized red, the lower lobe highly
+                                        congested but not solidified. The right cavities of the
+                                        heart were filled with fibrinous and mixed clots which
+                                        extended into the pulmonary artery, and there were
+                                        some patches of atheroma in the aorta. The omentum was
+                                        contracted and drawn to the right side; the knuckles of
+                                        intestine were united by a soft exudation. The liver,
+                                        seventy-three ounces, was rather soft and adherent to
+                                        adjoining organs in several places. The spleen, seven
+                                        ounces and a half, was soft; the pancreas normal; the
+                                        kidneys pale; the suprarenal capsules dark-colored; the
+                                        mucous membrane of the bladder was injected and presented a
+                                        number of black-bordered brown spots about a quarter of an
+                                        inch in diameter. The mucous membrane of the stomach and
+                                        duodenum was gray and not injected; in the rest of the
+                                        small intestine the mucous membrane was of a light
+                                        red-lead color; Peyer's patches were healthy to within four
+                                        feet of the ileoc&#230;cal valve, below this point they were
+                                        dark-colored but not elevated; the solitary glands were not
+                                        visible, and there was no softening of the mucous membrane;
+                                        the small intestine was distended with gas. The mucous
+                                        membrane of the c&#230;cum was gray and the solitary follicles
+                                        numerous and prominent; the transverse colon was
+                                        contracted; the rest of the large intestine normal.&#8212;<hi rend="italic"><name type="person" key="245">Ass't Surgeon Harrison Allen</name>, <name type="organization" key="190">U. S. A.</name>, <name type="hospital" key="176">Lincoln Hospital</name>, Washington, D. C.</hi></p>                        
+                </body>
+        </text>
+</TEI>

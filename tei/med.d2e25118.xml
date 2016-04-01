@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d2e25118">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Mansfield, D. F.</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+    <idno>med.d2e25118</idno>
+    <authority>Civil War Washington</authority>
+    <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor><name>Center for Digital Research in the
+     Humanities</name><address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address></distributor>
+    <date>2011</date>
+    <availability>
+     <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+      republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+      law, requires express written consent from the editors and advance notification of the
+      publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+     <persName xml:id="mb">Matthew Bosley</persName>
+     <persName xml:id="el">Elizabeth Lorang</persName>
+     <persName xml:id="sb">Stacey Berry</persName>
+     <persName xml:id="et">Elisabeth Tracey</persName>
+     <persName xml:id="ss">Sarah Synovec</persName>     
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title level="j">The Medical and Surgical History of the War of the Rebellion.
+      (1861-65.)</title><pubPlace>Washington, DC</pubPlace><publisher>Government Printing
+      Office</publisher><biblScope type="part">Part 3</biblScope><biblScope type="volume">Volume
+      2</biblScope><date when="1883">1883</date><biblScope type="page">651</biblScope></bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+     <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <keywords scheme="#medsurg">
+     <term>miscellaneous injuries</term> 
+     <term>simple and compound fractures</term>
+     <term>fracture of the femur from a fall under a horse</term>
+     <term>simple fracture of the femur at the middle third</term> 
+     <term>deformity of thigh, injured parts not properly adjusted, fractured parts firmly united</term> 
+     <term>horse fell upon man</term> 
+     <term>operation, refractured limb</term>
+     <term>limb one and a half inches shorter than other</term>
+     <term>displacement of patella downward, weakness in leg</term> 
+     <term>died of consumption</term>      
+     <term>general anesthesia, ether</term>
+     <term>general anesthesia, chloroform</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change who="#mb" when="2012-06-20">additional proofing of transcription and encoding, identified keyword terms</change>   
+   <change who="#el" when="2011-05-11">case text extracted and transformed from larger file</change>
+   <change who="#sb" when="2011-06-04">Enrich Encoding, Edit and validate</change>
+   <change who="#sb" when="2011-01-28">Validated File</change>
+   <change who="#ss" when="2008-09-22">initial checking of OCR text; encoded P5 Encoding</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>   
+    <p><hi rend="initialcap">C</hi>ASE 970.&#8212;<hi rend="italic">Fracture of the femur from a
+      fall under a horse.</hi>&#8212;<name type="person" key="1427">Sergeant D. F. Mansfield</name>,
+      <name type="organization" key="538">Co. F, 91st Pennsylvania</name>, aged 37 years, was
+     admitted to <name type="hospital" key="173">Harewood Hospital</name>, Washington, <date
+      type="admit" when="1865-01-18">January 18, 1865</date>, suffering from great deformity of the
+     right thigh, the result of a simple fracture of the femur at the middle third, the injured
+     parts not having been properly adjusted. The injury occurred near the <name type="place">Weldon Railroad</name> <date
+      type="injury" when="1864-11-29">November 29, 1864</date>, by a horse falling upon the man. At
+     the time of admission the deformed limb was of no use whatever to the patient and locomotion
+     was impeded, although the fractured parts were firmly united. The constitutional state of the
+     patient otherwise was good. On <date type="operation" when="1865-01-28">January 28th</date> <name type="person" key="158">Surgeon R. B.
+      Bontecou</name>, <name type="organization" key="132">U. S. V.</name>, refractured the limb,
+     after which a straight splint and counter-extension were applied. An an&#230;sthetic consisting
+     of chloroform and sulphuric ether was used. The patient did well after the operation, the parts
+     uniting symmetrically. On March 13th the splint and extension were removed, when the fractured
+     parts were found to be firmly united and the limb was placed in a plastic bandage. The patient
+     continued to do well. On April 6th the plastic bandage was removed and the patient was allowed
+     to be up on crutches, the fractured limb being one and a half inches shorter than the other,
+     but firm and of perfect use. The history was reported by <name type="person" key="158">the operator</name>. The patient was
+     discharged from service <date type="servicedischarge" when="1865-06-24">June 24, 1865</date>, and
+     pensioned.  <name type="person" key="xx">Examining Surgeon O. I. Beach</name>, of <name
+      type="place" key="xx">Parkerville, Kansas</name>, <date type="pension" when="1873-05-19">May 19, 1873</date>, certified to the injury resulting in shortening of the
+     limb, and added that there is "displacement of the patella downward, causing much weakness in
+     the leg; muscles placid. Complains of constant numbness and occasional severe pain in the leg,
+     restricting locomotion," etc.  The pensioner died of consumption <date type="death"
+      when="1875-04-17">April 17, 1875</date>.</p>
+   
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e292">
+        <teiHeader>
+                <fileDesc>
+                        <titleStmt>
+                                <title level="m" type="main">Commars, Christopher</title>
+                                <title level="m" type="sub">a machine readable transcription</title>
+                                <principal>Susan C. Lawrence</principal>
+                                <principal>Kenneth M. Price</principal>
+                                <principal>Kenneth J. Winkle</principal>
+                        </titleStmt>
+                        <editionStmt>
+                                <edition>
+                                        <date>2011</date>
+                                </edition>
+                        </editionStmt>
+                        <publicationStmt>
+                                <idno>med.d1e292</idno>
+                                <authority>Civil War Washington</authority>
+                                <publisher>University of Nebraska–Lincoln</publisher>
+                                <distributor>
+                                        <name>Center for Digital Research in the Humanities</name>
+                                        <address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+                                </distributor>
+                                <date>2011</date>
+                                <availability>
+                                        <p>Copyright © 2011 by University of Nebraska–Lincoln, all
+                                                rights reserved. Redistribution or republication in
+                                                any medium, except as allowed under the Fair Use
+                                                provisions of U.S. copyright law, requires express
+                                                written consent from the editors and advance
+                                                notification of the publisher, the University of
+                                                Nebraska–Lincoln.</p>
+                                </availability>
+                        </publicationStmt>
+                        <notesStmt>
+                                <note type="project">The following are responsible for particular
+                                        readings or for changes to this file, as noted: 
+                                        <persName xml:id="mb">Matthew Bosley</persName>
+                                        <persName xml:id="el">Elizabeth Lorang</persName>
+                                        <persName xml:id="sb">Stacey Berry</persName>
+                                        <persName xml:id="et">Elisabeth Tracey</persName>
+                                </note>
+                        </notesStmt>
+                        <sourceDesc>
+                                <bibl>
+                                        <title level="j">The Medical and Surgical History of the War
+                                                of the Rebellion</title>
+                                        <pubPlace>Washington, DC</pubPlace>
+                                        <publisher>Government Printing Office</publisher>
+                                        <biblScope type="part">Part 3</biblScope>
+                                        <biblScope type="volume">Volume 1</biblScope>
+                                        <date when="1888">1888</date>
+                                        <biblScope type="page">117</biblScope>
+                                </bibl>
+                        </sourceDesc>
+                </fileDesc>
+                <encodingDesc>
+                        <classDecl>
+                                <taxonomy xml:id="medsurg">
+                                        <bibl>Medical and Surgical History of the War of the
+                                                Rebellion</bibl>
+                                </taxonomy>
+                        </classDecl>
+                </encodingDesc>
+                <profileDesc>
+                        <textClass>
+                                <keywords scheme="#medsurg">
+                                        <term>malarial disease</term>
+                                        <term>clinical records</term>
+                                        <term>remittent fever</term>
+                                </keywords>
+                        </textClass>
+                </profileDesc>
+                <revisionDesc>
+                        <change who="#mb" when="2011-10-20">additional proofing of transcription and encoding</change>
+                        <change who="#mb" when="2011-05-25">additional proofing of transcription and encoding</change>                        
+                        <change who="#el" when="2011-05-11">case text extracted and transformed from
+                                larger file</change>
+                        <change who="#sb" when="2011-02-23">Encoding and Proofing</change>
+                        <change who="#et" when="2009-12-01">Initial Checking OCR Text to PDF file,
+                        </change>
+                </revisionDesc>
+        </teiHeader>
+        <text>
+                <body xml:id="ch3.sc2.0042">
+                        
+                                <p><hi rend="italic">Remittent ending fatally.</hi>&#8212;<hi
+                                                rend="initialcap">C</hi>ASE 42.&#8212;<name
+                                                type="person" key="845">Private Christopher
+                                                Commars</name>, <name type="organization" key="109"
+                                                >69th Co. 1st Batt. V. R. C.</name>; age 22; was
+                                        admitted <date type="admit" when="1863-11-11">November 11,
+                                                1863</date>, with remittent fever. He said he had
+                                        been sick for six days, but had continued on duty although
+                                        he suffered from a chill on <date when="1863-11-10">the 10th</date>. On <date when="1863-11-11">the 11th</date> he had a
+                                        severe chill and was seen by the medical officer of the day,
+                                        who ordered him into the ward. Two grains of quinine were
+                                        given three times a day. On <date when="1863-11-12">the 12th</date> he had vomiting, and
+                                        pain and tenderness in the left side of the chest. The
+                                        quinine was omitted and three grains of calomel ordered
+                                        every four hours until four powders had been taken, with a
+                                        Seidlitz powder after the last dose. The bowels were moved
+                                        on <date when="1863-11-13">the 13th</date>, but the vomiting continued until death on 
+                                                <date type="death" when="1863-11-15">the 15th</date>.
+                                        During his sickness the patient expressed no anxiety as to
+                                        its result; he was confident that he would be able to return
+                                        to duty in a few days.&#8212;<hi rend="italic"><name
+                                                  type="person" key="246">Act. Ass't Surg. Henry M.
+                                                  Dean</name>, <name type="organization" key="190">U. S. A.</name>, <name type="hospital" key="176">Lincoln Hospital</name>, Washington, D. C.</hi></p>
+                        
+                </body>
+        </text>
+</TEI>

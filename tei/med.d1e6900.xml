@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e6900">
+        <teiHeader>
+                <fileDesc>
+                        <titleStmt>
+                                <title level="m" type="main">Elmer, Eber</title>
+                                <title level="m" type="sub">a machine readable transcription</title>
+                                <principal>Susan C. Lawrence</principal>
+                                <principal>Kenneth M. Price</principal>
+                                <principal>Kenneth J. Winkle</principal>
+                        </titleStmt>
+                        <editionStmt>
+                                <edition>
+                                        <date>2011</date>
+                                </edition>
+                        </editionStmt>
+                        <publicationStmt>
+                                <idno>med.d1e6900</idno>
+                                <authority>Civil War Washington</authority>
+                                <publisher>University of Nebraska–Lincoln</publisher>
+                                <distributor>
+                                        <name>Center for Digital Research in the Humanities</name>
+                                        <address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+                                </distributor>
+                                <date>2011</date>
+                                <availability>
+                                        <p>Copyright © 2011 by University of Nebraska–Lincoln, all
+                                                rights reserved. Redistribution or republication in
+                                                any medium, except as allowed under the Fair Use
+                                                provisions of U.S. copyright law, requires express
+                                                written consent from the editors and advance
+                                                notification of the publisher, the University of
+                                                Nebraska–Lincoln.</p>
+                                </availability>
+                        </publicationStmt>
+                        <notesStmt>
+                                <note type="project">The following are responsible for particular
+                                        readings or for changes to this file, as noted: 
+                                        <persName xml:id="mb">Matthew Bosley</persName>
+                                        <persName xml:id="el">Elizabeth Lorang</persName>
+                                        <persName xml:id="sb">Stacey Berry</persName>
+                                        <persName xml:id="et">Elisabeth Tracey</persName>
+                                </note>
+                        </notesStmt>
+                        <sourceDesc>
+                                <bibl>
+                                        <title level="j">The Medical and Surgical History of the War
+                                                of the Rebellion</title>
+                                        <pubPlace>Washington, DC</pubPlace>
+                                        <publisher>Government Printing Office</publisher>
+                                        <biblScope type="part">Part 3</biblScope>
+                                        <biblScope type="volume">Volume 1</biblScope>
+                                        <date when="1888">1888</date>
+                                        <biblScope type="page">346</biblScope>
+                                </bibl>
+                        </sourceDesc>
+                </fileDesc>
+                <encodingDesc>
+                        <classDecl>
+                                <taxonomy xml:id="medsurg">
+                                        <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+                                </taxonomy>
+                        </classDecl>
+                </encodingDesc>
+                <profileDesc>
+                        <textClass>
+                                <keywords scheme="#medsurg">
+                                        <term>post-mortem records</term>
+                                        <term>continued fevers</term>
+                                        <term>typho-malarial fever</term>
+                                        <term>Peyer's patches ulcerated, ileum or small intestine only affected</term>
+                                        <term>lower lobe of left and upper and lower lobes of right lung hepatized</term>
+                                        <term>Peyer's patches thickened, especially near ileo-c&#230;cal valve</term>
+                                        <term>mesenteric glands dark and enlarged</term>
+                                        <term>small ulcer near ileo-c&#230;cal valve</term>                                       
+                                </keywords>
+                        </textClass>
+                </profileDesc>
+                <revisionDesc>
+                        <change who="#mb" when="2013-03-18">additional proofing of transcription and encoding, edited and added keyword terms</change>
+                        <change who="#mb" when="2011-10-06">additional proofing of transcription and encoding</change>
+                        <change who="#mb" when="2011-06-16">additional proofing of transcription and encoding</change>
+                        <change who="#el" when="2011-05-11">case text extracted and transformed from larger file</change>
+                        <change who="#sb" when="2011-02-23">Encoding and Proofing</change>
+                        <change who="#et" when="2009-12-01">Initial Checking OCR Text to PDF file,
+                        </change>
+                </revisionDesc>
+        </teiHeader>
+        <text>
+                <body xml:id="ch4.sc4.1.00062">                        
+                                <p><hi rend="initialcap">C</hi>ASE 62.&#8212;<name type="person"
+                                                key="635">Private Eber Elmer</name>, <name
+                                                type="organization" key="641">Co. E, 186th N. Y.</name>; age 17; admitted <date type="admit"
+                                                when="1864-10-21">Oct. 21, 1864</date>.  Diagnosis&#8212;typho-malarial fever.  Died <date
+                                                type="death" when="1864-10-24">24th</date>.  <hi
+                                                        rend="italic">Post-mortem</hi> examination <date type="autopsy" when="1864-10-25">thirty
+                                        hours after death</date>: Body muscular and well developed;
+                                        sudamina on chest and abdomen; sordes on teeth; slight
+                                        suggillation posteriorly. Lungs congested; lower lobe of
+                                        left and upper and lower lobes of right lung hepatized
+                                        posteriorly; base of left lung covered with recent lymph;
+                                        each pleural cavity containing two ounces of bloody serum;
+                                        bronchi congested and filled with frothy mucus; bronchial
+                                        glands normal. Heart healthy, small clots in the left and a
+                                        large clot in the right cavities. Stomach filled with air
+                                        and dark grumous blood; small intestine congested and
+                                        inflamed; Peyer's patches much thickened, especially near
+                                        ileo-c&#230;cal valve, where there was one small ulcer;
+                                        mesenteric glands dark and enlarged; colon and rectum
+                                        healthy. Liver large, healthy; gall-bladder containing six
+                                        drachms of dark bile; spleen enlarged, softened, quite dark
+                                        in color; pancreas, kidneys and bladder healthy.&#8212;<hi rend="italic"><name
+                                                  type="hospital" key="187">Second Division
+                                                  Hospital</name>, Alexandria, Va.</hi>    </p>                        
+                </body>
+        </text>
+</TEI>

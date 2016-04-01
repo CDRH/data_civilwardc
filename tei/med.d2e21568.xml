@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d2e21568">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Vansiclen, S.</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+    <idno>med.d2e21568</idno>
+    <authority>Civil War Washington</authority>
+    <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor><name>Center for Digital Research in the
+     Humanities</name><address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address></distributor>
+    <date>2011</date>
+    <availability>
+     <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+      republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+      law, requires express written consent from the editors and advance notification of the
+      publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+     <persName xml:id="mb">Matthew Bosley</persName>     
+     <persName xml:id="el">Elizabeth Lorang</persName>
+     <persName xml:id="sb">Stacey Berry</persName>
+     <persName xml:id="et">Elisabeth Tracey</persName>
+     <persName xml:id="ss">Sarah Synovec</persName>
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title level="j">The Medical and Surgical History of the War of the Rebellion.
+      (1861-65.)</title><pubPlace>Washington, DC</pubPlace><publisher>Government Printing
+      Office</publisher><biblScope type="part">Part 3</biblScope><biblScope type="volume">Volume
+      2</biblScope><date when="1883">1883</date><biblScope type="page">580</biblScope></bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+     <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <keywords scheme="#medsurg">
+     <term>wounds and injuries of the lower extremities</term> 
+     <term>wounds and operations at the ankle joint</term>
+     <term>shot fractures of the bones of the ankle joint</term>
+     <term>shot fractures of the bones of the ankle joint treated by conservation</term> 
+     <term>shot wound of ankle</term> 
+     <term>ball penetrated outer surface of ankle, fractured <choice><orig>astragalus</orig><reg>talus</reg></choice> and tibia</term>     
+     <term>ankle joint partially anchylosed, leg one-half inch shortened</term>
+     <term>general anesthesia, ether</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change who="#mb" when="2012-06-12">additional proofing of transcription and encoding, identified keyword terms</change>
+   <change who="#el" when="2011-05-11">case text extracted and transformed from larger file</change>
+   <change who="#sb" when="2011-06-04">Enrich Encoding, Edit and validate</change>
+   <change who="#sb" when="2011-01-28">Validated File</change>
+   <change who="#ss" when="2008-09-22">initial checking of OCR text; encoded P5 Encoding</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>   
+    <p><hi rend="initialcap">C</hi>ASE 819.&#8212;<name type="person" key="1360">Private S.
+      Vansiclen</name>, <name type="organization" key="222">Co. D, 9th New York State
+     Militia</name>, aged 20 years, was wounded at <name type="BATTLE" key="4">Fredericksburg</name>, <date type="injury" when="1862-12-13">December 13, 1862</date>. <name
+      type="person" key="xx">Surgeon C. J. Nordquist</name>, <name type="organization" key="431">83d
+      New York</name>, reported his admission to the field hospital of the 2d division,First Corps, with "shot wound of left ankle."  <name
+       type="person" key="184">Acting Assistant Surgeon L. Dorsey</name> contributed the following
+     description of the injury: "A rifle ball penetrated the ankle, outer surface, fracturing the
+     <choice><orig>astragalus</orig><reg>talus</reg></choice> and tibia. The man was admitted to <name type="hospital" key="173">Harewood Hospital</name>, Washington, <date type="transfer" when="1862-12-23">ten days after being wounded</date>. On <date type="operation" when="1862-12-27">December 27th</date> he was etherized, when the broken bones were removed from the tibia and <choice><orig>astragalus</orig><reg>talus</reg></choice>. During the
+     progress of the case it became necessary to make several counter openings. Simple dressings
+     were applied and stimulants and tonics were freely given for a considerable length of time. In
+     May, 1863, the wound had entirely healed and the patient was gradually recovering the use of
+     the ankle joint. On <date type="servicedischarge" when="1863-06-04">June 4, 1863</date>, he was
+     discharged from service, having regained considerable motion of the joint." He subsequently
+     became a pensioner and entered the <name type="place" key="xx">National Military Home
+      in Ohio</name>, where he was examined at successive intervals by the <name type="organization"
+      key="xx">Dayton Pension Board</name>, who certified to the ball having passed through the
+     ankle, and described the foot and ankle as being in very good condition, but the joint as
+     partially anchylosed and about one-half inch shortened. The pensioner was paid <date type="pension" when="1880-12-04">December 4, 1880</date>. </p>   
+  </body>
+ </text>
+</TEI>

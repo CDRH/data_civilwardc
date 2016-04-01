@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e7642">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Garland, James W.</title>
+                <title level="m" type="sub">a machine readable transcription</title>
+                <principal>Susan C. Lawrence</principal>
+                <principal>Kenneth M. Price</principal>
+                <principal>Kenneth J. Winkle</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2011</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <idno>med.d1e7642</idno>
+                <authority>Civil War Washington</authority>
+                <publisher>University of Nebraska–Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+                </distributor>
+                <date>2011</date>
+                <availability>
+                    <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved.
+                        Redistribution or republication in any medium, except as allowed under the
+                        Fair Use provisions of U.S. copyright law, requires express written consent
+                        from the editors and advance notification of the publisher, the University
+                        of Nebraska–Lincoln.</p>
+                </availability>
+            </publicationStmt>
+            <notesStmt>
+                <note type="project">The following are responsible for particular readings or for changes to this file, as noted: 
+                    <persName xml:id="mb">Matthew Bosley</persName>
+                    <persName xml:id="el">Elizabeth Lorang</persName>
+                    <persName xml:id="sb">Stacey Berry</persName>
+                    <persName xml:id="et">Elisabeth Tracey</persName>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>The Medical and Surgical History of the War of the Rebellion. (1861&#8211;65.)</title>
+                    <editor role="compiler">Surgeon General Joseph K. Barnes, United States Army</editor>
+                    <pubPlace>Washington, D.C.</pubPlace>
+                    <publisher>Government Printing Office</publisher>
+                    <biblScope type="part">Part 1</biblScope>
+                    <biblScope type="volume">Volume 2</biblScope>
+                    <date when="1870">1870</date>
+                    <biblScope type="page">113-114</biblScope>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <classDecl>
+                <taxonomy xml:id="medsurg">
+                    <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme="#medsurg">                    
+                    <term>on special wounds and injuries of the head</term>
+                    <term>wounds and injuries of the head</term>
+                    <term>gunshot wounds</term>
+                    <term>gunshot contusions of the cranial bones</term> 
+                    <term>contusion of the skull without fracture</term>
+                    <term>paralysis</term>
+                    <term>fragment of shell grazed top of head on median line</term>
+                    <term>severe wound of scalp, contused cranium</term>
+                    <term>unconscious ten minutes, lost control of lower extremities, sensation impaired</term>
+                    <term>spasms, temporary partial paralysis of upper extremities</term>
+                    <term>severe headache, power of motion of leg impaired</term>
+                    <term>slight paralysis of leg</term>                    
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change who="#mb" when="2013-06-07">additional proofing of transcription and encoding, edited and added keyword terms</change>
+            <change who="#mb" when="2011-10-05">additional proofing of transcription and encoding</change>
+            <change who="#mb" when="2011-06-20">additional proofing of transcription and encoding</change>
+            <change who="#el" when="2011-11-05">case text extracted and transformed from larger file</change>
+            <change who="#sb" when="2011-02-09">enriched encoding</change>
+            <change who="#sb" when="2011-01-28">validated file</change>
+            <change who="#et" when="2009-08-01">encoded</change>
+            <change who="#sb" when="2008-09-22">initial checking of OCR text against PDF; encoded</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body xml:id="ch1.sc3.0100">            
+                <p><hi rend="initialcap">G</hi>ARLAND, <hi rend="initialcap">J</hi>AMES <hi
+                        rend="initialcap">W</hi>., Corporal, <name type="organization" key="595">Co.
+                            G, 5th Wisconsin Volunteers</name>, aged 23 years, was wounded at the battle of <name
+                        type="BATTLE" key="263">Cold Harbor, Virginia</name>, <date
+                        type="injury" when="1864-06-01">June 1st, 1864</date>, by a fragment of
+                    shell, which grazed the top of the head, on the median line, about five and a
+                    half inches from the margin of the hair on the forehead, inflicting a severe
+                    wound of the scalp, about two inches in length by one inch in width, and
+                    contusing the cranium. He was unconscious for about ten minutes, the control of
+                    the lower extremities was lost, and sensation was impaired. Spasms and temporary
+                    partial paralysis of the upper extremities supervened.  On <date type="admit"
+                        when="1864-06-06">June 6th</date>, he was admitted to <name type="hospital"
+                            key="186">First Division Hospital</name> at <name type="place" key="#Alexandria">Alexandria, Virginia</name>.  On <date
+                        type="transfer" when="1864-06-28">June 28th</date>, he was transferred to
+                    <name type="hospital">McClellan Hospital, Philadelphia</name>, and thence, on <date type="transfer"
+                        when="1864-07-06">July 6th</date>, to <name type="hospital">Turner's Lane Hospital</name>. At the latter
+                    date, the patient suffered from severe headache, and the power of motion of the
+                    left leg was still impaired, though his general health was good.  On <date type="operation" when="1864-07-20">July 20th</date>, a small piece of bone
+                    exfoliated, and was removed.  Patient was gradually regaining the use of left
+                    leg. On November 15th, the wound was reported as being healed. During the
+                    treatment, he had three paroxysms of intermittent fever. The patient was
+                    transferred to the <name type="organization" key="109">Veteran Reserve
+                        Corps</name> on <date type="duty" when="1865-03-17">March 17th,
+                            1865</date>.  The case is reported by <name type="person" key="xx">Surgeon Robert A. Christian</name>, <name type="organization" key="132">U. S. V.</name>  He was discharged from service, <date type="servicedischarge" when="1865-09-26">September 26th, 1865</date>.  In <date type="pension" when="1866">1866</date>, <name
+                        type="person" key="430">Pension Examining Surgeon J. H. Gallagher</name>
+                    reported that he had slight paralysis of the left leg, and headache and
+                    faintness on exposure to the sun. Any excitement or study aggravated these
+                    symptoms. The examiner regarded these symptoms as likely to increase in
+                    severity. </p>            
+        </body>
+    </text>
+</TEI>

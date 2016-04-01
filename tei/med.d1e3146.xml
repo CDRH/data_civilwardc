@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e3146">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Gaslein, Adam</title>
+                <title level="m" type="sub">a machine readable transcription</title>
+                <principal>Susan C. Lawrence</principal>
+                <principal>Kenneth M. Price</principal>
+                <principal>Kenneth J. Winkle</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2011</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <idno>med.d1e3146</idno>
+                <authority>Civil War Washington</authority>
+                <publisher>University of Nebraska–Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+                </distributor>
+                <date>2011</date>
+                <availability>
+                    <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved.
+                        Redistribution or republication in any medium, except as allowed under the
+                        Fair Use provisions of U.S. copyright law, requires express written consent
+                        from the editors and advance notification of the publisher, the University
+                        of Nebraska–Lincoln.</p>
+                </availability>
+            </publicationStmt>
+            <notesStmt>
+                <note type="project">The following are responsible for particular readings or for changes to this file, as noted: 
+                    <persName xml:id="mb">Matthew Bosley</persName>
+                    <persName xml:id="el">Elizabeth Lorang</persName>
+                    <persName xml:id="sb">Stacey Berry</persName>
+                    <persName xml:id="et">Elisabeth Tracey</persName>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>The Medical and Surgical History of the War of the Rebellion. (1861&#8211;65.)</title>
+                    <editor role="compiler">Surgeon General Joseph K.Barnes, United States Army</editor>
+                    <pubPlace>Washington, D.C.</pubPlace>
+                    <publisher>Government Printing Office</publisher>
+                    <biblScope type="part">Part 1</biblScope>
+                    <biblScope type="volume">Volume 2</biblScope>
+                    <date when="1870">1870</date>
+                    <biblScope type="page">51</biblScope>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <classDecl>
+                <taxonomy xml:id="medsurg">
+                    <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme="#medsurg">
+                    <term>on special wounds and injuries of the head</term>
+                    <term>wounds and injuries of the head</term>
+                    <term>miscellaneous injuries of the head</term>
+                    <term>blows</term> 
+                    <term>fractures of the skull produced by stones, bricks, and similar missiles</term>
+                    <term>blow from a stone</term>
+                    <term>protracted convalescence, recovered perfectly</term>                                 
+                    <term>simple fracture of vault of cranium</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change who="#mb" when="2013-05-16">additional proofing of transcription and encoding, edited and added keyword terms</change>
+            <change who="#mb" when="2011-10-11">additional proofing of transcription and encoding</change>
+            <change who="#mb" when="2011-06-06">additional proofing of transcription and encoding</change>
+            <change who="#el" when="2011-11-05">case text extracted and transformed from larger file</change>
+            <change who="#sb" when="2011-02-09">enriched encoding</change>
+            <change who="#sb" when="2011-01-28">validated file</change>
+            <change who="#et" when="2009-08-01">encoded</change>
+            <change who="#sb" when="2008-09-22">initial checking of OCR text against PDF; encoded</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body xml:id="ch1.sc2.0013">            
+            <p><hi rend="initialcap">C</hi>ASE.&#8212;<name type="person" key="125">Corporal Adam Gaslein</name>, <name type="organization" key="134">Co. B, 6th
+                        Pennsylvania Cavalry</name>, had a simple fracture of the vault of the
+                    cranium, in <date type="injury" when="1863-04">April, 1863</date>, caused by a
+                    blow from a stone. He was admitted to <name type="hospital" key="157">Columbian
+                        Hospital</name>, Washington, on <date type="admit" when="1863-04-04">April
+                        4th, 1863</date>.  He had a very protracted convalescence, and finally
+                    recovered perfectly, and returned to duty, <date type="duty" when="1864-04-12">April 12th, 1864</date>.  <name type="person" key="126">Surgeon T. R.
+                        Crosby</name>, <name type="organization" key="132">U. S. V.</name>, reports
+                    the case. </p>            
+        </body>
+    </text>
+</TEI>

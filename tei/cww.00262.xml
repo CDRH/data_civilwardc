@@ -1,0 +1,734 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="cww.00262">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Petition of Charles Hume and Anna M. Hume, 16 May
+                    1862</title>
+                <title level="m" type="sub">a machine readable transcription</title>
+                <principal>Susan C. Lawrence</principal>
+                <principal>Kenneth M. Price</principal>
+                <principal>Kenneth J. Winkle</principal>
+                <respStmt>
+                    <resp>transcription and encoding</resp>
+                    <name xml:id="kw">Katherine Walter</name>
+                    <name xml:id="el">Elizabeth Lorang</name>
+                    <name xml:id="rr">Rhiannon Root</name>
+                    <name xml:id="rv">Robert Voss</name>
+                    <name xml:id="jc">Janel Cayer</name>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2013</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <idno>cww.00262</idno>
+                <distributor>Civil War Washington</distributor>
+                <publisher>University of Nebraska–Lincoln</publisher>
+                <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>P.O. Box 884100</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+            </address>
+                <date>2013</date>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+                        <p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike
+                            3.0 Unported License
+                            (http://creativecommons.org/licenses/by-nc-sa/3.0/). Derivatives must be
+                            credited to Civil War Washington, made available non-commercially, and
+                            distributed under the same terms. Requests for permission for commercial
+                            publication or other use should be emailed to the project team.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Petition of Charles Hume and Anna M. Hume, 16 May 1862</title>
+                    <date when="1862-05-16">May 16, 1862</date>
+                    <idno>Microcopy 520, Reel 3</idno>
+                    <orgName>National Archives and Records Administration</orgName>
+                    <relatedItem type="original">
+                        <bibl>
+                            <title>Petition of Charles Hume and Anna M. Hume, 16 May 1862</title>
+                            <date when="1862-05-16">May 16, 1862</date>
+                            <idno>Record Group 217.6.5</idno>
+                            <orgName>Records of the Accounting Officers of the Department of the
+                                Treasury, 1775&#8211;1978, National Archives and Records
+                                Administration</orgName>
+                            <note type="project">Within the National Archives' Archival Description
+                                Catalog, see ARC Identifier 4644616 / MLR Number A1 347
+                                (http://arcweb.archives.gov).</note>
+                        </bibl>
+                    </relatedItem>
+                    <note type="project">Our transcription is based on a digital image of a
+                        microfilm copy of the original.</note>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <particDesc>
+                <person role="petitioner">
+                    <persName>Charles Hume</persName>
+                </person>
+                <person role="petitioner">
+                    <persName>Anna M. Hume</persName>
+                </person>
+                <person role="jp">
+                    <persName>John C. Thomas</persName>
+                </person>
+                <person role="jp">
+                    <persName>F. S. Myer</persName>
+                </person>
+                <person role="jp">
+                    <persName>Ambrose M. Irving</persName>
+                </person>
+                <person role="jp">
+                    <persName>Francis I. Murphey</persName>
+                </person>
+            </particDesc>
+        </profileDesc>
+        <revisionDesc>
+            <change when="2013-01-20" who="#jc">revised schema declaration</change>
+            <change when="2012-04-12" who="#jc">added petitioner, Charles Hume, to tei
+                header</change>
+            <change when="2012-04-07" who="#jc">blessed</change>
+            <change when="2012-04-04" who="#kw">blessed</change>
+            <change when="2012-02-15" who="#el">automated checking across files for extra spaces in
+                elements and other encoding inconsistencies and for regular transcription
+                errors</change>
+            <change when="2012-02-14" who="#el">updated tei header; fixed values for @facs as
+                necessary</change>
+            <change when="2011-09-19" who="#jc">checked</change>
+            <change when="2011-05-23" who="#rr">checked</change>
+            <change when="2010-11-04" who="#rv">transcribed, encoded</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb xml:id="leaf001r" facs="cww.00262.001.jpg"/>
+
+            <div1 type="petition" subtype="mixed">
+                <head type="main">PETITION.</head>
+                <p rend="bold">To the Commissioners under the act of Congress approved the <date
+                        when="1862-04-16">16th of April, 1862</date>, entitled "An act for the
+                    release of certain persons held to service or labor in the District of
+                    Columbia."</p>
+
+                <p>Your Petitioner, <seg type="handwritten">
+                        <persName>Charles Hume</persName></seg> of <seg type="handwritten">
+                        <placeName>the City of Washington District of Columbia</placeName></seg> by
+                    this <seg type="handwritten">his</seg> petition in writing, represents and
+                    states, that <seg type="handwritten">he</seg> is a person loyal to the United
+                    States, who, at the time of the passage of the said act of Congress, held a
+                    claim to service or labor against <seg type="handwritten">
+                        <persName>Louisa Ware</persName>, <persName>Juliet Ware</persName>,
+                            <persName>Richard Ware</persName> and <persName>Jane
+                            Faunteleroy</persName>, <persName>Sarah Williams</persName>,<persName>
+                            Cynthia Williams</persName>
+                    </seg> person<seg type="handwritten">s</seg> of African descent of the name<seg
+                        type="handwritten">s a</seg>f<seg type="handwritten">oresaid. Said
+                            <persName>Louisa Ware</persName>, aged forty four years, a female,
+                            <persName>Juliet Ware</persName> her Daughter aged fifteen years,
+                            <persName>Richard Ware</persName> her son, aged ten years,
+                            <persName>Jane</persName> aged thirty three years, Sarah aged twenty
+                        years and <persName>Cynthia</persName> aged sixteen years</seg> for and
+                    during the life of said <seg type="handwritten"> persons</seg> and that by said
+                    act of Congress said <seg type="handwritten">
+                        <persName>Louisa</persName>, <persName>Juliet</persName>,
+                            <persName>Richard</persName>, <persName>Jane Sarah</persName> and
+                            <persName>Cynthia</persName> were</seg> discharged and freed of and from
+                    all claim of your petitioner to such service or labor; that at the time of said
+                    discharge said <seg type="handwritten">persons they were</seg> of the age <seg
+                        type="handwritten">a</seg>f<seg type="handwritten">oresaid</seg> and of the
+                    personal description following:<note type="government" place="foot" xml:id="n1"
+                        >Here describe the person, so as to identify him or her; and if there be
+                        more than one slave, describe each one separately.</note>
+                </p>
+                <ab type="handwritten">
+                    <hi rend="underline"><persName>Louisa</persName></hi> aged as aforesaid, of
+                    bright copper complexion of medium size no peculiar mark, raised in the family
+                    of Mrs. <persName>Hume</persName>, and always lived in the family</ab>
+                <ab type="handwritten">
+                    <hi rend="underline"><persName>Juliet</persName></hi>, the Daughter of the same
+                    complexion of the mother, born and reared in my family, <hi rend="underline"
+                            ><persName>Richard</persName></hi> the son born &#38; reared in the
+                    family of lighter complexion</ab>
+                <ab type="handwritten">
+                    <hi rend="underline"><persName>Jane Fauntleroy</persName></hi>, aged thirty
+                    three years, of large size and dark color, raised in the
+                        <persName>Hume</persName> family, <persName>Sarah</persName> and
+                        <persName>Cynthia</persName> are nieces of <persName>Jane</persName>, and
+                    were born and raised in the <persName>Hume</persName> family in
+                        <placeName>Culpepper County VA</placeName> copper complexion</ab>
+
+                <pb xml:id="leaf001v" facs="cww.00262.002.jpg"/>
+
+                <p>That your petitioner acquired <seg type="handwritten">his</seg> claim to the
+                    aforesaid service or labor of said <seg type="handwritten">
+                        <hi rend="underline"><persName>Louisa</persName></hi> the mother</seg> in
+                    manner following:<note type="government" place="foot" xml:id="n2">Here state how
+                        the claim was acquired, when, from whom, and for what price or
+                        consideration; and, if held under any written evidence of title, make
+                        exhibit thereof, or refer to the public record where the same may be
+                        found.</note>
+                    <seg type="handwritten">By will of <persName>Mary Sandridge</persName> to Mrs.
+                            <persName>Hume</persName>, of <persName>Louisa</persName>, when a small
+                        girl, the Probate of which maybe found in the clerks office of
+                            <placeName>Spottsylvania County Va</placeName>,
+                            <persName>Richard</persName> &#38; <persName>Juliet</persName> by birth
+                        from their mother a slave. The will aforesaid took effect somewhere about
+                            <date when="1835">AD 1835</date>
+                    </seg></p>
+
+                <ab type="handwritten">The title to <persName>Jane Fauntleroy</persName>,
+                        <persName>Sarah</persName> and <persName>Cynthia Williams</persName> was
+                    acquired by deed from my deceased Brother <persName>Francis Hume</persName> of
+                    this city somewhere about the year <date when="1859">1859</date> as will more
+                    fully appear by said deed on record in the Registry of Deeds of the City &#38;
+                        <placeName>County of Washington</placeName> to which I refer</ab>
+
+                <p>That your petitioner's claim to the service or labor of said <seg
+                        type="handwritten">
+                        <hi rend="underline"><persName>Louisa Ware</persName></hi> and <hi
+                            rend="underline"><persName>Jane Fauntleroy</persName></hi>
+                    </seg> was, at the time of said discharge therefrom, of the value of <seg
+                        type="handwritten">fifteen hundred</seg> dollars <seg type="handwritten"
+                        >each</seg> in money.<note type="government" place="foot" xml:id="n3">Here
+                        state such facts, if any there be, touching the value of the petitioner's
+                        claim to the service or labor of the person, as may enhance the same, and
+                        also such facts, if any, touching the moral, mental, and bodily infirmities
+                        or defects of said person, as impair the value of the petitioner's claim to
+                        such service or labor, and conclude such statement with an averment that the
+                        petitioner knows of no other infirmities or defects of said person which
+                        impair the value of petitioner's claim to such service or labor, and that he
+                        believes none other to exist. If the petitioner specify no such infirmity or
+                        defect, then his statement touching the value of his claim should conclude
+                        with an averment that he has no knowledge of any such infirmity or
+                        defect.</note>
+                    <seg type="handwritten">
+                        <persName>Jane</persName>, lives with <persName>John C Rine</persName> &#38;
+                        he pays ten dollars per month wages for, <persName>Louisa</persName> is my
+                        principal Household servant, capable, honest &#38; trustworthy of good sound
+                        health &#38; constitution These two servants are worth as much as any two
+                        servants, what has been said of <persName>Louisa</persName> is equally true
+                        of <hi rend="underline"><persName>Jane</persName></hi>. <hi rend="underline"
+                                ><persName>Sarah</persName></hi>, <hi rend="underline"
+                                ><persName>Cynthia</persName></hi> and <hi rend="underline"
+                                ><persName>Juliet</persName></hi> are three young girls worth Twelve
+                        hundred dollars each, of good health &#38; constitution and well instructed
+                        in domestic duties - <persName>Richard</persName> the Boy is a sound smart
+                        active one of good health &#38; constitution of the value of <hi
+                            rend="underline">Eight hundred</hi> dollars</seg>
+                </p>
+
+                <p>Your petitioner hereby declares that <seg type="handwritten">he</seg> bears true
+                    and faithful allegiance to the Government of the United States, and that <seg
+                        type="handwritten">he</seg> has not borne arms against the United States in
+                    the present rebellion, nor in any way given aid or comfort thereto.</p>
+
+                <p>And your petitioner further states and alleges, that <seg type="handwritten"
+                        >he</seg> has not brought said <seg type="handwritten">slaves or
+                        persons</seg> into the <placeName>District of Columbia</placeName> since the
+                    passage of said act of Congress; and that, at the time of the passage thereof,
+                    said <seg type="handwritten">persons</seg> was held to service or labor therein
+                    under and by virtue of your petitioner's claim to such service or labor.</p>
+
+                <p>Your petitioner further states and alleges, that <seg type="handwritten"
+                        >his</seg> said claim to the service or labor of said <seg
+                        type="handwritten">persons</seg> does not originate in or by virtue of any
+                    transfer heretofore made by any person who has in any manner aided or sustained
+                    the present rebellion against the Government of the United States.</p>
+
+                <p>And your petitioner prays the said Commissioners to investigate and determine the
+                    validity of <seg type="handwritten">his</seg> said claim to the service or labor
+                    of said <seg type="handwritten">
+                        <persName>Louisa</persName>, <persName>Juliet</persName>,
+                            <persName>Richard</persName>, <persName>Jane</persName>
+                        <persName>Sarah</persName> and <persName>Cynthia</persName>
+                    </seg> herein above set forth; and if the same be found to be valid, that they
+                    appraise and apportion the value of said claim in money, and report the same to
+                    the Secretary of the Treasury of the United States, in conformity to the
+                    provisions of said act of Congress.</p>
+
+                <closer> (Signed by) <signed>
+                        <seg type="handwritten">
+                            <persName>Chas Hume</persName><lb/>
+                            <persName>Mary A Isaac,</persName> Daughter of <persName>Charles
+                                Hume</persName><lb/>
+                            <persName>Francis E. Hume</persName>
+                        </seg>
+                    </signed>
+                </closer>
+            </div1>
+
+            <pb xml:id="leaf002r" facs="cww.00262.003.jpg"/>
+
+            <div1 type="petition" subtype="mixed">
+                <head type="main">PETITION.</head>
+                <p rend="bold">To the Commissioners under the act of Congress approved the <date
+                        when="1862-04-16">16th of April, 1862</date>, entitled "An act for the
+                    release of certain persons held to service or labor in the District of
+                    Columbia."</p>
+
+                <p>Your Petitioner, <seg type="handwritten">
+                        <persName>Anna M Hume</persName>
+                    </seg> of <seg type="handwritten">
+                        <placeName> Washington D.C.</placeName>
+                    </seg> by this <seg type="handwritten">her</seg> petition in writing, represents
+                    and states, that <seg type="handwritten">she</seg> is a person loyal to the
+                    United States, who, at the time of the passage of the said act of Congress, held
+                    a claim to service or labor against <seg type="handwritten">three female</seg>
+                        person<seg type="handwritten">s</seg> of African descent of the name of <seg
+                        type="handwritten">
+                        <persName>Jane</persName> or <persName>Jennie Fauntleroy</persName>,
+                            <persName>Sarah Williams</persName>, and <persName>Cynthia
+                            Williams</persName> as administratrix upon the personal estate of her
+                        late Husband <persName>Francis Hume</persName> deceased slaves</seg> for and
+                    during the life of said <seg type="handwritten">parties</seg> and that by said
+                    act of Congress said <seg type="handwritten">parties were</seg> discharged and
+                    freed of and from all claim of your petitioner to such service or labor; that at
+                    the time of said discharge said <seg type="handwritten">parties were</seg> of
+                    the age of <space atLeast="1" unit="chars"/> and of the personal description
+                        following:<note type="government" place="foot" xml:id="n4">Here describe the
+                        person, so as to identify him or her; and if there be more than one slave,
+                        describe each one separately.</note>
+                </p>
+                <ab type="handwritten">
+                    <persName>Jane</persName> or <persName>Jennie Fauntleroy</persName> dark copper
+                    color stout built and about thirty years of age and a height about 5 feet 2
+                    inches</ab>
+                <ab>
+                    <persName>Sarah Williams</persName> of dark color well built aged about 19 years
+                    and in height about 4 feet 10 inches</ab>
+                <ab>
+                    <persName>Cynthia Williams</persName>
+                    <choice>
+                        <sic>Mullatto</sic>
+                        <corr>mulatto</corr>
+                    </choice> thirteen years of age 4 feet 9 inches high</ab>
+                <ab>Your Petitioner hereby alleges and states her claim to said servants to be a
+                    valid one, notwithstanding a certain deed of gift to one <persName>Charles
+                        Hume</persName> in trust for certain children of his; conceiving said deed
+                    to have been fraudulently obtained and that at the time of the execution thereof
+                    the said <persName>Francis Hume</persName> was not of sound and disposing
+                    mind.</ab>
+
+                <pb xml:id="leaf002v" facs="cww.00262.004.jpg"/>
+
+                <p>That your petitioner acquired <seg type="handwritten">her</seg> claim to the
+                    aforesaid service or labor of said <seg type="handwritten">parties</seg> in
+                    manner following:<note type="government" place="foot" xml:id="n5">Here state how
+                        the claim was acquired, when, from whom, and for what price or
+                        consideration; and, if held under any written evidence of title, make
+                        exhibit thereof, or refer to the public record where the same may be
+                        found.</note>
+                    <seg type="handwritten">that is to say as the administratrix upon her deceased
+                        husbands personal estate, they being left to her husband by his grand
+                        Father, with a dower interest to my late husbands mother which interest was
+                        purchased in full by my late husband out of means <choice>
+                            <sic>inherrited</sic>
+                            <corr>inherited</corr>
+                        </choice> by me from my Fathers (the late <persName>John A
+                            Donohue's</persName>) estate</seg>
+                </p>
+
+                <p>That your petitioner's claim to the service or labor of said <seg
+                        type="handwritten">parties</seg> was, at the time of said discharge
+                    therefrom, of the value of <seg type="handwritten">three thousand</seg> dollars
+                    in money.<note type="government" place="foot" xml:id="n6">Here state such facts,
+                        if any there be, touching the value of the petitioner's claim to the service
+                        or labor of the person, as may enhance the same, and also such facts, if
+                        any, touching the moral, mental, and bodily infirmities or defects of said
+                        person, as impair the value of the petitioner's claim to such service or
+                        labor, and conclude such statement with an averment that the petitioner
+                        knows of no other infirmities or defects of said person which impair the
+                        value of petitioner's claim to such service or labor, and that he believes
+                        none other to exist. If the petitioner specify no such infirmity or defect,
+                        then his statement touching the value of his claim should conclude with an
+                        averment that he has no knowledge of any such infirmity or defect.</note>
+                </p>
+                <ab type="handwritten">
+                    <persName>Jane</persName> or <persName>Jennie</persName> being a first class
+                    cook washer and ironer</ab>
+                <ab type="handwritten">said <persName>Sarah</persName> equally as good as
+                        <persName>Jane</persName>
+                </ab>
+                <ab type="handwritten">and <persName>Cynthia</persName> a very good House servant
+                    neither of which have any moral or mental defects known to your petitioner</ab>
+
+                <p>Your petitioner hereby declares that <seg type="handwritten">she</seg> bears true
+                    and faithful allegiance to the Government of the United States, and that <seg
+                        type="handwritten">she</seg> has not borne arms against the United States in
+                    the present rebellion, nor in any way given aid or comfort thereto.</p>
+
+                <p>And your petitioner further states and alleges, that <seg type="handwritten"
+                        >she</seg> has not brought said <seg type="handwritten">parties</seg> into
+                    the <placeName>District of Columbia</placeName> since the passage of said act of
+                    Congress; and that, at the time of the passage thereof, said <seg
+                        type="handwritten">parties</seg> was held to service or labor therein under
+                    and by virtue of your petitioner's claim to such service or labor.</p>
+
+                <p>Your petitioner further states and alleges, that <seg type="handwritten"
+                        >her</seg> said claim to the service or labor of said <seg
+                        type="handwritten">parties</seg> does not originate in or by virtue of any
+                    transfer heretofore made by any person who has in any manner aided or sustained
+                    the present rebellion against the Government of the United States.</p>
+
+                <p>And your petitioner prays the said Commissioners to investigate and determine the
+                    validity of <seg type="handwritten">her</seg> said claim to the service or labor
+                    of said <seg type="handwritten">parties</seg> herein above set forth; and if the
+                    same be found to be valid, that they appraise and apportion the value of said
+                    claim in money, and report the same to the Secretary of the Treasury of the
+                    United States, in conformity to the provisions of said act of Congress.</p>
+
+                <closer> (Signed by) <signed>
+                        <seg type="handwritten">
+                            <persName>Anna M Hume</persName><lb/> administratrix</seg>
+                    </signed>
+                </closer>
+            </div1>
+
+            <pb xml:id="leaf003r" facs="cww.00262.005.jpg"/>
+
+            <div1 type="deed" subtype="handwritten">
+
+                <!-- I've chosen to encode this deed (so named on the "cover," but formerly transcribed as a bill of sale, which may better describe this section of the petition; please review) by breaking it out into sections, or <div2>s. The first section, represented in the image cww.00262.005, functions a bit like the petition cover. Subsequent sections (represented in image files cww.00262.006 & .007) include a statement that appears to be signed by Francis Hume, relinquishing named slaves to Charles Hume, and a statement witnessing this deed of gift. The structure of this section, i.e., use of <div2>s, may need to be double-checked. Also, the order of the leaves in this object may need to be double-checked as well. Specifically, the following three leaves appear to be a deed in support of Charles Hume's petition for compensation; however, it currently follows Anna Hume's petition. Grouping each petition and its supporting documents in order may not be something we're concerned with, but I did want to mention this issue here. JC, 9/21/11.-->
+
+                <div2 type="section">
+                    <ab>262 Paid <unclear reason="illegible" cert="high" resp="#jc"
+                        >5ds</unclear></ab>
+                    <ab>Filed <date when="1862-07-18">July 18, 1862</date>
+                    </ab>
+                    <ab>
+                        <persName>Francis Hume</persName><lb/> to deed <persName>Charles
+                            Hume</persName>
+                        <lb/> as Trustee</ab>
+                    <ab>Received <date when="1859-07-27">27th July 1859</date>
+                    </ab>
+                    <ab>To be Recorded and the same day was recorded in Liber J A S No 149 folios
+                        308 &#38; 309 one of the Land Records for <placeName>Washington
+                            County</placeName> in the <placeName>District of Columbia</placeName>
+                        and Examined by <persName>J. A. Smith</persName>
+                        <lb/>
+                        <choice>
+                            <abbr>Clk</abbr>
+                            <expan>clerk</expan>
+                        </choice>
+                    </ab>
+                </div2>
+
+                <pb xml:id="leaf004r" facs="cww.00262.006.jpg"/>
+
+                <div2 type="section">
+
+                    <p>This indenture made this <date when="1859-07-19">nineteenth day of July in
+                            the year of our Lord eighteen hundred and fifty nine</date> between
+                            <persName>Francis Hume</persName> of <placeName>Washington County in the
+                            District or Territory of Columbia</placeName> of the one part and
+                            <persName>Charles Hume</persName> his brother of the same county in the
+                        said <placeName>District or Territory of Columbia</placeName> of the other
+                        part. Witnesseth that for and in consideration of the natural care and
+                        affection which the said <persName>Francis Hume</persName> hath and beareth
+                        unto his nieces <persName>Mary Ann</persName>, <persName>Fannie
+                            Ella</persName>, <persName>Virginia Baulings</persName>, <persName>Eliza
+                            Priscilla</persName>
+                        <persName>Ida May</persName> and <persName>Suse Ellen Hume</persName>
+                        children of his said Brother <persName>Charles Hume</persName> and also for
+                        and in consideration of the sum of five dollars unpaid money to the said
+                            <persName>Francis Hume</persName> in hand paid at and before the sealing
+                        and delivery of these presents the receipt of which is hereby acknowledged
+                        the said <persName>Francis Hume</persName> hath given granted bargained and
+                        sold and by these presents doth give grant bargain and sell unto the said
+                            <persName>Charles Hume</persName> the following negroes slaves for life
+                        now in the possession of the said <persName>Francis Hume</persName> to wit
+                            <persName>Ellen</persName> aged about forty three years,
+                            <persName>Jane</persName> or <persName>Jenny</persName> aged about
+                        thirty two years <persName>Sarah</persName> aged about seventeen years and <persName><choice>
+                                <orig>Cinthia</orig>
+                                <reg>Cynthia</reg>
+                            </choice></persName> aged about eleven years To Have And To Hold the
+                        said described negroes, slaves for life unto the said <persName>Charles
+                            Hume</persName> his executors &#38; administrators and assigns for ever
+                        in trust for the sole separate and <pb xml:id="leaf004v"
+                            facs="cww.00262.007.jpg"/> exclusive use and benefit of the said
+                            <persName>Mary Ann</persName>, <persName>Fannie Ella</persName>,
+                            <persName>Virginia Baulings</persName>, <persName>Eliza
+                            Priscilla</persName>, <persName>Ida May</persName> and <persName>Suse
+                            Ellen Hume</persName> children of the said <persName>Charles
+                            Hume</persName> or aforesaid and upon the death of either of them then
+                        inherit for the sole separate and exclusive use and benefit of the survivor
+                        or survivors of them and to and for no other use intent or purpose
+                        whatsoever.</p>
+
+                    <p>In testimony whereof the said <persName>Francis Hume</persName> hath hereto
+                        set his hand and affixed his seal on the day and year first herein before
+                        written</p>
+
+                    <closer>Signed sealed and delivered<lb/> in the presence of<lb/>
+                        <signed>
+                            <persName>F. S. Myer</persName>
+                        </signed>
+                        <signed>
+                            <persName>Francis Hume</persName> seal</signed>
+                    </closer>
+
+                </div2>
+                <div2 type="section">
+                    <p>
+                        <placeName>Washington County District of Columbia</placeName> to wit: <lb/>
+                        Be it remembered that on this <date when="1859-07-19">nineteenth day of July
+                            eighteen hundred and fifty-nine</date> before me the subscriber a
+                        justice of the peace for <placeName>Washington County in the District or
+                            Territory of Columbia</placeName> aforesaid personally appeared
+                            <persName>Francis Hume</persName> of said county and district and
+                        acknowledged the aforegoing deed of gift to be his act.</p>
+                    <closer>
+                        <signed>
+                            <persName>F. S. Myer</persName> J.P. Seal</signed>
+                    </closer>
+                </div2>
+            </div1>
+
+            <pb xml:id="leaf005r" facs="cww.00262.008.jpg"/>
+
+            <div1 type="oath" subtype="mixed">
+                <head type="main">[<hi rend="italic">Form of the Oath for the Verification of the
+                        Petition.</hi>]</head>
+                <dateline>
+                    <placeName>District of Columbia</placeName>,
+                    <lb/>
+                    <hi rend="italic"><placeName>Washington County</placeName>, ss.</hi>
+                </dateline>
+                <div2 type="section">
+                    <p>I, <seg type="handwritten">
+                            <persName>Anna M Hume</persName>
+                        </seg> being duly sworn, do depose and say, that all the several matters and
+                        things which are set forth and stated in the foregoing petition, as of our
+                        own knowledge, are true in substance and in fact; and that all the several
+                        other matters and things therein set forth and stated, as from the
+                        information of others, I believe to be true in substance and in fact.</p>
+                    <closer> (Signed by) <signed>
+                            <seg type="handwritten">
+                                <persName>Anna M Hume</persName><lb/> administratrix</seg>
+                        </signed>
+                    </closer>
+                </div2>
+
+                <div2 type="section">
+                    <p>Sworn to and subscribed before me this <date when="1862-07-14">
+                            <seg type="handwritten">14th</seg> day of <seg type="handwritten"
+                                >July</seg> A.D. 1862</date>
+                    </p>
+                    <closer> (Signed by) <signed>
+                            <seg type="handwritten">
+                                <persName>F. I. Murphey</persName> J.P.</seg>
+                        </signed>
+                    </closer>
+                </div2>
+            </div1>
+
+            <div1 type="cover" subtype="handwritten">
+                <note type="editorial">The following note, about the filing of the petition, has
+                    been imaged twice in the National Archives microfilm, but the note occurs in
+                    only one place in the petition: written horizontally on the final page, the Oath
+                    for the Verification.</note>
+                <ab>262 <lb/>
+                    <persName>Anna M Hume</persName> Petitioner</ab>
+                <ab>Filed <date when="1862-07-14">July 14, 1862</date>
+                </ab>
+                <ab>Witnesses <lb/>
+                    <persName>Wm Ryan</persName>
+                    <lb/>
+                    <persName>Thos Parker</persName>
+                </ab>
+            </div1>
+
+            <pb xml:id="leaf006v" facs="cww.00262.010.jpg"/>
+
+            <div1 type="statement" subtype="handwritten">
+                <div2 type="section">
+                    <ab>262</ab>
+                    <ab>Filed <date when="1862-07-18">July 18, 1862</date>
+                    </ab>
+                </div2>
+
+                <pb xml:id="leaf007r" facs="cww.00262.011.jpg"/>
+                <div2 type="section">
+                    <p>
+                        <placeName>State of Maryland Baltimore City</placeName> To Wit. On the <date
+                            when="1862-07-12">Twelfth day of July AD 1862</date> Before the
+                        Subscriber one of the Justices of the Peace of the State <unclear
+                            reason="damaged" cert="high" resp="#jc">a</unclear>foresaid in and for
+                        the <placeName>City of Baltimore</placeName> Personally appeared Mrs.
+                            <persName>Matilda Zimmerman</persName> and made oath in due form of Law
+                        that she (Mrs <persName>Matilda Zimmerman</persName>) went to
+                            <placeName>Washington</placeName> about the <date when="1861-10-01"
+                            >first day in October last</date> past and remained for three weeks. And
+                        during that period she frequently visited the House of Mr <persName>C
+                            Hume</persName>. That on the <date when="1861-10-18">18th</date> and
+                            <date when="1861-10-19">19th of October</date> the Brother of Mr
+                            <persName>C Hume</persName> was Lying dead in his (Mr<persName> C
+                            Hume's</persName> house).</p>
+                    <p>I (Mrs<persName> Zimmerman</persName>) then and there saw a lady who
+                        represented herself as the wife of Deceased. and during the time (I
+                            Mrs<persName> Zimmerman</persName>) and the widow of Deceased was there
+                        the subject of <hi rend="underline">Secession</hi> was never spoken <choice>
+                            <sic>off</sic>
+                            <corr>of</corr>
+                        </choice> in my presence. During my entire stay in
+                            <placeName>Washington</placeName> nor before nor since my return have I
+                        ever heard Mr <persName>C Hume</persName> express any sentiments that would
+                        lead me to believe Mr <persName>C Hume</persName> to be other than a Loyal
+                        Citizen. During the <date when="1861-10-18">18th</date> and <date
+                            when="1861-10-19">19th of October</date> there was but one daughter at
+                        home. She was a child about four years of age. four daughters were on a
+                        visit as I then learned (since <date when="1861-04">April</date> preceding)
+                        to the house of their Grandmother in <placeName>Virginia</placeName>. The
+                        sixth daughter was on a visit in <placeName>Maryland</placeName> to the
+                        house of Mr <persName>Isaacs</persName>, and returned the morning of the
+                        funeral.</p>
+                    <closer>
+                        <signed>
+                            <persName>Matilda Zimmerman</persName>
+                        </signed>
+                        <lb/> Test.<lb/>
+                        <signed>
+                            <persName>A M Irving</persName>
+                        </signed> Sworn Before<lb/>
+                        <signed>
+                            <persName>A M Irving</persName> J.P.</signed>
+                    </closer>
+                </div2>
+            </div1>
+
+            <pb xml:id="leaf007v" facs="cww.00262.012.jpg"/>
+
+            <div1 type="form" subtype="mixed">
+                <dateline rend="bold">
+                    <placeName>State of Maryland, Baltimore City</placeName>, Sct:</dateline>
+                <p>
+                    <hi rend="italic">I HEREBY CERTIFY, That </hi>
+                    <seg type="handwritten">
+                        <persName>Ambrose M Irving</persName>
+                    </seg>
+                    <hi rend="italic">Esquire, before whom the annexed affidavit</hi>
+                    <seg type="handwritten">s</seg>
+                    <hi rend="italic">w</hi><seg type="handwritten">ere</seg>
+                    <hi rend="italic">made, and who has thereto subscribed his name, was at the time
+                        of so doing a Justice of the Peace of the State of Maryland, in and for the
+                            <placeName>City of Baltimore</placeName>, duly commissioned and
+                        sworn.</hi>
+                </p>
+                <p>IN TESTIMONY WHEREOF, <hi rend="italics">I hereto set my hand and affix the seal
+                        of the Superior Court of <placeName>Baltimore City</placeName>, this</hi>
+                    <date when="1862-07-12">
+                        <seg type="handwritten">12th</seg>
+                        <hi rend="italic">day of</hi>
+                        <seg type="handwritten">July</seg>
+                        <hi rend="italic">A.D. 186</hi><seg type="handwritten">2</seg>
+                    </date>
+                </p>
+
+                <closer>
+                    <signed>
+                        <seg type="handwritten">
+                            <persName>Geo. E Sangstin</persName>
+                        </seg>
+                    </signed>
+                    <lb/>
+                    <hi rend="italic">Clerk of the Superior Court of Baltimore City</hi>. </closer>
+            </div1>
+
+            <pb xml:id="leaf008r" facs="cww.00262.013.jpg"/>
+
+            <div1 type="letter" subtype="handwritten">
+                <dateline>
+                    <placeName>Washington City</placeName>
+                    <lb/>
+                    <date when="1862-07-14">July 14, 1862</date>
+                </dateline>
+
+                <opener>Hon Commissioners of Emancipation<lb/> Gentlemen</opener>
+                <p>I respectfully submit this note in explanation of my petition this day filed for
+                    certain female slaves claim to which has been made by a certain
+                        <persName>Charles Hume</persName> of this City. I conceive the claim
+                    asserted by said <persName>Charles Hume</persName> to have been fraudulently
+                    obtained from my late Husband whilst laboring in an <choice>
+                        <sic>aberation</sic>
+                        <corr>aberration</corr>
+                    </choice> of mind, and deep depression of <pb xml:id="leaf008v"
+                        facs="cww.00262.014.jpg"/> system caused by bad habits and idleness, under
+                    which influence he was duped into the execution of the alleged bill or transfer
+                    of said servants.</p>
+                <p>In behalf of my said petition I request to be allowed to appear in court with
+                    certain witnesses in my behalf</p>
+                <closer>I am gentlemen<lb/> Very Respectfully<lb/>
+                    <signed>
+                        <persName>Anna M Hume</persName>
+                    </signed>
+                </closer>
+            </div1>
+
+            <pb xml:id="leaf009r" facs="cww.00262.015.jpg"/>
+
+            <div1 type="oath" subtype="mixed">
+                <head type="main">[<hi rend="italic">Form of the Oath for the Verification of the
+                        Petition.</hi>]</head>
+                <dateline>
+                    <placeName>District of Columbia</placeName>,
+                    <lb/>
+                    <hi rend="italic"><placeName>Washington County</placeName>, ss.</hi>
+                </dateline>
+                <div2 type="section">
+                    <p>I, <seg type="handwritten">
+                            <persName>Charles Hume</persName> with <persName>Mary G Isaac</persName>
+                            &#38; <persName>Francis E Hume</persName> two of the daughters of
+                                <persName>Charles Hume</persName>
+                        </seg> being duly sworn, do depose and say, that all the several matters and
+                        things which are set forth and stated in the foregoing petition, as of my
+                        own knowledge, are true in substance and in fact; and that all the several
+                        other matters and things therein set forth and stated, as from the
+                        information of others, I believe to be true in substance and in fact.</p>
+                    <closer> (Signed by) <signed>
+                            <seg type="handwritten">
+                                <persName>Chas Hume</persName>
+                                <lb/>
+                                <persName>Mary A Isaac</persName>
+                                <lb/>
+                                <persName>Fannie E Hume</persName>
+                            </seg>
+                        </signed>
+                    </closer>
+                </div2>
+                <div2 type="section">
+                    <p>Sworn to and subscribed before me this <date when="1862-05-15">
+                            <seg type="handwritten">15th</seg> day of <seg type="handwritten"
+                                >May</seg> A.D. 1862</date>
+                    </p>
+                    <closer> (Signed by) <signed>
+                            <seg type="handwritten">
+                                <persName>Jno C Thomas</persName>
+                                <lb/> Notary Public</seg>
+                        </signed>
+                    </closer>
+                </div2>
+            </div1>
+            <div1 type="cover" subtype="handwritten">
+                <note type="editorial">The following note, about the filing of the petition, has
+                    been imaged twice in the National Archives microfilm, but the note occurs in
+                    only one place in the petition: written horizontally on the final page, the Oath
+                    for the Verification.</note>
+                <ab>262 <lb/>
+                    <persName>Charles Hume</persName></ab>
+                <ab>Filed <date when="1862-05-16">May 16, 1862</date>
+                </ab>
+            </div1>
+        </body>
+    </text>
+</TEI>

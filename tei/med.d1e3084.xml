@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e3084">
+        <teiHeader>
+                <fileDesc>
+                        <titleStmt>
+                                <title level="m" type="main">Hoadley, John</title>
+                                <title level="m" type="sub">a machine readable transcription</title>
+                                <principal>Susan C. Lawrence</principal>
+                                <principal>Kenneth M. Price</principal>
+                                <principal>Kenneth J. Winkle</principal>
+                        </titleStmt>
+                        <editionStmt>
+                                <edition>
+                                        <date>2011</date>
+                                </edition>
+                        </editionStmt>
+                        <publicationStmt>
+                                <idno>med.d1e3084</idno>
+                                <authority>Civil War Washington</authority>
+                                <publisher>University of Nebraska–Lincoln</publisher>
+                                <distributor>
+                                        <name>Center for Digital Research in the Humanities</name>
+                                        <address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+                                </distributor>
+                                <date>2011</date>
+                                <availability>
+                                        <p>Copyright © 2011 by University of Nebraska–Lincoln, all
+                                                rights reserved. Redistribution or republication in
+                                                any medium, except as allowed under the Fair Use
+                                                provisions of U.S. copyright law, requires express
+                                                written consent from the editors and advance
+                                                notification of the publisher, the University of
+                                                Nebraska–Lincoln.</p>
+                                </availability>
+                        </publicationStmt>
+                        <notesStmt>
+                                <note type="project">The following are responsible for particular
+                                        readings or for changes to this file, as noted: 
+                                        <persName xml:id="mb">Matthew Bosley</persName>
+                                        <persName xml:id="el">Elizabeth Lorang</persName>
+                                        <persName xml:id="sb">Stacey Berry</persName>
+                                        <persName xml:id="et">Elisabeth Tracey</persName>
+                                </note>
+                        </notesStmt>
+                        <sourceDesc>
+                                <bibl>
+                                        <title level="j">The Medical and Surgical History of the War
+                                                of the Rebellion</title>
+                                        <pubPlace>Washington, DC</pubPlace>
+                                        <publisher>Government Printing Office</publisher>
+                                        <biblScope type="part">Part 3</biblScope>
+                                        <biblScope type="volume">Volume 1</biblScope>
+                                        <date when="1888">1888</date>
+                                        <biblScope type="page">230</biblScope>
+                                </bibl>
+                        </sourceDesc>
+                </fileDesc>
+                <encodingDesc>
+                        <classDecl>
+                                <taxonomy xml:id="medsurg">
+                                        <bibl>Medical and Surgical History of the War of the
+                                                Rebellion</bibl>
+                                </taxonomy>
+                        </classDecl>
+                </encodingDesc>
+                <profileDesc>
+                        <textClass>
+                                <keywords scheme="#medsurg">
+                                        <term>clinical records</term>
+                                        <term>continued fevers</term>
+                                        <term>typho-malarial and typhoid fevers</term>
+                                        <term>Seminary Hospital cases</term>
+                                        <term>remittent fever</term>                                                                            
+                                </keywords>
+                        </textClass>
+                </profileDesc>
+                <revisionDesc>
+                        <change who="#mb" when="2011-10-11">additional proofing of transcription and encoding</change>
+                        <change who="#mb" when="2011-06-06">additional proofing of transcription and encoding</change>
+                        <change who="#el" when="2011-05-11">case text extracted and transformed from
+                                larger file</change>
+                        <change who="#sb" when="2011-02-23">Encoding and Proofing</change>
+                        <change who="#et" when="2009-12-01">Initial Checking OCR Text to PDF file,
+                        </change>
+                </revisionDesc>
+        </teiHeader>
+        <text>
+                <body xml:id="ch4.sc2.3.00056">
+                        
+                        <p><hi rend="initialcap">C</hi>ASE 56.&#8212;<name type="person"
+                                                key="514">Private John Hoadley</name>, <name
+                                                type="organization" key="620">Co. B, 12th Pa.
+                                                Vols.</name>, was taken with headache and pain in
+                                        the bones about Aug. 29, 1861, together with a daily
+                                        recurring chill and fever, and a diarrh&#339;a causing
+                                        about six stools daily. He was admitted <date type="admit"
+                                                when="1861-09-05">September 5</date> as a case of
+                                        remittent fever. The tongue was pale, flabby and coated, the
+                                        face flushed, the skin warm and moist, the pulse 86, the
+                                        bowels loose. A small dose of tincture of opium was given.
+                                        Next day quinine was ordered, with Dover's powder at night.
+                                        He had no chill after admission, but there was an evening
+                                        exacerbation of fever, which on the 9th and 10th was
+                                        accompanied by drowsiness and stupidity. On the morning of
+                                        the 11th the remission was very marked, and in the evening
+                                        the appetite became improved. On the evening of the 12th the
+                                        tongue, which had been flabby and coated hitherto, became
+                                        clean. The bowels were relaxed throughout the attack, but
+                                        there was no tenderness except on the 9th, in the umbilical
+                                        region. On this day also there was a slight cough with a
+                                        stitch in the right side. The diarrh&#339;a abated with
+                                        the decline of the fever and the cleaning of the tongue. The
+                                        patient was transferred to hospital at <name type="place">Baltimore, Md.</name>, on
+                                        <date type="transfer" when="1861-09-13">the 13th</date>.
+                                </p>
+                        
+                </body>
+        </text>
+</TEI>

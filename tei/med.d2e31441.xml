@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d2e31441">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">R&#8212;&#8212;, G. S.</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+       <idno>med.d2e31441</idno>
+       <authority>Civil War Washington</authority>
+       <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor>
+       <name>Center for Digital Research in the Humanities</name>
+       <address><addrLine>319 Love Library</addrLine>
+       <addrLine>University of Nebraska–Lincoln</addrLine>
+       <addrLine>Lincoln, NE 68588-4100</addrLine>
+       <addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+    </distributor>
+    <date>2011</date>
+    <availability>
+        <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+         republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+         law, requires express written consent from the editors and advance notification of the
+         publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+ <persName xml:id="kw">Kenneth Winkle</persName> 
+     <persName xml:id="mb">Matthew Bosley</persName>
+     <persName xml:id="cd-mg">Corey Day and Martine Gouw</persName>  
+     <persName xml:id="kk">Kourtney Klein</persName>
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl>
+     <title level="j">The Medical and Surgical History of the War of the Rebellion. (1861-65.)</title>
+     <pubPlace>Washington, DC</pubPlace>
+     <publisher>Government Printing Office</publisher>
+     <biblScope type="part">Part 2</biblScope>
+     <biblScope type="volume">Volume 2</biblScope>
+     <date when="1876">1876</date>
+     <biblScope type="page">843</biblScope>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+       <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+      <keywords scheme="#medsurg">
+       <term>wounds and injuries of the upper extremities</term>
+       <term>wounds and injuries of the elbow joint</term>
+       <term>shot wounds of the elbow joint</term>
+       <term>shot wounds of the elbow joint treated on the expectant plan</term>
+       <term>fatal cases of shot wounds of the elbow joint treated expectantly</term>
+       <term>gunshot wound of arm</term> 
+       <term>external condyle of humerus carried away</term>
+       <term>metastatic abscesses in liver and spleen</term>
+       <term>inflammatory congestion of lower ilium</term> 
+       <term>ulna dead below articulation, olecranon process separated, external condyle split off</term>
+       <term>humerus dead above articulation</term>        
+       <term>autopsy performed</term>
+     </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+ <change who="#kw" when="2014-05">blessed</change>
+   <change who="#kk" when="2014-01-17">added figure encoding</change>
+   <change who="#mb" when="2012-07-25">additional proofing of transcription and encoding, identified keyword terms</change>
+   <change who="#cd-mg" when="2011-02-20">checked OCR; added minimal mark-up for personal names, place names, and dates</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>   
+   <p><hi rend="initialcap">C</hi>ASE 1772.&#8212;<name type="person" key="xxx">Private G. S. R&#8212;&#8212;</name>, <name type="organization" key="xxx">Co. G, 3d Maine</name>, was wounded at <name type="BATTLE" key="4">Fredericksburg</name>, <date type="injury" when="1862-12-13">December 13, 1862</date>. <name type="person" key="xxx">Surgeon J. M. Cummings</name>, <name type="organization" key="xxx">114th Pennsylvania</name>, reported that he was admitted into a Third Corps hospital for a &#34;gunshot wound of the left arm,&#34; and <date type="transfer" when="1862-12-23">December 23d</date> transferred to <name type="hospital" key="176">Lincoln Hospital</name>, Washington.  <name type="person" key="241">Surgeon Henry Bryant</name>, <name type="organization" key="132">U. S. V.</name>, reported: &#34;External condyle of the left humerus carried away; preservation was attempted.  Died <date type="death" when="1863-01-13">January 13, 1863</date>.  Autopsy <date type="autopsy" when="1863-01-13">six hours after death</date>: The lungs and heart were found normal. A metastatic abscess occurred in the liver, on the inferior surface of the lobus major, of one quarter of an inch in diameter. In the spleen numerous small metastatic abscesses were found; some inflammatory congestion of the lower part of the ilium was observed. The left elbow joint, was destroyed; the ulna was dead for more than four inches below the articulation, and was completely surrounded by sinuses, so that the bone might have been removed by slight traction from its muscular envelope; the olecranon process was separated. All the articular cartilage was gone, except a little upon the head of the radius. The synovial membrane was, of course, destroyed; the sinuses were full of sanious fluid; the radius
+    did not appear to be dead below the synovial membrane; the humerus was dead for three inches above the articulation.&#34;  The specimen (<hi rend="initialcap">F</hi>IG. 595), contributed by <name type="person" key="241">Dr. Bryant</name>, consists of the bones of the left elbow. The external condyle has been split off and the olecranon destroyed as if by the oblique passage of a bullet. The fractured articular extremities are necrosed.</p>  
+   
+   <figure>
+    <graphic url="cww.001749.001" />
+    <head><hi rend="initialcap">F</hi>IG. 595.&#8212;Effects of shot fracture of the left elbow.     <hi rend="italic">Spec</hi>. 678.</head>
+   </figure>  
+   
+  </body>
+ </text>
+</TEI>

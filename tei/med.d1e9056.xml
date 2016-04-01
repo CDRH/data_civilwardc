@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e9056">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Morton, Darius</title>
+                <title level="m" type="sub">a machine readable transcription</title>
+                <principal>Susan C. Lawrence</principal>
+                <principal>Kenneth M. Price</principal>
+                <principal>Kenneth J. Winkle</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2011</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <idno>med.d1e9056</idno>
+                <authority>Civil War Washington</authority>
+                <publisher>University of Nebraska–Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+                </distributor>
+                <date>2011</date>
+                <availability>
+                    <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved.
+                        Redistribution or republication in any medium, except as allowed under the
+                        Fair Use provisions of U.S. copyright law, requires express written consent
+                        from the editors and advance notification of the publisher, the University
+                        of Nebraska–Lincoln.</p>
+                </availability>
+            </publicationStmt>
+            <notesStmt>
+                <note type="project">The following are responsible for particular readings or for
+                    changes to this file, as noted: 
+ <persName xml:id="kw">Kenneth Winkle</persName> 
+                    <persName xml:id="ajh">AJ Howell</persName>
+                    <persName xml:id="mb">Matthew Bosley</persName>
+                    <persName xml:id="el">Elizabeth Lorang</persName>
+                    <persName xml:id="sb">Stacey Berry</persName>
+                    <persName xml:id="et">Elisabeth Tracey</persName>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>The Medical and Surgical History of the War of the Rebellion.
+                        (1861&#8211;65.)</title>
+                    <editor role="compiler">Surgeon General Joseph K. Barnes, United States
+                        Army</editor>
+                    <pubPlace>Washington, D.C.</pubPlace>
+                    <publisher>Government Printing Office</publisher>
+                    <biblScope type="part">Part 1</biblScope>
+                    <biblScope type="volume">Volume 2</biblScope>
+                    <date when="1870">1870</date>
+                    <biblScope type="page">125</biblScope>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <classDecl>
+                <taxonomy xml:id="medsurg">
+                    <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme="#medsurg">
+                    <term>on special wounds and injuries of the head</term>
+                    <term>wounds and injuries of the head</term>
+                    <term>gunshot wounds</term>
+                    <term>gunshot contusions of the cranial bones</term>
+                    <term>contusion of the skull without fracture</term>
+                    <term>trephining</term>
+                    <term>necrosed fragments removed by formal operations</term>
+                    <term>gunshot wound of scalp with contusion</term>
+                    <term>compression of brain supervened</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+ <change who="#kw" when="2014-05">blessed</change>
+            <change who="#ajh" when="2013-08-16">added figure encoding</change>
+            <change who="#mb" when="2013-06-14">additional proofing of transcription and encoding,
+                edited and added keyword terms</change>
+            <change who="#mb" when="2011-06-22">additional proofing of transcription and
+                encoding</change>
+            <change who="#el" when="2011-11-05">case text extracted and transformed from larger
+                file</change>
+            <change who="#sb" when="2011-02-09">enriched encoding</change>
+            <change who="#sb" when="2011-01-28">validated file</change>
+            <change who="#et" when="2009-08-01">encoded</change>
+            <change who="#sb" when="2008-09-22">initial checking of OCR text against PDF;
+                encoded</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body xml:id="ch1.sc3.0132">
+            <p><name type="person" key="409"><hi rend="initialcap">M</hi>ORTON, <hi
+                        rend="initialcap">D</hi>ARIUS</name>, Private, <name type="organization"
+                    key="474">Co. F, 9th New York Cavalry</name>, was wounded in a skirmish during
+                    <name type="person" key="xx">General Pleasonton</name>'s raid into Virginia, and
+                was admitted, on <date type="admit" when="1862-11-12">November 12th, 1862</date>, to
+                the <name type="hospital" key="171">Armory Square Hospital</name>, Washington, with
+                a gunshot wound of the scalp, with contusion. No particulars of the treatment are
+                recorded. Compression of the brain supervened, and the operation of trephining was
+                performed by <name type="person" key="123">Surgeon D. W. Bliss</name>, <name
+                    type="organization" key="132">U. S. V.</name> The symptoms of compression were
+                not relieved, and the patient died on <date type="death" when="1862-11-18">November
+                    18th, 1862</date>. The pathological specimen was forwarded to the <name
+                    type="hospital" key="431">Army Medical Museum</name>. It consists of a segment
+                of the right parietal bone, of a very thin <choice>
+                    <orig>calvaria</orig>
+                    <reg>calvarium</reg>
+                </choice>, trephined near the coronal suture. The outer table of the bone
+                surrounding the perforation is porous and cribriform, and there are traces of
+                contusion of the disk removed. There are no pathological appearances on the inner
+                table. The specimen, which is represented in the adjacent wood-cut, (<hi
+                    rend="initialcap">F</hi>IG. 44,) was contributed by the operator, <name
+                    type="person" key="123">Surgeon D. W. Bliss</name>, <name type="organization"
+                    key="132">U. S. V.</name>
+            </p>
+            <figure>
+                <graphic url="cww.001372.001"/>
+                <head><hi rend="initialcap">F</hi>IG. 44.&#8212;Segment of the right parietal,
+                    trephined near the coronal suture. <hi rend="italic">Spec</hi>. 334, Sect. I, A.
+                    M. M.</head>
+            </figure>
+
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d2e18524">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Hogan, J.</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+       <idno>med.d2e18524</idno>
+       <authority>Civil War Washington</authority>
+       <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor>
+       <name>Center for Digital Research in the Humanities</name>
+       <address><addrLine>319 Love Library</addrLine>
+       <addrLine>University of Nebraska–Lincoln</addrLine>
+       <addrLine>Lincoln, NE 68588-4100</addrLine>
+       <addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+    </distributor>
+    <date>2011</date>
+    <availability>
+        <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+         republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+         law, requires express written consent from the editors and advance notification of the
+         publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+         <persName xml:id="mb">Matthew Bosley</persName>         
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl>
+        <title level="j">The Medical and Surgical History of the War of the Rebellion. (1861-65.)</title>
+        <pubPlace>Washington, DC</pubPlace>
+        <publisher>Government Printing Office</publisher>
+        <biblScope type="part">Part 3</biblScope>
+        <biblScope type="volume">Volume 2</biblScope>
+        <date when="1883">1883</date>
+        <biblScope type="page">445-446</biblScope>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+       <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+      <keywords scheme="#medsurg">
+       <term>wounds and injuries of the lower extremities</term> 
+       <term>wounds and operations in the leg</term>
+       <term>shot fractures of the bones of the leg</term>
+       <term>excisions in the continuity of the bones of the leg for shot injury</term> 
+       <term>primary excisions in the shaft of the tibia, of the fibula, or of both bones</term> 
+       <term>recoveries after primary excisions in the continuity of the bones of the leg</term>
+       <term>fracture of the tibia</term> 
+       <term>struck by ball below knee joint</term> 
+       <term>tibia extensively comminuted, fibula uninjured</term>
+       <term>resection of shaft of tibia at field hospital, from point just below tubercle</term>
+       <term>hospital gangrene</term>
+       <term>complete atrophy of whole limb</term>
+       <term>deformity of leg from curvature at point of resection</term>       
+     </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+       <change who="#mb" when="2012-06-05">additional case copied from MSHWR, performed proofing of copy and XML encoding, and key terms identified</change>  
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p><hi rend="initialcap">C</hi>ASE 703.&#8212;<name type="person" key="xxx">Private J. Hogan</name>, <name type="organization" key="xxx">Co. F, 127th Pennsylvania</name>, aged 41 years, was wounded in the right leg, at <name type="BATTLE" key="4">Fredericksburg</name>, <date type="injury" when="1862-12-13">December 13, 1862</date>. <name type="person" key="xxx">Surgeon J. E. MacDonald</name>, <name type="organization" key="xxx">79th New York</name>, reported his admission to the field hospital of the 1st and 2d divisions, Ninth Corps, and described the injury as &#34;fracture of the tibia,&#34; for which &#34;resection of six inches&#34; of the bone
+    was performed. <name type="person" key="200">Assistant Surgeon W. Thomson</name>, <name type="organization" key="190">U. S. A.</name>, contributed the following history of the case: &#34;This man was struck
+    by a mini&#233; ball four inches below the knee joint. The tibia was extensively comminuted, the fibula being uninjured. A resection of the shaft of the tibia from a point just below the tubercle to (about) seven inches below was performed by <name type="person" key="xxx">Surgeon J. P. Prince</name>, <name type="organization" key="xxx">36th Massachusetts</name>, at a field hospital.  The man was admitted to <name type="hospital" key="162">Douglas Hospital</name> <date type="transfer" when="1862-12-26">December 26th</date>. The dressing consisted in keeping the incision open with charpie to encourage granulations from the bottom of the wound.  On <date type="operation" when="1863-02-23">February 23, 1863</date>, a crown-shaped exfoliation (<hi rend="italic">Spec</hi>. 2237, <hi rend="italic">Sect</hi>. I, A. M. M.) was removed from the end of the lower portion of the tibia. The wound now healed rapidly, no change having been made in the dressing and the leg being retained in quietness by a fracture box filled with bran. His general health became perfect as the discharge ceased.  On <date type="operation" when="1863-05-01">May 1st</date>, several small exfoliations were removed from the spongy portion of the tibia at the superior part of the wound. There was of course no reproduction of
+    the tibia and no conservative hypertrophy of the fibula, and hence the leg was perfectly helpless. Before the fistulous orifice
+    had entirely closed at the upper portion of the incision, well marked but mild hospital gangrene appeared. The sloughing
+    extended very deeply as far as the lower side of the tibia. Several applications of bromine checked the spread of the gangrene
+    but not until a large excavation had been caused. This filled up gradually, the patient got up on his crutches and with the aid
+    of a starched bandage hobbled painfully about the wards. His term of enlistment expired on <date type="servicedischarge" when="1863-05-29">May 29, 1863</date>, but he remained
+    until <date type="hospitaldischarge" when="1863-10-12">October 12th</date>, when be returned to his home. No more useless or unphilosophical operation could be devised than the
+    one done in this case. The leg was perfectly helpless, a hiatus of nine or ten inches existing in the tibia and there being no hope
+    of any further improvement from the lapse of time; fibula no larger than natural. Unless some novel means of support can be applied this man will be infinitely worse off than with an artificial leg.&#34;  <name type="person" key="xxx">Examining Surgeon S. T. Charlton</name>, of <name type="place">Harrisburg</name>, reported in <date type="pension" when="1866-10">October, 1866</date>: &#34;There is complete atrophy of the whole limb, as well as deformity from curvature at the point of
+    resection and the pushing out of the head of the fibula from its articulation. He cannot walk or stand upon the limb without
+    the use of a cumbrous apparatus furnished by the Government,&#34; etc. At subsequent examinations no change or improvement
+    was reported. The pensioner died <date type="death" when="1877-05-24">May 24, 1877</date>.&#185;</p>
+   <p>&#185; A detailed history of the case will be found in <hi rend="italic">American Journal of Medical Sciences</hi>, New Series, 1864, Vol. XLVII, p. 395, <hi rend="italic">Report of Cases of
+    Hospital Gangrene treated in Douglas Hospital</hi>, Washington, D. C., by <hi rend="initialcap">W</hi>ILLIAM <hi rend="initialcap">T</hi>HOMSON, <hi rend="initialcap">M. D.</hi></p>      
+  </body>
+ </text>
+</TEI>

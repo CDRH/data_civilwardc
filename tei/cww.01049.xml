@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="cww.01049">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>                
+                <title level="m" type="main">Petition of Harry Upsher, 28 July 1862</title>
+                <title level="m" type="main">Evidence Relating to the Petition of Henry Upsher, 29 July 1862</title>
+                <title level="m" type="sub">a machine readable transcription</title>
+                <principal>Susan C. Lawrence</principal>
+                <principal>Kenneth M. Price</principal>
+                <principal>Kenneth J. Winkle</principal>
+                <respStmt>
+                    <resp>transcription and encoding</resp>
+                    <name xml:id="jc">Janel Cayer</name>
+                    <name xml:id="el">Elizabeth Lorang</name>
+                <name xml:id="kjw">Kenneth J. Winkle</name>
+</respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2012</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <idno>cww.01049</idno>
+                <distributor>Civil War Washington</distributor>
+                <publisher>University of Nebraska–Lincoln</publisher>
+                <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>P.O. Box 884100</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+            </address>
+                <date>2012</date>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+                        <p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License (http://creativecommons.org/licenses/by-nc-sa/3.0/). Derivatives must be credited to Civil War Washington, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl xml:id="rg21">
+                    <title>Petition of Harry Upsher, 28 July 1862</title>                    
+                    <date when="1862-07-28">July 28, 1862</date>
+                    <idno>Microcopy 433, Reel 3</idno>                
+                    <orgName>National Archives and Records Administration</orgName>
+                    <relatedItem type="original">
+                        <bibl>
+                            <title>Petition of Harry Upsher, 28 July 1862</title>
+                            <date when="1862-07-28">July 28, 1862</date>
+                            <idno type="rg">Record Group 21</idno>
+                            <orgName>Records of the District Courts of the United States, 1685&#8211;2004, National Archives and Records Administration</orgName>
+                            <orgName>Emancipation Records, compiled 1862&#8211;1863</orgName>
+                            <note type="project">Within the National Archives' Archival Description Catalog, see ARC Identifier 4314547 / MLR Number NC-2 33 (http://arcweb.archives.gov).</note>
+                        </bibl>
+                    </relatedItem>
+                    <note type="project">Our transcription is based on a digital image of a microfilm copy of the original.</note>
+                </bibl>
+                
+                <bibl xml:id="rg217">
+                    <title>Evidence Relating to the Petition of Henry Upsher, 29 July 1862</title>
+                    <date when="1862-07-29">July 29, 1862</date>
+                    <idno>Microcopy 520, Reel 6</idno>
+                    <orgName>National Archives and Records Administration</orgName>
+                    <relatedItem type="original">
+                        <bibl>
+                            <title>Evidence Relating to the Petition of Henry Upsher, 29 July 1862</title>
+                            <date when="1862-07-29">July 29, 1862</date>
+                            <idno type="rg">Record Group 217.6.5</idno>
+                            <orgName>Records of the Accounting Officers of the Department of the Treasury, 1775&#8211;1978, National Archives and Records Administration</orgName>
+                            <note type="project">Within the National Archives' Archival Description Catalog, see ARC Identifier 4644616 / MLR Number A1 347 (http://arcweb.archives.gov).</note>
+                        </bibl>
+                    </relatedItem>
+                    <note type="project">Our transcription is based on a digital image of a microfilm copy of the original.</note>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <particDesc>
+                <person role="owner">
+                    <persName>Elizabeth Upsher</persName>
+                </person>
+                <person role="petitioner-slave">
+                    <persName>Harry Upsher</persName>
+                </person>                
+            </particDesc>
+        </profileDesc>
+        <revisionDesc>
+<change when="2013-06-24" who="#jc">blessed</change>
+<change when="2013-06-08" who="#kjw">blessed</change>
+            <change when="2013-05-22" who="#el">checked</change>
+            <change when="2012-07-20" who="#jc">transcribed and encoded</change>
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            <!-- Begins with the text of the petition. -->
+            
+            <pb xml:id="leaf001r" facs="cww.01049.001.jpg"/>
+            
+            <div1 type="petition" subtype="mixed" corresp="#rg21">
+
+                <div2 type="document" subtype="mixed">
+                    <opener>
+                        <salute>To <persName>John A. Smith</persName> <choice><abbr>Esq.</abbr><expan>Esquire</expan></choice>, Clerk of the Circuit Court of the <placeName>District of Columbia</placeName>.</salute>
+                        <salute>Sir:</salute>
+                    </opener>
+                    
+                    <p><seg type="handwritten">Mrs <persName>Elizabeth Upsher</persName></seg> of <space atLeast="1"/> having claim to the service or labor of the undersigned, and having refused or neglected to file in your office the statement in writing or schedule provided for in the 9th section of the Act of Congress, entitled "An act for the release of certain persons held to service or labor in said <placeName>District</placeName>," approved <date when="1862-04-16">April 16, 1862</date>, you will please file this petition or schedule in lieu thereof, in pursuance of the provisions of an act supplementary to said act which said last mentioned act was approved <date when="1862-07-12">July 12, 1862</date>. This petitioner further state that the undersigned <seg type="handwritten">has</seg> resided in said <placeName>District</placeName> <del>since the</del> <seg type="handwritten">during 8 years</seg> and ha<seg type="handwritten">s</seg> resided therein since the <date when="1862-04-16"><seg type="handwritten">16</seg> day of <seg type="handwritten">April</seg> 1862</date>, by and with the consent of <space atLeast="1"/> said <seg type="handwritten"><persName>Elizabeth Upsher</persName></seg></p>
+                    <ab>Name, <seg type="handwritten"><persName>Harry Upsher</persName></seg> Age, <seg type="handwritten">about 60</seg> Sex, <seg type="handwritten">male</seg> Remarks, <seg type="handwritten">Black 5 ft 11 inches</seg></ab>
+                    
+                    <closer>
+                        <signed><seg type="handwritten">his X mark <persName>Harry Upsher</persName></seg></signed><lb/>
+                        <signed><seg type="handwritten"><persName>John F. Cook</persName></seg></signed>
+                    </closer>
+                </div2>                        
+                                        
+                <pb xml:id="leaf001v" facs="cww.01049.002.jpg"/>
+                
+                <div2 type="cover" subtype="handwritten">
+                    <div3 type="section">
+                        <ab><choice><abbr>pd</abbr><expan>paid</expan></choice></ab>
+                        <ab><persName>Harry Upsher</persName> Petition</ab>
+                    </div3>
+                    <div3 type="section">
+                        <ab>Filed <date when="1862-07-28">28th July 1862</date></ab>
+                    </div3>
+                    <div3 type="section">
+                        <ab>Recorded in Manumission Record No. 2 folios 60 &#38; 61</ab>               
+                    </div3>
+                                       
+                    <div3 type="section">                        
+                        <p>The Commissioners, satisfied on the testimony of <persName>John F. Cook</persName>, of the truth of the within statement, order the same to be so reported to the Clerk of the Circuit Court of the <placeName>Dist. of Columbia</placeName>.</p>
+                        <closer>
+                            <signed><persName>Wm R Woodward</persName><lb/>
+                                Clerk Emancipation Commissioners</signed>
+                            <dateline><date when="1862-07-29">29 July 1862</date>.</dateline>
+                        </closer>
+                    </div3>
+                    <div3 type="section">
+                        <ab><choice><abbr>Cert</abbr><expan>Certificate</expan></choice> given <choice><abbr>Idfied</abbr><expan>Identified</expan></choice> by <persName>John F Cook</persName></ab>
+                    </div3>
+                </div2>
+            </div1>
+            
+            <!-- Evidence pertaining to the case begins here. -->
+            
+            <pb xml:id="leaf002r" facs="cww.01049.003.jpg"/>
+            <div1 type="evidence" corresp="#rg217" subtype="handwritten">
+                <dateline><date when="1862-07-29">July 29, 1862</date>.</dateline>
+                
+                <div2 type="procedural">
+                    <ab><persName>Henry Upsher</persName></ab>
+                    <ab>Servant of Mrs <persName>Elizabeth Upsher</persName> of <placeName>Washington City D.C.</placeName> now of <placeName>Richmond</placeName></ab>
+                </div2>
+                
+                <div2 type="testimony">
+                    <p><persName>John F Cook</persName> (colored) I know servant <persName>Henry Upsher</persName> 5 or 6 years past belonged to Mrs <persName>Elizabeth Upsher</persName>. always lived in the family and claimed by them. family went away leaving <persName>Henry</persName> to take charge of the house with orders to remain until house was blown up. He has remained here ever since. was here on <date when="1862-04-16">16th April 1862</date>. Am son of <persName>John F Cook</persName> formerly member of <choice><abbr>Col</abbr><expan>Colored</expan></choice> Presbyterian Church.</p>
+                </div2>
+                
+                <div2 type="procedural">
+                    <ab>Certificate ordered</ab>
+                </div2>
+                
+                <pb xml:id="leaf002v" facs="cww.01049.004.jpg"/>
+                
+                <div2 type="cover">
+                    <ab><persName>Henry Upsher</persName></ab>
+                    <ab><date when="1862-07-29">July 29</date></ab>
+                </div2>
+            </div1>            
+        </body>
+    </text>
+</TEI>
+                
+                
+                
+                
+                
+

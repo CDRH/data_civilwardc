@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e11100">
+        <teiHeader>
+                <fileDesc>
+                        <titleStmt>
+                                <title level="m" type="main">Lower, John</title>
+                                <title level="m" type="sub">a machine readable transcription</title>
+                                <principal>Susan C. Lawrence</principal>
+                                <principal>Kenneth M. Price</principal>
+                                <principal>Kenneth J. Winkle</principal>
+                        </titleStmt>
+                        <editionStmt>
+                                <edition>
+                                        <date>2011</date>
+                                </edition>
+                        </editionStmt>
+                        <publicationStmt>
+                                <idno>med.d1e11100</idno>
+                                <authority>Civil War Washington</authority>
+                                <publisher>University of Nebraska–Lincoln</publisher>
+                                <distributor>
+                                        <name>Center for Digital Research in the Humanities</name>
+                                        <address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+                                </distributor>
+                                <date>2011</date>
+                                <availability>
+                                        <p>Copyright © 2011 by University of Nebraska–Lincoln, all
+                                                rights reserved. Redistribution or republication in
+                                                any medium, except as allowed under the Fair Use
+                                                provisions of U.S. copyright law, requires express
+                                                written consent from the editors and advance
+                                                notification of the publisher, the University of
+                                                Nebraska–Lincoln.</p>
+                                </availability>
+                        </publicationStmt>
+                        <notesStmt>
+                                <note type="project">The following are responsible for particular readings or for changes to this file, as noted: 
+                                        <persName xml:id="mb">Matthew Bosley</persName>
+                                        <persName xml:id="el">Elizabeth Lorang</persName>
+                                        <persName xml:id="sb">Stacey Berry</persName>
+                                        <persName xml:id="et">Elisabeth Tracey</persName>
+                                </note>
+                        </notesStmt>
+                        <sourceDesc>
+                                <bibl>
+                                        <title level="j">The Medical and Surgical History of the War of the Rebellion</title>
+                                        <pubPlace>Washington, DC</pubPlace>
+                                        <publisher>Government Printing Office</publisher>
+                                        <biblScope type="part">Part 3</biblScope>
+                                        <biblScope type="volume">Volume 1</biblScope>
+                                        <date when="1888">1888</date>
+                                        <biblScope type="page">776</biblScope>
+                                </bibl>
+                        </sourceDesc>
+                </fileDesc>
+                <encodingDesc>
+                        <classDecl>
+                                <taxonomy xml:id="medsurg">
+                                        <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+                                </taxonomy>
+                        </classDecl>
+                </encodingDesc>
+                <profileDesc>
+                        <textClass>
+                                <keywords scheme="#medsurg">
+                                        <term>diseases attributed to non-miasmatic exposures</term>
+                                        <term>disease of the respiratory organs</term>
+                                        <term>pneumonia</term>
+                                        <term>lobar pneumonia</term>
+                                        <term>post-mortem records</term>
+                                        <term>abscess or circumscribed disintegration of pulmonary tissue</term>
+                                        <term>admitted with pain in right side and cough</term>
+                                        <term>both lungs adherent at apices</term>
+                                        <term>lung contained several small abscesses</term>
+                                        <term>lung compressed against anterior wall by large pleuritic effusion</term>
+                                </keywords>
+                        </textClass>
+                </profileDesc>
+                <revisionDesc>
+                        <change who="#mb" when="2013-03-08">additional proofing of transcription and encoding, edited and added keyword terms</change>
+                        <change who="#mb" when="2011-07-05">additional proofing of transcription and encoding</change>
+                        <change who="#el" when="2011-05-11">case text extracted and transformed from larger file</change>
+                        <change who="#sb" when="2011-02-23">Encoding and Proofing</change>
+                        <change who="#et" when="2009-12-01">Initial Checking OCR Text to PDF file,</change>
+                </revisionDesc>
+        </teiHeader>
+        <text>
+                <body>                        
+                        <p> <hi rend="initialcap">C</hi>ASE 130.&#8212;<name type="person">Private John Lower</name>, <name type="organization">Co. C, 178th Ohio</name>,
+                                was admitted <date type="admit" when="1865-02-06">Feb. 6, 1865</date>, with pain in the right side and
+                                        cough of several weeks duration.  He improved under treatment
+                                        until March 1, when, having imprudently exposed himself,
+                                        his symptoms became aggravated; <choice><orig>dulness</orig><reg>dullness</reg></choice> over greater part of
+                                        right side.  8th: Delirium; skin yellow.  He became steadily
+                                        weaker and died on <date type="death" when="1865-03-25">the 25th</date>.   <hi rend="italic">Post-mortem</hi> examination: Right
+                                        lung adherent at apex and anteriorly, carnified, containing
+                                        several small abscesses, and compressed against the
+                                        anterior wall by seventy-five ounces of pleuritic effusion
+                                        and lymph-flakes; left lung adherent at apex and
+                                        posteriorly, some hypostatic congestion. Liver congested and
+                                        with patches of recent lymph on its upper surface.&#8212;<hi rend="italic"><name type="hospital" key="162">Douglas Hospital</name>, Washington, D. C.</hi> </p>                        
+                </body>
+        </text>
+</TEI>

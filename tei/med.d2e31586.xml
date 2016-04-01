@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d2e31586">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Harsh, Franklin</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+       <idno>med.d2e31586</idno>
+       <authority>Civil War Washington</authority>
+       <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor>
+       <name>Center for Digital Research in the Humanities</name>
+       <address><addrLine>319 Love Library</addrLine>
+       <addrLine>University of Nebraska–Lincoln</addrLine>
+       <addrLine>Lincoln, NE 68588-4100</addrLine>
+       <addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+    </distributor>
+    <date>2011</date>
+    <availability>
+        <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+         republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+         law, requires express written consent from the editors and advance notification of the
+         publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+ <persName xml:id="kmp">Kenneth M. Price</persName> 
+     <persName xml:id="el">Elizabeth Lorang</persName>
+     <persName xml:id="mb">Matthew Bosley</persName>
+     <persName xml:id="kk">Kourtney Klein</persName>
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl>
+     <title level="j">The Medical and Surgical History of the War of the Rebellion. (1861-65.)</title>
+     <pubPlace>Washington, DC</pubPlace>
+     <publisher>Government Printing Office</publisher>
+     <biblScope type="part">Part 2</biblScope>
+     <biblScope type="volume">Volume 2</biblScope>
+     <date when="1876">1876</date>
+     <biblScope type="page">77</biblScope>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+       <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+      <keywords scheme="#medsurg">
+       <term>injuries of the abdomen</term>
+       <term>penetrating wounds of the abdomen</term>
+       <term>wounds of the large intestines</term>
+       <term>gunshot wounds</term>
+       <term>cases of recovery</term> 
+       <term>gunshot penetration wound of abdomen and hip</term> 
+       <term>ball passed through hypochondriac region, made exit through ilium near posterior fourth of crest</term>
+       <term>posterior wound opening permits passage of f&#230;cal matter and gas</term>
+       <term>artificial anus from gunshot wound</term>
+       <term>ball passed through bowel to crest of ilium</term>
+       <term>incapacitated for manual labor</term>
+       <term>disability total</term>       
+     </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+ <change who="#kmp" when="2014-05">blessed</change>
+   <change who="#el" when="2014-05-08">corrected graphic URL</change>
+   <change who="#kk" when="2014-01-17">added figure encoding</change>
+   <change who="#mb" when="2012-08-09">copied case from MSHWR, added proofing of transcription and encoding, identified keyword terms</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body> 
+   <p><hi rend="initialcap">C</hi>ASE 235.&#8212;<name type="person" key="xxx">Private Franklin Harsh</name>, <name type="organization" key="xxx">Co. G, 7th Ohio</name>, was wounded at <name type="BATTLE" key="10">Chancellorsville</name>, <date type="injury" when="1863-05-03">May 3, 1863</date>, and was taken to the hospital of the Twelfth Corps, where <name type="person" key="xxx">Surgeon H. E. Goodman</name>, <name type="organization" key="xxx">28th Pennsylvania</name>, recorded the injury as a "gunshot penetration wound of the abdomen and hip."  The field record gives no details of the symptoms of treatment. The patient was sent to <name type="place">Aquia Creek</name> by rail, and thence, on a hospital transport, to <name type="place" key="#Washington">Washington</name>, and was admitted into <name type="hospital" key="171">Armory Square Hospital</name>. There he remained for a long time, with f&#230;cal fistula; but no report of the particulars of the case was made.  The case arresting the attention of <name type="person" key="288">Surgeon J. H. Brinton</name>, <name type="organization" key="132">U. S. V.</name>, he directed <name type="person" key="878">Hospital Steward Stauch</name> to make the colored drawings from which the chromolithograph opposite (<hi rend="initialcap">P</hi>LATE <hi rend="initialcap">IV</hi>) is copied. The drawing appears to have been finished <date type="photo" when="1863-09-13">September 13, 1863</date>, at which date, in a letter to <name type="person" key="288">Dr. Brinton</name>, <name type="person" key="123">Surgeon D. W. Bliss</name>, reports that "a mini&#233; ball passed through the right hypochondriac region, making its exit through the ilium, near the posterior fourth of the crest. The posterior opening permits the passage of f&#230;cal matter and of gas.  The patient is improving daily, the opening into the gut contracting steadily, and the case promises a favorable termination."  On <date type="servicedischarge" when="1864-04-28">April 28, 1864</date>, the register of <name type="hospital" key="171">Armory Square Hospital</name> shows a certificate from <name type="person" key="123">Dr. Bliss</name> that Harsh was "discharged for artificial anus from gunshot wound, incidental to the service,&#8212;disability total."  On <date type="pension" when="1867-03-15">March 15, 1867</date>, <name type="person" key="xxx">Examining Surgeon J. Holloway</name>, <name type="place">Wabash, Indiana</name>, reports of the pensioner: "His wound is on the right side, the ball having passed through the bowel above and to the right of the crest of the ilium. The contents of the bowels, when fluid, frequently pass out of both orifices made by the ball. He is entirely incapacitated for manual labor, his disability total."  On <date type="pension" when="1866-06-06">June 6, 1866</date>, <name type="person" key="xxx">Harsh</name>'s pension was increased to fifteen dollars monthly, and from <date type="pension" when="1872-06-08">June 8, 1872</date>, to eighteen dollars monthly.  It cannot be learned that any operative interference, with a view of closing the fistul&#230;, has been attempted.</p>    
+   
+   <figure>
+    <graphic url="cww.001773.001" />
+    <head>PLATE  IV.    FAECAL  FISTULAE  AFTER  SHOT  PERFORATION  OF  THE   ASCENDING  COLON</head>
+   </figure>
+   
+  </body>
+ </text>
+</TEI>

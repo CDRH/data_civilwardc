@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e9119">
+        <teiHeader>
+                <fileDesc>
+                        <titleStmt>
+                                <title level="m" type="main">Kelsey, C. M.</title>
+                                <title level="m" type="sub">a machine readable transcription</title>
+                                <principal>Susan C. Lawrence</principal>
+                                <principal>Kenneth M. Price</principal>
+                                <principal>Kenneth J. Winkle</principal>
+                        </titleStmt>
+                        <editionStmt>
+                                <edition>
+                                        <date>2011</date>
+                                </edition>
+                        </editionStmt>
+                        <publicationStmt>
+                                <idno>med.d1e9119</idno>
+                                <authority>Civil War Washington</authority>
+                                <publisher>University of Nebraska–Lincoln</publisher>
+                                <distributor>
+                                        <name>Center for Digital Research in the Humanities</name>
+                                        <address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+                                </distributor>
+                                <date>2011</date>
+                                <availability>
+                                        <p>Copyright © 2011 by University of Nebraska–Lincoln, all
+                                                rights reserved. Redistribution or republication in
+                                                any medium, except as allowed under the Fair Use
+                                                provisions of U.S. copyright law, requires express
+                                                written consent from the editors and advance
+                                                notification of the publisher, the University of
+                                                Nebraska–Lincoln.</p>
+                                </availability>
+                        </publicationStmt>
+                        <notesStmt>
+                                <note type="project">The following are responsible for particular
+                                        readings or for changes to this file, as noted: 
+                                        <persName xml:id="mb">Matthew Bosley</persName>
+                                        <persName xml:id="el">Elizabeth Lorang</persName>
+                                        <persName xml:id="sb">Stacey Berry</persName>
+                                        <persName xml:id="et">Elisabeth Tracey</persName>
+                                </note>
+                        </notesStmt>
+                        <sourceDesc>
+                                <bibl>
+                                        <title level="j">The Medical and Surgical History of the War of the Rebellion</title>
+                                        <pubPlace>Washington, DC</pubPlace>
+                                        <publisher>Government Printing Office</publisher>
+                                        <biblScope type="part">Part 3</biblScope>
+                                        <biblScope type="volume">Volume 1</biblScope>
+                                        <date when="1888">1888</date>
+                                        <biblScope type="page">384</biblScope>
+                                </bibl>
+                        </sourceDesc>
+                </fileDesc>
+                <encodingDesc>
+                        <classDecl>
+                                <taxonomy xml:id="medsurg">
+                                        <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+                                </taxonomy>
+                        </classDecl>
+                </encodingDesc>
+                <profileDesc>
+                        <textClass>
+                                <keywords scheme="#medsurg">
+                                        <term>the continued fevers</term>
+                                        <term>post-mortem records of continued fevers</term>                                       
+                                        <term>cases reported as typhoid fever, the clinical history insufficient or absent</term>
+                                        <term>Peyer's patches ulcerated and the large intestine also implicated</term>   
+                                        <term>kidneys large and fatty</term>
+                                        <term>Peyer's patches inflamed and ulcerated</term>
+                                        <term>ulcers found in large intestine</term>
+                                        <term>mesenteric glands much enlarged</term>
+                                </keywords>
+                        </textClass>
+                </profileDesc>
+                <revisionDesc>
+                        <change who="#mb" when="2013-04-03">additional proofing of transcription and encoding, edited and added keyword terms</change>
+                        <change who="#mb" when="2011-10-04">additional proofing of transcription and encoding</change>
+                        <change who="#mb" when="2011-06-22">additional proofing of transcription and encoding</change>
+                        <change who="#el" when="2011-05-11">case text extracted and transformed from larger file</change>
+                        <change who="#sb" when="2011-02-23">Encoding and Proofing</change>
+                        <change who="#et" when="2009-12-01">Initial Checking OCR Text to PDF file,</change>
+                </revisionDesc>
+        </teiHeader>
+        <text>
+                <body xml:id="ch4.sc4.1.00178">
+                                                        <p><hi rend="initialcap">C</hi>ASE 178.&#8212;<name
+                                                type="person" key="707">Private C. M. Kelsey</name>,
+                                                <name type="organization" key="417">Co. M, 14th N. Y. Heavy Art.</name>, was admitted <date
+                                                type="admit" when="1864-07-24">July 24, 1864</date>,
+                                                                having been sick since <date type="injury" when="1864-07-07">the 7th</date> with diarrh&#339;a and
+                                        fever.  He died on <date type="death" when="1864-07-28">the 28th</date>.  <hi rend="italic">Post-mortem</hi>
+                                                                examination on <date type="autopsy" when="1864-07-28">day of death</date>: Lungs and heart healthy.
+                                        Peyer's patches were inflamed and slightly ulcerated;
+                                        several ulcers were found in the large intestine; the
+                                        mesenteric glands were much enlarged and softened. The
+                                        spleen was five inches long by three broad and rather soft;
+                                        the kidneys were large and fatty.&#8212;<hi
+                                                rend="italic"><name type="hospital" key="214">Fairfax Seminary Hospital</name>, Va.</hi></p>                        
+                </body>
+        </text>
+</TEI>

@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e13547">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Fisher, William</title>
+                <title level="m" type="sub">a machine readable transcription</title>
+                <principal>Susan C. Lawrence</principal>
+                <principal>Kenneth M. Price</principal>
+                <principal>Kenneth J. Winkle</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2011</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <idno>med.d1e13547</idno>
+                <authority>Civil War Washington</authority>
+                <publisher>University of Nebraska–Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+                </distributor>
+                <date>2011</date>
+                <availability>
+                    <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved.
+                        Redistribution or republication in any medium, except as allowed under the
+                        Fair Use provisions of U.S. copyright law, requires express written consent
+                        from the editors and advance notification of the publisher, the University
+                        of Nebraska–Lincoln.</p>
+                </availability>
+            </publicationStmt>
+            <notesStmt>
+                <note type="project">The following are responsible for particular readings or for
+                    changes to this file, as noted: 
+ <persName xml:id="kmp">Kenneth M. Price</persName> 
+                    <persName xml:id="ajh">AJ Howell</persName>
+                    <persName xml:id="mb">Matthew Bosley</persName>
+                    <persName xml:id="el">Elizabeth Lorang</persName>
+                    <persName xml:id="sb">Stacey Berry</persName>
+                    <persName xml:id="et">Elisabeth Tracey</persName>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>The Medical and Surgical History of the War of the Rebellion.
+                        (1861&#8211;65.)</title>
+                    <editor role="compiler">Surgeon General Joseph K. Barnes, United States
+                        Army</editor>
+                    <pubPlace>Washington, D.C.</pubPlace>
+                    <publisher>Government Printing Office</publisher>
+                    <biblScope type="part">Part 1</biblScope>
+                    <biblScope type="volume">Volume 2</biblScope>
+                    <date when="1870">1870</date>
+                    <biblScope type="page">188</biblScope>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <classDecl>
+                <taxonomy xml:id="medsurg">
+                    <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme="#medsurg">
+                    <term>on special wounds and injuries of the head</term>
+                    <term>wounds and injuries of the head</term>
+                    <term>gunshot wounds</term>
+                    <term>gunshot fractures of the cranial bones</term>
+                    <term>depressed gunshot fracture of cranial bones</term>
+                    <term>exfoliations after depressed gunshot fractures of the skull</term>
+                    <term>necrosis of portions of outer table or of both tables of cranium, frequent
+                        results of gunshot fracture</term>
+                    <term>scalp wound above ear</term>
+                    <term>piece of mastoid chipped off, fracture extended into petrous portion of
+                        temporal bone</term>
+                    <term>exposed portions of temporal and parietal bones necrosed</term>
+                    <term>h&#230;morrhages from branches of temporal artery</term>
+                    <term>gangrene</term>
+                    <term>partially deaf</term>
+                    <term>disabilities comparatively slight</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+ <change who="#kmp" when="2014-05">blessed</change>
+            <change who="#ajh" when="2013-08-19">added figure encoding</change>
+            <change who="#mb" when="2013-07-11">additional proofing of transcription and encoding,
+                edited and added keyword terms</change>
+            <change who="#mb" when="2011-07-22">additional proofing of transcription and
+                encoding</change>
+            <change who="#el" when="2011-11-05">case text extracted and transformed from larger
+                file</change>
+            <change who="#sb" when="2011-02-09">enriched encoding</change>
+            <change who="#sb" when="2011-01-28">validated file</change>
+            <change who="#et" when="2009-08-01">encoded</change>
+            <change who="#sb" when="2008-09-22">initial checking of OCR text against PDF;
+                encoded</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body xml:id="ch1.sc3.0247">
+            <p><hi rend="initialcap">C</hi>ASE.&#8212;<name type="person" key="1571">Private William
+                    Fisher</name>, <name type="organization" key="209">Co. G, 98th Pennsylvania
+                    Volunteers</name>, was wounded near <name type="place">Fort Stevens,
+                    Washington</name>, <date type="injury" when="1864-07-12">July 12th, 1864</date>,
+                and was admitted into <name type="hospital" key="165">Mount Pleasant Hospital</name>
+                on <date type="admit" when="1864-07-13">the following day</date>. A little above the
+                right ear was a scalp wound an inch and a half long. <name type="person" key="1570"
+                    >Acting Assistant Surgeon P. C. Porter</name>, under whose care the patient
+                came, satisfied himself that a piece of the mastoid process was chipped off, and
+                that a fracture extended into the petrous portion of the temporal. From the aspect
+                of the wound, <name type="person" key="1570">Dr. Porter</name> was inclined to the
+                belief that it was inflicted by a conoidal musket ball. The patient did well with
+                simple dressings, and rest, and gentle cathartics, till the <date type="injury"
+                    when="1864-07-20">20th of July</date>, when the wound began to slough.
+                Applications of charcoal and yeast poultices, nitric acid, and creasote, failed to
+                arrest the sloughing, which presently gave rise to repeated h&#230;morrhages from
+                branches of the temporal artery. The gangrene continued to spread until August 9th,
+                when the eschars separated, leaving a space five inches in diameter on the right
+                side of the head, denuded of integument, fascia, and muscles. During this long
+                period, the patient complained of no inconvenience at the seat of fracture, though
+                there was at times acute frontal pain. Early in September, it was evident that the
+                exposed portions of the temporal and parietal bones were necrosed, and on <date
+                    type="operation" when="1864-09-06">September 6th</date>, a fragment of the
+                squamous portion of the temporal was removed. <date type="operation"
+                    when="1864-09-08">Two days subsequently</date> other fragments were detached and
+                extracted. After this the wound began to cicatrize rapidly, and on <date
+                    type="injury" when="1864-12-03">December 3d, 1864</date>, the patient was
+                reported to be entirely out of danger, and in fact nearly well. On <date
+                    type="servicedischarge" when="1865-02-14">February 14th, 1865</date>, he was
+                discharged from service on a certificate of disability signed by <name type="person"
+                    key="245">Surgeon H. Allen</name>, <name type="organization" key="190">U. S.
+                    A.</name> He was pensioned. In <date type="pension" when="1865">1865</date>, he
+                was reported as partially deaf. He was last paid at the <name type="place"
+                    >Philadelphia Agency</name>, <date type="pension" when="1870-09-04">September
+                    4th, 1870</date>, and his pension had been reduced, from which it may be
+                inferred that the examining surgeon regarded his disabilities as comparatively
+                slight.</p>
+            <figure><graphic url="cww.001399.001"/><head>
+                <hi rend="initialcap">F</hi>IG. 99.&#8212;Exfoliation from the right parietal and
+                temporal, resulting from gunshot injury. <hi rend="italic">Spec</hi>. 3451, A. M. M.
+            </head></figure>
+        </body>
+    </text>
+</TEI>

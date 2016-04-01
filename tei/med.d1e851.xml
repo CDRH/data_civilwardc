@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e851">
+        <teiHeader>
+                <fileDesc>
+                        <titleStmt>
+                                <title level="m" type="main">Coady, James</title>
+                                <title level="m" type="sub">a machine readable transcription</title>
+                                <principal>Susan C. Lawrence</principal>
+                                <principal>Kenneth M. Price</principal>
+                                <principal>Kenneth J. Winkle</principal>
+                        </titleStmt>
+                        <editionStmt>
+                                <edition>
+                                        <date>2011</date>
+                                </edition>
+                        </editionStmt>
+                        <publicationStmt>
+                                <idno>med.d1e851</idno>
+                                <authority>Civil War Washington</authority>
+                                <publisher>University of Nebraska–Lincoln</publisher>
+                                <distributor>
+                                        <name>Center for Digital Research in the Humanities</name>
+                                        <address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+                                </distributor>
+                                <date>2011</date>
+                                <availability>
+                                        <p>Copyright © 2011 by University of Nebraska–Lincoln, all
+                                                rights reserved. Redistribution or republication in
+                                                any medium, except as allowed under the Fair Use
+                                                provisions of U.S. copyright law, requires express
+                                                written consent from the editors and advance
+                                                notification of the publisher, the University of
+                                                Nebraska–Lincoln.</p>
+                                </availability>
+                        </publicationStmt>
+                        <notesStmt>
+                                <note type="project">The following are responsible for particular
+                                        readings or for changes to this file, as noted: 
+                                        <persName xml:id="mb">Matthew Bosley</persName>
+                                        <persName xml:id="el">Elizabeth Lorang</persName>
+                                        <persName xml:id="sb">Stacey Berry</persName>
+                                        <persName xml:id="et">Elisabeth Tracey</persName>
+                                </note>
+                        </notesStmt>
+                        <sourceDesc>
+                                <bibl>
+                                        <title level="j">The Medical and Surgical History of the War
+                                                of the Rebellion</title>
+                                        <pubPlace>Washington, DC</pubPlace>
+                                        <publisher>Government Printing Office</publisher>
+                                        <biblScope type="part">Part 3</biblScope>
+                                        <biblScope type="volume">Volume 1</biblScope>
+                                        <date when="1888">1888</date>
+                                        <biblScope type="page">136</biblScope>
+                                </bibl>
+                        </sourceDesc>
+                </fileDesc>
+                <encodingDesc>
+                        <classDecl>
+                                <taxonomy xml:id="medsurg">
+                                        <bibl>Medical and Surgical History of the War of the
+                                                Rebellion</bibl>
+                                </taxonomy>
+                        </classDecl>
+                </encodingDesc>
+                <profileDesc>
+                        <textClass>
+                                <keywords scheme="#medsurg">
+                                        <term>post-mortem records and</term>
+                                        <term>pathology of malarial disease</term>
+                                        <term>enteric fever</term>
+                                        <term>lung infiltrated with tubercle</term>
+                                        <term>deposits of tubercle in ileum</term>
+                                </keywords>
+                        </textClass>
+                </profileDesc>
+                <revisionDesc>
+                        <change who="#mb" when="2011-10-19">additional proofing of transcription and encoding</change>
+                        <change who="#mb" when="2011-05-26">additional proofing of transcription and encoding</change>                        
+                        <change who="#el" when="2011-05-11">case text extracted and transformed from
+                                larger file</change>
+                        <change who="#sb" when="2011-02-23">Encoding and Proofing</change>
+                        <change who="#et" when="2009-12-01">Initial Checking OCR Text to PDF file,
+                        </change>
+                </revisionDesc>
+        </teiHeader>
+        <text>
+                <body xml:id="ch3.sc4.0084">
+                        
+                                <p><hi rend="initialcap">C</hi>ASE 84.&#8212;<name type="person"
+                                                key="863">Private James Coady</name>, <name
+                                                type="organization" key="741">Co. B, 24th Vet. Res.
+                                                Corps</name>; age 21; was admitted <date
+                                                type="admit" when="1865-02-02">February 2,
+                                                1865</date>, with debility from malarial disease.
+                                        The patient had a haggard look, but complained of nothing
+                                        but weakness and inability to sleep; his tongue was slightly
+                                        coated with white fur, bowels somewhat loose, pulse 90, skin
+                                        natural. He said he had recently suffered from intermittent
+                                        fever. Wine-bitters and quinine were given, with Dover's
+                                        powder at night. He slept well during the following night,
+                                        but in the morning he was feverish, his tongue dry and brown
+                                        in the centre, his bowels loose, and he complained of pain
+                                        in the right iliac region; there was also some cough, with
+                                        pain in the right breast and <choice><orig>dulness</orig><reg>dullness</reg></choice> on percussion over the
+                                        upper third of the right lung. Acetate of ammonia and brown
+                                        mixture were given and the quinine continued. During the
+                                        next few days the typhoid symptoms became more marked;
+                                        deafness, fissured tongue and sordes. Milk-punch was
+                                        ordered. He died on the <date type="death" when="1865-02-19">19th</date>. <hi rend="italic">Post-mortem</hi>
+                                        examination: There were old pleuritic adhesions on both
+                                        sides, but particularly on the right. The right lung was
+                                        infiltrated with tubercle, some of which was softened, and
+                                        there was some intercurrent pneumonia; the mucous membrane
+                                        of the bronchial tubes was thickened and of a dark-purple
+                                        color. The liver was large and somewhat cirrhosed; the
+                                        spleen dark-brown and soft. There were patches of
+                                        inflammation and occasional deposits of tubercle in the
+                                        ileum. The mesenteric glands were enlarged.&#8212;<hi
+                                                rend="italic"><name type="hospital" key="189">Third
+                                                        Division Hospital</name>, <name type="place">Alexandria, Va.</name></hi></p>
+                        
+                </body>
+        </text>
+</TEI>

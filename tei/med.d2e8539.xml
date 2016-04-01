@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d2e8539">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Ziliox, William</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+    <idno>med.d2e8539</idno>
+    <authority>Civil War Washington</authority>
+    <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor><name>Center for Digital Research in the
+     Humanities</name><address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address></distributor>
+    <date>2011</date>
+    <availability>
+     <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+      republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+      law, requires express written consent from the editors and advance notification of the
+      publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+ <persName xml:id="kw">Kenneth Winkle</persName> <persName xml:id="ajh">AJ Howell</persName>
+     <persName xml:id="mb">Matthew Bosley</persName>
+     <persName xml:id="el">Elizabeth Lorang</persName>
+     <persName xml:id="sb">Stacey Berry</persName>
+     <persName xml:id="et">Elisabeth Tracey</persName>
+     <persName xml:id="ss">Sarah Synovec</persName>
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title level="j">The Medical and Surgical History of the War of the Rebellion.
+      (1861-65.)</title><pubPlace>Washington, DC</pubPlace><publisher>Government Printing
+      Office</publisher><biblScope type="part">Part 3</biblScope><biblScope type="volume">Volume
+      2</biblScope><date when="1883">1883</date><biblScope type="page">185-186</biblScope></bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+     <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <keywords scheme="#medsurg">
+     <term>wounds and injuries of the lower extremities</term>
+     <term>injuries of the shaft of the femur</term>
+     <term>shot fractures of the shaft of the femur</term>
+     <term>shot fractures of the shaft of the femur treated by conservation</term>
+     <term>shot fractures of the upper third of the femur treated by conservation</term>
+     <term>fatal cases of shot fractures of the upper third of the femur treated by
+      conservation</term>
+     <term>suppuration, burrowing of pus</term>
+     <term>ball entered outer middle portion thigh, fractured femur, lodged in surrounding
+      muscles</term>
+     <term>effusion in knee joint</term>
+     <term>joint swollen, erysipelatous hue</term>
+     <term>pyarthrosis</term>
+     <term/>
+    </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+ <change who="#kw" when="2014-05">blessed</change>
+   <change who="#ajh" when="2013-08-22">added figure encoding for fig. 145</change>
+   <change who="#mb" when="2012-04-23">additional proofing of transcription and encoding, identified
+    keyword terms</change>
+   <change who="#el" when="2011-05-11">case text extracted and transformed from larger file</change>
+   <change who="#sb" when="2011-06-04">Enrich Encoding, Edit and validate</change>
+   <change who="#sb" when="2011-01-28">Validated File</change>
+   <change who="#ss" when="2008-09-22">Sarah Synovec initial checking of OCR text; encoded P5
+    Encoding</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+
+   <p><hi rend="initialcap">C</hi>ASE 377.&#8212;<name type="person" key="1022">Private William
+     Ziliox</name>, <name type="organization" key="416">Co. F, 29th New York</name>, aged 31 years,
+    was wounded at <name type="BATTLE" key="10">Chancellorsville</name>, <date type="injury"
+     when="1863-05-03">May 3, 1863</date>. He was standing erect and in the act of firing. The
+    missile, a conoidal ball, entered the outer and middle portion of the left thigh, passed upward,
+    fractured the femur, and lodged in the surrounding muscles. He was left on the battlefield and
+    fell into the hands of the enemy, and received no treatment until his return within our lines,
+     <date type="admit" when="1863-05-15">May 15, 1863</date>. He was then admitted into the field
+    hospital of the Eleventh Corps, at <name type="place">Brook's Station</name>, where his leg was
+    dressed in splints. On <date type="transfer" when="1863-06-14">June 14th</date>, he was admitted
+    into the <name type="hospital" key="176">Lincoln Hospital</name>, Washington. <name
+     type="person" key="245">Assistant Surgeon H. Allen</name>, <name type="organization" key="190"
+     >U. S. A.</name>, reports: "When admitted his affected limb looked as though no extension had
+    been employed. The ball had not been extracted, there was no union, and there was four and a
+    half inches shortening. <name type="person" key="1023">Acting Assistant Surgeon D.
+    Weisel</name>, under whose care the patient was placed, removed the splints and applied the
+    anterior splint. This treatment was continued until June 20th, when, suppuration becoming so
+    great, fear was entertained of pus burrowing toward the hip joint, and it was discontinued, and
+    sand bag supports and extension, produced by a bag of stones suspended by a rope run through a
+    pulley and attached to the base of the foot, substituted. The case progressed favorably. August
+    1st, small abscesses appeared near the knee, not, however, troublesome. There was little
+    burrowing of pus. <date type="operation" when="1863-08-07">August 7th</date>, <name
+     type="person" key="1023">Dr. Weisel</name> opened a small abscess on the posterior portion of
+    the thigh immediately behind the seat of fracture. <date type="operation" when="1863-08-26"
+     >August 26th</date>, several spicul&#230; of bone were extracted through this opening, together
+    with the bullet, which was flattened and contorted to a very irregular form. Early in September,
+    the pus was observed extending down the inner side of the thigh and opening two inches above the
+    internal condyle of the femur. By pressure pus could, at any time, be made to pass out of this
+    opening, it, no doubt, communicating with the injury above. The constitutional symptoms were
+    still favorable. October 1st, effusion in the knee joint of the corresponding side was first
+    noticed; the skin over the joint had an erysipelatous hue, and the joint was swollen. It was at
+    first thought that the opening on the inside of the thigh communicated with the joint, and that
+    pyarthrosis was caused thereby; but it was afterwards thought to be a case of suppurative
+    arthritis and in no direct way connected with the pus-producing surface about the seat of
+    fracture. From the first appearance of this complication the patient sank rapidly, the tongue
+    became dry and brown, the stomach rejected all aliment; hiccough was a constant and distressing
+    symptom. Severe pain was experienced in the limb. These signs of constitutional exhaustion
+    continued without relief until the day of his death, <date type="death" when="1863-10-06"
+     >October 6, 1863</date>." The secondary inflammation of the knee joint is shown in <hi
+     rend="initialcap">P</hi>LATE <hi rend="initialcap">XXV</hi>, opposite p. 184. The fractured
+    femur, showing fractures in the upper third, large deposits of callus, but without union, is <hi
+     rend="italic">Spec.</hi> 176l of the Surgical Section, A. M. M. (<hi rend="initialcap"
+    >F</hi>IG. 145.)</p>
+   <p>PLATE XXV. SECONDARY INFLAMMATION OF THE KNEE JOINT. Case of Pt. William Ziliox, F, 29th New
+    York</p>
+   <figure>
+    <graphic url="cww.001564.001"/>
+    <head><hi rend="initialcap">F</hi>IG. 145.&#8212;Shot fracture of upper third of left femur. <hi
+      rend="italic">Spec</hi>. 1761.</head>
+   </figure>
+
+
+  </body>
+ </text>
+</TEI>

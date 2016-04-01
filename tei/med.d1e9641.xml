@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e9641">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Meixner, Henry</title>
+                <title level="m" type="sub">a machine readable transcription</title>
+                <principal>Susan C. Lawrence</principal>
+                <principal>Kenneth M. Price</principal>
+                <principal>Kenneth J. Winkle</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2011</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <idno>med.d1e9641</idno>
+                <authority>Civil War Washington</authority>
+                <publisher>University of Nebraska–Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+                </distributor>
+                <date>2011</date>
+                <availability>
+                    <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved.
+                        Redistribution or republication in any medium, except as allowed under the
+                        Fair Use provisions of U.S. copyright law, requires express written consent
+                        from the editors and advance notification of the publisher, the University
+                        of Nebraska–Lincoln.</p>
+                </availability>
+            </publicationStmt>
+            <notesStmt>
+                <note type="project">The following are responsible for particular readings or for changes to this file, as noted: 
+                    <persName xml:id="mb">Matthew Bosley</persName>
+                    <persName xml:id="el">Elizabeth Lorang</persName>
+                    <persName xml:id="sb">Stacey Berry</persName>
+                    <persName xml:id="et">Elisabeth Tracey</persName>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>The Medical and Surgical History of the War of the Rebellion. (1861&#8211;65.)</title>
+                    <editor role="compiler">Surgeon General Joseph K. Barnes, United States Army</editor>
+                    <pubPlace>Washington, D.C.</pubPlace>
+                    <publisher>Government Printing Office</publisher>
+                    <biblScope type="part">Part 1</biblScope>
+                    <biblScope type="volume">Volume 2</biblScope>
+                    <date when="1870">1870</date>
+                    <biblScope type="page">132</biblScope>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <classDecl>
+                <taxonomy xml:id="medsurg">
+                    <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme="#medsurg">                    
+                    <term>on special wounds and injuries of the head</term>
+                    <term>wounds and injuries of the head</term>
+                    <term>gunshot wounds</term>
+                    <term>gunshot contusions of the cranial bones</term> 
+                    <term>gunshot fractures of the external table of the cranium alone</term>
+                    <term>fractures of the mastoidal region of the temporal</term>
+                    <term>outer lamina of contiguous portion of temporal fractured</term>
+                    <term>conoidal ball fractured outer plate of mastoid process of temporal bone</term>
+                    <term></term>
+                    <term></term>
+                    <term></term>
+                    <term></term>
+                    <term>h&#230;morrhage from occipital artery</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change who="#mb" when="2013-06-18">additional proofing of transcription and encoding, edited and added keyword terms</change>
+            <change who="#mb" when="2011-10-03">additional proofing of transcription and encoding</change>
+            <change who="#mb" when="2011-06-23">additional proofing of transcription and encoding</change>
+            <change who="#el" when="2011-05-11">case text extracted and transformed from larger file</change>
+            <change who="#sb" when="2011-02-09">enriched encoding</change>
+            <change who="#sb" when="2011-01-28">validated file</change>
+            <change who="#et" when="2009-08-01">encoded</change>
+            <change who="#sb" when="2008-09-22">initial checking of OCR text against PDF; encoded</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body xml:id="ch1.sc3.0145">            
+                <p><hi rend="initialcap">C</hi>ASE.&#8212;<name type="person" key="1296">Private
+                        Henry Meixner</name>, <name type="organization" key="491">Co. F, 61st
+                        Pennsylvania Volunteers</name>, aged 23 years, was wounded in the defences
+                    of <name type="place" key="#Washington">Washington, D. C.</name>, on <date type="injury" when="1864-07-12">July 12th,
+                        1864</date>, by a conoidal ball which fractured the outer plate of the
+                    mastoid process of the temporal bone.  He was, on <date type="admit"
+                        when="1864-07-12">the same day</date>, admitted to the <name type="hospital"
+                        key="165">Mount Pleasant Hospital</name>.  The wound became gangrenous, and
+                    on <date type="injury" when="1864-07-30">July 30th</date> h&#230;morrhage to the amount of ten ounces occurred from a branch of
+                    the occipital artery. On the following day h&#230;morrhage recurred, but was arrested
+                    by compression.  On <date type="furlough" when="1864-09-08">September 8th</date>
+                    <name type="person" key="1296">Meixner</name> was furloughed, and on <date type="admit" when="1864-11-08">November 8th</date> he was admitted to the hospital at
+                    <name type="place"><choice><orig>Pittsburg</orig><reg>Pittsburgh</reg></choice></name>, and on <date type="servicedischarge" when="1865-05-22">May 22d, 1865</date>,
+                    discharged from the service.  His name is not upon the Pension List.</p>            
+        </body>
+    </text>
+</TEI>

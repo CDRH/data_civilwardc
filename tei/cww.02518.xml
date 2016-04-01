@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="cww.02518">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Our Washington Correspondence</title>
+                <title level="m" type="sub">a machine readable transcription</title>
+                <editor role="co-editor">R. J. Weir</editor>
+                <principal>Susan C. Lawrence</principal>
+                <principal>Elizabeth Lorang</principal>
+                <principal>Kenneth M. Price</principal>
+                <principal>Kenneth J. Winkle</principal>
+                <respStmt>
+                    <resp>transcription and encoding</resp>
+                    <persName xml:id="ak">Alex Kinnaman</persName>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2015</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <idno>cww.02518</idno>
+                <distributor>Civil War Washington</distributor>
+                <publisher>University of Nebraska Lincoln</publisher>
+                <address>
+                    <addrLine>Center for Digital Research in the Humanities</addrLine>
+                    <addrLine>319 Love Library</addrLine>
+                    <addrLine>University of Nebraska-Lincoln</addrLine>
+                    <addrLine>P.O. Box 884100</addrLine>
+                    <addrLine>Lincoln, NE 68588-4100</addrLine>
+                </address>
+                <address>
+                    <addrLine>
+                        <email>cdrh@unl.edu</email>
+                    </addrLine>
+                </address>
+                <date>2015</date>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+                        <p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License (http://creativecommons.org/licenses/by-nc-sa/3.0/). Derivatives must be credited to Civil War Washington and R. J. Weir, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct xml:id="letter">
+                    <analytic>
+                        <author ref="#unk">Unsigned</author>
+                        <title level="a">Our Washington Correspondence</title>
+                    </analytic>
+                    <monogr>
+                        <title xml:id="paper" level="j">The Anglo-African</title>
+                        <imprint>
+                            <date xml:id="issue_date" when="1863-12-12">12 December 1863</date>                    
+                        </imprint>
+                        <biblScope type="pp">[2]</biblScope>                    
+                    </monogr>           
+                </biblStruct>
+                
+                <biblStruct xml:id="issue">               
+                    <monogr>
+                        <title level="j" sameAs="#paper"/>
+                        <imprint>
+                            <date sameAs="#issue_date"/>                  
+                        </imprint>              
+                    </monogr>                   
+                </biblStruct>                        
+            </sourceDesc>       
+        </fileDesc>
+        <encodingDesc> 
+            <p>This electronic text is a semi-diplomatic transcription of the source text. Hyphenation, punctuation, variant spellings, and errors present in the source text have been retained. The transcription does not attempt to capture all aspects of the original formatting or layout.</p>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <persName xml:id="unk">Unknown</persName>
+                <persName xml:id="rh">Hamilton, Robert</persName>
+                <persName xml:id="th">Hamilton, Thomas</persName>
+                <date when="1863">1863</date>
+            </creation>
+            <langUsage>
+                <language ident="en-US">modern American English</language>
+            </langUsage>
+            <textClass>
+                <classCode scheme="http://authorities.loc.gov">
+                    <term xml:id="sh2009114063">African Americans--Washington (D.C.)</term>
+                    <term xml:id="n85363511">Butler, Benjamin F. (Benjamin Franklin), 1818-1893</term>
+                    <term xml:id="n85335914">Colfax, Schuyler, 1823-1885</term>
+                    <term xml:id="n80013236">Douglass, Frederick, 1818-1895</term>
+                    <term xml:id="sh85051692">Freedmen</term>
+                    <term xml:id="sh85058352">Haiti--History</term>
+                    <term xml:id="n85145530">National Freedman's Relief Association of the District of Columbia</term>
+                    <term xml:id="n84037555">Payne, Daniel Alexander, 1811-1893</term>
+                    <term xml:id="no94012835">Smith, John C. (John Cross), 1803-1878</term>
+                    <term xml:id="sh85140274">United States--History--Civil War, 1861-1865--Societies, etc</term>
+                </classCode>
+                <classCode scheme="http://civilwardc.org">
+                    <term>Brown, John Mifflin, 1817-1893</term>
+                    <term>George, Baker E.</term>
+                    <term>Hamilton, Robert, 1819-1870</term>
+                    <term>Madame Magnan</term>
+                    <term>Needham, George T.</term>
+                    <term>Posey, Samuel</term>
+                    <term>Roumain, Ernest</term>
+                    <term>Slade, William</term>
+                    <term>Stewart, Eliza</term>
+                </classCode>
+                <classCode scheme="http://chroniclingamerica.loc.gov">
+                    <term xml:id="sn93062890">The Christian Recorder</term>
+                </classCode>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when="2015-04-07" who="#ak">corrected</change>
+            <change when="2015-04-02" who="#el">checked transcription and encoding and made necessary changes; updated TEI header, including keywords</change>
+            <change when="2015-03-30" who="#ak">added keywords</change>
+            <change when="2015-02-24" who="#ak">checked, corrected, updated xml:id</change>
+            <change when="2014-11-17" who="#ak">checked transcription, encoded</change>
+        </revisionDesc>
+    </teiHeader>
+    
+    <facsimile corresp="#issue">
+        <surface xml:id="pp1">
+            <graphic url="aa.18631212.pp1.jpg"/>
+        </surface>
+        <surface xml:id="pp2">
+            <graphic url="aa.18631212.pp2.jpg"/>
+            <zone xml:id="pp2_cropped" corresp="#letter">
+                <graphic url="aa.18631212.pp2_cropped.jpg"/>
+            </zone>
+        </surface>
+        <surface xml:id="pp3">
+            <graphic url="aa.18631212.pp3.jpg"/>
+        </surface>
+        <surface xml:id="pp4">
+            <graphic url="aa.18631212.pp4.jpg"/>
+        </surface>
+    </facsimile>
+    
+    <text corresp="#letter #pp2_cropped">
+        <body>
+            <div>
+                
+                <head type="main" subtype="authorial" rend="center">Our Washington Correspondence.</head>
+                
+                <milestone unit="undeclared" rend="medium-bar"/>
+                
+                <note type="newspaper-editorial">[<emph rend="smallcaps">This</emph> matter was prepared for our last issue, <lb/>but owing to a press of advertisements it was <lb/>laid over.&#8212;<emph rend="smallcaps">Ed</emph>.]</note>
+                
+                <p><emph rend="smallcaps">We</emph> are pleased to inform the many readers <lb/>of <title level="j" rend="smallcaps">The Anglo-African</title> that our worthy friend <lb/>and brother correspondent, William Slade, has <lb/>so much improved in health as to be able to <lb/>walk out from his residence.</p>
+            </div>
+            
+            <div>
+                <head type="main" subtype="authorial" rend="center">COST OF LIVING IN WASHINGTON.</head>
+                <p>The cost of living in Washington has grown <lb/>to a very important matter.  The sudden and <lb/>unprecedented rise in all kind of edibles&#8212;will, <lb/>we fear, cause a great deal of suffering among <lb/>our poorer classes during the coming winter. <lb/>Fuel has also taken an upward tendency.  Coal <lb/>has already gone up to Twelve dollars per ton <lb/>of 2,240 pounds, and wood is selling at $8 and <lb/>$9 per cord.  We fear much real suffering will <lb/>be experienced by a large number of our <choice><orig>freed-<lb/>men</orig><reg>freedmen</reg></choice> and women who have been lately thrown <lb/>upon us by the war.  House rent too has <choice><orig>ad-<lb/>vanced</orig><reg>advanced</reg></choice> to high rates, for almost every <choice><orig>descrip-<lb/>tion</orig><reg>description</reg></choice> of tenements.  With all the signs of coming <lb/>distress our people here are living in ruinous <lb/>extravagance, and they seem little disposed to <lb/>make necessary retrenchment to ward off the <lb/>coming distress which must follow their <choice><orig>pre-<lb/>sent</orig><reg>present</reg></choice> mode of living.  It is not our intention to <lb/>interfere or meddle with the private affairs of <lb/>any people, but we wish to warn them of any <lb/>danger that we see awaiting them, and in so <lb/>doing we act with the best of feeling.</p>
+            </div>
+            <div>
+                <head type="main" subtype="authorial" rend="center">STREET CARS FOR COLORED PERSONS.</head>
+                <p>The street passenger railroad company have <lb/>determined to put on the road a number of two <lb/>horse cars for its colored passengers, instead <lb/>of the one horse cars now in use, to meet the <lb/>growing demand of the colored travelling <choice><orig>pub-<lb/>lic</orig><reg>public</reg></choice>.  Those on do not by far meet the <choice><orig>de-<lb/>mand</orig><reg>demand</reg></choice> of those who are continually travelling <lb/>from point to point of our city.  They are also <lb/>to run on the Sabbath in conjunction with the <lb/>white line.</p>
+            </div>
+            <div>
+                <head type="main" subtype="authorial" rend="center">THE HEALTH OF THE CITY.</head>
+                <p>The much-dreaded disease, small pox, has <lb/>again made its appearance in good earnest, <lb/>and is raging in some localities to a fearful <lb/>extent.  The past Summer is the first in our <lb/>recollection that this disease has lingered in <lb/>this locality.  Many deaths have occurred <lb/>from it.</p>
+            </div>
+            <div>
+                <head type="main" subtype="authorial" rend="center">SCHOOLS FOR FREEDMEN.</head>
+                <p>A school for the freedmen will be opened on <lb/>Monday, Nov. 23d, to be located in Seventh <lb/>Ward (Island).  These schools are to be free. <lb/>An evening school will also be opened which <lb/>will also be free to be held Monday and Friday <lb/>evenings of each week.  Mr. George E. Baker <lb/>the treasurer of the Freedmen's Relief <choice><orig>Associa-<lb/>tion</orig><reg>Association</reg></choice>, will receive and receipt for all moneys for <lb/>the support of these schools.</p>
+                
+                <p>These schools are under the management of <lb/>Mr. G. F. Needham, Chairman of Committee of <lb/>Arrangements of the Freedmen's Relief <choice><orig>Asso-<lb/>ciation</orig><reg>Association</reg></choice> (white).</p>
+                
+                <p>This indeed is a laudable enterprise on the <lb/>part of this association.</p>
+            </div>
+            
+            <div>
+                <head type="main" subtype="authorial" rend="center">THE LATE MISS ELIZA STEWART.</head>
+                <p>The obituary discourse on the life and <choice><orig>char-<lb/>acter</orig><reg>character</reg></choice> of Miss Eliza Stewart was pronounced <lb/>by the Rev. John C. Smith (white), Pastor of <lb/>the 4th Presbyterian Church, at the 15th street <lb/>Presbyterian church, on Sabbath afternoon, <lb/>Nov. 22d, to a large congregation of sorrowing <lb/>friends.  Miss Stewart was a faithful member <lb/>of the Presbyterian Church, and was among its <lb/>first members.  She devoted much of her time <lb/>attending on the sick and in other good works <lb/>characteristic of a Christian.  Miss Eliza will <lb/>be much missed.</p>
+            </div>
+            
+            <div>
+                <head type="main" subtype="authorial" rend="center">THE SHOCKING DEATH OF WM. CHASE.</head>
+                <p>Mr. William Chase, an old citizen, who had <lb/>been carrying on blacksmithing for years in <lb/>this city, met his death on Monday noon, Nov. <lb/>23d, in the following horrible manner.  It <choice><orig>ap-<lb/>pears</orig><reg>appears</reg></choice> that Samuel Posey, a colored <choice><orig>govern-<lb/>ment</orig><reg>government</reg></choice> detective, went in Mr. Chase's shop, and <lb/>taking out a pistol complained bitterly of its <lb/>condition, being, he said, out of order.  Chase <lb/>and Posey then set to work to correct its <choice><orig>de-<lb/>fect</orig><reg>defect</reg></choice>.  While Chase was trying to unscrew the <lb/>part affected the weapon exploded, lodging the <lb/>contents in the body of Mr. Chase and which <lb/>caused his death in a few moments.  The news <lb/>of this shocking affair ran like wild-fire over <lb/>the city.  Mr. Chase is a man well known over <lb/>this entire community, having done business <lb/>here as a blacksmith and wheelwright for <choice><orig>fif-<lb/>teen</orig><reg>fifteen</reg></choice> or twenty years.  Mr. Chase lived a <choice><orig>bache-<lb/>lor</orig><reg>bachelor</reg></choice> until quite advanced in age when he <choice><orig>mar-<lb/>ried</orig><reg>married</reg></choice> Miss Lucinda Seaton of Alexandria, Va., <lb/>and has since resided in this city.  Mrs. Chase <lb/>is now left a widow with several children.</p>
+                
+                <p>Mr. Posey was examined by a Justice of the <lb/>Peace and the evidence showed it a purely <choice><orig>acci-<lb/>dental</orig><reg>accidental</reg></choice> shooting, and Posey was put under <lb/>security for his appearance at court to answer <lb/>this unfortunate charge.  We sympathize with <lb/>with Mrs. Chase in her very sudden affliction. <lb/>This should be an additional warning against <lb/>the handling of fire-arms.</p>
+            </div>
+            
+            <div>
+                <head type="main" subtype="authorial" rend="center">MR. DOUGLASS'S LECTURE.</head>
+                <p>The all-prevailing topic of the day is the <choice><orig>ex-<lb/>pected</orig><reg>expected</reg></choice> lecture of Mr. Douglass before the <lb/>Ladies' Contraband Relief Association.  A <lb/>crowded house is anticipated.</p>
+            </div>
+            
+            <div>
+                <head type="main" subtype="authorial" rend="center">THE CHRISTIAN RECORDER.</head>
+                <p>An effort is on foot here to establish an edi-<lb/>torial corps for <title level="j" rend="italic">The Recorder</title>.  We do not <lb/>think it proper to mention names at present. <lb/>But we will say success to the young <choice><orig>gentle-<lb/>men</orig><reg>gentlemen</reg></choice> who will form it.</p>
+            </div>
+            
+            <div>
+                <head type="main" subtype="authorial" rend="center">BISHOP PAYNE.</head>
+                <p>The Bishop passed through Washington on <lb/>his return from Norfolk and Portsmouth.  We <lb/>had a short but pleasant interview with the <lb/>Bishop.  He expressed himself much pleased <lb/>with his trip, and his many friends will be <lb/>glad to know that his mission was a perfect <lb/>success, and when his able pen is set to work <lb/>to describe the wonderful things that he there <lb/>saw&#8212;the world may expect a treat; he has <lb/>established two Churches and an extensive <choice><orig>cir-<lb/>cuit</orig><reg>circuit</reg></choice>.  We learn that the Rev. J. M. Brown <lb/>will take charge of this District.  He is the <lb/>man for the place.  May Mr. Brown's <choice><orig>minis-<lb/>terial</orig><reg>ministerial</reg></choice> labor be crowned with great success.</p>
+            </div>
+            
+            <div>
+                <head type="main" subtype="authorial" rend="center">THE <choice><sic>HAYTIEN</sic><corr>Haytian</corr></choice> MINISTER.</head>
+                <p>The Haytian minister has left here, having <lb/>become disgusted with the general treatment <lb/>received at the hands of the majority of the <lb/>white citizens of this city.  He determined to <lb/>go to New York city, there to reside, instead <lb/>of residing in the National Metropolis, where <lb/>all foreign ministers are required to reside by <lb/>the laws of their country, but in the case of <lb/>the Haytian minister, he met with an <choice><orig>indif-<lb/>ferent</orig><reg>indifferent</reg></choice> reception, for while the President and <lb/>some of the members of his Cabinet, received <lb/>him as they did other foreign representatives <lb/>we are sorry to state many others, occupying <lb/>high official positions here, did not give him <lb/>the same reception that they did to others. <lb/>However, be this as it may, we have the <choice><orig>satis-<lb/>faction</orig><reg>satisfaction</reg></choice> to know that we have had a colored <lb/>man in this country for the first time, in all the <lb/>history of this proud nation, representing the <lb/>interest of a colored republic.</p>
+                
+                <p>The question may be asked by some persons <lb/>why the Haytian minister left the seat of <lb/>government and taken up his residence in the <lb/>commercial metropolis.  To this we would say, <lb/>there is more society in New York city for him <lb/>than there is in this city, and his associations <lb/>will be more congenial to his feelings.  The <lb/>question has often been asked of us, and many <lb/>colored persons, why we did not call on the other <lb/>Haytian minister&#8212;to this we will answer by <lb/>saying, the position he occupied in this <choice><orig>cou-<lb/>try</orig><reg>country</reg></choice> is quite different from that any other man <lb/>ever occupied, therefore many of his colored <lb/>friends were precluded from paying him and <lb/>his family the usual civilities paid to our <choice><orig>dis-<lb/>tinguished</orig><reg>distinguished</reg></choice> colored Americans; but may we <lb/>not say that this is an age of progress, and, <lb/>we are making rapid strides onwards against <lb/>all the prejudices with which we have to <choice><orig>con <lb/>-tend</orig><reg>contend</reg></choice>?  Believing as we do, the time is not far <lb/>distant when we shall occupy <emph rend="italic">social and <choice><orig>politi-<lb/>cal</orig><reg>political</reg></choice> positions</emph>, where we shall not be known by <lb/><emph rend="italic">our color</emph>, let us be <emph rend="italic">united</emph> and prepare <choice><orig>our-<lb/>selves</orig><reg>ourselves</reg></choice> for coming events, so that when we are <lb/>called on to fill any position, <emph rend="italic">civil or military</emph>, <lb/>we may do so with honor to ourselves, and <lb/>satisfaction to those whom we may represent.</p>
+            </div>
+            
+            <div>
+                <head type="main" subtype="authorial" rend="center"> A SERIES OF CONCERTS.</head>
+                <p>We are informed that Madam Magnan and <lb/>Mr. Robert Hamilton, intend to give a series of <lb/>concerts here this Winter.  This combination of <lb/>musical talent will furnish a great treat to the <lb/>citizens of Washington and vicinity.  We <lb/>have the pleasure of being acquainted with <lb/>these artists, and there is no doubt their <choice><orig>con-<lb/>certs</orig><reg>concerts</reg></choice> will be liberally patronized.  We suggest <lb/>that these concerts should take place before <lb/>Christmas or after New Year.  We have been <lb/>informed it is the intention of the choir of the <lb/>15th street Presbyterian Church to give one or <lb/>two concerts during the month of December, for <lb/>the benefit of said Church.</p>
+            </div>
+            
+            <div>
+                <head type="main" subtype="authorial" rend="center">MEETING OF CONGRESS.</head>
+                <p>We have very little news of a local <choice><orig>charac-<lb/>ter</orig><reg>character</reg></choice> to relate at this time.  Everybody seems <lb/>to be looking forward to the meeting of the <lb/>next Congress, and speculating with regard to <lb/>the Speaker of the House.  Public opinion, <choice><orig>how-<lb/>ever</orig><reg>however</reg></choice>, seems to have fallen on the Hon. Mr. <choice><orig>Col-<lb/>fax</orig><reg>Colfax</reg></choice>, of Indiana, and should the Hon. Mr. Colfax <lb/>be elected, we believe he will make a faithful <lb/>officer&#8212;coming up to the most radical ideas of <lb/>his friends.  He has always been considered a <lb/>strong Republican.</p>
+            </div>
+            
+            <div>
+                <head type="main" subtype="authorial" rend="center">MISCELLANEOUS.</head>
+                <p>We notice that Messrs. Robert Hamilton and <lb/>Hinton have been paying a visit to Baltimore<lb/>&#8212;and I have been informed it was the <choice><orig>inten-<lb/>tion</orig><reg>intention</reg></choice> of these gentlemen, to visit Norfolk, Va., <lb/>in order to see how things are moving in that <lb/>section of our country, now that General <choice><orig>But-<lb/>ler</orig><reg>Butler</reg></choice> has been assigned to the command of that <lb/>department&#8212;we may expect the enemies of <lb/>human liberty to keep quiet&#8212;judging from the <lb/> tenor of his first order, after assuming the <lb/>command.  We have been informed that the <lb/>army of the Potomac are moving, but in which <lb/>direction we are not prepared to say&#8212;<choice><orig>how-<lb/>ever</orig><reg>however</reg></choice>, it is not coming to this neighborhood. <lb/>We understand that the President has given <lb/>orders to find the enemy and give him battle.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

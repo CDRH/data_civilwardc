@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d2e31556">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Freshwater, William</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+       <idno>med.d2e31556</idno>
+       <authority>Civil War Washington</authority>
+       <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor>
+       <name>Center for Digital Research in the Humanities</name>
+       <address><addrLine>319 Love Library</addrLine>
+       <addrLine>University of Nebraska–Lincoln</addrLine>
+       <addrLine>Lincoln, NE 68588-4100</addrLine>
+       <addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+    </distributor>
+    <date>2011</date>
+    <availability>
+        <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+         republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+         law, requires express written consent from the editors and advance notification of the
+         publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+     <persName xml:id="mb">Matthew Bosley</persName>
+     <persName xml:id="mb-o">Miguel Beltran-Orozco</persName>
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl>
+     <title level="j">The Medical and Surgical History of the War of the Rebellion. (1861-65.)</title>
+     <pubPlace>Washington, DC</pubPlace>
+     <publisher>Government Printing Office</publisher>
+     <biblScope type="part">Part 2</biblScope>
+     <biblScope type="volume">Volume 2</biblScope>
+     <date when="1876">1876</date>
+     <biblScope type="page">158</biblScope>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+       <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+      <keywords scheme="#medsurg">
+       <term>injuries of the abdomen</term>
+       <term>penetrating wounds of the abdomen</term>
+       <term>wounds of the pancreas</term>
+       <term>wounds of abdomen, forearm, and neck</term>
+       <term>ball entered outside nipple on level with seventh rib, lodged under skin near spinous process of last dorsal vertebra</term> 
+       <term>peritonitis</term>
+       <term>ball pierced diaphragm without touching lung</term>
+       <term>peritoneal inflammation without perforation of intestines</term>
+       <term>pancreas protruded at wound</term>    
+       <term>conveyed in army wagon</term>
+     </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change who="#mb" when="2012-08-07">additional proofing of transcription and encoding, identified keyword terms</change>
+   <change who="#mb-o" when="2011-02-20">checked OCR; added minimal mark-up for personal names, place names, and dates</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p><hi rend="initialcap">C</hi>ASE 504.&#8212;<name type="person" key="xxx">Private William Freshwater</name>, <name type="organization" key="xxx">Co. F, 66th Ohio</name>, received wounds of the abdomen, left forearm, and neck, at <name type="battle">Port Republic</name>, <date type="injury" when="1862-06-09">June 9, 1862</date>. He was conveyed in an army wagon to <name type="place">Front Royal</name>, arriving on the 13th, and on <date type="transfer" when="1862-06-14">the 14th</date> was sent by rail to <name type="place" key="#Washington">Washington</name>, and admitted, on <date type="admit" when="1862-06-15">the 15th</date>, to <name type="hospital" key="428">Judiciary Square Hospital</name>. He was placed in a ward under the charge of <name type="person" key="xxx">Acting Assistant Surgeon David W. Cheever</name>, who states that "a ball had entered one and a half inches outside the left nipple, on a level with the seventh rib, and could be felt under the skin near the spinous process of the last dorsal vertebra. Some viscus, thought to be the lower tip of the lung, protruded at the wound.  He died in two days (<date type="death" when="1862-06-17">June 17th</date>), with symptoms of peritonitis.  <hi rend="italic">Post mortem</hi>: The ball pierced the diaphragm without touching the lower lobe of the lung; there was no perforation of the intestines, but they were glued together by peritoneal inflammation. The pancreas protruded at the wound." </p>      
+  </body>
+ </text>
+</TEI>

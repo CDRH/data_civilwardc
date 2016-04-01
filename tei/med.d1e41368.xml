@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e41368">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Foltz, James K.</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+    <idno>med.d1e41368</idno>
+       <authority>Civil War Washington</authority>
+       <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor>
+       <name>Center for Digital Research in the Humanities</name>
+       <address><addrLine>319 Love Library</addrLine>
+       <addrLine>University of Nebraska–Lincoln</addrLine>
+       <addrLine>Lincoln, NE 68588-4100</addrLine>
+       <addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+    </distributor>
+    <date>2011</date>
+    <availability>
+        <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+         republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+         law, requires express written consent from the editors and advance notification of the
+         publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+     <persName xml:id="mb">Matthew Bosley</persName>     
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl>
+     <title level="j">The Medical and Surgical History of the War of the Rebellion. (1861-65.)</title>
+     <pubPlace>Washington, DC</pubPlace>
+     <publisher>Government Printing Office</publisher>
+     <biblScope type="part">Part 2</biblScope>
+     <biblScope type="volume">Volume 1</biblScope>
+     <date when="1879">1879</date>
+     <biblScope type="page">189</biblScope>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+       <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+      <keywords scheme="#medsurg">
+       <term>diarrh&#339;a and dysentery</term>
+       <term>fatal cases of diarrh&#339;a and dysentery, with accounts of the morbid appearances observed</term>
+       <term>from the Second Division of the Alexandria Hospital, Virginia</term>
+       <term>pleural cavity contained fluid, recent deposit of lymph on lung posteriorly</term>
+       <term>deposit of tubercle observed in lower lobe of lung</term>
+       <term>lung in last stage of pneumonia</term>
+       <term>mucous membrane of lower ileum, colon, and rectum inflamed but not ulcerated</term>
+       <term>no ulcerations in Peyer's patches</term>
+       <term>mesenteric glands very dark colored</term>
+       <term>chronic diarrh&#339;a</term>
+       <term>rheumatism</term>
+       <term>autopsy performed</term>       
+     </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change who="#mb" when="2012-12-12">copied case from MSHWR, added proofing of transcription and encoding, identified keyword terms and figures</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body> 
+   <p>Case from the case-book of the <name type="hospital" key="501"><hi rend="initialcap">S</hi>ECOND <hi rend="initialcap">D</hi>IVISION</name> of the <name type="place" key="#Alexandria"><hi rend="initialcap">A</hi>LEXANDRIA</name> <hi rend="initialcap">H</hi>OSPITAL, Virginia, <name type="person" key="134">Surgeon Edwin Bentley</name>, <name type="organization" key="132">U. S. V.</name>, in charge.  Autopsy was made and recorded in the case-book by <name type="person" key="655">Acting Assistant Surgeon Thomas Bowen</name>:</p>
+   <p><hi rend="initialcap">C</hi>ASE 446.&#8212;<name type="person" key="xxx">Private James K. Foltz</name>, <name type="organization" key="xxx">company B, 60th Ohio volunteers</name>; age 17; admitted from the field <date type="admit" when="1864-10-12">October 12, 1864</date>.  Chronic diarrh&#339;a.  [This man appears on the register of the depot hospital of the 9th Corps, <name type="place">City Point, Virginia</name>, admitted <date type="admit" when="1864-09-01">September 1st</date>&#8212;rheumatism and diarrh&#339;a; no disposition.]  Died, <date type="death" when="1864-10-27">October 27th</date>.  <hi rend="italic">Autopsy</hi> <date type="autopsy" when="1864-10-29">forty-eight hours after death</date>:  Rigor mortis great; body extremely emaciated; bed-sores posteriorly. Head, neck and spinal column not examined. The left pleural cavity contained an ounce of fluid, and there was a recent deposit of lymph on the left lung posteriorly; a small deposit of tubercle was observed in the lower lobe of the left lung; the lower lobe of the right lung was in the last stage of pneumonia; its structure broke down easily when crushed between the fingers; it was adherent to the costal pleura. The heart and pericardium were normal. The liver was normal; the gall-bladder contained about two drachms of bile. The spleen and pancreas were normal. The mucous membrane of the stomach and jejunum was quite healthy; that of the lower part of the ileum, colon, and rectum very much inflamed, but not ulcerated, nor were there any ulcerations in Peyer's patches. The mesenteric glands were very dark colored. The kidneys were normal; the bladder empty.&#8212;<name type="person" key="655">Acting Assistant Surgeon Thomas Bowen</name>.</p> 
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d2e20941">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Holmes, W.</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+    <idno>med.d2e20941</idno>
+    <authority>Civil War Washington</authority>
+    <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor><name>Center for Digital Research in the
+     Humanities</name><address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address></distributor>
+    <date>2011</date>
+    <availability>
+     <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+      republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+      law, requires express written consent from the editors and advance notification of the
+      publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+ <persName xml:id="kmp">Kenneth M. Price</persName> <persName xml:id="ajh">AJ Howell</persName>
+     <persName xml:id="mb">Matthew Bosley</persName>
+     <persName xml:id="el">Elizabeth Lorang</persName>
+     <persName xml:id="sb">Stacey Berry</persName>
+     <persName xml:id="et">Elisabeth Tracey</persName>
+     <persName xml:id="ss">Sarah Synovec</persName>
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title level="j">The Medical and Surgical History of the War of the Rebellion.
+      (1861-65.)</title><pubPlace>Washington, DC</pubPlace><publisher>Government Printing
+      Office</publisher><biblScope type="part">Part 3</biblScope><biblScope type="volume">Volume
+      2</biblScope><date when="1883">1883</date><biblScope type="page">545</biblScope></bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+     <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <keywords scheme="#medsurg">
+     <term>wounds and injuries of the lower extremities</term>
+     <term>wounds and operations in the leg</term>
+     <term>shot fractures of the bones of the leg</term>
+     <term>amputations in the continuity of the leg for shot fractures</term>
+     <term>secondary amputations in the continuity of the leg for shot injury</term>
+     <term>secondary amputations in the middle third of the leg for shot injury</term>
+     <term>recoveries after secondary amputations in the middle third of the leg for shot
+      injury</term>
+     <term>compound comminuted fractures of tibia and fibula at lower third</term>
+     <term>diarrh&#339;a</term>
+     <term>leg removed half way between ankle and knee</term>
+     <term>supplied with artificial leg</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+ <change who="#kmp" when="2014-05">blessed</change>
+   <change who="#ajh" when="2013-08-23">added figure encoding</change>
+   <change who="#mb" when="2012-06-11">additional proofing of transcription and encoding, identified
+    keyword terms</change>
+   <change who="#el" when="2011-05-11">case text extracted and transformed from larger file</change>
+   <change who="#sb" when="2011-06-04">Enrich Encoding, Edit and validate</change>
+   <change who="#sb" when="2011-01-28">Validated File</change>
+   <change who="#ss" when="2008-09-22">initial checking of OCR text; encoded P5 Encoding</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p><hi rend="initialcap">C</hi>ASE 793.&#8212;<name type="person" key="1316">Private W.
+     Holmes</name>, <name type="organization" key="506">Co. D, 18th Massachusetts</name>, aged 20
+    years, was wounded in the right leg, at <name type="BATTLE" key="4">Fredericksburg</name>, <date
+     type="injury" when="1862-12-13">December 13, 1862</date>. He passed from a field hospital to
+     <name type="hospital" key="174">Campbell Hospital</name>, Washington, <date type="transfer"
+     when="1862-12-27">two weeks after receiving the injury</date>, and <date type="transfer"
+     when="1863-06">six months afterwards</date> he was transferred to <name type="hospital"
+     key="xx">Mower Hospital, Philadelphia</name>. <name type="person" key="xx">Surgeon J.
+     Hopkinson</name>, <name type="organization" key="132">U. S. V.</name>, in charge of the latter,
+    recorded the following history: "The patient was suffering from a compound comminuted fracture
+    of the tibia and fibula at the lower third. He also complained of diarrh&#339;a, for which chalk
+    mixture and laudanum were administered. Dead bone was discovered by the probe. The leg had been
+    operated on and several pieces of bone removed. At the time of admission, <date type="admit"
+     when="1863-06-20">June 20th</date>, it was very much enlarged and disfigured by cicatrices. The
+    wound was dressed with warm-water poultices every hour. On <date type="operation"
+     when="1863-07-15">July 15th</date> a large ulcer had broken out on the limb and a large piece
+    of bone was taken away. Warm-water dressings were still continued, and the foot was kept
+    elevated. On the following day the ulcer was found to be extending, and bread and milk poultices
+    were ordered to be applied. Subsequently chlorate of potassa and muriatic disinfecting lotion
+    were used. On July 19th, creasote was applied to the ulcer; warm-water dressings continued; bone
+    now in a sad state. On <date type="operation" when="1863-07-22">July 22d</date> the leg was
+    removed by flap operation by <name type="person" key="1315">Assistant Surgeon C. R.
+     Greenleaf</name>, <name type="organization" key="190">U. S. A.</name>, half way between the
+    ankle and the knee. The flaps were brought accurately together and dressed with water dressing.
+    On the following day the patient felt easy, having slept well during the night after taking a
+    half grain of morphia; pulse 100, full and soft. On July 26th the dressing was removed; stump
+    looking well and patient doing well. Extra diet was given, and porter daily. The stump healed
+    rapidly and the patient's general health was excellent. On <date type="furlough"
+     when="1863-09-30">September 30th</date> the stump had entirely healed and the patient went home
+    on furlough." He was subsequently transferred to Haddington Hospital, and later to Ladies Home,
+     <name type="place">New York City</name>, where he was supplied with an artificial leg of the
+    "Ely" pattern, and whence he was discharged <date type="servicedischarge" when="1864-04-12"
+     >April 12, 1864</date>, and pensioned. In his subsequent applications for commutation he
+    described the condition of the stump as continuing in a "healthy state." The amputated bones of
+    the leg (<hi rend="italic">Spec</hi>. 2594), contributed by <name type="person" key="1315">the
+     operator</name>, are represented in the annexed wood-cut (<hi rend="initialcap">F</hi>IG. 320)
+    and exhibit the seat of the fracture, the fibula being firmly consolidated, and much callus
+    being effused about the tibia, but caries having prevented firm union. The pensioner was paid
+     <date type="pension" when="1881-03-04">March 4, 1881</date>. </p>
+   <figure>
+    <graphic url="cww.001645.001"/>
+    <head><hi rend="initialcap">F</hi>IG. 320.&#8212;Bones of the right leg seven months after
+     fracture. <hi rend="italic">Spec</hi>. 2594.</head>
+   </figure>
+  </body>
+ </text>
+</TEI>

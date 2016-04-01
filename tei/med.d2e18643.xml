@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d2e18643">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Leichty, J.</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+    <idno>med.d2e18643</idno>
+    <authority>Civil War Washington</authority>
+    <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor><name>Center for Digital Research in the
+     Humanities</name><address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address></distributor>
+    <date>2011</date>
+    <availability>
+     <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+      republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+      law, requires express written consent from the editors and advance notification of the
+      publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+     <persName xml:id="mb">Matthew Bosley</persName>
+     <persName xml:id="el">Elizabeth Lorang</persName>
+     <persName xml:id="sb">Stacey Berry</persName>
+     <persName xml:id="et">Elisabeth Tracey</persName>
+     <persName xml:id="ss">Sarah Synovec</persName>
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title level="j">The Medical and Surgical History of the War of the Rebellion.
+      (1861-65.)</title><pubPlace>Washington, DC</pubPlace><publisher>Government Printing
+      Office</publisher><biblScope type="part">Part 3</biblScope><biblScope type="volume">Volume
+      2</biblScope><date when="1883">1883</date><biblScope type="page">447</biblScope></bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+     <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <keywords scheme="#medsurg">
+     <term>wounds and injuries of the lower extremities</term> 
+     <term>wounds and operations in the leg</term>
+     <term>shot fractures of the bones of the leg</term>
+     <term>excisions in the continuity of the bones of the leg for shot injury</term> 
+     <term>primary excisions in the shaft of the tibia, of the fibula, or of both bones</term> 
+     <term>recoveries after primary excisions in the continuity of the bones of the leg</term>
+     <term>shot fracture of fibula of leg</term> 
+     <term>resection performed at field hospital</term> 
+     <term>injured fibula excised on field</term>
+     <term>walks lame, tendons back of knee contracted</term>
+     <term>foot cannot be planted even</term> 
+     <term>toes of foot tend to turn downward</term>
+     <term>secondary h&#230;morrhage, posterior tibial artery ligated</term>
+     <term>fractured fibula excised</term>     
+    </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change who="#mb" when="2012-06-05">additional proofing of transcription and encoding, identified keyword terms</change>
+   <change who="#el" when="2011-05-11">case text extracted and transformed from larger file</change>
+   <change who="#sb" when="2011-06-04">Enrich Encoding, Edit and validate</change>
+   <change who="#sb" when="2011-01-28">Validated File</change>
+   <change who="#ss" when="2008-09-22">initial checking of OCR text; encoded P5 Encoding</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>   
+    <p><hi rend="initialcap">C</hi>ASE 708.&#8212;<name type="person" key="1257">Private J.
+      Leichty</name>, <name type="organization" key="486">Co. F, 8th Pennsylvania Reserves</name>,
+     aged 21 years, received a shot fracture of the fibula of the left leg, at <name type="BATTLE" key="3"><choice><orig>Spottsylvania</orig><reg>Spotsylvania</reg></choice></name>, <date type="injury" when="1864-05-11">May 11, 1864</date>. <name type="person" key="xx">Surgeon L. W. Read</name>, <name type="organization" key="132">U. S. V.</name>,
+     reported that he was admitted to the field hospital of the 3d division, Fifth Corps, where "resection was performed by <name type="person" key="xx">Surgeon T. Jones</name>, <name type="organization" key="486">8th Pennsylvania
+     Reserves</name>."  <name type="person" key="905">Assistant Surgeon A. Ingram</name>, <name type="organization" key="190">U. S. A.</name>, contributed the following history: "The wounded
+     man entered <name type="hospital" key="428">Judiciary Square Hospital</name>, Washington, <date type="transfer" when="1864-05-18">May 18th</date>. About six inches of the injured fibula had been
+     excised on the field. Secondary h&#230;morrhage occurred from the posterior tibial artery to
+     the amount of thirty-two ounces, when the vessel was ligated in the wound. By June 14th the
+     patient was progressing well. Cold-water dressings were used, and milk punch and a supporting
+     treatment was administered." The patient was subsequently transferred to hospital at <name type="place">Alexandria</name>, whence he was discharged from service <date type="servicedischarge" when="1865-01-11">January 11, 1865</date>, and pensioned.   <name type="person" key="xx">Examining Surgeon J. McCullock</name>, of <name type="place" key="xx">Huntingdon, Pennsylvania</name>, <date type="pension" when="1867-04-18">April 18, 1867</date>, described the wound, and added that the "leg has sloughed largely and discharged a number of pieces of bone, the last one about three weeks ago. Since that time the wound has
+     healed; tendons back of knee contracted; walks lame; wound painful," etc. <name type="person"
+      key="xx">Examiner A. B. Brumbaugh</name> reported, in <date type="pension" when="1877">1877</date>, that, as a result of the resection, "The
+     foot cannot be planted even, as it would turn outward from the want of fibular support, and he
+     has to keep his shoe blocked up accordingly to support the foot. The toes of the left foot tend
+     to turn downward, like hooks, from injury to the nerves and muscles. The leg is not quite but
+     almost useless for all purposes of manual labor." The pensioner was paid <date type="pension" when="1880-03-04">March 4, 1880</date>.</p>   
+  </body>
+ </text>
+</TEI>

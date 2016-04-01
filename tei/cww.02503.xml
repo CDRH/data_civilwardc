@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="cww.02503">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Letter From Washington</title>
+                <title level="m" type="sub">a machine readable transcription</title>
+                <editor role="co-editor">R. J. Weir</editor>
+                <principal>Susan C. Lawrence</principal>
+                <principal>Elizabeth Lorang</principal>
+                <principal>Kenneth M. Price</principal>
+                <principal>Kenneth J. Winkle</principal>
+                <respStmt>
+                    <resp>transcription and encoding</resp>
+                    <persName xml:id="ak">Alex Kinnaman</persName>
+                    <persName xml:id="el">Elizabeth Lorang</persName>
+                    <persName xml:id="bw">Becca Weir</persName>
+                    <persName xml:id="kk">Kourtney Klein</persName>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2015</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <idno>cww.02503</idno>
+                <distributor>Civil War Washington</distributor>
+                <publisher>University of Nebraska Lincoln</publisher>
+                <address>
+                    <addrLine>Center for Digital Research in the Humanities</addrLine>
+                    <addrLine>319 Love Library</addrLine>
+                    <addrLine>University of Nebraska-Lincoln</addrLine>
+                    <addrLine>P.O. Box 884100</addrLine>
+                    <addrLine>Lincoln, NE 68588-4100</addrLine>
+                </address>
+                <address>
+                    <addrLine>
+                        <email>cdrh@unl.edu</email>
+                    </addrLine>
+                </address>
+                <date>2015</date>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+                        <p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License (http://creativecommons.org/licenses/by-nc-sa/3.0/). Derivatives must be credited to Civil War Washington and R. J. Weir, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct xml:id="letter">
+                    <analytic>
+                        <author ref="#logic">Bob Logic</author>
+                        <title level="a">Letter from Washington</title>
+                    </analytic>
+                    <monogr>
+                        <title xml:id="paper" level="j">The Anglo-African</title>
+                        <imprint>
+                            <date xml:id="issue_date" when="1863-08-01">1 August 1863</date>                    
+                        </imprint>
+                        <biblScope type="pp">[3]</biblScope>                    
+                    </monogr>           
+                </biblStruct>
+                
+                <biblStruct xml:id="issue">               
+                    <monogr>
+                        <title level="j" sameAs="#paper"/>
+                        <imprint>
+                            <date sameAs="#issue_date"/>                  
+                        </imprint>              
+                    </monogr>                   
+                </biblStruct>                        
+            </sourceDesc>       
+        </fileDesc>
+        <encodingDesc> 
+            <p>This electronic text is a semi-diplomatic transcription of the source text. Hyphenation, punctuation, variant spellings, and errors present in the source text have been retained. The transcription does not attempt to capture all aspects of the original formatting or layout.</p>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <persName xml:id="logic">Unknown</persName>
+                <persName xml:id="rh">Hamilton, Robert</persName>
+                <persName xml:id="th">Hamilton, Thomas</persName>
+                <date when="1863">1863</date>
+            </creation>
+            <langUsage>
+                <language ident="en-US">modern American English</language>
+            </langUsage>
+            <textClass>
+                <classCode scheme="http://authorities.loc.gov">
+                    <term xml:id="sh86001005">African American Sunday schools</term>
+                    <term xml:id="sh2009114063">African Americans--Washington (D.C.)</term>
+                    <term xml:id="n92024554">Dean, John, 1813-1863</term>
+                    <term xml:id="n79145410">Davis, Jefferson, 1808-1889</term>
+                    <term xml:id="n81141734">Fifteenth Street Presbyterian Church (Washington, D.C.)</term>
+                    <term xml:id="sj96005545">Fourth of July</term>
+                    <term xml:id="sh2009125620">Fugitive slaves--Legal status, laws, etc.--United States</term>
+                    <term xml:id="no95007881">Jolliffe, John, 1804-1868</term>
+                    <term xml:id="n85185712">Underwood, John C. (John Curtiss), 1809-1873</term>
+                    <term xml:id="n94049341">United States. Fugitive slave law (1850)</term>
+                    <term xml:id="sh2007100004">United States--History--Civil War, 1861-1865--Participation, African American</term>
+                    <term xml:id="no97042792">Walbridge, Hiram, 1821-1870</term>
+                </classCode>
+                <classCode scheme="http://civilwardc.org">
+                    <term>Hall, Andrew</term>
+                    <term>Johnson, John Thomas</term>
+                    <term>Lewis, Walker</term>
+                </classCode>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when="2015-04-07" who="#ak">corrected</change>
+            <change when="2015-03-27" who="#el">checked transcription and encoding and made necessary changes; updated TEI header, including keywords</change>
+            <change when="2015-02-23" who="#ak">checked, corrected, updated xml:id</change>
+            <change when="2014-11-05" who="#ak">checked transcription and encoding</change>
+            <change when="2014-04-14" who="#el">checked encoding; revised TEI header</change>
+            <change when="2014-04-16" who="#kk">transcribed, encoded</change>
+        </revisionDesc>
+    </teiHeader>
+    
+    <facsimile corresp="#issue">
+        <surface xml:id="pp1">
+            <graphic url="aa.18630801.pp1.jpg"/>
+            </surface>
+        <surface xml:id="pp2">
+            <graphic url="aa.18630801.pp2.jpg"/>
+        </surface>
+        <surface xml:id="pp3">
+            <graphic url="aa.18630801.pp3.jpg"/>
+            <zone xml:id="pp3_cropped" corresp="#letter">
+                <graphic url="aa.18630801.pp3_cropped.jpg"/>
+            </zone>
+        </surface>
+        <surface xml:id="pp4">
+            <graphic url="aa.18630801.pp4.jpg"/>
+        </surface>
+    </facsimile>
+    
+    <text corresp="#letter #pp1_cropped">
+        <body>
+            
+            <div>
+                <head type="main" subtype="authorial" rend="center">Letter from Washington.</head>
+                <milestone unit="undeclared" rend="short-bar"/>
+                
+                <opener>
+                    <dateline rend="right">Washington, D.C., July 10th, 1863.</dateline>
+                    <salute>Mr. Editor:&#8212;</salute>
+                </opener>    
+                
+                <p>The 4th of July passed off very <lb/>pleasantly indeed for Washington City.  We <lb/>had quite a military parade.  The Declaration <lb/>of Independence was read, and an oration <choice><orig>deliv-<lb/>ered</orig><reg>delivered</reg></choice> by one of your citizens, Gen. Hiram <choice><orig>Wal-<lb/> bridge</orig><reg>Walbridge</reg></choice>.  I had not the pleasure of hearing the <lb/>oration, but learned that it was a masterly effort. <lb/>It would have given me much pleasure to have <lb/>heard the general, but I was engaged with the <lb/>Sunday-School Union.  It was a magnificent <lb/>sight to see from 1,600 to 2,000 colored children, <lb/>with full band of music, marching down <choice><orig>Penn-<lb/>sylvania</orig><reg>Pennsylvania</reg></choice> avenue, with banners and appropriate <lb/>mottoes thereon, and also large American flags <lb/>with the folds tossed to the breeze.  The <choice><orig>pro-<lb/>slavery</orig><reg>pro-slavery</reg></choice> citizens could hardly believe their own <lb/>eyes.  Well, in fact, your humble servant, Bob <lb/>Logic, who had the pleasure of having a <choice><orig>posi-<lb/>tion</orig><reg>position</reg></choice> assigned to him in the procession, could <lb/>hardly believe his eyes.  I exclaimed within <lb/>myself, O shade of Jeff. Davis&#8212;but before I <lb/>could connect the balance of the sentence that <lb/>was within me, some little, poor white boys <choice><orig>ex-<lb/>claimed</orig><reg>exclaimed</reg></choice>, "why them niggers; damn the niggers." <lb/>I said to myself, I won't speak of the shade of <lb/>Jeff. Davis any more.  So on we marched to <lb/>the music of Capt. Hays' most excellent colored <lb/>band; and about the time we commenced <choice><orig>ascend-<lb/>ing</orig><reg>ascending</reg></choice> Capitol Hill, a low set of white roughs cried <lb/>out, "Look at the damn niggers."  Why, said I <lb/>to myself, How is this?  I did not say, Shade of <lb/>Jeff. Davis: these rough remarks, like the rank, <lb/>poisonous weeds of a garden, were spontaneous. <lb/>We arrived on the green, on the south side of <lb/>the capitol, and after marching and counter <lb/>marching, we all got in position to hear the <lb/>speaking, which was admirable.  The Rev. Mr. <lb/>Reid, Messrs. Pettijohn (white), Walker, Tutilon, <lb/>and John Thomas Johnson, the President <lb/>of the Sunday-School Union, all made most <choice><orig>ex-<lb/>cellent</orig><reg>excellent</reg></choice> speeches.  Too much praise cannot be <lb/>awarded to Mr. Johnson for the very excellent <lb/>manner in which he conducted the procession; <lb/>everything was done decently and in order, but <lb/>I was sorry to see some of the teachers of the <lb/>schools skulk from the procession.  Such was <lb/>the example of some of the teachers of the 15th <lb/>st. Presbyterian church.  It seemed to me that <lb/>they were either ashamed or afraid, neither of <lb/>which is very laudable.  Ashamed to walk with <lb/>those dear little children&#8212;that cannot be; but I <lb/>am sorry to feel that they were afraid.  Afraid <lb/>of what? of battling against prejudice? never <lb/>let us be afraid of that.  Let us battle against <lb/>that until we get the monster by the throat; as <lb/>for myself, I shall battle against it at the hazard <lb/>of my life, and if I lose my life in the cause, let <lb/>this be my epitaph&#8212; <lb/> <q rend="center">
+                    <ab>TO THE MEMORY OF</ab>
+                    
+                    <ab>* * * * * * *</ab>
+                    
+                    <ab><emph rend="italic">who lost his life battling with prejudice against color.</emph></ab>
+                </q>
+                </p>
+                
+                <p>As I promised you and your readers a detailed <lb/>account of the manner in which the infamous <lb/>Fugitive Slave Law is carried on in this District <lb/>the public after reading the following will be <lb/>perfectly satisfied as to its infamy.</p>
+                
+            </div>
+            
+            <div>
+                
+                <head type="main" subtype="authorial" rend="center">THE FUGITIVE SLAVE LAW IN THE DISTRICT OF <lb/>COLUMBIA.</head>
+            
+            <p>I have procured from various authentic sources <lb/>the facts relating to the great controversy now <lb/>going on in this District, as to whether this law <lb/>is applicable to this District.  From the mass of <lb/>testimony sent in to us, we glean the following <lb/>facts.</p>
+                
+            <p>During more than a year the question has <lb/>has been under discussion.   In April, 1862, the old <lb/>Circuit Court of the District appointed Fugitive <lb/>Slave Law Commissioners under the law passed <lb/>September 18th, 1850, commonly called the <lb/>Fugitive Slave Law.  They immediately went <lb/>into a large business in issuing warrants and in <lb/>returning fugitive slaves escaping here to their <lb/>masters.  The contest commenced before them, <lb/>but little good could be done for the poor fugitive, <lb/>as the proceedings were summary and no defense <lb/>allowable.  At length Dennis Duval of Prince <lb/>George's Co., Maryland, obtained a warrant for <lb/>the arrest of his slave Wilson Copeland.  The <lb/>warrant was issued by Walter S. Cox, one of the <lb/>commissioners.  A writ of <emph rend="italic">habeas corpus</emph> was <lb/>sued out, returnable before the Circuit Court. <lb/>The question was elaborately argued by Mr. <lb/>Joseph Bradley for the claimant and Mr. John <lb/>Dean for the fugitive.  The court decided the <lb/>law applicable to the District and returned the <lb/>boy Copeland to Duval.  The old court was <lb/>abolished March 3rd, 1863, and the present <choice><orig>Su-<lb/>preme</orig><reg>Supreme</reg></choice> Court organized with four justices.  In <lb/>April, two of the justices, Fisher and Wylie, <lb/>commenced issuing warrants on the application <lb/>of claimants for the recovery of fugitive slaves. <lb/>Of the number was one issued by Justice Wylie <lb/>on the application of George W. Duval of Prince <lb/>George's Co., Maryland, for the arrest of Andrew <lb/>Hall.  After his arrest, a writ of <emph rend="italic">habeas corpus</emph> <lb/>was obtained, returnable before the Supreme <lb/>Court.  At the May term the question was <lb/>argued during four days by Messrs. Joseph <lb/>Bradley and Walter S. Cox for the claimant, and <lb/>by Messrs. John Dean and John <choice><sic>Joliffe</sic><corr>Jolliffe</corr></choice> for the <lb/>fugitive.  Each of the judges gave <gap reason="illegible" quantity="3" unit="chars"/> opinion, <lb/>but they were equally divided. Justices Otis <lb/>and Wylie deciding that the Fugitive Slave <lb/>Law was not applicable to this District, and <choice><orig>Jus-<lb/>tices</orig><reg>Justices</reg></choice> Carter and Fisher <emph rend="italic">contra</emph>.  The boy Hall <lb/>was consequently returned to the jurisdiction of <lb/>Justice Wylie, who issued the warrant for his <lb/>arrest.  The motion for his discharge was soon <lb/>thereafter made by Messrs. Dean and <choice><sic>Joliffe</sic><corr>Jolliffe</corr></choice>. <lb/>Justice Wylie immediately discharged him. <lb/>As soon as the boy went out of the door of the <lb/>court-room into the hall, he was surrounded and <lb/>seized by the collar by George W. Duval.  Mr. <lb/>Dean immediately also seized the boy by the <lb/>collar and pulled him into the room before <choice><orig>Jus-<lb/>tice</orig><reg>Justice</reg></choice> Wylie, and demanded that the boy be <choice><orig>pro-<lb/>tected</orig><reg>protected</reg></choice> from assault and arrest.  Justice Wylie <lb/>said he would not allow the boy to be seized in <lb/>the court-room, and thereupon left the room. <lb/>Placing two policemen in care of the boy, Mr. <lb/>Dean proceeded to the headquarters of the <choice><orig>Mili-<lb/>tary</orig><reg>Military</reg></choice> Governor of the District and procured a <lb/>guard, and the boy was placed under military <lb/>protection until next morning.  On that <choice><orig>morn-<lb/>ing</orig><reg>morning</reg></choice> Mr. Dean appeared before Major Sherburne, <lb/>and before the boy was liberated, Marshal <choice><sic>Lamon</sic><corr>Lemon</corr></choice> <lb/>and a special Deputy appeared.  The Marshal <lb/>stated Justices Carter, Fisher and Wylie had <lb/>appointed Mr. Walter S. Cox a Commissioner, <lb/>&amp;c., and produced a warrant for the arrest of <lb/>Andrew Hall, issued by Mr. Cox on the <choice><orig>applica-<lb/>tion</orig><reg>application</reg></choice> of Mr. George W. Duval.  The military <lb/>refused to deliver up the boy; and he has since, <lb/>at his own request, been mustered into the <choice><orig>ser-<lb/>vice</orig><reg>service</reg></choice> of the United States.  An application was <lb/>forthwith made, founded on affidavit and notice <lb/>of motion by Mr. Dean to the Supreme Court <lb/>to revoke the appointment of Mr. Cox as <choice><orig>Com-<lb/>missioner</orig><reg>Commissioner</reg></choice>, &amp;c. That application is still pending, <lb/>and its argument would seem to again cover the <lb/>main points in this controversy.</p>
+                
+                <p><title level="j" rend="italic">The National Intelligencer</title>, from which we <lb/>gather most of the above facts, says the above <lb/>motion is to be submitted on written arguments.</p>
+                
+                <p>Mr. Duval and his friends went before the <lb/>Grand Jury of the District and procured an <choice><orig>in-<lb/>dictment</orig><reg>indictment</reg></choice> against Messrs. Dean &amp; Jolliffe, under <lb/>the 7th Sec. of the Fugitive Slave Law, which <lb/>is as follows:</p>
+                
+            <p>"That any person who shall knowingly and <lb/>willingly obstruct, hinder or prevent such <choice><orig>claim-<lb/>ant</orig><reg>claimant</reg></choice>, his agent or attorney, or any person or <choice><orig>per-<lb/>sons</orig><reg>persons</reg></choice> lawfully assisting him, her or them from <lb/>arresting such a fugitive from service or labor, <lb/>either with or without process aforesaid, or shall <lb/>rescue or attempt to rescue such fugitive from <lb/>service or labor from the custody of such <choice><orig>claim-<lb/>ant</orig><reg>claimant</reg></choice>, his or her agent or attorney, or other person <lb/>or persons lawfully assisting as aforesaid, <choice><orig>pur-<lb/>suant</orig><reg>persuant</reg></choice> to the authority herein given and declared:<lb/>or shall aid, abet or assist such person so owing <lb/>service or labor as aforesaid directly or indirectly <lb/>to escape from such claimant, his agent or <choice><orig>attor-<lb/>ney</orig><reg>attorney</reg></choice>, or other person or persons legally authorized <lb/>is aforesaid: or shall harbor or conceal such <choice><orig>fu-<lb/>gitive</orig><reg>fugitive</reg></choice> so as to prevent the discovery and arrest <lb/>of such person after notice or knowledge of the <lb/>act that such person was a fugitive from service, <lb/>or labor as aforesaid shall for either of said <choice><orig>of-<lb/>fences</orig><reg>offences</reg></choice> be subject to a fine of not exceeding one <lb/>thousand dollars and imprisonment not <choice><orig>exceed-<lb/>ing</orig><reg>exceeding</reg></choice> six months by indictment and conviction <choice><orig>be-<lb/>fore</orig><reg>before</reg></choice> the District Court of the U.S. for the district <lb/>in which such offense may have been committed, <lb/>or before the proper Court of criminal <choice><orig>jurisdic-<lb/>tion</orig><reg>jurisdiction</reg></choice> if committed in any one of the organized <choice><orig>ter-<lb/>ritories</orig><reg>territories</reg></choice> of the U.S., and shall moreover forfeit <lb/>and pay by way of civil damages to the party <lb/><choice><sic>njured</sic><corr>injured</corr></choice> by such illegal conduct the sum of one <lb/><choice><sic>housand</sic><corr>thousand</corr></choice> dollars for each fugitive so lost as <lb/>aforesaid, to be recovered by action of debt in <lb/>any of the district or territorial Courts aforesaid, <lb/>within whose jurisdiction the said offense may <lb/>have been committed."</p>
+                
+            <p>The parties indicted voluntarily appeared in <lb/>Court, and gave bail for their appearance each <lb/>in the sum of one thousand dollars.</p> 
+                
+                <p>Hon. John C. Underwood was bail for Mr. <lb/>Jolliffe, and Mr. Walker Lewis (colored) was <lb/>bail for Mr. Dean.</p>
+                
+            <p>The time of trial has not been fixed.  It will <lb/>probably be postponed until autumn.</p>
+                
+            <closer>
+                <signed>BOB LOGIC.</signed>
+            </closer>
+            
+            </div>
+            
+        </body>
+    </text>
+</TEI>

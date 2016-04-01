@@ -1,0 +1,402 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="cww.00169">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="m" type="main">Petition of James W. West and Eliza Martha West, 13 May 1862</title>
+            <title level="m" type="sub">a machine readable transcription</title>
+            <principal>Susan C. Lawrence</principal>
+            <principal>Kenneth M. Price</principal>
+            <principal>Kenneth J. Winkle</principal>
+            <respStmt>
+               <resp>transcription and encoding</resp>
+                <name xml:id="kk">Kathryn Kruger</name>
+                <name xml:id="nnk">Nima Najafi Kianfar</name>
+                <name xml:id="jc">Janel Cayer</name>
+            <name xml:id="kjw">Kenneth J. Winkle</name>
+</respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2013</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <idno>cww.00169</idno>
+            <distributor>Civil War Washington</distributor>
+            <publisher>University of Nebraska–Lincoln</publisher>
+            <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>P.O. Box 884100</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+            </address>
+            <date>2013</date>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+                  <p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License (http://creativecommons.org/licenses/by-nc-sa/3.0/). Derivatives must be credited to Civil War Washington, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+               </licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Petition of James W. West and Eliza Martha West, 13 May 1862</title>
+               <date when="1862-05-13">May 13, 1862</date>
+               <idno>Microcopy 520, Reel 2</idno>
+               <orgName>National Archives and Records Administration</orgName>
+               <relatedItem type="original">
+                  <bibl>
+                     <title>Petition of James W. West and Eliza Martha West, 13 May 1862</title>
+                     <date when="1862-05-13">May 13, 1862</date>
+                     <idno>Record Group 217.6.5</idno>
+                     <orgName>Records of the Accounting Officers of the Department of the Treasury, 1775–1978, National Archives and Records Administration</orgName>
+                     <note type="project">Within the National Archives' Archival Description Catalog, see ARC Identifier 4644616 / MLR Number A1 347 (http://arcweb.archives.gov).</note>
+                  </bibl>
+               </relatedItem>
+               <note type="project">Our transcription is based on a digital image of a microfilm copy of the original.</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <particDesc>
+            <person role="petitioner">
+               <persName>James W. West</persName>
+            </person>
+             <person role="petitioner">
+                 <persName>Eliza Martha West</persName>
+             </person>
+            <person role="jp">
+               <persName>Charles Walter</persName>
+            </person>
+         </particDesc>
+      </profileDesc>
+      <revisionDesc>
+          <change when="2013-08-13" who="#jc">revised coding for handwritten signature blocks</change>
+<change when="2013-07-10" who="#jc">blessed</change>
+<change when="2013-07-08" who="#kjw">blessed</change>
+<change when="2012-12-27" who="#jc">updated tei header; fixed values for @facs as necessary; automated checking across files for extra spaces in elements and other encoding inconsistencies and for regular transcription errors</change>
+         <change when="2012-12-03" who="#nnk">proofed</change>
+         <change when="2012-11-08" who="#kk">transcribed, encoded</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+        <body>
+
+            <pb xml:id="leaf001r" facs="cww.00169.002.jpg"/>
+
+            <div1 type="petition" subtype="mixed">
+                <div2 type="section">
+                    <head type="main">PETITION.</head>
+                    <p rend="bold">To the Commissioners under the act of Congress approved the <date when="1862-04-16">16th of April, 1862</date>, entitled "An act for the
+                        release of certain persons held to service or labor in the
+                            <placeName>District of Columbia</placeName>."</p>
+
+                    <p>Your Petitioner<seg type="handwritten">s</seg>, <seg type="handwritten">
+                     <persName>James W.</persName> &#38; <persName>Eliza M.
+                                West</persName>
+                  </seg> of <seg type="handwritten">the City of
+                                <placeName>Washington D.C.</placeName>
+                  </seg> by this <seg type="handwritten">their</seg> petition in writing,
+                            represent<del>s</del> and state<del>s</del>, that <seg type="handwritten">they</seg>
+                  <del>is a</del>
+                        <seg type="handwritten">are</seg> person<seg type="handwritten">s</seg>
+                        loyal to the <placeName>United States</placeName>, who, at the time of the
+                        passage of the said act of Congress, held a claim to service or labor
+                        against <seg type="handwritten">Ten female and one male</seg>
+                            person<seg type="handwritten">s</seg> of African descent of the name of <seg type="handwritten">
+                     <persName>Julia
+                                Burgess</persName>, <persName>Jane Walker</persName>, alias
+                                <persName>Burgess</persName> (daughter of
+                                <persName>Julia</persName>) <persName>Susan Burgess</persName> (daughter of <persName>Julia</persName>) <persName>Sarah
+                                Burgess</persName> (daughter of <persName>Julia</persName>)
+                                <persName>Margaret Burgess</persName> (daughter of
+                                <persName>Julia</persName>)
+                            <persName>George Burgess</persName> (son of <persName>Julia</persName>)
+                                <persName>Josephina Walker</persName> (daughter of <persName>Jane
+                                Walker</persName> alias <persName>Burgess</persName>)
+                            <persName>Tempe Burgess</persName> (daughter of <persName>Susan
+                                Burgess</persName>.) <persName>Mille Burgess</persName> (daughter of
+                                <persName>Susan Burgess</persName>.) <persName>Alec
+                                Burgess</persName> (daughter of <persName>Sarah
+                                Burgess</persName>) and <persName>Cynthia Burgess</persName> (daughter of <persName>Sarah Burgess</persName>.)</seg> for and during
+                        the life of said <seg type="handwritten">persons</seg> and that by said act
+                        of Congress said <seg type="handwritten">persons</seg> w<seg type="handwritten">ere</seg> discharged and freed of and
+                        from all claim of your petitioner<seg type="handwritten">s</seg> to such
+                        service or labor; that at the time of said discharge said <seg type="handwritten">Julia Burgess</seg> w<seg type="handwritten">as</seg> of the age of <seg type="handwritten">48 years or
+                            thereabouts</seg> and of the personal description following:<note type="government" place="foot" xml:id="n1">Here describe the person, so
+                            as to identify him or her; and if there be more than one slave, describe
+                            each one separately.</note>
+               
+                  <seg type="handwritten">A Bright Mulatto Woman, well proportioned of
+                            medium size, erect in her carriage, tolerable stout and strong. She has
+                            a peculiar expression of countenance arising from the fact that one of
+                            her legs is thicker than the other and one of her eyes is apparently
+                            larger than the other: Said <persName>Jane Walker</persName> alias
+                                <persName>Burgess</persName> was of the age of twenty four
+                            (24.) years, or thereabout, has a dark brown Complexion&#8212;tall and
+                            stout&#8212;quite erect in her Carriage&#8212;likely and intelligent:
+                            Said <persName>Susan Burgess</persName>, was of the age of 22 years, or
+                            thereabouts, a dark mulatto woman&#8212;medium size&#8212;Stoops a
+                            little in walking tolerably tall but not very stout likely
+                            and intelligent <unclear reason="illegible" cert="low" resp="nnk"><choice><abbr>sd</abbr><expan>said</expan></choice></unclear> <persName>Sarah Burgess</persName>, was of the age of 19 or thereabouts,
+                            a Mulatto woman–Small in Stature, erect in her Carriage, she has a
+                            peculiar expression of Countenance from the fact that one of her eyes is
+                            apparently larger than the other, likely, and intelligent: Said
+                                <persName>Margaret Burgess</persName> was of the age of 17 years or
+                            thereabouts&#8212;has a black complexion tall and Stout, erect in
+                            her Carriage; likely and intelligent: Said <persName>George
+                                Burgess</persName> was of the age of 15 years, or
+                            thereabouts.&#8212;a Mulatto boy–of medium
+                            height&#8212;note very stout&#8212;erect in his
+                            carriage&#8212;likely and intelligent: <unclear reason="illegible" cert="low" resp="nnk"><choice><abbr>sd</abbr><expan>said</expan></choice></unclear>
+                            <persName>Josephine Walker</persName> was of the age of Two (2) years or
+                            thereabouts&#8212;of a light brown Complexion&#8212;note very
+                            stout&#8212;likely Said <persName>Tempe Burgess</persName>, was of the
+                            age of Four (4) years, or thereabouts: of a Black
+                            Complexion&#8212;rather small in stature: eyes weak&#8212;likely and
+                            intelligent. Said <persName>Mille Burgess</persName> was of the age of 2
+                            years&#8212;or thereabouts, a bright Mulatto child&#8212;well
+                            proportioned, rather stout for her age, likely and intelligent for her
+                            age. Said <persName>Alice Burgess</persName>, was of the age of 4 years,
+                            or thereabouts, a bright mulatto&#8212;likely and intelligent for her
+                            age. &#8212;well proportioned. Said <persName>Cynthia
+                            Burgess</persName>, was of the age of 2 years or thereabouts, a bright
+                            Mulatto child&#8212;likely and smart for her age, well
+                            proportioned.</seg></p>
+                    <p><seg type="handwritten">Your Petitioners further represent that they have
+                            filed their statement or schedule, of Said persons in the Clerks Office
+                            of the Circuit Court of the <placeName>District of Columbia</placeName>
+                            as required by said Act of Congress</seg></p>
+
+                    <pb xml:id="leaf001v" facs="cww.00169.003.jpg"/>
+
+                    <p>That your petitioner<seg type="handwritten">s</seg> acquired <seg type="handwritten">their</seg> claim to the aforesaid service or labor of said <seg type="handwritten">persons (described)</seg> in manner
+                            following:<note type="government" place="foot" xml:id="n2">Here state
+                            how the claim was acquired, when, from whom, and for what price or
+                            consideration; and, if held under any written evidence of title, make
+                            exhibit thereof, or refer to the public record where the same may be
+                            found.</note>
+                        <seg type="handwritten">that is to say, under and by virtue of the Last will
+                            and Testament of <persName>Wm Mills</persName>
+                            who died in <placeName>Fairfax County, Virginia</placeName>, in the year
+                                <date when="1827">1827</date>, or about, leaving <persName>Mills</persName> (his widow) and <persName>Eliza M.
+                                West</persName> (your Petitioner, who has since intermarried with
+                                <persName>James W West</persName>, your Petitioner.) and
+                                <persName>John Mills</persName> and <persName>Nancy
+                            Mills</persName>&#8212;his children and Devisees and Legatees: that the
+                            interest of the said <space/>
+                            <persName>Mills</persName>, (the Mother of your Petitioner
+                                (<persName>Eliza M West</persName>) now advanced in years &#38;
+                            being a life interest) was regularly and properly transferred and conveyed
+                            to your Petitioner. <persName>Eliza</persName>, in consideration of love
+                            and affection&#8212;and that the interest of the said
+                                <persName>John</persName> and <persName>Nancy Mills</persName> was
+                            given to your Petitioner <persName>Eliza</persName>&#8212;that your
+                            Petitioners have endeavoured to procure a Copy of Said Will&#8212;as an
+                            Exhibit to this their Petition from the <placeName>Fairfax
+                                County</placeName> Court&#8212;but have failed in their effort to
+                            this end.&#8212;and they are apprehensive that the original Will (owing
+                            to the Rebellion) has been destroyed, the transfer from:&#8212;
+                                <persName>Mills</persName> in favor of said <persName>Eliza M.
+                                West</persName>, your Petitioner, is hereto appended.</seg>
+               </p>
+
+                    <p>That your petitioner<del>'</del>s claim to the service or labor of said <seg type="handwritten">persons above described</seg> was, at the time of
+                        said discharge therefrom, of the value of <seg type="handwritten">$5900</seg> dollars in money.<note type="government" place="foot" xml:id="n3">Here state such facts, if any there be, touching the value
+                            of the petitioner's claim to the service or labor of the person, as may
+                            enhance the same, and also such facts, if any, touching the moral,
+                            mental, and bodily infirmities or defects of said person, as impair the
+                            value of the petitioner's claim to such service or labor, and conclude
+                            such statement with an averment that the petitioner knows of no other
+                            infirmities or defects of said person which impair the value of
+                            petitioner's claim to such service or labor, and that he believes none
+                            other to exist. If the petitioner specify no such infirmity or defect,
+                            then his statement touching the value of his claim should conclude with
+                            an averment that he has no knowledge of any such infirmity or
+                            defect.</note>
+                  <seg type="handwritten">To wit <persName>Julia
+                                Burgess</persName> $300. <persName>Jane Walker</persName> alias
+                                <persName>Burgess</persName>. $1000 <persName>Susan
+                                Burgess</persName> $1000. <persName>Sarah Burgess</persName> $1100
+                                <persName>Margaret Burgess.</persName> $1000 <persName>George
+                                Burgess</persName> $1000. <persName>Josephine Walker</persName>
+                            $100.&#38; <persName>Tempe Burgess</persName> $150. <persName>Mille
+                                Burgess</persName> $100. <persName>Alice Burgess</persName> $150.
+                                <persName>Cynthia Burgess</persName> $100: that they are all sound
+                            and healthy according to the best of your Petitioners knowledge and
+                            belief; that the said <persName>Julia</persName>,
+                                <persName>Jane</persName>, <persName>Susan</persName>,
+                                <persName>Sarah</persName> &#38; <persName>Margaret</persName> are
+                            very useful and capable of doing any thing in the way of house work;
+                            that the said <persName>George</persName> is very active and smart and
+                            useful as a farm hand and in other branches of business,&#8212;that they
+                            are all honest and well disposed, and your Petitioners aver that they
+                            have no knowledge of any moral, mental, or bodily infirmity in any of
+                            said persons, in the least calculated to affect or impair your Petitioner's
+                            Claim.</seg>
+               </p>
+
+                    <p>Your petitioner<seg type="handwritten">s</seg> hereby declare<del>s</del>
+                        that <seg type="handwritten">they</seg> bear<del>s</del> true and faithful
+                        allegiance to the Government of the <placeName>United States</placeName>,
+                        and that <seg type="handwritten">they</seg> ha<seg type="handwritten">ve</seg> not borne arms against the <placeName>United
+                            States</placeName> in the present rebellion, nor in any way given aid or
+                        comfort thereto.</p>
+
+                    <p>And your petitioner<seg type="handwritten">s</seg> further state<del>s</del>
+                        and allege<del>s</del>, that <seg type="handwritten">they</seg> ha<seg type="handwritten">ve</seg> not brought said <seg type="handwritten">persons</seg> into the <placeName>District of
+                            Columbia</placeName> since the passage of said act of Congress; and
+                        that, at the time of the passage thereof, said <seg type="handwritten">persons</seg> w<del>as</del>
+                  <seg type="handwritten">ere</seg> held to
+                        service or labor therein under and by virtue of your petitioner's claim to
+                        such service or labor.</p>
+
+                    <p>Your petitioner<seg type="handwritten">s</seg> further state<del>s</del> and
+                            allege<del>s</del>, that <seg type="handwritten">their</seg> said claim
+                        to the service or labor of said <seg type="handwritten">persons</seg>
+                            do<del>es</del> not originate in or by virtue of any transfer heretofore
+                        made by any person who has in any manner aided or sustained the present
+                        rebellion against the Government of the <placeName>United
+                        States</placeName>.</p>
+
+                    <p>And your petitioner<seg type="handwritten">s</seg> pray<del>s</del> the said
+                        Commissioners to investigate and determine the validity of <seg type="handwritten">their</seg> said claim to the service or labor of
+                        said <seg type="handwritten">persons,</seg> herein above set forth; and if
+                        the same be found to be valid, that they appraise and apportion the value of
+                        said claim in money, and report the same to the Secretary of the Treasury of
+                        the <placeName>United States</placeName>, in conformity to the provisions of
+                        said act of Congress. </p>
+
+                    <closer> (Signed by)
+                        <signed><seg type="handwritten"><persName>James W West</persName></seg></signed>
+                        <signed><seg type="handwritten"><persName>Eliza Martha West</persName></seg></signed>                        
+                    </closer>
+                </div2>
+                <div2 type="section" subtype="handwritten">
+                    <ab><persName>A Lloyd</persName> Counsel for Petitioner.</ab>
+                </div2>
+            </div1>
+            
+            <pb xml:id="leaf002r" facs="cww.00169.005.jpg"/>
+            <div1 type="will" subtype="handwritten">
+                <div2 type="section">
+                    <p>In the name of God amen. I <persName>William Mills</persName> of the
+                            <placeName>County of Fairfax</placeName> and State of <placeName>
+                            Virginia</placeName> do make and ordain this my last will and testament
+                        in the form following. To wit, I give and bequeath unto my beloved wife
+                            <persName>Martha Ann</persName>, my negro woman
+                            <persName>Julia</persName> together with all the residue of my
+                        estate: The debt due me from <persName>John Mills</persName> my brother and
+                        all other debts now due me, or which may be due me at the time of my death,
+                        to have and to enjoy the use thereof during her life, and after her death I
+                        will that the whole thereof be equally divided amongst the two children my
+                        wife now has <persName>John</persName> and <persName>Mary</persName> and the
+                        one she may have as she probably is now pregnant, but should the child which
+                        she may have die before it arrives at age then I devise the part hereby
+                        devised to it, be equally divided between the two before named children. And
+                        I do constitute and appoint my wife <persName>Martha Ann</persName> the sole
+                        executrix of this my last will and testament. In witness whereof I have
+                        hereunto set my hand this <date when="1827-08-23">23d day of August in the
+                            year of our Lord one thousand eight hundred and twenty seven</date></p>
+                    <closer>
+                        <signed>his X mark <persName>William Mills</persName></signed>
+                        <lb/>Signed and acknowledged in the presence of<lb/>
+                        <signed><persName>Jno Dulin</persName></signed>
+                        <signed><persName>H. O. Lindsay</persName></signed>
+                        <signed>his X mark <persName>Thos. Simons</persName></signed>
+                        <signed><persName>John Vallandingham</persName></signed>
+                    </closer>
+                </div2>
+
+                <pb xml:id="leaf002v" facs="cww.00169.006.jpg"/>
+                <div2 type="section">
+                    <p>At a Court held for <placeName>Fairfax County</placeName> the <date when="1828-07-21">21st day of July 1828</date></p>
+                    <p>This last will and Testament of <persName>William Mills</persName> deceased
+                        was presented in Court by <persName>Martha Ann Mills</persName> the
+                        Executrix therein named and the same being proved by the oaths of
+                            <persName>Jno Dulin</persName> and <persName>John
+                            Vallandingham</persName> two of the subscribing witnesses thereto is
+                        admitted to record</p>
+                    <closer>Test
+                        <signed><persName>Wm Moss</persName>C C</signed>
+                    </closer>
+                </div2>
+                
+                <div2 type="section">
+                    <p>I certify this to be a true copy of the will of <persName>Wm Mills</persName>
+                        as appears upon the records of <placeName>Fairfax County</placeName> Court,
+                        Liber P Folio 149 of wills</p>
+                  <closer>
+                      <dateline><date when="1862-07-31">July 31st 1862</date></dateline>
+                      <signed><persName>H Hawxhurst</persName> <placeName>D. C.</placeName></signed>
+                  </closer>
+                </div2>
+                
+                <div2 type="section">
+                    <ab><persName>Wm Mills</persName> 169<lb/>
+                        Will<lb/>
+                        a<lb/>
+                        copy</ab>
+                </div2>
+                <div2 type="section">
+                    <ab>County Seal is not found<lb/>
+                  <persName>J.H.</persName>
+               </ab>
+                </div2>
+            </div1>
+
+            <pb xml:id="leaf003r" facs="cww.00169.007.jpg"/>
+
+            <div1 type="oath" subtype="mixed">
+                <head type="main">[<hi rend="italic">Form of the Oath for the Verification of the
+                        Petition.</hi>]</head>
+
+                <dateline>
+               <placeName>District of Columbia</placeName>,<lb/>
+                    <hi rend="italic">
+                  <placeName>Washington County</placeName>, ss.</hi>
+            </dateline>
+
+                <div2 type="section">
+                    <p><seg type="handwritten">We</seg>, <seg type="handwritten">
+                     <persName>James W West</persName> and <persName>Eliza M.
+                                West</persName></seg> being duly sworn, do depose and say,
+                        that all the several matters and things which are set forth and stated in
+                        the foregoing petition, as of <seg type="handwritten">our</seg>
+                        own knowledge, are true in substance and in fact; and that all the several
+                        other matters and things therein set forth and stated, as from the
+                        information of others, <seg type="handwritten">We</seg> believe
+                        to be true in substance and in fact.</p>
+                    <closer> (Signed by)
+                        <signed><seg type="handwritten"><persName>James W West</persName></seg></signed>
+                        <signed><seg type="handwritten"><persName>Eliza Martha West</persName></seg></signed>
+                    </closer>
+                </div2>
+
+                <div2 type="section">
+                    <p>Sworn to and subscribed before me this <date when="1862-05-12">
+                     <seg type="handwritten">12th</seg> day of <seg type="handwritten">May</seg> A. D. 1862</date>.</p>
+                    <closer> (Signed by)
+                        <signed><seg type="handwritten"><persName>Chas. Walter</persName> JP</seg></signed>
+                    </closer>
+                </div2>
+            </div1>
+
+            <div1 type="cover" subtype="handwritten">
+                <note type="editorial">The following note, about the filing of the petition, has
+                    been imaged twice in the National Archives microfilm, but the note occurs in
+                    only one place in the petition: written horizontally on the final page, the Oath
+                    for the Verification.</note>
+                <ab>169<lb/>
+                    Petition of<lb/>
+                    <persName>James W West</persName><lb/>
+                    &#38; <persName>Eliza M West</persName></ab>
+                <ab>Filed <date when="1862-05-13">May 13, 1862</date><lb/>
+                    by<lb/>
+                    <persName>Asbury Lloyd</persName> <choice><abbr>Esq</abbr><expan>Esquire</expan></choice></ab>
+            </div1>
+        </body>
+    </text>
+</TEI>

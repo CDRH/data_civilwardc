@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d2e31307">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Siboh, C.</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+       <idno>med.d2e31307</idno>
+       <authority>Civil War Washington</authority>
+       <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor>
+       <name>Center for Digital Research in the Humanities</name>
+       <address><addrLine>319 Love Library</addrLine>
+       <addrLine>University of Nebraska–Lincoln</addrLine>
+       <addrLine>Lincoln, NE 68588-4100</addrLine>
+       <addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+    </distributor>
+    <date>2011</date>
+    <availability>
+        <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+         republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+         law, requires express written consent from the editors and advance notification of the
+         publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+     <persName xml:id="mb">Matthew Bosley</persName>
+     <persName xml:id="nb">Nate Bernth</persName> 
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl>
+     <title level="j">The Medical and Surgical History of the War of the Rebellion. (1861-65.)</title>
+     <pubPlace>Washington, DC</pubPlace>
+     <publisher>Government Printing Office</publisher>
+     <biblScope type="part">Part 2</biblScope>
+     <biblScope type="volume">Volume 2</biblScope>
+     <date when="1876">1876</date>
+     <biblScope type="page">928</biblScope>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+       <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+      <keywords scheme="#medsurg">
+       <term>wounds and injuries of the upper extremities</term>
+       <term>wounds and operations in the forearm</term>
+       <term>shot wounds of the forearm</term> 
+       <term>shot fractures of the forearm</term>
+       <term>shot fractures of the forearm treated by expectation</term> 
+       <term>fractures of the radius treated by expectation</term>
+       <term>successful cases of shot fracture of the radius</term>
+       <term>gunshot fracture of radius</term> 
+       <term>compound gunshot fracture of radius by bullet</term>
+       <term>bullet entered upper third of radial side of forearm, passed upward and outward, exited posterior forearm below external condyle of humerus</term>
+       <term>supination and pronation destroyed</term>
+       <term>atrophy of muscles of forearm and hand, forearm and hand totally useless</term>
+       <term>exfoliation of necrosed bone fragments, discharged pus</term>
+       <term>erysipelas</term>           
+     </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change who="#mb" when="2012-07-17">additional proofing of transcription and encoding, identified keyword terms</change>
+   <change who="#nb" when="2011-02-22">checked OCR; added minimal mark-up for personal names, place names, and dates</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>   
+   <p><hi rend="initialcap">C</hi>ASE 1875.&#8212;<name type="person" key="xxx">Private C. Siboh</name>, <name type="organization" key="xxx">Co. C, 11th Massachusetts</name>, aged 28 years, was wounded at <name type="BATTLE" key="12">the Wilderness</name>, <date type="injury" when="1864-05-06">May 6, 1864</date>.  <name type="person" key="102">Surgeon O. A. Judson</name>, <name type="organization" key="132">U. S. V.</name>, reported his admission to <name type="hospital" key="167">Carver Hospital</name>, Washington, <date type="admit" when="1864-05-26">May 26th</date>, with &#34;gunshot fracture of right radius,&#34; and his transfer to <name type="place">Philadelphia</name> on <date type="transfer" when="1864-05-31">May 31st</date>.  <name type="person" key="xxx">Acting Assistant Surgeon H. M. Bellows</name> reported, from Broad and Cherry Streets Hospital: &#34;This patient was first admitted to this hospital, <date type="admit" when="1864-06-01">June 1st</date>, with a compound gunshot fracture of right radius by a bullet, which entered the upper third of the radial side of the forearm, and, passing posteriorly upward and slightly outward, came out on the upper posterior part of the forearm, about one inch below the external condyle of the humerus.  July 10th, several pieces of bone have come away from the wound.  <date type="transfer" when="1864-08-25">August 25th</date>, patient transferred to Turner's Lane Hospital.&#34;  <name type="person" key="xxx">Acting Assistant Surgeon C. Carter</name>, from the latter hospital, reported: &#34;Forearm fixed in a pronated position; wrist and fingers extended, but not fully, with little power of motion; large amount of callus at seat of wound, with apparent deformity; orifice two inches below flexure of elbow, over upper part of radius, discharging pus; dead bone felt with probe.  August 28th, active and passive movements resorted to.  <date type="operation" when="1864-09-06">September 6th</date>, removed dead bone, a piece the size of a small finger nail, November 1st, wound still discharging; has gained slight motion in fingers, wrist, and supination. Continued active and passive motion.&#34;  The patient was discharged <date type="servicedischarge" when="1864-12-12">December 12, 1864</date>, and pensioned.  <name type="person" key="xxx">Examiner Howell</name>, of <name type="place">Aurora</name>, <date type="pension" when="1873-06-04">June 4, 1873</date>, certified:  &#34; &#42;   &#42;   &#42;   Rotary motion is entirely destroyed; necrosis of radius at point of exit of ball; arm swollen and painful; muscles of forearm and hand weak and partially paralyzed; hand entirely useless for manual labor.&#34;  On <date type="pension" when="1875-07-07">July 7, 1875</date>, he again reported: &#34;Constant discharge of ichorous purulent matter, with occasional spicul&#230; of bone. Supination and pronation destroyed; atrophy of muscles of forearm and hand, rendering forearm and hand totally useless,&#34; etc.  The pensioner was paid <date type="pension" when="1875-06-04">June 4, 1875</date>.</p>   
+  </body>
+ </text>
+</TEI>

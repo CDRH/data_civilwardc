@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e19788">
+                <teiHeader>
+                                <fileDesc>
+                                                <titleStmt>
+                                                                <title level="m" type="main">Jones, John Henry</title>
+                                                  <title level="m" type="sub">a machine readable
+                                                  transcription</title>
+                                                  <principal>Susan C. Lawrence</principal>
+                                                  <principal>Kenneth M. Price</principal>
+                                                  <principal>Kenneth J. Winkle</principal>
+                                                </titleStmt>
+                                                <editionStmt>
+                                                  <edition><date>2011</date></edition>
+                                                </editionStmt>
+                                                <publicationStmt>
+                                                  <idno>med.d1e19788</idno>
+                                                  <authority>Civil War Washington</authority>
+                                                  <publisher>University of
+                                                  Nebraska–Lincoln</publisher>
+                                                  <distributor><name>Center for Digital Research in
+                                                  the
+                                                  Humanities</name><address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address></distributor>
+                                                  <date>2011</date>
+                                                  <availability>
+                                                  <p>Copyright © 2011 by University of
+                                                  Nebraska–Lincoln, all rights reserved.
+                                                  Redistribution or republication in any medium,
+                                                  except as allowed under the Fair Use provisions of
+                                                  U.S. copyright law, requires express written
+                                                  consent from the editors and advance notification
+                                                  of the publisher, the University of
+                                                  Nebraska–Lincoln.</p>
+                                                  </availability>
+                                                </publicationStmt>
+                                                <notesStmt>
+                                                  <note type="project">The following are responsible
+                                                  for particular readings or for changes to this
+                                                  file, as noted: 
+                                                                  <persName xml:id="mb">Matthew Bosley</persName>
+                                                                  <persName xml:id="el">Elizabeth Lorang</persName>
+                                                  <persName xml:id="sb">Stacey Berry</persName>
+                                                  <persName xml:id="et">Elisabeth Tracey</persName>
+                                                  </note>
+                                                </notesStmt>
+                                                <sourceDesc>
+                                                  <bibl><title>The Medical and Surgical History of
+                                                  the War of the Rebellion.
+                                                  (1861&#8211;65.)</title><editor role="compiler">Surgeon General Joseph K. Barnes, United States
+                                                  Army</editor><pubPlace>Washington,
+                                                  D.C.</pubPlace><publisher>Government Printing
+                                                  Office</publisher><biblScope type="part">Part 1</biblScope>
+                                                  <biblScope type="volume">Volume 2</biblScope><date
+                                                  when="1870">1870</date><biblScope type="page">536</biblScope></bibl>
+                                                </sourceDesc>
+                                </fileDesc>
+                                <encodingDesc>
+                                                <classDecl>
+                                                  <taxonomy xml:id="medsurg">
+                                                  <bibl>Medical and Surgical History of the War of
+                                                  the Rebellion</bibl>
+                                                  </taxonomy>
+                                                </classDecl>
+                                </encodingDesc>
+                                <profileDesc>
+                                                <textClass>
+                                                  <keywords scheme="#medsurg">
+                                                    <term>wounds and injuries of the chest</term> 
+                                                    <term>gunshot wounds of the chest</term>
+                                                    <term>wounds of the pericardium and heart</term>
+                                                    <term>wounds of the &#339;sophagus</term>
+                                                    <term>fracture of spine of the scapula</term>
+                                                    <term>fractured transverse processes of fourth and fifth cervical vertebrae</term>
+                                                    <term>ball lodged against &#339;sophagus</term>
+                                                    <term>walls of the gullet lacerated, not perforated</term>
+                                                  </keywords>
+                                                </textClass>
+                                </profileDesc>
+                                <revisionDesc>
+                                                <change who="#mb" when="2012-01-06">additional proofing of transcription and encoding</change>                                                
+                                                <change who="#el" when="2011-05-11">case text extracted and transformed from larger file</change>
+                                                <change who="#sb" when="2011-02-09">enriched
+                                                  encoding</change>
+                                                <change who="#sb" when="2011-01-28">validated
+                                                  file</change>
+                                                <change who="#et" when="2009-08-01">encoded</change>
+                                                <change who="#sb" when="2008-09-22">initial checking
+                                                  of OCR text against PDF; encoded </change>
+                                </revisionDesc>
+                </teiHeader>
+                <text>
+                                <body>
+                                                
+                                  <p> <hi rend="initialcap">C</hi>ASE.&#8212;<name type="person" key="xxx">Private John Henry Jones</name>,
+                                    <name type="organization" key="xxx">Co. E, 15th New Jersey Volunteers</name>, was wounded at
+                                    <name type="BATTLE" key="xxx"><choice><orig>Spottsylvania</orig><reg>Spotsylvania</reg></choice></name>, <date type="injury" when="1864-05-10">May 10th, 1864</date>, by a conoidal ball,
+                                                  which entered the right arm posteriorly, passed
+                                                  forward and upward, comminuting and carrying away
+                                                  one and a half inches of the spine of the scapula,
+                                                  passed under the clavicle, opening the thoracic
+                                                  cavity behind the carotid vessels, fracturing the
+                                                  transverse processes of fourth and fifth cervical
+                                                  vertebrae, and lodged against the &#339;sophagus. He
+                                                  was admitted to <name type="hospital" key="176">Lincoln Hospital</name>, at Washington,
+                                    on <date type="admit" when="1864-05-16">May 16th</date>, and died <date type="death" when="1864-05-20">May 20th, 1864</date>. <hi rend="italic">Post mortem</hi>
+                                                  examination revealed the course of the ball as
+                                                  described. The apex of the right lung was covered
+                                                  with lymph; there was ecchymosed blood in the
+                                                  walls of the chest, and fluid blood in its
+                                                  cavities. The walls of the gullet were lacerated,
+                                                  but not perforated; the spinal cord was
+                                                  congested, but no clot found in the canal; the
+                                                  kidneys and liver were congested and the gall
+                                                  bladder was distended. The case is reported by
+                                    <name type="person" key="243">Assistant Surgeon J. C. McKee</name>, <name type="organization" key="190">U. S. A.</name> </p>
+                                                
+                                </body>
+                </text>
+</TEI>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e40833">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Young, Lorenzo</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+       <idno>med.d1e40833</idno>
+       <authority>Civil War Washington</authority>
+       <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor>
+       <name>Center for Digital Research in the Humanities</name>
+       <address><addrLine>319 Love Library</addrLine>
+       <addrLine>University of Nebraska–Lincoln</addrLine>
+       <addrLine>Lincoln, NE 68588-4100</addrLine>
+       <addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+    </distributor>
+    <date>2011</date>
+    <availability>
+        <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+         republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+         law, requires express written consent from the editors and advance notification of the
+         publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+     <persName xml:id="mb">Matthew Bosley</persName>
+     <persName xml:id="el">Elizabeth Lorang</persName>
+     <persName xml:id="sb">Stacey Berry</persName>
+     <persName xml:id="ao">Alyssa Olson</persName>
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl>
+     <title level="j">The Medical and Surgical History of the War of the Rebellion. (1861-65.)</title>
+     <pubPlace>Washington, DC</pubPlace>
+     <publisher>Government Printing Office</publisher>
+     <biblScope type="part">Part 2</biblScope>
+     <biblScope type="volume">Volume 1</biblScope>
+     <date when="1879">1879</date>
+     <biblScope type="page">147</biblScope>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+       <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+      <keywords scheme="#medsurg">
+       <term>diarrh&#339;a and dysentery</term>
+       <term>fatal cases of diarrh&#339;a and dysentery, with accounts of the morbid appearances observed</term>
+       <term>from the Harewood Hospital, Washington, D. C.</term>
+       <term>chronic diarrh&#339;a, about four weeks</term>
+       <term>pain and tenderness along colon, no tympanites</term>
+       <term>lower ileum injected, old ulcers within a foot of ileoc&#230;cal valve</term>
+       <term>colon much ulcerated, especially sigmoid flexure</term>
+       <term>colon ulcers penetrated muscular coat</term>       
+       <term>separation of diphtheritic sloughs</term>       
+       <term>autopsy performed</term>       
+     </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change who="#mb" when="2012-10-16">additional proofing of transcription and encoding, identified keyword terms</change>
+   <change who="#el" when="2010-11-05">case text extracted and transformed from larger file</change>
+   <change who="#sb" when="2010-05-01">enrich encoding, proof and edit</change>
+   <change who="#ao" when="2008-10-02">encoding and editing</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body> 
+   <p>Case from the case-book and medical descriptive lists of the <name type="hospital" key="173"><hi rend="initialcap">H</hi>AREWOOD <hi rend="initialcap">H</hi>OSPITAL</name>, Washington, D. C., <name type="person" key="156">Surgeon Thomas Antisell</name>, <name type="organization" key="132">U. S. V.</name>, in charge from October, 1862, to September, 1863:</p>
+   <p><hi rend="initialcap">C</hi>ASE 286.&#8212;<name type="person" key="183">Private Lorenzo Young</name>, <name type="organization" key="213">company B, 6th Ohio volunteers</name>; age 20; admitted <date type="admit" when="1863-08-17">August 17, 1863</date>.  Chronic diarrh&#339;a.  This man had been sick about four weeks and was greatly emaciated. His pulse was feeble and irregular; tongue dry; dejections frequent and bloody. He complained of pain and tenderness along the track of the colon. There was no tympanites.  Died, <date type="death" when="1863-08-26">August 26th</date>.  <hi rend="italic">Autopsy:</hi> Body much emaciated. Heart and lungs healthy. The liver weighed seventy-one ounces; the gall-bladder was much distended with bile. The spleen healthy, weight nine ounces. The stomach was somewhat injected. The duodenum, jejunum, and upper part of the ileum healthy; the lower part of the ileum was very much injected twelve well-marked old ulcers were counted within a foot of the ileoc&#230;cal valve. The colon was much ulcerated, especially in the sigmoid flexure. The kidneys were healthy.&#8212;<name type="person" key="184">Acting Assistant Surgeon Lloyd Dorsey</name>.  [Nos. 151 and 152, Medical Section, <name type="hospital" key="431">Army Medical Museum</name>, are from this case. The specimens are successive portions of the somewhat thickened colon. In the lower part of No. 151 there is an irregular ulcer, six lines in long diameter, which penetrates to the muscular coat. No. 152 presents a number of larger ulcers of similar character. These ulcers have apparently resulted from the separation of diphtheritic sloughs.]</p>
+  </body>
+ </text>
+</TEI>

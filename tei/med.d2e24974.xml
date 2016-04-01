@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d2e24974">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Gazell, John</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+    <idno>med.d2e24974</idno>
+    <authority>Civil War Washington</authority>
+    <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor><name>Center for Digital Research in the
+     Humanities</name><address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address></distributor>
+    <date>2011</date>
+    <availability>
+     <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+      republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+      law, requires express written consent from the editors and advance notification of the
+      publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+ <persName xml:id="kmp">Kenneth M. Price</persName> <persName xml:id="ajh">AJ Howell</persName>
+     <persName xml:id="mb">Matthew Bosley</persName>
+     <persName xml:id="el">Elizabeth Lorang</persName>
+     <persName xml:id="sb">Stacey Berry</persName>
+     <persName xml:id="et">Elisabeth Tracey</persName>
+     <persName xml:id="ss">Sarah Synovec</persName>
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title level="j">The Medical and Surgical History of the War of the Rebellion.
+      (1861-65.)</title><pubPlace>Washington, DC</pubPlace><publisher>Government Printing
+      Office</publisher><biblScope type="part">Part 3</biblScope><biblScope type="volume">Volume
+      2</biblScope><date when="1883">1883</date><biblScope type="page">650</biblScope></bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+     <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <keywords scheme="#medsurg">
+     <term>miscellaneous injuries</term>
+     <term>simple and compound fractures</term>
+     <term>fracture of scapula, humerus, and forearm; railroad accident</term>
+     <term>run over by city passenger railroad car</term>
+     <term>pre-existing enlargement of thyroid gland</term>
+     <term>passed bloody urine</term>
+     <term>right humerus comminuted, also radius and ulna of each forearm</term>
+     <term>left anterior ribs all broken except twelfth, posteriorly same ribs fractured except the
+      first, second, and twelfth</term>
+     <term>lung lacerated</term>
+     <term>left scapula transversely fractured below spine, left clavicle fractured at acromial
+      extremity</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+ <change who="#kmp" when="2014-05">blessed</change>
+
+   <change who="#ajh" when="2013-08-23">added figure encoding</change>
+   <change who="#mb" when="2012-06-20">additional proofing of transcription and encoding, identified
+    keyword terms</change>
+   <change who="#el" when="2011-05-11">case text extracted and transformed from larger file</change>
+   <change who="#sb" when="2011-06-04">Enrich Encoding, Edit and validate</change>
+   <change who="#sb" when="2011-01-28">Validated File</change>
+   <change who="#ss" when="2008-09-22">initial checking of OCR text; encoded P5 Encoding</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p><hi rend="initialcap">C</hi>ASE 966.&#8212;<hi rend="italic">Fracture of scapula, humerus, and
+     forearm; railroad accident.</hi>&#8212;<name type="person" key="1426">John Gazell</name>, a
+    laborer of the <name type="organization" key="xx">Commissary Department, <name
+      type="organization" key="190">U. S. A.</name></name>, aged 36 years, was run over by a city
+    passenger railroad car at <name type="place" key="#Washington">Washington</name>, <date
+     type="injury" when="1863-08-10">August 10, 1863</date>, and died at <name type="hospital"
+     key="162">Douglas Hospital</name>
+    <date type="death" when="1863-08-10">one hour after the accident</date>. <name type="person"
+     key="616">Acting Assistant Surgeon J. E. Smith</name> made the following report of the injury:
+    "Everything to alleviate his sufferings was done that could be, but the man did not react from
+    the shock in the least. At the autopsy a tumor was observed on the right side of the throat
+    which was supposed to have resulted from the injury, but on cutting down upon it I discovered it
+    to be a pre-existing enlargement of the thyroid gland. A section of the tumor displayed fatty
+    degeneration of the greater part with two sacs, each containing about one-half ounce of
+    sero-sanguinolent fluid. The left inferior portion of the tumor was ossified. Previous to his
+    death the patient had passed bloody urine which could not be satisfactorily accounted for, the
+    kidneys, ureter, and bladder being found apparently uninjured. The right humerus was comminuted,
+    as were also the radius and ulna of each forearm. On the left anterior side the ribs were all
+    broken except the twelfth, and the lung was considerably lacerated; posteriorly the same ribs
+    were fractured except the first, second, and twelfth. The left scapula was transversely
+    fractured below its spine and the left clavicle at its acromial extremity." The injured scapula
+     (<hi rend="initialcap">F</hi>IG. 364, <hi rend="italic">Spec.</hi> 1631), humerus (<hi
+     rend="italic">Spec.</hi> 1786), and both bones of both forearms (<hi rend="initialcap"
+    >F</hi>IGS. 363, 365, <hi rend="italic">Spec.</hi> 1784 of the <hi rend="italic">Surgical
+     Section</hi> of <name type="hospital" key="431">the Museum</name>), were contributed by <name
+     type="person" key="200">Assistant Surgeon W. Thomson</name>, <name type="organization"
+     key="190">U. S. A.</name>, and are represented in the adjoining wood-cuts. The left radius and
+    ulna show an oblique fracture at the junction of the upper thirds, the superior fragments being
+    wanting, while in the right radius a nearly transverse fracture exists in the lower part of the
+    middle third and longitudinal fractures occupy the lower fragment. The lowest third of the right
+    ulna is comminuted.</p>
+   <figure>
+    <graphic url="cww.001659.001"/>
+    <head><hi rend="initialcap">F</hi>IG. 364&#8212;The left scapula transversely fractured. <hi
+      rend="italic">Spec</hi>. 1631.</head>
+   </figure>
+   <figure>
+    <graphic url="cww.001658.001"/>
+    <head><hi rend="initialcap">F</hi>IG. 363&#8212;Bones of the right forearm. <hi rend="italic"
+      >Spec</hi>. 1784.</head>
+   </figure>
+   <figure>
+    <graphic url="cww.001660.001"/>
+    <head><hi rend="initialcap">F</hi>IG. 365&#8212;Bones of left forearm, obliquely fractured. <hi
+      rend="italic">Spec</hi>. 1784.</head>
+   </figure>
+  </body>
+ </text>
+</TEI>

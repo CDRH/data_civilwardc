@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d2e15454">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Pomroy, H. W.</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+    <idno>med.d2e15454</idno>
+    <authority>Civil War Washington</authority>
+    <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor><name>Center for Digital Research in the
+     Humanities</name><address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address></distributor>
+    <date>2011</date>
+    <availability>
+     <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+      republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+      law, requires express written consent from the editors and advance notification of the
+      publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+     <persName xml:id="mb">Matthew Bosley</persName>
+     <persName xml:id="el">Elizabeth Lorang</persName>
+     <persName xml:id="sb">Stacey Berry</persName>
+     <persName xml:id="et">Elisabeth Tracey</persName>
+     <persName xml:id="ss">Sarah Synovec</persName>
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title level="j">The Medical and Surgical History of the War of the Rebellion.
+      (1861-65.)</title><pubPlace>Washington, DC</pubPlace><publisher>Government Printing
+      Office</publisher><biblScope type="part">Part 3</biblScope><biblScope type="volume">Volume
+      2</biblScope><date when="1883">1883</date><biblScope type="page">379</biblScope></bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+     <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <keywords scheme="#medsurg">
+     <term>wounds and injuries of the lower extremities</term> 
+     <term>wounds and injuries of the knee joint</term>
+     <term>shot injuries of the knee joint</term> 
+     <term>shot fractures of the knee joint</term>
+     <term>shot fractures of the bones of the knee joint treated by conservation</term> 
+     <term>recoveries after shot fractures of the bones of the knee joint treated by conservation</term> 
+     <term>ball entered inner border of patella, exited posteriorly at central popliteal space, in line with inferior border of condyles</term>
+     <term>extremity rigid, knee joint permanently anchylosed, region of knee joint much swollen</term>
+     <term>surgeons desired amputation, patient refused to give consent</term>
+     <term>case treated conservatively</term>
+     <term>walks with cane, flexing the body on opposite thigh to swing injured limb forward, not flexing knee</term>     
+    </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change who="#mb" when="2012-05-25">additional proofing of transcription and encoding, identified keyword terms</change>
+   <change who="#el" when="2011-05-11">case text extracted and transformed from larger file</change>
+   <change who="#sb" when="2011-06-04">Enrich Encoding, Edit and validate</change>
+   <change who="#sb" when="2011-01-28">Validated File</change>
+   <change who="#ss" when="2008-09-22">initial checking of OCR text; encoded P5 Encoding</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>   
+    <p><hi rend="initialcap">C</hi>ASE 566.&#8212;<name type="person" key="1162">Private H. W.
+      Pomroy</name>, <name type="organization" key="423">Co. F, 1st Maine Heavy Artillery</name>,
+     aged 36 years, was wounded at <name type="BATTLE" key="55">Laurel Hill</name>, <date type="injury" when="1864-05-19">May 19, 1864</date>, and entered <name type="hospital"
+      key="165">Mount Pleasant Hospital</name>, Washington, <date type="admit" when="1864-05-22">three days afterwards</date>. <name
+      type="person" key="245">Assistant Surgeon H. Allen</name>, <name type="organization" key="190">U. S. A.</name>, reported: "The wound was apparently through the knee joint. A conoidal ball
+     entered at the inner border of the right patella and made its exit posteriorly at the external
+     central part of the popliteal space, on a line with the inferior border of the condyles. The
+     progress of the case has been imperfectly recorded. All that can be ascertained is to the
+     effect that the patient was bed-ridden for eight weeks; that <date type="operation" when="1864-06">in the third week</date> two pieces of bone were removed from the
+     posterior wound, and <date type="operation" when="1864-06">in the fifth week</date> two others were taken out; also that he suffered
+     greatly, and according to his account had marked rigors. The patient came under my notice in
+     January, 1865, when presenting himself for discharge. At this time the appearance of the limb
+     was as follows: The entire extremity was rigid, the knee joint permanently anchylosed, and the
+     region of the joint much swollen: all original contour of the outline was destroyed, and the
+     integuments were semi-&#339;dematous up to the hip joint. The skin was of a dead purplish red
+     color and extremely sensitive, especially around the knee joint. The surgeons at the field
+     hospital were desirous of amputating the limb, but the patient refused to give his consent, and
+     the case was then treated conservatively. The patient was discharged from service <date
+      type="servicedischarge" when="1865-01-26">January 26, 1865</date>, and asserted, prior to his
+     departure for his home, that should the limb continue to be so excessively painful he would
+     have it amputated. Thus it is shown that, should conservative treatment be successful in this
+     class of cases, the limb resultant of months of suffering is apt to be worse than useless."
+     <name type="person" key="xx">Examiner R. K. Jones</name>, of <name type="place" key="xx">Bangor</name>, <date type="pension" when="1866-10-08">October 8, 1866</date>, certified: "The wound is healed and he retains the power of flexing the leg
+     slowly and feebly to an angle of 135°. He walked with crutches till the fall of 1865. He now
+     walks with one cane, flexing the body on the left thigh and swinging with much effort the right
+     limb forward&#8212;not flexing the knee. The foot and leg swell much after use and are now
+     &#339;dematous. The outside of the leg and foot are numb. He suffers much from pain after use,"
+     etc.  Subsequent examiners substantially show the same disabling effects, and the <name
+      type="organization" key="xx">Bangor Board</name> in <date type="pension" when="1876-09">September, 1876</date>, described the exit wound
+     as very tender, and stated that a solid substance like a buckshot or a spicula of bone could be
+     felt under the cicatrix. The pensioner was paid <date type="pension" when="1879-06-04">June 4, 1879</date>. </p>   
+  </body>
+ </text>
+</TEI>

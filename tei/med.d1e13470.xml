@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e13470">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">McGill, Alexander</title>
+                <title level="m" type="sub">a machine readable transcription</title>
+                <principal>Susan C. Lawrence</principal>
+                <principal>Kenneth M. Price</principal>
+                <principal>Kenneth J. Winkle</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2011</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <idno>med.d1e13470</idno>
+                <authority>Civil War Washington</authority>
+                <publisher>University of Nebraska–Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+                </distributor>
+                <date>2011</date>
+                <availability>
+                    <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved.
+                        Redistribution or republication in any medium, except as allowed under the
+                        Fair Use provisions of U.S. copyright law, requires express written consent
+                        from the editors and advance notification of the publisher, the University
+                        of Nebraska–Lincoln.</p>
+                </availability>
+            </publicationStmt>
+            <notesStmt>
+                <note type="project">The following are responsible for particular readings or for changes to this file, as noted: 
+                    <persName xml:id="mb">Matthew Bosley</persName>
+                    <persName xml:id="el">Elizabeth Lorang</persName>
+                    <persName xml:id="sb">Stacey Berry</persName>
+                    <persName xml:id="et">Elisabeth Tracey</persName>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>The Medical and Surgical History of the War of the Rebellion. (1861&#8211;65.)</title>
+                    <editor role="compiler">Surgeon General Joseph K. Barnes, United States Army</editor>
+                    <pubPlace>Washington, D.C.</pubPlace>
+                    <publisher>Government Printing Office</publisher>
+                    <biblScope type="part">Part 1</biblScope>
+                    <biblScope type="volume">Volume 2</biblScope>
+                    <date when="1870">1870</date>
+                    <biblScope type="page">187</biblScope>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <classDecl>
+                <taxonomy xml:id="medsurg">
+                    <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme="#medsurg">
+                    <term>on special wounds and injuries of the head</term>
+                    <term>wounds and injuries of the head</term>
+                    <term>gunshot wounds</term>
+                    <term>gunshot fractures of the cranial bones</term> 
+                    <term>depressed gunshot fracture of cranial bones</term>
+                    <term>exfoliations after depressed gunshot fractures of the skull</term>
+                    <term>necrosis of portions of outer table or of both tables of cranium, frequent results of gunshot fracture</term>
+                    <term>fragment of shell fractured and depressed external table over coronal suture</term>
+                    <term>paralysis of right side, retention of urine</term>
+                    <term>some power of motion in arm and leg returned</term>
+                    <term>necrosed bone detected through granulating wound</term>
+                    <term>portion of skull carried away, left space unprotected by bony structure</term>                    
+                    <term>difficulty in voiding urine</term>
+                    <term>weakness in right knee</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change who="#mb" when="2013-07-11">additional proofing of transcription and encoding, edited and added keyword terms</change>
+            <change who="#mb" when="2011-07-22">additional proofing of transcription and encoding</change>
+            <change who="#el" when="2011-11-05">case text extracted and transformed from larger file</change>
+            <change who="#sb" when="2011-02-09">enriched encoding</change>
+            <change who="#sb" when="2011-01-28">validated file</change>
+            <change who="#et" when="2009-08-01">encoded</change>
+            <change who="#sb" when="2008-09-22">initial checking of OCR text against PDF; encoded</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body xml:id="ch1.sc3.0245">            
+                <p><hi rend="initialcap">C</hi>ASE.&#8212;<name type="person" key="1568">Private
+                        Alexander McGill</name>, <name type="organization" key="551">Co. I, 2d New
+                            Jersey Volunteers</name>, aged 32 years, was wounded at the battle of <name
+                                type="BATTLE" key="127">Bull Run, Virginia</name>, <date
+                        type="injury" when="1862-08-29">August 29th, 1862</date>, by a fragment of
+                    shell, which fractured and depressed the external table over the coronal suture.  He was, on <date type="admit" when="1862-09-01">September 1st</date>, conveyed
+                    to Washington, a distance of thirty miles, and admitted into the <name
+                        type="hospital" key="436">Unitarian Church Hospital</name>.  He suffered from
+                    paralysis of the right side of the body and retention of urine. Unsuccessful
+                    efforts were made to elevate the depressed bone. Cold water dressings were
+                    applied.  On September 10th, the power of motion in the arm and leg had returned,
+                    and on the 20th, the patient was so far recovered that he was able to walk with
+                    the help of a cane. He recovered, with the exception of a slight weakness in the
+                    right knee, and some difficulty in voiding his urine, which latter trouble was
+                    overcome by small doses of sweet spirits of nitre.  On <date type="transfer"
+                        when="1862-10-05">October 5th</date>, he was transferred to <name type="place">New York City</name>
+                    and admitted into the City Hospital. Through the wound, which was granulating
+                    firmly, necrosed bone could be detected. An attempt was made to remove the
+                    latter, but failed.  The patient was discharged from the service on <date
+                        type="servicedischarge" when="1863-01-08">January 8th, 1863</date>.  The case
+                    is reported by <name type="person" key="1353">Surgeon A. Wynkoop</name>, <name
+                        type="organization" key="132">U. S. V.</name>  In <date type="pension" when="1963-01">January, 1863</date>, <name type="person">Dr. H. C.
+                            Clark, Assistant Surgeon</name>, <name type="organization">2d New Jersey Volunteers</name>, reported that from a shell
+                    wound received on <date type="injury" when="1862-08-27"><choice><sic>August 27th, 1862</sic><corr>August 29th, 1862 [see above]</corr></choice></date>, a portion of the skull was carried away,
+                    leaving a space an inch in diameter unprotected by any bony structure, and added
+                    that the man was unable to maintain himself, and was entitled to full pension.
+                    His claim for pension was rejected <date type="pension" when="1965-12-29">December 29th, 1865</date>, for want of
+                    evidence.</p>            
+        </body>
+    </text>
+</TEI>

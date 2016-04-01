@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e17252">
+                <teiHeader>
+                                <fileDesc>
+                                                <titleStmt>
+                                                                <title level="m" type="main">Kahler, Lewis</title>
+                                                  <title level="m" type="sub">a machine readable
+                                                  transcription</title>
+                                                  <principal>Susan C. Lawrence</principal>
+                                                  <principal>Kenneth M. Price</principal>
+                                                  <principal>Kenneth J. Winkle</principal>
+                                                </titleStmt>
+                                                <editionStmt>
+                                                  <edition>
+                                                  <date>2011</date>
+                                                  </edition>
+                                                </editionStmt>
+                                                <publicationStmt>
+                                                  <idno>med.d1e17252</idno>
+                                                  <authority>Civil War Washington</authority>
+                                                  <publisher>University of
+                                                  Nebraska–Lincoln</publisher>
+                                                  <distributor>
+                                                  <name>Center for Digital Research in the
+                                                  Humanities</name>
+                                                  <address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+                                                  </distributor>
+                                                  <date>2011</date>
+                                                  <availability>
+                                                  <p>Copyright © 2011 by University of
+                                                  Nebraska–Lincoln, all rights reserved.
+                                                  Redistribution or republication in any medium,
+                                                  except as allowed under the Fair Use provisions of
+                                                  U.S. copyright law, requires express written
+                                                  consent from the editors and advance notification
+                                                  of the publisher, the University of
+                                                  Nebraska–Lincoln.</p>
+                                                  </availability>
+                                                </publicationStmt>
+                                                <notesStmt>
+                                                  <note type="project">The following are responsible
+                                                  for particular readings or for changes to this
+                                                  file, as noted: 
+                                                                  <persName xml:id="mb">Matthew Bosley</persName>
+                                                                  <persName xml:id="el">Elizabeth Lorang</persName>
+                                                  <persName xml:id="sb">Stacey Berry</persName>
+                                                  <persName xml:id="et">Elisabeth Tracey</persName>
+                                                  </note>
+                                                </notesStmt>
+                                                <sourceDesc>
+                                                  <bibl>
+                                                  <title>The Medical and Surgical History of the War
+                                                  of the Rebellion. (1861&#8211;65.)</title>
+                                                  <editor role="compiler">Surgeon General Joseph
+                                                  K. Barnes, United States Army</editor>
+                                                  <pubPlace>Washington, D.C.</pubPlace>
+                                                  <publisher>Government Printing Office</publisher>
+                                                  <biblScope type="part">Part 1</biblScope>
+                                                  <biblScope type="volume">Volume 2</biblScope>
+                                                  <date when="1870">1870</date>
+                                                  <biblScope type="page">310</biblScope>
+                                                  </bibl>
+                                                </sourceDesc>
+                                </fileDesc>
+                                <encodingDesc>
+                                                <classDecl>
+                                                  <taxonomy xml:id="medsurg">
+                                                  <bibl>Medical and Surgical History of the War of
+                                                  the Rebellion</bibl>
+                                                  </taxonomy>
+                                                </classDecl>
+                                </encodingDesc>
+                                <profileDesc>
+                                                <textClass>
+                                                  <keywords scheme="#medsurg">
+                                                                  <term>wounds and injuries of the head</term> 
+                                                                  <term>gunshot injuries of the cranium</term>
+                                                                  <term>discharged for disability</term>
+                                                                  <term>reports of Pension Examiners are of interest</term>                                                                  
+                                                                  <term>vertigo</term>                                                                  
+                                                                  <term>pain in head</term>
+                                                                  <term>ball lodged in sterno-mastoid muscles</term>
+                                                  </keywords>
+                                                </textClass>
+                                </profileDesc>
+                                <revisionDesc>
+                                                <change who="#mb" when="2011-09-07">additional proofing of transcription and encoding</change>
+                                                <change who="#el" when="2011-11-05">case text
+                                                  extracted and transformed from larger
+                                                  file</change>
+                                                <change who="#sb" when="2011-02-09">enriched
+                                                  encoding</change>
+                                                <change who="#sb" when="2011-01-28">validated
+                                                  file</change>
+                                                <change who="#et" when="2009-08-01">encoded</change>
+                                                <change who="#sb" when="2008-09-22">initial checking
+                                                  of OCR text against PDF; encoded </change>
+                                </revisionDesc>
+                </teiHeader>
+                <text>
+                                <body>
+                                                
+                                                <p><name type="person"><hi rend="initialcap">K</hi>AHLER, <hi rend="initialcap">L</hi>EWIS</name>, Private, <name type="organization">Co. I, 13th New Jersey
+                                                                Volunteers</name>, aged 44 years. <name type="BATTLE" key="257">Chancellorsville</name>, <date type="injury" when="1863-05-03">May
+                                                                                3d, 1863</date>. Fracture of occipital bone by conoidal
+                                                  ball, which lodged beneath the mastoid process in
+                                                  sterno-mastoid muscles. Treated at <name type="place" key="WASHINGTON">Washington</name> and
+                                                                discharged <date type="servicedischarge" when="1863-11-07">November 7th, 1863</date>. <name type="person">Examiner T. B.
+                                                                                Smith, M. D.</name>, <date type="pension" when="1863-11-09">November 9th, 1863</date>, reports that the
+                                                  missile has not been removed and that it is the
+                                                  cause of constant irritation and stiffness of
+                                                  neck. <name type="person">Examiner Philip Leidy, M. D.</name>, <date type="pension" when="1867-03-06">March 6th,
+                                                  1867</date>, states that there is vertigo, dimness of
+                                                  vision, and pain in head, and that the power of
+                                                  locomotion is somewhat interfered with. </p>
+                                                
+                                </body>
+                </text>
+</TEI>

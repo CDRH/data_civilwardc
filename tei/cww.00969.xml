@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="cww.00969">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>                
+                <title level="m" type="main">Petition of George Lee, 24 December 1862</title>
+                <title level="m" type="main">Evidence Relating to the Petition of George Lee, 24 December 1862</title>
+                <title level="m" type="sub">a machine readable transcription</title>
+                <principal>Susan C. Lawrence</principal>
+                <principal>Kenneth M. Price</principal>
+                <principal>Kenneth J. Winkle</principal>
+                <respStmt>
+                    <resp>transcription and encoding</resp>
+<name xml:id="scl">Susan C. Lawrence</name>
+                    <name xml:id="jc">Janel Cayer</name>                   
+                    <name xml:id="km">Kevin McMullen</name>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2012</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <idno>cww.00969</idno>
+                <distributor>Civil War Washington</distributor>
+                <publisher>University of Nebraska–Lincoln</publisher>
+                <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>P.O. Box 884100</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+            </address>
+                <date>2012</date>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+                        <p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License (http://creativecommons.org/licenses/by-nc-sa/3.0/). Derivatives must be credited to Civil War Washington, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                
+                
+                <bibl xml:id="rg21">
+                    <title>Petition of George Lee, 24 December 1862</title>                    
+                    <date when="1862-12-24">December 24, 1862</date>
+                    <idno>Microcopy 433, Reel 3</idno>                
+                    <orgName>National Archives and Records Administration</orgName>
+                    <relatedItem type="original">
+                        <bibl>
+                            <title>Petition of George Lee, 24 December 1862</title>                            
+                            <date when="1862-12-24">December 24, 1862</date>
+                            <idno type="rg">Record Group 21</idno>
+                            <orgName>Records of the District Courts of the United States, 1685&#8211;2004, National Archives and Records Administration</orgName>
+                            <orgName>Emancipation Records, compiled 1862&#8211;1863</orgName>
+                            <note type="project">Within the National Archives' Archival Description Catalog, see ARC Identifier 4314547 / MLR Number NC-2 33 (http://arcweb.archives.gov).</note>
+                        </bibl>
+                    </relatedItem>
+                    <note type="project">Our transcription is based on a digital image of a microfilm copy of the original.</note>
+                </bibl>
+                
+                <bibl xml:id="rg217">
+                    <title>Evidence Relating to the Petition of George Lee, 24 December 1862</title>                   
+                    <date when="1862-12-24">December 24, 1862</date>
+                    <idno>Microcopy 520, Reel 6</idno>
+                    <orgName>National Archives and Records Administration</orgName>
+                    <relatedItem type="original">
+                        <bibl>
+                            <title>Evidence Relating to the Petition of George Lee, 24 December 1862</title>                           
+                            <date when="1862-12-24">December 24, 1862</date>
+                            <idno type="rg">Record Group 217.6.5</idno>
+                            <orgName>Records of the Accounting Officers of the Department of the Treasury, 1775&#8211;1978, National Archives and Records Administration</orgName>
+                            <note type="project">Within the National Archives' Archival Description Catalog, see ARC Identifier 4644616 / MLR Number A1 347 (http://arcweb.archives.gov).</note>
+                        </bibl>
+                    </relatedItem>
+                    <note type="project">Our transcription is based on a digital image of a microfilm copy of the original.</note>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <particDesc>
+                <person role="owner">
+                    <persName>Nancy Talbot</persName>
+                </person>
+                <person role="petitioner-slave">
+                    <persName>George Lee</persName>
+                </person>
+            </particDesc>
+        </profileDesc>
+        <revisionDesc>
+<change when="2013-02-11" who="#jc">blessed</change>
+<change when="2013-02-07" who="#scl">blessed</change>
+            <change when="2012-09-05" who="#jc">checked</change>
+            <change when="2012-06-08" who="#km">transcribed, encoded</change>
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            <!-- Begins with the text of the petition. -->
+          
+            <pb xml:id="leaf001r" facs="cww.00969.001.jpg"/>
+            
+            <div1 type="petition" corresp="#rg21">                
+                
+                <div2 type="document" subtype="handwritten">
+                    
+                <div3 type="section">
+                    
+                    <opener>
+                        <salute>To <persName>John A. Smith</persName> <choice><abbr>Esq</abbr><expan>Esquire</expan></choice><lb/> Clerk Circuit Court of <placeName>District of Columbia</placeName></salute>
+                        <salute>Sir,</salute>
+                    </opener>
+                    
+                    <p>Miss <persName>Nancy Talbot</persName> of <placeName>Maryland</placeName> having claim to the service or labor of the undersigned and having refused or failed to file in your office the statement or schedule provided for in the 9th Section of the act of Congress entitled "an act for the release of certain persons held to service or labor in the <placeName>District of Columbia</placeName>" approved <date when="1862-04-16">April 16, 1862</date></p>
+                    <p>You will please file the annexed schedule in pursuance of an act supplementary to the above recited act approved <date when="1862-07-12">July 12th, 1862</date>. The undersigned resided in the <placeName>District of Columbia</placeName> before and at the time of the passage of the first named bill and at the time of the passage of said supplemental act with said owners consent.</p>
+                    
+                    <closer>
+                        <signed>his X mark <persName>George Lee</persName></signed>
+                    </closer>
+                    
+                </div3>    
+                    
+                    <div3 type="section">
+                        <head><hi rend="underline">Schedule</hi></head>
+                    <table>
+                        <row>
+                            <cell>Name</cell>
+                            <cell>Sex</cell>
+                            <cell>Age</cell>
+                            <cell>Remarks</cell>
+                        </row>
+                        <row>
+                            <cell>George Lee</cell>
+                            <cell>Male</cell>
+                            <cell>22 years</cell>
+                            <cell>very thick upper lip</cell>
+                        </row>
+                    </table>
+                    
+                    <closer>
+                        <salute>Signed in presence of</salute>
+                        <signed>T M Blount</signed>
+                        <dateline><date when="1862-12-24">Decr. 24, 1862</date></dateline>
+                    </closer>
+                    </div3>
+                </div2>
+                
+                <pb xml:id="leaf001v" facs="cww.00969.002.jpg"/>
+                
+                <div2 type="cover" subtype="handwritten">
+                    <div3 type="section">
+                        <ab>paid</ab>
+                        <ab>Application of <persName>George Lee</persName> for emancipation under "An act supplementary to the "Act for the release of certain persons held to service or labor in the <placeName>District of Columbia</placeName>"</ab>
+                        <ab>Approved <date when="1862-07-12">July 12, 1862</date></ab>
+                        <ab>Recorded in Manumission Record No. 2 folio 107</ab>
+                        <ab>Filed <date when="1862-12-24">December 24th 1862</date></ab>
+                    </div3>
+                    
+                    <div3 type="section">
+                        <ab>The commissioners, satisfied on the testimony of <persName>L. Huyck</persName>, firm of Sweeny &#38; Co., and of Samuel Diggs (<choice><abbr>Cold</abbr><expan>colored</expan></choice>) of the truth of the written statement, order the same to be so reported to the Clerk of the Circuit Court of the <placeName>Dist. of Columbia</placeName>.</ab>
+                        
+                        <closer>
+                            <signed>Wm R. Woodward <lb/>Clerk <choice><abbr>Emn</abbr><expan>Emancipation</expan></choice> <choice><abbr>Comrs</abbr><expan>Commissioners</expan></choice></signed>
+                        </closer>
+                    
+                    </div3>
+                    
+                    <div3 type="section">
+                        <ab><choice><abbr>Cert</abbr><expan>certificate</expan></choice> is<gap reason="damage" extent="several words" unit="chars" quantity="15"/></ab>
+                        <ab><choice><abbr>Idfd</abbr><expan>Identified</expan></choice> by <persName>J M Blount</persName></ab>
+                        <ab><date when="1862-12-24">Dec 24, 1862</date></ab>
+                    </div3>
+                    
+                </div2>
+            </div1>
+            
+            <!-- Evidence pertaining to the case begins here -->       
+            
+           <div1 type="evidence" corresp="#rg217" subtype="mixed">
+                
+                <pb xml:id="leaf002r" facs="cww.00969.003.jpg"/>
+                
+                <div2 type="statement" subtype="mixed">
+                    
+                    <fw><persName>H. B. Sweeney</persName> <hi rend="right"><persName>L. Huyck</persName></hi></fw>
+                        <head type="main">Banking House of Sweeney &#38; Huyck</head>
+                        <head type="sub">No. 517 Seventh Street</head>
+                    
+                        <opener>
+                        <dateline><placeName>Washington, D.C.</placeName> <date when="1862-12-24"><seg type="handwritten">Decr 24</seg> 186<seg type="handwritten">2</seg></date></dateline>
+                       
+                        <salute><seg type="handwritten">To the Commissioners under the Act of Congress entitled "Ac Act for the release of certain persons held to service or labor in the <placeName>District of Columbia</placeName> &#8212; Approved <date when="1862-04-16">April 16, 1862</date></seg></salute>
+                        </opener>
+                        <ab type="handwritten"><persName>I L Huyck</persName> of the city of <placeName>Washington</placeName> do hereby certify that the bearer <persName>George Lee</persName> was in my service for four and one half months commencing on the <date when="1862-01-24">24th day of January 1862</date> and that I paid the wages for his services to the agent (<persName><unclear reason="illegible" cert="medium" resp="#km">A W.</unclear> Arnold</persName>) of the owner Miss Nancy Talbot; and further that it was with the consent of the agent of the owner that I employed the said George.</ab>
+                        
+                        <closer>
+                            <signed><seg type="handwritten"><persName>L Huyck</persName></seg></signed>
+                        </closer>                 
+                </div2>
+                           
+                <pb xml:id="leaf003r" facs="cww.00969.004.jpg"/>
+            
+                <div2 type="document" subtype="handwritten">                    
+                <dateline><date when="1862-12-24">Dec 24, 1862</date></dateline>
+                    
+                    <div3 type="procedural">
+                        <ab><persName>George Lee</persName></ab>
+                        <ab><choice><abbr>ser</abbr><expan>servant</expan></choice> <persName>Nancy Talbott</persName></ab>
+                    </div3>
+                
+                    <div3 type="testimony">
+                        <ab><persName>Saml Diggs</persName> (<choice><abbr>col</abbr><expan>colored</expan></choice>) I was living at <persName>Mr <unclear reason="illegible" cert="medium" resp="#km">Huck</unclear></persName> and hired this man for <persName>Mr <unclear reason="illegible" cert="medium" resp="#km">Hunck</unclear></persName>&#8212;he lived 4 <choice><abbr>mos</abbr><expan>months</expan></choice> &#38; 15 days with <persName>Mr <unclear reason="illegible" cert="medium" resp="#km">Hunck</unclear></persName> before law passed <persName>Mr Arnold</persName> <choice><abbr>Agt</abbr><expan>agent</expan></choice> drew wages&#8212;living here since &#38; was here on <date when="1862-04-16">16 Apl</date>&#8212;</ab>
+                    </div3>
+                
+                    <div3 type="procedural">
+                        <ab><persName>Leonard Huyck</persName> swears to truth of his letter</ab>
+                    </div3>
+                </div2>
+                
+               
+                <pb xml:id="leaf003v" facs="cww.00969.005.jpg"/>
+                <div2 type="cover" subtype="handwritten">
+                    <ab><persName>George Lee</persName></ab>
+                    <ab><date when="1862-12-24">Decr 24</date>.</ab>
+                </div2>
+            </div1>            
+        </body>
+    </text>
+</TEI>
+                
+                
+                
+                
+                
+

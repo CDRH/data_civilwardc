@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d2e12982">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Davis, W. E.</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+    <idno>med.d2e12982</idno>
+    <authority>Civil War Washington</authority>
+    <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor><name>Center for Digital Research in the
+     Humanities</name><address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address></distributor>
+    <date>2011</date>
+    <availability>
+     <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+      republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+      law, requires express written consent from the editors and advance notification of the
+      publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+ <persName xml:id="kmp">Kenneth M. Price</persName> 
+     <persName xml:id="mb">Matthew Bosley</persName>
+     <persName xml:id="el">Elizabeth Lorang</persName>
+     <persName xml:id="sb">Stacey Berry</persName>
+     <persName xml:id="et">Elisabeth Tracey</persName>
+     <persName xml:id="ss">Sarah Synovec</persName>
+     <persName xml:id="kk">Kourtney Klein</persName>
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title level="j">The Medical and Surgical History of the War of the Rebellion.
+      (1861-65.)</title><pubPlace>Washington, DC</pubPlace><publisher>Government Printing
+      Office</publisher><biblScope type="part">Part 3</biblScope><biblScope type="volume">Volume
+      2</biblScope><date when="1883">1883</date><biblScope type="page">291-292</biblScope></bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+     <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <keywords scheme="#medsurg">
+     <term>wounds and injuries of the lower extremities</term> 
+     <term>injuries of the shaft of the femur</term>
+     <term>amputations in the shaft of the femur</term> 
+     <term>intermediary amputations in the shaft of the femur for shot injury</term>
+     <term>intermediary amputations in the lower third of the thigh</term> 
+     <term>fatal cases of intermediary amputation in the lower third of the femur</term> 
+     <term>gangrene of foot and leg from gunshot wound of leg</term>
+     <term>foot and lower portion of leg completely mortified</term>
+     <term>injury and obliteration of main arteries</term>       
+     <term>tetanus after amputation, hastened fatal issue</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+ <change who="#kmp" when="2014-05">blessed</change>
+   <change who="#kk" when="2014-01-31">added figure encoding</change>
+   <change who="#mb" when="2012-05-21">additional proofing of transcription and encoding, identified keyword terms</change>
+   <change who="#el" when="2011-05-11">case text extracted and transformed from larger file</change>
+   <change who="#sb" when="2011-06-04">Enrich Encoding, Edit and validate</change>
+   <change who="#sb" when="2011-01-28">Validated File</change>
+   <change who="#ss" when="2008-09-21">initial checking of OCR text; encoded P5 Encoding</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>   
+    <p><hi rend="initialcap">C</hi>ASE 471.&#8212;<name type="person" key="1094">Captain <hi
+       rend="italic">W. E. Davis</hi></name>, <name type="organization" key="451">Co. B, 30th North Carolina</name>, aged 25 years, was wounded in the skirmish at <name type="BATTLE" key="294">Kelly's Ford</name>, Virginia, <date type="injury" when="1863-11-07">November 7, 1863</date>. He was conveyed to the hospital of the Third Corps, and,
+     <date type="transfer" when="1863-11-10">November 10th</date>, was transferred to <name type="place" key="#Washington">Washington</name>
+     and admitted into <name type="hospital" key="162">Douglas Hospital</name>. <name
+      type="person" key="208">Acting Assistant Surgeon Carlos Carvallo</name> reported that the ball
+     entered the anterior external aspect of the right leg about two and a half inches below the
+     inferior edge of the patella, one and a half inches external to the median line of the leg, and
+     one and a quarter inches below the head of the fibula, where it fractured the bone, and
+     descending downward, inward, and backward, emerged in the posterior internal aspect of the leg,
+     midway between the inferior edge of the patella and the internal malleolus, internal to the
+     bulk of the gastrocnemius muscle. The right foot was cold, of a purple hue, and entirely
+     senseless; the leg, from knee to upper portion of lower third, was swollen and emphysematous,
+     and the middle third was of a yellow and dark green, intermixed with a brown-purple hue.
+     Diagnosis: Gangrene of the foot and leg from gunshot wound of leg, with, most probably, injury
+     and obliteration of the main arteries. Amputation was the sole treatment indicated, the foot and lower portion of the leg being completely mortified. <name
+      type="person" key="200">Assistant Surgeon W. Thomson</name> amputated the thigh at the lower
+     third by the circular method. The femoral was secured by digital compression and the
+     tourniquet. Very little arterial blood was lost. A grain of morphia was administered in a half
+     ounce of whiskey immediately after the operation, he having readily revived from the ether
+     narcosis, and he stated that he had slept undisturbed during the operation, without dreaming,
+     and was now entirely free of pain. The cut surface of the stump showed the tissues infiltrated
+     and of an unhealthy appearance. Stimulants were administered. The stump was dressed with dry
+     charpie. At night the pulse was 130, tongue moist, skin dry. The stump was boggy and crepitant
+     to pressure, and a dark discoloration was visible on the external aspect extending to the
+     tensor fascia lata.  November 12th, towards evening a line of demarcation was visible of a large
+     slough in external side of skin flap, no discharge from stump; tension of the skin caused by
+     three sutures, which were removed, followed by gaping of the flap. About 9 P. M., the pulse
+     became frequent (145), and there was great paleness of the conjunctiva and skin. The extensive
+     sloughing, weak pulse, and an&#230;mic appearance presented a hopeless prognosis. Late in the
+     evening, a strong solution of bromine was directly applied to the surface of the stump by means
+     of charpie. The application was at first painless, but, after penetrating the mortified tissues
+     and coming in contact with sensitive parts, it caused such pain that the patient was fortified
+     during the operation by a half ounce of sherry wine in powdered ice and one-half grain morphia.  13th, <name type="person" key="454">Dr. Holly</name> touched the line of demarcation (which was
+     very well marked, and extended to the whole circumference of the stump) with pure bromine, by
+     means of a flattened stick, in order to facilitate and hasten the efforts of nature. He also
+     applied <name type="person" key="200">Dr. Thomson's</name>  solution of bromine (composed of one drachm of pure bromine, three drachms of bromide of
+     potassium, and three ounces of water), by means of a glass pipette to all the sinuses beneath the mortified integuments and the sinuses near the
+     arteries; besides this application, after carefully washing the stump with "blue wash"
+     (solution of permanganate of potassa), and protecting the integuments outside with castor oil
+     and the surface of the stump with a thin muslin rag, the vapor of bromine was administered by
+     pouring an ounce of solution of bromine on charpie; this was applied to the face of the stump
+     and covered with simple cerate spread on sheet lint and inclosed by oil-cloth and a bandage.
+     The application of bromine was repeated at 1 and 7 P. M., and the nourishing food and
+     stimulants continued. An injection of soap and water caused the first passage since the date of
+     the injury and gave great relief.  14th, the effects of the bromine yesterday had hermetically
+     sealed the surface of the stump, covering it with a yellowish gray matter, which was removed as
+     much as possible, a large amount of mortified integuments being cut away and three loose ligatures removed. Decubitus of gluteal region,
+     somewhat to right of sacral bone; bedsore the size of the palm of the hand, with a yellow
+     greenish slough, which was partly removed with the assistance of a scissors. India-rubber rings
+     employed, and ointment of cinchona bark. Bromine was freely applied four times during the day.
+     There was an abundant discharge of thin unhealthy pus, and the removal of a great quantity of
+     slough discovered a red granulating surface.  15th, wound dressed with bromine at 9 A. M. and 4 P. M. Doing very well;
+     slough removed in large pieces.  17th, large quantity of sphacelated integuments removed and
+     vapor of bromine applied. The stump was exposed for an hour to a painter's view.  18th, the
+     decubitus is becoming the most painful and prominent feature of his complaint. For the first
+     time he had a free passage without adjuvants; slept on his belly.  On the 19th, he was put on a
+     water bed, on which he lay much easier. An extensive slough was removed from the inferior
+     portion of the flap, as also from the decubitus, which discharges healthy pus in large
+     quantity; could see an artery pulsating. Bromine applied to bedsore. Patient felt bright, and
+     eat a hearty dinner. In the evening, he complained of a little pain in his throat resembling
+     <choice><orig>tonsilitis</orig><reg>tonsillitis</reg></choice>.  20th, on examining the patient's throat, it was found that he could only open his
+     jaws enough to show the tip of his tongue. Tetanus diagnosticated. Nutritious diet and
+     stimulants were given as usual. At 4 P. M., a laxative was administered. The decubitus was
+     dressed with pulverized cinchona. The stump, which had a beautiful red granulating surface,
+     with one single ligature, was dressed at night with castor oil. He had had contractions and
+     jerking of the stump once in the morning, but had not paid any attention to it until 6 P. M.,
+     at which time it became more frequent, recurring nearly every half hour; three ounces of brandy
+     and a half grain of morphia were ordered at 10 and 12 P. M. and 2 and 4 A. M.  21st, trismus
+     well confirmed. Contractions of glottis muscles and fits of suffocation after taking fluids,
+     though administered in small quantities and through a pipette. There was rigidity of the masseters and <choice><orig>sterno-cleido-mastoid</orig><reg>sternocleidomastoid</reg></choice> muscles, and of the muscles of the back of the neck, which were quite hard. The head inclined backward and to the left side; diificulty of articulation. The difficulty of
+     swallowing increased and only fluid nourishment could be taken. He gradually sank, and died
+      <date type="death" when="1863-11-22">November 22, 1863</date>, of asthenia. A <hi rend="italic">post-mortem</hi> examination of the stump was made November 24th. There was a
+     natural clot of blood at the distal end of the femoral artery. The neurilemma of the sciatic
+     nerve appeared thickened, and the fibres of the nerve more gross and coarse than usual. The
+     ends of several nerves were strongly attached to the external surface of the stump. The body
+     and spine were not opened. A drawing, by <name type="person" key="878">Hospital Steward E.
+      Stauch</name>, of the gangrenous stump, is copied in the <choice><orig>chromo-lithograph</orig><reg>chromolithograph</reg></choice>, <hi rend="initialcap">P</hi>LATE <hi rend="initialcap">XXI</hi>, opposite.</p>
+   
+    <figure>
+     <graphic url="cww.001816.001" />
+     <head>PLATE  XXI.    GANGRENE  OF  A  THIGH  STUMP.    Case of Captain W. E. Davis,  30th North Carolina</head>
+    </figure>
+    
+   
+  </body>
+ </text>
+</TEI>

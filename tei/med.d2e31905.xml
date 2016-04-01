@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d2e31905">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">G&#8212;&#8212;, D.</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+       <idno>med.d2e31905</idno>
+       <authority>Civil War Washington</authority>
+       <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor>
+       <name>Center for Digital Research in the Humanities</name>
+       <address><addrLine>319 Love Library</addrLine>
+       <addrLine>University of Nebraska–Lincoln</addrLine>
+       <addrLine>Lincoln, NE 68588-4100</addrLine>
+       <addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+    </distributor>
+    <date>2011</date>
+    <availability>
+        <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+         republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+         law, requires express written consent from the editors and advance notification of the
+         publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+ <persName xml:id="kmp">Kenneth M. Price</persName> 
+     <persName xml:id="mb">Matthew Bosley</persName>
+     <persName xml:id="jy">Jingyao Yu</persName>   
+     <persName xml:id="kk">Kourtney Klein</persName>
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl>
+     <title level="j">The Medical and Surgical History of the War of the Rebellion. (1861-65.)</title>
+     <pubPlace>Washington, DC</pubPlace>
+     <publisher>Government Printing Office</publisher>
+     <biblScope type="part">Part 2</biblScope>
+     <biblScope type="volume">Volume 2</biblScope>
+     <date when="1876">1876</date>
+     <biblScope type="page">216</biblScope>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+       <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+      <keywords scheme="#medsurg">
+       <term>injuries of the pelvis</term>
+       <term>shot fractures of the pelvic bones</term>
+       <term>shot fractures of the ilium</term> 
+       <term>ball entered over crest of ilium, emerged near spinal column</term>
+       <term>wounds did not penetrate abdominal cavity, but suppuration extended to outer coat of intestine posteriorly</term>
+       <term>chill, fever, delirium, quick and feeble pulse, icteric hue of skin</term>       
+     </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+ <change who="#kmp" when="2014-05">blessed</change>
+   <change who="#kk" when="2014-01-17">added figure encoding</change>
+   <change who="#mb" when="2012-09-06">additional proofing of transcription and encoding, identified keyword terms</change>
+   <change who="#jy" when="2011-02-24">checked OCR; added minimal mark-up for personal names, place names, and dates</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body> 
+   <p>CASE 631. Private D. G&#8212;&#8212;, Co. F, 56th Pennsylvania, aged 38 years, was wounded at <name type="place">South Side Railroad</name>, <date type="injury" when="1864-10-27">October 27, 1864</date>, by a conoidal ball, which entered over the crest of the left ilium and emerged two inches to the right of the spinal column. He was sent to <name type="place">City Point</name>, thence to <name type="place" key="#Alexandria">Alexandria, Virginia</name>, where he was admitted to hospital on <date type="admit" when="1864-11-02">November 2d</date>.  "He complained of severe pain; there was no paralysis either of sensation or of motion in the lower extremities, and he micturated freely. Water-dressings were applied, opiates administered, and a half diet with extras was allowed. A few days before the 13th, the patient had a chill, which was followed by fever, low muttering delirium, quick and feeble pulse, icteric hue of the skin, and breath of a saccharine odor. Supporting treatment was of no avail; he gradually grew worse, and died <date type="death" when="1864-11-13">November 13, 1864</date>.  Noticeable at the <hi rend="italic">post-mortem</hi> examination, <date type="autopsy" when="1864-11-15">thirty-four hours subsequently</date>, were the great degree of rigidity, slight emaciation, suggillation posteriorly, and the f&#339;tid odor of a dark, peculiar fluid emitted from the cancellated structure of the injured ilium. There was half an ounce of serum in the left pleura; the upper lobes of the left lung were congested posteriorly; the lower lobe congested and indurated, and portions of it splenified, with numerous abscesses the size of a millet-seed in its substance. The upper and lower lobe of the right lung were congested and indurated posteriorly, with an abscess the size of a pea and numerous smaller ones in their substance. The bronchi were inflamed; the pericardium contained two ounces of fluid, and there was a large yellow clot in the right auricle, which extended into the pulmonary veins. The omentum was thickened; the peritoneum drier than usual; the small intestines congested externally. Their surfaces felt clammy, and, in the left iliac region, they were slightly adherent to each other and to the lower part of the rectum by a few shreds of recently deposited lymph. The spleen and kidneys were paler than usual. The liver was paler than usual posteriorly, indurated and darker than usual anteriorly. The gall-bladder contained two ounces of very dark inspissated bile. The wounds did not penetrate the abdominal cavity, but on removing the descending colon suppuration was found to have extended to the outer coat of the intestine posteriorly."  With the foregoing notes, <name type="person" key="134">Surgeon E. Bentley</name>, <name type="organization" key="132">U. S. V.</name>, contributed to <name type="hospital" key="431">the Museum</name> a section of the injured ilium, which is represented in the adjacent figure (<hi rend="initialcap">F</hi>IG. 146).</p>
+   
+   <figure>
+    <graphic url="cww.001790.001" />
+    <head><hi rend="initialcap">F</hi>IG. 146.&#8212;Upper portion of the left ilium, with a shot fracture of its crest.    <hi rend="italic">Spec</hi>. 3408.</head>
+   </figure> 
+   
+  </body>
+ </text>
+</TEI>

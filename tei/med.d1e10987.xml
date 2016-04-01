@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e10987">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Sullivan, Denis</title>
+                <title level="m" type="sub">a machine readable transcription</title>
+                <principal>Susan C. Lawrence</principal>
+                <principal>Kenneth M. Price</principal>
+                <principal>Kenneth J. Winkle</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2011</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <idno>med.d1e10987</idno>
+                <authority>Civil War Washington</authority>
+                <publisher>University of Nebraska–Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+                </distributor>
+                <date>2011</date>
+                <availability>
+                    <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved.
+                        Redistribution or republication in any medium, except as allowed under the
+                        Fair Use provisions of U.S. copyright law, requires express written consent
+                        from the editors and advance notification of the publisher, the University
+                        of Nebraska–Lincoln.</p>
+                </availability>
+            </publicationStmt>
+            <notesStmt>
+                <note type="project">The following are responsible for particular readings or for
+                    changes to this file, as noted: 
+ <persName xml:id="kw">Kenneth Winkle</persName> <persName xml:id="ajh">AJ Howell</persName>
+                    <persName xml:id="mb">Matthew Bosley</persName>
+                    <persName xml:id="el">Elizabeth Lorang</persName>
+                    <persName xml:id="sb">Stacey Berry</persName>
+                    <persName xml:id="et">Elisabeth Tracey</persName>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>The Medical and Surgical History of the War of the Rebellion.
+                        (1861&#8211;65.)</title>
+                    <editor role="compiler">Surgeon General Joseph K. Barnes, United States
+                        Army</editor>
+                    <pubPlace>Washington, D.C.</pubPlace>
+                    <publisher>Government Printing Office</publisher>
+                    <biblScope type="part">Part 1</biblScope>
+                    <biblScope type="volume">Volume 2</biblScope>
+                    <date when="1870">1870</date>
+                    <biblScope type="page">148-149</biblScope>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <classDecl>
+                <taxonomy xml:id="medsurg">
+                    <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme="#medsurg">
+                    <term>on special wounds and injuries of the head</term>
+                    <term>wounds and injuries of the head</term>
+                    <term>gunshot wounds</term>
+                    <term>gunshot contusions of the cranial bones</term>
+                    <term>gunshot fractures of the inner table of the skull</term>
+                    <term>fractures of the vitreous table of the skull without fracture or
+                        depression of the outer table</term>
+                    <term>trephining performed</term>
+                    <term>depressed fracture of the inner table and vitreous plate</term>
+                    <term>abscess in substance of cerebral hemisphere</term>
+                    <term>musket ball denuded and contused frontal bone below coronal suture to left
+                        of median line</term>
+                    <term>paroxysms of ague daily</term>
+                    <term>pneumonia</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+ <change who="#kw" when="2014-05">blessed</change>
+            <change who="#el" when="2014-07-03">corrected typo in figure head</change>
+            <change who="#ajh" when="2013-08-19">added figure encoding</change>
+            <change who="#mb" when="2013-07-01">additional proofing of transcription and encoding,
+                edited and added keyword terms</change>
+            <change who="#mb" when="2011-06-30">additional proofing of transcription and
+                encoding</change>
+            <change who="#el" when="2011-11-05">case text extracted and transformed from larger
+                file</change>
+            <change who="#sb" when="2011-02-09">enriched encoding</change>
+            <change who="#sb" when="2011-01-28">validated file</change>
+            <change who="#et" when="2009-08-01">encoded</change>
+            <change who="#sb" when="2008-09-22">initial checking of OCR text against PDF;
+                encoded</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body xml:id="ch1.sc3.0185">
+            <p><hi rend="initialcap">C</hi>ASE 17.&#8212;<name type="person" key="1430">Private <hi
+                        rend="italic">Denis S</hi>&#8212;&#8212;</name>, <name type="organization"
+                    key="788">Co. E, 2d Virginia Cavalry</name>, aged 21 years, was wounded, in an
+                engagement at <name type="place">Harper's Farm</name>, near <name type="place"
+                    >Appomattox Court House</name>, on <date type="injury" when="1865-04-06">April
+                    6th, 1865</date>, by the oblique impact of a musket ball which denuded and
+                contused the frontal bone a little below the coronal suture and to the left of the
+                median line. Being taken prisoner, he was placed in a field hospital where a water
+                dressing was applied, the hair being shaved off to a suitable extent. A few days
+                subsequently, he was sent to the rear, and he reached <name type="place"
+                    key="#Washington">Washington</name> a fortnight after the reception of his
+                wound, and was placed in <name type="hospital" key="173">Harewood Hospital</name> on
+                    <date type="admit" when="1865-04-19">April 19th</date>. He had a chill soon
+                after his admission, and reported that for some days he had suffered from two
+                paroxysms of ague daily. He had no pain in the head, nor any symptom to excite
+                apprehension as to the condition of the brain, except the chills, which were
+                ascribed to malarial influence. They proved, however, not to be amenable to quinia,
+                which was freely administered, for several days, without advantage. On April 24th, a
+                slight congestion of the lower lobe of the right lung was noticed. The next day
+                pneumonia was fully developed here, and on the 26th the greater portion of the right
+                lung was involved, and there was acute pain in the cardiac region, with a souffle
+                accompanying the first sound of the heart and a murmur of regurgitation the second
+                sound. The pulse rose rapidly to 156; but fluctuated greatly in frequency and force.
+                At ten in the evening of <date type="operation" when="1865-04-26">this day</date>
+                the patient became comatose. Shortly afterwards, <name type="person" key="158"
+                    >Surgeon R. B. Bontecou</name>, <name type="organization" key="132">U. S.
+                    Vols.</name>, applied the crown of a small trephine on the right of the space in
+                which the pericranium was removed. When the outer table was passed, pus began to
+                exude from the cells of the diplo&#235;. When this was penetrated a depressed
+                fracture of the inner table was discovered. Another perforation was now made to
+                obtain space to remove the depressed fragments of vitreous plate. A small fragment
+                and another measuring nine by six lines were found completely detached, and were
+                removed by common dissecting forceps. The operation had no influence upon the
+                profound coma, that persisted until the patient's death, which took place on the
+                following morning, <date type="death" when="1865-04-28">April 28th, 1865</date>. At
+                the autopsy, a large abscess was found in the substance of the right cerebral
+                hemisphere. A segment of the frontal bone, with the two disks and the larger
+                fragment of the inner table, removed at the operation, were forwarded to the <name
+                    type="hospital" key="431">Army Medical Museum</name> by <name type="person"
+                    key="158">Surgeon R. B. Bontecou</name>, <name type="organization" key="132">U.
+                    S. V.</name>, and are represented in the accompanying wood-cut, (<hi
+                    rend="initialcap">F</hi>IG. 61.) A view of the interior of the specimen is given
+                in <hi rend="initialcap">F</hi>IG. I, of the Catalogue of the Surgical Section of
+                the <name type="hospital" key="431">Army Medical Museum</name>, (p. 6.) and in the
+                Surgical Report in <hi rend="italic">Circular</hi> No. 6, S. G. O., 1865, p. 11, <hi
+                    rend="initialcap">F</hi>IG. 6, and a photograph of the patient, taken a few
+                hours prior to the operation, is preserved at <name type="hospital" key="431">the
+                    Museum</name>, as No. 58, Vol. I, of the Series of Contributed Photographs of
+                Surgical Cases. The lower figure in Plate III, opposite page 105, is copied from the
+                photograph, and represents the appearance of the patient after the graver symptoms
+                of compression of the brain had set in. </p>
+            <figure>
+                <graphic url="cww.001380.001"/>
+                <head>
+                    <hi rend="initialcap">F</hi>IG. 61.&#8212;Segment of a cranium trephined for a
+                    depressed fracture of the inner table. <hi rend="italic">Spec</hi>. 4344, Sect.
+                    I, A. M. M.</head>
+            </figure>
+            <figure>
+                <graphic url="cww.001364.001"/>
+                <head>Plate III. GUNSHOT SCALP WOUNDS AND CONTUSIONS OF THE SKULL. 4. Private Denis
+                    Sullivan, 2 Virginia Cavalry.</head>
+            </figure>
+        </body>
+    </text>
+</TEI>

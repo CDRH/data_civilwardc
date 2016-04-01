@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d2e31297">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Covell, H. J.</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+       <idno>med.d2e31297</idno>
+       <authority>Civil War Washington</authority>
+       <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor>
+       <name>Center for Digital Research in the Humanities</name>
+       <address><addrLine>319 Love Library</addrLine>
+       <addrLine>University of Nebraska–Lincoln</addrLine>
+       <addrLine>Lincoln, NE 68588-4100</addrLine>
+       <addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+    </distributor>
+    <date>2011</date>
+    <availability>
+        <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+         republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+         law, requires express written consent from the editors and advance notification of the
+         publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+     <persName xml:id="mb">Matthew Bosley</persName>     
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl>
+     <title level="j">The Medical and Surgical History of the War of the Rebellion. (1861-65.)</title>
+     <pubPlace>Washington, DC</pubPlace>
+     <publisher>Government Printing Office</publisher>
+     <biblScope type="part">Part 2</biblScope>
+     <biblScope type="volume">Volume 2</biblScope>
+     <date when="1876">1876</date>
+     <biblScope type="page">921</biblScope>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+       <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+      <keywords scheme="#medsurg">
+       <term>wounds and injuries of the upper extremities</term>
+       <term>wounds and operations in the forearm</term>
+       <term>shot wounds of the forearm</term>        
+       <term>contusions and partial fractures</term>
+       <term>partial shot fractures of the bones of the forearm</term> 
+       <term>treated by expectation</term>
+       <term>wounded in forearm</term>    
+       <term>ball entered posterior aspect of middle third of forearm, passed between ulna and radius, fractured radius, emerged opposite</term> 
+       <term>adhesions of muscles rendered imperfect use of arm and hand</term>
+       <term>ball injured ulnar nerve, ring and little fingers numb</term>
+       <term>tendons of thumb adherent, imperfect power of grasping</term>       
+     </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change who="#mb" when="2012-07-17">copied case from MSHWR, added proofing of transcription and encoding, identified keyword terms</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>   
+   <p><hi rend="initialcap">C</hi>ASE 1855.&#8212;<name type="person" key="xxx">Major H. J. Covell</name>, <name type="organization" key="xxx">6th Colored Troops</name>, wounded in the right forearm, at <name type="battle" key="xxx">New Market Heights</name>, <date type="injury" when="1864-09-29">September 29, 1864</date>, was sent to <name type="place">Fort Monroe</name>, and thence to <name type="hospital" key="156">Seminary Hospital</name>, Georgetown, and furloughed <date type="furlough" when="1864-11-04">November 4th</date>.  On <date type="transfer" when="1864-12-27">December 27th</date>, he entered the <name type="place">Annapolis</name> Hospital, and <name type="person" key="xxx">Hospital Surgeon B. A. Vanderkeift</name>, <name type="organization" key="132">U. S. V.</name>, reported: &quot;The ball entered the posterior aspect of the middle third of the right forearm, passing between the ulna and radius, slightly fracturing the radius, and emerged opposite; the wound has healed, requiring no further treatment.&quot;  Returned to duty <date type="duty" when="1865-01-02">January 2, 1865</date>, and discharged <date type="servicedischarge" when="1865-04-25">April 25, 1865</date>, and pensioned, <name type="person" key="xxx">Assistant Surgeon W. S. Codman</name>, <name type="organization" key="xxx">107th Colored Troops</name>, certifying that the wound produced &quot;such adhesions of the muscles as to render the use of the arm and hand very imperfect.&quot;  In <date type="pension" when="1873-09">September, 1873</date>, <name type="person" key="xxx">Examiner W. M. Eames</name>, of <name type="place">Ashtabula</name>, certified that &quot;the ball injured the ulnar nerve, so that the ring and little fingers are now numb, and the tendons of the thumb so adherent in the cicatrix that the power of grasping small objects is quite imperfect.&quot;  This pensioner was paid <date type="pension" when="1875-09-04">September 4, 1875</date>.</p>   
+  </body>
+ </text>
+</TEI>

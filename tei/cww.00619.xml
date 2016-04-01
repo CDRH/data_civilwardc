@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="cww.00619">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Petition of Judith C. Bayne, 3 June 1862</title>
+                <title level="m" type="sub">a machine readable transcription</title>
+                <principal>Susan C. Lawrence</principal>
+                <principal>Kenneth M. Price</principal>
+                <principal>Kenneth J. Winkle</principal>
+                <respStmt>
+                    <resp>transcription and encoding</resp>
+                    <name xml:id="kp">Kenneth M. Price</name>
+                    <name xml:id="jc">Janel Cayer</name>
+                    <name xml:id="rr">Rhiannon Root</name>
+                    <name xml:id="bj">Brittany Jones</name>
+                    <name xml:id="rv">Robert Voss</name>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2013</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <idno>cww.00619</idno>
+                <distributor>Civil War Washington</distributor>
+                <publisher>University of Nebraska–Lincoln</publisher>
+                <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>P.O. Box 884100</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+            </address>
+                <date>2013</date>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+                        <p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike
+                            3.0 Unported License
+                            (http://creativecommons.org/licenses/by-nc-sa/3.0/). Derivatives must be
+                            credited to Civil War Washington, made available non-commercially, and
+                            distributed under the same terms. Requests for permission for commercial
+                            publication or other use should be emailed to the project team.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Petition of Judith C. Bayne, 3 June 1862</title>
+                    <date when="1862-06-03">June 3, 1862</date>
+                    <idno>Microcopy 520, Reel 5</idno>
+                    <orgName>National Archives and Records Administration</orgName>
+                    <relatedItem type="original">
+                        <bibl>
+                            <title>Petition of Judith C. Bayne, 3 June 1862</title>
+                            <date when="1862-06-03">June 3, 1862</date>
+                            <idno>Record Group 217.6.5</idno>
+                            <orgName>Records of the Accounting Officers of the Department of the
+                                Treasury, 1775–1978, National Archives and Records
+                                Administration</orgName>
+                            <note type="project">Within the National Archives' Archival Description
+                                Catalog, see ARC Identifier 4644616 / MLR Number A1 347
+                                (http://arcweb.archives.gov).</note>
+                        </bibl>
+                    </relatedItem>
+                    <note type="project">Our transcription is based on a digital image of a
+                        microfilm copy of the original.</note>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <particDesc>
+                <person role="petitioner">
+                    <persName>Judith C. Bayne</persName>
+                </person>
+                <person role="jp">
+                    <persName>John V. Piles</persName>
+                </person>
+            </particDesc>
+        </profileDesc>
+        <revisionDesc>
+            <change when="2013-02-13" who="#jc">blessed</change>
+            <change when="2013-02-12" who="#kp">blessed</change>
+            <change when="2012-10-14" who="#jc">updated tei header; fixed values for @facs as
+                necessary; automated checking across files for extra spaces in elements and other
+                encoding inconsistencies and for regular transcription errors</change>
+            <change when="2011-06-06" who="#rv">checked</change>
+            <change when="2011-05-16" who="#rr">checked</change>
+            <change when="2011-02-09" who="#bj">transcribed, encoded</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb xml:id="leaf001r" facs="cww.00619.001.jpg"/>
+
+            <div1 type="petition" subtype="mixed">
+                <head type="main">PETITION.</head>
+                <p rend="bold">To the Commissioners under the act of Congress approved the <date
+                        when="1862-04-16">16th of April, 1862</date>, entitled "An act for the
+                    release of certain persons held to service or labor in the District of
+                    Columbia."</p>
+
+                <p>Your Petitioner, <seg type="handwritten">
+                        <persName>Judith C. Bayne</persName>
+                    </seg> of <seg type="handwritten">
+                        <placeName>Prince George's Co. Md.</placeName>
+                    </seg> by this <seg type="handwritten">her</seg> petition in writing, represents
+                    and states, that <seg type="handwritten">she</seg> is a person loyal to the
+                    United States, who, at the time of the passage of the said act of Congress, held
+                    a claim to service or labor against <seg type="handwritten">three several</seg>
+                        person<seg type="handwritten">s</seg> of African descent of the name of <seg
+                        type="handwritten">
+                        <persName>Lawrence Hemsley</persName>, <persName>Sophy Hemsley</persName>
+                        and <persName>Eliza Hall</persName>.</seg> for and during the life of said
+                        <seg type="handwritten">three persons</seg> and that by said act of Congress
+                    said <seg type="handwritten">three persons were</seg>
+                    <del>was</del> discharged and freed of and from all claim of your petitioner to
+                    such service or labor; that at the time of said discharge said <seg
+                        type="handwritten">three persons were</seg> of <del>and of</del> the
+                        <del>personal description</del> following:<note type="government"
+                        place="foot" xml:id="n1">Here describe the person, so as to identify him or
+                        her; and if there be more than one slave, describe each one
+                        separately.</note>
+                    <seg type="handwritten">ages, to wit; <persName>Lawrence Hemsley</persName> aged
+                        50 years&#8212;<persName>Sophy Hemsley</persName> aged about 28 or 30
+                            years&#8212;<persName>Eliza Hall</persName> aged 18 years, and of the
+                        follow personal description, viz: <persName>Lawrence Hemsley</persName> is
+                        dark brown and of medium size&#8212;<persName>Sophy Hemsley</persName> dark
+                        brown and quite tall&#8212;<persName>Eliza Hall</persName> is black and
+                        quite tall&#8212;</seg>
+                </p>
+
+                <pb xml:id="leaf001v" facs="cww.00619.002.jpg"/>
+
+                <p>That your petitioner acquired <seg type="handwritten">her</seg> claim to the
+                    aforesaid service or labor of said <seg type="handwritten">these several
+                        persons</seg> in manner following:<note type="government" place="foot"
+                        xml:id="n2">Here state how the claim was acquired, when, from whom, and for
+                        what price or consideration; and, if held under any written evidence of
+                        title, make exhibit thereof, or refer to the public record where the same
+                        may be found.</note>
+                    <seg type="handwritten">as a part of her distributive share of the personal
+                        estate of her dec'd husband, <persName>Wm. Bayne</persName> late of
+                            <placeName>Prince George's County, Md.</placeName>. <persName>Sophy
+                            Hemsley</persName> and <persName>Eliza Hall</persName> were born and
+                        raised as slaves of your petitioner and in her family, and are the children
+                        of slaves belonging to your petitioner and acquired as a part of her
+                        distributive share of her <choice>
+                            <abbr>dec'd</abbr>
+                            <expan>deceased</expan>
+                        </choice> husband's estate&#8212;</seg>
+                </p>
+
+                <p>That your petitioner's claim to the service or labor of said <seg
+                        type="handwritten">these several persons</seg> was, at the time of said
+                    discharge therefrom, of the value of <seg type="handwritten">thirty eight
+                        hundred</seg> dollars <seg type="handwritten">$3800</seg> in money.<note
+                        type="government" place="foot" xml:id="n3">Here state such facts, if any
+                        there be, touching the value of the petitioner's claim to the service or
+                        labor of the person, as may enhance the same, and also such facts, if any,
+                        touching the moral, mental, and bodily infirmities or defects of said
+                        person, as impair the value of the petitioner's claim to such service or
+                        labor, and conclude such statement with an averment that the petitioner
+                        knows of no other infirmities or defects of said person which impair the
+                        value of petitioner's claim to such service or labor, and that he believes
+                        none other to exist. If the petitioner specify no such infirmity or defect,
+                        then his statement touching the value of his claim should conclude with an
+                        averment that he has no knowledge of any such infirmity or defect.</note>
+                    <seg type="handwritten">said <persName>Lawrence Hemsley</persName> being worth
+                        $800, he is uncommonly intelligent, reads &#38; writes, has been for many
+                        years employed in Boteler's Auction Rooms in an important position &#38; is
+                        a good salesman, and is in excellent health. <persName>Sophy
+                            Hemsley</persName> is worth $1500, is intelligent, a good cook &#38;
+                        beautiful washer &#38; ironer, firmly proportioned &#38; in perfect
+                            health,&#8212;<persName>Eliza Hall</persName> is worth $1500, a good
+                        cook, washer, and ironer. Tall and well proportioned, intelligent: of said
+                        slaves and of good disposition, faithful and trustworthy and very valuable.
+                        Your petitioner knows of no mental, moral or physical defects to impair the
+                        value of the services or labor of the said parties&#8212;</seg>
+                </p>
+
+                <p>Your petitioner hereby declares that <seg type="handwritten">she</seg> bears true
+                    and faithful allegiance to the Government of the United States, and that <seg
+                        type="handwritten">she</seg> has not borne arms against the United States in
+                    the present rebellion, nor in any way given aid or comfort thereto.</p>
+
+                <p>And your petitioner further states and alleges, that <seg type="handwritten"
+                        >she</seg> has not brought said <seg type="handwritten">persons, or any of
+                        them</seg> into the District of Columbia since the passage of said act of
+                    Congress; and that, at the time of the passage thereof, said <seg
+                        type="handwritten">three persons</seg> w<seg type="handwritten">ere</seg>
+                    held to service or labor therein under and by virtue of your petitioner's claim
+                    to such service or labor.</p>
+
+                <p>Your petitioner further states and alleges, that <seg type="handwritten"
+                        >her</seg> said claim to the service or labor of said <seg
+                        type="handwritten">three persons</seg> does not originate in or by virtue of
+                    any transfer heretofore made by any person who has in any manner aided or
+                    sustained the present rebellion against the Government of the United States.</p>
+
+                <p>And your petitioner prays the said Commissioners to investigate and determine the
+                    value of <seg type="handwritten">her</seg> said claim to the service or labor of
+                    said <seg type="handwritten">three persons</seg> herein above set forth; and if
+                    the same be found to be valid, that they appraise and apportion the value of
+                    said claim in money, and report the same to the Secretary of the Treasury of the
+                    United States, in conformity to the provisions of said act of Congress.</p>
+
+                <closer> (Signed by) <signed>
+                        <seg type="handwritten">
+                            <persName>Judith C. Bayne</persName>
+                        </seg>
+                    </signed>
+                </closer>
+            </div1>
+
+            <pb xml:id="leaf002r" facs="cww.00619.003.jpg"/>
+
+            <div1 type="oath" subtype="mixed">
+                <head type="main">[<hi rend="italic">Form of the Oath for the Verification of the
+                        Petition.</hi>]</head>
+
+                <dateline>
+                    <placeName>District of Columbia</placeName>,
+                    <lb/>
+                    <hi rend="italic"><placeName>Washington County</placeName>, ss.</hi>
+                </dateline>
+
+                <div2 type="section">
+                    <p>I, <seg type="handwritten">
+                            <persName>Judith C. Bayne</persName> of <placeName>Prince Geo. Co.
+                                Maryland</placeName>
+                        </seg> being duly sworn, do depose and say, that all the several matters and
+                        things which are set forth and stated in the foregoing petition, as of my
+                        own knowledge, are true in substance and in fact; and that all the several
+                        other matters and things therein set forth and stated, as from the
+                        information of others, I believe to be true in substance and in fact.</p>
+                    <closer> (Signed by) <signed>
+                            <seg type="handwritten">
+                                <persName>Judith C. Bayne</persName>
+                            </seg>
+                        </signed>
+                    </closer>
+                </div2>
+
+                <div2 type="section">
+                    <p>Sworn to and subscribed before me this <date when="1862-05-23">
+                            <seg type="handwritten">Twenty third</seg> day of <seg
+                                type="handwritten">May</seg> A. D. 1862</date>. </p>
+                    <closer> (Signed by) <signed>
+                            <seg type="handwritten">
+                                <persName>John V Piles</persName> J.P.</seg>
+                        </signed>
+                    </closer>
+                </div2>
+            </div1>
+
+            <div1 type="cover" subtype="handwritten">
+                <note type="editorial">The following note, about the filing of the petition, has
+                    been imaged twice in the National Archives microfilm, but the note occurs in
+                    only one place in the petition: written horizontally on the final page, the Oath
+                    for the Verification.</note>
+                <ab>619 <lb/>Petition<lb/> of<lb/> Mrs. <persName>Judith C. Bayne</persName></ab>
+                <ab>Filed <date when="1862-06-03">June 3, 1862</date></ab>
+                <ab>Filed by <persName>R. H. Clarke</persName></ab>
+                <ab>Witnesses <persName>Wm. Bayne</persName><lb/> &#38; <persName>Chas W.
+                        Boteler</persName>
+                </ab>
+            </div1>
+            <div1 type="statement" subtype="mixed">
+                <dateline><placeName>STATE OF MARYLAND</placeName>&#8212;<placeName>Prince George's
+                        County</placeName>, Sct:</dateline>
+                <p><hi rend="italic">I hereby certify that</hi>
+                    <seg type="handwritten"><persName>John V. Piles</persName></seg>
+                    <hi rend="italic">Esquire, before whom the aforegoing</hi>
+                    <seg type="handwritten">acknowledgement and affidavit</seg>
+                    <hi rend="italic">appear to have been made, and who has subscribed the same,
+                        was, at the date thereof, one of the Justices of the Peace of the said
+                        State, in and for said County, duly elected, commissioned and sworn, and
+                        that his signature thereto is genuine.</hi></p>
+                <p><hi rend="italic">In testimony whereof, I have hereunto subscribed my name and
+                        affixed the Seal of the Circuit Court for <placeName>Prince George's
+                            County</placeName>, this</hi>
+                    <date when="1862-05-26"><seg type="handwritten">26th</seg>
+                        <hi rend="italic">day of</hi>
+                        <seg type="handwritten">May</seg> 186<seg type="handwritten"
+                    >2</seg></date></p>
+                <closer>
+                    <signed><seg type="handwritten"><persName>Fred Jasper</persName></seg>
+                        <hi rend="italic">Clerk</hi>.</signed>
+                </closer>
+            </div1>
+        </body>
+    </text>
+</TEI>

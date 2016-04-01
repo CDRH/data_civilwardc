@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d2e16786">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Thomas, W. H.</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+    <idno>med.d2e16786</idno>
+    <authority>Civil War Washington</authority>
+    <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor><name>Center for Digital Research in the
+     Humanities</name><address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address></distributor>
+    <date>2011</date>
+    <availability>
+     <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+      republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+      law, requires express written consent from the editors and advance notification of the
+      publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+     <persName xml:id="mb">Matthew Bosley</persName>
+     <persName xml:id="el">Elizabeth Lorang</persName>
+     <persName xml:id="sb">Stacey Berry</persName>
+     <persName xml:id="et">Elisabeth Tracey</persName>
+     <persName xml:id="ss">Sarah Synovec</persName>
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title level="j">The Medical and Surgical History of the War of the Rebellion.
+      (1861-65.)</title><pubPlace>Washington, DC</pubPlace><publisher>Government Printing
+      Office</publisher><biblScope type="part">Part 3</biblScope><biblScope type="volume">Volume
+      2</biblScope><date when="1883">1883</date><biblScope type="page">404</biblScope></bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+     <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <keywords scheme="#medsurg">
+     <term>wounds and injuries of the lower extremities</term> 
+     <term>wounds and injuries of the knee joint</term>
+     <term>shot injuries of the knee joint</term>
+     <term>amputations at the knee joint</term> 
+     <term>intermediary amputations at the knee joint</term>
+     <term>recoveries after intermediary amputation at the knee joint</term> 
+     <term>shot fracture of upper third of leg</term> 
+     <term>field amputation of leg at knee joint, including removal of patella</term>     
+     <term>furnished with artificial leg</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change who="#mb" when="2012-05-30">additional proofing of transcription and encoding, identified keyword terms</change>
+   <change who="#el" when="2011-05-11">case text extracted and transformed from larger file</change>
+   <change who="#sb" when="2011-06-04">Enrich Encoding, Edit and validate</change>
+   <change who="#sb" when="2011-01-28">Validated File</change>
+   <change who="#ss" when="2008-09-22">initial checking of OCR text; encoded P5 Encoding</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>   
+    <p><hi rend="initialcap">C</hi>ASE 648.&#8212;<name type="person" key="1219">Private W. H.
+      Thomas</name>, <name type="organization" key="484">Co. A, 17th Infantry</name>, aged 19 years,
+     was wounded at <name type="BATTLE" key="127">Bull Run</name>, <date type="injury"
+      when="1862-08-29">August 29, 1862</date>, receiving a shot fracture of the upper third of the
+     right leg.  <name type="person" key="930">Assistant Surgeon B. Howard</name>, <name type="organization" key="190">U. S. A.</name>, reported that he amputated the leg on the field, on <date type="operation" when="1862-09-01">September 1st</date>, at the knee joint, including the removal of the patella in the operation, which was performed by the double flap method. <date type="admit" when="1862-09">Several days after
+     the date of the injury</date> the wounded man was removed to <name type="place" key="#Washington">Washington</name> and admitted to <name
+      type="hospital" key="64">Ascension Hospital</name>, whence <name type="person" key="1117">Surgeon J. C. Dorr</name>, <name type="organization" key="132">U. S. V.</name>, described his
+     case as follows: "After his admission, the sutures were found upon examination to have given
+     away and the flaps were gaping. The patient had been much exhausted by long marching prior to
+     the battle, and it was feared that he would not survive the effects of the operation.
+     Stimulants, beef tea, and quinine were freely given, and finally, after repeated relapses, he
+     has now (December 3d) nearly recovered, the stump being covered with fine granulations, and his
+     strength having recuperated to its normal standard." The patient subsequently passed through
+      <name type="hospital" key="167">Carver</name> and <name type="hospital" key="160">St. Elizabeth Hospital</name>s, and on <date type="hospitaldischarge" when="1863-06-16">June 16,
+      1863</date>, he was discharged, having been previously furnished with an artificial leg. He
+     afterwards entered the <name type="organization" key="109">Veteran Reserve Corps</name>, and
+     was ultimately discharged from service <date type="servicedischarge" when="1864-04-05">April 5,
+      1864</date>, and pensioned. He was paid <date type="pension" when="1880-03-04">March 4, 1880</date>. In his application for commutation he
+     reported the stump as being in a good condition. </p>   
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d2e31765">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">H&#8212;&#8212;, Corn.</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+       <idno>med.d2e31765</idno>
+       <authority>Civil War Washington</authority>
+       <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor>
+       <name>Center for Digital Research in the Humanities</name>
+       <address><addrLine>319 Love Library</addrLine>
+       <addrLine>University of Nebraska–Lincoln</addrLine>
+       <addrLine>Lincoln, NE 68588-4100</addrLine>
+       <addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+    </distributor>
+    <date>2011</date>
+    <availability>
+        <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+         republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+         law, requires express written consent from the editors and advance notification of the
+         publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+ <persName xml:id="kmp">Kenneth M. Price</persName> 
+     <persName xml:id="mb">Matthew Bosley</persName>
+     <persName xml:id="at">Alex Thomas</persName>
+     <persName xml:id="kk">Kourtney Klein</persName>
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl>
+     <title level="j">The Medical and Surgical History of the War of the Rebellion. (1861-65.)</title>
+     <pubPlace>Washington, DC</pubPlace>
+     <publisher>Government Printing Office</publisher>
+     <biblScope type="part">Part 2</biblScope>
+     <biblScope type="volume">Volume 2</biblScope>
+     <date when="1876">1876</date>
+     <biblScope type="page">372</biblScope>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+       <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+      <keywords scheme="#medsurg">       
+       <term>injuries of the pelvis</term>
+       <term>injuries of the genital organs</term>
+       <term>wounds of the penis</term>
+       <term>wounds of the urethra</term>
+       <term>gunshot wounds</term>      
+       <term>fatal shot wounds of the urethra</term>
+       <term>shot perforation of urethra</term>
+       <term>unhappy witness of infidelity of his wife</term>
+       <term>beheld <hi rend="italic">stylum in pyxide</hi></term>
+       <term>ball entered raphe of scrotum, traversed penis forward and upward, lodged in pubic bone</term>      
+       <term>profuse h&#230;morrhage</term>
+       <term>hyperacute peritonitis</term>
+       <term>thirty-six hours of agony</term>
+     </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+ <change who="#kmp" when="2014-05">blessed</change>
+   <change who="#kk" when="2014-01-17">added figure encoding</change>
+   <change who="#mb" when="2012-08-30">additional proofing of transcription and encoding, identified keyword terms</change>
+   <change who="#at" when="2011-02-25">checked OCR; added minimal mark-up for personal names, place names, and dates</change>   
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p><name type="hospital" key="431">The Museum</name> possesses a preparation (<hi rend="initialcap">F</hi>IG. 290) of shot perforation of the urethra, contributed by <name type="person" key="xxx">Dr. R. K. Stone</name>, with the following memorandum:</p>
+   <p><hi rend="initialcap">C</hi>ASE A&#8313;.&#8212;"<name type="person" key="xxx">Mr. Corn. H&#8212;&#8212;</name>, one of two clerks, bosom friends, in <name type="place" key="#Washington">Washington</name>, in <date when="1862">1862</date>, married a charming person, and took lodgings, at which his friend was a frequent and welcome visitor.  After some months, annoyed by his comrade's assiduities near his wife, <name type="person" key="xxx">Mr. H&#8212;&#8212;</name> returned unexpectedly, during office hours, to his bed-chamber, and became the unhappy witness of the infidelity of his wife, actually beholding the <hi rend="italic">stylum in pyxide</hi>.  He avenged himself with a Derringer pistol, aiming with such precision that the ball entered the raphe of the scrotum of the preoccupied paramour, traversed the penis forward and upward, and lodged in the pubic bone.  Profuse h&#230;morrhage was quickly followed by hyperacute peritonitis, and the wounded man expired after thirty-six hours of agony."</p>
+   
+   <figure>
+    <graphic url="cww.001782.001" />
+    <head><hi rend="center">&#189;</hi></head>
+    <head><hi rend="initialcap">F</hi>IG. 290.&#8212;Shot perforation of the penis, dividing the urethra.     <hi rend="italic">Spec</hi>. 902.</head>
+   </figure>  
+   
+  </body>
+ </text>
+</TEI>

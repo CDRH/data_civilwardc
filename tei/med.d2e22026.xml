@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d2e22026">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Brennan, J.</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+       <idno>med.d2e22026</idno>
+       <authority>Civil War Washington</authority>
+       <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor>
+       <name>Center for Digital Research in the Humanities</name>
+       <address><addrLine>319 Love Library</addrLine>
+       <addrLine>University of Nebraska–Lincoln</addrLine>
+       <addrLine>Lincoln, NE 68588-4100</addrLine>
+       <addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+    </distributor>
+    <date>2011</date>
+    <availability>
+        <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+         republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+         law, requires express written consent from the editors and advance notification of the
+         publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+         <persName xml:id="mb">Matthew Bosley</persName>         
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl>
+        <title level="j">The Medical and Surgical History of the War of the Rebellion. (1861-65.)</title>
+        <pubPlace>Washington, DC</pubPlace>
+        <publisher>Government Printing Office</publisher>
+        <biblScope type="part">Part 3</biblScope>
+        <biblScope type="volume">Volume 2</biblScope>
+        <date when="1883">1883</date>
+        <biblScope type="page">588-589</biblScope>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+       <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+      <keywords scheme="#medsurg">
+       <term>wounds and injuries of the lower extremities</term> 
+       <term>wounds and operations at the ankle joint</term>
+       <term>shot fractures of the bones of the ankle joint</term>
+       <term>excisions at the ankle joint for shot injury</term> 
+       <term>intermediary excisions at the ankle joint</term> 
+       <term>accidental wound of ankle joint</term>
+       <term>ball entered ankle posterior and inferior to internal malleolus, ruptured capsular ligaments, cut between articular surfaces of the tibia and <choice><orig>astragalus</orig><reg>talus</reg></choice>, lodged within joint</term>
+       <term>resection of ankle joint</term>        
+       <term>general anesthesia, chloroform</term>
+     </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+       <change who="#mb" when="2012-06-13">additional case copied from MSHWR, performed proofing of copy and XML encoding, and key terms identified</change>  
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p><hi rend="initialcap">C</hi>ASE 846.&#8212; &#34;<name type="person" key="xxx">Private J. Brennan</name>, <name type="organization" key="xxx">Co. K, 16th West Virginia</name>, aged 18 years, was admitted to hospital at <name type="place" key="#Alexandria">Alexandria</name> on <date type="admit" when="1862-10-06">October 6, 1862</date>, with a wound of the right ankle joint, received accidentally the night previous. On examination it was found
+    that a pistol ball had entered the ankle three-fourths of an inch posterior and inferior to the internal malleolus, passed forward
+    and upward, rupturing the capsular ligaments and cutting its way between the articular surfaces of the tibia and <choice><orig>astragalus</orig><reg>talus</reg></choice> and
+    lodging within the joint. He was in good health at the time of the injury and evidently suffered no great amount of pain. He
+    was freely purged and a light and nutritious diet enjoined. The question of procedure was exceedingly perplexing. The single
+    small bullet hole and the slight local and constitutional symptoms presented a case apparently well adapted to the performance
+    of resection, while the want of success attending this operation was a serious argument against its performance. It was decided,
+    however, to resect the joint, which was done on <date type="operation" when="1862-10-09">October 9th</date>. The patient being under the influence of chloroform, two lateral
+    incisions were made about four inches in length, terminating three-fourths of an inch below the malleoli. The lips being drawn
+    asunder, a chain saw was then applied to the tibia and about one-third of an inch of the extremity removed; the extremity of
+    the fibula, on a level with the tibia, was removed through the opposite opening, and through the same aperture a portion of the
+    articular surface of the <choice><orig>astragalus</orig><reg>talus</reg></choice> was taken away. By this method the division of the extensor tendons and of the anterior
+    tibial artery was avoided. The posterior tibial was uninjured. The incisions were closed with silver wire sutures, and the
+    bones were held in apposition by means of adhesive strips extending down the sides of the leg and embracing the sole of the
+    foot. Lateral splints of binders board were applied. The h&#230;morrhage was trifling, no vessels having to be tied.  On the following day there was considerable febrile excitement; pulse 100; skin hot and dry. Small doses of antimony and morphia
+    were administered.  On the next day the patient appeared more comfortable but complained of slight pain; pulse diminished in
+    force and frequency.  On October 12th the patient was comfortable; skin cool and moist; pulse 80 per minute. Discontinued
+    the medicine.  On October 13th suppuration was established and the patient was comfortable; limb suspended by means of
+    Smith's anterior splint; lateral splints retained. From this time the dressings were daily removed.  By October 16th the patient
+    was doing well and the wound was discharging freely; diet light, though nutritious.  Four days later he began to take solid
+    food.  On October 27th the incisions were filled with granulations. The dressings were continued to November 25th, when
+    Smith's splint was removed, the lateral splint being still applied. The patient remained in bed until December 20th, when he began to move about on crutches. The lateral splints were removed in the early part of February, at which time he moved
+    about freely and with little embarrassment. In dressing, the toes of the injured side were extended so as to be on a line with
+    those of the sound side. The advantage of this is apparent when a shoe with a high heel is worn. The elasticity of the instep
+    thus brought into play compensates in a great measure for the anchylosis.&#34;  The case is reported by <name type="person" key="134">Surgeon E. Bentley</name>, <name type="organization" key="132">U. S. V.</name>
+    The subsequent records in the case show the patient was mustered out at the expiration of his term of service, <date type="servicedischarge" when="1863-06-16">June 16, 1863</date>.  There is no record of his ever having applied for pension.</p>   
+  </body>
+ </text>
+</TEI>

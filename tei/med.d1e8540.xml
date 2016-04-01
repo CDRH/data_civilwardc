@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e8540">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Beam, Ansell H.</title>
+                <title level="m" type="sub">a machine readable transcription</title>
+                <principal>Susan C. Lawrence</principal>
+                <principal>Kenneth M. Price</principal>
+                <principal>Kenneth J. Winkle</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2011</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <idno>med.d1e8540</idno>
+                <authority>Civil War Washington</authority>
+                <publisher>University of Nebraska–Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+                </distributor>
+                <date>2011</date>
+                <availability>
+                    <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved.
+                        Redistribution or republication in any medium, except as allowed under the
+                        Fair Use provisions of U.S. copyright law, requires express written consent
+                        from the editors and advance notification of the publisher, the University
+                        of Nebraska–Lincoln.</p>
+                </availability>
+            </publicationStmt>
+            <notesStmt>
+                <note type="project">The following are responsible for particular readings or for
+                    changes to this file, as noted: 
+ <persName xml:id="kmp">Kenneth M. Price</persName> 
+                    <persName xml:id="ajh">AJ Howell</persName>
+                    <persName xml:id="mb">Matthew Bosley</persName>
+                    <persName xml:id="el">Elizabeth Lorang</persName>
+                    <persName xml:id="sb">Stacey Berry</persName>
+                    <persName xml:id="et">Elisabeth Tracey</persName>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>The Medical and Surgical History of the War of the Rebellion.
+                        (1861&#8211;65.)</title>
+                    <editor role="compiler">Surgeon General Joseph K. Barnes, United States
+                        Army</editor>
+                    <pubPlace>Washington, D.C.</pubPlace>
+                    <publisher>Government Printing Office</publisher>
+                    <biblScope type="part">Part 1</biblScope>
+                    <biblScope type="volume">Volume 2</biblScope>
+                    <date when="1870">1870</date>
+                    <biblScope type="page">121</biblScope>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <classDecl>
+                <taxonomy xml:id="medsurg">
+                    <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme="#medsurg">
+                    <term>on special wounds and injuries of the head</term>
+                    <term>wounds and injuries of the head</term>
+                    <term>gunshot wounds</term>
+                    <term>gunshot contusions of the cranial bones</term>
+                    <term>contusion of the skull without fracture</term>
+                    <term>mental aberration</term>
+                    <term>probable chronic irritability of brain, but insufficient details in
+                        reports</term>
+                    <term>conoidal ball made ragged scalp wound near sagittal suture, contusion of
+                        parietal bone</term>
+                    <term>concussion of the brain</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+ <change who="#kmp" when="2014-05">blessed</change>
+            <change who="#ajh" when="2013-08-16">added figure encoding</change>
+            <change who="#mb" when="2013-06-13">additional proofing of transcription and encoding,
+                edited and added keyword terms</change>
+            <change who="#mb" when="2011-06-21">additional proofing of transcription and
+                encoding</change>
+            <change who="#el" when="2011-11-05">case text extracted and transformed from larger
+                file</change>
+            <change who="#sb" when="2011-02-09">enriched encoding</change>
+            <change who="#sb" when="2011-01-28">validated file</change>
+            <change who="#et" when="2009-08-01">encoded</change>
+            <change who="#sb" when="2008-09-22">initial checking of OCR text against PDF;
+                encoded</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body xml:id="ch1.sc3.0121">
+            <p><name type="person" key="395"><hi rend="initialcap">B</hi>EAM, <hi rend="initialcap"
+                        >A</hi>NSELL <hi rend="initialcap">H</hi>.</name>, Corporal, <name
+                    type="organization" key="210">Co. I, 26th Michigan Volunteers</name>, aged 21
+                years, was wounded in the engagement at <name type="battle" key="xx">Farmville,
+                    Virginia</name>, <date type="injury" when="1865-04-06">April 6th, 1865</date>,
+                by a conoidal ball, which made a ragged scalp wound to the right of the sagittal
+                suture, with contusion of the parietal bone. He was admitted to the hospital of the
+                1st division, Second Corps, and on <date type="transfer" when="1865-04-15">April
+                    15th</date>, was sent to the <name type="hospital" key="173">Harewood
+                    Hospital</name>, Washington, where a photograph was made of his injury. On <date
+                    type="transfer" when="1865-05-18">May 18th</date>, he was transferred to the
+                    <name type="hospital">Satterlee Hospital, Philadelphia</name>. He had many
+                symptoms of disturbance of the brain. The scalp wound healed up favorably, and on
+                    <date type="servicedischarge" when="1865-07-06">July 6th, 1865</date>, he was
+                discharged from the service for disability. A photograph of the case, taken a few
+                days after the reception of the injury, is preserved in the seventh volume of
+                Surgical Photographs of the <name type="hospital" key="431">Army Medical
+                    Museum</name>, at page five. It is copied in figure 1 of Plate III, (opposite p.
+                105.) It is probable that he completely recovered, since his name is not found on
+                the list of applicants for pension. </p>
+            <figure>
+                <graphic url="cww.001364.001"/>
+                <head><hi rend="initialcap">P</hi>LATE III. GUNSHOT SCALP WOUNDS AND CONTUSIONS OF
+                    THE SKULL. 1. Corporal Ansell H. Beam, Co. J, 26. Michigan Vol<hi
+                        rend="superscript">s</hi>.</head>
+            </figure>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d2e31885">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Scheu, Jacob</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+       <idno>med.d2e31885</idno>
+       <authority>Civil War Washington</authority>
+       <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor>
+       <name>Center for Digital Research in the Humanities</name>
+       <address><addrLine>319 Love Library</addrLine>
+       <addrLine>University of Nebraska–Lincoln</addrLine>
+       <addrLine>Lincoln, NE 68588-4100</addrLine>
+       <addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+    </distributor>
+    <date>2011</date>
+    <availability>
+        <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+         republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+         law, requires express written consent from the editors and advance notification of the
+         publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+     <persName xml:id="mb">Matthew Bosley</persName>
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl>
+     <title level="j">The Medical and Surgical History of the War of the Rebellion. (1861-65.)</title>
+     <pubPlace>Washington, DC</pubPlace>
+     <publisher>Government Printing Office</publisher>
+     <biblScope type="part">Part 2</biblScope>
+     <biblScope type="volume">Volume 2</biblScope>
+     <date when="1876">1876</date>
+     <biblScope type="page">215</biblScope>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+       <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+      <keywords scheme="#medsurg">
+       <term>injuries of the pelvis</term>
+       <term>shot fractures of the pelvic bones</term>
+       <term>shot fractures of the ilium</term> 
+       <term>shot perforation of pelvis</term>
+       <term>ball entered below centre of crest of ilium, passed through pelvis anterior to sacrum, emerged at corresponding point on opposite side</term>
+       <term>incontinence of urine and paralysis, but increased sensitiveness of lower extremities</term>
+       <term>contraction of extensor muscles of foot, atrophied limbs</term>
+       <term>abscess beneath gluteal muscles</term>
+       <term>suppuration along length of wounds, pieces of bone removed</term>
+       <term>walks easily; slight paralysis of one leg</term>       
+     </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change who="#mb" when="2012-09-05">copied case from MSHWR, added proofing of transcription and encoding, identified keyword terms</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body> 
+   <p><hi rend="initialcap">C</hi>ASE 628.&#8212;<name type="person" key="xxx">Major Jacob Scheu</name>, <name type="organization" key="xxx">7th New York</name>, aged 34 years, was admitted from <name type="place">City Point</name> to <name type="hospital" key="171">Armory Square Hospital</name> on <date type="admit" when="1865-05-07">May 7, 1865</date>, for a shot perforation of the pelvis, received at <name type="place">South Side Railroad</name> on <date type="injury" when="1865-05-02">May 2d</date>. A conoidal musket ball had entered three inches below the centre of the crest of the right ilium, passed through the pelvis anterior to the sacrum, and emerged at a corresponding point on the opposite side. On admission, he suffered intense pain; there was incontinence of urine and paralysis, but increased sensitiveness of the lower extremities, with slight contraction of the extensor muscles of the foot.  The wound had nearly closed, but suppuration had taken place along nearly its whole length. After enlarging each wound slightly, several loose pieces of bone were removed from both, and an abscess beneath the gluteal muscles was evacuated.  Perfect rest was enjoined; poultices were applied; stimulants and anodynes administered.  The patient was transferred to De Camp Hospital on <date type="transfer" when="1865-08-18">August 18th</date>.  By September 15th, he was improved; there was a slight discharge from both wounds, and the atrophied limbs could easily be moved about in bed. This officer was discharged the service on <date type="servicedischarge" when="1866-04-18">April 18, 1866</date>.  He was subsequently a patient of <name type="person" key="xxx">Dr. Charles A. Leale</name>, who states, <date type="pension" when="1867-11-14">November 14, 1867</date>:  &#34;The patient has good use of his limbs and can walk easily; he has slight paralysis of one leg.&#34;</p>    
+  </body>
+ </text>
+</TEI>

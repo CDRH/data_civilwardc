@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e15344">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Moritz, George</title>
+                <title level="m" type="sub">a machine readable transcription</title>
+                <principal>Susan C. Lawrence</principal>
+                <principal>Kenneth M. Price</principal>
+                <principal>Kenneth J. Winkle</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2011</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <idno>med.d1e15344</idno>
+                <authority>Civil War Washington</authority>
+                <publisher>University of Nebraska–Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+                </distributor>
+                <date>2011</date>
+                <availability>
+                    <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved.
+                        Redistribution or republication in any medium, except as allowed under the
+                        Fair Use provisions of U.S. copyright law, requires express written consent
+                        from the editors and advance notification of the publisher, the University
+                        of Nebraska–Lincoln.</p>
+                </availability>
+            </publicationStmt>
+            <notesStmt>
+                <note type="project">The following are responsible for particular readings or for changes to this file, as noted: 
+                    <persName xml:id="mb">Matthew Bosley</persName>
+                    <persName xml:id="el">Elizabeth Lorang</persName>
+                    <persName xml:id="sb">Stacey Berry</persName>
+                    <persName xml:id="et">Elisabeth Tracey</persName>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>The Medical and Surgical History of the War of the Rebellion. (1861&#8211;65.)</title>
+                    <editor role="compiler">Surgeon General Joseph K. Barnes, United States Army</editor>
+                    <pubPlace>Washington, D.C.</pubPlace>
+                    <publisher>Government Printing Office</publisher>
+                    <biblScope type="part">Part 1</biblScope>
+                    <biblScope type="volume">Volume 2</biblScope>
+                    <date when="1870">1870</date>
+                    <biblScope type="page">220</biblScope>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <classDecl>
+                <taxonomy xml:id="medsurg">
+                    <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme="#medsurg">
+                    <term>on special wounds and injuries of the head</term>
+                    <term>wounds and injuries of the head</term>
+                    <term>gunshot wounds</term>
+                    <term>gunshot fractures of the cranial bones</term> 
+                    <term>removal of fragments after gunshot fractures of the skull</term>
+                    <term>exfoliation and removal of necrosed or detached fragments of cranial bones after gunshot injuries</term>
+                    <term>class of recruits known as &#34;Bounty Jumpers&#34;</term>
+                    <term>conoidal ball entered right parietal bone near coronal suture, produced stellate fracture of both tables and lodged</term>
+                    <term>ball and portions of comminuted bone removed on battlefield, through <choice><orig>crucial</orig><reg>cruciate</reg></choice> incision</term>
+                    <term>impaired intellect and derangement of nervous system, unfit for Veteran Reserve Corps</term>
+                    <term>cephalalgia, extent to disable him for duty</term>
+                    <term>depression over right parietal protuberance</term>
+                    <term>transferred to Veteran Reserve Corps</term>                    
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change who="#mb" when="2013-07-23">additional proofing of transcription and encoding, edited and added keyword terms</change>
+            <change who="#mb" when="2011-07-26">additional proofing of transcription and encoding</change>
+            <change who="#el" when="2011-11-05">case text extracted and transformed from larger file</change>
+            <change who="#sb" when="2011-02-09">enriched encoding</change>
+            <change who="#sb" when="2011-01-28">validated file</change>
+            <change who="#et" when="2009-08-01">encoded</change>
+            <change who="#sb" when="2008-09-22">initial checking of OCR text against PDF; encoded</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body xml:id="ch1.sc3.293">            
+                <p><hi rend="initialcap">C</hi>ASE.&#8212;<name type="person" key="1633">Private
+                        George Moritz</name>, <name type="organization" key="813">Co. I, 7th United
+                            States Infantry</name>, aged 34 years, was wounded at the battle of <name
+                                type="BATTLE" key="10">Chancellorsville, Virginia</name>, <date type="operation" when="1863-05-01"><date
+                        type="injury" when="1863-05-01">May 1st, 1863</date></date>, by a conoidal ball,
+                    which entered the right parietal bone, near the coronal suture, producing a
+                    stellate fracture of both tables, and lodged. The ball and portions of
+                    comminuted bone were removed on the field, through a <choice><orig>crucial</orig><reg>cruciate</reg></choice> incision.  The
+                    patient was conveyed to <name type="place" key="#Washington">Washington</name>, and entered <name type="hospital" key="176">Lincoln Hospital</name> on the <date type="admit" when="1863-06-15">15th of
+                        June</date>, remaining until the <date type="duty" when="1863-09-11">11th of
+                        September</date>, when he was returned to his regiment to be mustered out of
+                    service.  On the <date type="admit" when="1864-01-04">4th of January,
+                    1864</date>, he entered the <name type="hospital" key="189">3d division
+                        hospital</name>, <name type="place">Alexandria, Virginia</name>, as a recruit of the <name
+                        type="organization" key="122">2d New York Cavalry</name>.  On <date
+                        type="transfer" when="1864-03-31">March 31st</date>, he was transferred to
+                        <name type="hospital" key="214">Fairfax Seminary Hospital</name>, near
+                    <name type="place"></name>Alexandria, Virginia, and discharged from the service on the <date
+                        type="servicedischarge" when="1864-05-05">5th of May</date>, by reason of impaired
+                    intellect and derangement of the nervous system, being unfit for the <name type="organization" key="109">Veteran Reserve Corps</name>.  On the <date type="admit" when="1864-07-05">5th of July,
+                        1864</date>, he entered <name type="hospital" key="167">Carver
+                        Hospital</name>, Washington, as a private of <name type="organization"
+                        key="814">Co. D, 7th New Jersey Volunteers</name>, suffering from
+                    cephalalgia to such an extent as to entirely disable him for duty. The wound was
+                    entirely healed. There was a depression over the right parietal protuberance
+                    about an inch in diameter, and half an inch in depth.  On the 30th of September,
+                    he was placed on light duty in the hospital, and on the <date type="transfer"
+                        when="1865-04-25">25th of April, 1865</date>, transferred to the <name
+                        type="organization" key="109">Veteran Reserve Corps</name>.  He is not a
+                    pensioner.</p>            
+        </body>
+    </text>
+</TEI>

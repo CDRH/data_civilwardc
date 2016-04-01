@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d2e19152">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Waters, B. G.</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+       <idno>med.d2e19152</idno>
+       <authority>Civil War Washington</authority>
+       <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor>
+       <name>Center for Digital Research in the Humanities</name>
+       <address><addrLine>319 Love Library</addrLine>
+       <addrLine>University of Nebraska–Lincoln</addrLine>
+       <addrLine>Lincoln, NE 68588-4100</addrLine>
+       <addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+    </distributor>
+    <date>2011</date>
+    <availability>
+        <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+         republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+         law, requires express written consent from the editors and advance notification of the
+         publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+         <persName xml:id="mb">Matthew Bosley</persName>         
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl>
+        <title level="j">The Medical and Surgical History of the War of the Rebellion. (1861-65.)</title>
+        <pubPlace>Washington, DC</pubPlace>
+        <publisher>Government Printing Office</publisher>
+        <biblScope type="part">Part 3</biblScope>
+        <biblScope type="volume">Volume 2</biblScope>
+        <date when="1883">1883</date>
+        <biblScope type="page">465</biblScope>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+       <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+      <keywords scheme="#medsurg">
+       <term>wounds and injuries of the lower extremities</term> 
+       <term>wounds and operations in the leg</term>
+       <term>shot fractures of the bones of the leg</term>
+       <term>amputations in the continuity of the leg for shot fractures</term> 
+       <term>primary amputations in the continuity of the leg for shot injury</term> 
+       <term>primary amputations in the upper third of the leg for shot injury</term> 
+       <term>fatal primary amputations in the upper third of the bones of the leg</term>
+       <term>shot fracture of leg</term> 
+       <term>leg amputated at upper third</term> 
+       <term>diarrh&#339;a</term>
+       <term>leg reamputated in lower third of femur </term>
+       <term>ends of both bones exposed</term>       
+       <term>general anesthesia, ether</term>
+     </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+       <change who="#mb" when="2012-06-07">additional case copied from MSHWR, performed proofing of copy and XML encoding, and key terms identified</change>  
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p><hi rend="initialcap">C</hi>ASE 730.&#8212;<name type="person" key="xxx">Private B. G. Waters</name>, <name type="organization" key="xxx">Co. H, 19th Maine</name>, aged 19 years, was wounded at <name type="BATTLE" key="xxx">Petersburg</name>, <date type="injury" when="1864-10-15">October 15, 1864</date>.  <name type="person" key="xxx">Surgeon I. Scott</name>, <name type="organization" key="xxx">7th West Virginia</name>, reported that &#34;he entered the field hospital of the 2d division, Second Corps, with shot fracture of leg, caused by a mini&#233; ball, for which <name type="person" key="xxx">Surgeon W. J. Burr</name>, <name type="organization" key="xxx">42d New York</name>, performed amputation.&#34;  <name type="person" key="134">Surgeon E. Bentley</name>, <name type="organization" key="132">U. S. V.</name>, reported the following result of the case: &#34;The patient was admitted to <name type="hospital" key="504">Baptist Church Hospital</name> at <name type="place">Alexandria</name>
+    <date type="transfer" when="1864-10-21">six days after being wounded</date>. His left leg had been amputated at the upper third by anterior and posterior flaps on <date type="operation" when="1864-10-15">the day of
+    the injury</date>. When admitted his general health was fair, although he complained of considerable pain and required opiates to
+    procure sleep. The integument over the spine of the tibia was black and had commenced to slough. This continued until the
+    ends of both bones were exposed and the stump around presented a large mass of sloughing tissue. Stimulating lotions were
+    applied and some improvement followed; all sloughing ceased and granulations commenced; but the granulations were pale
+    and flabby, the edges of the integument everted, and the patient suffered excessive pain. On November 18th, sloughing
+    reappeared and extended rapidly towards the popliteal region. He was also troubled some with diarrh&#339;a, having about four
+    passages daily. He was daily growing weaker from suffering and loss of appetite, and the stump became so painful that he
+    would cry out frequently, complaining of spasmodic twitching. Taking these circumstances and the danger of secondary
+    h&#230;morrhage into consideration, the limb was reamputated in the lower third of the femur (see <hi rend="initialcap">T</hi>ABLE <hi rend="initialcap">XL</hi>, No. 200, p. 323, <hi rend="italic">ante</hi>)
+    on <date type="operation" when="1864-11-24">November 24th</date>, by <name type="person" key="xxx">Assistant Surgeon W. A. Harvey</name>, <name type="organization" key="132">U. S. V.</name>, who used sulphuric ether as the an&#230;sthetic and performed the operation by the circular method. Three days after the operation the patient's appetite had improved and he could sleep well,
+    was more cheerful, and complained of but little pain. No union had yet taken place in the stump, but suppuration had commenced. On December 7th, when transferred to <name type="hospital" key="202">Prince Street Hospital</name>, he was still doing well.&#34;  The subsequent records show the patient died of exhaustion <date type="death" when="1865-04-25">April 25, 1865</date>. The stumps of the tibia and fibula, removed at the second amputation,
+    together with portion of the popliteal vein, external and internal popliteal nerves, were contributed to <name type="hospital" key="431">the Museum</name> by <name type="person" key="134">Surgeon E. Bentley</name>, and constitute specimens 3445, 3446, 3447, and 3448, respectively, of the <hi rend="italic">Surgical Section</hi>.</p>  
+  </body>
+ </text>
+</TEI>

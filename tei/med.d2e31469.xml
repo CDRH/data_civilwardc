@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d2e31469">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Jones, Augustus B.</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+       <idno>med.d2e31469</idno>
+       <authority>Civil War Washington</authority>
+       <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor>
+       <name>Center for Digital Research in the Humanities</name>
+       <address><addrLine>319 Love Library</addrLine>
+       <addrLine>University of Nebraska–Lincoln</addrLine>
+       <addrLine>Lincoln, NE 68588-4100</addrLine>
+       <addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+    </distributor>
+    <date>2011</date>
+    <availability>
+        <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+         republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+         law, requires express written consent from the editors and advance notification of the
+         publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+     <persName xml:id="mb">Matthew Bosley</persName>
+     <persName xml:id="kb">Karli Burt</persName>
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl>
+     <title level="j">The Medical and Surgical History of the War of the Rebellion. (1861-65.)</title>
+     <pubPlace>Washington, DC</pubPlace>
+     <publisher>Government Printing Office</publisher>
+     <biblScope type="part">Part 2</biblScope>
+     <biblScope type="volume">Volume 2</biblScope>
+     <date when="1876">1876</date>
+     <biblScope type="page">160</biblScope>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+       <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+      <keywords scheme="#medsurg">
+       <term>injuries of the abdomen</term>
+       <term>penetrating wounds of the abdomen</term>
+       <term>wounds of the pancreas</term> 
+       <term>wounds of the omentum, mesentery, and blood-vessels</term>
+       <term>laid on battle field one day and night</term>
+       <term>jolted over rough road to hospital</term> 
+       <term>immense fatigue and suffering sustained</term>
+       <term>ball entered to left and below ensiform cartilage, passed through abdominal cavity, appeared under skin above ilium posteriorly</term>
+       <term>ball excised at field hospital</term>
+       <term>emaciated, countenance indicative of suffering</term>
+       <term>articulo mortis</term>
+       <term>ball perforated inferior curvature of stomach</term> 
+       <term>branches of gastric artery severed</term>
+       <term>pancreas perforated at its middle</term>
+       <term>omentum in partial state of decomposition</term>
+       <term>general peritonitis</term>   
+       <term>autopsy performed</term>
+     </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change who="#mb" when="2012-07-30">additional proofing of transcription and encoding, identified keyword terms</change>
+   <change who="#kb" when="2011-02-19">checked OCR; added minimal mark-up for personal names, place names, and dates</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>   
+   <p><hi rend="initialcap">C</hi>ASE 506.&#8212;<name type="person" key="xxx">Acting Assistant Surgeon Thaddeus L. Leavitt</name> reports that "<name type="person" key="xxx">Corporal Augustus B. Jones</name>, <name type="organization" key="xxx">Co. D, 5th Vermont</name>, aged 27 years, was wounded at the battle of <name type="BATTLE" key="12">the Wilderness</name>, <date type="injury" when="1864-05-10">May 10, 1864</date>. He was laid out on the battle field one day and night, was then removed to field  hospital and from there carried by boat to <name type="place" key="#Washington">Washington</name>. He was jolted over a rough road of two miles to the <name type="hospital" key="176">Lincoln Hospital</name>, which he reached about two o'clock in the morning of <date type="admit" when="1864-05-25">the 25th</date>.  I mention these facts of transportation to show the immense fatigue and suffering that this patient must have sustained before he reached his destination. Saw him about six o'clock A. M., found him suffering great agony; examined his wound.  The ball had entered one line to the left and below the ensiform cartilage, passing through the abdominal cavity, and making its appearance under the skin just above the crest of the left ilium posteriorly, where it was excised at the field hospital. Pulse quick and exceedingly feeble, abdomen distended and tympanitic; took food and stimuli readily, and became much easier under the free use of opium. Patient was very emaciated, and countenance ghastly and indicative of great suffering.  At about noon I saw him again; found him much more comfortable, wounds suppurating nicely and looked well; he expressed himself as expecting soon now to get well.  About <date type="death" when="1864-05-25">four o'clock P. M.</date> the patient was conversing with the nurse; apparently in good spirits, without very great pain; swallowed his medicine, etc.,and about five minutes afterward was in articulo mortis.  The autopsy, which was made <date type="autopsy" when="1864-05-25">some hours after</date>, showed the ball to have perforated the inferior curvature of the stomach, and, strange as it may seem, although an orifice was made directly through the walls of the stomach large enough readily to admit two fingers, no inflammation or even congestion could be detected, except in the immediate locality of the wound, which was beginning to suppurate. Evidently the stomach was also uninjured in its functional capacity, as was witnessed by the reception and digestion of food during life. Some branches of the gastric artery were severed, and about an ounce and a half of dark uncoagulated blood filled the pelvic cavity. The pancreas was perforated at about its middle, except in the immediate track of the ball, gave evidence of no departure from its healthy standard; the intestines and colon were pushed aside during the passage of the ball and were uninjured; the omentum was found in a partial state of decomposition and closely adherent to the small intestines. Liver and spleen healthy. General peritonitis had prevailed, and was undoubtedly the cause of death.  In this case life was sustained for a period of fifteen days, notwithstanding the serious injury of a vital organ and the being subjected to the most unfavorable circumstances and depressing influences." </p>      
+  </body>
+ </text>
+</TEI>

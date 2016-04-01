@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="cww.02501">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Letter From Washington</title>
+                <title level="m" type="sub">a machine readable transcription</title>
+                <editor role="co-editor">R. J. Weir</editor>
+                <principal>Susan C. Lawrence</principal>
+                <principal>Elizabeth Lorang</principal>
+                <principal>Kenneth M. Price</principal>
+                <principal>Kenneth J. Winkle</principal>
+                <respStmt>
+                    <resp>transcription and encoding</resp>
+                    <persName xml:id="ak">Alex Kinnaman</persName>
+                    <persName xml:id="el">Elizabeth Lorang</persName>
+                    <persName xml:id="bw">Becca Weir</persName>
+                    <persName xml:id="kk">Kourtney Klein</persName>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2015</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <idno>cww.02501</idno>
+                <distributor>Civil War Washington</distributor>
+                <publisher>University of Nebraska Lincoln</publisher>
+                <address>
+                    <addrLine>Center for Digital Research in the Humanities</addrLine>
+                    <addrLine>319 Love Library</addrLine>
+                    <addrLine>University of Nebraska-Lincoln</addrLine>
+                    <addrLine>P.O. Box 884100</addrLine>
+                    <addrLine>Lincoln, NE 68588-4100</addrLine>
+                </address>
+                <address>
+                    <addrLine>
+                        <email>cdrh@unl.edu</email>
+                    </addrLine>
+                </address>
+                <date>2015</date>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+                        <p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License (http://creativecommons.org/licenses/by-nc-sa/3.0/). Derivatives must be credited to Civil War Washington and R. J. Weir, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct xml:id="letter">
+                    <analytic>
+                        <author ref="#logic">Bob Logic</author>
+                        <title level="a">Letter from Washington</title>
+                    </analytic>
+                    <monogr>
+                        <title xml:id="paper" level="j">The Anglo-African</title>
+                        <imprint>
+                            <date xml:id="issue_date" when="1863-07-04">4 July 1863</date>                    
+                        </imprint>
+                        <biblScope type="pp">[1]</biblScope>                    
+                    </monogr>           
+                </biblStruct>
+                
+                <biblStruct xml:id="issue">               
+                    <monogr>
+                        <title level="j" sameAs="#paper"/>
+                        <imprint>
+                            <date sameAs="#issue_date"/>                  
+                        </imprint>              
+                    </monogr>                   
+                </biblStruct>                        
+            </sourceDesc>       
+        </fileDesc>
+        <encodingDesc> 
+            <p>This electronic text is a semi-diplomatic transcription of the source text. Hyphenation, punctuation, variant spellings, and errors present in the source text have been retained. The transcription does not attempt to capture all aspects of the original formatting or layout.</p>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <persName xml:id="logic">Unknown</persName>
+                <persName xml:id="rh">Hamilton, Robert</persName>
+                <persName xml:id="th">Hamilton, Thomas</persName>
+                <date when="1863">1863</date>
+            </creation>
+            <langUsage>
+                <language ident="en-US">modern American English</language>
+            </langUsage>
+            <textClass>
+                <classCode scheme="http://authorities.loc.gov">
+                    <term xml:id="sh2009113992">African American soldiers--History--19th century</term>
+                    <term xml:id="sh2009114001">African American women--History</term>
+                    <term xml:id="sh2005001359">African Americans--Liberia</term>
+                    <term xml:id="sh2009114063">African Americans--Washington (D.C.)</term>
+                    <term xml:id="n92024554">Dean, John, 1813-1863</term>
+                    <term xml:id="n81141734">Fifteenth Street Presbyterian Church (Washington, D.C.)</term>
+                    <term xml:id="sh2009125620">Fugitive slaves--Legal status, laws, etc.--United States</term>
+                    <term xml:id="no95007881">Jolliffe, John, 1804-1868</term>
+                    <term xml:id="n85185712">Underwood, John C. (John Curtiss), 1809-1873</term>
+                    <term xml:id="n93053256">United States. Colored Troops</term>
+                    <term xml:id="n94049341">United States. Fugitive slave law (1850)</term>
+                    <term xml:id="sh85140274">United States--History--Civil War, 1861-1865--Societies, etc</term>
+                    <term xml:id="sh2007100004">United States--History--Civil War, 1861-1865--Participation, African American</term>
+                </classCode>
+                <classCode scheme="http://civilwardc.org">
+                    <term>Cook, Jr., John Francis</term>
+                    <term>Hall, Andrew</term>
+                    <term>Slade, William, 1815-?</term>
+                    <term>Stewart, Carter A.</term>
+                </classCode>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when="2015-04-07" who="#ak">corrected</change>
+            <change when="2015-03-25" who="#el">checked transcription and encoding and made necessary changes; updated TEI header, including keywords</change>
+            <change when="2015-02-17" who="#ak">checked, updated xml:id</change>
+            <change when="2014-11-03" who="#ak">checked transcription and encoding</change>
+            <change when="2014-04-14" who="#el">checked encoding; revised TEI header</change>
+            <change when="2014-04-16" who="#kk">transcribed, encoded</change>
+        </revisionDesc>
+    </teiHeader>
+    
+    <facsimile corresp="#issue">
+        <surface xml:id="pp1">
+            <graphic url="aa.18630704.pp1.jpg"/>
+            <zone xml:id="pp1_cropped" corresp="#letter">
+                <graphic url="aa.18630704.pp1_cropped.jpg"/>
+            </zone>
+        </surface>
+        <surface xml:id="pp2">
+                <graphic url="aa.18630704.pp2.jpg"/>
+        </surface>
+        <surface xml:id="pp3">
+            <graphic url="aa.18630704.pp3.jpg"/>
+        </surface>
+        <surface xml:id="pp4">
+            <graphic url="aa.18630704.pp4.jpg"/>
+        </surface>
+    </facsimile>
+    
+    <text corresp="#letter #pp1_cropped">
+        <body>
+            
+            <head type="main" subtype="authorial" rend="center">Letter from Washington.</head>
+            
+            <milestone unit="undeclared" rend="short-bar"/>
+            
+            <opener>
+                <dateline rend="right">Washington, D. C., June 24th, 1863.</dateline>
+                <salute>Mr. Editor:&#8212;</salute>
+            </opener>
+            
+            <p>Since the publication of my last <lb/>letter I have been somewhat amused at a vast <lb/>number of the readers of the <title level="j" rend="italic">Anglo-African</title>. <lb/>The great whisperings and the oft-repeated <lb/>question, "who is Bob Logic?" has fallen upon <lb/>my ear so frequently, that I know and feel the <lb/>great estimation they have of our mutual friend, <lb/>your regular correspondent "Box."  How can it <lb/>be otherwise?  A man like "Box," possessing so <lb/>many good qualities; affable, kind and, what is <lb/>better, being a genius, his company is enjoyed <lb/>by all that know him.  "Box" is the parlor as <lb/>well as the table-talk.  Indeed, so frequently <lb/>do I hear the word "Box," that it reminds me of <lb/>an anecdote of a Frenchman's first visit to <lb/>America, and as there has been much good <choice><orig>de-<lb/>rived</orig><reg>derived</reg></choice> from the most excellent letters of "Box," <lb/>I will relate it.</p>
+            
+            <p>A Frenchman came to this country at a <lb/>time when there were no railroads, and <choice><orig>passen-<lb/>gers</orig><reg>passengers</reg></choice> had to be conveyed from place to place in <lb/>a diligence or stage-coach and not having seen <lb/>the great city of New-York, applied at the <choice><orig>stage-<lb/>office</orig><reg>stage-office</reg></choice> for a seat.  He was informed that the stage <lb/>was full, but the agent told him that if he was <lb/>anxious to go, he could give him a box seat. <lb/><foreign><hi rend="italic">"Mon dieu! mon dieu!"</hi></foreign> exclaimed the <choice><orig>French-<lb/>man</orig><reg>Frenchman</reg></choice>, "you put me in one box to send me to de <lb/>city?"  "O, no Sir!" replied the agent, "I mean <lb/>a seat by the driver."  A box seat having been <lb/>properly explained, the Frenchman pronounced <lb/>it good, and took his seat.  The weather being <lb/>cold and the Frenchman having no overcoat, <choice><orig>suf-<lb/>fered</orig><reg>suffered</reg></choice> much on his journey to the great city. <lb/>Having arrived safely in the city, he <choice><orig>stept</orig><reg>stepped</reg></choice> into <lb/>a merchant tailor's to purchase an overcoat. <lb/>"Ah, <foreign><hi rend="italic">monsieur</hi></foreign>," exclaimed the Frenchman, "I <lb/>vant to get one varm overcoat."  "Yes," replied <lb/>the tailor, "I know what you want&#8212;you want a <lb/>box coat."  The Frenchman stood amazed and <lb/>exclaimed, "Vy vat you mean by box coat, a <lb/>seat side ob de driver<choice><sic>?</sic><corr>?"</corr></choice>  A box coat having been <lb/>explained by the tailor to the satisfaction of the <lb/>Frenchman, he pronounced it good and made <lb/>the purchase, and said, "Vile de vord box <choice><orig>per-<lb/>plexy</orig><reg>perplexy</reg></choice> me, he alvays turn out good."  Being now <lb/>hungry, he started for a restaurant to get some <lb/>oysters.  Having entered one, he called on the <lb/>proprietor for a plate of stewed oysters.  The <lb/>bell was rung, the servant came, and ordered <lb/>to get "No. 9 box ready for one."  The <choice><orig>French-<lb/>man</orig><reg>Frenchman</reg></choice> started as if he had been shocked by a <choice><orig>gal-<lb/>vanic</orig><reg>galvanic</reg></choice> battery: <foreign><hi rend="italic">"Mon dieu, mon dieu</hi></foreign>! you put <lb/>me in nine box to eat de oyster?  Me vant one <lb/>pedestal, one table.  I no eat de oyster in 9 <lb/>box<choice><unclear reason="illegible" cert="medium" resp="#el">.</unclear></choice>"  The proprietor became alarmed at the <lb/>sudden violent ebullition of feeling on the part <lb/>of the Frenchman, and it was some time before <lb/>either gained their equilibrium of calmness. <lb/>"No. 9 box" having been explained, the <choice><orig>French-<lb/>man</orig><reg>Frenchman</reg></choice> enjoyed his oysters, and came to the <choice><orig>con-<lb/>clusion</orig><reg>conclusion</reg></choice> that much good cometh out of box. <lb/>Having paid his bill and bidding adieu to the <lb/>proprietor, he hurried to the street, to find some <lb/>place of amusement.  After wending his way <lb/>for a while, he came to the theater.  Coming up <lb/>to the ticket-office, he applied for a ticket.  "You <lb/>want a box-ticket?" inquired the man in the <choice><orig>of-<lb/>fice</orig><reg>office</reg></choice>.  <foreign><hi rend="italic">"Oui, monsieur</hi></foreign>.  You call everything <lb/>by box in America and he turn out good."  His <lb/>ticket being purchased, he was ushered in the <lb/>box; but had not been sitting there long, when <lb/>a lady, who was sitting close by, said "Sir, will <lb/>you take a pinch of snuff out of my box?" <lb/>"Ah, madame, madame," exclaimed the <choice><orig>French-<lb/>man</orig><reg>Frenchman</reg></choice>, "you are so very kind.  Dis word 'box' <lb/>sticketh closer to me than a brother, and for de <lb/>future its name will be sweet music to my ear." </p>
+            
+            <p>So, Mr. Editor, I hope we will continue to see <lb/>in your most excellent paper, letters from Box, <lb/>as your readers derived much good information <lb/>from them.</p>
+            
+            <p>The ladies (God bless them!) of the <choice><orig>Contra-<lb/>band</orig><reg>Contraband</reg></choice> Relief Association held a festival at the <lb/>15th st. Presbyterian church, for the purpose of <lb/>raising funds to purchase a flag to be presented <lb/>to the First District Regiment of Colored <choice><orig>Volun-<lb/>teers</orig><reg>Volunteers</reg></choice>.  Mrs. Bond, one of the members of the <lb/>association, was the superintendent of the <choice><orig>festi-<lb/>val</orig><reg>festival</reg></choice>.  She discharged her duties faithfully and <lb/>deserves great credit for the good order and <choice><orig>sys-<lb/>tem</orig><reg>system</reg></choice> in its management.  What would we men <lb/>be without woman?  Look at her in the attitude <lb/>of perseverance, in the attitude of love, you will <lb/>find her engaged in every good word and work. <lb/>Who can describe woman's love?  Would that <lb/>I had the talents of a Byron, Bulwer, or Scott, <lb/>that I might depict woman's love.  She is <choice><orig>fore-<lb/>most</orig><reg>foremost</reg></choice> in every mission of love and mercy.  She <lb/>was first at the cross and last at the sepulcher. <lb/>I cannot refrain from noticing the love and <choice><orig>ener-<lb/>gy</orig><reg>energy</reg></choice> of a young lady engaged in this cause by <lb/>the name of Miss Jane Hall, of Georgetown, D. <lb/>C.  She was called upon to solicit something <choice><orig>to-<lb/>wards</orig><reg>towards</reg></choice> the flag, and in a very few days collected <lb/>twenty-seven dollars and some cents.  There is <lb/>love and energy beyond description.</p>
+            
+            <p>I see by the list of emigrants that sailed in the <lb/>last packet for Liberia, the name of our <choice><orig>fellow-<lb/>townsman</orig><reg>fellow-townsman</reg></choice>, Mr. John Browne.  He has gone <lb/>thither to select a location for his family who, I <lb/>am informed, will go in the Spring.  In regard <lb/>to emigration, I have always been opposed to <lb/>our people emigrating beyond the United States; <lb/>for I am of the opinion that God intended the <lb/>Southern States for them.  Four millions of <lb/>them have watered that soil with their tears and <lb/>with their blood from the lash of the slaveholder. <lb/>Every day develops, to my mind, the speedy <lb/>consummation of that event, and whilst this is <lb/>the cardinal reason of my opposition to <choice><orig>emigra-<lb/>tion</orig><reg>emigration</reg></choice>, yet at the same time, there are many, very <lb/>many other reasons I could give, but time and <lb/>paper would fail me.</p>
+            
+            <p>The accursed Fugitive Slave Law, looked <lb/>upon by some as a sacred law, is executed in <lb/>this District without shame or blush.  I thought <lb/>to have been able to give you and your readers <lb/>a detailed account of the trial of the fugitive <lb/>slave Hall, in this letter, but I will defer it until <lb/>I write again.  The two lawyers who defended <lb/>Hall, after the trial was over were arrested for <lb/>obstructing the execution of this sacred law, and <lb/>held to bail in the sum of one thousand dollars <lb/>each.  Our noble friend, Mr. Walker Lewis, <lb/>with all the generosity his noble heart possesses, <lb/>stepped forward and went Mr. Dean's bail; and <lb/>the Hon. John C. Underwood went Mr. Jolliffe's.</p>
+            
+            <p>Since I wrote you last, the 1st Colored <choice><orig>Regi-<lb/>ment</orig><reg>Regiment</reg></choice> has two more companies added, making <lb/>now five.  They paraded down Pennsylvania <lb/>avenue the other day, making a handsome <choice><orig>dis-<lb/>play</orig><reg>display</reg></choice>.  I was standing by an old officer of the <lb/>army, and he told me they marched as good as <lb/>old veterans.  I long to see the regiment full, <lb/>for I am of the opinion that the 2nd regiment <lb/>will be raised in much less time than the 1st. <lb/>I stated in my last letter that there was some <lb/>misunderstanding with Col. Turner and the <lb/>War Department; that is a fact not to be denied. <lb/>So far from Turner being the colonel of the <choice><orig>re-<lb/>giment</orig><reg>regiment</reg></choice>, he has only been offered a second <choice><orig>lieu-<lb/>tenancy</orig><reg>lieutenancy</reg></choice>.  I am sorry for this, as Turner worked <lb/>hard to get the regiment up.  All the officers <lb/>named in the beginning for the 1st regiment&#8212; <lb/>Colonel, Lieutenant-Colonel, Major, Adjutant, <lb/>and Quartermaster&#8212;will all be left out in the <lb/>cold.  <choice><abbr>Wm.</abbr><expan>William</expan></choice> Slade, our fellow-townsman, looked <lb/>with much anxiety for the appointment of <choice><orig>quar-<lb/>termaster</orig><reg>quartermaster</reg></choice>, but his fate is that of the others.  But <lb/>there is one consolation these disappointed men <lb/>have: they know they are the choice of the <choice><orig>reg-<lb/>iment</orig><reg>regiment</reg></choice>.  However, "the race is not to the swift <lb/>nor the battle to the strong"&#8212;they will try their <lb/>hand on the second regiment.</p>
+            
+            <p>The spirit of recruiting is on the march, as <lb/>you will see from the following proceedings of <lb/>a meeting of colored citizens, held in the 19th <lb/>st. Baptist church on last Friday evening, for <lb/>the purpose of raising a recruiting fund to aid <lb/>in filling up the ranks of the 3rd* Regiment of <lb/>D.C. Vols.  The meeting was called to order by <lb/>Mr. C. Clarke: Mr. Carter A. Steward was chosen <lb/>as chairman, Mr. <choice><abbr>Wm.</abbr><expan>William</expan></choice> H. Wormley as secretary. <lb/>A resolution then passed&#8212;"That a fund be <choice><orig>rais-<lb/>ed</orig><reg>raised</reg></choice> to pay any person one dollar a head for every <lb/>recruit they may get to enlist."  The list was <lb/>then opened and the amount of $87 taken up; <lb/>and the following committees appointed to carry <lb/>out the objects of the same:</p>
+            
+            <p>Mr. C, Clark, chairman; Messrs.  Daniel G. <lb/>Muse, John F. Cook, <choice><abbr>Wm.</abbr><expan>William</expan></choice> H. Wormley, Henry <lb/>Jarvis, A. W. Winkfield, C. A. Stewart, <choice><orig>treas-<lb/>urer</orig><reg>treasurer</reg></choice>.</p>
+            
+            <p>Ladies Soliciting Committee:&#8212;Miss Annie <lb/>Washington, chairman; Misses Sarah Pesteridge, <lb/>Louisa Brown, Julia Webster, Matilda <choice><orig>Washing-<lb/>ton</orig><reg>Washington</reg></choice>.</p>
+            
+            <milestone unit="undeclared" rend="short-bar"/>
+            
+            <note type="authorial"><hi rend="small-font">*) Many of our friends are of the opinion that, there <lb/>being the 1st and 2nd white regiments of the D. C. Vol, <lb/>this first regiment of colored volunteers should follow in <lb/>number and be called the 3rd regiment.  I am of that <lb/>opinion myself, and I am in hopes that we will follow the <lb/>noble examples of old Massachusetts.</hi></note>
+            
+            <closer><signed rend="right">BOB LOGIC.</signed></closer> 
+            
+        </body>
+    </text>
+</TEI>
+

@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e3734">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">V&#8212;&#8212;, Charles</title>
+                <title level="m" type="sub">a machine readable transcription</title>
+                <principal>Susan C. Lawrence</principal>
+                <principal>Kenneth M. Price</principal>
+                <principal>Kenneth J. Winkle</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2011</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <idno>med.d1e3734</idno>
+                <authority>Civil War Washington</authority>
+                <publisher>University of Nebraska–Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+                </distributor>
+                <date>2011</date>
+                <availability>
+                    <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved.
+                        Redistribution or republication in any medium, except as allowed under the
+                        Fair Use provisions of U.S. copyright law, requires express written consent
+                        from the editors and advance notification of the publisher, the University
+                        of Nebraska–Lincoln.</p>
+                </availability>
+            </publicationStmt>
+            <notesStmt>
+                <note type="project">The following are responsible for particular readings or for
+                    changes to this file, as noted: 
+ <persName xml:id="kw">Kenneth Winkle</persName> <persName xml:id="ajh">AJ Howell</persName>
+                    <persName xml:id="mb">Matthew Bosley</persName>
+                    <persName xml:id="el">Elizabeth Lorang</persName>
+                    <persName xml:id="sb">Stacey Berry</persName>
+                    <persName xml:id="et">Elisabeth Tracey</persName>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>The Medical and Surgical History of the War of the Rebellion.
+                        (1861&#8211;65.)</title>
+                    <editor role="compiler">Surgeon General Joseph K. Barnes, United States
+                        Army</editor>
+                    <pubPlace>Washington, D.C.</pubPlace>
+                    <publisher>Government Printing Office</publisher>
+                    <biblScope type="part">Part 1</biblScope>
+                    <biblScope type="volume">Volume 2</biblScope>
+                    <date when="1870">1870</date>
+                    <biblScope type="page">60</biblScope>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <classDecl>
+                <taxonomy xml:id="medsurg">
+                    <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme="#medsurg">
+                    <term>on special wounds and injuries of the head</term>
+                    <term>wounds and injuries of the head</term>
+                    <term>miscellaneous injuries of the head</term>
+                    <term>trephining</term>
+                    <term>kick from horse</term>
+                    <term>wound penetrated cranium at anterior inferior angle of parietal
+                        bone</term>
+                    <term>fragments of internal table driven inward, penetrated dura mater, ruptured
+                        middle meningeal artery</term>
+                    <term>removed depressed bone fragments</term>
+                    <term>compression of brain from depressed fracture</term>
+                    <term>removed coagulated blood</term>
+                    <term>cerebro-meningitis</term>
+                    <term>autopsy performed</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+ <change who="#kw" when="2014-05">blessed</change>
+            <change who="#ajh" when="2013-08-09">added figure encoding</change>
+            <change who="#mb" when="2013-05-17">additional proofing of transcription and encoding,
+                edited and added keyword terms</change>
+            <change who="#mb" when="2011-10-10">additional proofing of transcription and
+                encoding</change>
+            <change who="#mb" when="2011-06-07">additional proofing of transcription and
+                encoding</change>
+            <change who="#el" when="2011-11-05">case text extracted and transformed from larger
+                file</change>
+            <change who="#sb" when="2011-02-09">enriched encoding</change>
+            <change who="#sb" when="2011-01-28">validated file</change>
+            <change who="#et" when="2009-08-01">encoded</change>
+            <change who="#sb" when="2008-09-22">initial checking of OCR text against PDF;
+                encoded</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body xml:id="ch1.sc2.0027">
+            <p><hi rend="initialcap">C</hi>ASE.&#8212;<name type="person" key="295">Private Charles
+                    V&#8212;&#8212;</name>, <name type="organization" key="185">Signal Corps</name>,
+                received, on <date type="injury" when="1862-02-24">February 24th, 1862</date>, at
+                    <name type="place">Georgetown, D. C.</name>, a kick from a horse; the sharp cork
+                of the shoe penetrating the cranium at the anterior inferior angle of the parietal
+                bone, driving fragments of the internal table inward, penetrating the dura mater and
+                rupturing the middle meningeal artery. He was seen by <name type="person" key="294"
+                    >Acting Assistant Surgeon John S. Billings</name>, <date type="admit"
+                    when="1862-02-24">six hours after the reception of the injury</date>. He was
+                comatose, and presented the usual signs of compression of the brain from depressed
+                fracture. <name type="person" key="294">Dr. Billings</name>
+                <date type="operation" when="1862-02-24">applied the trephine and removed the
+                    depressed fragments</date>, and also about two ounces of coagulated blood. The
+                patient immediately came to his senses, and did well for four days, when symptoms of
+                cerebro-meningitis set in. The patient was <date type="transfer" when="1862-02-28"
+                    >then</date> transferred to the <name type="hospital" key="155">Union Hotel
+                    Hospital</name>. Active treatment was unavailing, and death followed in two
+                days, or on <date type="death" when="1862-03-02">March 2d, 1862</date>. The autopsy
+                showed effusion of lymph over the whole of the right hemisphere of the cerebrum. A
+                portion of the cranium, showing the extent of bone removed, was contributed, with a
+                memorandum of the case, to the <name type="hospital" key="431">Army Medical
+                    Museum</name> by <name type="person" key="294">Dr. Billings</name>. It is
+                represented in the adjacent wood cut, (<hi rend="initial cap">F</hi>IG. 26.) </p>
+            <figure>
+                <graphic url="cww.001363.001"/>
+                <head><hi rend="initial cap">F</hi>IG. 26.&#8212;Section of the cranium trephined
+                    for depressed fracture from the kick of a horse.&#8212;<hi rend="italic"
+                        >Spec</hi>. 3453, Sect. I, A. M. M.</head>
+            </figure>
+        </body>
+    </text>
+</TEI>

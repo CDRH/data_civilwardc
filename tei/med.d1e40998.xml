@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e40998">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Shomberg, Henry</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+       <idno>med.d1e40998</idno>
+       <authority>Civil War Washington</authority>
+       <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor>
+       <name>Center for Digital Research in the Humanities</name>
+       <address><addrLine>319 Love Library</addrLine>
+       <addrLine>University of Nebraska–Lincoln</addrLine>
+       <addrLine>Lincoln, NE 68588-4100</addrLine>
+       <addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+    </distributor>
+    <date>2011</date>
+    <availability>
+        <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+         republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+         law, requires express written consent from the editors and advance notification of the
+         publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+     <persName xml:id="mb">Matthew Bosley</persName>
+     <persName xml:id="el">Elizabeth Lorang</persName>
+     <persName xml:id="sb">Stacey Berry</persName>
+     <persName xml:id="ao">Alyssa Olson</persName>
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl>
+     <title level="j">The Medical and Surgical History of the War of the Rebellion. (1861-65.)</title>
+     <pubPlace>Washington, DC</pubPlace>
+     <publisher>Government Printing Office</publisher>
+     <biblScope type="part">Part 2</biblScope>
+     <biblScope type="volume">Volume 1</biblScope>
+     <date when="1879">1879</date>
+     <biblScope type="page">160-161</biblScope>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+       <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+      <keywords scheme="#medsurg">
+       <term>diarrh&#339;a and dysentery</term>
+       <term>fatal cases of diarrh&#339;a and dysentery, with accounts of the morbid appearances observed</term>
+       <term>from Lincoln Hospital, Washington, D. C.</term>
+       <term>chronic diarrh&#339;a</term>
+       <term>cleft palate observed, cicatrix of operation for hare-lip</term>
+       <term>curvature of spine to left</term>
+       <term>calcareous mass in lower lobe of lung</term>
+       <term>much adipose tissue on heart surface, atheromatous patch on anterior flap of mitral valve</term>
+       <term>two aortic valves thickened and free borders nodulated</term>
+       <term>liver pinkish-yellow with indistinct acini</term>
+       <term>strong adhesions between gall-bladder and transverse colon</term>
+       <term>each kidney contained small cyst</term>
+       <term>solitary glands of ileum enlarged, conical, and white at apices, with small dark-bordered ulcers unconnected with Peyer's patches</term>       
+       <term>autopsy performed</term>       
+     </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change who="#mb" when="2012-11-01">additional proofing of transcription and encoding, identified keyword terms</change>
+   <change who="#el" when="2010-11-05">case text extracted and transformed from larger file</change>
+   <change who="#sb" when="2010-05-01">enrich encoding, proof and edit</change>
+   <change who="#ao" when="2008-10-02">encoding and editing</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body> 
+   <p>Case from the case-book of <name type="hospital" key="176"><hi rend="initialcap">L</hi>INCOLN <hi rend="initialcap">H</hi>OSPITAL</name>, Washington, D. C.; <name type="person" key="241">Surgeon Henry Bryant</name>, <name type="organization" key="132">U. S. V.</name>, in charge to May, 1863.</p>
+   <p><hi rend="initialcap">C</hi>ASE 343.&#8212;<name type="person" key="xxx">Private Henry Shomberg</name>, <name type="organization" key="xxx">company B, 54th New York volunteers</name>; admitted <date type="admit" when="1863-02-19">February 19, 1863</date>.  Chronic diarrh&#339;a.  Died, <date type="death" when="1863-02-22">February 22d</date>, at P. M.  <hi rend="italic">Autopsy</hi> <date type="autopsy" when="1863-02-23">thirteen hours after death</date>: Height five feet five inches; apparent age 28 years; body emaciated; some rigor mortis. A cleft palate was observed, and the cicatrix of an operation for hare-lip. There was a curvature of the spine to the left. The brain weighed fifty ounces; was light colored and of firm consistence. The right lung weighed thirteen ounces and three-quarters, the left eleven ounces; both lungs contained a large quantity of melanic matter, arranged externally in bands corresponding to the course of the ribs, internally following the blood-vessels; in the lower lobe of the left lung there was a calcareous mass the size of a pea; both lungs were congested. The heart weighed nine ounces and a half; there was much adipose tissue on its surface; two of the aortic valves were thickened and their free borders nodulated; on one of them was a firm red outgrowth the size of an apple-seed; on the anterior flap of the mitral valve there was an atheromatous patch; there were small white fibrinous clots in both ventricles; the pericardium contained a moderate quantity of fluid. The liver weighed sixty-two ounces and a half; it was pinkish-yellow, with indistinct acini, its capsule firmly adherent; the gall-bladder contained half an ounce of thin reddish-green bile; there were strong adhesions between it and the transverse colon. The spleen was light-brown and weighed nine ounces. The pancreas was pink, firm, and weighed three ounces and a quarter. The right kidney weighed eight ounces and a quarter, the left seven ounces and a half; each kidney contained a small cyst; the cortical substance of both was pale, the pyramids purplish-red. The stomach was irregularly congested, especially in its fundus; it was somewhat enlarged and its mucous membrane softened. The small intestine was somewhat dilated and very thin, its mucous membrane quite soft. The solitary glands of the ileum were enlarged, conical, and white at their apices; several small dark-bordered ulcers, unconnected with Peyer's patches, were observed. The mucous membrane of the colon and rectum was congested; in the sigmoid flexure it was softened.&#8212;<name type="person" key="244">Assistant Surgeon George M. McGill</name>, <name type="organization" key="190">U. S. A.</name></p>
+  </body>
+ </text>
+</TEI>

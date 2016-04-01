@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e5181">
+        <teiHeader>
+                <fileDesc>
+                        <titleStmt>
+                                <title level="m" type="main">Gromoble, Israel J.</title>
+                                <title level="m" type="sub">a machine readable transcription</title>
+                                <principal>Susan C. Lawrence</principal>
+                                <principal>Kenneth M. Price</principal>
+                                <principal>Kenneth J. Winkle</principal>
+                        </titleStmt>
+                        <editionStmt>
+                                <edition>
+                                        <date>2011</date>
+                                </edition>
+                        </editionStmt>
+                        <publicationStmt>
+                                <idno>med.d1e5181</idno>
+                                <authority>Civil War Washington</authority>
+                                <publisher>University of Nebraska–Lincoln</publisher>
+                                <distributor>
+                                        <name>Center for Digital Research in the Humanities</name>
+                                        <address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+                                </distributor>
+                                <date>2011</date>
+                                <availability>
+                                        <p>Copyright © 2011 by University of Nebraska–Lincoln, all
+                                                rights reserved. Redistribution or republication in
+                                                any medium, except as allowed under the Fair Use
+                                                provisions of U.S. copyright law, requires express
+                                                written consent from the editors and advance
+                                                notification of the publisher, the University of
+                                                Nebraska–Lincoln.</p>
+                                </availability>
+                        </publicationStmt>
+                        <notesStmt>
+                                <note type="project">The following are responsible for particular
+                                        readings or for changes to this file, as noted:
+                                        <persName xml:id="mb">Matthew Bosley</persName>
+                                        <persName xml:id="el">Elizabeth Lorang</persName>
+                                        <persName xml:id="sb">Stacey Berry</persName>
+                                        <persName xml:id="et">Elisabeth Tracey</persName>
+                                </note>
+                        </notesStmt>
+                        <sourceDesc>
+                                <bibl>
+                                        <title level="j">The Medical and Surgical History of the War
+                                                of the Rebellion</title>
+                                        <pubPlace>Washington, DC</pubPlace>
+                                        <publisher>Government Printing Office</publisher>
+                                        <biblScope type="part">Part 3</biblScope>
+                                        <biblScope type="volume">Volume 1</biblScope>
+                                        <date when="1888">1888</date>
+                                        <biblScope type="page">263</biblScope>
+                                </bibl>
+                        </sourceDesc>
+                </fileDesc>
+                <encodingDesc>
+                        <classDecl>
+                                <taxonomy xml:id="medsurg">
+                                        <bibl>Medical and Surgical History of the War of the
+                                                Rebellion</bibl>
+                                </taxonomy>
+                        </classDecl>
+                </encodingDesc>
+                <profileDesc>
+                        <textClass>
+                                <keywords scheme="#medsurg">
+                                        <term>clinical records</term>
+                                        <term>continued fevers</term>                                        
+                                        <term>ulceration of toes</term>
+                                        <term>typhoid fever</term>
+                                        <term>fever cases from various records</term>
+                                        <term>reported as typhoid, many modified by malarial influence</term>
+                                </keywords>
+                        </textClass>
+                </profileDesc>
+                <revisionDesc>
+                        <change who="#mb" when="2011-10-07">additional proofing of transcription and encoding</change>
+                        <change who="#mb" when="2011-06-09">additional proofing of transcription and encoding</change>
+                        <change who="#el" when="2011-05-11">case text extracted and transformed from
+                                larger file</change>
+                        <change who="#sb" when="2011-02-23">Encoding and Proofing</change>
+                        <change who="#et" when="2009-12-01">Initial Checking OCR Text to PDF file,
+                        </change>
+                </revisionDesc>
+        </teiHeader>
+        <text>
+                <body xml:id="ch4.sc2.4.00037">
+                        
+                                <p><hi rend="initialcap">C</hi>ASE 37.&#8212;<hi rend="italic"
+                                                >Ulceration of toes.</hi>&#8212;<name
+                                                type="person" key="599">Private Israel J.
+                                                Gromoble</name>, <name type="organization" key="643"
+                                                >Co. I, 148th Pa.</name>; age 18; was admitted <date
+                                                type="transfer" when="1863-09-23">Sept. 23,
+                                                1863</date>, from <name type="hospital" key="152"
+                                                >Finley hospital</name>, Washington, D. C, as a
+                                        convalescent from typhoid fever. On <date type="injury" when="1863-09-26">the 26th</date> four of the
+                                        patient's toes were found to be ulcerated and much
+                                        congested. Incisions were made around the ulcers and
+                                        warm-water dressings prescribed, with tincture of iron
+                                        internally, porter and extra diet; a wash containing sugar
+                                        of lead and opium and an alcohol and water lotion were
+                                        subsequently employed. On October 18 the ulcers were
+                                        granulating. All treatment was omitted on the 25th, and on
+                                                <date type="duty" when="1863-11-16">November
+                                                16</date> the patient was returned to
+                                                duty.&#8212;<hi rend="italic"><name type="hospital">Mower Hospital,
+                                                        Philadelphia, Pa.</name></hi>
+                                </p>
+                        
+                </body>
+        </text>
+</TEI>

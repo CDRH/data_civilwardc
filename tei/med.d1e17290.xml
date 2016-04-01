@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e17290">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title level="m" type="main">B&#8212;&#8212;, Hiram</title>
+        <title level="m" type="sub">a machine readable transcription</title>
+        <principal>Susan C. Lawrence</principal>
+        <principal>Kenneth M. Price</principal>
+        <principal>Kenneth J. Winkle</principal>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <date>2011</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <idno>med.d1e17290</idno>
+        <authority>Civil War Washington</authority>
+        <publisher>University of Nebraska–Lincoln</publisher>
+        <distributor>
+          <name>Center for Digital Research in the Humanities</name>
+          <address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+        </distributor>
+        <date>2011</date>
+        <availability>
+          <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution
+            or republication in any medium, except as allowed under the Fair Use provisions of U.S.
+            copyright law, requires express written consent from the editors and advance
+            notification of the publisher, the University of Nebraska–Lincoln.</p>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="project">The following are responsible for particular readings or for changes to
+          this file, as noted: 
+ <persName xml:id="kmp">Kenneth M. Price</persName> <persName xml:id="ajh">AJ Howell</persName>
+          <persName xml:id="mb">Matthew Bosley</persName>
+          <persName xml:id="el">Elizabeth Lorang</persName>
+          <persName xml:id="sb">Stacey Berry</persName>
+          <persName xml:id="et">Elisabeth Tracey</persName>
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>
+          <title>The Medical and Surgical History of the War of the Rebellion.
+            (1861&#8211;65.)</title>
+          <editor role="compiler">Surgeon General Joseph K. Barnes, United States Army</editor>
+          <pubPlace>Washington, D.C.</pubPlace>
+          <publisher>Government Printing Office</publisher>
+          <biblScope type="part">Part 1</biblScope>
+          <biblScope type="volume">Volume 2</biblScope>
+          <date when="1870">1870</date>
+          <biblScope type="page">314</biblScope>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <classDecl>
+        <taxonomy xml:id="medsurg">
+          <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="#medsurg">
+          <term>wounds and injuries of the head</term>
+          <term>gunshot injuries of the cranium</term>
+          <term>gunshot wounds of the head</term>
+          <term>ligations of carotid artery</term>
+          <term>ligation of common carotid artery</term>
+          <term>general anesthesia, ether</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+ <change who="#kmp" when="2014-05">blessed</change>
+      <change who="#ajh" when="2013-08-20">added figure, added figure encoding</change>
+      <change who="#mb" when="2011-09-07">additional proofing of transcription and encoding</change>
+      <change who="#el" when="2011-11-05">case text extracted and transformed from larger
+        file</change>
+      <change who="#sb" when="2011-02-09">enriched encoding</change>
+      <change who="#sb" when="2011-01-28">validated file</change>
+      <change who="#et" when="2009-08-01">encoded</change>
+      <change who="#sb" when="2008-09-22">initial checking of OCR text against PDF; encoded
+      </change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <name type="person">Private Hiram B&#8212;&#8212;</name>, <name type="organization">Co. A,
+          142 Pennsylvania</name>, aged 18 years, received a gunshot fracture of the zygoma and
+        mastoid process of the temporal bone, left side, on the <name type="battle">Weldon
+          Railroad</name>, <date type="injury" when="1864-08-21">August 21st, 1864</date>. He was
+          <date type="admit" when="1864-08-21">at once</date> conveyed to the hospital of the 1st
+        division, Fifth Corps, and, on <date type="transfer" when="1864-08-24">the 24th</date>, was
+        transferred to <name type="hospital" key="176">Lincoln Hospital</name>, Washington. The
+        wound extended from within a half inch of the outer canthus of the left eye to just
+        posterior to the left mastoid process. Cold-water dressings were applied. On <date
+          type="injury" when="1864-08-26">the 26th</date>, arterial h&#230;morrhage occurred, which
+        was checked by filling the wound with lint soaked in a solution of persulphate of iron. It,
+        however, recurred on <date type="operation" when="1864-08-27">the next day</date>, and <name
+          type="person" key="243">Assistant Surgeon J. C. McKee</name>, <name type="organization"
+          key="190">U. S. A.</name>, administered ether and ligated the left common carotid artery
+        above the omo-hyoid, an inch and a half below the bifurcation. Anodynes and stimulants were
+        administered, but the patient sank under the repeated and copious h&#230;morrhages, and
+        death ensued <date type="death" when="1864-09-02">September 2d, 1864</date>. At the autopsy,
+        the meatus auditorius was found to be cut across. It was impossible to detect from what
+        artery or arteries the h&#230;morrhage proceeded. Both lungs were an&#230;mic. The adjoining
+        wood-cut (<hi rend="initialcap">F</hi>IG. 1) represents a portion of the aorta, the
+        commencement of the left subclavian, the common carotid, and its bifurcation. A firm
+        fibrinous coagulum extends from the seat of ligature to the bifurcation. The coagulum on the
+        proximal side of the ligature is much shorter, occupying less than half an inch. The drawing
+        is of the natural size of the vessels, shrunken in alcohol. The notes of the case, and
+        specimen, were contributed by <name type="person" key="246">Acting Assistant Surgeon H. M.
+          Dean</name>. </p>
+      <figure>
+        <graphic url="cww.001431.001"/>
+        <head><hi rend="initialcap">FIG</hi>. 1*.&#8212;Coagulum in distal portion of the left
+          carotid six days after ligation. <hi rend="italic">Spec</hi>. 3179, Sect. I, A. M.
+          M.</head>
+      </figure>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e11719">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">H.&#8212;&#8212;, M. L.</title>
+                <title level="m" type="sub">a machine readable transcription</title>
+                <principal>Susan C. Lawrence</principal>
+                <principal>Kenneth M. Price</principal>
+                <principal>Kenneth J. Winkle</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2011</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <idno>med.d1e11719</idno>
+                <authority>Civil War Washington</authority>
+                <publisher>University of Nebraska–Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+                </distributor>
+                <date>2011</date>
+                <availability>
+                    <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved.
+                        Redistribution or republication in any medium, except as allowed under the
+                        Fair Use provisions of U.S. copyright law, requires express written consent
+                        from the editors and advance notification of the publisher, the University
+                        of Nebraska–Lincoln.</p>
+                </availability>
+            </publicationStmt>
+            <notesStmt>
+                <note type="project">The following are responsible for particular readings or for
+                    changes to this file, as noted: 
+ <persName xml:id="kmp">Kenneth M. Price</persName> <persName xml:id="ajh">AJ Howell</persName>
+                    <persName xml:id="mb">Matthew Bosley</persName>
+                    <persName xml:id="el">Elizabeth Lorang</persName>
+                    <persName xml:id="sb">Stacey Berry</persName>
+                    <persName xml:id="et">Elisabeth Tracey</persName>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>The Medical and Surgical History of the War of the Rebellion.
+                        (1861&#8211;65.)</title>
+                    <editor role="compiler">Surgeon General Joseph K.Barnes, United States
+                        Army</editor>
+                    <pubPlace>Washington, D.C.</pubPlace>
+                    <publisher>Government Printing Office</publisher>
+                    <biblScope type="part">Part 1</biblScope>
+                    <biblScope type="volume">Volume 2</biblScope>
+                    <date when="1870">1870</date>
+                    <biblScope type="page">167</biblScope>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <classDecl>
+                <taxonomy xml:id="medsurg">
+                    <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme="#medsurg">
+                    <term>on special wounds and injuries of the head</term>
+                    <term>wounds and injuries of the head</term>
+                    <term>gunshot wounds</term>
+                    <term>gunshot contusions of the cranial bones</term>
+                    <term>gunshot fractures of both tables of the skull</term>
+                    <term>gunshot fractures of both tables of the cranium with depression</term>
+                    <term>oblique impact of musket balls upon vault of cranium</term>
+                    <term>linear fissure of outer table with extended depression or displacement of
+                        vitreous table</term>
+                    <term>wound over left supra-orbital ridge indicted by glancing musket
+                        ball</term>
+                    <term>fissure extended into right orbit and upward beyond left frontal
+                        prominence</term>
+                    <term>Confederate taken prisoner</term>
+                    <term>musket ball struck forehead</term>
+                    <term>depressed gunshot fracture of both tables of the skull</term>
+                    <term>abscess in anterior cerebral hemisphere</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+ <change who="#kmp" when="2014-05">blessed</change>
+            <change who="#ajh" when="2013-08-19">added figure encoding</change>
+            <change who="#mb" when="2013-07-05">additional proofing of transcription and encoding,
+                edited and added keyword terms</change>
+            <change who="#mb" when="2011-07-18">additional proofing of transcription and
+                encoding</change>
+            <change who="#el" when="2011-11-05">case text extracted and transformed from larger
+                file</change>
+            <change who="#sb" when="2011-02-09">enriched encoding</change>
+            <change who="#sb" when="2011-01-28">validated file</change>
+            <change who="#et" when="2009-08-01">encoded</change>
+            <change who="#sb" when="2008-09-22">initial checking of OCR text against PDF;
+                encoded</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body xml:id="ch1.sc3.0201">
+            <p><hi rend="initialcap">C</hi>ASE.&#8212;<name type="person" key="1480">Private <hi
+                        rend="italic">M. L. H.</hi>&#8212;&#8212;</name>, <name type="organization"
+                    key="792">Co. E, 21st Virginia Regiment</name>, aged 20 years, was wounded at
+                    <name type="place" key="xx">Petersburg, Virginia</name>, in the assault on <name
+                    type="battle" key="41">Fort <choice>
+                        <orig>Steadman</orig>
+                        <reg>Stedman</reg>
+                    </choice></name>, <date type="injury" when="1865-03-25">March 25th, 1865</date>,
+                by a musket ball which struck the forehead. He was made a prisoner and admitted to
+                the hospital of the Ninth Army Corps at <name type="place">City Point</name>. On
+                    <date type="transfer" when="1865-03-27">March 27th</date> he was conveyed in the
+                    <name type="hospital">hospital transport steamer &#34;State of Maine&#34;</name>
+                to <name type="place" key="#Washington">Washington</name>, and placed in the <name
+                    type="hospital" key="176">Lincoln Hospital</name> on <date type="admit"
+                    when="1865-03-28">March 28th</date>, with a wound over the left supra-orbital
+                ridge, apparently indicted by a glancing musket ball. There were no cerebral
+                symptoms when the patient was admitted, and he seemed to be doing well for several
+                days, being quite free from pain or any febrile movement. The pulse was normal and
+                the bowels in good condition. On <date type="injury" when="1865-04-01">April
+                    1st</date>, he complained of a dull deep-seated pain over the left eye. Later in
+                the day he was feverish and restless, his countenance was pale, and his pulse slow
+                and weak. On April 2d, he failed rapidly. On the night of the 3d, he was delirious.
+                On the 4th, there was violent raving, which continued until his death, on the
+                afternoon of <date type="death" when="1865-04-05">April 5th, 1865</date>. At the
+                post-mortem examination, a fissure was found extending into the right orbit, and
+                upward beyond the left frontal prominence. The vitreous table beneath was largely
+                depressed. There was a small abscess in the anterior lobe of the left cerebral
+                hemisphere. The specimen was contributed by <name type="person" key="1479">Acting
+                    Assistant Surgeon J. P. Arthur</name>, and is represented in the accompanying
+                wood-cuts, (Fig. 77 and Fig. 78.) Two fragments of the inner table are driven inward
+                to the depth of half an inch, touching each other by their inner edges like the
+                leaves of a folding door just ajar. (See <hi rend="italic">Catalogue Surg.
+                    Sect.</hi> A. M. M., page 10.)</p>
+            <figure>
+                <graphic url="cww.001389.001"/>
+                <head>
+                    <hi rend="initialcap">F</hi>IG. 77.&#8212;Section of the frontal bone,
+                    exhibiting a fissure over the left supra-orbital region.&#8212;<hi rend="italic"
+                        >Spec</hi>. 24, A. M. M.</head>
+            </figure>
+            <figure>
+                <graphic url="cww.001390.001"/>
+                <head>
+                    <hi rend="initialcap">F</hi>IG. 78.&#8212;Internal view of the foregoing
+                    specimen, showing the extensive splintering of the vitreous table.</head>
+            </figure>
+        </body>
+    </text>
+</TEI>

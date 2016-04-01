@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="cww.02515">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Editorial Correspondence</title>
+                <title level="m" type="sub">a machine readable transcription</title>
+                <editor role="co-editor">R. J. Weir</editor>
+                <principal>Susan C. Lawrence</principal>
+                <principal>Elizabeth Lorang</principal>
+                <principal>Kenneth M. Price</principal>
+                <principal>Kenneth J. Winkle</principal>
+                <respStmt>
+                    <resp>transcription and encoding</resp>
+                    <persName xml:id="ak">Alex Kinnaman</persName>
+                    <persName xml:id="el">Elizabeth Lorang</persName>
+                    <persName xml:id="bw">Becca Weir</persName>
+                    <persName xml:id="kk">Kourtney Klein</persName>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2015</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <idno>cww.02515</idno>
+                <distributor>Civil War Washington</distributor>
+                <publisher>University of Nebraska Lincoln</publisher>
+                <address>
+                    <addrLine>Center for Digital Research in the Humanities</addrLine>
+                    <addrLine>319 Love Library</addrLine>
+                    <addrLine>University of Nebraska-Lincoln</addrLine>
+                    <addrLine>P.O. Box 884100</addrLine>
+                    <addrLine>Lincoln, NE 68588-4100</addrLine>
+                </address>
+                <address>
+                    <addrLine>
+                        <email>cdrh@unl.edu</email>
+                    </addrLine>
+                </address>
+                <date>2015</date>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+                        <p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License (http://creativecommons.org/licenses/by-nc-sa/3.0/). Derivatives must be credited to Civil War Washington and R. J. Weir, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct xml:id="letter">
+                    <analytic>
+                        <author ref="#rh">R. H.</author>
+                        <title level="a">Editorial Correspondence</title>
+                    </analytic>
+                    <monogr>
+                        <title xml:id="paper" level="j">The Anglo-African</title>
+                        <imprint>
+                            <date xml:id="issue_date" when="1863-11-14">14 November 1863</date>                    
+                        </imprint>
+                        <biblScope type="pp">[1]</biblScope>                    
+                    </monogr>           
+                </biblStruct>
+                
+                <biblStruct xml:id="issue">               
+                    <monogr>
+                        <title level="j" sameAs="#paper"/>
+                        <imprint>
+                            <date sameAs="#issue_date"/>                  
+                        </imprint>              
+                    </monogr>                   
+                </biblStruct>                        
+            </sourceDesc>       
+        </fileDesc>
+        <encodingDesc> 
+            <p>This electronic text is a semi-diplomatic transcription of the source text. Hyphenation, punctuation, variant spellings, and errors present in the source text have been retained. The transcription does not attempt to capture all aspects of the original formatting or layout.</p>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <persName xml:id="rh">Hamilton, Robert</persName>
+                <persName xml:id="th">Hamilton, Thomas</persName>
+                <date when="1863">1863</date>
+            </creation>
+            <langUsage>
+                <language ident="en-US">modern American English</language>
+            </langUsage>
+            <textClass>
+                <classCode scheme="http://authorities.loc.gov">
+                    <term xml:id="sh85001817">African American churches</term>
+                    <term xml:id="sh85001818">African American clergy</term>
+                    <term xml:id="sh2006000311">African American fraternal organizations</term>
+                    <term xml:id="sh2009113992">African American soldiers--History--19th century</term>
+                    <term xml:id="sh2009113967">African Americans--Civil rights--History--19th century</term>
+                    <term xml:id="sh2009114063">African Americans--Washington (D.C.)</term>
+                    <term xml:id="no200910377">Arlington Heights (Arlington, Va.)</term>
+                    <term xml:id="sh85051692">Freedmen</term>
+                    <term xml:id="n80044891">Lee, Robert E. (Robert Edward), 1807-1870</term>
+                    <term xml:id="n79006779">Lincoln, Abraham, 1809-1865</term>
+                    <term xml:id="n2004072882">Montgomery, James, 1814-1871</term>
+                    <term xml:id="n50023269">Stanton, Edwin M. (Edwin McMasters), 1814-1869</term>
+                    <term xml:id="n79066574">Thompson, Joseph P. (Joseph Parrish), 1819-1879</term>
+                    <term xml:id="n50017339">Turner, Henry McNeal, 1834-1915</term>
+                    <term xml:id="n88026430">United States. Army. Massachusetts Infantry Regiment, 54th (1863-1865)</term>
+                    <term xml:id="n93053256">United States. Colored Troops</term>
+                </classCode>
+                <classCode scheme="http://civilwardc.org">
+                    <term>Alexandria (Va.)--History--Civil War, 1861-1865</term>
+                    <term>Dewey, Lewis F.</term>
+                    <term>Fellows, Stark</term>
+                    <term>Gladwin, Albert</term>
+                    <term>Groves, Caroline W.</term>
+                    <term>Hamilton, Robert, 1819-1870</term>
+                    <term>Hinton, Thomas H. C.</term>
+                    <term>Israel A.M.E. Church</term>
+                    <term>Mitchel, Harriet E.</term>
+                    <term>Sluby, Michael F.</term>
+                    <term>White, Sampson</term>
+                </classCode>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when="2015-04-07" who="#ak">corrected</change>
+            <change when="2015-04-02" who="#el">checked transcription and encoding and made necessary changes; updated TEI header, including keywords</change>
+            <change when="2015-03-31" who="#ak">added keywords</change>
+            <change when="2015-02-24" who="#ak">checked, corrected, updated xml:id</change>
+            <change when="2014-11-10" who="#ak">corrected transcription and encoding</change>
+            <change when="2014-04-14" who="#el">checked encoding; revised TEI header</change>
+            <change when="2014-05-02" who="#kk">transcribed, encoded</change>
+        </revisionDesc>
+    </teiHeader>
+    
+    <facsimile corresp="#issue">
+        <surface xml:id="pp1">
+            <graphic url="aa.18631114.pp1.jpg"/>
+            <zone xml:id="pp1_cropped" corresp="#letter">
+                <graphic url="aa.18631114.pp1_cropped.jpg"/>
+            </zone>
+        </surface>
+        <surface xml:id="pp2">
+            <graphic url="aa.18631114.pp2.jpg"/>
+        </surface>
+        <surface xml:id="pp3">
+            <graphic url="aa.18631114.pp3.jpg"/>
+        </surface>
+        <surface xml:id="pp4">
+            <graphic url="aa.18631114.pp4.jpg"/>
+        </surface>
+    </facsimile>
+    
+    <text corresp="#letter #pp1_cropped">
+        <body>
+            <div>
+                <head type="main" subtype="authorial" rend="center"><emph rend="italic">EDITORIAL CORRESPONDENCE.</emph></head>
+                
+                <milestone unit="undeclared" rend="medium-bar"/>
+                
+                <head type="sub" subtype="authorial" rend="center">ACCEPTED ORDER OF BROTHERS AND SISTERS OF LOVE <lb/>AND CHARITY.</head>
+                
+                <p>The first celebration and entertainment of <lb/><emph rend="smallcaps">Grand Tabernacle</emph>, No. 2, of the above named <lb/>Order came off in Israel church (of which the <lb/>Rev. H. M. Turner, is pastor), on the evening <lb/>of the 15th <choice><abbr>inst</abbr><expan>instant</expan></choice>.</p>
+                
+                <p>Having received a very polite invitation to <lb/>be present from the "General Grand Worthy <lb/>Superior," W. H. Thomas, we repaired to the <lb/>house at an early hour, and although the <choice><orig>wea-<lb/>ther</orig><reg>weather</reg></choice> was quite stormy, the place was soon <lb/>crowded by well-dressed ladies and <choice><orig>gentle-<lb/>men</orig><reg>gentlemen</reg></choice>.</p>
+                
+                <p>The Order, clothed in full regalia, turned out <lb/>in great numbers, filling almost all the pews <lb/>in the body of the church.</p>
+                
+                <p>The first on the programme was remarks by <lb/>Mr. Hughes which were very short, indeed the <lb/>people could scarcely entertain the idea that a <lb/>gentleman would come all the way from <choice><orig>Phila-<lb/>delphia</orig><reg>Philadelphia</reg></choice> to speak only ten minutes.</p>
+                
+                <p>The choir of the church, under Messrs. <choice><orig>Tin-<lb/>ney</orig><reg>Tinney</reg></choice> and Wilkinson gave us some fine music, <lb/>which partly compensated for a <choice><orig>disappoint-<lb/>ment</orig><reg>disappointment</reg></choice>. What Mr. Hughes said was very good, <lb/>but only served to whet the appetite, hence we <lb/>were very sorry when the gentleman took his <lb/>seat, for we could not help coming to the <lb/>conclusion that the audience would say that <lb/>they had been humbugged.</p>
+                
+                <p>The speech of Mr. Thomas was much more <lb/>lengthy, and afforded great satisfaction to the <lb/>audience. His remarks were impromptu, but <lb/>in some parts were really brilliant, although <lb/>he made an apology for not being prepared to <lb/>speak at length on the occasion. Mr. T. is an <lb/>easy and graceful speaker, and had he had an <lb/>opportunity to an education would have been <lb/>one of the first men of the nation.</p>
+                
+                <p>The entertainment given in the lecture room <lb/>was a very splendid affair. Washington was <lb/>out in all its beauty and fashion&#8212;and many of <lb/>its ladies <emph rend="italic">are</emph> beautiful, and the gentlemen vied <lb/>with each other in urbanity of manners. The <lb/>large room was densely crowded, yet no unkind <lb/>word did we hear. The viands prepared by <lb/>the Sisters for the occasion were of the choicest <lb/>kind, and in the greatest profusion; and every <lb/>body retired about 3 o'clock, well satisfied <lb/>with the evening's enjoyment.</p>
+            </div>
+            
+            <div>
+                <head type="main" subtype="authorial" rend="center">A VISIT TO THE SECOND REGIMENT U. S. COLORED <lb/>
+            TROOPS AT CAMP CHASE, VA.</head>
+            
+            <p>Under the guidance of Mr. Clark and in his <lb/>coach, on the 27th <choice><abbr>inst.</abbr><expan>instant</expan></choice>, in company with the <lb/>Rev. H. M. Turner, Mr. Thos. H. C. Hinton and <lb/>Madame C. W. Groves, we paid a visit to this <lb/>regiment.</p>
+            
+            <p>The camp is about four miles from the Long <lb/>Bridge, and is situated on Arlington Heights <lb/>not very far from the late residence of the <choice><orig>far-<lb/>famed</orig><reg>far-famed</reg></choice> rebel Gen. Lee.</p>
+            
+            <p>The day was quite cold and blustering, <choice><orig>mak-<lb/>ing</orig><reg>making</reg></choice> a camp-fire necessary, and the soldiers had <lb/>builded many of them, and were erecting small <lb/>brick chimneys in the rear of their tents, as <lb/>though they were preparing for a long stay; <lb/>but we were informed by Capt. L. V. Dewy&#8212;to <lb/>whom we return thanks for civilities kindly <lb/>shown us&#8212;that they expected that the <choice><orig>regi-<lb/>ment</orig><reg>regiment</reg></choice> might move in about two weeks, but to <lb/>what point they would be sent, of course, he <lb/>did not know.</p>
+            
+            <p>Much trouble has been experienced in camp, <lb/>because the men have not received the full pay <lb/>of United States soldiers, and many of them <lb/>complain that they cannot get even the seven <lb/>dollars which the government is now paying its <lb/>colored troops.</p>
+            
+            <p>The complaint is a just one, in regard to the <lb/>amount paid, and will doubtless be remedied at <lb/>the next session of Congress, as the President <lb/>and Cabinet, with many members of both <lb/>Houses, have pledged themselves to use their <lb/>influence for that purpose, so our boys must <lb/>have a little patience; this they will have <lb/>when they recollect that the circumstances <lb/>surrounding the last Congress were such, that <lb/>the securement of any pay at all for colored <lb/>troops&#8212;or even their enlistment&#8212;was looked <lb/>upon at that time, as a great triumph in the <lb/>right direction.</p>
+            
+            <p>This journal has done what it could to get <lb/>these men in the field, and of course will <lb/>spread their grievances before the <choice><orig>authori-<lb/>ties</orig><reg>authorities</reg></choice>, until full justice is done them; but we <lb/>cannot close our eyes to the fact, that the <lb/>government is doing all it lawfully can to <choice><orig>ame-<lb/>liorate</orig><reg>ameliorate</reg></choice> their condition.</p>
+            
+            <p>Soldiers! You did not enter the service to <lb/>fight for money, for many of you would turn up <lb/>your nose at $13 dollars per month if offered to <lb/>you in civil service; and many of you never in <lb/>all your life, got one cent of pay for your <choice><orig>ser-<lb/>vices</orig><reg>services</reg></choice>; can you not therefore have a little <lb/>patience? Shall our enemies and the enemies <lb/>of the country, say that even you are fighting <lb/>for money? God forbid. Let not the smell of <lb/>this taint be found on your garments. Enter <lb/>protests like men, but do your duty like <choice><orig>sol-<lb/>diers</orig><reg>soldiers</reg></choice>, and all will yet be well. Your country <lb/>will the sooner acknowledge your magnanimity <lb/>and render that justice which is pre-eminently <lb/>your due.</p>
+            
+            <p>Col. Fellows, who had charge of the camp, <lb/>is one of the finest looking men that we ever <lb/>saw; and is a perfect gentleman. We are <lb/>very confident that no such language will <lb/>ever fall from his lips, as that uttered by that <lb/>mean and contemptible ruffian, Col. Jim <choice><orig>Mont-<lb/>gomery</orig><reg>Montgomery</reg></choice>, to the heroes of our glorious 54th <lb/>Massachusetts Regiment. It is the greatest <lb/>wonder that some one of them did not put a <lb/>a ball through his heart, and thus rid the <choice><orig>ser-<lb/>vice</orig><reg>service</reg></choice> of such a brute.</p>
+            
+            <p>Is it not a great pity that such a fellow is <lb/>permitted, even for a moment, to command <lb/>colored men? The colored people of the United <lb/>States must solicit from the proper authorities <lb/>his instantaneous removal, and knowing the <lb/>honorable Secretary of War, and the President <lb/>as we do now, we cannot doubt that that <choice><orig>remo-<lb/>val</orig><reg>removal</reg></choice> will be effected.</p>
+            
+            <p>Col. Fellows turned a portion of the <choice><orig>regi-<lb/>ment</orig><reg>regiment</reg></choice> out at 2 o'clock for drill, and our heart <lb/>swelled with unalloyed pride and joy at the <lb/>great perfection which these our long oppressed <lb/>brethren have arrived at.</p>
+            
+            <p>We were happy to find that faithful friend of <lb/>humanity, Rev. Jos. P. Thompson, D. D., of the <lb/>Broadway Tabernacle, New York city, in camp. <lb/>He was paying a visit to his son who is an <lb/>officer in the regiment.</p>
+            
+            <p>When the drilling exercises were about half <lb/>through with Col. Fellows threw the men into <lb/>a hollow square, and then kindly invited us to <lb/>say a word.</p>
+            
+            <p>We opened "the meeting" by singing the <lb/>song "Freedom reigns to-day," into the chorus <lb/>of which the soldiers joined with much spirit, <lb/>and we detected the fact, that many of them <lb/>are excellent singers.</p>
+            
+            <p>The Rev. H. M. Turner, was then introduced <lb/>and entertained the soldiers with some <choice><orig>practi-<lb/>cal</orig><reg>practical</reg></choice> remarks. He particularly dwelt upon the <lb/>bad habit of swearing, which is generally <lb/>contracted in camp, and urged those of his <lb/>hearers, who were addicted to it, to cease, and <lb/>warned them that if they fell on the field of <lb/>battle with this sin upon them, God would <lb/>not save them, even though they fell gallantly <lb/>fighting for liberty.</p>
+                
+            <p>The Rev. Dr. Thompson then made some very <lb/>eloquent and witty remarks. He congratulated <lb/>the soldiers on their altered condition; and <choice><orig>ex-<lb/>horted</orig><reg>exhorted</reg></choice> them to remember that God brought all <lb/>these blessings to them, and that praise and <lb/>adoration are supremely His due. He referred <lb/>in eloquent terms to the fact that the Goddess <lb/>of Liberty has not yet been raised on the dome <lb/>of the capitol; and trusted that when she was, <lb/>she would be able to look out upon a country <lb/>everywhere free.</p>
+                
+            <p>Mr. Thomas H. C. Hinton, whose capabilities <lb/>our readers all know, then made one of his <lb/>characteristic speeches, to which all listened <lb/>with deep interest, and portions of which was <lb/>greeted with shouts of laughter. He entreated <lb/>the men to be patient, faithful and obedient to <lb/>their officers, stating his belief that the coming <lb/>Congress would wipe out the disgraceful <choice><orig>enact-<lb/>ment</orig><reg>enactment</reg></choice> whereby they only receive ten dollars for <lb/>doing that for which white men get thirteen <lb/>dollars. His remarks were greatly applauded <lb/>and we have been told since, produced a very <lb/>good effect in camp.</p>
+                
+            <p>The soldiers were then taken in hand by <lb/>their commander, and put through various <lb/>man&#339;uvers, which were deeply interesting, <lb/>and very perfect.</p>
+                
+            <p>After a brief visit to the quarters of a few <lb/>families of freedmen, which are situated a <lb/>short distance from the camp; we wended our <lb/>way to Washington, highly delighted with our <lb/>visit to the 2d United States Regiment of <lb/>Colored Troops.</p>
+            </div>
+            
+            <div>
+                <head type="main" subtype="authorial" rend="center">ALEXANDRIA, VA.</head>
+            
+            <p>This town is now a deeply interesting field <lb/>of labor, and the necessity for laborers will be <lb/>best understood, when we state the fact, that <lb/>the Rev. Messrs. Parker and Robinson not only <lb/>teach a very large number of scholars in Gen. <lb/>Washington's old school-house in the day time, <lb/>but they both preach and teach at night and on <lb/>the Sabbath.</p>
+                
+            <p>Mr. J. H. Hill has also an interesting school, <lb/>but his accommodations for it are entirely <choice><orig>inade-<lb/>quate</orig><reg>inadequate</reg></choice>. The very best of order is kept in the <lb/>school, and the children show much proficiency.</p>
+                
+             <p>Miss H. E. Mitchel is the assistant in this <lb/>school.</p>
+                
+            <p>Misses R. Lyals and R. Lancaster also keep <lb/>school there, but we did not have time to <lb/>visit it.</p>
+                
+            <p>The Rev. M. F. Sluby, Pastor of Bethel, has <lb/>also opened a school, as has a gentleman by <lb/>the name of Harris. As we are under <choice><orig>engage-<lb/>ment</orig><reg>engagement</reg></choice> to return to Alexandria, we shall then <lb/>be able to give some account of their <choice><orig>opera-<lb/>tions</orig><reg>operations</reg></choice>.</p>
+            </div>
+            
+            <div>
+                <head type="main" subtype="authorial" rend="center">COLORED CHURCHES.</head>
+            
+            <p>How many churches our people have in <choice><orig>Alex-<lb/>andria</orig><reg>Alexandria</reg></choice> we cannot say, as one week's account <lb/>will not answer for the next, but we only <lb/>visited, and held meetings in two, the Bethel <lb/>A. M. E. church and the Baptist church, of <lb/>which the Rev. Sampson White is now pastor.</p>
+                
+                <p>The trustees of both these churches very <lb/>kindly granted us the use of their houses <lb/>gratis, and we have no doubt but that Mt. Zion <lb/>(old side) would have been granted on the same <lb/>terms, had not the house been undergoing <choice><orig>re-<lb/>pairs</orig><reg>repairs</reg></choice> at the time. The trustees of the two <lb/>churches above named will please receive our <lb/>most grateful thanks for their liberality.</p>
+            </div>
+            
+            <div>
+                <head type="main" subtype="authorial" rend="center">THE FREEDMEN AND THEIR SUPERINTENDENT.</head>
+            
+            <p>We paid a long visit to the superintendent <lb/>and hence were obliged to pay a short one to <lb/>the quarters, but that visit reminded us very <lb/>much of a Northerner's visit to the plantations <lb/>of the South, a good while with the master, <lb/>but a short time with the slave, and that short <lb/>time spent in the presence of the master.</p>    
+                
+             <p>The Rev. Mr. Gladwin was very kind to us <lb/>and took a great deal of trouble to show Mr. <lb/>Hinton and ourself his books and also his <choice><orig>com-<lb/>mission</orig><reg>commission</reg></choice> from government, <emph rend="italic">which gave him full <lb/>police charge of all the freedmen</emph> in Alexandria. <lb/>He also conducted us through the school and <lb/>quarters, but notwithstanding all this a very <lb/>disagreeable suspicion hung about us that all <lb/>was not right. We had heard and have since <lb/>heard many disagreeable things about his <lb/>management, and seeing, by his commission, <lb/>that he had unlimited power as a magistrate, <lb/>and also that a portion of his salary, which is <lb/>$1,200 per annum, <emph rend="italic">comes out of the rent which <lb/>the freedmen pay</emph>, we could not help thinking <lb/>that the <emph rend="italic">magistrate</emph> might be induced at some <lb/>time or another to turn the screws on the <lb/>tenants for the benefit of the <emph rend="italic">landlord</emph>. <choice><orig>Know-<lb/>ing</orig><reg>Knowing</reg></choice> mankind as well as we do, we earnestly <lb/>protest against such power being put into the <lb/>hands of anybody, be he who he may.</p>
+                    
+             <p>Beneficial societies are quite numerous in <lb/>Alexandria, and we are pleased to say that it <lb/>is not without its Masonic and Odd Fellows <lb/>Lodges.</p>
+            </div>    
+            <closer><signed rend="right">R. H.</signed>
+            <dateline>Washington, Oct. 30th, 1863.</dateline></closer>
+            
+        </body>
+    </text>
+    
+</TEI>
+

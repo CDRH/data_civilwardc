@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d2e30967">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Meyer, J. H.</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+       <idno>med.d2e30967</idno>
+       <authority>Civil War Washington</authority>
+       <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor>
+       <name>Center for Digital Research in the Humanities</name>
+       <address><addrLine>319 Love Library</addrLine>
+       <addrLine>University of Nebraska–Lincoln</addrLine>
+       <addrLine>Lincoln, NE 68588-4100</addrLine>
+       <addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+    </distributor>
+    <date>2011</date>
+    <availability>
+        <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+         republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+         law, requires express written consent from the editors and advance notification of the
+         publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+ <persName xml:id="kw">Kenneth Winkle</persName> 
+     <persName xml:id="mb">Matthew Bosley</persName>
+     <persName xml:id="bl">Ben Lesiak</persName>
+     <persName xml:id="kk">Kourtney Klein</persName>
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl>
+     <title level="j">The Medical and Surgical History of the War of the Rebellion. (1861-65.)</title>
+     <pubPlace>Washington, DC</pubPlace>
+     <publisher>Government Printing Office</publisher>
+     <biblScope type="part">Part 2</biblScope>
+     <biblScope type="volume">Volume 2</biblScope>
+     <date when="1876">1876</date>
+     <biblScope type="page">956</biblScope>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+       <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+      <keywords scheme="#medsurg">
+       <term>wounds and injuries of the upper extremities</term>
+       <term>wounds and operations of the forearm</term>
+       <term>shot wounds of the forearm</term>
+       <term>shot fractures of the forearm</term>
+       <term>excisions in the continuity of the bones of the forearm for shot injury</term> 
+       <term>intermediary excisions in the bones of the forearm</term> 
+       <term>recoveries after intermediary excisions</term>
+       <term>secondary h&#230;morrhage from brachial artery</term>
+       <term>ball entered middle of forearm, produced comminuted fracture of radius, exited inner surface through flexor muscle</term> 
+       <term>woman nurse</term>
+       <term>tourniquet used to diminish force of pulse</term>
+       <term>amputation of arm in lower third</term>
+       <term>false <choice><orig>aneurism</orig><reg>aneurysm</reg></choice> of common interosseous artery</term>
+       <term>wound of arm, severe</term>        
+       <term>general anesthesia, ether</term>
+     </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+ <change who="#kw" when="2014-05">blessed</change>
+   <change who="#kk" when="2014-01-22">added figure encoding</change>
+   <change who="#mb" when="2012-07-09">additional proofing of transcription and encoding, identified keyword terms</change>
+   <change who="#bl" when="2011-02-24">checked OCR; added minimal mark-up for personal names, place names, and dates</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>   
+   <p><hi rend="initialcap">C</hi>ASE 1914.&#8212;<name type="person" key="xxx">Captain J. H. Meyer</name>, <name type="organization" key="xxx">Co. G, 11th New Jersey</name>, aged 34 years, was wounded at <name type="BATTLE" key="10">Chancellorsville</name>, <date type="injury" when="1863-05-03">May 3, 1863</date>. <name type="person" key="xxx">Assistant Surgeon G. Kibble</name>, of <name type="organization" key="xxx">the regiment</name>, recorded the injury as &#34;wound of arm, severe.&#34;  On May 9th, the patient reached <name type="place" key="#Washington">Washington</name>, where he was treated by <name type="person" key="938">Surgeon C. L. Allen</name>, <name type="organization" key="132">U. S. V.</name>, who contributed the two specimens with the following report:  &#34;The ball entered externally near the middle of the left forearm, producing a comminuted fracture of the radius, and making its exit from the inner surface through the flexor muscle. The wound of exit was large and ragged. He had obtained a leave of absence, and as I saw him incidentally, he requested me to dress his wound before starting for his home. On examination, I found many fragments of bone lying irregularly in the wound, and recommended him to remain and have them removed.  May 14th, being well etherized, the wound of exit was enlarged upward and downward and about twenty fragments of bone of different sizes were removed. The oblique points of the upper and lower portions of the radius were excised by the chain saw. The space left measured about two and a half inches. No vessel required ligating, and very little blood was lost. The fresh-cut extensions of the wound were approximated and secured by pins, two above and one below the original wound.  20th, he has suffered no pain since the operation, from which he was scarcely free a moment before. There is considerable swelling of the whole forearm; no union under the pins, and they were today removed.  25th, forearm considerably swollen, and &#339;dematous around the elbow. About three o'clock P. M. some h&#230;morrhage occurred, which soon ceased.  28th, about five o'clock P. M. h&#230;morrhage commenced profusely, a steady stream of arterial blood, of the size of a crow's quill, pouring forth from the larger wound, some blood flowing also from the smaller wound (that of the entrance). The nurse (a woman) compressed the brachial artery with her fingers until a Lieutenant, who happened to be in the house, applied a Lambert's tourniquet. The loss of blood was estimated at from fifteen to twenty ounces. The  tourniquet was continued on the arm, but loosened so as to allow of distinct pulsation of the radial artery at the wrist without recurrence of h&#230;morrhage.  31st, the bowels having become somewhat constipated, he took, this morning, some sulphate of magnesia. The tourniquet has been continued sufficiently tight to diminish the force of the pulse, but not so as to stop it. About five o'clock P. M., while having the first evacuation from the bowels in answer to this morning's laxative, there was a h&#230;morrhage of one or two ounces, readily checked by tightening the tourniquet. His pulse was 96 per minute, and has been between 90 and 100 constantly since the first h&#230;morrhage.  June 1st, slight, h&#230;morrhage at five o'clock P. M., and again at ten o'clock P. M.; pulse 96.  <date type="operation" when="1863-06-02">2d</date>, since May 31st the bowels have been quite loose, and during the night he was up quite frequently to defecate. At half-past two o'clock this morning h&#230;morrhage again commenced, not profusely but persistently, and could not be controlled by tightening the tourniquet, which now, although very tightly applied, did not stop pulsation at the wrist. The brachial artery was held for a considerable time by hand; pulse 120. He has suffered much pain, and had full doses of tincture of opium during the night. At ten o'clock A. M., amputation of the arm in its lower third was performed by <name type="person" key="xxx">Surgeon W. Moss</name>, <name type="organization" key="132">U. S. V.</name>  The operation was by double flap of skin, the muscles being cut circularly. He was etherized readily and no unpleasant symptom was manifested. The brachial artery was held by the hand, and there was no h&#230;morrhage other than venous from the part removed. The brachial artery and three branches were ligated.  The wound was left open and exposed to the air until four o'clock P. M., when the flaps were nicely coaptated and held by strips of ichthyocolla plaster simply.  7th, the stump has nearly all healed by first intention, there being only slight dripping from the inner angle of the wound, where the free ends are brought out. He has been somewhat restless part of the time and has taken tincture of opium. He has also taken compound tincture of cinchona with the addition, during the last two days, of a few drops of tincture cantharides.  8th, during the night has been very restless, and occasionally delirious. All medicines were omitted, and he was soothed by being held by the hand gently and quietly spoken to.  13th, he has steadily continued to improve, taking no medicine except occasionally a dose of tincture of opium to check the diarrh&#339;a, which has persisted but has not been severe.  18th, gaining finely. The ligature of the brachial artery and two of the others have come away today.  19th, the last ligature came away; discharge small in quantity but slightly bloody.  22d, he is feeling very well; got a leave of absence for thirty days, and started for his home.&#34;  The specimen, represented in the cut (<hi rend="initialcap">F</hi>IG. 699), consists of the bones of the forearm, and shows a space of excision of several inches in the radius. The excised extremities are necrosed, and periosteal disturbance is observable in the ulna opposite the seat of injury. The majority of the excised fragments are mounted with the specimen. The other specimen consists of a wet preparation of the soft tissues of the elbow, showing a false <choice><orig>aneurism</orig><reg>aneurysm</reg></choice> of the common interosseous, the injury, which is seated near the bifurcation, being due to a fragment of bone which is still embedded in the part. (<hi rend="italic">Cat. Surg. Sect.</hi>, 1860, p. 456, <hi rend="italic">Spec</hi>. 1190.)  <name type="person" key="xxx">Captain Meyer</name> was mustered out <date type="hospitaldischarge" when="1863-11-12">November 12, 1863</date>, and entered the Veteran Reserve Corps <date type="duty" when="1863-12">several weeks afterward</date>. He was discharged from service <date type="servicedischarge" when="1866-03-24">March 24, 1866</date>, and pensioned. In his application for commutation, in <date type="pension" when="1870">1870</date>, he reported the stump as in good condition. The pensioner was paid <date type="pension" when="1875-09-04">September 4, 1875</date>.</p>
+   
+   <figure>
+    <graphic url="cww.001702.001" />
+    <head><hi rend="initialcap">F</hi>IG. 699.&#8212;Bones of right forearm.  Three and a half inches of radius excised.    <hi rend="italic">Spec</hi>. 1189.</head>
+   </figure> 
+   
+  </body>
+ </text>
+</TEI>

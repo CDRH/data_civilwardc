@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e41266">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Pilock, James</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+    <idno>med.d1e41266</idno>
+       <authority>Civil War Washington</authority>
+       <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor>
+       <name>Center for Digital Research in the Humanities</name>
+       <address><addrLine>319 Love Library</addrLine>
+       <addrLine>University of Nebraska–Lincoln</addrLine>
+       <addrLine>Lincoln, NE 68588-4100</addrLine>
+       <addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+    </distributor>
+    <date>2011</date>
+    <availability>
+        <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+         republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+         law, requires express written consent from the editors and advance notification of the
+         publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+     <persName xml:id="mb">Matthew Bosley</persName>
+     <persName xml:id="el">Elizabeth Lorang</persName>
+     <persName xml:id="sb">Stacey Berry</persName>
+     <persName xml:id="ao">Alyssa Olson</persName>
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl>
+     <title level="j">The Medical and Surgical History of the War of the Rebellion. (1861-65.)</title>
+     <pubPlace>Washington, DC</pubPlace>
+     <publisher>Government Printing Office</publisher>
+     <biblScope type="part">Part 2</biblScope>
+     <biblScope type="volume">Volume 1</biblScope>
+     <date when="1879">1879</date>
+     <biblScope type="page">183</biblScope>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+       <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+      <keywords scheme="#medsurg">
+       <term>diarrh&#339;a and dysentery</term>
+       <term>fatal cases of diarrh&#339;a and dysentery, with accounts of the morbid appearances observed</term>
+       <term>from Lincoln Hospital, Washington, D. C.</term>
+       <term>chronic dysentery</term>
+       <term>both lungs firmly adherent to diaphragm</term>
+       <term>lower small intestine much congested</term>
+       <term>diverticulum above ileoc&#230;cal valve</term>
+       <term>mucous membrane of large intestine studded with ulcers</term>       
+       <term>autopsy performed</term>       
+     </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change who="#mb" when="2012-11-21">additional proofing of transcription and encoding, identified keyword terms</change>
+   <change who="#el" when="2010-11-05">case text extracted and transformed from larger file</change>
+   <change who="#sb" when="2010-05-01">enrich encoding, proof and edit</change>
+   <change who="#ao" when="2008-10-02">encoding and editing</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body> 
+   <p>Case from the case-book of <name type="hospital" key="176"><hi rend="initialcap">L</hi>INCOLN <hi rend="initialcap">H</hi>OSPITAL</name>, Washington, D. C.; <name type="person" key="243">Surgeon J. Cooper McKee</name>, <name type="organization" key="190">U. S. A.</name>, in charge.</p>
+   <p><hi rend="initialcap">C</hi>ASE 418.&#8212;<name type="person" key="xxx">Private James Pilock</name>, <name type="organization" key="xxx">company B, 20th Indiana volunteers</name>; age 18; admitted from the depot hospital of the 2d Army Corps, <name type="place">City Point, Virginia</name>, <date type="admit" when="1864-12-16">December 16 , 1864</date>.  Chronic dysentery.  Treatment: Tonics, alteratives, and counter-irritants.  Died, <date type="death" when="1865-01-12">January 12, 1865</date>.&#8212;<name type="person" key="xxx">Acting Assistant Surgeon John Morris</name>.   <hi rend="italic">Autopsy</hi> <date type="autopsy" when="1865-01-12">five hours after death</date>: Height five feet seven inches; body rigid and very much emaciated. The larynx and trachea were normal. Both lungs were firmly adherent to the diaphragm, and presented evidences of slight bronchitis in their lower lobes; the right lung weighed eight ounces, the left eleven. The heart weighed six ounces and a half; its right side contained a very large fibrinous clot, the left side a long vermiform one. The liver, spleen, and kidneys appeared to be normal; the liver weighed fifty-one ounces and a half; the spleen five ounces; the kidneys four ounces each. The lower part of the small intestine was very much congested; a diverticulum, two inches long and half an inch in diameter, was found five feet and a half above the ileoc&#230;cal valve. The mucous membrane of the large intestine was studded with ulcers.&#8212;<name type="person" key="246">Acting Assistant Surgeon H. M. Dean</name>.</p>
+  </body>
+ </text>
+</TEI>

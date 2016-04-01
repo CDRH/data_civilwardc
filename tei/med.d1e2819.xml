@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e2819">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Carr, James</title>
+                <title level="m" type="sub">a machine readable transcription</title>
+                <principal>Susan C. Lawrence</principal>
+                <principal>Kenneth M. Price</principal>
+                <principal>Kenneth J. Winkle</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2011</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <idno>med.d1e2819</idno>
+                <authority>Civil War Washington</authority>
+                <publisher>University of Nebraska–Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+                </distributor>
+                <date>2011</date>
+                <availability>
+                    <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved.
+                        Redistribution or republication in any medium, except as allowed under the
+                        Fair Use provisions of U.S. copyright law, requires express written consent
+                        from the editors and advance notification of the publisher, the University
+                        of Nebraska–Lincoln.</p>
+                </availability>
+            </publicationStmt>
+            <notesStmt>
+                <note type="project">The following are responsible for particular readings or for changes to this file, as noted: 
+                    <persName xml:id="mb">Matthew Bosley</persName>
+                    <persName xml:id="el">Elizabeth Lorang</persName>
+                    <persName xml:id="sb">Stacey Berry</persName>
+                    <persName xml:id="et">Elisabeth Tracey</persName>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>The Medical and Surgical History of the War of the Rebellion. (1861&#8211;65.)</title>
+                    <editor role="compiler">Surgeon General Joseph K.Barnes, United States Army</editor>
+                    <pubPlace>Washington, D.C.</pubPlace>
+                    <publisher>Government Printing Office</publisher>
+                    <biblScope type="part">Part 1</biblScope>
+                    <biblScope type="volume">Volume 2</biblScope>
+                    <date when="1870">1870</date>
+                    <biblScope type="page">42</biblScope>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <classDecl>
+                <taxonomy xml:id="medsurg">
+                    <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme="#medsurg">
+                    <term>on special wounds and injuries of the head</term>
+                    <term>wounds and injuries of the head</term>
+                    <term>miscellaneous injuries of the head</term>
+                    <term>falls</term> 
+                    <term>simple or compound fractures of the cranium produced by falls</term>
+                    <term>fell from his horse</term>
+                    <term>completely unconscious with insensible pupils and stertorous breathing</term>
+                    <term>wound of frontal region with fracture, depression of inner table of skull</term>
+                    <term>abscess immediately beneath frontal bone</term>   
+                    <term>autopsy performed</term>
+                    <term>depression of inner table of frontal bone</term>
+                    <term>abscess immediately beneath frontal bone, filled with sanious pus, sulci adherent</term>                        
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change who="#mb" when="2013-05-14">additional proofing of transcription and encoding, edited and added keyword terms</change>
+            <change who="#mb" when="2011-10-13">additional proofing of transcription and encoding</change>
+            <change who="#mb" when="2011-06-03">additional proofing of transcription and encoding</change>
+            <change who="#el" when="2011-11-05">case text extracted and transformed from larger file</change>
+            <change who="#sb" when="2011-02-09">enriched encoding</change>
+            <change who="#sb" when="2011-01-28">validated file</change>
+            <change who="#et" when="2009-08-01">encoded</change>
+            <change who="#sb" when="2008-09-22">initial checking of OCR text against PDF; encoded</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body xml:id="ch1.sc2.0005">            
+            <p><hi rend="initialcap">C</hi>ASE.&#8212;<name type="person" key="100">Private
+                        James Carr</name>, <name type="organization" key="112">Co. G, 6th United
+                        States Cavalry</name>, aged 24 years, fell from his horse on <date
+                        type="injury" when="1863-07-06">July 6th, 1863</date>, receiving a wound of
+                    the frontal region with fracture, and depression of the inner table of the
+                    skull. He was admitted to <name type="hospital" key="167">Carver
+                    Hospital</name>, Washington, on <date type="admit" when="1863-07-24">July
+                        24th</date>, in an irritable, morose, and restless condition. Three days
+                    subsequently he was slightly delirious, and respiration was difficult. In the
+                    afternoon he became completely unconscious, with insensible pupils and
+                    stertorous breathing, and death ensued in a few hours, on <date type="death"
+                        when="1863-07-27">July 27th, 1863</date>.   The autopsy revealed a depression
+                    of the inner table of the frontal bone, and an abscess immediately beneath,
+                    filled with sanious pus, and surrounded with plastic lymph. Many of the sulci
+                    were adherent, and patches of lymph were distributed on the anterior and middle
+                    lobes of the brain.   <name type="person" key="102">Surgeon O. A. Judson</name>,
+                        <name type="organization" key="132">U. S V.</name>, reports the case.</p>            
+        </body>
+    </text>
+</TEI>

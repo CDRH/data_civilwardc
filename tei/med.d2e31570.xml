@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d2e31570">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Bessey, R.</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+       <idno>med.d2e31570</idno>
+       <authority>Civil War Washington</authority>
+       <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor>
+       <name>Center for Digital Research in the Humanities</name>
+       <address><addrLine>319 Love Library</addrLine>
+       <addrLine>University of Nebraska–Lincoln</addrLine>
+       <addrLine>Lincoln, NE 68588-4100</addrLine>
+       <addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+    </distributor>
+    <date>2011</date>
+    <availability>
+        <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+         republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+         law, requires express written consent from the editors and advance notification of the
+         publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+     <persName xml:id="mb">Matthew Bosley</persName>
+     <persName xml:id="ts">Tom Schmidt</persName>
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl>
+     <title level="j">The Medical and Surgical History of the War of the Rebellion. (1861-65.)</title>
+     <pubPlace>Washington, DC</pubPlace>
+     <publisher>Government Printing Office</publisher>
+     <biblScope type="part">Part 2</biblScope>
+     <biblScope type="volume">Volume 2</biblScope>
+     <date when="1876">1876</date>
+     <biblScope type="page">67-68</biblScope>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+       <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+      <keywords scheme="#medsurg">
+       <term>injuries of the abdomen</term>
+       <term>penetrating wounds of the abdomen</term>
+       <term>wounds of the small intestines</term>
+       <term>gunshot wounds</term>
+       <term>wounds of the duodenum</term> 
+       <term>ball entered right hypochondrium, emerged near tenth dorsal vertebra</term>
+       <term>h&#230;matemesis, epigastric pain, bloody stools</term>
+       <term>dejections tinged with blood</term>       
+     </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change who="#mb" when="2012-08-08">additional proofing of transcription and encoding, identified keyword terms</change>
+   <change who="#ts" when="2011-02-20">checked OCR; added minimal mark-up for personal names, place names, and dates</change>   
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body> 
+   <p><hi rend="initialcap">C</hi>ASE 214.&#8212;<name type="person" key="xxx">Corporal R. Bessey</name>, <name type="organization" key="xxx">Co. A, 17th Vermont</name>, aged 19 years, was wounded at <name type="place">Hanover Court House</name>, <date type="injury" when="1864-05-31">May 31, 1864</date>, by a musket ball, which entered the right hypochondrium, and emerged to the right of the tenth dorsal vertebra, implicating the duodenum and probably the liver. There was h&#230;matemesis and extreme epigastric tenderness and pain, followed by bloody stools. <name type="person" key="xxx">Surgeon James Harris</name>, <name type="organization" key="xxx">7th Rhode Island</name>, enjoined absolute rest, with abstinence and opiates.  The patient was, however, sent to <name type="place">Washington</name>, and <name type="person" key="xxx">Acting Assistant Surgeon E. B. Harris</name>, at <name type="hospital" key="172">Emory Hospital</name>, reports that there was much tension and tenderness of the abdomen, with nausea, and dejections tinged with blood.  The case terminated fatally, <date type="death" when="1864-06-18">June 18, 1864</date>.</p>      
+  </body>
+ </text>
+</TEI>

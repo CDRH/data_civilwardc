@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d2e11673">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Hubbard, Alvin</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+    <idno>med.d2e11673</idno>
+    <authority>Civil War Washington</authority>
+    <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor><name>Center for Digital Research in the
+     Humanities</name><address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address></distributor>
+    <date>2011</date>
+    <availability>
+     <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+      republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+      law, requires express written consent from the editors and advance notification of the
+      publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+     <persName xml:id="mb">Matthew Bosley</persName>
+     <persName xml:id="el">Elizabeth Lorang</persName>
+     <persName xml:id="sb">Stacey Berry</persName>
+     <persName xml:id="et">Elisabeth Tracey</persName>
+     <persName xml:id="ss">Sarah Synovec</persName>     
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title level="j">The Medical and Surgical History of the War of the Rebellion.
+      (1861-65.)</title><pubPlace>Washington, DC</pubPlace><publisher>Government Printing
+      Office</publisher><biblScope type="part">Part 3</biblScope><biblScope type="volume">Volume
+      2</biblScope><date when="1883">1883</date><biblScope type="page">273</biblScope></bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+     <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <keywords scheme="#medsurg">
+     <term>wounds and injuries of the lower extremities</term> 
+     <term>injuries of the shaft of the femur</term>
+     <term>amputations in the shaft of the femur</term> 
+     <term>intermediary amputations in the shaft of the femur for shot injury</term>
+     <term>intermediary amputations in the upper third of the femur</term> 
+     <term>successful cases of intermediary amputations in the upper third of the femur</term>      
+     <term>left patella dislocated upward, leg can only semi-flex</term>
+     <term>fractured patella and opened joint of right knee</term>
+     <term>large flesh wound on inner side of left knee</term>
+     <term>solid shot or fragment of shell struck both knees</term> 
+     <term>general anesthesia, chloroform</term>
+     <term>amputation of femur close to trochanter</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change who="#mb" when="2012-05-16">additional proofing of transcription and encoding, identified keyword terms</change>
+   <change who="#el" when="2011-05-11">case text extracted and transformed from larger file</change>
+   <change who="#sb" when="2011-06-04">Enrich Encoding, Edit and validate</change>
+   <change who="#sb" when="2011-01-28">Validated File</change>
+   <change who="#ss" when="2008-09-22">initial checking of OCR text; encoded P5 Encoding</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   
+    <p><hi rend="initialcap">C</hi>ASE 455.&#8212;<name type="person" key="1082">Private Alvin
+      Hubbard</name>, <name type="organization" key="172">Battery M, 5th Artillery</name>, aged 20
+     years, was wounded at <name type="BATTLE" key="3"><choice><orig>Spottsylvania</orig><reg>Spotsylvania</reg></choice> Court House</name>, <date type="injury" when="1864-05-12">May 12, 1864</date>, by a
+     solid shot or a large fragment of shell, which struck both knees, fracturing the patella and
+     opening the joint of the right knee, and inflicting a large flesh wound on the inner side of
+     the left knee. He was taken to the field hospital of the Artillery Brigade, Sixth Corps, and on <date type="transfer" when="1864-05-14">the 14th</date> sent to
+     <name type="place">Fredericksburg</name>. On <date type="transfer" when="1864-05-24">May 24th</date>, he was admitted into
+     the <name type="hospital" key="512">Third Division Hospital</name>, <name type="place">Alexandria</name>, from which <name
+      type="person" key="134">Surgeon E. Bentley</name>, <name type="organization" key="132">U. S. V.</name>, reports: "The right leg and knee were badly swollen, painful and &#339;dematous,
+     and the soft parts ecchymosed; there was an unhealthy discharge from the wound; the left knee
+     was black and swollen, but the joint was not seriously injured. His constitutional condition
+     was much disturbed, pulse quick and frequent, appetite poor. On <date type="operation" when="1864-05-25">the 25th</date>, it was decided to
+     amputate, and, after placing the patient under the influence of chloroform, <name type="person"
+      key="134">Surgeon Bentley</name> removed the right thigh just below the trochanter by the
+     circular operation; free incisions were made in the integuments of the left knee. He rallied
+     well from the operation, and the after treatment consisted of stimulants, opiates, and
+     nourishing diet. On <date type="transfer" when="1864-10-07">October 7th</date>, he was
+     transferred to the <name type="hospital" key="500">First Division Hospital</name>, <name type="place">Alexandria</name>;
+     on <date type="transfer" when="1865-02-25">February 25, 1865</date>, to the <name type="hospital" key="214">hospital at Fairfax Seminary</name>; and finally discharged at the <name type="hospital" key="428">Judiciary Square
+      Hospital</name>, Washington, <date type="servicedischarge" when="1865-05-19">May 19, 1865</date>."
+     <name type="person" key="xx">Examining Surgeon E. H. Wood</name>, of <name type="place" key="xx">Hersey, Michigan</name>, <date type="pension" when="1877-09-05">September 5, 1877</date>, reports: "The stump of the amputated limb
+     is sound. The wound on left knee healed, leaving a large scar, and the patella so dislocated upward that this leg can be only <choice><orig>semi-flexed</orig><reg>semiflexed</reg></choice>." His pension was paid <date type="pension" when="1879-06-04">June 4, 1879</date>.</p>
+   
+  </body>
+ </text>
+</TEI>

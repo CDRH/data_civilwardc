@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d2e31092">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">S&#8212;&#8212;, W.</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+       <idno>med.d2e31092</idno>
+       <authority>Civil War Washington</authority>
+       <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor>
+       <name>Center for Digital Research in the Humanities</name>
+       <address><addrLine>319 Love Library</addrLine>
+       <addrLine>University of Nebraska–Lincoln</addrLine>
+       <addrLine>Lincoln, NE 68588-4100</addrLine>
+       <addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+    </distributor>
+    <date>2011</date>
+    <availability>
+        <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+         republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+         law, requires express written consent from the editors and advance notification of the
+         publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+ <persName xml:id="kw">Kenneth Winkle</persName> 
+     <persName xml:id="mb">Matthew Bosley</persName>
+     <persName xml:id="ta">Thomas Andrysik</persName> 
+     <persName xml:id="kk">Kourtney Klein</persName>
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl>
+     <title level="j">The Medical and Surgical History of the War of the Rebellion. (1861-65.)</title>
+     <pubPlace>Washington, DC</pubPlace>
+     <publisher>Government Printing Office</publisher>
+     <biblScope type="part">Part 2</biblScope>
+     <biblScope type="volume">Volume 2</biblScope>
+     <date when="1876">1876</date>
+     <biblScope type="page">545</biblScope>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+       <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+      <keywords scheme="#medsurg">
+       <term>wounds and injuries of the upper extremities</term>
+       <term>wounds of the shoulder joint</term>
+       <term>excisions at the shoulder</term> 
+       <term>decapitations of the humerus</term>
+       <term>secondary decapitations of the humerus for shot injury</term> 
+       <term>unsuccessful cases</term>
+       <term>gunshot wound over scapula</term>
+       <term>ball entered deltoid muscle, injured head of humerus, exited near spine</term> 
+       <term>resection of head of humerus performed</term>
+       <term>diarrh&#339;a</term>
+       <term>abscess in upper part of arm near head of humerus</term>       
+     </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+ <change who="#kw" when="2014-05">blessed</change>
+   <change who="#kk" when="2014-01-31">added figure encoding</change>
+   <change who="#mb" when="2012-07-10">additional proofing of transcription and encoding, identified keyword terms</change>
+   <change who="#ta" when="2011-02-23">checked OCR; added minimal mark-up for personal names, place names, and dates</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>   
+   <p><hi rend="initialcap">C</hi>ASE 1516.&#8212;<name type="person" key="xxx">Private W. S&#8212;&#8212;</name>, <name type="organization" key="xxx">3d New York Independent Battery</name>, aged 20 years, was wounded at <name type="BATTLE" key="58">Petersburg</name>, <date type="injury" when="1865-03-25">March 25, 1865</date>, and was admitted to <name type="hospital" key="173">Harewood Hospital</name>, Washington, on <date type="admit" when="1865-04-02">April 2d</date>.  <name type="person" key="158">Surgeon R. B. Bontecou</name>, <name type="organization" key="132">U. S. V.</name>, reported: &quot;Admitted <date type="admit" when="1865-04-02">April 2, 1865</date>, suffering from a gunshot wound over the right scapula, the ball entering the deltoid muscle, injuring the head of the humerus, and making its exit near the spine. Resection of head of right humerus was performed, <date type="operation" when="1865-04-26">April 26th</date>, through an incision about four inches long, over the deltoid muscle. At the time of the operation, the patient was very weak, and suffering from diarrh&#339;a. An abscess had collected in the upper part of the arm, near the head of the humerus, and the parts were infiltrated with pus. The result was unfavorable, and the patient gradually sank, and died from exhaustion <date type="death" when="1865-05-10">May 10, 1865</date>.&quot;  The operator, <name type="person" key="158">Dr. Bontecou</name>, forwarded to <name type="hospital" key="431">the Museum</name> a photograph of the patient (<hi rend="italic">Card Photographs</hi>, Vol. II, p. 10), which is copied in the adjacent wood-cut (<hi rend="initialcap">F</hi>IG. 416). It was taken <date type="photo" when="1865-04">soon after the operation</date>, when a happier result was anticipated.</p>
+  
+   <figure>
+    <graphic url="cww.001829.001" />
+    <head><hi rend="initialcap">F</hi>IG. 416.&#8212;Incision and exit wound in a secondary decapitation of the humerus.    [From a photograph.]</head>
+   </figure>  
+   
+  </body>
+ </text>
+</TEI>

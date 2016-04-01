@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="cww.01038">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>                
+                <title level="m" type="main">Petition of Cornelia Gray and Julius Augustus McClellen, 30 July 1862</title>
+                <title level="m" type="main">Evidence Relating to the Petition of Cornelia Gray and Julius Augustus McClelland, 30 July 1862</title>
+                <title level="m" type="sub">a machine readable transcription</title>
+                <principal>Susan C. Lawrence</principal>
+                <principal>Kenneth M. Price</principal>
+                <principal>Kenneth J. Winkle</principal>
+                <respStmt>
+                    <resp>transcription and encoding</resp>
+                    <name xml:id="jc">Janel Cayer</name>
+                    <name xml:id="el">Elizabeth Lorang</name>
+                <name xml:id="kjw">Kenneth J. Winkle</name>
+</respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2012</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <idno>cww.01038</idno>
+                <distributor>Civil War Washington</distributor>
+                <publisher>University of Nebraska–Lincoln</publisher>
+                <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>P.O. Box 884100</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+            </address>
+                <date>2012</date>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+                        <p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License (http://creativecommons.org/licenses/by-nc-sa/3.0/). Derivatives must be credited to Civil War Washington, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl xml:id="rg21">
+                    <title>Petition of Cornelia Gray and Julius Augustus McClellen, 30 July 1862</title>                    
+                    <date when="1862-07-30">July 30, 1862</date>
+                    <idno>Microcopy 433, Reel 3</idno>                
+                    <orgName>National Archives and Records Administration</orgName>
+                    <relatedItem type="original">
+                        <bibl>
+                            <title>Petition of Cornelia Gray and Julius Augustus McClellen, 30 July 1862</title>
+                            <date when="1862-07-30">July 30, 1862</date>
+                            <idno type="rg">Record Group 21</idno>
+                            <orgName>Records of the District Courts of the United States, 1685&#8211;2004, National Archives and Records Administration</orgName>
+                            <orgName>Emancipation Records, compiled 1862&#8211;1863</orgName>
+                            <note type="project">Within the National Archives' Archival Description Catalog, see ARC Identifier 4314547 / MLR Number NC-2 33 (http://arcweb.archives.gov).</note>
+                        </bibl>
+                    </relatedItem>
+                    <note type="project">Our transcription is based on a digital image of a microfilm copy of the original.</note>
+                </bibl>
+                
+                <bibl xml:id="rg217">
+                    <title>Evidence Relating to the Petition of Cornelia Gray and Julius Augustus McClelland, 30 July 1862</title>
+                    <date when="1862-07-30">July 30, 1862</date>
+                    <idno>Microcopy 520, Reel 6</idno>
+                    <orgName>National Archives and Records Administration</orgName>
+                    <relatedItem type="original">
+                        <bibl>
+                            <title>Evidence Relating to the Petition of Cornelia Gray and Julius Augustus McClelland, 30 July 1862</title>
+                            <date when="1862-07-30">July 30, 1862</date>
+                            <idno type="rg">Record Group 217.6.5</idno>
+                            <orgName>Records of the Accounting Officers of the Department of the Treasury, 1775&#8211;1978, National Archives and Records Administration</orgName>
+                            <note type="project">Within the National Archives' Archival Description Catalog, see ARC Identifier 4644616 / MLR Number A1 347 (http://arcweb.archives.gov).</note>
+                        </bibl>
+                    </relatedItem>
+                    <note type="project">Our transcription is based on a digital image of a microfilm copy of the original.</note>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <particDesc>
+                <person role="owner">
+                    <persName>Louisa Hunter</persName>
+                </person>
+                <person role="petitioner-slave">
+                    <persName>Cornelia Gray</persName>
+                </person>                
+                <person role="petitioner-slave">
+                    <persName>Julius Augustus McClellen</persName>
+                </person>
+            </particDesc>
+        </profileDesc>
+        <revisionDesc>
+<change when="2013-06-24" who="#jc">blessed</change>
+<change when="2013-06-08" who="#kjw">blessed</change>
+            <change when="2013-05-20" who="#el">checked</change>
+            <change when="2012-07-13" who="#jc">transcribed and encoded</change>
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            <pb xml:id="leaf001r" facs="cww.01038.001.jpg"/>
+            
+            <div1 type="petition" subtype="mixed" corresp="#rg21">
+
+                <div2 type="document">
+                    <opener>
+                        <salute>To <persName>John A. Smith</persName> <choice><abbr>Esq.</abbr><expan>Esquire</expan></choice>, Clerk of the Circuit Court of the <placeName>District of Columbia</placeName>.</salute>
+                        <salute>Sir:</salute>
+                    </opener>
+                    
+                    <p><seg type="handwritten">Mrs General <persName>Louisa Hunter</persName></seg> of <seg type="handwritten"><placeName>Alexandria County W Virginia</placeName></seg> having claim to the service or labor of the undersigned, and having refused or neglected to file in your office the statement in writing or schedule provided for in the 9th section of the Act of Congress, entitled "An act for the release of certain persons held to service or labor in said <placeName>District</placeName>," approved <date when="1862-04-16">April 16, 1862</date>, you will please file this petition or schedule in lieu thereof, in pursuance of the provisions of an act supplementary to said act which said last mentioned act was approved <date when="1862-07-12">July 12, 1862</date>. This petitioner further state that the undersigned <seg type="handwritten">have</seg> resided in said <placeName>District</placeName> <del>since the</del> <seg type="handwritten">more than a year</seg> and ha<space atLeast="1"/> resided therein since the <date when="1862-04-14"><seg type="handwritten">14</seg> day of <seg type="handwritten">April</seg> 1862</date>, by and with the consent of <seg type="handwritten">the</seg> said <seg type="handwritten"><persName>Louisa Hunter</persName></seg>.</p>
+                    <table>
+                        <row>
+                            <cell>Name,</cell>
+                            <cell>Age,</cell>
+                            <cell>Sex,</cell>
+                            <cell>Remarks,</cell>
+                        </row>
+                        <row rend="handwritten">
+                            <cell><persName>Cornelia Gray</persName></cell>
+                            <cell>18</cell>
+                            <cell>female</cell>
+                            <cell>Dark Copper</cell>
+                        </row>
+                        <row rend="handwritten">
+                            <cell><persName>Julius Augustine McClellen</persName></cell>
+                            <cell>1 year</cell>
+                            <cell>male</cell>
+                            <cell>Mulatto</cell>
+                        </row>
+                    </table>
+                    
+                    <closer>
+                        <signed><seg type="handwritten">her X mark <persName>Cornelia Gray</persName></seg></signed><lb/>
+                        <signed><seg type="handwritten">his X mark<persName>Julius Augustus McClellen</persName></seg></signed><lb/>
+                        <seg type="handwritten"><unclear reason="illegible" cert="medium" resp="#jc">In presence of</unclear></seg>
+                        <signed><seg type="handwritten"><persName>Geo E H Day</persName></seg></signed>
+                    </closer>
+                </div2>                        
+                                        
+                <pb xml:id="leaf001v" facs="cww.01038.002.jpg"/>
+                
+                <div2 type="cover" subtype="handwritten">
+                    <div3 type="section">
+                        <ab>paid</ab>
+                        <ab><persName>Cornelia Gray</persName> &#38; Son <persName>J Augustus McClellen</persName></ab>
+                    </div3>
+                    <div3 type="section">
+                        <ab>Recorded in Manumission Record No. 2 folio 96.</ab>
+                    </div3>
+                    <div3 type="section">                        
+                        <ab>Filed <date when="1862-07-30">July 30, 1862</date></ab>     
+                    </div3>
+                                       
+                    <div3 type="section">                        
+                        <p>The Commissioners, satisfied on the testimony of <persName>David C. Reed</persName> of the truth of the within schedule ordered that the same be so certified to the Clerk of the Circuit Court of the <placeName>District of Columbia</placeName>.</p>
+                        <closer>
+                            <signed><persName>Wm. R. Woodward</persName><lb/>
+                                Clerk of <choice><abbr>Commnrs</abbr><expan>Commissioners</expan></choice></signed>
+                            <dateline><date when="1862-07-30">July 30, 1862</date></dateline>
+                        </closer>
+                    </div3> 
+                    
+                    <div3 type="section">
+                        <ab><choice><abbr>Cert</abbr><expan>Certificate</expan></choice> given to the within <date when="1862-07-30">July, 30th</date> <choice><abbr>Idfd</abbr><expan>Identified</expan></choice> by <persName>Day</persName></ab>
+                    </div3>
+                </div2>
+            </div1>
+            
+            
+            <pb xml:id="leaf002r" facs="cww.01038.003.jpg"/>
+            <div1 type="evidence" corresp="#rg217" subtype="handwritten">
+                
+                <dateline><date when="1862-07-30">July 30</date></dateline>
+                
+                <div2 type="procedural">
+                    <ab><persName>Cornelia Gray</persName> &#38; son <persName>Julius A. McC.</persName></ab>
+                    <ab>servant of <persName>Louisa Hunter</persName></ab>
+                </div2>
+                
+                <div2 type="testimony">
+                    <p><persName>David C Reed</persName> I know them both. they belonged to Mrs <choice><abbr>Genl</abbr><expan>General</expan></choice> <persName>Louisa Hunter</persName>. They have been about my house the last 14 months. <persName>Cornelias</persName> mother was cook in my house. <persName>Mr Hunter</persName> sent the daughter up to her mothers</p>
+                </div2>
+                
+                <div2 type="procedural">
+                    <ab>Certificate ordered &#38; sent.</ab>
+                </div2>                                
+                
+                <pb xml:id="leaf002v" facs="cww.01038.004.jpg"/>
+                
+                <div2 type="cover">
+                    <ab><persName>Cornelia Gray</persName></ab>
+                    <ab><persName>Julius A McClelland</persName></ab>
+                    <ab><date when="1862-07-30">July 30</date></ab>
+                </div2>
+                
+            </div1>            
+        </body>
+    </text>
+</TEI>
+                
+                
+                
+                
+                
+

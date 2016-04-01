@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e16697">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title level="m" type="main">M&#8212;&#8212;, A&#8212;&#8212;</title>
+        <title level="m" type="sub">a machine readable transcription</title>
+        <principal>Susan C. Lawrence</principal>
+        <principal>Kenneth M. Price</principal>
+        <principal>Kenneth J. Winkle</principal>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <date>2011</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <idno>med.d1e16697</idno>
+        <authority>Civil War Washington</authority>
+        <publisher>University of Nebraska–Lincoln</publisher>
+        <distributor>
+          <name>Center for Digital Research in the Humanities</name>
+          <address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+        </distributor>
+        <date>2011</date>
+        <availability>
+          <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution
+            or republication in any medium, except as allowed under the Fair Use provisions of U.S.
+            copyright law, requires express written consent from the editors and advance
+            notification of the publisher, the University of Nebraska–Lincoln.</p>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="project">The following are responsible for particular readings or for changes to
+          this file, as noted: 
+ <persName xml:id="kw">Kenneth Winkle</persName> 
+          <persName xml:id="ajh">AJ Howell</persName>
+          <persName xml:id="mb">Matthew Bosley</persName>
+          <persName xml:id="el">Elizabeth Lorang</persName>
+          <persName xml:id="sb">Stacey Berry</persName>
+          <persName xml:id="et">Elisabeth Tracey</persName>
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>
+          <title>The Medical and Surgical History of the War of the Rebellion.
+            (1861&#8211;65.)</title>
+          <editor role="compiler">Surgeon General Joseph K. Barnes, United States Army</editor>
+          <pubPlace>Washington, D.C.</pubPlace>
+          <publisher>Government Printing Office</publisher>
+          <biblScope type="part">Part 1</biblScope>
+          <biblScope type="volume">Volume 2</biblScope>
+          <date when="1870">1870</date>
+          <biblScope type="page">265</biblScope>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <classDecl>
+        <taxonomy xml:id="medsurg">
+          <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="#medsurg">
+          <term>on special wounds and injuries of the head</term>
+          <term>wounds and injuries of the head</term>
+          <term>gunshot wounds</term>
+          <term>gunshot fractures of the cranial bones</term>
+          <term>trephining after gunshot fractures of the skull</term>
+          <term>trephining practiced, fatal termination</term>
+          <term>conoidal musket ball entered at juncture of coronal and squamous sutures and
+            lodged</term>
+          <term>symptoms of compression of brain</term>
+          <term>eyeballs, especially right, prominent and pupils fixed and contracted</term>
+          <term>blood and brain substance oozed from wound</term>
+          <term>cerebro-meningitis, advanced to stage of suppuration</term>
+          <term>pus collected over anterior surface of brain and between pia mater and
+            arachnoid</term>
+          <term>ball lacerated anterior portion of middle lobe of brain, terminal branches of
+            internal carotid, and anterior branch of temporal artery</term>
+          <term>fragment of ball found in middle lobe of cerebrum, remaining portion imbedded in
+            sphenoid bone</term>
+          <term>large clot on floor of middle fossa of cranium</term>
+          <term>post-mortem examination</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+ <change who="#kw" when="2014-05">blessed</change>
+      <change who="#ajh" when="2013-08-19">added figure encoding</change>
+      <change who="#mb" when="2013-08-15">additional proofing of transcription and encoding, edited
+        and added keyword terms</change>
+      <change who="#mb" when="2011-08-10">additional proofing of transcription and encoding</change>
+      <change who="#el" when="2011-11-05">case text extracted and transformed from larger
+        file</change>
+      <change who="#sb" when="2011-02-09">enriched encoding</change>
+      <change who="#sb" when="2011-01-28">validated file</change>
+      <change who="#et" when="2009-08-01">encoded</change>
+      <change who="#sb" when="2008-09-22">initial checking of OCR text against PDF; encoded</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+
+      <p><hi rend="initialcap">C</hi>ASE.&#8212;<name type="person">Private A&#8212;&#8212;
+          M&#8212;&#8212;</name>, <name type="organization" key="xx">Co. D, 155th Pennsylvania
+          Volunteers</name>, was wounded at the battle of <name type="BATTLE" key="4"
+          >Fredericksburg, Virginia</name>, <date type="injury" when="1862-12-13">December 13th,
+          1862</date>, by a conoidal musket ball, which entered at the juncture of coronal and
+        squamous sutures, and lodged. He was admitted to the <name type="hospital" key="159">Patent
+          Office Hospital</name>, Washington, D. C., on <date type="admit" when="1862-12-17">the
+          17th</date>, complaining but very little of his wound, and was able to walk about until
+        the 19th, when the pain became so severe that he was compelled to take to his bed. He became
+        restless, showing all the symptoms of febrile excitement. A lotion of lead water and
+        laudanum was ordered to be applied to the wound, and an anodyne administered. Up to this
+        time he had not been delirious and was able to give rational answers to all questions. On
+        the morning of <date type="operation" when="1862-12-20">the 20th</date>, he was comatose and
+        all the symptoms of compression of the brain were well marked; his eyeballs, especially the
+        right, were prominent and the pupils fixed and contracted. On removing the dressing, blood
+        and brain substance oozed from the wound. The wound of the scalp was then enlarged and the
+        skull trephined; spicul&#230; of bone were removed, causing considerable h&#230;morrhage,
+        but no relief to the patient. He died <date type="death" when="1862-12-20">a few hours after
+          the operation</date>. The <hi rend="italic">post-mortem</hi> examination revealed
+        cerebro-meningitis, advanced to the stage of suppuration, pus having collected over the
+        anterior surface of the brain, and between the pia mater and arachnoid. The ball had
+        lacerated the anterior portion of the middle lobe of the brain, the terminal branches of the
+        internal carotid, and the anterior branch of the temporal artery. There was a large clot on
+        the floor of the middle fossa of the cranium. A fragment of the ball was found in the centre
+        of the middle lobe of the cerebrum, and the remaining portion was imbedded in the sphenoid
+        bone. The pathological specimen is figured in the wood-cut. The opening in the cranial wall
+        measures one inch from above downward and is three-fourths of an inch wide; from this point
+        one fissure passes downward across the glenoid cavity and a second forward into the external
+        wall of the right orbit, which is comminuted. The ball is encrusted with calcareous matter.
+          <name type="person" key="xx">Acting Assistant Surgeon J. H. Jamar</name> contributed the
+        specimen and history.</p>
+      <figure><graphic url="cww.001419.001"/><head>
+        <hi rend="initialcap">F</hi>IG. 132.&#8212;Segment of cranium and portion of lower maxilla,
+        and round musket ball. The skull was trephined. <hi rend="italic">Spec</hi>. 685, Sect. I,
+        A. M. M.</head></figure>
+
+    </body>
+  </text>
+</TEI>

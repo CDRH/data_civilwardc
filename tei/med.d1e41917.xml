@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e41917">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Coleman, T. P.</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+    <idno>med.d1e41917</idno>
+    <authority>Civil War Washington</authority>
+    <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor>
+     <name>Center for Digital Research in the Humanities</name>
+     <address><addrLine>319 Love Library</addrLine>
+       <addrLine>University of Nebraska–Lincoln</addrLine>
+       <addrLine>Lincoln, NE 68588-4100</addrLine>
+       <addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+    </distributor>
+    <date>2011</date>
+    <availability>
+     <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+      republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+      law, requires express written consent from the editors and advance notification of the
+      publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+ <persName xml:id="kmp">Kenneth M. Price</persName> <persName xml:id="ajh">AJ Howell</persName>
+     <persName xml:id="mb">Matthew Bosley</persName>
+     <persName xml:id="el">Elizabeth Lorang</persName>
+     <persName xml:id="sb">Stacey Berry</persName>
+     <persName xml:id="ao">Alyssa Olson</persName>
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl>
+     <title level="j">The Medical and Surgical History of the War of the Rebellion.
+      (1861-65.)</title>
+     <pubPlace>Washington, DC</pubPlace>
+     <publisher>Government Printing Office</publisher>
+     <biblScope type="part">Part 2</biblScope>
+     <biblScope type="volume">Volume 1</biblScope>
+     <date when="1879">1879</date>
+     <biblScope type="page">512-513</biblScope>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+     <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <keywords scheme="#medsurg">
+     <term>diarrh&#339;a and dysentery</term>
+     <term>remarks on the pathology and treatment of diarrh&#339;a and dysentery</term>
+     <term>chronic dysentery</term>
+     <term>post mortem appearances in chronic dysentery</term>
+     <term>morbid anatomy</term>
+     <term>chronic inflammation of the mucous and submucous coats of the intestines without
+      ulceration</term>
+     <term>autopsy performed</term>
+     <term>ball passed through lower chest, fractured eleventh rib and transverse process of
+      eleventh dorsal vertebra, probably wounded lung</term>
+     <term>ball lodged behind tenth rib</term>
+     <term>free h&#230;morrhage from wound, spat blood, great difficulty breathing</term>
+     <term>diarrh&#339;a, dysenteric character</term>
+     <term>dysenteric diarrh&#339;a</term>
+     <term>pleural sac contained sanguineous effusion</term>
+     <term>lower lobe of lung converted into abscess cavity containing lung substance, external
+      walls adherent to costal pleura</term>
+     <term>liver and kidneys fatty</term>
+     <term>in descending colon and rectum solitary follicles enlarged and formed cyst-like vesicles
+      containing transparent gelatinous mass</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+ <change who="#kmp" when="2014-05">blessed</change>
+   <change who="#ajh" when="2013-08-21">added figure encoding</change>
+   <change who="#mb" when="2013-02-01">additional proofing of transcription and encoding, identified
+    keyword terms</change>
+   <change who="#el" when="2010-11-05">case text extracted and transformed from larger file</change>
+   <change who="#sb" when="2010-05-01">enrich encoding, proof and edit</change>
+   <change who="#ao" when="2008-10-02">encoding and editing</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>There is, however, a curious lesion occasionally encountered in such cases which deserves
+    remark in this place. I allude to the development beneath the mucous membrane of small cysts
+    containing a thick mucoid or glue-like fluid. These vary in size from &#8530;th to &#188;th of
+    an inch in diameter, and project from the surface in the form of hemispheres; they are sometimes
+    observed in cases of well marked follicular ulceration, but also occur in cases in which no
+    ulceration can be detected. The latter condition was noted in the specimen represented by the
+    chromo plate facing this page. The patient was a confederate prisoner of war, who died of
+    dysenteric diarrh&#339;a of nearly three months duration, which made its appearance while he was
+    under treatment for a gunshot wound of the chest. The following is a brief history of the
+    case:&#8432;</p>
+   <p><hi rend="initialcap">C</hi>ASE 899.&#8212;<name type="person" key="xxx">Private T. P.
+     Coleman</name>, <name type="organization" key="xxx">company A, 19th Mississippi (confederate)
+     volunteers</name>; age 19; was wounded <name type="BATTLE" key="xxx">near Petersburg,
+     Virginia</name>, <date type="injury" when="1864-11-05">November 5, 1864</date>, by a ball which
+    passed through the lower portion of the left side of his chest, fracturing the eleventh rib and
+    the transverse process of the eleventh dorsal vertebra, and probably wounding the lung. He was
+    treated at first in a confederate hospital at <name type="place">Richmond, Virginia</name>, and,
+     <date type="transfer" when="1865-05-06">May 6, 1865</date>, was transferred to the hospital at
+     <name type="place">Point Lookout, Maryland</name>. Thence, <date type="transfer"
+     when="1865-07-24">July 24th</date>, he was transferred to <name type="hospital" key="171"
+     >Armory Square hospital</name>, Washington, D. C., and finally, <date type="transfer"
+     when="1865-08-17">August 17th</date>, to <name type="hospital" key="162">Douglas
+     hospital</name>. The patient stated that on the reception of the injury he had a free
+    h&#230;morrhage from the wound, spat blood and had great difficulty in breathing, but that he
+    was doing well under treatment, when, about <date type="injury" when="1865-06-01">the beginning
+     of June</date>, while still at <name type="place">Point Lookout</name>, diarrh&#339;a set in
+    and persisted in spite of treatment. When he entered <name type="hospital" key="162">Douglas
+     hospital</name> he was still suffering from diarrh&#339;a, which was of a dysenteric character,
+    and he was terribly emaciated. <date type="operation" when="1865-08-18">August 18th</date>, the
+    ball, which had lodged behind the tenth rib, about an inch and a half from the wound of
+    entrance, was removed by <name type="person" key="201">Asst. Surgeon Wm. F. Norris</name>, <name
+     type="organization" key="190">U. S. A.</name> His dysenteric diarrh&#339;a was treated by
+    nitrate of silver, used both internally and by injection. He could hardly be prevailed upon to
+    take beef tea or milk, which appeared to make him vomit, but he swallowed whiskey greedily, and
+    it was freely administered. He was restless and noisy, but did not complain of dyspn&#339;a, and
+    had no cough. He sank rapidly, and died <date type="death" when="1865-08-19">August 19th</date>.
+     <hi rend="italic">Autopsy</hi>
+    <date type="autopsy" when="1865-08-19">thirteen hours after death</date>: The right pleural sac
+    contained three ounces of sanguineous effusion, and there were old pleuritic adhesions on both
+    sides. The lungs were crepitant, with the exception of the lower lobe of the left lung, which
+    was converted into an abscess cavity containing detritus of lung substance, and the external
+    walls of which were inseparably adherent to the costal pleura. The liver and kidneys were fatty;
+    the spleen contained less blood than usual. The small intestine was pale; in the descending
+    colon and the rectum the solitary follicles were enlarged, forming cyst-like vesicles the size
+    of peas, with minute circular openings at their summits, and each containing a transparent
+    gelatinous mass. History by <name type="person" key="208">Acting Assistant Surgeon Carlos
+     Carvallo</name>. [Specimens, viz: No. 660, Medical Section, and No. 1561, Surgical Section,
+    (the injured ribs,) presented by <name type="person" key="201">Assistant Surgeon Wm. F.
+     Norris</name>, <name type="organization" key="190">U. S. A.</name>]</p>
+   <p>The diseased intestine was brought to <name type="hospital" key="431">the Museum</name>
+    immediately after the autopsy, and a water-color drawing, representing a portion of descending
+    colon, was made by Mr. Hermann Faber; the chromo plate is a reproduction of this drawing. The
+    colon was moderately thickened; the general surface of its mucous membrane was pearl-gray, with
+    greenish and bluish streaks and patches. There were also a number of reddish patches in which
+    congested <choice>
+     <sic>bloodvessels</sic>
+     <corr>blood vessels</corr>
+    </choice> could be distinctly recognized by the naked eye. The cysts varied in size from
+    &#8530;th of an inch or less to &#188;th of an inch in diameter; for the most part they were of
+    a bluish color, which in the larger cysts became a dark indigo-blue. At the apices of some of
+    them the yellowish contents shone through, or protruded through tiny circular orifices; these
+    contents could readily be expelled by pressure, and resembled drops of warm boiled glue. The
+    cysts were very unequally scattered over the mucous surface; in some places they were so close
+    as to be in contact; in others they were an inch or more apart. No ulceration was detected
+    anywhere. The minute anatomy of these cysts will be discussed in a subsequent part of this
+    section.</p>
+   <p>&#8432; The history of this case is also given in the first Surgical Volume, p. 568. The
+    account there presented differs from that in the text in stating the diarrh&#339;a to have
+    commenced &#34;about the middle of June,&#34; and in speaking of the solitary glands of the
+    colon as &#34;ulcerated.&#34; The latter statement is certainly an error, as shown by the
+    specimen, and the former is probably so, as the case-book of the hospital explicitly says
+    &#34;about the beginning of June.&#34; Both errors occur in the history, sent to <name
+     type="hospital" key="431">the Museum</name> with the specimens, from which the account in the
+    Surgical Volume was taken, while the history as given above was extracted from the case-book of
+    the hospital, which is the original record.</p>
+   <figure>
+    <graphic url="cww.001504.001"/>
+    <head><hi rend="initialcap">P</hi>LATE XXVII. COLLOID CYSTS OF COLON.&#8212;CHRONIC
+     DYSENTERY.</head>
+   </figure>
+  </body>
+ </text>
+</TEI>

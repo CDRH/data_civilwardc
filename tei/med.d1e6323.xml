@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e6323">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Gildersleeve, Wm.</title>
+                <title level="m" type="sub">a machine readable transcription</title>
+                <principal>Susan C. Lawrence</principal>
+                <principal>Kenneth M. Price</principal>
+                <principal>Kenneth J. Winkle</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2011</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <idno>med.d1e6323</idno>
+                <authority>Civil War Washington</authority>
+                <publisher>University of Nebraska–Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+                </distributor>
+                <date>2011</date>
+                <availability>
+                    <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved.
+                        Redistribution or republication in any medium, except as allowed under the
+                        Fair Use provisions of U.S. copyright law, requires express written consent
+                        from the editors and advance notification of the publisher, the University
+                        of Nebraska–Lincoln.</p>
+                </availability>
+            </publicationStmt>
+            <notesStmt>
+                <note type="project">The following are responsible for particular readings or for changes to this file, as noted: 
+                    <persName xml:id="mb">Matthew Bosley</persName>
+                    <persName xml:id="el">Elizabeth Lorang</persName>
+                    <persName xml:id="sb">Stacey Berry</persName>
+                    <persName xml:id="et">Elisabeth Tracey</persName>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>The Medical and Surgical History of the War of the Rebellion. (1861&#8211;65.)</title>
+                    <editor role="compiler">Surgeon General Joseph K.Barnes, United States Army</editor>
+                    <pubPlace>Washington, D.C.</pubPlace>
+                    <publisher>Government Printing Office</publisher>
+                    <biblScope type="part">Part 1</biblScope>
+                    <biblScope type="volume">Volume 2</biblScope>
+                    <date when="1870">1870</date>
+                    <biblScope type="page">101</biblScope>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <classDecl>
+                <taxonomy xml:id="medsurg">
+                    <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme="#medsurg">
+                    <term>on special wounds and injuries of the head</term>
+                    <term>wounds and injuries of the head</term>
+                    <term>gunshot wounds</term>
+                    <term>gunshot contusions of the cranial bones</term> 
+                    <term>contusion of the skull without fracture</term>
+                    <term>complicated by erysipelas</term>
+                    <term>conoidal musket ball entered scalp over <choice><sic>lamboidal</sic><corr>lambdoidal</corr></choice> suture, crossed occipital bone obliquely, and emerged, grazing bone in passage</term>
+                    <term>wound of little finger of hand</term>
+                    <term>coma, stertorous breathing</term>                             
+                    <term>symptoms of pneumonia</term>
+                    <term>injuries of the upper extremity</term>                                                                   
+                    <term>gunshot wounds of the hand</term>                    
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change who="#mb" when="2013-05-31">additional proofing of transcription and encoding, edited and added keyword terms</change>
+            <change who="#mb" when="2011-10-07">additional proofing of transcription and encoding</change>
+            <change who="#mb" when="2011-06-15">additional proofing of transcription and encoding</change>            
+            <change who="#el" when="2011-11-05">case text extracted and transformed from larger file</change>
+            <change who="#sb" when="2011-02-09">enriched encoding</change>
+            <change who="#sb" when="2011-01-28">validated file</change>
+            <change who="#et" when="2009-08-01">encoded</change>
+            <change who="#sb" when="2008-09-22">initial checking of OCR text against PDF; encoded</change>
+        </revisionDesc>
+    </teiHeader> 
+        <text>
+             <body xml:id="ch1.sc3.0071">            
+                <p><name type="person" key="1195"><hi rend="initialcap">G</hi>ILDERSLEEVE, <hi
+                            rend="initialcap">W</hi>M.</name>, Corporal, <name type="organization"
+                        key="435">Co. D, 40th New York Volunteers</name>, aged 23 years, was
+                    wounded, in the engagement near <name type="battle" key="58">Petersburg, Virginia</name>, <date type="injury"
+                        when="1865-03-25">March 25th, 1865</date>, by a conoidal musket ball, which
+                    entered the scalp over the <choice><sic>lamboidal</sic><corr>lambdoidal</corr></choice> suture and crossing the occipital bone
+                    obliquely, emerged three inches from the wound of entrance, grazing the bone in
+                    its passage. He received, at the same time, a wound of the little finger of the
+                    left hand.  He was, on <date type="admit" when="1865-03-26">the following day</date>, admitted to the hospital of the 2d
+                        division, Second Corps, and, on <date type="transfer" when="1865-03-27">March
+                        27th</date>, was transferred to the <name type="hospital" key="152">Finley
+                        Hospital</name>, Washington, D. C.  On admission, the symptoms were
+                    favorable; but, on <date type="injury" when="1865-03-31">March 31st</date>, coma, with stertorous breathing, supervened.
+                    Sinapisms were applied to nape of neck, wrists, and ankles, and, on the
+                    following day, consciousness returned, and the patient felt much improved. On
+                    <date type="injury" when="1865-04-04">April 4th</date>, erysipelas of the scalp set in, and on <date type="injury" when="1865-04-18">April 18th</date>, symptoms of
+                    pneumonia appeared; but from April 26th, he gradually recovered and was returned
+                    to duty on <date type="duty" when="1865-12-08">December 8th, 1865</date>.  He was
+                    pensioned for one year.  <name type="person" key="1194">Pension Examining Surgeon
+                        M. D. Benedict</name> reported, <date type="pension" when="1865-08">August,
+                        1865</date>, that his disabilities would not be permanent.</p>            
+        </body>
+    </text>
+</TEI>

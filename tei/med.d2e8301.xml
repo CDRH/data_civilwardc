@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d2e8301">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Worthen, E.</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+    <idno>med.d2e8301</idno>
+    <authority>Civil War Washington</authority>
+    <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor><name>Center for Digital Research in the
+     Humanities</name><address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address></distributor>
+    <date>2011</date>
+    <availability>
+     <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+      republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+      law, requires express written consent from the editors and advance notification of the
+      publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+ <persName xml:id="kw">Kenneth Winkle</persName> 
+     <persName xml:id="ajh">AJ Howell</persName>
+     <persName xml:id="mb">Matthew Bosley</persName>
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title level="j">The Medical and Surgical History of the War of the Rebellion.
+      (1861-65.)</title><pubPlace>Washington, DC</pubPlace><publisher>Government Printing
+      Office</publisher><biblScope type="part">Part 3</biblScope><biblScope type="volume">Volume
+      2</biblScope><date when="1883">1883</date><biblScope type="page">183</biblScope></bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+     <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <keywords scheme="#medsurg">
+     <term>wounds and injuries of the lower extremities</term>
+     <term>injuries of the shaft of the femur</term>
+     <term>shot fractures of the shaft of the femur</term>
+     <term>shot fractures of the shaft of the femur treated by conservation</term>
+     <term>shot fractures of the upper third of the femur treated by conservation</term>
+     <term>recoveries after shot fractures of the upper third of the femur treated by
+      conservation</term>
+     <term>ball entered thigh in front, passed directly through, emerged posteriorly at lower border
+      of glutei muscles</term>
+     <term>comminuted fracture of femur</term>
+     <term>injured limb shortened and considerably deformed</term>
+     <term>discharge of burrowing pus</term>
+     <term>typhoid fever</term>
+     <term>erysipelas</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+ <change who="#kw" when="2014-05">blessed</change>
+   <change who="#ajh" when="2013-08-22">added figure encoding</change>
+   <change who="#mb" when="2012-04-20">additional case copied from MSHWR, performed proofing of copy
+    and XML encoding, and key terms identified</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+
+   <p><hi rend="initialcap">C</hi>ASE 372.&#8212; Corporal E. Worthen, Co. B, 2d Vermont, aged 25
+    years, was wounded in the right thigh, at <name type="BATTLE" key="12">the Wilderness</name>,
+     <date type="injury" when="1864-05-05">May 5th, 1864</date>, and admitted to hospital in <name
+     type="place">Alexandria</name>
+    <date type="admit" when="1864-05-26">three weeks afterwards</date>. <name type="person"
+     key="134">Surgeon E. Bentley</name>, <name type="organization" key="132">U. S. V.</name>,
+    described the wound as a "shot fracture of the upper third of the femur," but the progress of
+    the case was not recorded. On <date type="transfer" when="1865-03-17">March 17, 1865</date>, the
+    patient was transferred to Sloan Hospital, <name type="place">Montpelier</name>, whence <name
+     type="person" key="xxx">Surgeon H. Janes</name>, <name type="organization" key="132">U. S.
+     V.</name>, contributed the following history: "The wound was caused by a mini&#233; ball, which
+    entered the thigh in front, passed directly through and emerged posteriorly, at the lower border
+    of the glutei muscles, comminuting the femur for about three inches. From the field the wounded
+    man was taken to the hospital of the 2d division, Sixth Corps, at Fredericksburg, and thence by
+    boat to <name type="place">Alexandria</name>, where the limb was first adjusted, and kept in
+    position by sand bags without extension. He stated that no other apparatus was ever used.
+    Subsequently he had typhoid fever and erysipelas. The first fragment of bone was removed in
+     <date type="operation" when="1864-07">July, 1864</date>, and since that time about fifty pieces
+    have come away. When admitted to Sloan Hospital the wound was still slightly discharging, but
+    the patient was able to go about on crutches. About three months afterwards the bone had become
+    so firmly united that he could walk a short distance without crutch or cane. When discharged
+    from service, <date type="servicedischarge" when="1865-06-23">June 23, 1865</date>, the patient
+    was in good general health, and able to walk a considerable distance on smooth ground without
+    crutch or cane, the injured limb being shortened two and a half inches and considerably
+    deformed. There was also necrosed bone remaining, and the wound still slightly discharging."
+     <name type="person" key="xxx">Examining Surgeon C. L. Allen</name>, of <name type="place"
+     >Rutland, Vt.</name>, reported, <date type="pension" when="1866-09-24">September 24,
+     1866</date>: "The right limb is now three inches shorter than the left. An opening (the wound
+    of entrance) still exists in front of the trochanter, into which a probe passes about four
+    inches; another opening posteriorly (the wound of exit) allows the probe to pass in about three
+    inches. A third opening exists near the middle of the inside of the thigh, having been made by
+    the Surgeon for the discharge of the burrowing pus." The same examiner subsequently certified
+    that he was called on to visit the pensioner on <date type="pension" when="1870-10-23">October
+     23, 1870</date>, and found him "suffering from py&#230;mia, resulting from the wound breaking
+    out anew, from the effects of which he died <date type="death" when="1870-10-25">October 25,
+     1870</date>." A card photograph of the patient, taken at the Sloan Hospital, was contributed by
+     <name type="person" key="xxx">Surgeon Janes</name> (<hi rend="italic">Card Photos</hi>., A. M.
+    M., Vol. II, p. 22), an enlarged copy of which, taken at the <name type="hospital" key="431"
+     >Army Medical Museum</name> (<hi rend="italic">Surg. Phot. Series</hi>, No. 129), is shown in
+    wood-cut (<hi rend="initialcap">F</hi>IG. 139).</p>
+   <figure>
+    <graphic url="cww.001560.001"/>
+    <head><hi rend="initialcap">F</hi>IG. 139.&#8212;Result of a shot wound of upper third of femur.
+     [From a photograph.]</head>
+   </figure>
+
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d2e4302">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Cady, H. U.</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+    <idno>med.d2e4302</idno>
+    <authority>Civil War Washington</authority>
+    <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor><name>Center for Digital Research in the
+     Humanities</name><address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address></distributor>
+    <date>2011</date>
+    <availability>
+     <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+      republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+      law, requires express written consent from the editors and advance notification of the
+      publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+ <persName xml:id="kmp">Kenneth M. Price</persName> 
+     <persName xml:id="ajh">AJ Howell</persName>
+     <persName xml:id="mb">Matthew Bosley</persName>
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title level="j">The Medical and Surgical History of the War of the Rebellion.
+      (1861-65.)</title><pubPlace>Washington, DC</pubPlace><publisher>Government Printing
+      Office</publisher><biblScope type="part">Part 3</biblScope><biblScope type="volume">Volume
+      2</biblScope><date when="1883">1883</date><biblScope type="page">78</biblScope></bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+     <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <keywords scheme="#medsurg">
+     <term>wounds and injuries of the lower extremities</term>
+     <term>wounds and injuries of the hip joint</term>
+     <term>shot fractures at the hip joint</term>
+     <term>shot fractures at the hip joint unsuccessfully treated by conservation</term>
+     <term>acetabulum and head of femur fractured</term>
+     <term>bullet entered above symphisis, shattered ramus of pubes, passed through acetabulum,
+      grooved head of femur</term>
+     <term>ramus of ischium fractured by indirect violence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+ <change who="#kmp" when="2014-05">blessed</change>
+   <change who="#ajh" when="2013-08-21">added figure encoding</change>
+   <change who="#mb" when="2012-02-13">additional case copied from MSHWR, performed proofing of copy
+    and XML encoding, and key terms identified</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+
+   <p>
+    <hi rend="initialcap">C</hi>ASE 156.&#8212;<name type="person" key="xxx">Private H. U.
+     Cady</name>, <name type="organization" key="xxx">Co. K, 207th Pennsylvania</name>, was wounded
+    at <name type="BATTLE" key="xxx">Petersburg</name>, <date type="injury" when="1865-04-02">April
+     2, 1865</date>, by a conoidal ball. He was carried to the field hospital of the Ninth Corps,
+    and remained there until <date type="transfer" when="1865-04-05">April 5th</date>, when he was
+    taken on board the <name type="hospital" key="xxx">hospital steamer State of Maine</name>. He
+    died <date type="death" when="1865-04-06">April 6th</date>, during the trip to <name
+     type="place">Alexandria</name>, and was buried from the <name type="hospital" key="512">Third
+     Division Hospital</name>. <name type="person" key="134">Surgeon E. Bentley</name>, <name
+     type="organization" key="132">U. S. V.</name>, who presented the injured upper extremity of the
+    left femur, with portions of the ilium and ischium, to <name type="hospital" key="431">the
+     Museum</name>, furnishes the following description of the specimen, No. 3205, A. M. M.,
+    represented in the adjoining wood-cut (<hi rend="initialcap">F</hi>IG. 31): &#34;The bullet
+    entered one inch above the symphisis and to the left of the median line, shattered the ramus of
+    the pubes, left the obturator vessels untouched, passed through the acetabulum, grooving the
+    head of the femur, and lodged in the loose tissue beyond. The ramus of the ischium appears to
+    have been fractured by indirect violence. The bony fragments in the track of the ball are
+    thoroughly necrosed.&#34; </p>
+
+   <figure><graphic url="cww.001521.001"/><head>
+    <hi rend="initialcap">F</hi>IG. 31.&#8212;Grooved head of left femur, with portion of ilium and
+    ischium. <hi rend="italic">Spec</hi>. 3205.</head></figure>
+
+  </body>
+ </text>
+</TEI>

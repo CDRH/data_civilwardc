@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d2e441">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Young, W.</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+    <idno>med.d2e441</idno>
+    <authority>Civil War Washington</authority>
+    <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor><name>Center for Digital Research in the
+     Humanities</name><address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address></distributor>
+    <date>2011</date>
+    <availability>
+     <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+      republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+      law, requires express written consent from the editors and advance notification of the
+      publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+     <persName xml:id="mb">Matthew Bosley</persName>
+     <persName xml:id="el">Elizabeth Lorang</persName>
+     <persName xml:id="sb">Stacey Berry</persName>
+     <persName xml:id="et">Elisabeth Tracey</persName>
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title level="j">The Medical and Surgical History of the War of the Rebellion.
+      (1861-65.)</title><pubPlace>Washington, DC</pubPlace><publisher>Government Printing
+      Office</publisher><biblScope type="part">Part 3</biblScope><biblScope type="volume">Volume
+      2</biblScope><date when="1883">1883</date><biblScope type="page">14-15</biblScope></bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+     <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <keywords scheme="#medsurg">
+     <term>wounds and injuries of the lower extremities</term>                                                                 
+     <term>flesh wounds of the lower extremities</term>
+     <term>shot flesh wounds</term>
+     <term>flesh wounds of the lower limbs with injury of the larger blood-vessels</term>
+     <term>wounds of blood-vessels treated without operation</term>
+     <term>shot contusion of the popliteal artery</term> 
+     <term><choice><orig>aneurism</orig><reg>aneurysm</reg></choice> after fourteen years</term> 
+     <term>general anesthesia, ether</term>
+     <term>gunshot wound of leg</term>
+     <term>wound of leg below knee</term>
+     <term>ball entered near the head of tibia</term>
+     <term>ball emerged through internal belly of gastrocnemius muscle behind internal condyle of the femur</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change who="#mb" when="2012-01-31">additional proofing of transcription and encoding</change>
+   <change who="#el" when="2011-05-11">case text extracted and transformed from larger file</change>
+   <change who="#sb" when="2011-06-04">Enrich Encoding, Edit and validate</change>
+   <change who="#sb" when="2011-01-28">Validated File</change>
+   <change who="Sarah Synovec" when="2008-09-22">Sarah Synovec initial checking of OCR text; encoded
+    P5 Encoding</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   
+    <p><hi rend="initialcap">C</hi>ASE 23.&#8212;<name type="person" key="871">Private W. Young</name>, <name type="organization" key="108">Co. K, 4th New York</name>, aged 19 years,
+     was wounded at <name type="BATTLE" key="251">Fredericksburg</name>, <date type="injury" when="1862-12-13">December 13, 1862</date>, and admitted to <name type="hospital" key="174">Campbell Hospital</name>, Washington, <date type="admit" when="1862-12-17">four days afterwards</date>. <name type="person" key="872">Surgeon J. H. Baxter</name>, <name type="organization" key="132">U. S. V.</name>, recorded: &#34;Gunshot wound of leg; patient transferred to Baltimore <date type="transfer" when="1863-01-08">January 8, 1863</date>.&#34; <name type="person" key="xx">Surgeon L. Quick</name>, <name type="organization"
+      key="132">U. S. V.</name>, reported that the patient was discharged from McKim's Mansion Hospital, <date type="hospitaldischarge" when="1863-03-18">March 18,
+       1863</date>, for &#34;gunshot wound of left leg, ball entering near the head of the tibia and
+     emerging through the internal belly of the gastrocnemius muscle, producing lameness.&#34; The <name
+      type="organization" key="xx">Boston Examining Board</name> certified, October 27, 1865: &#34;Has
+     had wound of leg below knee,  &#42;  &#42;  ball emerging one inch below and behind the internal condyle
+     of the femur, evidently passing across the internal saphenous vein. Cicatrices not adherent,
+     but there is some loss of substance of muscle, and the veins of the leg are varicose, probably
+     in consequence of the wound. Motions of joint good. He says he has pain in leg on walking or standing, and much pain in
+     popliteal space while sitting.&#34; On <date type="pension" when="1876-08-25">August 25, 1876</date>, this pensioner came under the care of <name
+      type="person" key="xx">Dr. J. Collins Warren</name>, at the <name type="hospital" key="xx">Massachusetts General Hospital</name>, who reported the further progress of the case to the <name type="organization" key="xx">Boston Society for
+      Medical Improvement</name>, in the <hi rend="italic">Boston Medical and Surgical Journal</hi>,
+     Vol. XCV, No. 18, as follows: &#34;Was wounded fourteen years ago, at the battle of <name
+      type="BATTLE" key="251">Fredericksburg</name>, by a musket ball, which entered the calf of the
+     left leg a little to the inside, and came out opposite the inner aspect of the knee joint.
+     There was no unusual amount of h&#230;morrhage at the time, and the wound healed well, but on
+     recovery a small bunch remained in the popliteal space, growing larger at times, and again
+     almost wholly disappearing. One year ago it grew larger than before and began to pulsate. It
+     soon filled the hollow of the knee, and during the last two months has spread rapidly on the
+     inside of the thigh. The skin over the popliteal space is made tense by an ill-defined
+     pulsating mass, which spreads along the course of the femoral artery to within eleven inches of
+     the anterior superior spinous process of the ilium. The left knee is nineteen inches in
+     circumference, while the right knee measures but thirteen and one-fourth inches. The patient
+     suffers severely from pain in the calf and foot, which is relieved only by frequent
+     subcutaneous injections of morphine. A pound cannon-ball applied to the femoral diminishes but
+     does not arrest pulsation in the vessel. Heavy pressure with the hand arrests pulsation
+     entirely. August 30th: The patient was etherized and pulsation in the femoral was arrested by
+     two hospital tourniquets applied, near the apex of Scarpa's triangle, alternately every fifteen
+     minutes for twelve hours. During this period the patient was kept profoundly etherized, about a
+     pound and a half of ether having been consumed for that purpose, with the exception of a few
+     minutes during the afternoon, when some beef-tea and brandy were administered. The pulse during
+     this time gradually rose from the normal rate to about 120, but subsided somewhat after
+     nourishment had been taken. On removing the tourniquets pulsation had ceased, although on
+     auscultation a slight murmur was heard beneath the tumor. At midnight there was no return of
+     the pulsation, but the next morning a slight pulsation was observed, which gradually increased
+     to its previous force. September 10th: Pressure was applied as before by tourniquet without
+     ether, the patient preferring to bear the pain, and was continued for twenty hours, but had no
+     effect upon the pulsations, which reappeared after it was removed. <date type="operation" when="1876-09-19">September 19th</date>: The patient
+     was etherized, the sac laid open, the clots, which were numerous, everted, and the artery tied
+     at each end. It was found that the sac extended to the point of bifurcation of the popliteal
+     artery. Two ligatures were therefore necessary at this point. The patient rallied well from the
+     operation, and for the first week the wound healed rapidly. An attack of erysipelas arrested
+     the healing process and reduced the patient greatly. On <date type="death" when="1876-10-03"
+      >October 3d</date>, h&#230;morrhage occurred from the upper end of the wound during the
+     afternoon, and although digital pressure was immediately resorted to by an attendant, and in a
+     few minutes the tourniquet was applied, the patient sank, and died the same evening. <name
+      type="person" key="xx">Dr. Fitz</name> showed the specimen, which consisted of the aorta from
+     its origin, the left femoral, and a portion of the <choice><orig>aneurism</orig><reg>aneurysm</reg></choice> in continuity. The fatal
+     h&#230;morrhage had resulted from the sloughing of the walls of the artery at the upper end of
+     the <choice><orig>aneurismal</orig><reg>aneurysmal</reg></choice> sac, where the ligature had been applied. There was no alteration of the inner
+     surface of the femoral artery, but the fibrous tissue was indurated around it, corresponding
+     with the region where compression had been applied. The entire inner coat of the thoracic aorta
+     was thickened, wrinkled, elevated in patches of an opaque grayish-white color, and the canal
+     was dilated, especially that of the arch. Just above the c&#339;liac axis these alterations
+     ceased abruptly, the interior of the abdominal aorta being smooth and yellow, its walls
+     evidently in a normal condition. The specimen was particularly interesting from the absence of
+     changes at the point of compression and the presence of chronic inflammatory conditions of the
+     thoracic aorta, such as are associated with the formation of <choice><orig>aneurisms</orig><reg>aneurysms</reg></choice> in a young man in whom a
+     popliteal <choice><orig>aneurism</orig><reg>aneurysm</reg></choice> had arisen directly or indirectly from a traumatic cause.&#34; </p>
+   
+  </body>
+ </text>
+</TEI>

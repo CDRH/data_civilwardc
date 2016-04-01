@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="cww.02521">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">From Washington</title>
+                <title level="m" type="sub">a machine readable transcription</title>
+                <editor role="co-editor">R. J. Weir</editor>
+                <principal>Susan C. Lawrence</principal>
+                <principal>Elizabeth Lorang</principal>
+                <principal>Kenneth M. Price</principal>
+                <principal>Kenneth J. Winkle</principal>
+                <respStmt>
+                    <resp>transcription and encoding</resp>
+                    <persName xml:id="ak">Alex Kinnaman</persName>
+                    <persName xml:id="el">Elizabeth Lorang</persName>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2015</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <idno>cww.02521</idno>
+                <distributor>Civil War Washington</distributor>
+                <publisher>University of Nebraska Lincoln</publisher>
+                <address>
+                    <addrLine>Center for Digital Research in the Humanities</addrLine>
+                    <addrLine>319 Love Library</addrLine>
+                    <addrLine>University of Nebraska-Lincoln</addrLine>
+                    <addrLine>P.O. Box 884100</addrLine>
+                    <addrLine>Lincoln, NE 68588-4100</addrLine>
+                </address>
+                <address>
+                    <addrLine>
+                        <email>cdrh@unl.edu</email>
+                    </addrLine>
+                </address>
+                <date>2015</date>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+                        <p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License (http://creativecommons.org/licenses/by-nc-sa/3.0/). Derivatives must be credited to Civil War Washington and R. J. Weir, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct xml:id="letter">
+                    <analytic>
+                        <author ref="#rh">R. H.</author>
+                        <title level="a">Editorial Correspondence</title>
+                    </analytic>
+                    <monogr>
+                        <title xml:id="paper" level="j">The Anglo-African</title>
+                        <imprint>
+                            <date xml:id="issue_date" when="1864-02-13">13 February 1864</date>                    
+                        </imprint>
+                        <biblScope type="pp">[2]</biblScope>                    
+                    </monogr>           
+                </biblStruct>
+                
+                <biblStruct xml:id="issue">               
+                    <monogr>
+                        <title level="j" sameAs="#paper"/>
+                        <imprint>
+                            <date sameAs="#issue_date"/>                  
+                        </imprint>              
+                    </monogr>                   
+                </biblStruct>                        
+            </sourceDesc>       
+        </fileDesc>
+        <encodingDesc> 
+            <p>This electronic text is a semi-diplomatic transcription of the source text. Hyphenation, punctuation, variant spellings, and errors present in the source text have been retained. The transcription does not attempt to capture all aspects of the original formatting or layout.</p>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <persName xml:id="rh">Hamilton, Robert</persName>
+                <persName xml:id="th">Hamilton, Thomas</persName>
+                <date when="1864">1864</date>
+            </creation>
+            <langUsage>
+                <language ident="en-US">modern American English</language>
+            </langUsage>
+            <textClass>
+                <classCode scheme="http://authorities.loc.gov">
+                    <term xml:id="sh85001817">African American churches</term>
+                    <term xml:id="sh2009113967">African Americans--Civil rights--History--19th century</term>
+                    <term xml:id="sh85001946">African Americans--Education</term>
+                    <term xml:id="sh2009114063">African Americans--Washington (D.C.)</term>
+                    <term xml:id="n83165271">African Civilization Society (U.S.)</term>
+                    <term xml:id="no94014581">Augusta, Alexander T., 1825-</term>
+                    <term xml:id="no2008120811">Cain, Richard Harvey, 1825-1887</term>
+                    <term xml:id="n50015173">Garnet, Henry Highland, 1815-1882</term>
+                    <term xml:id="no2004049682">Grimes, Leonard A., 1815-1874</term>
+                    <term xml:id="nr93052528">Hood, J. W. (James Walker), 1831-1918</term>
+                    <term xml:id="nr98019148">Martindale, J. H. (John Henry), 1815-1881</term>
+                    <term xml:id="n85145530">National Freedmen's Relief Association of the District of Columbia</term>
+                    <term xml:id="n87892836">Nineteenth Street Baptist Church (Washington, D.C.)</term>
+                    <term xml:id="n84037555">Payne, Daniel Alexander, 1811-1893</term>
+                    <term xml:id="sh85099544">Pennsylvania Avenue (Washington, D.C.)</term>
+                    <term xml:id="sh85119599">Segregation in transportation--United States</term>
+                    <term xml:id="n86066011">Stewart, Maria W., 1803-1879</term>
+                    <term xml:id="n96039168">Union Bethel Church (Washington, D.C.)</term>
+                    <term xml:id="sh85140274">United States--History--Civil War, 1861-1865--Societies, etc</term>
+                </classCode>
+                <classCode scheme="http://civilwardc.org">
+                    <term>Garnet, Mary</term>
+                    <term>Groves, Caroline W.</term>
+                    <term>Hamilton, Robert, 1819-1870</term>
+                    <term>Handy, James Anderson, 1826-1911</term>
+                    <term>Herbert, John J.</term>
+                    <term>Hinton, Thomas H. C.</term>
+                    <term>Literary society</term>
+                    <term>Thomas, Jeremiah R. V., 1827-1882</term>
+                </classCode>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when="2015-04-07" who="#ak">corrected</change>
+            <change when="2015-04-02" who="#el">checked transcription and encoding and made necessary changes; updated TEI header, including keywords</change>
+            <change when="2015-03-31" who="#ak">added keywords</change>
+            <change when="2015-02-25" who="#ak">checked, updated xml:id</change>
+            <change when="2014-11-12" who="#ak">transcribed, encoded</change>
+        </revisionDesc>
+    </teiHeader>
+    
+    <facsimile corresp="#issue">
+        <surface xml:id="pp1">
+            <graphic url="aa.18640213.pp1.jpg"/>
+        </surface>
+        <surface xml:id="pp2">
+            <graphic url="aa.18640213.pp2.jpg"/>
+            <zone xml:id="pp2_cropped" corresp="#letter">
+                <graphic url="aa.18640213.pp2_cropped.jpg"/>
+            </zone>
+        </surface>
+        <surface xml:id="pp3">
+            <graphic url="aa.18640213.pp3.jpg"/>
+        </surface>
+        <surface xml:id="pp4">
+            <graphic url="aa.18640213.pp4.jpg"/>
+        </surface>
+    </facsimile>
+    
+    <text corresp="#letter #pp2_cropped">
+        <body>
+            <head type="main" subtype="authorial" rend="center"><emph rend="italic">FROM WASHINGTON.</emph></head>
+            
+            <milestone unit="undelcared" rend="medium-bar"/>
+            
+            <opener>
+                <emph rend="italic">Editorial Correspondence.</emph>
+            </opener>
+            
+            <div>
+                <p><emph rend="smallcaps">The</emph> National Freedmen's Relief Association <lb/>have established nine free schools here&#8212;five <lb/>day and four evening&#8212;one of which is taught  <lb/>by that faithful friend of her race, Mrs. Maria <lb/>Stewart, once a teacher of public schools in <lb/>New York and Williamsburg, and also a <choice><orig>labor-<lb/>er</orig><reg>laborer</reg></choice> in the moral vineyard in Boston.  She has <lb/>been teaching in Baltimore for the last ten or <lb/>twelve years, and in this city about one year.</p>
+                
+                <p>The African Civilization Society has also <choice><orig>es- <lb/>tablished</orig><reg>established</reg></choice> a school here in the hall belonging <lb/>to the Union Bethel Church, and its success <lb/>has been beyond the most sanguine <choice><orig>expecta-<lb/>tions</orig><reg>expectations</reg></choice>.  It has been established about two <lb/>weeks, and although it numbered on the first <lb/>day but seven scholars, Madame C. W. Groves, <lb/>the efficient teacher, informs us that she has <lb/>now about eighty well-behaved boys and girls <lb/>present almost every day.</p> 
+                
+                <p>The reception which took place on the <choice><orig>morn-<lb/>ing</orig><reg>morning</reg></choice> of the 5th, was a very creditable affair. <lb/>Addresses were delivered by Rev. Messrs. <lb/>Hood, Handy, Herbert, Wilson, and Mr. T. H.  <lb/>C. Hinton and ourself, the exercises being <choice><orig>in-<lb/>terspersed</orig><reg>interspersed</reg></choice> with singing by the school.</p>
+            </div>
+            
+            <div>
+                
+                <head type="main" subtype="authorial" rend="center">A PUBLIC MEETING</head> 
+                
+                <p>Was held in the Union Bethel Church at <choice><orig>even-<lb/>
+                    ing</orig><reg>evening</reg></choice>, and after short addresses were delivered <lb/>by the Rev. Messrs. Handy and Cain, and some <lb/>remarks from Mr. Hinton and ourself, a society, <lb/>auxiliary to the A. C. Society of New York, <lb/>was formed, Rev. James A. Handy being made <lb/>President thereof, and the school was placed in <lb/>its charge.</p>
+            </div>
+            <div>
+                
+                <head type="main" subtype="authorial" rend="center">ISRAEL LYCEUM.</head>
+                
+                <p>This Association of ladies and gentlemen we <lb/>find to be, as far as numbers are concerned, in <lb/>a very flourishing condition.  Its President, <lb/>Thos. H. C. Hinton, is working like a beaver <lb/>to maintain its literary reputation, and his  <lb/>hands are well supported by Rev. Mr. Hughes, <lb/>John T. Costin, and other distinguished <choice><orig>gentle-<lb/>men</orig><reg>gentlemen</reg></choice>; also ladies.  Mr. Allen M. Bland has the  <lb/>honor of appearing before the Lyceum on <choice><orig>Thurs-<lb/>day</orig><reg>Thursday</reg></choice> evening, 11th inst., to deliver his fine <choice><orig>lec-<lb/>ture</orig><reg>lecture</reg></choice> on Touissant L'Ouverture, and on the  <lb/>Thursday evening following, we expect to say <lb/>a few words to them about music.</p>
+            </div>
+            <div>
+                
+                <head type="main" subtype="authorial" rend="center">ISRAEL CHURCH.</head> 
+                
+                <p>If securing money from the congregation for <lb/>church purposes be a test whereby to judge of <lb/>the success of a minister, then we may <choice><orig>pro-<lb/>nounce</orig><reg>pronounce</reg></choice> our friend, the Rev. J. R. V. Thomas, a <lb/>successful man.  He was sent here a few weeks  <lb/>ago by Bishop Payne, and he has already <lb/>swept away a debt of $100, which was resting <lb/>on the Church for repairs of basement, and this <lb/>payment, we believe, frees the Church from <lb/>debt.</p>
+                
+                <p>On Sabbath morning last, one of the <choice><orig>bre-<lb/>thren</orig><reg>brethren</reg></choice>, in acknowledging Brother Thomas's <choice><orig>ef-<lb/>ficiency</orig><reg>efficiency</reg></choice>, said that the gentleman wanted to <lb/>visit his family the next day, and called upon <lb/>the congregation to come forward and make up <lb/>$20 for him.  The audience was not very <choice><orig>nu-<lb/>merous</orig><reg>numerous</reg></choice>, but they put $16 on the table for him <lb/>in a few minutes.  Of course the evening <choice><orig>col-<lb/>lection</orig><reg>collection</reg></choice> must have been quite heavy, as that is <lb/>the time when the house is full.</p>
+                
+                <p>We regret to announce that our kind friend, <lb/>Rev. Henry M. Turner, late pastor of Israel <lb/>Church, is now lying ill with the small-pox, in <lb/>the hospital at Portsmouth.  Mrs. Turner is <lb/>now in that city.</p>
+            </div>
+            <div>
+                
+                <head type="main" subtype="authorial" rend="center">NINETEENTH STREET BAPTIST CHURCH.</head> 
+                
+                <p>This church which is under the pastoral  <lb/>charge of the Rev. Mr. Maddon, is in a very <lb/>flourishing condition.  It has more <emph rend="italic">members</emph> now <lb/>than the church will hold, to say nothing about  <lb/>the congregation, and persons are joining the  <lb/>Society all the time.</p> 
+                
+                <p>The brethren talk about erecting another  <lb/>church elsewhere, and transferring a number  <lb/>of the members to it, but if our voice could be <lb/>heard, we would say, <emph rend="italic">do no such thing.</emph>  We <lb/>have little churches enough already&#8212;let us <lb/>have more large ones.  Bethel Church in <choice><orig>Balti-<lb/>more</orig><reg>Baltimore</reg></choice> is not only an honor to the congregation; <lb/>but it gives tone and character to the colored <lb/>people of the country, and no enemy of our <lb/>race can enter that grand temple without <choice><orig>re-<lb/>ceiving</orig><reg>receiving</reg></choice> exalted ideas of us as a people.  <choice><orig>Gen-<lb/>tlemen</orig><reg>Gentlemen</reg></choice> we entreat you to let us have a <choice><orig>Bap-<lb/>tist</orig><reg>Baptist</reg></choice> Church that shall not only be a credit to <lb/>us as a people just emerging from slavery, but <lb/>shall also be an ornament to the capital of our <lb/>country.  Denominations, be their numbers <lb/>ever so great, cannot assume their proper <lb/>places in the religious world as long as they <lb/>confine themselves to little houses of worship.</p> 
+            </div>
+            <div>
+                
+                <head type="main" subtype="authorial" rend="center">DOCTOR AUGUSTA.</head>
+                
+                <p>This gentleman has again been the subject <lb/>of outrage.  He was ejected from one of the  <lb/>cars on Pennsylvania avenue last week.  This, <lb/>though very inconvenient for the doctor, may <lb/>turn out to be a great good for our people, as <lb/>both the military and congressional authorities  <lb/>have taken the matter in hand.  Dr. Augusta <lb/>was on his way to attend a court-martial as a  <lb/>witness, and this expulsion put him half an <lb/>hour behind time.  Of course, the judges were <lb/>compelled to take cognizance of the excuse <lb/>and Gen. Martindale promises to see the thing <lb/>through.</p> 
+                
+                <p>The impudence of these conductors towards <lb/>colored people is insufferable, and it is quite  <lb/>time that they <gap reason="illegible" unit="chars" quantity="30"/><lb/>
+                    intend to maintain them.  One puppy had <lb/>the audacity to command Mrs. Maria Knox of <lb/>New York, and Mrs. Dove of Georgetown, to <lb/>cease talking in the car, because they dared to  <lb/>raise their voices against his brutality.  We <lb/>certainly hope that Congress may do something <lb/>in the matter, before some black man is <choice><orig>com-<lb/>pelled</orig><reg>compelled</reg></choice> to shoot one or two of the scoundrels, <lb/>for it is too late in the day to bear these insults <lb/>tamely.</p> 
+                
+                <p>The friends of Miss Mary Garnet, daughter <lb/>of Rev. H. H. Garnet, will be pleased to know <lb/>that a residence in this city is improving her <lb/>health materially.  We are sorry to learn, as <lb/>we do, from Mr. John Grimes, that his father, <lb/>the Rev. L. A. Grimes, of Boston, is quite sick.  <lb/>He had a slight stroke of paralysis, which will <lb/>prevent him from exercising his calling for <lb/>sometime to come.  Many prayers will be <choice><orig>of-<lb/>fered</orig><reg>offered</reg></choice> for his recovery.</p>
+                
+                <p>Much sympathy is felt in this city for Mr. <lb/>Daniel Brooks, who shot the bar-keeper in <choice><orig>Ful-<lb/>ton</orig><reg>Fulton</reg></choice> street, New York.</p>
+                
+                <p>Those who know Mr. Brooks best, say that  <lb/>the provocation must have been very great that <lb/>induced him to commit the deed, and they are <lb/>well satisfied that the trial will reveal quite a  <lb/>different story from that found in the daily  <lb/>press of the city.</p>
+                
+                <p>We sincerely hope that such may be the  <lb/>case.</p>   
+                
+                <closer>
+                    <signed rend="right">R. H.</signed>
+                <dateline>Washington, D. C., Feb., 8, 1864.</dateline>
+                </closer>
+                
+                <postscript>
+                    <label>P. S.</label><p>&#8212;Correspondents on private matters <lb/>will please direct their letters to the care of <lb/>Mrs. St. Clair Davis, 212, K street, <choice><orig>Washing-<lb/>ton</orig><reg>Washington</reg></choice>, D. C.</p>
+                </postscript>
+                
+            </div>
+        </body>
+    </text>
+    
+</TEI>

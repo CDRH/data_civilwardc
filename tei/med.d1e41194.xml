@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e41194">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">McBeth, Franklin</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+    <idno>med.d1e41194</idno>
+       <authority>Civil War Washington</authority>
+       <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor>
+       <name>Center for Digital Research in the Humanities</name>
+       <address><addrLine>319 Love Library</addrLine>
+       <addrLine>University of Nebraska–Lincoln</addrLine>
+       <addrLine>Lincoln, NE 68588-4100</addrLine>
+       <addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+    </distributor>
+    <date>2011</date>
+    <availability>
+        <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+         republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+         law, requires express written consent from the editors and advance notification of the
+         publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+     <persName xml:id="mb">Matthew Bosley</persName>
+     <persName xml:id="el">Elizabeth Lorang</persName>
+     <persName xml:id="sb">Stacey Berry</persName>
+     <persName xml:id="ao">Alyssa Olson</persName>
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl>
+     <title level="j">The Medical and Surgical History of the War of the Rebellion. (1861-65.)</title>
+     <pubPlace>Washington, DC</pubPlace>
+     <publisher>Government Printing Office</publisher>
+     <biblScope type="part">Part 2</biblScope>
+     <biblScope type="volume">Volume 1</biblScope>
+     <date when="1879">1879</date>
+     <biblScope type="page">177-178</biblScope>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+       <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+      <keywords scheme="#medsurg">
+       <term>diarrh&#339;a and dysentery</term>
+       <term>fatal cases of diarrh&#339;a and dysentery, with accounts of the morbid appearances observed</term>
+       <term>from Lincoln Hospital, Washington, D. C.</term>
+       <term>typhoid fever</term>
+       <term>chronic diarrh&#339;a</term>
+       <term>pleural cavity contained bloody serum</term>
+       <term>pericardium contained serum</term>
+       <term>duodenum congested, Brunner's glands enlarged</term>
+       <term>mucous membrane of jejunum and ileum congested, solitary glands and Peyer's patches thickened and prominent, no ulceration</term>
+       <term>mucous membrane of large intestine studded with ulcerations of small size, most plentiful in sigmoid flexure and rectum</term>
+       <term>mucous membrane between ulcers dotted over with patches of pseudomembrane</term>       
+       <term>autopsy performed</term>       
+     </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change who="#mb" when="2012-11-19">additional proofing of transcription and encoding, identified keyword terms</change>
+   <change who="#el" when="2010-11-05">case text extracted and transformed from larger file</change>
+   <change who="#sb" when="2010-05-01">enrich encoding, proof and edit</change>
+   <change who="#ao" when="2008-10-02">encoding and editing</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body> 
+   <p>Case from the case-book of <name type="hospital" key="176"><hi rend="initialcap">L</hi>INCOLN <hi rend="initialcap">H</hi>OSPITAL</name>, Washington, D. C.; <name type="person" key="243">Surgeon J. Cooper McKee</name>, <name type="organization" key="190">U. S. A.</name>, in charge.</p>
+   <p><hi rend="initialcap">C</hi>ASE 398.&#8212;<name type="person" key="xxx">Private Franklin McBeth</name>, <name type="organization" key="xxx">company E, 67th Pennsylvania volunteers</name>; age 22; admitted <date type="admit" when="1864-02-03">February 3, 1864</date>.  [This man appears on the register of the regimental hospital of the 67th Pennsylvania volunteers, then near <name type="place">Brandy Station, Virginia</name>, admitted <date type="admit" when="18630-11-14">November 14, 1863</date>&#8212;typhoid fever; January 1, 1864, chronic diarrh&#339;a is recorded&#8212;sent to general hospital <date type="transfer" when="1864-02-03">February 3d</date>.]  Died, <date type="death" when="1864-03-04">March 4, 1864</date>.  <hi rend="italic">Autopsy</hi> <date type="autopsy" when="1864-03-05">twenty-two hours after death</date>: Height five feet six inches; body much emaciated. The brain was slightly congested, otherwise normal; weight forty-eight ounces and a half. The trachea and bronchial tubes were normal. The lungs were also normal, with the exception of slight congestion of the left lung; weight of right lung eight ounces and a half, left lung fifteen ounces; the left pleural cavity contained two ounces of bloody serum. The heart was healthy, its valves perfect; weight five ounces and a half. The pericardium contained two drachms of serum. The liver was healthy; weight forty-five ounces; the gall-bladder contained an ounce of bile. The spleen was of a dark-mahogany color; weight three ounces and a half. The pancreas was healthy; weight three ounces. The kidneys were apparently healthy; weight of right kidney six ounces and a half, left kidney five and a half. The bladder was considerably distended with urine. The &#339;sophagus was normal. The stomach was moderately congested, its mucous membrane thickened. The duodenum was congested, and Brunner's glands were enlarged. Portions of the mucous membrane of the jejunum and ileum were congested. The solitary glands and Peyer's patches were thickened and very prominent, but there was no ulceration. The mucous membrane of the large intestine was thickened throughout, and studded with ulcerations of small size, none exceeding the third of an inch in diameter; some had apparently cicatrized, some were in the process of healing, while others seemed recent and extending; these ulcers were least abundant in the upper portion of the large intestine, the c&#230;cum being nearly free from them; they were most plentiful in the sigmoid flexure and the rectum; the mucous membrane between the ulcers was dotted over with numerous little patches of pseudomembrane, which adhered quite firmly. The appendix vermiformis was capacious, its mucous lining thickened and congested.</p>
+  </body>
+ </text>
+</TEI>

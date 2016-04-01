@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d2e28485">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Nelson, P.</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+    <idno>med.d2e28485</idno>
+    <authority>Civil War Washington</authority>
+    <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor><name>Center for Digital Research in the
+     Humanities</name><address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address></distributor>
+    <date>2011</date>
+    <availability>
+     <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+      republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+      law, requires express written consent from the editors and advance notification of the
+      publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted:
+     <persName xml:id="ajh">AJ Howell</persName>
+     <persName xml:id="el">Elizabeth Lorang</persName>
+     <persName xml:id="sb">Stacey Berry</persName>
+     <persName xml:id="et">Elisabeth Tracey</persName>
+     <persName xml:id="ss">Sarah Synovec</persName>
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title level="j">The Medical and Surgical History of the War of the Rebellion.
+      (1861-65.)</title><pubPlace>Washington, DC</pubPlace><publisher>Government Printing
+      Office</publisher><biblScope type="part">Part 3</biblScope><biblScope type="volume">Volume
+      2</biblScope><date when="1883">1883</date><biblScope type="page">821</biblScope></bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+     <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <keywords scheme="#medsurg">
+     <term>wounds and complications</term> 
+     <term>tetanus</term>     
+     <term>ball shattered radius and ulna of forearm at junction of middle and lower thirds, wounded ulnar nerve</term>
+     <term>tetanus, stiffening of jaws, pain and restlessness</term> 
+     <term>amputation after tetanic symptoms</term>
+     <term>stiffening of jaws, great pain and restlessness, irritable pulse</term> 
+     <term>amputation of arm at middle third</term>
+     <term><term>general anesthesia, chloroform</term></term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change who="#ajh" when="2012-06-07">additional proofing of transcription and encoding, identified keyword terms</change>
+   <change who="#el" when="2011-05-11">case text extracted and transformed from larger file</change>
+   <change who="#sb" when="2011-06-04">Enrich Encoding, Edit and validate</change>
+   <change who="#sb" when="2011-01-28">Validated File</change>
+   <change who="#ss" when="2008-09-22">initial checking of OCR text; encoded P5 Encoding</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+    <p><hi rend="initialcap">C</hi>ASE 1199.&#8212;<name type="person" key="1510">Corporal P.
+      Nelson</name>, <name type="organization" key="509">Co. K, 139th Pennsylvania</name>, aged 19
+     years, was wounded at <name type="BATTLE" key="12">the Wilderness</name>, <date type="injury"
+      when="1864-05-05">May 5, 1864</date>, by a musket ball, which shattered the radius and ulna of
+     the right forearm for two inches at the junction of the middle and lower thirds, also wounding
+     the ulnar nerve. <date type="admit" when="1864-05-12">One week after receiving the injury</date> the man entered <name type="hospital"
+      key="152">Finley Hospital</name>, Washington, where he did well until <date type="injury" when="1864-06-09">June 9th</date>, when the arm
+     became much swollen and symptoms of tetanus ensued, including stiffening of the jaws, great
+     pain and restlessness, and irritable pulse. On <date type="operation" when="1864-06-11">June 11th</date> circular amputation of the arm at the
+     middle third was performed under chloroform by <name type="person" key="1509">Acting Assistant
+      Surgeon D. P. Wolhaupter</name>. All symptoms of tetanus disappeared after the operation and
+     the patient rapidly recovered. He was ultimately discharged from service <date type="servicedischarge"
+      when="1865-07-27">July 27, 1865</date>, and pensioned. The two lower thirds of the bones of
+     the fractured forearm were contributed, with the history of the case, to <name
+      type="hospital" key="431">the Museum</name> by <name type="person" key="72">Surgeon G. L.
+      Pancoast</name>, <name type="organization" key="132">U. S. V.</name>, and constitute specimen
+     2586 of the <hi rend="italic">Surgical Section</hi>.</p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e12371">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Coty, Jesse</title>
+                <title level="m" type="sub">a machine readable transcription</title>
+                <principal>Susan C. Lawrence</principal>
+                <principal>Kenneth M. Price</principal>
+                <principal>Kenneth J. Winkle</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2011</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <idno>med.d1e12371</idno>
+                <authority>Civil War Washington</authority>
+                <publisher>University of Nebraska–Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+                </distributor>
+                <date>2011</date>
+                <availability>
+                    <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved.
+                        Redistribution or republication in any medium, except as allowed under the
+                        Fair Use provisions of U.S. copyright law, requires express written consent
+                        from the editors and advance notification of the publisher, the University
+                        of Nebraska–Lincoln.</p>
+                </availability>
+            </publicationStmt>
+            <notesStmt>
+                <note type="project">The following are responsible for particular readings or for changes to this file, as noted: 
+                    <persName xml:id="mb">Matthew Bosley</persName>
+                    <persName xml:id="el">Elizabeth Lorang</persName>
+                    <persName xml:id="sb">Stacey Berry</persName>
+                    <persName xml:id="et">Elisabeth Tracey</persName>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>The Medical and Surgical History of the War of the Rebellion. (1861&#8211;65.)</title>
+                    <editor role="compiler">Surgeon General Joseph K. Barnes, United States Army</editor>
+                    <pubPlace>Washington, D.C.</pubPlace>
+                    <publisher>Government Printing Office</publisher>
+                    <biblScope type="part">Part 1</biblScope>
+                    <biblScope type="volume">Volume 2</biblScope>
+                    <date when="1870">1870</date>
+                    <biblScope type="page">175</biblScope>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <classDecl>
+                <taxonomy xml:id="medsurg">
+                    <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme="#medsurg">
+                    <term>on special wounds and injuries of the head</term>
+                    <term>wounds and injuries of the head</term>
+                    <term>gunshot wounds</term>
+                    <term>gunshot contusions of the cranial bones</term> 
+                    <term>gunshot fractures of both tables of the skull</term>
+                    <term>gunshot fractures of both tables of the cranium with depression</term>
+                    <term>gunshot fracture of cranial bones accompanied by hemiplegia or paraplegia</term>
+                    <term>piece of shell fractured posterior superior angle of parietal bone and injured brain</term>                    
+                    <term>incapacity from dimness of sight and partial hemiplegia</term>
+                    <term>disability rated three-fourths and permanent</term>                    
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change who="#mb" when="2013-07-08">additional proofing of transcription and encoding, edited and added keyword terms</change>
+            <change who="#mb" when="2011-07-21">additional proofing of transcription and encoding</change>            
+            <change who="#el" when="2011-11-05">case text extracted and transformed from larger file</change>
+            <change who="#sb" when="2011-02-09">enriched encoding</change>
+            <change who="#sb" when="2011-01-28">validated file</change>
+            <change who="#et" when="2009-08-01">encoded</change>
+            <change who="#sb" when="2008-09-22">initial checking of OCR text against PDF; encoded</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body xml:id="ch1.sc3.0215">            
+                <p><hi rend="initialcap">C</hi>ASE.&#8212;<name type="person" key="1529">Private
+                        Jesse Coty</name>, <name type="organization" key="217">Co. A, 6th Vermont
+                            Volunteers</name>, aged 30 years, was wounded <name type="BATTLE" key="58">before Petersburg, Virginia</name>,
+                        <date type="injury" when="1865-04-02">April 2d, 1865</date>, by a piece of
+                    shell, which fractured the posterior superior angle of the left parietal bone
+                    and injured the brain.  On <date type="admit" when="1865-04-02">the same day</date> he was taken to the regimental field
+                    hospital, and thence transferred to the <name type="hospital" key="175">Stanton
+                        Hospital</name> at Washington, where he was admitted <date type="transfer"
+                        when="1865-04-08">April 8th, 1865</date>.  The treatment, so far as recorded,
+                    consisted of simple dressings.  He recovered, and was discharged <date
+                        type="servicedischarge" when="1865-07-01">July 1st, 1865</date>.  In <date
+                        type="pension" when="1868-07">July, 1868</date>, he was pensioned for an
+                    incapacity resulting from dimness of sight and partial hemiplegia of the right
+                    side. His disability is rated three-fourths and permanent.</p>            
+        </body>
+    </text>
+</TEI>

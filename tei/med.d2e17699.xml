@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d2e17699">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Ellis, W. W.</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+    <idno>med.d2e17699</idno>
+    <authority>Civil War Washington</authority>
+    <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor><name>Center for Digital Research in the
+     Humanities</name><address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address></distributor>
+    <date>2011</date>
+    <availability>
+     <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+      republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+      law, requires express written consent from the editors and advance notification of the
+      publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+     <persName xml:id="mb">Matthew Bosley</persName>
+     <persName xml:id="el">Elizabeth Lorang</persName>
+     <persName xml:id="sb">Stacey Berry</persName>
+     <persName xml:id="et">Elisabeth Tracey</persName>
+     <persName xml:id="ss">Sarah Synovec</persName>
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title level="j">The Medical and Surgical History of the War of the Rebellion.
+      (1861-65.)</title><pubPlace>Washington, DC</pubPlace><publisher>Government Printing
+      Office</publisher><biblScope type="part">Part 3</biblScope><biblScope type="volume">Volume
+      2</biblScope><date when="1883">1883</date><biblScope type="page">434-435</biblScope></bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+     <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <keywords scheme="#medsurg">
+     <term>wounds and injuries of the lower extremities</term> 
+     <term>wounds and operations in the leg</term>
+     <term>shot fractures of the bones of the leg</term>
+     <term>shot fractures of the bones of the leg treated by conservation</term> 
+     <term>shot fractures involving the tibia treated by conservation</term> 
+     <term>recoveries after shot fractures of the tibia treated by conservation</term>
+     <term>fractured tibia near middle</term> 
+     <term>ball entered posteriorly at gastrocnemius muscle and retained</term> 
+     <term>fracture united without exfoliation, necrosis, or suppuration</term>
+     <term>severe catarrh</term>
+     <term>hyper&#230;sthesia of foot</term>
+     <term>shortening of the limb, occasional lameness</term>
+     <term>cicatrices on side of tibia</term>
+     <term>leg bent and shortened, foot swollen and tender</term>
+     <term>muscles shrunken above ankle</term>         
+    </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change who="#mb" when="2012-06-01">additional proofing of transcription and encoding, identified keyword terms</change>
+   <change who="#el" when="2011-05-11">case text extracted and transformed from larger file</change>
+   <change who="#sb" when="2011-06-04">Enrich Encoding, Edit and validate</change>
+   <change who="#sb" when="2011-01-28">Validated File</change>
+   <change who="#ss" when="2008-09-22">initial checking of OCR text; encoded P5 Encoding</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>   
+    <p><hi rend="initialcap">C</hi>ASE 677.&#8212;<name type="person" key="1234">Captain W. W.
+      Ellis</name>, <name type="organization" key="491">Co. D, 61st Pennsylvania</name>, aged 23
+     years, was wounded in the left leg, at <name type="BATTLE" key="10">Chancellorsville</name>, <date type="injury" when="1863-05-03">May 3, 1863</date>, and entered <name
+      type="hospital" key="162">Douglas Hospital</name>, Washington, <date type="admit" when="1863-05-08">five days afterwards</date>. <name
+      type="person" key="200">Assistant Surgeon W. Thomson</name>, <name type="organization"
+      key="190">U. S. A.</name>, reported: "This officer suffered a fracture of the tibia near its
+     middle by a ball, which entered posteriorly at the gastrocnemius muscle, and was retained. The
+     fracture united without exfoliation, necrosis, or even free suppuration. The leg was placed in
+     a bran box and dressed with cold-water applications. The patient suffered from severe catarrh,
+     which yielded to treatment. There was also hyper&#230;sthesia of the foot, for which, <date type="operation" when="1863-06">before
+     the patient left on furlough</date> in <date type="furlough" when="1863-06">June</date>, I made an
+     incision in search of the ball and disturbed the cicatrix with good effect, relieving the
+     nervous irritation of the foot. When the patient returned from furlough, <date type="furlough" when="1863-09-01">September 1st</date>, he was
+     ordered to report to <name type="person" key="1235">Surgeon M. Clymer</name>, <name
+      type="organization" key="132">U. S. V.</name>, for treatment, and I lost sight of him. His
+     recovery was good, but the leg was yet feeble and contracted, owing to want of passive motion
+     while at his home." <name type="person" key="1234">Captain Ellis</name> resigned <date type="duty" when="1864-01-01">January 1, 1864</date>, and was commissioned in the
+      <name type="organization" key="109">Veteran Reserve Corps</name>, in which organization he
+     served until <date type="servicedischarge" when="1866-03-13">March 13, 1866</date>, when he was mustered out and
+     pensioned. <name type="person" key="xx">Examining Surgeon G. Urquhart</name>, of <name
+      type="place" key="xx"><choice><orig>Wilkesbarre</orig><reg>Wilkes-Barre</reg></choice>, Pennsylvania</name>, <date type="pension" when="1866-08-22">August 22, 1866</date>, certified to
+     half an inch shortening of the limb; also to painfulness, weakness, and occasional lameness.
+      <name type="person" key="xx">Examiner J. W. Martin</name>, of <name type="place" key="xx">Red Oak, Iowa</name>,
+     reported, <date type="pension" when="1873-09-04">September 4, 1873</date>: "There are large cicatrices on the left side of the tibia; leg
+     bent and shortened; foot swollen and tender, and muscles shrunken above the ankle. He suffers
+     extreme pain in the leg and is unable to bear much weight upon it; general health not good."
+     The pensioner was paid <date type="pension" when="1880-09-04">September 4, 1880</date>. </p>   
+  </body>
+ </text>
+</TEI>

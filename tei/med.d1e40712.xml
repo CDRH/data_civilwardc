@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e40712">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">McEnleer, Christopher</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+       <idno>med.d1e40712</idno>
+       <authority>Civil War Washington</authority>
+       <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor>
+       <name>Center for Digital Research in the Humanities</name>
+       <address><addrLine>319 Love Library</addrLine>
+       <addrLine>University of Nebraska–Lincoln</addrLine>
+       <addrLine>Lincoln, NE 68588-4100</addrLine>
+       <addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+    </distributor>
+    <date>2011</date>
+    <availability>
+        <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+         republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+         law, requires express written consent from the editors and advance notification of the
+         publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+     <persName xml:id="mb">Matthew Bosley</persName>
+     <persName xml:id="el">Elizabeth Lorang</persName>
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl>
+     <title level="j">The Medical and Surgical History of the War of the Rebellion. (1861-65.)</title>
+     <pubPlace>Washington, DC</pubPlace>
+     <publisher>Government Printing Office</publisher>
+     <biblScope type="part">Part 1</biblScope>
+     <biblScope type="volume">Volume 2</biblScope>
+     <date when="1879">1879</date>
+     <biblScope type="page"></biblScope>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+       <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+      <keywords scheme="#medsurg">
+       <term>diarrh&#339;a and dysentery</term>
+       <term>fatal cases of diarrh&#339;a and dysentery, with accounts of the morbid appearances observed</term>
+       <term>from DeCamp Hospital, David's Island, New York harbor</term>
+       <term>chronic diarrh&#339;a</term>
+       <term>troubled with diarrh&#339;a about eight months</term>
+       <term>autopsy performed</term>       
+       <term>small intestines much ulcerated</term>
+     </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change who="#el" when="2014-07-28">added main title content in titleStmt</change>
+   <change who="#mb" when="2012-11-16">additional proofing of transcription and encoding, identified keyword terms</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body> 
+   <p>Case forwarded on medical descriptive lists from the <hi rend="initialcap">D</hi>E<hi rend="initialcap">C</hi>AMP <hi rend="initialcap">H</hi>OSPITAL, <name type="place">David's Island, New York harbor</name>. <name type="person" key="xxx">Acting Assistant Surgeon James W. Dickey</name> in charge at the date the case was forwarded.</p>     
+   <p><hi rend="initialcap">C</hi>ASE 102.&#8212;<name type="person" key="115">Private Christopher McEnleer</name>, <name type="organization" key="126">company K, 1st United States artillery</name>; age 26; admitted <date type="transfer" when="1863-05-12">May 12, 1863</date>.  Chronic diarrh&#339;a.  This man was admitted to <name type="hospital" key="171">Armory Square hospital</name>, Washington, D. C., <date type="admit" when="1863-04-22">April 22, 1863</date>, with chronic diarrh&#339;a, and sent to <name type="place">New York</name> on <date type="transfer" when="1863-05-05">May 5th</date>.  <date type="admit" when="1863-05-06">May 6th</date>, he was admitted to the Convalescent hospital, <name type="place">Fort Wood, Bedloe's Island, New York harbor</name>, whence he was transferred to this hospital at the date given.]  The patient stated that he had been troubled with diarrh&#339;a about eight months. He has now from four to six passages a day. Ordered five grains of extract of logwood three times a day; rice-water for drink. After a week or two, as the diarrh&#339;a continued unabated, injections of laudanum and sulphate of zinc were directed, with the effect of diminishing the stools to from one to three daily. The patient improved in strength and was able to walk out quite frequently.  June 15th: injections continued.  July 1st: The stools are again more frequent, although the injections have been given regularly. The patient is evidently failing. Died, <date type="death" when="1863-07-07">July 7th</date>. The injections were continued till the day of his death.  <hi rend="italic">Autopsy:</hi> Some indications of inflammation were found in the right lung and kidney, and also in the posterior portion of the right lobe of liver. The small intestines were found to be much ulcerated.  [The condition of the large intestine is not recorded.]&#8212;<name type="person" key="xxx">Acting Assistant Surgeon James W. Dickey</name>.</p>
+  </body>
+ </text>
+</TEI>

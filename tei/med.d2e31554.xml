@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d2e31554">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">K&#8212;&#8212;, Martin</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+       <idno>med.d2e31554</idno>
+       <authority>Civil War Washington</authority>
+       <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor>
+       <name>Center for Digital Research in the Humanities</name>
+       <address><addrLine>319 Love Library</addrLine>
+       <addrLine>University of Nebraska–Lincoln</addrLine>
+       <addrLine>Lincoln, NE 68588-4100</addrLine>
+       <addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+    </distributor>
+    <date>2011</date>
+    <availability>
+        <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+         republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+         law, requires express written consent from the editors and advance notification of the
+         publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+ <persName xml:id="kmp">Kenneth M. Price</persName> 
+     <persName xml:id="mb">Matthew Bosley</persName>
+     <persName xml:id="mb-o">Miguel Beltran-Orozco</persName>
+     <persName xml:id="kk">Kourtney Klein</persName>
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl>
+     <title level="j">The Medical and Surgical History of the War of the Rebellion. (1861-65.)</title>
+     <pubPlace>Washington, DC</pubPlace>
+     <publisher>Government Printing Office</publisher>
+     <biblScope type="part">Part 2</biblScope>
+     <biblScope type="volume">Volume 2</biblScope>
+     <date when="1876">1876</date>
+     <biblScope type="page">156</biblScope>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+       <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+      <keywords scheme="#medsurg">
+       <term>injuries of the abdomen</term>
+       <term>penetrating wounds of the abdomen</term>
+       <term>wounds of the spleen</term>
+       <term>gunshot wounds</term>
+       <term>shot wound of spleen associated with wound of kidney</term>
+       <term>ball entered left side over eighth rib, penetrated diaphragm, lacerated spleen and kidney, fractured ninth and tenth ribs, lodged beneath skin</term>
+       <term>ball removed on field</term>
+       <term>acute traumatic pleuritis</term>
+       <term>bloody serum in thoracic cavity</term>
+       <term>pleural effusion, lung compressed</term>
+       <term>blood effused into abdominal cavity</term>
+       <term>compressed air in air vesicles</term>
+       <term>air in thoracic cavity compressed by increasing effusion</term>       
+     </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+ <change who="#kmp" when="2014-05">blessed</change>
+   <change who="#kk" when="2014-01-17">added figure encoding</change>
+   <change who="#mb" when="2012-08-07">additional proofing of transcription and encoding, identified keyword terms</change>
+   <change who="#mb-o" when="2011-02-20">checked OCR; added minimal mark-up for personal names, place names, and dates</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body> 
+   <p><hi rend="initialcap">C</hi>ASE 499.&#8212;<name type="person" key="xxx">Lieutenant Martin K&#8212;&#8212;</name>, <name type="organization" key="xxx">Co. A, 69th New York</name>, aged 25 years, was wounded at <name type="BATTLE" key="3"><choice><orig>Spottsylvania</orig><reg>Spotsylvania</reg></choice></name>, <date type="injury" when="1864-05-12">May 12, 1864</date>. He was conveyed by ambulance to <name type="place">Belle Plain</name>, and thence by steamer to <name type="place" key="#Washington">Washington</name>, where he arrived <date type="admit" when="1864-05-25">thirteen days after the reception of the injury</date>, and was admitted into <name type="hospital">Douglas Hospital</name>.  He died on <date type="death" when="1864-05-26">May 26, 1864</date>.  At the autopsy the ball was found to have entered the left side one inch outside of a line falling from the nipple over the eighth rib, to have penetrated the diaphragm in two places, lacerated the spleen (<hi rend="initialcap">F</hi>IG. 120) and left kidney, fractured the ninth and tenth ribs, and lodged in the soft parts beneath the skin, from which place it had been removed on the field. The symptoms previous to death were those due to acute traumatic pleuritis, and two quarts of bloody serum were found in the left thoracic cavity. The pleura was covered thickly with a layer of pink lymph, and the lung was compressed. The occlusion of the two openings in the inferior portion of the cavity and the retention of so large a quantity of fluid is remarkable, and indicates the necessity for ascertaining that free exits exist for such effusions. A quantity of blood was found effused into the abdominal cavity.  It is remarkable that life should continue so long with such extensive injuries. Another observation worthy of notice was, that the upper portion of the left thoracic cavity was sonorous on percussion, a condition due to the compressed air in the air vesicles, or to the presence of some air in the thoracic cavity compressed by the increasing effusion.  Upon <choice><orig>microscopical</orig><reg>microscopic</reg></choice> examination, a transverse section exhibits no modifications of the normal structure except those obviously due to congestion. The Malpighian bodies are natural in number and distribution; the veins and capillaries are enlarged.</p> 
+   
+   <figure>
+    <graphic url="cww.001766.001" />
+    <head><hi rend="initialcap">F</hi>IG. 120.&#8212;Posterior surface of a spleen, showing the lacerated wound of emergence of a musket ball.    <hi rend="italic">Spec</hi>. 3527.    [Reduced to one-third.]</head>
+   </figure>  
+   
+  </body>
+ </text>
+</TEI>

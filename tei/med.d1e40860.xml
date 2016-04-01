@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e40860">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Jabbit, Joseph</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+       <idno>med.d1e40860</idno>
+       <authority>Civil War Washington</authority>
+       <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor>
+       <name>Center for Digital Research in the Humanities</name>
+       <address><addrLine>319 Love Library</addrLine>
+       <addrLine>University of Nebraska–Lincoln</addrLine>
+       <addrLine>Lincoln, NE 68588-4100</addrLine>
+       <addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+    </distributor>
+    <date>2011</date>
+    <availability>
+        <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+         republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+         law, requires express written consent from the editors and advance notification of the
+         publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+     <persName xml:id="mb">Matthew Bosley</persName>
+     <persName xml:id="el">Elizabeth Lorang</persName>
+     <persName xml:id="sb">Stacey Berry</persName>
+     <persName xml:id="ao">Alyssa Olson</persName>
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl>
+     <title level="j">The Medical and Surgical History of the War of the Rebellion. (1861-65.)</title>
+     <pubPlace>Washington, DC</pubPlace>
+     <publisher>Government Printing Office</publisher>
+     <biblScope type="part">Part 2</biblScope>
+     <biblScope type="volume">Volume 1</biblScope>
+     <date when="1879">1879</date>
+     <biblScope type="page">148</biblScope>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+       <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+      <keywords scheme="#medsurg">
+       <term>diarrh&#339;a and dysentery</term>
+       <term>fatal cases of diarrh&#339;a and dysentery, with accounts of the morbid appearances observed</term>
+       <term>from the Harewood Hospital, Washington, D. C.</term>
+       <term>chronic diarrh&#339;a</term>
+       <term>peritoneal cavity contained f&#230;cal matter</term>
+       <term>lower ileum intensely congested, Peyer's patches healthy</term>
+       <term>colon ulcerated, perforation in sigmoid flexure</term>           
+       <term>autopsy performed</term>       
+     </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change who="#mb" when="2012-10-19">additional proofing of transcription and encoding, identified keyword terms</change>
+   <change who="#el" when="2010-11-05">case text extracted and transformed from larger file</change>
+   <change who="#sb" when="2010-05-01">enrich encoding, proof and edit</change>
+   <change who="#ao" when="2008-10-02">encoding and editing</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body> 
+   <p>Case from the case-book and medical descriptive lists of the <name type="hospital" key="173"><hi rend="initialcap">H</hi>AREWOOD <hi rend="initialcap">H</hi>OSPITAL</name>, Washington, D. C., <name type="person" key="158">Surgeon Reed B. Bontecou</name>, <name type="organization" key="132">U. S. V.</name>, in charge:</p>
+   <p><hi rend="initialcap">C</hi>ASE 296.&#8212;<name type="person" key="194">Private Joseph Jabbit</name>, <name type="organization" key="222">company H, 9th New York State militia</name>; admitted from the <name type="organization" key="377">army of the Potomac</name> <date type="admit" when="1864-02-01">February 1, 1864</date>.  Chronic diarrh&#339;a.  Died, <date type="death" when="1864-02-04">February 4th</date>.  <hi rend="italic">Autopsy:</hi> Body much emaciated. Thoracic viscera healthy. The peritoneal cavity contained a quantity of f&#230;cal matter. The stomach was distended. The duodenum and jejunum were healthy. The lower ileum was intensely congested. Peyer's patches were healthy. The colon was ulcerated; a perforation the size of a silver dollar was found in the sigmoid flexure. The liver was friable, breaking down readily under pressure, but natural in size. The spleen was very small, weighing but two ounces. The kidneys normal.&#8212;<name type="person" key="197">Acting Assistant Surgeon J. W. Fitzpatrick</name>.</p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e2722">
+        <teiHeader>
+                <fileDesc>
+                        <titleStmt>
+                                <title level="m" type="main">Hickman, Henry</title>
+                                <title level="m" type="sub">a machine readable transcription</title>
+                                <principal>Susan C. Lawrence</principal>
+                                <principal>Kenneth M. Price</principal>
+                                <principal>Kenneth J. Winkle</principal>
+                        </titleStmt>
+                        <editionStmt>
+                                <edition>
+                                        <date>2011</date>
+                                </edition>
+                        </editionStmt>
+                        <publicationStmt>
+                                <idno>med.d1e2722</idno>
+                                <authority>Civil War Washington</authority>
+                                <publisher>University of Nebraska–Lincoln</publisher>
+                                <distributor>
+                                        <name>Center for Digital Research in the Humanities</name>
+                                        <address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+                                </distributor>
+                                <date>2011</date>
+                                <availability>
+                                        <p>Copyright © 2011 by University of Nebraska–Lincoln, all
+                                                rights reserved. Redistribution or republication in
+                                                any medium, except as allowed under the Fair Use
+                                                provisions of U.S. copyright law, requires express
+                                                written consent from the editors and advance
+                                                notification of the publisher, the University of
+                                                Nebraska–Lincoln.</p>
+                                </availability>
+                        </publicationStmt>
+                        <notesStmt>
+                                <note type="project">The following are responsible for particular
+                                        readings or for changes to this file, as noted:
+                                        <persName xml:id="ajh">AJ Howell</persName>
+                                        <persName xml:id="mb">Matthew Bosley</persName>
+                                        <persName xml:id="el">Elizabeth Lorang</persName>
+                                        <persName xml:id="sb">Stacey Berry</persName>
+                                        <persName xml:id="et">Elisabeth Tracey</persName>
+                                </note>
+                        </notesStmt>
+                        <sourceDesc>
+                                <bibl>
+                                        <title level="j">The Medical and Surgical History of the War
+                                                of the Rebellion</title>
+                                        <pubPlace>Washington, DC</pubPlace>
+                                        <publisher>Government Printing Office</publisher>
+                                        <biblScope type="part">Part 3</biblScope>
+                                        <biblScope type="volume">Volume 1</biblScope>
+                                        <date when="1888">1888</date>
+                                        <biblScope type="page">227</biblScope>
+                                </bibl>
+                        </sourceDesc>
+                </fileDesc>
+                <encodingDesc>
+                        <classDecl>
+                                <taxonomy xml:id="medsurg">
+                                        <bibl>Medical and Surgical History of the War of the
+                                                Rebellion</bibl>
+                                </taxonomy>
+                        </classDecl>
+                </encodingDesc>
+                <profileDesc>
+                        <textClass>
+                                <keywords scheme="#medsurg">
+                                        <term>clinical records</term>
+                                        <term>continued fevers</term>
+                                        <term>typho-malarial and typhoid fevers</term>
+                                        <term>seminary hospital cases</term>
+                                        <term>increasing drowsiness</term> 
+                                        <term>deafness</term>
+                                        <term>delirium</term> 
+                                        <term>relaxed bowels</term> 
+                                        <term>no eruption</term>
+                                        <term>typhoid cases</term>
+                                        <term>typhoid fever</term>                                        
+                                        <term>sprang from window and killed</term>
+                                </keywords>
+                        </textClass>
+                </profileDesc>
+                <revisionDesc>
+                        <change who="#ajh" when="2013-05-29">additional proofing of transcription and encoding, identified keyword terms</change>
+                        <change who="#mb" when="2011-10-13">additional proofing of transcription and encoding</change>
+                        <change who="#mb" when="2011-06-03">additional proofing of transcription and encoding</change>
+                        <change who="#el" when="2011-05-11">case text extracted and transformed from
+                                larger file</change>
+                        <change who="#sb" when="2011-02-23">Encoding and Proofing</change>
+                        <change who="#et" when="2009-12-01">Initial Checking OCR Text to PDF file,
+                        </change>
+                </revisionDesc>
+        </teiHeader>
+        <text>
+                <body xml:id="ch4.sc2.3.00041">
+                        
+                        <p><hi rend="initialcap">C</hi>ASE 41.&#8212;<hi rend="italic"
+                                                >Increasing drowsiness; deafness; delirium; relaxed
+                                                bowels; no eruption. Killed on the 12th day by
+                                                springing from a window to the
+                                                ground.</hi>&#8212;<name type="person" key="501"
+                                                >Private Henry Hickman</name>, <name
+                                                type="organization" key="631">Co. B, 83d Pa.
+                                                Vols.</name>; age 20; was admitted <date
+                                                type="admit" when="1862-03-02">March 2, 1862</date>.
+                                        Diagnosis&#8212;typhoid fever. He became sick on
+                                        <date type="injury" when="1862-02-23">February 23</date> with headache, chilliness, cough and pains in
+                                        the limbs, for which Epsom salt was given. On admission he
+                                        had much pain in the right side; he slept fairly at night,
+                                        but was drowsy during the day; he had much thirst, slightly
+                                        flushed cheeks, dejected countenance, full and rapid pulse,
+                                        hot and dry skin, a moist tongue coated in the centre and
+                                        one thin scanty stool; his respiration was hurried. A
+                                        blister was applied over the right lung; three fifths of a
+                                        grain of calomel and one-tenth of a grain of opium were
+                                        given every hour. The drowsiness increased on the 5th and
+                                        there was some deafness. Twenty-four grains of quinine were
+                                        directed to be taken during the day. He became delirious on
+                                        <date type="death" when="1862-03-06">the 6th</date>, and at
+                                        night rose from bed, sprang from a window and was killed by
+                                        the fall. </p>
+                        
+                </body>
+        </text>
+</TEI>

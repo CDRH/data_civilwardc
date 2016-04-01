@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e10519">
+        <teiHeader>
+                <fileDesc>
+                        <titleStmt>
+                                <title level="m" type="main">Risley, John F.</title>
+                                <title level="m" type="sub">a machine readable transcription</title>
+                                <principal>Susan C. Lawrence</principal>
+                                <principal>Kenneth M. Price</principal>
+                                <principal>Kenneth J. Winkle</principal>
+                        </titleStmt>
+                        <editionStmt>
+                                <edition>
+                                        <date>2011</date>
+                                </edition>
+                        </editionStmt>
+                        <publicationStmt>
+                                <idno>med.d1e10519</idno>
+                                <authority>Civil War Washington</authority>
+                                <publisher>University of Nebraska–Lincoln</publisher>
+                                <distributor>
+                                        <name>Center for Digital Research in the Humanities</name>
+                                        <address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+                                </distributor>
+                                <date>2011</date>
+                                <availability>
+                                        <p>Copyright © 2011 by University of Nebraska–Lincoln, all
+                                                rights reserved. Redistribution or republication in
+                                                any medium, except as allowed under the Fair Use
+                                                provisions of U.S. copyright law, requires express
+                                                written consent from the editors and advance
+                                                notification of the publisher, the University of
+                                                Nebraska–Lincoln.</p>
+                                </availability>
+                        </publicationStmt>
+                        <notesStmt>
+                                <note type="project">The following are responsible for particular
+                                        readings or for changes to this file, as noted: 
+                                        <persName xml:id="mb">Matthew Bosley</persName>
+                                        <persName xml:id="el">Elizabeth Lorang</persName>
+                                        <persName xml:id="sb">Stacey Berry</persName>
+                                        <persName xml:id="et">Elisabeth Tracey</persName>
+                                </note>
+                        </notesStmt>
+                        <sourceDesc>
+                                <bibl>
+                                        <title level="j">The Medical and Surgical History of the War of the Rebellion</title>
+                                        <pubPlace>Washington, DC</pubPlace>
+                                        <publisher>Government Printing Office</publisher>
+                                        <biblScope type="part">Part 3</biblScope>
+                                        <biblScope type="volume">Volume 1</biblScope>
+                                        <date when="1888">1888</date>
+                                        <biblScope type="page">581</biblScope>
+                                </bibl>
+                        </sourceDesc>
+                </fileDesc>
+                <encodingDesc>
+                        <classDecl>
+                                <taxonomy xml:id="medsurg">
+                                        <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+                                </taxonomy>
+                        </classDecl>
+                </encodingDesc>
+                <profileDesc>
+                        <textClass>
+                                <keywords scheme="#medsurg">
+                                        <term>diseases allied to or associated with</term>
+                                        <term>the paroxysmal and continued fevers</term>
+                                        <term>cerebro-spinal fever</term>
+                                        <term>clinical and post-mortem records</term>
+                                        <term>severe lumbar pain</term>   
+                                        <term>dark rash covered whole body</term>
+                                        <term>skin with dark-purple rash and petechial spots</term>
+                                        <term>facial purpura without petechi&#230;</term>
+                                        <term>blood thin throughout body</term>
+                                        <term>peritoneum, mesentery, stomach, and intestines covered with scarlet and dark-red petechial spots</term>
+                                        <term>ecchymoses on parietal pleura</term>
+                                </keywords>
+                        </textClass>
+                </profileDesc>
+                <revisionDesc>
+                        <change who="#mb" when="2013-04-17">additional proofing of transcription and encoding, edited and added keyword terms</change>
+                        <change who="#mb" when="2013-02-22">additional proofing of transcription and encoding, edited and added keyword terms</change>
+                        <change who="#mb" when="2011-10-03">additional proofing of transcription and encoding</change>
+                        <change who="#mb" when="2011-06-27">additional proofing of transcription and encoding</change>
+                        <change who="#el" when="2011-05-11">case text extracted and transformed from larger file</change>
+                        <change who="#sb" when="2011-02-23">Encoding and Proofing</change>
+                        <change who="#et" when="2009-12-01">Initial Checking OCR Text to PDF file,</change>
+                </revisionDesc>
+        </teiHeader>
+        <text>
+                <body>                       
+                                <p><hi rend="initialcap">C</hi>ASE 100.&#8212;<name
+                                                type="person" key="836">Private John F.
+                                                Risley</name>, <name type="organization" key="733">Co. B, 50th Ohio</name>; age 24; was admitted <date
+                                                type="admit" when="1865-02-03">Feb. 3, 1865</date>,
+                                        having been sick for <date type="injury" when="1865-01-29">five days</date>.  The disease commenced with a
+                                        chill which lasted an hour and was followed by severe lumbar
+                                        pain. On admission he had no headache, but pain in the loins
+                                        was very distressing; he was restless and had a wild
+                                        expression, a moist and coated tongue, full and rapid pulse,
+                                        coryza, cough and some oppression of the chest; a dark rash,
+                                        which disappeared on pressure, was noticed on the surface.
+                                        Rochelle salt and morphia were administered and dry cups
+                                        applied, but in the evening he was no better. He was
+                                        restless during the night.  <date type="death" when="1865-02-04">Next day</date> the dark rash covered
+                                        the whole of the body; the patient was drowsy, his pupils
+                                        contracted; abdomen tympanitic; respiration difficult.  He
+                                        died comatose before midday.  <hi rend="italic">Post-mortem</hi>
+                                        examination: Chest, abdomen and posterior aspect of
+                                        extremities covered with a dark-purple rash and petechial
+                                        spots; face presenting purpuric patches but no
+                                        petechi&#230;. The blood throughout the body was thin.
+                                        The veins of the cerebral and spinal membranes were engorged
+                                        and there was serum beneath the arachnoid; but the substance
+                                        of the brain and cord was healthy. Ecchymosed spots were
+                                        found on the parietal pleura and serum tinged with blood in
+                                        each pleural sac, but the lungs were healthy. The
+                                        peritoneum, mesentery, stomach and intestines were covered
+                                        with scarlet and dark-red petechial spots. The liver weighed
+                                        one hundred and sixteen ounces; the gall-bladder was large
+                                        and full. The right kidney weighed eleven ounces, the left
+                                        ten ounces; their capsules and the surrounding connective
+                                        tissue were ecchymosed.&#8212;<hi rend="italic"><name
+                                                  type="hospital" key="162">Douglas Hospital</name>,
+                                                Washington, D. C.</hi></p>                        
+                </body>
+        </text>
+</TEI>

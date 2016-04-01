@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e19397">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title level="m" type="main">B&#8212;&#8212;, H.</title>
+        <title level="m" type="sub">a machine readable transcription</title>
+        <principal>Susan C. Lawrence</principal>
+        <principal>Kenneth M. Price</principal>
+        <principal>Kenneth J. Winkle</principal>
+      </titleStmt>
+      <editionStmt>
+        <edition><date>2011</date></edition>
+      </editionStmt>
+      <publicationStmt>
+        <idno>med.d1e19397</idno>
+        <authority>Civil War Washington</authority>
+        <publisher>University of Nebraska–Lincoln</publisher>
+        <distributor><name>Center for Digital Research in the
+          Humanities</name><address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address></distributor>
+        <date>2011</date>
+        <availability>
+          <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution
+            or republication in any medium, except as allowed under the Fair Use provisions of U.S.
+            copyright law, requires express written consent from the editors and advance
+            notification of the publisher, the University of Nebraska–Lincoln.</p>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="project">The following are responsible for particular readings or for changes to
+          this file, as noted: 
+ <persName xml:id="kmp">Kenneth M. Price</persName> 
+          <persName xml:id="ajh">AJ Howell</persName>
+          <persName xml:id="mb">Matthew Bosley</persName>
+          <persName xml:id="el">Elizabeth Lorang</persName>
+          <persName xml:id="sb">Stacey Berry</persName>
+          <persName xml:id="et">Elisabeth Tracey</persName>
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl><title>The Medical and Surgical History of the War of the Rebellion.
+            (1861&#8211;65.)</title><editor role="compiler">Surgeon General Joseph K. Barnes, United
+            States Army</editor><pubPlace>Washington, D.C.</pubPlace><publisher>Government Printing
+            Office</publisher><biblScope type="part">Part 1</biblScope>
+          <biblScope type="volume">Volume 2</biblScope><date when="1870">1870</date><biblScope
+            type="page">487</biblScope></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <classDecl>
+        <taxonomy xml:id="medsurg">
+          <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="#medsurg">
+          <term>wounds and injuries of the chest</term>
+          <term>gunshot wounds of the chest</term>
+          <term>penetrating gunshot wounds of the chest</term>
+          <term>gunshot penetrating fractures of the sternum</term>
+          <term>contused upper chest</term>
+          <term>large tumor at point of injury, evacuated by incision</term>
+          <term>fracture of sternum, pieces driven in</term>
+          <term>lung abscess, pleuritis, pleural effusion</term>
+          <term>autopsy performed</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+ <change who="#kmp" when="2014-05">blessed</change>
+      <change who="#ajh" when="2013-08-20">added figure encoding</change>
+      <change who="#mb" when="2011-12-20">additional proofing of transcription and encoding</change>
+      <change who="#el" when="2011-05-11">case text extracted and transformed from larger
+        file</change>
+      <change who="#sb" when="2011-02-09">enriched encoding</change>
+      <change who="#sb" when="2011-01-28">validated file</change>
+      <change who="#et" when="2009-08-01">encoded</change>
+      <change who="#sb" when="2008-09-22">initial checking of OCR text against PDF; encoded
+      </change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+
+      <p>
+        <hi rend="initialcap">C</hi>ASE.&#8212;<name type="person">Private H.
+        B&#8212;&#8212;</name>, <name type="organization">27th Michigan Volunteers</name>, aged 21
+        years, was wounded at <name type="BATTLE" key="250"><choice>
+            <orig>Spottsylvania</orig>
+            <reg>Spotsylvania</reg>
+          </choice></name>, <date type="injury" when="1864-05-12">May 12th, 1864</date>, by a
+        fragment of shell, which contused the upper anterior portion of the chest without lesion of
+        the integument. He was admitted to <name type="hospital" key="214">Fairfax Seminary
+          Hospital</name> on <date type="admit" when="1864-05-16">the 16th</date>; there was a large
+        tumor at the point of injury and extensive suggillation. Cold-water dressings were applied,
+        and extra diet allowed. On <date type="operation" when="1864-05-17">the 17th</date>, the
+        tumor was evacuated by an incision, leaving a cavity some two inches in diameter. The
+        patient did extremely well under the administration of quinia in small doses, and an extra
+        diet, until <date type="injury" when="1864-06-15">June 15th</date>, when there was anorexia,
+        dry tongue, an apparently healthy discharge from the wound, troublesome cough, and
+        muco-purulent sputum. To combat these symptoms, tonics, stimulants, and an extra diet were
+        directed. The patient sank gradually, and, by July 5th, complained of great pain in the
+        lower part of the abdomen. There was also difficulty in micturition, which lasted five days.
+        On the 10th, there was difficulty in speaking; great dyspn&#339;a; respiratory murmur around
+        the wound, and pulse varying from 100 to 110. This was followed by coma, and the patient
+        died on <date type="death" when="1864-07-15">the 15th</date>. The autopsy revealed a
+        fracture of the sternum&#8212;small pieces of the manubrium being driven in&#8212;with two
+        apertures in the bone communicating with the lung. There was a large abscess in the left
+        lung, with evidences of extensive pleuritis and effusion in the pleural cavities. The
+        remaining organs exhibited nothing worthy of remark. The pathological specimen is carious
+        within to a considerable extent, and, on the internal surface, is partly covered with a
+        plate of new deposit. It was contributed to the <name type="hospital" key="431">Army Medical
+          Museum</name> by <name type="person" key="245">Assistant Surgeon H. Allen</name>, <name
+          type="organization" key="190">U. S. A.</name>, and is figured in the adjoining cut (<hi
+          rend="initialcap">F</hi>IG. 227). </p>
+
+      <figure><graphic url="cww.001466.001"/><head>
+        <hi rend="initialcap">F</hi>IG. 227.&#8212;Upper portion of the sternum fractured
+        longitudinally and obliquely, with displacement. <hi rend="italic">Spec</hi>. 2914, Sect. I,
+        A. M. M.</head></figure>
+
+    </body>
+  </text>
+</TEI>

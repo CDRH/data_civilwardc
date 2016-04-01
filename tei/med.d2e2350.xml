@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d2e2350">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Sears, L. C.</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+    <idno>med.d2e2350</idno>
+    <authority>Civil War Washington</authority>
+    <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor><name>Center for Digital Research in the
+     Humanities</name><address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address></distributor>
+    <date>2011</date>
+    <availability>
+     <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+      republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+      law, requires express written consent from the editors and advance notification of the
+      publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+     <persName xml:id="mb">Matthew Bosley</persName>
+     <persName xml:id="el">Elizabeth Lorang</persName>
+     <persName xml:id="sb">Stacey Berry</persName>
+     <persName xml:id="et">Elisabeth Tracey</persName>
+     <persName xml:id="ss">Sarah Synovec</persName>
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title level="j">The Medical and Surgical History of the War of the Rebellion.
+      (1861-65.)</title><pubPlace>Washington, DC</pubPlace><publisher>Government Printing
+      Office</publisher><biblScope type="part">Part 3</biblScope><biblScope type="volume">Volume
+      2</biblScope><date when="1883">1883</date><biblScope type="page">42</biblScope></bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+     <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <keywords scheme="#medsurg">
+     <term>wounds and injuries of the lower extremities</term>                                                                 
+     <term>flesh wounds of the lower extremities</term>
+     <term>complications of shot flesh wounds of the lower extremities</term>
+     <term>h&#230;morrhage</term>
+     <term>ligations of blood-vessels of the lower limbs after flesh wounds</term>
+     <term>ligation of the external iliac the femoral artery</term> 
+     <term>ball entered thigh two inches below Poupart's ligament</term>     
+    </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change who="#mb" when="2012-02-07">additional proofing of transcription and encoding</change>
+   <change who="#el" when="2011-05-11">case text extracted and transformed from larger file</change>
+   <change who="#sb" when="2011-06-04">Enrich Encoding, Edit and validate</change>
+   <change who="#sb" when="2011-01-28">Validated File</change>
+   <change who="#ss" when="2008-09-22">Sarah Synovec initial checking of OCR text; encoded P5 Encoding</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   
+    <p>     
+     <hi rend="initialcap">C</hi>ASE 90.&#8212;<name type="person"
+      key="907">Sergeant-Major L. C. Sears</name>, <name type="organization" key="348">5th New
+       Hampshire</name>, aged 22 years, wounded at <name type="BATTLE" key="251">Fredericksburg</name>, <date type="injury" when="1862-12-13">December 13, 1862</date>. <name type="person" key="156">Surgeon T. Antisell</name>, <name type="organization" key="132">U. S. V.</name>, reported from <name type="hospital" key="173">Harewood Hospital</name>, Washington: &#34;A conical ball entered the right thigh two inches below Poupart's ligament. On the
+     morning of <date type="operation" when="1862-12-19">December 19th</date> there was a slight h&#230;morrhage from the wound. Search was made for
+     the ball without result. A counter opening was made and a seton inserted. He remained very
+     comfortable until <date type="operation" when="1862-12-22">the 22d</date> instant, when a severe h&#230;morrhage occurred, which necessitated
+     the tying of the femoral in the ward, by <name type="person" key="156">Dr. Antisell</name>. On
+     Sunday, January 4, 1863, there occurred a h&#230;morrhage which was arrested by means of
+     styptics and compression. Another h&#230;morrhage followed on the evening of <date type="operation" when="1863-01-07">January 7th</date>, which
+     could not be controlled by styptics. Search was made for the bleeding vessel without result.
+     The patient lost much blood. On the following morning, <date type="operation" when="1863-01-08">January 8th</date>, the patient was again
+     brought into the operating room and the wound was carefully explored, but the bleeding vessel
+     was not found. The operation of tying the external iliac artery was then performed by <name
+      type="person" key="156">Dr. Antisell</name>, in the hope of arresting the h&#230;morrhage
+     permanently. The operation was no sooner completed than there was a welling up of blood from
+     the point from which the previous h&#230;morrhage had proceeded. Styptics and compression were
+     applied, and the patient was returned to the <choice><orig>barrack</orig><reg>barracks</reg></choice>. Stimulants and beef-tea were freely
+     given, and warmth was applied to the extremities to restore reaction. He revived toward
+     evening, and remained sensible and quite comfortable until the evening of the 10th instant. He
+     died <date type="death" when="1863-01-11">January 11, 1863</date>, from exhaustion.&#34;  </p>      
+      
+     
+        
+    
+  </body>
+ </text>
+</TEI>

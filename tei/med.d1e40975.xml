@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e40975">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Murray, Michael</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+       <idno>med.d1e40975</idno>
+       <authority>Civil War Washington</authority>
+       <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor>
+       <name>Center for Digital Research in the Humanities</name>
+       <address><addrLine>319 Love Library</addrLine>
+       <addrLine>University of Nebraska–Lincoln</addrLine>
+       <addrLine>Lincoln, NE 68588-4100</addrLine>
+       <addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+    </distributor>
+    <date>2011</date>
+    <availability>
+        <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+         republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+         law, requires express written consent from the editors and advance notification of the
+         publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+     <persName xml:id="mb">Matthew Bosley</persName>
+     <persName xml:id="el">Elizabeth Lorang</persName>
+     <persName xml:id="sb">Stacey Berry</persName>
+     <persName xml:id="ao">Alyssa Olson</persName>
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl>
+     <title level="j">The Medical and Surgical History of the War of the Rebellion. (1861-65.)</title>
+     <pubPlace>Washington, DC</pubPlace>
+     <publisher>Government Printing Office</publisher>
+     <biblScope type="part">Part 2</biblScope>
+     <biblScope type="volume">Volume 1</biblScope>
+     <date when="1879">1879</date>
+     <biblScope type="page">157</biblScope>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+       <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+      <keywords scheme="#medsurg">
+       <term>diarrh&#339;a and dysentery</term>
+       <term>fatal cases of diarrh&#339;a and dysentery, with accounts of the morbid appearances observed</term>
+       <term>from Lincoln Hospital, Washington, D. C.</term>
+       <term>chronic diarrh&#339;a</term>
+       <term>typhoid symptoms</term>
+       <term>mucous membrane of intestines slate-colored</term>
+       <term>thin mucous membrane of ileum, c&#230;cum, and ascending colon</term>
+       <term>number of ulcers in transverse and descending colon</term>       
+       <term>autopsy performed</term>       
+     </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change who="#mb" when="2012-10-29">additional proofing of transcription and encoding, identified keyword terms</change>
+   <change who="#el" when="2010-11-05">case text extracted and transformed from larger file</change>
+   <change who="#sb" when="2010-05-01">enrich encoding, proof and edit</change>
+   <change who="#ao" when="2008-10-02">encoding and editing</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body> 
+   <p>Case from the case-book of <name type="hospital" key="176"><hi rend="initialcap">L</hi>INCOLN <hi rend="initialcap">H</hi>OSPITAL</name>, Washington, D. C.; <name type="person" key="241">Surgeon Henry Bryant</name>, <name type="organization" key="132">U. S. V.</name>, in charge to May, 1863.</p>
+   <p><hi rend="initialcap">C</hi>ASE 334.&#8212;<name type="person" key="xxx">Private Michael Murray</name>, <name type="organization" key="xxx">company K, 1st United States artillery</name>; admitted <date type="admit" when="1863-12-29">December 29, 1862</date>.  Chronic diarrh&#339;a.  The patient, when admitted, had also cough, thirst, and typhoid symptoms.  January 12th: Troublesome hiccough set in.  Died, <date type="death" when="1862-01-20">January 20, 1863</date>, at 6 P. M.  <hi rend="italic">Autopsy</hi> <date type="autopsy" when="1862-01-21">twenty-one hours after death</date>: The brain weighed forty-six ounces and a half. The lower lobes of both lungs were congested posteriorly, and in parts could not be inflated; the right lung weighed twenty-three ounces, the left twenty-one ounces. The heart was empty, and weighed six ounces and a half. The liver weighed forty-two ounces; it was of a reddish-brown color and faintly mottled. The mucous membrane of the intestines was slate-colored and quite soft; in the ileum, c&#230;cum, and ascending colon it was very thin; in the transverse and descending colon there were a number of ulcers. The rectum was not much diseased. The kidneys weighed five ounces and a half each.&#8212;<name type="person" key="244">Assistant Surgeon George M. McGill</name>, <name type="organization" key="190">U. S. A.</name></p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e4277">
+        <teiHeader>
+                <fileDesc>
+                        <titleStmt>
+                                <title level="m" type="main">Stoughton, A.</title>
+                                <title level="m" type="sub">a machine readable transcription</title>
+                                <principal>Susan C. Lawrence</principal>
+                                <principal>Kenneth M. Price</principal>
+                                <principal>Kenneth J. Winkle</principal>
+                        </titleStmt>
+                        <editionStmt>
+                                <edition>
+                                        <date>2011</date>
+                                </edition>
+                        </editionStmt>
+                        <publicationStmt>
+                                <idno>med.d1e4277</idno>
+                                <authority>Civil War Washington</authority>
+                                <publisher>University of Nebraska–Lincoln</publisher>
+                                <distributor>
+                                        <name>Center for Digital Research in the Humanities</name>
+                                        <address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+                                </distributor>
+                                <date>2011</date>
+                                <availability>
+                                        <p>Copyright © 2011 by University of Nebraska–Lincoln, all
+                                                rights reserved. Redistribution or republication in
+                                                any medium, except as allowed under the Fair Use
+                                                provisions of U.S. copyright law, requires express
+                                                written consent from the editors and advance
+                                                notification of the publisher, the University of
+                                                Nebraska–Lincoln.</p>
+                                </availability>
+                        </publicationStmt>
+                        <notesStmt>
+                                <note type="project">The following are responsible for particular
+                                        readings or for changes to this file, as noted: 
+                                        <persName xml:id="mb">Matthew Bosley</persName>
+                                        <persName xml:id="el">Elizabeth Lorang</persName>
+                                        <persName xml:id="sb">Stacey Berry</persName>
+                                        <persName xml:id="et">Elisabeth Tracey</persName>
+                                </note>
+                        </notesStmt>
+                        <sourceDesc>
+                                <bibl>
+                                        <title level="j">The Medical and Surgical History of the War
+                                                of the Rebellion</title>
+                                        <pubPlace>Washington, DC</pubPlace>
+                                        <publisher>Government Printing Office</publisher>
+                                        <biblScope type="part">Part 3</biblScope>
+                                        <biblScope type="volume">Volume 1</biblScope>
+                                        <date when="1888">1888</date>
+                                        <biblScope type="page">242</biblScope>
+                                </bibl>
+                        </sourceDesc>
+                </fileDesc>
+                <encodingDesc>
+                        <classDecl>
+                                <taxonomy xml:id="medsurg">
+                                        <bibl>Medical and Surgical History of the War of the
+                                                Rebellion</bibl>
+                                </taxonomy>
+                        </classDecl>
+                </encodingDesc>
+                <profileDesc>
+                        <textClass>
+                                <keywords scheme="#medsurg">
+                                        <term>clinical records</term>
+                                        <term>continued fevers</term>
+                                        <term>typho-malarial and typhoid fevers</term>
+                                        <term>Seminary Hospital cases</term>
+                                        <term>typhoid fever</term>  
+                                        <term>aguish paroxysms preceded continued fever</term>
+                                        <term>rose-colored spots on chest and abdomen</term>
+                                </keywords>
+                        </textClass>
+                </profileDesc>
+                <revisionDesc>
+                        <change who="#mb" when="2011-10-10">additional proofing of transcription and encoding</change>
+                        <change who="#mb" when="2011-06-09">additional proofing of transcription and encoding</change>
+                        <change who="#el" when="2011-05-11">case text extracted and transformed from
+                                larger file</change>
+                        <change who="#sb" when="2011-02-23">Encoding and Proofing</change>
+                        <change who="#et" when="2009-12-01">Initial Checking OCR Text to PDF file,
+                        </change>
+                </revisionDesc>
+        </teiHeader>
+        <text>
+                <body xml:id="ch4.sc2.3.00102">
+                        
+                                <p><hi rend="initialcap">C</hi>ASE 102.&#8212;<hi rend="italic">Recurring chills and diarrh&#339;a;
+                                                perspirations; nothing but rose-spots on the 13th
+                                                day as specially characteristic of typhoid
+                                                fever.</hi>&#8212;<name type="person" key="560">Private A. Stoughton</name>, <name
+                                                type="organization" key="488">Co. C, 5th Vt.
+                                                Vols.</name>; age 18; was admitted <date
+                                                type="admit" when="1861-11-01">Nov. 1, 1861</date>,
+                                        as a case of typhoid fever.  On <date type="injury" when="1861-10-23">October 23</date> the patient had
+                                        chills which recurred for several days, fever, general
+                                        pains, weakness, anorexia and diarrh&#339;a.  On November
+                                        2 his eyes were bright, countenance calm, pulse 88 and of
+                                        fair strength, skin warm and perspiring, tongue clean at
+                                        tip, moist and slightly coated at the base and in the
+                                        centre, lips and teeth clean, appetite fair, abdomen soft
+                                        and respiration normal; one stool was passed in the
+                                        twenty-four hours. A full dose of quinine was given three
+                                        times daily.  On the 3d he was reported as having slept well;
+                                        pulse 84, appetite good, skin
+                                        natural, tongue cleaning; two stools were passed.  On the
+                                        following day, without any other change in the symptoms,
+                                        rose-colored spots appeared on the chest and abdomen; he had
+                                        one stool on this day, and after this his bowels were
+                                        reported as regular. He was returned to duty on <date
+                                                type="duty" when="1861-11-11">the 11th</date>. </p>
+                        
+                </body>
+        </text>
+</TEI>

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e40893">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Joslyn, George</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+       <idno>med.d1e40893</idno>
+       <authority>Civil War Washington</authority>
+       <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor>
+       <name>Center for Digital Research in the Humanities</name>
+       <address><addrLine>319 Love Library</addrLine>
+       <addrLine>University of Nebraska–Lincoln</addrLine>
+       <addrLine>Lincoln, NE 68588-4100</addrLine>
+       <addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+    </distributor>
+    <date>2011</date>
+    <availability>
+        <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+         republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+         law, requires express written consent from the editors and advance notification of the
+         publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+     <persName xml:id="mb">Matthew Bosley</persName>
+     <persName xml:id="el">Elizabeth Lorang</persName>
+     <persName xml:id="sb">Stacey Berry</persName>
+     <persName xml:id="ao">Alyssa Olson</persName>
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl>
+     <title level="j">The Medical and Surgical History of the War of the Rebellion. (1861-65.)</title>
+     <pubPlace>Washington, DC</pubPlace>
+     <publisher>Government Printing Office</publisher>
+     <biblScope type="part">Part 2</biblScope>
+     <biblScope type="volume">Volume 1</biblScope>
+     <date when="1879">1879</date>
+     <biblScope type="page">151</biblScope>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+       <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+      <keywords scheme="#medsurg">
+       <term>diarrh&#339;a and dysentery</term>
+       <term>fatal cases of diarrh&#339;a and dysentery, with accounts of the morbid appearances observed</term>
+       <term>from the Douglas Hospital, Washington, D. C.</term>
+       <term>chronic diarrh&#339;a</term>
+       <term>solitary glands of small intestine inflamed, some ulcerated</term>
+       <term>large ulcers in patches of Peyer</term>
+       <term>liver and kidneys fatty</term>
+       <term>large intestinal coat thickened, mucous membrane blackened by pigment, studded with numerous ulcers</term>           
+       <term>autopsy performed</term>       
+     </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change who="#mb" when="2012-10-22">additional proofing of transcription and encoding, identified keyword terms</change>
+   <change who="#el" when="2010-11-05">case text extracted and transformed from larger file</change>
+   <change who="#sb" when="2010-05-01">enrich encoding, proof and edit</change>
+   <change who="#ao" when="2008-10-02">encoding and editing</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body> 
+   <p>Case from the case-book and medical descriptive lists of the <name type="hospital" key="162"><hi rend="initialcap">D</hi>OUGLAS <hi rend="initialcap">H</hi>OSPITAL</name>, Washington, D. C., <name type="person" key="200">Assistant Surgeon William Thomson</name>, <name type="organization" key="190">U. S. A.</name>, in charge from February, 1863, to September, 1864, and after September, 1865:</p>
+   <p><hi rend="initialcap">C</hi>ASE 308.&#8212;<name type="person" key="213">Private George Joslyn</name>, <name type="organization" key="221">company A, 111th New York volunteers</name>; admitted from the <name type="organization" key="377">army of the Potomac</name> <date type="admit" when="1863-11-04">November 4, 1863</date>.  Chronic diarrh&#339;a.  This patient was first seen by the reporter January 7, 1864. He was then exceedingly emaciated; his eyes sunken; pulse frequent and feeble. He had a continual desire to go to stool; his dejections were very thin, resembling colored water.  He died <date type="death" when="1864-01-15">January 15th</date>.  <hi rend="italic">Autopsy:</hi> The solitary glands of the small intestine were inflamed, some of them ulcerated. There were several large ulcers in the patches of Peyer. The large intestine was contracted to about an inch in diameter, its coats much thickened; its mucous membrane was blackened by a deposit of pigment, and studded with numerous ulcers and cicatrices. The liver and kidneys were fatty. The other organs were normal. The brain was not examined.&#8212;<name type="person" key="214">Acting Assistant Surgeon Henry Gibbons, <choice><orig>jr.</orig><reg>Jr.</reg></choice></name></p>  
+  </body>
+ </text>
+</TEI>

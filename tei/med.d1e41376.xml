@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e41376">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Ungers, Monroe</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+    <idno>med.d1e41376</idno>
+       <authority>Civil War Washington</authority>
+       <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor>
+       <name>Center for Digital Research in the Humanities</name>
+       <address><addrLine>319 Love Library</addrLine>
+       <addrLine>University of Nebraska–Lincoln</addrLine>
+       <addrLine>Lincoln, NE 68588-4100</addrLine>
+       <addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+    </distributor>
+    <date>2011</date>
+    <availability>
+        <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+         republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+         law, requires express written consent from the editors and advance notification of the
+         publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+     <persName xml:id="mb">Matthew Bosley</persName>     
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl>
+     <title level="j">The Medical and Surgical History of the War of the Rebellion. (1861-65.)</title>
+     <pubPlace>Washington, DC</pubPlace>
+     <publisher>Government Printing Office</publisher>
+     <biblScope type="part">Part 2</biblScope>
+     <biblScope type="volume">Volume 1</biblScope>
+     <date when="1879">1879</date>
+     <biblScope type="page">189</biblScope>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+       <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+      <keywords scheme="#medsurg">
+       <term>diarrh&#339;a and dysentery</term>
+       <term>fatal cases of diarrh&#339;a and dysentery, with accounts of the morbid appearances observed</term>
+       <term>from the Second Division of the Alexandria Hospital, Virginia</term>
+       <term>chronic diarrh&#339;a</term>
+       <term>remittent fever</term>
+       <term>small intestine inflamed near ileo-c&#230;cal</term>
+        <term>large intestine inflamed and ulcerated in spots</term>
+       <term>old adhesions posteriorly between lower lobe of lung and costal pleura</term>       
+       <term>autopsy performed</term>       
+     </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change who="#mb" when="2012-12-13">copied case from MSHWR, added proofing of transcription and encoding, identified keyword terms and figures</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body> 
+   <p>Case from the case-book of the <name type="hospital" key="501"><hi rend="initialcap">S</hi>ECOND <hi rend="initialcap">D</hi>IVISION</name> of the <name type="place" key="#Alexandria"><hi rend="initialcap">A</hi>LEXANDRIA</name> <hi rend="initialcap">H</hi>OSPITAL, Virginia, <name type="person" key="134">Surgeon Edwin Bentley</name>, <name type="organization" key="132">U. S. V.</name>, in charge.  Autopsy was made and recorded in the case-book by <name type="person" key="655">Acting Assistant Surgeon Thomas Bowen</name>:</p>
+   <p><hi rend="initialcap">C</hi>ASE 448.&#8212;<name type="person" key="xxx">Private Monroe Ungers</name>, <name type="organization" key="xxx">company B, 50th Pennsylvania volunteers</name>; age 18; admitted from the field <date type="admit" when="1864-08-10">August 10, 1864</date>.  Chronic diarrh&#339;a.  [This man is borne on the register of the depot hospital of the 9th Corps, <name type="place">City Point, Virginia</name>, admitted <date type="admit" when="18646-08-03">August 3d</date>&#8212;remittent fever; no disposition.]  Died, <date type="death" when="1864-11-01">November 1st</date>.  <hi rend="italic">Autopsy</hi> <date type="autopsy" when="1864-11-02">thirteen hours after death</date>: Rigor mortis great; body extremely emaciated; slight suggillation posteriorly. Head, neck and spinal column not examined. There were extensive old adhesions posteriorly between the lower lobe of the left lung and the costal pleura; the right pleural cavity contained an ounce of serous fluid; the left lung was healthy; the right healthy anteriorly, but posteriorly presented the appearances of gray hepatization; on the posterior surface of the lower lobe was a deposit of recent lymph about an inch in diameter. The pericardium contained two ounces of serum. The heart was very small, weighing about four ounces; its structure was healthy although pale. The cavities of both sides contained small, firm, white clots. The stomach was normal. The small intestine was congested throughout its whole extent, and very much inflamed near the ileo-c&#230;cal; the large intestine inflamed and ulcerated in spots. The liver was congested; the gall-bladder contained an ounce and a half of yellow bile. The pancreas was normal. The kidneys were of a darker color than usual; the bladder contained about an ounce of urine.&#8212;<name type="person" key="655">Acting Assistant Surgeon Thomas Bowen</name>.</p> 
+  </body>
+ </text>
+</TEI>

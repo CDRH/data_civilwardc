@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d2e11475">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Nicholson, D.</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+    <idno>med.d2e11475</idno>
+    <authority>Civil War Washington</authority>
+    <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor><name>Center for Digital Research in the
+     Humanities</name><address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address></distributor>
+    <date>2011</date>
+    <availability>
+     <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+      republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+      law, requires express written consent from the editors and advance notification of the
+      publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+ <persName xml:id="kw">Kenneth Winkle</persName> <persName xml:id="ajh">AJ Howell</persName>
+     <persName xml:id="mb">Matthew Bosley</persName>
+     <persName xml:id="el">Elizabeth Lorang</persName>
+     <persName xml:id="sb">Stacey Berry</persName>
+     <persName xml:id="et">Elisabeth Tracey</persName>
+     <persName xml:id="ss">Sarah Synovec</persName>
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title level="j">The Medical and Surgical History of the War of the Rebellion.
+      (1861-65.)</title><pubPlace>Washington, DC</pubPlace><publisher>Government Printing
+      Office</publisher><biblScope type="part">Part 3</biblScope><biblScope type="volume">Volume
+      2</biblScope><date when="1883">1883</date><biblScope type="page">244</biblScope></bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+     <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <keywords scheme="#medsurg">
+     <term>wounds and injuries of the lower extremities</term>
+     <term>injuries of the shaft of the femur</term>
+     <term>amputations in the shaft of the femur</term>
+     <term>primary amputations in the shaft of the femur for shot injury</term>
+     <term>primary amputations in the lower third of the femur</term>
+     <term>fatal cases of primary amputation in the lower third of the femur</term>
+     <term>amputation of both thighs at lower third</term>
+     <term>right femur transversely perforated with comminution above condyle</term>
+     <term>bullet grooved left femur on anterior face, producing oblique fracture</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+ <change who="#kw" when="2014-05">blessed</change>
+   <change who="#ajh" when="2013-08-22">added figure encoding</change>
+   <change who="#mb" when="2012-05-16">additional proofing of transcription and encoding, identified
+    keyword terms</change>
+   <change who="#el" when="2011-05-11">case text extracted and transformed from larger file</change>
+   <change who="#sb" when="2011-06-04">Enrich Encoding, Edit and validate</change>
+   <change who="#sb" when="2011-01-28">Validated File</change>
+   <change who="#ss" when="2008-09-22">initial checking of OCR text; encoded P5 Encoding</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+
+   <p><hi rend="initialcap">C</hi>ASE 451.&#8212;<name type="person" key="1080">Private D.
+     Nicholson</name>, <name type="organization" key="95">Co. H, 22d Massachusetts</name>, aged 23
+    years, was wounded in both thighs, at <name type="BATTLE" key="3"><choice>
+      <orig>Spottsylvania</orig>
+      <reg>Spotsylvania</reg>
+     </choice></name>, <date type="injury" when="1864-05-10">May 10, 1864</date>. He was admitted to
+    the field hospital of the 1st division, Fifth Corps, where <name type="person" key="xx">Surgeon
+     J. Thomas</name>, <name type="organization" key="441">118th Pennsylvania</name>, amputated both
+    limbs. <name type="person" key="158">Surgeon R. B. Bontecou</name>, <name type="organization"
+     key="132">U. S. V.</name>, reported the following termination of the case: "The patient entered
+     <name type="hospital" key="173">Harewood Hospital</name>, Washington, <date type="transfer"
+     when="1864-05-25">May 25th</date>. He had undergone amputation of both thighs at the lower
+    third <date type="operation" when="1864-05-10">the same day he received the wound</date>, the
+    operations being performed by the antero-posterior flap method. When admitted he was in a very
+    weak condition, the stumps being unhealthy and showing a tendency to slough. A supporting
+    treatment was administered. Progress, however, continued unfavorable. Death occurred from
+    exhaustion <date type="death" when="1864-05-28">May 28, 1864</date>." The amputated portions of
+    the femurs were contributed to <name type="hospital" key="431">the Museum</name> by <name
+     type="person" key="xx">the operator</name>, and constitute Specimen 2966 of the Surgical
+    Section (<hi rend="initialcap">F</hi>IGS. 186, 187), showing the right femur to be transversely
+    perforated, with comminution, two inches above the condyle, by a bullet which passed on, badly
+    grooving the left femur on the anterior face at the same level and producing a severe oblique
+    fracture.</p>
+   <figure>
+    <graphic url="cww.001589.001"/>
+    <head><hi rend="initialcap">F</hi>IG. 186.&#8212;Anterior view of lower third of each femur. <hi
+      rend="italic">Spec</hi>. 2966.</head>
+   </figure>
+   <figure>
+    <graphic url="cww.001590.001"/>
+    <head><hi rend="initialcap">F</hi>IG. 187.&#8212;Posterior view of lower third of each femur.
+      <hi rend="italic">Spec</hi>. 2966.</head>
+   </figure>
+
+
+  </body>
+ </text>
+</TEI>

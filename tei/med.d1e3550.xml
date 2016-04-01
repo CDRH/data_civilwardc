@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e3550">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">negro, name unknown</title>
+                <title level="m" type="sub">a machine readable transcription</title>
+                <principal>Susan C. Lawrence</principal>
+                <principal>Kenneth M. Price</principal>
+                <principal>Kenneth J. Winkle</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2011</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <idno>med.d1e3550</idno>
+                <authority>Civil War Washington</authority>
+                <publisher>University of Nebraska–Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+                </distributor>
+                <date>2011</date>
+                <availability>
+                    <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved.
+                        Redistribution or republication in any medium, except as allowed under the
+                        Fair Use provisions of U.S. copyright law, requires express written consent
+                        from the editors and advance notification of the publisher, the University
+                        of Nebraska–Lincoln.</p>
+                </availability>
+            </publicationStmt>
+            <notesStmt>
+                <note type="project">The following are responsible for particular readings or for
+                    changes to this file, as noted: 
+ <persName xml:id="kw">Kenneth Winkle</persName> <persName xml:id="ajh">AJ Howell</persName>
+                    <persName xml:id="mb">Matthew Bosley</persName>
+                    <persName xml:id="el">Elizabeth Lorang</persName>
+                    <persName xml:id="sb">Stacey Berry</persName>
+                    <persName xml:id="et">Elisabeth Tracey</persName>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>The Medical and Surgical History of the War of the Rebellion.
+                        (1861&#8211;65.)</title>
+                    <editor role="compiler">Surgeon General Joseph K. Barnes, United States
+                        Army</editor>
+                    <pubPlace>Washington, D.C.</pubPlace>
+                    <publisher>Government Printing Office</publisher>
+                    <biblScope type="part">Part 1</biblScope>
+                    <biblScope type="volume">Volume 2</biblScope>
+                    <date when="1870">1870</date>
+                    <biblScope type="page">58</biblScope>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <classDecl>
+                <taxonomy xml:id="medsurg">
+                    <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme="#medsurg">
+                    <term>on special wounds and injuries of the head</term>
+                    <term>wounds and injuries of the head</term>
+                    <term>miscellaneous injuries of the head</term>
+                    <term>trephining</term>
+                    <term>without loss or apparent impairment of mental faculties</term>
+                    <term>arm paralyzed</term>
+                    <term>detachment of a large fragment of bone, triangular fragment removed</term>
+                    <term>depressed fracture of both tables of parietal bone</term>
+                    <term>fractures from various blunt weapons</term>
+                    <term>compression of brain</term>
+                    <term>wound over parietal protuberance</term>
+                    <term>blow from head of axe</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+ <change who="#kw" when="2014-05">blessed</change>
+            <change who="#ajh" when="2013-08-09">added figure encoding</change>
+            <change who="#ajh" when="2013-06-10">additional proofing of transcription and
+                encoding</change>
+            <change who="#mb" when="2013-05-17">additional proofing of transcription and encoding,
+                edited and added keyword terms</change>
+            <change who="#mb" when="2011-10-10">additional proofing of transcription and
+                encoding</change>
+            <change who="#mb" when="2011-06-07">additional proofing of transcription and
+                encoding</change>
+            <change who="#el" when="2011-11-05">case text extracted and transformed from larger
+                file</change>
+            <change who="#sb" when="2011-02-09">enriched encoding</change>
+            <change who="#sb" when="2011-01-28">validated file</change>
+            <change who="#et" when="2009-08-01">encoded</change>
+            <change who="#sb" when="2008-09-22">initial checking of OCR text against PDF;
+                encoded</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body xml:id="ch1.sc2.0024">
+            <p><hi rend="initialcap">C</hi>ASE.&#8212;A <name type="person" key="250">negro, whose
+                    name was unknown</name>, was brought into the <name type="hospital" key="152">E
+                    Street Infirmary</name>, Washington, D. C., with well marked symptoms of
+                compression of the brain, in the latter part of <date type="admit" when="1864-02"
+                    >February, 1864</date>. He was examined by <name type="person" key="287"
+                    >Assistant Surgeon J. W. S. Gouley</name>, <name type="organization" key="190"
+                    >U. S. A.</name>, who found a wound over the right parietal protuberance, caused
+                apparently by a blow from the head of an axe. The scalp was shaved, and it was found
+                that there was a depressed fracture of both tables of the skull, with detachment of
+                a large fragment. It was not practicable to insert the elevator to raise the
+                depressed fragment; to allow this to be done, a disk of bone was <date
+                    type="operation" when="1864-02">removed by the trephine</date>. A triangular
+                fragment, measuring an inch by one and a quarter inches, was then removed and the
+                flaps of the scalp were approximated. The symptoms of compression were relieved, and
+                the patient was doing well three days subsequently, when the specimen, represented
+                in the adjacent wood-cut, (<hi rend="initialcap">F</hi>IG. 23), was forwarded to the
+                    <name type="hospital" key="431">Army Medical Museum</name>. The facts above
+                noted are taken from a minute, made upon the reception of the specimen, by <name
+                    type="person" key="288">Surgeon John H. Brinton</name>, <name
+                    type="organization" key="132">U. S. V.</name> It has been impracticable to learn
+                the ultimate result of the case; but a letter from the late <name type="person"
+                    key="289">Assistant Surgeon T. G. Mackenzie</name>, <name type="organization"
+                    key="190">U. S. A.</name>, dated <date type="letter" when="1864-03-25">March
+                    25th, 1864</date>, states that the man was doing well at that date, though his
+                left arm was paralyzed. <name type="person" key="289">Dr. Mackenzie</name> refers to
+                an escape of brain substance at the time of the injury; and <name type="person"
+                    key="287">Dr. Gouley</name>, in forwarding this letter, states that at least
+                half an ounce of brain matter was lost, and comments on the singular good fortune of
+                the patient in recovering without the supervention of cerebral hernia, and without
+                loss or apparent impairment of the mental faculties. </p>
+            <figure>
+                <graphic url="cww.001360.001"/>
+                <head><hi rend="initialcap">F</hi>IG. 23.&#8212;Disk and fragment of bone removed
+                    for depressed fracture from a blow.&#8212;<hi rend="italic">Spec</hi>. 2081,
+                    Sect. I, A. M. M.</head>
+            </figure>
+        </body>
+    </text>
+</TEI>

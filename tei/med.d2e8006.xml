@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d2e8006">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Wetzel, I.</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+    <idno>med.d2e8006</idno>
+    <authority>Civil War Washington</authority>
+    <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor><name>Center for Digital Research in the
+     Humanities</name><address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address></distributor>
+    <date>2011</date>
+    <availability>
+     <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+      republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+      law, requires express written consent from the editors and advance notification of the
+      publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+ <persName xml:id="kw">Kenneth Winkle</persName> <persName xml:id="ajh">AJ Howell</persName>
+     <persName xml:id="mb">Matthew Bosley</persName>
+     <persName xml:id="el">Elizabeth Lorang</persName>
+     <persName xml:id="sb">Stacey Berry</persName>
+     <persName xml:id="et">Elisabeth Tracey</persName>
+     <persName xml:id="ss">Sarah Synovec</persName>
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title level="j">The Medical and Surgical History of the War of the Rebellion.
+      (1861-65.)</title><pubPlace>Washington, DC</pubPlace><publisher>Government Printing
+      Office</publisher><biblScope type="part">Part 3</biblScope><biblScope type="volume">Volume
+      2</biblScope><date when="1883">1883</date><biblScope type="page">180</biblScope></bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+     <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <keywords scheme="#medsurg">
+     <term>wounds and injuries of the lower extremities</term>
+     <term>injuries of the shaft of the femur</term>
+     <term>shot fractures of the shaft of the femur</term>
+     <term>shot fractures of the shaft of the femur treated by conservation</term>
+     <term>shot fractures of the upper third of the femur treated by conservation</term>
+     <term>recoveries after shot fractures of the upper third of the femur treated by
+      conservation</term>
+     <term>ball entered anterior limb below Poupart's ligament, fracturing femur near trochanters,
+      exited at apex of <choice>
+       <sic>nates</sic>
+       <corr>natis</corr>
+      </choice></term>
+     <term>bone united with shortening, foot everted and limb turned outward</term>
+     <term>incomplete anchylosis of knee joint</term>
+     <term>body of ilium diseased</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+ <change who="#kw" when="2014-05">blessed</change>
+   <change who="#ajh" when="2013-08-22">added figure encoding</change>
+   <change who="#mb" when="2012-04-20">additional proofing of transcription and encoding, identified
+    keyword terms</change>
+   <change who="#el" when="2011-05-11">case text extracted and transformed from larger file</change>
+   <change who="#sb" when="2011-06-04">Enrich Encoding, Edit and validate</change>
+   <change who="#sb" when="2011-01-28">Validated File</change>
+   <change who="#ss" when="2008-09-22">Sarah Synovec initial checking of OCR text; encoded P5
+    Encoding</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+
+   <p><hi rend="initialcap">C</hi>ASE 366.&#8212;<name type="person" key="1014">Private I.
+     Wetzel</name>, <name type="organization" key="413">Co. I, 184th Pennsylvania</name>, aged 21
+    years, was wounded in the left thigh during the siege of <name type="BATTLE" key="254"
+     >Petersburg</name>, <date type="injury" when="1864-10-03">October 3, 1864</date>. He was
+    admitted to a field hospital of the Second Corps, and transferred to <name type="hospital"
+     key="171">Armory Square</name>, Washington, <date type="transfer" when="1864-10-08">five days
+     afterwards</date>. In July, 1865, <name type="person" key="1015">Acting Assistant Surgeon H. A.
+     Bobbins</name> reported the following description of the injury and its result: "A conical ball
+    entered the anterior aspect of the limb one inch below Poupart's ligament, passed backward,
+    fracturing the femur near the trochanters, and made its exit at the apex of the left <choice>
+     <sic>nates</sic>
+     <corr>natis</corr>
+    </choice>. The limb was treated in Hodgen's splint without extension. The bone is now united
+    with three and a quarter inches shortening; the foot is everted and the limb slightly turned
+    outward. Incomplete anchylosis of the knee joint exists, and there is still a discharge of
+    healthy pus amounting to about one ounce daily. The patient is not yet able to use crutches, but
+    from present appearances he soon will be." The patient was discharged from service on <date
+     type="servicedischarge" when="1865-08-21">August 21, 1865</date>, and pensioned. Various
+    Pension Examiners, at successive dates, certified to "shortening of the limb and partial
+    anchylosis of the knee;" and in <date type="pension" when="1877-03">March, 1877</date>, <name
+     type="person" key="xx">Dr. J. Y. Shindell</name> reported as follows: "I find the left knee
+    joint quite stiff, also evidences of occasional abscesses in the muscular portions of the leg.
+    He says that about once a year matter does form, and that he continually wears bandages around
+    the thigh as a support." In <date type="pension" when="1877-09">September, 1877</date>, the
+    Examiner stated: "The pensioner's general physical condition is not good. He is now confined to
+    his bed, and has been for the last two weeks, on account of his wound, which is again
+    suppurating. &#42; &#42; &#42; But the greatest trouble now seems to be in the hip joint and its
+    neighborhood. On probing the opening a little above the joint the body of the ilium seems to be
+    of a honey-combed nature, diseased, and, no doubt, the cause of these frequent attacks of
+    suppuration which occur every three or four months. His leg trouble will very likely cause death
+    some time." The pensioner was paid <date type="pension" when="1879-03-04">March 4, 1879</date>.
+    The wood-cut (<hi rend="initialcap">F</hi>IG. 136) represents a photograph taken at the <name
+     type="hospital" key="431">Army Medical Museum</name> on <date type="photo" when="1865-07-06"
+     >July 6, 1865</date>. (<hi rend="italic">Surg. Phot. Series</hi>, No. 67, A. M. M.)</p>
+   <figure>
+    <graphic url="cww.001559.001"/>
+    <head><hi rend="initialcap">F</hi>IG. 136&#8212;Result of shot fracture of upper third of left
+     femur. [From a photograph]</head>
+   </figure>
+
+
+
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d2e31102">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Rice, B. E.</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+       <idno>med.d2e31102</idno>
+       <authority>Civil War Washington</authority>
+       <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor>
+       <name>Center for Digital Research in the Humanities</name>
+       <address><addrLine>319 Love Library</addrLine>
+       <addrLine>University of Nebraska–Lincoln</addrLine>
+       <addrLine>Lincoln, NE 68588-4100</addrLine>
+       <addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+    </distributor>
+    <date>2011</date>
+    <availability>
+        <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+         republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+         law, requires express written consent from the editors and advance notification of the
+         publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+ <persName xml:id="kw">Kenneth Winkle</persName> 
+     <persName xml:id="mb">Matthew Bosley</persName>
+     <persName xml:id="ta">Thomas Andrysik</persName> 
+     <persName xml:id="kk">Kourtney Klein</persName>     
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl>
+     <title level="j">The Medical and Surgical History of the War of the Rebellion. (1861-65.)</title>
+     <pubPlace>Washington, DC</pubPlace>
+     <publisher>Government Printing Office</publisher>
+     <biblScope type="part">Part 2</biblScope>
+     <biblScope type="volume">Volume 2</biblScope>
+     <date when="1876">1876</date>
+     <biblScope type="page">547</biblScope>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+       <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+      <keywords scheme="#medsurg">
+       <term>wounds and injuries of the upper extremities</term>
+       <term>wounds of the shoulder joint</term>
+       <term>excisions at the shoulder</term> 
+       <term>decapitations of the humerus</term>
+       <term>decapitations of the humerus for shot injury of uncertain date</term> 
+       <term>gunshot wound of shoulder</term>
+       <term>resection of head and neck of humerus</term>
+       <term>bones anchylosed, arm cannot be raised</term>
+       <term>humerus two inches shortened</term> 
+       <term>arm used only elbow downward</term>
+       <term>deltoid, biceps, infraspinatus, and pectoral muscles severed and nerves injured</term>
+       <term>shoulder atrophied, arm and forearm smaller, little use of limb</term>
+       <term>Disability may be total</term>       
+     </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+ <change who="#kw" when="2014-05">blessed</change>
+   <change who="#kk" when="2014-01-22">added figure encoding</change>
+   <change who="#mb" when="2012-07-10">additional proofing of transcription and encoding, identified keyword terms</change>
+   <change who="#ta" when="2011-02-23">checked OCR; added minimal mark-up for personal names, place names, and dates</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>   
+   <p><hi rend="initialcap">C</hi>ASE 1519.&#8212;<name type="person" key="xxx">Private B. E. Rice</name>, <name type="organization" key="xxx">Co. H, 7th Wisconsin</name>, aged 31 years, was wounded at <name type="BATTLE" key="102">Gainesville</name>, <date type="injury" when="1862-08-26">August 26, 1862</date>, and was treated in the regimental hospital until <date type="transfer" when="1862-08-30">August 30th</date>, when he was transferred to Washington, and admitted to <name type="hospital" key="157">Columbian College Hospital</name>, and discharged the service <date type="servicedischarge" when="1862-12-22">December 22, 1862</date>, <name type="person" key="126">Surgeon T. R. Crosby</name>, <name type="organization" key="132">U. S. V.</name>, certifying to: &#34;Gunshot wound, requiring resection of the head of the left humerus.&#34;  On <date type="pension" when="1870-03-28">March 28, 1870</date>, <name type="person" key="xxx">Dr. L. G. Armstrong</name>, of <name type="place">Boscobel, Wisconsin</name>, reported: &#34;Gunshot wound, ball entering the shoulder joint from the front. Removed to <name type="place" key="#Washington">Washington, D. C.</name>, <name type="hospital" key="157">Columbian College Hospital</name>. Head of humerus <choice><orig>exsected</orig><reg>excised</reg></choice> after a number of days; secondary operation.  Wound entirely healed in six months. Bones anchylosed, yet the arm cannot be raised from the side, admitting only of moderate forward and backward motion. The wound is healed soundly, yet large loss of tissue occurred. The humerus is two inches shortened. Arm can be used only from the elbow downward. Amount of neuralgic pain only trifling. General health but little influenced by the operation.&#34;  <name type="person" key="xxx">Dr. Armstrong</name> also forwarded a daguerreotype of <name type="person" key="xxx">Mr. Rice</name>, taken <date type="photo" when="1870-03-21">March 21, 1870</date>, which is copied in the wood-cut (<hi rend="initialcap">F</hi>IG. 419).  <name type="person" key="xxx">Examiner J. M. Jenkins</name>, of <name type="place">Sibley, Iowa</name>, reported, <date type="pension" when="1874-05-20">May 20, 1874</date>: &#34;Gunshot wound of left shoulder. Head and neck of humerus resected. Very large cicatrix; the deltoid, long head of biceps, infraspinatus, and pectoral muscles were, apparently, severed, and the nerves injured. The arm is shortened one and a half inches. The shoulder is very much atrophied, and the arm and forearm are somewhat smaller, and are easily chilled; he has but little use of the limb. Disability increasing, and may become total. The arm has but little motion, and the forearm and hand are very weak.&#34;  Upon searching the case, it has been impracticable to obtain any important particulars of its earlier history. <name type="person" key="xxx">Surgeon D. Cooper Ayres</name>, <name type="organization" key="xxx">7th Wisconsin</name>, reported the admission of the patient to regimental hospital, with a &#34;serious gunshot wound of the shoulder.&#34;  <name type="person" key="126">Dr. Crosby</name> does not describe the operation or mention the name of the operator. All of the reporters agree that the operation was on the left side. The position of the cicatrix is reversed in the daguerreotype, as copied in the wood-cut, and appears as of the right side. This is an error very liable to remain undetected in illustrations prepared by photography, even after careful scrutiny.</p>
+   
+   <figure>
+    <graphic url="cww.001710.001" />
+    <head><hi rend="initialcap">F</hi>IG. 419.&#8212;Cicatrices eight years after an excision of the head of the humerus.</head>
+   </figure>
+   
+  </body>
+ </text>
+</TEI>

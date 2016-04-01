@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e40876">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Livingston, J. S.</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+       <idno>med.d1e40876</idno>
+       <authority>Civil War Washington</authority>
+       <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor>
+       <name>Center for Digital Research in the Humanities</name>
+       <address><addrLine>319 Love Library</addrLine>
+       <addrLine>University of Nebraska–Lincoln</addrLine>
+       <addrLine>Lincoln, NE 68588-4100</addrLine>
+       <addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+    </distributor>
+    <date>2011</date>
+    <availability>
+        <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+         republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+         law, requires express written consent from the editors and advance notification of the
+         publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+     <persName xml:id="mb">Matthew Bosley</persName>
+     <persName xml:id="el">Elizabeth Lorang</persName>
+     <persName xml:id="sb">Stacey Berry</persName>
+     <persName xml:id="ao">Alyssa Olson</persName>
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl>
+     <title level="j">The Medical and Surgical History of the War of the Rebellion. (1861-65.)</title>
+     <pubPlace>Washington, DC</pubPlace>
+     <publisher>Government Printing Office</publisher>
+     <biblScope type="part">Part 2</biblScope>
+     <biblScope type="volume">Volume 1</biblScope>
+     <date when="1879">1879</date>
+     <biblScope type="page">149-150</biblScope>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+       <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+      <keywords scheme="#medsurg">
+       <term>diarrh&#339;a and dysentery</term>
+       <term>fatal cases of diarrh&#339;a and dysentery, with accounts of the morbid appearances observed</term>
+       <term>from the Douglas Hospital, Washington, D. C.</term>
+       <term>chronic diarrh&#339;a</term>
+       <term>lost forty pounds in weight</term>
+       <term>intestines congested in patches, patches dark mahogany color, no ulceration detected</term>
+       <term>Peyer's patches and mesenteric glands healthy</term>             
+       <term>autopsy performed</term>       
+     </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change who="#mb" when="2012-10-22">additional proofing of transcription and encoding, identified keyword terms</change>
+   <change who="#el" when="2010-11-05">case text extracted and transformed from larger file</change>
+   <change who="#sb" when="2010-05-01">enrich encoding, proof and edit</change>
+   <change who="#ao" when="2008-10-02">encoding and editing</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body> 
+   <p>Case from the case-book and medical descriptive lists of the <name type="hospital" key="162"><hi rend="initialcap">D</hi>OUGLAS <hi rend="initialcap">H</hi>OSPITAL</name>, Washington, D. C., <name type="person" key="200">Assistant Surgeon William Thomson</name>, <name type="organization" key="190">U. S. A.</name>, in charge from February, 1863, to September, 1864, and after September, 1865:</p>
+   <p><hi rend="initialcap">C</hi>ASE 303.&#8212;<name type="person" key="206">Private J. S. Livingston</name>, <name type="organization" key="229">company K, 7th Wisconsin volunteers</name>; age 32; admitted <date type="admit" when="1863-03-23">March 23, 1863</date>.  Chronic diarrh&#339;a.  Had contracted diarrh&#339;a in <date type="injury" when="1862-09">September, 1862</date>, but continued on duty until <date type="injury" when="1862-12-24">Christmas</date>, when he was sent to the regimental hospital for debility, having lost forty pounds in weight.  [The register of the regimental hospital shows that he was admitted <date type="admit" when="1862-12-24">December 24th</date>, and transferred to division hospital <date type="transfer" when="1863-03-07">March 7th</date>.]  He was then transferred to field hospital, where he remained until <date type="transfer" when="1863-03-22">March 22, 1863</date>.  [He appears on the register of the hospital of the 1st Division, 1st Army Corps, as admitted <date type="admit" when="1863-03-07">March 7th</date>&#8212;chronic diarrh&#339;a&#8212;sent to <name type="place" key="#Washington">Washington, D. C.</name>, <date type="transfer" when="1863-03-22">March 22d</date>.]  The diarrh&#339;a had continued unchanged, averaging about three stools daily, except when temporarily aggravated by hard work or exposure. There had been very little pain or abdominal tenderness; the stools were small and light-colored; appetite good. His diet had consisted chiefly of hard bread and fresh or salt beef. When admitted to this hospital his pulse was nearly normal; tongue moist, and in the center covered with a yellowish-white fur; the skin dry; he had about three liquid light-colored stools daily; no abdominal tenderness; moderate appetite; micturition was frequent but not painful. He was very much emaciated.  &#8478;. Nitrate of silver one grain, powdered opium and blue mass each half a grain, ipecacuanha quarter of a grain, every four hours. Water acidulated with nitric acid for drink; whiskey and beef-essence.  March 27th: Substituted three grains of subnitrate of bismuth with quarter of a grain of sulphate of morphia every four hours.  Diet: Milk, rice, mutton broth, eggs. April 7th: Seems somewhat better, but still haw two or three stools daily; appetite moderate; tongue clean; is able to sit up a little. Discontinue medicine, and give an enema of one drop of creasote in an ounce of mucilage three times daily.  April 15th: Two grains of quinine and ten drops of aromatic sulphuric acid three times daily.  April 18th: Had five stools during the day, attended with tormina and tenesmus. Continue the quinine; give also bismuth and whiskey.  April 20th: Still has five or six stools a day; bilious vomiting has set in, accompanied by loss of appetite. Stop the quinine.  April 22d: The vomiting has ceased, but the diarrh&#339;a continues about the same. He has become considerably emaciated; tongue red and dry.  &#8478;. Opium one-third of a grain, acetate of lead two grains, every four hours.  April 27th: Continues about the same.  &#8478;. Elixir of opium twenty drops, subnitrate of bismuth four grains, every four hours.  Died, <date type="death" when="1863-05-08">May 8th</date>.  <hi rend="italic">Autopsy:</hi> Old pleuritic adhesions about the lower lobe of the right lung; the posterior part of the upper lobe of the lung was hepatized; left lung normal. The liver was slightly enlarged and of a mahogany color. The intestines were somewhat congested in patches throughout their entire length, the congested patches being of a dark mahogany color, but no ulceration could be detected. Peyer's patches and the mesenteric glands were healthy.&#8212;<name type="person" key="205">Acting Assistant Surgeon Francis M. Holly</name>.</p>   
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d2e30526">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Ellsworth, E. A.</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+       <idno>med.d2e30526</idno>
+       <authority>Civil War Washington</authority>
+       <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor>
+       <name>Center for Digital Research in the Humanities</name>
+       <address><addrLine>319 Love Library</addrLine>
+       <addrLine>University of Nebraska–Lincoln</addrLine>
+       <addrLine>Lincoln, NE 68588-4100</addrLine>
+       <addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+    </distributor>
+    <date>2011</date>
+    <availability>
+        <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+         republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+         law, requires express written consent from the editors and advance notification of the
+         publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+ <persName xml:id="kmp">Kenneth M. Price</persName> 
+     <persName xml:id="mb">Matthew Bosley</persName>
+     <persName xml:id="nk">Nathan Kumm</persName>  
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl>
+     <title level="j">The Medical and Surgical History of the War of the Rebellion. (1861-65.)</title>
+     <pubPlace>Washington, DC</pubPlace>
+     <publisher>Government Printing Office</publisher>
+     <biblScope type="part">Part 2</biblScope>
+     <biblScope type="volume">Volume 2</biblScope>
+     <date when="1876">1876</date>
+     <biblScope type="page">830</biblScope>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+       <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+      <keywords scheme="#medsurg">
+       <term>wounds and injuries of the upper extremities</term> 
+       <term>wounds and injuries of the elbow joint</term>
+       <term>shot wounds</term>
+       <term>shot wounds of the elbow treated on the expectant plan</term>
+       <term>gunshot wound of arm</term>
+       <term>missile struck ulna of arm below elbow joint, fractured ulna transversely at point of contact, rended into long splinters</term> 
+       <term>missile revealed about midway of ulna</term>
+       <term>ball passed through upper and outer portion of ulna, fracture extending into elbow joint</term>
+       <term>fragments and spicul&#230; removed</term> 
+       <term>large and firmly attached fragments left <hi rend="italic">in situ</hi></term>
+       <term>head of radius appears displaced, limb deformed</term>
+       <term>muscles atrophied, strength of limb destroyed for any purpose of labor</term> 
+       <term>extension incomplete, pronation and supination imperfect</term>
+       <term>transferred private residence</term>       
+     </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+ <change who="#kmp" when="2014-05">blessed</change>
+   <change who="#mb" when="2012-07-02">additional proofing of transcription and encoding, identified keyword terms</change>
+   <change who="#nk" when="2011-02-23">checked OCR; added minimal mark-up for personal names, place names, and dates</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>   
+   <p><hi rend="initialcap">C</hi>ASE 1740.&#8212;<name type="person" key="xxx">First Lieutenant E. A. Ellsworth</name>, <name type="organization" key="xxx">Co. D, 11th Infantry</name>, aged 24 years, was wounded at <name type="BATTLE" key="115">Bethesda Church</name>, <date type="injury" when="1864-06-01">June 1,1864</date>. <date type="admit" when="1864-06-03">Two days afterward</date> he reached the Fifth Corps Hospital at <name type="place">White House</name>, and, on <date type="transfer" when="1864-06-07">June 7th</date>, he entered <name type="hospital" key="173">Harewood Hospital</name>, Washington.   <name type="person" key="123">Surgeon D. W. Bliss</name>, <name type="organization" key="132">U. S. V.</name>, reported:  &#34;Gunshot wound of right arm. Patient transferred to private residence on <date type="transfer" when="1864-06-13">June 13th</date>&#34;  The missile, represented in the annexed cut (<hi rend="initialcap">F</hi>IG. 586), is a small triangular fragment of a shell weighing two hundred and five grains troy; remarkable for having furnished lustre to a porcelain bulb though of cast iron. It was contributed to <name type="hospital" key="431">the Museum</name> by <name type="person" key="xxx">Assistant Surgeon J. S. Smith</name>, <name type="organization" key="190">U. S. A.</name>, who reported:  &#34;The missile struck the ulna of the right arm about one and a half inches from the elbow joint, fracturing the bone transversely at the point of contact and rending it into long splinters in its length. The presence of the missile was revealed by the N&#233;laton probe about midway of the ulna, between the long spicul&#230;.&#34;  In a report of observations by <name type="person" key="294">Assistant Surgeon J. S. Billings</name>, <name type="organization" key="190">U. S. A.</name>, to the <name type="person" key="xxx">Medical Director of the Army of the Potomac</name>, mention is made of this case as follows:  &#34;<name type="person" key="xxx">Lieutenant Ellsworth</name> was wounded by a mini&#233; ball, which passed through the upper and outer portion of the right ulna, the fracture extending into the elbow joint. The smaller fragments and spicul&#230; were removed by <name type="person" key="xxx">Assistant Surgeon J. S. Smith</name>, <name type="organization" key="190">U. S. A.</name>, and two large and firmly attached fragments, one joined to the upper, the other to the lower fractured end, were left <hi rend="italic">in situ</hi>. Simple cold-water dressings were applied. <name type="person" key="xxx">This officer</name> went to <name type="place" key="#Washington">Washington</name>, and was treated by <name type="person" key="xx">Surgeon B. Norris</name>, <name type="organization" key="190">U. S. A.</name>  Two months afterward the wound had almost entirely healed, motion was good in the joint, although somewhat limited, and the deformity of the arm was slight. Only three small spicul&#230; of bone came away.&#34;  <name type="person" key="xxx">Lieutenant Ellsworth</name> resigned his commission on <date type="servicedischarge" when="1866-12-18">December 18, 1866</date>, and was pensioned.  <name type="person" key="xxx">Examiner W. W. Potter</name>, <date type="pension" when="1869-04-19">April 19, 1869</date>, certified:  &#34;Fracture of right ulna near elbow joint, caused by a shell.   &#42;   &#42;   &#42;   The head of the radius appears displaced and the limb is deformed. The muscles are atrophied; extension cannot be completely made; pronation and supination are imperfect; strength of limb destroyed for any purpose of labor.&#34;  The pensioner was paid on <date type="pension" when="1875-03-04">March 4, 1875</date>.</p>
+   
+   <figure>
+    <graphic url="cww.001688.001" />
+    <head><hi rend="center">&#8532;</hi></head>
+    <head><hi rend="initialcap">F</hi>IG. 586.&#8212;Shell fragment extracted from a wound of the elbow.  <hi rend="italic">Spec</hi>. 4280.</head>
+   </figure>    
+   
+  </body>
+ </text>
+</TEI>

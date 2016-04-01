@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d2e30000">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Brasher, E. E.</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+    <idno>med.d2e36020</idno>
+    <authority>Civil War Washington</authority>
+    <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor>
+     <name>Center for Digital Research in the Humanities</name>
+     <address><addrLine>319 Love Library</addrLine>
+       <addrLine>University of Nebraska–Lincoln</addrLine>
+       <addrLine>Lincoln, NE 68588-4100</addrLine>
+       <addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+    </distributor>
+    <date>2011</date>
+    <availability>
+     <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+      republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+      law, requires express written consent from the editors and advance notification of the
+      publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+     <persName xml:id="ajh">AJ Howell</persName>
+     <persName xml:id="at">Alex Thomas</persName>
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl>
+     <title level="j">The Medical and Surgical History of the War of the Rebellion.
+      (1861-65.)</title>
+     <pubPlace>Washington, DC</pubPlace>
+     <publisher>Government Printing Office</publisher>
+     <biblScope type="part">Part 2</biblScope>
+     <biblScope type="volume">Volume 2</biblScope>
+     <date when="1876">1876</date>
+     <biblScope type="page">341</biblScope>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+     <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <keywords scheme="#medsurg">
+     <term>injuries of parts contained in the pelvis</term>
+     <term>injuries of pelvis</term> 
+     <term>wounds of blood-vessels and nerves</term> 
+     <term>wounds of nerves</term>
+     <term>gunshot wound through iliac region</term>
+     <term>partial loss of motion and sensation of lower extremity</term>
+     <term>injury to nerve, likely permanent</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change who="#ajh" when="2012-08-23">additional proofing of transcription and encoding, identified keyword terms</change>
+   <change who="#at" when="2011-02-25">checked OCR; added minimal mark-up for personal names, place names, and dates</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p><hi rend="initialcap">C</hi>ASE 992.&#8212;<name type="person" key="xxx">Captain E. E. Brasher</name>, <name type="organization" key="xxx">Co. I, 14th Indiana</name>, was wounded at <name type="BATTLE" key="33">Antietam</name>, <date type="injury" when="1862-09-17">September 17, 1862</date>, and was treated in a Second Corps hospital, and subsequently at the <name type="hospital" key="xxx">Avenue House</name>, Washington, <name type="person" key="156">Surgeon T. Antisell</name>, <name type="organization" key="132">U. S. V.</name>, reporting the case as a "gunshot wound through the left iliac region, in consequence of which he is unable to perform the duties of an officer. He has done no duty since he was wounded. There is a partial loss of motion and sensation of the left lower extremity, which, on account of the injury to the nerve, is likely to be permanent."  This officer was discharged from service <date type="servicedischarge" when="1862-12-19">December 19, 1862</date>. but re-entered the Army as captain in the <name type="organization" key="xxx">120th Indiana Volunteers</name>, and was promoted to the rank of major, and subsequently killed in action at <name type="battle" key="xxx">Franklin</name>, <date type="death" when="1864-11-30">November 30th, 1864</date>.</p>
+  </body>
+ </text>
+</TEI>

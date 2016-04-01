@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e3676">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Smith, Jesse</title>
+                <title level="m" type="sub">a machine readable transcription</title>
+                <principal>Susan C. Lawrence</principal>
+                <principal>Kenneth M. Price</principal>
+                <principal>Kenneth J. Winkle</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2011</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <idno>med.d1e3676</idno>
+                <authority>Civil War Washington</authority>
+                <publisher>University of Nebraska–Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+                </distributor>
+                <date>2011</date>
+                <availability>
+                    <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved.
+                        Redistribution or republication in any medium, except as allowed under the
+                        Fair Use provisions of U.S. copyright law, requires express written consent
+                        from the editors and advance notification of the publisher, the University
+                        of Nebraska–Lincoln.</p>
+                </availability>
+            </publicationStmt>
+            <notesStmt>
+                <note type="project">The following are responsible for particular readings or for
+                    changes to this file, as noted: 
+ <persName xml:id="kw">Kenneth Winkle</persName> <persName xml:id="ajh">AJ Howell</persName>
+                    <persName xml:id="mb">Matthew Bosley</persName>
+                    <persName xml:id="el">Elizabeth Lorang</persName>
+                    <persName xml:id="sb">Stacey Berry</persName>
+                    <persName xml:id="et">Elisabeth Tracey</persName>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>The Medical and Surgical History of the War of the Rebellion.
+                        (1861&#8211;65.)</title>
+                    <editor role="compiler">Surgeon General Joseph K. Barnes, United States
+                        Army</editor>
+                    <pubPlace>Washington, D.C.</pubPlace>
+                    <publisher>Government Printing Office</publisher>
+                    <biblScope type="part">Part 1</biblScope>
+                    <biblScope type="volume">Volume 2</biblScope>
+                    <date when="1870">1870</date>
+                    <biblScope type="page">59-60</biblScope>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <classDecl>
+                <taxonomy xml:id="medsurg">
+                    <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme="#medsurg">
+                    <term>on special wounds and injuries of the head</term>
+                    <term>wounds and injuries of the head</term>
+                    <term>miscellaneous injuries of the head</term>
+                    <term>trephining</term>
+                    <term>removal of bone fragments</term>
+                    <term>depressed fragments of bone</term>
+                    <term>freedman</term>
+                    <term>copious pus on removing bone</term>
+                    <term>brain protruded through trephined opening in skull</term>
+                    <term>cranial fracture from fall</term>
+                    <term>general anesthesia, ether</term>
+                    <term>depressed fracture of parietal bone</term>
+                    <term>severe convulsions</term>
+                    <term>rolled from stable hay loft, fell twelve feet</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+ <change who="#kw" when="2014-05">blessed</change>
+            <change who="#ajh" when="2013-08-09">added figure encoding</change>
+            <change who="#mb" when="2013-05-17">additional proofing of transcription and encoding,
+                edited and added keyword terms</change>
+            <change who="#mb" when="2011-10-10">additional proofing of transcription and
+                encoding</change>
+            <change who="#mb" when="2011-06-07">additional proofing of transcription and
+                encoding</change>
+            <change who="#el" when="2011-11-05">case text extracted and transformed from larger
+                file</change>
+            <change who="#sb" when="2011-02-09">enriched encoding</change>
+            <change who="#sb" when="2011-01-28">validated file</change>
+            <change who="#et" when="2009-08-01">encoded</change>
+            <change who="#sb" when="2008-09-22">initial checking of OCR text against PDF;
+                encoded</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body xml:id="ch1.sc2.0026">
+            <p><hi rend="initialcap">C</hi>ASE.&#8212;<name type="person" key="291">Jesse
+                    Smith</name>, Freedman, aged 18 years, employed as a cattle driver, rolled off,
+                in his sleep, from the hay in a stable loft, and fell, some twelve feet to the
+                floor, striking his head. He was found in the morning, cold and insensible,
+                lying on the stable floor, near the horses. Under the use of frictions, hot drinks,
+                and other restoratives he revived, and was carried to the <name type="hospital"
+                    key="440">Freedmen's Hospital</name>, at <name type="place">Alexandria,
+                    Virginia</name>. <name type="person" key="292">Acting Assistant Surgeon Robert
+                    N. Atwood</name>, found a wound of the scalp of a crucial form over the right
+                parietal eminence, and a depressed fracture of the bone; but, as the general
+                condition of the patient was comfortable, sensibility being restored, and the mental
+                faculties being apparently normal, <name type="person" key="292">Dr. Atwood</name>
+                decided to await further developments. No decidedly bad cerebral symptoms appeared
+                for twelve days after the injury, when the patient complained of increased headache,
+                and a few hours subsequently had a severe convulsion. On the following day, the patient was much the same as usual,
+                except that his headache was increased. <name type="person" key="292">Dr.
+                    Atwood</name>, in consultation with <name type="person" key="293">Acting
+                    Assistant Surgeon A. W. K. Andrews</name>, decided to operate, and ether having
+                been administered, enlarged the original wound and applied the trephine, and removed
+                a button of bone to which the greater portion of the depressed fragments were united
+                by the inner table. On removing the bone, pus gushed out copiously. At the upper
+                posterior part of the perforation the inner table was detached three-fourths of an
+                inch more than the outer. This fragment was, with some difficulty, removed by strong
+                forceps. An hour afterwards, the patient having recovered from the ether, was highly
+                excited, restless, and complained of intolerable pain. He was ordered a grain of
+                sulphate of morphia, and in two hours slept comfortably. For ten days subsequently,
+                the morphia was continued, being given to the extent of two or three grains daily.
+                His diet, at this time, was bread and milk, in small quantities, acidulated with
+                vinegar, which he craved earnestly. He also had vinegar and water to drink. In three
+                days after the operation the brain commenced to protrude through the opening in the
+                skull, and by the tenth day had attained the size and shape of half of a hen's egg.
+                    <name type="person" key="292">Dr. Atwood</name> decided to try, by gentle
+                compression, to reduce the protrusion, and applied a compress and retentive bandage
+                with this view; but immediately violent convulsions occurred; and, although the
+                compress was instantly removed, violent convulsive paroxysms recurred during the
+                night, not less than fifteen or twenty times. The next day the patient was hovering
+                between life and death, but he gradually rallied, and strange to say, after the
+                subsidence of the convulsions he had no more pain in his head. His bowels had been
+                regular throughout his illness, and he had taken no medicine except the morphia,
+                which was discontinued as soon as the pain in the head ceased. Convalescence
+                proceeded rapidly; the protrusion subsided; a firm and dense cicatrix covered the
+                aperture in the skull; and the patient recovered without any impairment of his
+                mental faculties or motor powers. Several months after his recovery he was brought
+                to the <name type="hospital" key="431">Army Medical Museum</name> to be
+                photographed. The picture is numbered 185 in the Surgical Series. The boy was then
+                in perfectly good health, and his faculties were unimpaired. The specimen of the
+                disk and depressed fragment of the parietal was presented to <name type="hospital"
+                    key="431">the Museum</name> by <name type="person" key="292">Dr. Atwood</name>,
+                and is figured in the accompanying wood cut, (<hi rend="initialcap">F</hi>IG. 25.) </p>
+            <figure>
+                <graphic url="cww.001362.001"/>
+                <head><hi rend="initialcap">F</hi>IG. 25.&#8212;Disk and depressed fragment of bone from
+                    right parietal.&#8212;<hi rend="italic">Spec</hi>. 4817, Sect. I, A. M. M.</head></figure>
+        </body>
+    </text>
+</TEI>

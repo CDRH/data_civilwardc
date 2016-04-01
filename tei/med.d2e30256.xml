@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d2e30256">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Woods, E. H.</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+    <idno>med.d2e30256</idno>
+    <authority>Civil War Washington</authority>
+    <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor>
+     <name>Center for Digital Research in the Humanities</name>
+     <address><addrLine>319 Love Library</addrLine>
+       <addrLine>University of Nebraska–Lincoln</addrLine>
+       <addrLine>Lincoln, NE 68588-4100</addrLine>
+       <addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+    </distributor>
+    <date>2011</date>
+    <availability>
+     <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+      republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+      law, requires express written consent from the editors and advance notification of the
+      publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+ <persName xml:id="kw">Kenneth Winkle</persName> 
+     <persName xml:id="ajh">AJ Howell</persName>
+     <persName xml:id="mb">Matthew Bosley</persName>
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl>
+     <title level="j">The Medical and Surgical History of the War of the Rebellion.
+      (1861-65.)</title>
+     <pubPlace>Washington, DC</pubPlace>
+     <publisher>Government Printing Office</publisher>
+     <biblScope type="part">Part 2</biblScope>
+     <biblScope type="volume">Volume 2</biblScope>
+     <date when="1876">1876</date>
+     <biblScope type="page">580</biblScope>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+     <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <keywords scheme="#medsurg">
+     <term>wounds and injuries of the upper extremities</term>
+     <term>wounds of the shoulder joint</term>
+     <term>excisions at the shoulder</term>
+     <term>excisions of the head and portions of the shaft of the humerus</term>
+     <term>intermediary excisions of the upper extremity of the humerus for shot injury</term>
+     <term>successful operations</term>
+     <term>ball entered outer anterior aspect of shoulder, comminuted upper portion of humerus,
+      fracture extending into joint</term>
+     <term>ball entered shoulder below coracoid process, passed backward, fractured humerus in upper
+      portion</term>
+     <term>arm shortened three-fourths inch, slight atrophy</term>
+     <term>operation of resection of proximal humerus with the head</term>
+     <term>arm useless for manual labor</term>
+     <term>furnished with artificial limb</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+ <change who="#kw" when="2014-05">blessed</change>
+   <change who="#ajh" when="2013-08-23">added figure encoding</change>
+   <change who="#mb" when="2012-06-28">additional proofing of transcription and encoding, identified
+    keyword terms</change>
+   <change who="#mb" when="2011-02-23">checked OCR; added minimal mark-up for personal names, place
+    names, and dates</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p><hi rend="initialcap">C</hi>ASE 1560.&#8212;<name type="person" key="xxx">Private E. H.
+     Woods</name>, <name type="organization" key="xxx">Co. G, 6th Maine</name>, was wounded at <name
+     type="BATTLE" key="10">Chancellorsville</name>, <date type="injury" when="1863-05-03">May 3,
+     1863</date>, and was admitted to <name type="hospital" key="165">Mount Pleasant
+    Hospital</name>, Washington. <name type="person" key="xxx">Acting Assistant Surgeon E.
+     Coues</name> reported: &#34;The patient, a very robust muscular man, aged 24 years, was
+    admitted <date type="admit" when="1863-05-08">May 8th</date>. A mini&#233; ball had entered the
+    outer anterior aspect of the shoulder, passed backward and inward, and badly comminuted the
+    upper portion of the humerus, the fracture extending up into the joint. Operation of resection
+    of five and a half inches of the humerus with the head was performed, <date type="operation"
+     when="1863-05-15">May 15th</date>, by <name type="person" key="339">Assistant Surgeon C. A.
+     McCall</name>, <name type="organization" key="190">U. S. A.</name>&#34; The specimen (<hi
+     rend="initialcap">F</hi>IG. 454) consists of the head and three and a half inches of the right
+    humerus. The anterior face of the shaft and posterior portion of the head are carried away, and
+    the articular surface is split in two vertically. It was contributed by <name type="person"
+     key="339">the operator</name>. The patient recovered and was discharged the service, and
+    pensioned <date type="servicedischarge" when="1863-11-13">November 13, 1863</date>. At <date
+     type="pension" when="1863-11-13">that date</date>, <name type="person" key="xxx">Examiner T. B
+     Smith</name>, of <name type="place" key="#Washington">Washington</name>, reported: &#34;Ball
+    entered the shoulder an inch below the coracoid process, and passed backward, fracturing the
+    humerus in the upper portion. Resection of the head and about three inches of the shaft in
+    consequence. Hand motions perfect, but unavailable for labor by reason of uselessness of the
+    arm; may improve much in a couple of years.&#34; In <date type="pension" when="1865-11"
+     >November, 1865</date>, <name type="person" key="xxx">Dr. E. D. Hudson</name>, of <name
+     type="place">New York</name>, furnished this man with an artificial limb, and reported that
+    there had been an excision of five inches of the shaft and head of the humerus through a linear
+    incision, posteriorly, of the deltoid, and that the arm was shortened three-fourths of an inch,
+    with slight atrophy. The general condition of the arm was excellent, the interspace being mainly
+    filled with new growth of the continuity. The usefulness of the apparatus while under
+    observation was very satisfactory. <name type="person" key="xxx">Dr. Hudson</name> contributed a
+    photograph, represented in the accompanying cut (<hi rend="initialcap">F</hi>IG. 453), showing
+    the mode of adaptation of the apparatus to the limb, and another giving a view of the patient,
+    showing the cicatrix, which will be found on page 2, Vol. IX, <hi rend="italic">Contributed
+     Photographs</hi>, A. M. M. In <date type="pension" when="1867-06">June, 1867</date>, <name
+     type="person" key="xxx">Examiner A. H. Agard</name>, of <name type="place">Sandusky,
+     Ohio</name>, reported: &#34;The excised end or stump has not formed a joint, but plays all
+    about, rendering the arm quite useless for purposes of manual labor.&#34; The pensioner was paid
+     <date type="pension" when="1874-03-04">March 4, 1874</date>.</p>
+   <figure><graphic url="cww.001802.001"/><head><hi rend="initialcap">F</hi>IG. 453.&#8212;Apparatus employed in case of excision at the
+    shoulder. [From a photograph.]</head></figure>
+   <figure><graphic url="cww.001803.001"/><head><hi rend="initialcap">F</hi>IG. 454.&#8212;Upper extremity of right humerus excised for shot
+    fracture. <hi rend="italic">Spec</hi>. 1148.</head></figure>
+  </body>
+ </text>
+</TEI>

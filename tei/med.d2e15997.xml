@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d2e15997">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Constable, W. M.</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+    <idno>med.d2e15997</idno>
+    <authority>Civil War Washington</authority>
+    <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor><name>Center for Digital Research in the
+     Humanities</name><address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address></distributor>
+    <date>2011</date>
+    <availability>
+     <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+      republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+      law, requires express written consent from the editors and advance notification of the
+      publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+     <persName xml:id="mb">Matthew Bosley</persName>
+     <persName xml:id="el">Elizabeth Lorang</persName>
+     <persName xml:id="sb">Stacey Berry</persName>
+     <persName xml:id="et">Elisabeth Tracey</persName>
+     <persName xml:id="ss">Sarah Synovec</persName>
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title level="j">The Medical and Surgical History of the War of the Rebellion.
+      (1861-65.)</title><pubPlace>Washington, DC</pubPlace><publisher>Government Printing
+      Office</publisher><biblScope type="part">Part 3</biblScope><biblScope type="volume">Volume
+      2</biblScope><date when="1883">1883</date><biblScope type="page">387</biblScope></bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+     <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <keywords scheme="#medsurg">
+     <term>wounds and injuries of the lower extremities</term> 
+     <term>wounds and injuries of the knee joint</term>
+     <term>excisions at the knee joint for shot injury</term> 
+     <term>primary excisions at the knee joint</term>
+     <term>recoveries after primary excision of the knee joint</term> 
+     <term>primary excision was followed by a successful intermediary amputation of the thigh at the junction of the middle and lower thirds of the femur</term>
+     <term>severe fracture of external condyle of femur and of head of tibia</term> 
+     <term>wounded in knee</term>     
+     <term>general anesthesia, chloroform</term>
+     <term>artificial limb fitted</term>     
+    </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change who="#mb" when="2012-05-25">additional proofing of transcription and encoding, identified keyword terms</change>
+   <change who="#el" when="2011-05-11">case text extracted and transformed from larger file</change>
+   <change who="#sb" when="2011-06-04">Enrich Encoding, Edit and validate</change>
+   <change who="#sb" when="2011-01-28">Validated File</change>
+   <change who="#ss" when="2008-09-22">initial checking of OCR text; encoded P5 Encoding</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>   
+    <p><hi rend="initialcap">C</hi>ASE 587.&#8212;<name type="person" key="1201">Private W. M.
+      Constable</name>, <name type="organization" key="471">Co. H, 1st U. S. Cavalry</name>, aged 26
+     years, was wounded in the right knee, at <name type="battle" key="xx">Dinwiddie Court House</name>, <date type="injury" when="1865-03-31">March 31, 1865</date>. He was
+     admitted to a Cavalry Corps field hospital, whence <name type="person" key="xx">Assistant Surgeon E. J. Marsh</name>, <name type="organization"
+      key="190">U. S. A.</name>, reported: "Severe fracture of external condyle of femur and of head
+     of tibia by a bullet; treated by excision; missile removed; chloroform used."  <date type="operation" when="1865-04-05">Five days after
+     the date of the wound</date> the limb was amputated by the circular method at the junction of the
+     middle and lower thirds of the thigh. This operation was done at <name type="hospital"
+      key="428">Judiciary Square Hospital</name>, Washington, by <name type="person"
+       key="970">Acting Assistant Surgeon F. H. Colton</name>, who also, <date type="operation" when="1865-07">three months later</date>, at <name
+      type="hospital" key="162">Douglas Hospital</name>, performed a second operation, removing a
+     sequestrum, two inches long and one-fourth inch wide, from the stump.  By August 29th the stump
+     had entirely healed, and <date type="injury" when="1865-09-05">one week afterwards</date> an artificial limb was fitted by the <name
+      type="organization" key="450">Jewett Patent Leg Co.</name>  The patient was subsequently discharged from <name type="hospital" key="173">Harewood Hospital</name>, <date type="servicedischarge"
+      when="1865-11-18">November 18, 1865</date>, and pensioned.  Several years afterwards he served
+     for a period in the <name type="organization" key="472">44th Regiment (Invalid) of
+      Infantry</name>. The pensioner was paid <date type="pension" when="1880-03-04">March 4, 1880</date>. </p>   
+  </body>
+ </text>
+</TEI>

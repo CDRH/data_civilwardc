@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d2e31142">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Ewing, J. H.</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+       <idno>med.d2e31142</idno>
+       <authority>Civil War Washington</authority>
+       <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor>
+       <name>Center for Digital Research in the Humanities</name>
+       <address><addrLine>319 Love Library</addrLine>
+       <addrLine>University of Nebraska–Lincoln</addrLine>
+       <addrLine>Lincoln, NE 68588-4100</addrLine>
+       <addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+    </distributor>
+    <date>2011</date>
+    <availability>
+        <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+         republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+         law, requires express written consent from the editors and advance notification of the
+         publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+     <persName xml:id="mb">Matthew Bosley</persName>
+     <persName xml:id="mv">Michael Vinci</persName> 
+     <persName xml:id="kk">Kourtney Klein</persName> 
+     <persName xml:id="ak">Alex Kinnaman</persName>
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl>
+     <title level="j">The Medical and Surgical History of the War of the Rebellion. (1861-65.)</title>
+     <pubPlace>Washington, DC</pubPlace>
+     <publisher>Government Printing Office</publisher>
+     <biblScope type="part">Part 2</biblScope>
+     <biblScope type="volume">Volume 2</biblScope>
+     <date when="1876">1876</date>
+     <biblScope type="page">550</biblScope>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+       <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+      <keywords scheme="#medsurg">
+       <term>wounds and injuries of the upper extremities</term>
+       <term>wounds of the shoulder joint</term>
+       <term>excisions at the shoulder</term> 
+       <term>excisions of the head and portions of the shaft of the humerus</term>
+       <term>primary excisions of the upper extremity of the humerus for shot injury</term> 
+       <term>successful operations</term>
+       <term>ball struck inferior angle of scapula, glancing upward and striking neck of humerus</term>
+       <term>ligaments broken, head of humerus partially displaced from socket</term> 
+       <term>humerus partially dislocated, epiphysis uninjured</term>
+       <term>bone broken into fragments and continuity destroyed</term>
+       <term>arm hangs helplessly at his side</term>
+       <term>arm flexible in every direction, requires brace</term>
+       <term>no bone existing in space of five inches in upper arm</term>
+       <term>shaft of humerus excised for comminution of upper third</term>        
+       <term>pain in arm below end of humerus</term>
+     </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change who="#ak" when="2014-10-08">proofed figure encoding</change>
+   <change who="#kk" when="2014-01-22">added figure encoding</change>
+   <change who="#mb" when="2012-07-11">additional proofing of transcription and encoding, identified keyword terms</change>
+   <change who="#mv" when="2011-02-23">checked OCR; added minimal mark-up for personal names, place names, and dates</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>   
+   <p><hi rend="initialcap">C</hi>ASE 1526.&#8212;<name type="person" key="xxx">Bugler J. H. Ewing</name>, <name type="organization" key="xxx">Co. L, 8th Illinois Cavalry</name>, aged 22 years, was wounded at <name type="battle" key="xxx">Muddy Run</name>, near <name type="place">Culpeper</name>, <date type="injury" when="1863-11-08">November 8, 1863</date>, and was taken to the Cavalry Corps Hospital, where he was operated on by <name type="person" key="xxx">Surgeon E. W. H. Beck</name>, <name type="organization" key="xxx">3d Indiana Cavalry</name>, who forwarded the specimen to the <name type="hospital" key="431">Army Medical Museum</name> with the following history: &#34;A large mini&#233; ball struck this man obliquely from the enemy's left, as he sat on his horse; his side fronting their line. The ball struck the inferior angle of the scapula, glancing upward in the direction of, and striking the neck of the humerus. About three inches of bone was broken into fragments and continuity destroyed; indeed there was the largest number of, and the smallest sized, pieces that ever came under my observation. I send you the largest pieces. It was with difficulty I got all the small fragments extricated, so deeply and firmly were they embedded in the tissues around. The ligaments were broken, and the head of the bone partially displaced from the socket; a straight incision was the only one used. No large vessels or nerves were injured by either the ball or operation. Only one small surface artery was tied; very little blood was lost. The wound was closed by sutures and straps, save the necessary aperture. Circulation was good in the arm the next morning; the patient had slept; he took nourishment, and was lively and hopeful. On <date type="transfer" when="1863-11-09">the 9th</date>, he was sent twenty-two miles in an ambulance to the Corps Hospital.&#34; The specimen consists of the head and four and a half inches of the shaft of the left humerus, excised for comminution of the upper third by a conoidal ball, which is attached, battered. The humerus was partially dislocated, but the epiphysis is uninjured. A card photograph, showing the appearance after recovery, stands with the specimen, which is represented in the accompanying wood-cut (<hi rend="initialcap">F</hi>IG. 425).  On <date type="transfer" when="1863-11-10">November 10th</date>, two days after receiving the injury, the patient was admitted to <name type="hospital" key="157">Columbia College Hospital</name>, Washington.  In the middle of January, 1864, an abscess formed in the deltoid region, and a small fragment of necrosed bone was eliminated.  By the end of January, the wound was entirely healed.  On March 25, 1864, the hospital report states that Ewing could slightly flex the left forearm, and that the power of pronation and supination and of moving the hand was perfect.  <name type="person" key="xxx">Ewing</name> was discharged from service <date type="servicedischarge" when="1864-09-24">September 26, 1864</date>.  On <date type="photo" when="1865-06-25">June 25, 1865</date>, he visited the<name type="hospital" key="431">Army Medical Museum</name>, and a photograph was then taken, and is represented in <hi rend="italic">Figure</hi> 4, <hi rend="initialcap">P</hi>LATE <hi rend="initialcap">XVII</hi>. He had little motion at the left shoulder joint, but the movements of the forearm were unimpaired.  <name type="person" key="xxx">Examiner B. H. Long</name>, of <name type="place">Mechanicsburg, Pennsylvania</name>, <date type="pension" when="1866-11-15">November 15, 1866</date>, reported that in consequence of the excision, &#34;though the wound is now healed, his arm hangs helplessly at his side; no bone existing in the upper portion for a space of perhaps five inches. The arm is flexible in every direction, and requires a brace to prevent it from being a constant source of interruption.&#34;  <name type="person" key="xxx">Examiner W. D. Scarff</name>, of <name type="place">Bellefontaine, Ohio</name>, <date type="pension" when="1873-09-06">September 6, 1873</date>, states that the patient &#34;suffers pain at times in the balance of the arm below the end of the humerus.&#34; The pensioner was paid <date type="pension" when="1873-12-04">December 4, 1873</date>.</p>
+   <p><hi rend="initialcap">F</hi>IG. 425.&#8212;Excision of the upper extremity of the left humerus for shot fracture.&#8212;<hi rend="italic">Spec</hi>. 1931.</p> 
+   
+   <figure>
+    <graphic url="cww.001713.001" />
+    <head>
+     PLATE  XVII.   RESULTS  OF  EXCISIONS  OF  THE  HEAD  OF  THE  HUMERUS.    <hi rend="initialcap">F</hi>IG. <hi rend="initialcap">IV</hi>.  Private J. L. Ewing   SPEC. 1931.  A. M. M.
+    </head>
+   </figure>
+   
+  </body>
+ </text>
+</TEI>

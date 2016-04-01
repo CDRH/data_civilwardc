@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e41884">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Hayes, George</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+    <idno>med.d1e41884</idno>
+       <authority>Civil War Washington</authority>
+       <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor>
+       <name>Center for Digital Research in the Humanities</name>
+       <address><addrLine>319 Love Library</addrLine>
+       <addrLine>University of Nebraska–Lincoln</addrLine>
+       <addrLine>Lincoln, NE 68588-4100</addrLine>
+       <addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+    </distributor>
+    <date>2011</date>
+    <availability>
+        <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+         republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+         law, requires express written consent from the editors and advance notification of the
+         publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+     <persName xml:id="mb">Matthew Bosley</persName>       
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl>
+     <title level="j">The Medical and Surgical History of the War of the Rebellion. (1861-65.)</title>
+     <pubPlace>Washington, DC</pubPlace>
+     <publisher>Government Printing Office</publisher>
+     <biblScope type="part">Part 2</biblScope>
+     <biblScope type="volume">Volume 1</biblScope>
+     <date when="1879">1879</date>
+     <biblScope type="page">307</biblScope>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+       <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+      <keywords scheme="#medsurg">
+       <term>diarrh&#339;a and dysentery</term>
+       <term>remarks on the pathology and treatment of diarrh&#339;a and dysentery</term>
+       <term>acute diarrh&#339;a</term>                    
+       <term>post mortem appearances in acute diarrh&#339;a</term>
+       <term>morbid anatomy</term>
+       <term>lesions observed in the large intestine</term>       
+       <term>autopsy performed</term> 
+       <term>typhoid fever</term>
+       <term>catarrhal inflammation of colon</term>
+       <term>diarrh&#339;a</term>
+       <term>beef-tea almost strangled him</term>
+       <term>arachnoid opaque at base of brain</term>
+       <term>effusion of lymph on posterior spinal cord below medulla oblongata</term>
+       <term>solitary glands of both large and small intestine enlarged and ulcerated at apices</term>
+       <term>thickening and ulceration of patches of Peyer</term>
+       <term>villi in ileum greatly hypertrophied</term>
+       <term>solitary glands enlarged to rounded tumors, some ulcerated at their apices</term>
+       <term>mucous membrane ulcerated or abraded nowhere except on summits of enlarged glands</term>             
+     </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change who="#mb" when="2013-01-29">copied case from MSHWR, added proofing of transcription and encoding, identified keyword terms and figures</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body> 
+   <p>Selected for photographic illustration is a specimen in which the solitary glands are enlarged to the size of bird-shot, but in which a little ulcer has formed on the apex of each, although the patient had been sick but a few weeks. The case was one of typhoid fever accompanied by a smart catarrhal inflammation of the colon:</p>
+   <p><hi rend="initialcap">C</hi>ASE 882.&#8212;<name type="person" key="xxx">Private George Hayes</name>, <name type="organization" key="xxx">company B, 12th U. S. infantry</name>; age 25; was sent to the guard-house at <name type="place" key="115">Russell barracks</name>, Washington, D. C., <date type="admit" when="1866-05-10">May 10, 1866</date>. He continued under the charge of the guard, but apparently in excellent health, until about <date type="injury" when="1866-08-01">August 1st</date>, when he came to sick-call suffering with diarrh&#339;a, and was excused from fatigue duty. <name type="person" key="134">Assistant Surgeon E. Bentley</name>, post surgeon at Russell barracks, states that he had not been on sick report at any time previously.  The diarrh&#339;a continued in spite of treatment, and soon after symptoms of typhoid fever were recognized, and the patient was sent to post hospital.  <name type="person" key="xxx">Acting Assistant Surgeon George P. Hanawalt</name> reports that he was admitted to the post hospital, <name type="place" key="#Washington">Washington, D. C.</name>, <date type="admit" when="1866-08-25">August 25th</date>. On admission he was found to be quite stupid, though he could readily be aroused. The following prescriptions were ordered: &#8478;. Nitro-muriatic acid one fluid drachm, water six fluid ounces. Take a tablespoonful every four hours, alternating with the following:  &#8478;. Carbonate of ammonia one drachm, oil of turpentine two fluid drachms, powdered gum Arabic half a drachm, cinnamon-water six fluid ounces. Dose, a tablespoonful every four hours. Beef-tea.  On the afternoon of the 26th he became delirious, and during the night constant watching and restraint were required to keep him in bed. This continued until the forenoon of the 27th, when almost complete loss of sensibility ensued. The patient could not swallow the milk-punch which had been ordered in the morning. An attempt was made to give him beef-tea, but a teaspoonful of it almost strangled him. Heavy stupor continued until noon on <date type="death" when="1866-08-28">the 28th</date>, when he died.  <hi rend="italic">Autopsy:</hi> The arachnoid at the base of the brain was opaque, and there was some effusion of lymph on the posterior portion of the spinal cord just below the medulla oblongata. All the viscera appeared healthy with the exception of the intestinal canal. The solitary glands of both large and small intestine were greatly enlarged and ulcerated at their apices, and there was considerable thickening and ulceration of the patches of Peyer. The intestinal canal was forwarded to the <name type="hospital" key="431">Army Medical Museum</name> by <name type="person" key="200">Assistant Surgeon William Thomson</name>, <name type="organization" key="190">U. S. A.</name>, surgeon in charge of the post hospital.</p>    
+   <p>Nos. 815 to 821, Medical Section, are from this case.  Nos. 815, 816 and 817 are successive portions of the ileum, in which Peyer's patches are much thickened and ulcerated; the villi are greatly hypertrophied.  In Nos. 815 and 816 the solitary glands are enlarged to rounded tumors, many of them as much as a fifth of an inch in diameter, or even larger, and some of them, especially in No. 816, ulcerated at their apices.  In No. 817 the enlarged solitary glands have the same character, but are much less numerous.  No. 818 consists of the last inch of the ileum, with the ileo-c&#230;cal valve and c&#230;cum. Both the ileum and c&#230;cum present a number of enlarged solitary glands similar to those above described; those in the c&#230;cum are ulcerated at their apices.  No. 819 is from the ascending, No. 820 from the transverse, and No. 821 from the descending colon; all present enlarged solitary glands ulcerated at their apices, similar to those shown in the plate representing No. 820.  These little tumors in No. 819 are smaller, in No. 821 larger, but in both less numerous than those in No. 820.</p>
+   <p>The plate facing page 306 is reproduced from a photograph of No. 820, which, as just mentioned, is a portion of the transverse colon from this case. The numerous enlarged glands vary from one-tenth to one-fifth of an inch in diameter, and project from the surface as small sessile tumors. The ulcers vary from little circular dot-like depressions to more irregular excavations one-tenth of an inch in diameter. The mucous membrane is nowhere ulcerated or abraded except on the summits of the enlarged glands.</p>
+   <p><hi rend="initialcap">P</hi>LATE  VII.   TRANSVERSE  COLON  WITH  ENLARGED  GLANDS  ULCERATED  AT  THEIR  APICES.   No. 820.  MEDICAL  SECTION. </p>
+  </body>
+ </text>
+</TEI>

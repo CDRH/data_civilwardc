@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e2768">
+        <teiHeader>
+                <fileDesc>
+                        <titleStmt>
+                                <title level="m" type="main">Etzel, William</title>
+                                <title level="m" type="sub">a machine readable transcription</title>
+                                <principal>Susan C. Lawrence</principal>
+                                <principal>Kenneth M. Price</principal>
+                                <principal>Kenneth J. Winkle</principal>
+                        </titleStmt>
+                        <editionStmt>
+                                <edition>
+                                        <date>2011</date>
+                                </edition>
+                        </editionStmt>
+                        <publicationStmt>
+                                <idno>med.d1e2768</idno>
+                                <authority>Civil War Washington</authority>
+                                <publisher>University of Nebraska–Lincoln</publisher>
+                                <distributor>
+                                        <name>Center for Digital Research in the Humanities</name>
+                                        <address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+                                </distributor>
+                                <date>2011</date>
+                                <availability>
+                                        <p>Copyright © 2011 by University of Nebraska–Lincoln, all
+                                                rights reserved. Redistribution or republication in
+                                                any medium, except as allowed under the Fair Use
+                                                provisions of U.S. copyright law, requires express
+                                                written consent from the editors and advance
+                                                notification of the publisher, the University of
+                                                Nebraska–Lincoln.</p>
+                                </availability>
+                        </publicationStmt>
+                        <notesStmt>
+                                <note type="project">The following are responsible for particular
+                                        readings or for changes to this file, as noted:
+                                        <persName xml:id="ajh">AJ Howell</persName>
+                                        <persName xml:id="mb">Matthew Bosley</persName>
+                                        <persName xml:id="el">Elizabeth Lorang</persName>
+                                        <persName xml:id="sb">Stacey Berry</persName>
+                                        <persName xml:id="et">Elisabeth Tracey</persName>
+                                </note>
+                        </notesStmt>
+                        <sourceDesc>
+                                <bibl>
+                                        <title level="j">The Medical and Surgical History of the War
+                                                of the Rebellion</title>
+                                        <pubPlace>Washington, DC</pubPlace>
+                                        <publisher>Government Printing Office</publisher>
+                                        <biblScope type="part">Part 3</biblScope>
+                                        <biblScope type="volume">Volume 1</biblScope>
+                                        <date when="1888">1888</date>
+                                        <biblScope type="page">227</biblScope>
+                                </bibl>
+                        </sourceDesc>
+                </fileDesc>
+                <encodingDesc>
+                        <classDecl>
+                                <taxonomy xml:id="medsurg">
+                                        <bibl>Medical and Surgical History of the War of the
+                                                Rebellion</bibl>
+                                </taxonomy>
+                        </classDecl>
+                </encodingDesc>
+                <profileDesc>
+                        <textClass>
+                                <keywords scheme="#medsurg">
+                                        <term>clinical records</term>
+                                        <term>continued fevers</term>
+                                        <term>typho-malarial and typhoid fevers</term>
+                                        <term>seminary hospital cases</term>
+                                        <term>delirium</term>
+                                        <term>diarrh&#339;a</term> 
+                                        <term>iliac tenderness with some tympanites</term> 
+                                        <term>coma</term>
+                                        <term>anorexia</term>
+                                        <term>typhoid cases</term>
+                                        <term>typhoid fever</term>
+                                </keywords>
+                        </textClass>
+                </profileDesc>
+                <revisionDesc>
+                        <change who="#ajh" when="2013-05-30">additional proofing of transcription and encoding, identified keyword terms</change>
+                        <change who="#mb" when="2011-10-13">additional proofing of transcription and
+                                encoding</change>
+                        <change who="#mb" when="2011-06-03">additional proofing of transcription and
+                                encoding</change>
+                        <change who="#el" when="2011-05-11">case text extracted and transformed from
+                                larger file</change>
+                        <change who="#sb" when="2011-02-23">Encoding and Proofing</change>
+                        <change who="#et" when="2009-12-01">Initial Checking OCR Text to PDF file,
+                        </change>
+                </revisionDesc>
+        </teiHeader>
+        <text>
+                <body xml:id="ch4.sc2.3.00043">
+
+                        <p><hi rend="initialcap">C</hi>ASE 43.&#8212;<hi rend="italic">Delirium;
+                                        diarrh&#339;a; iliac tenderness; no rose-colored spots;
+                                        coma; death on 29th day.</hi>&#8212;<name type="person"
+                                        key="503">Private William Etzel</name>, <name
+                                        type="organization" key="436">Co. C, 2d Pa. Cav.</name>; age
+                                29; was admitted <date type="admit" when="1861-11-05">Nov. 5,
+                                        1861</date>. Diagnosis&#8212;typhoid fever. He had been in
+                                good health until <date type="injury" when="1861-10-22">October
+                                        22</date>, when he was seized with chills followed by fever,
+                                epistaxis, pains in the back and limbs, lassitude, anorexia and
+                                thirst. On the 6th his countenance was anxious, eyes dull and
+                                suffused, face congested, pulse 95, skin hot, tongue slightly moist,
+                                red at the tip and edges, coated white in the centre, appetite good,
+                                thirst considerable; he was somewhat deaf and spoke in a whisper;
+                                one stool was passed during the previous twenty-four hours, and
+                                there was much iliac tenderness with some tympanites; the
+                                respirations were 20 per minute and there was some cough. One drachm
+                                of emulsion of turpentine was prescribed, to be taken every four
+                                hours. On the 8th the tongue was dry and yellow in the centre and
+                                the teeth covered with sordes; he slept well and had a good
+                                appetite. He became dull and stupid on the 10th and had three stools
+                                with much tenderness and tympanites, but no cough. On the 16th he
+                                was delirious and constantly picking at the bed-clothes. The
+                                diarrh&#339;a continued, the tongue being moist and yellow-coated,
+                                pulse 90, skin hot; coma supervened, followed by death on <date
+                                        type="death" when="1861-11-19">the 19th</date>. </p>
+
+                </body>
+        </text>
+</TEI>

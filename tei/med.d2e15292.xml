@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d2e15292">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Golden, D.</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+    <idno>med.d2e15292</idno>
+    <authority>Civil War Washington</authority>
+    <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor><name>Center for Digital Research in the
+     Humanities</name><address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address></distributor>
+    <date>2011</date>
+    <availability>
+     <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+      republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+      law, requires express written consent from the editors and advance notification of the
+      publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+ <persName xml:id="kmp">Kenneth M. Price</persName> 
+     <persName xml:id="ajh">AJ Howell</persName>
+     <persName xml:id="mb">Matthew Bosley</persName>
+     <persName xml:id="el">Elizabeth Lorang</persName>
+     <persName xml:id="sb">Stacey Berry</persName>
+     <persName xml:id="et">Elisabeth Tracey</persName>
+     <persName xml:id="ss">Sarah Synovec</persName>
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title level="j">The Medical and Surgical History of the War of the Rebellion.
+      (1861-65.)</title><pubPlace>Washington, DC</pubPlace><publisher>Government Printing
+      Office</publisher><biblScope type="part">Part 3</biblScope><biblScope type="volume">Volume
+      2</biblScope><date when="1883">1883</date><biblScope type="page">374</biblScope></bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+     <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <keywords scheme="#medsurg">
+     <term>wounds and injuries of the lower extremities</term>
+     <term>wounds and injuries of the knee joint</term>
+     <term>shot injuries of the knee joint</term>
+     <term>shot fractures of the knee joint</term>
+     <term>shot fractures of the bones of the knee joint treated by conservation</term>
+     <term>recoveries after shot fractures of the bones of the knee joint treated by
+      conservation</term>
+     <term>wound through patella</term>
+     <term>total disability</term>
+     <term>cannot extend leg, thigh and leg atrophied, knee swollen and painful</term>
+     <term>ball entered at lower border of patella, made exit at outer border of patella, synovial
+      fluid escaped</term>
+     <term>patella immovably attached to tibia</term>
+     <term>pain is prominent symptom</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+ <change who="#kmp" when="2014-05">blessed</change>
+   <change who="#ajh" when="2013-08-23">added figure encoding</change>
+   <change who="#mb" when="2012-05-25">additional proofing of transcription and encoding, identified
+    keyword terms</change>
+   <change who="#el" when="2011-05-11">case text extracted and transformed from larger file</change>
+   <change who="#sb" when="2011-06-04">Enrich Encoding, Edit and validate</change>
+   <change who="#sb" when="2011-01-28">Validated File</change>
+   <change who="#ss" when="2008-09-22">initial checking of OCR text; encoded P5 Encoding</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+
+   <p><hi rend="initialcap">C</hi>ASE 556.&#8212;<name type="person" key="1160">Corporal D.
+     Golden</name>, <name type="organization" key="417">Co. M, 14th New York Artillery</name>, aged
+    33 years, was wounded at <name type="BATTLE" key="7">Petersburg</name>, <date type="injury"
+     when="1864-06-17">June 17, 1864</date>. He was admitted to the field hospital of the 1st
+    division, Ninth Corps, where <name type="person" key="xxx">Surgeon M. K. Hogan</name>, <name
+     type="organization" key="132">U. S. V.</name>, noted: "Wound of left knee by mini&#233; ball;
+    simple dressings applied." From the field the wounded man passed to the Depot Hospital at <name
+     type="place">City Point</name>, and thence, on <date type="transfer" when="1864-07-02">July
+     2d</date>, to <name type="hospital" key="173">Harewood Hospital</name>, Washington. <name
+     type="person" key="158">Surgeon E. B. Bontecou</name>, <name type="organization" key="132">U.
+     S. V.</name>, in charge of the latter, described the injury as "a wound through the patella,"
+    and reported that the patient was discharged from service <date type="servicedischarge"
+     when="1865-04-14">April 14, 1865</date>, for total disability. <name type="person" key="xxx"
+     >Examiner C. C. Bates</name>, of <name type="place" key="xx">Potsdam, N. Y.</name>, <date
+     type="pension" when="1865-04-29">April 29, 1865</date>, certified: &#42; &#42; "He can flex but
+    cannot extend the leg, except enough to touch the toe to the floor. Thigh and leg much
+    atrophied; knee much swollen and painful. <name type="person" key="xxx">Examiner G. R.
+     Baldwin</name>, of <name type="place" key="xx">Fort Scott, Kansas</name>, reported <date
+     type="pension" when="1877-11-13">November 13, 1877</date>: "The pensioner received a wound of
+    the left knee. The ball entered at the lower border of the patella, passed outward and upward,
+    and made its exit at the outer border of the patella. Synovial fluid escaped. There is a large,
+    irritable, and tender cicatrix. The patella is immovably attached to the tibia. The leg requires
+    rest, motion and strength being very much impaired. Pain is a prominent symptom." The pensioner
+    was paid <date type="pension" when="1879-09-04">September 4, 1879</date>. A photograph (<hi
+     rend="italic">Card Photographs</hi>, Vol. I, p. 17), represented in the annexed wood-cut (<hi
+     rend="initialcap">F</hi>IG. 227), was contributed by <name type="person" key="158">Surgeon R.
+     B. Bontecou</name>, <name type="organization" key="132">U. S. V.</name></p>
+   <figure>
+    <graphic url="cww.001606.001"/>
+    <head><hi rend="initialcap">F</hi>IG. 227.&#8212;Appearance of knee joint a few months after
+     injury. [From a photograph.]</head>
+   </figure>
+
+
+
+  </body>
+ </text>
+</TEI>

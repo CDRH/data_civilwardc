@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e15415">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Sehamline, J. Y.</title>
+                <title level="m" type="sub">a machine readable transcription</title>
+                <principal>Susan C. Lawrence</principal>
+                <principal>Kenneth M. Price</principal>
+                <principal>Kenneth J. Winkle</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2011</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <idno>med.d1e15415</idno>
+                <authority>Civil War Washington</authority>
+                <publisher>University of Nebraska–Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+                </distributor>
+                <date>2011</date>
+                <availability>
+                    <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved.
+                        Redistribution or republication in any medium, except as allowed under the
+                        Fair Use provisions of U.S. copyright law, requires express written consent
+                        from the editors and advance notification of the publisher, the University
+                        of Nebraska–Lincoln.</p>
+                </availability>
+            </publicationStmt>
+            <notesStmt>
+                <note type="project">The following are responsible for particular readings or for changes to this file, as noted: 
+                    <persName xml:id="mb">Matthew Bosley</persName>
+                    <persName xml:id="el">Elizabeth Lorang</persName>
+                    <persName xml:id="sb">Stacey Berry</persName>
+                    <persName xml:id="et">Elisabeth Tracey</persName>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>The Medical and Surgical History of the War of the Rebellion. (1861&#8211;65.)</title>
+                    <editor role="compiler">Surgeon General Joseph K. Barnes, United States Army</editor>
+                    <pubPlace>Washington, D.C.</pubPlace>
+                    <publisher>Government Printing Office</publisher>
+                    <biblScope type="part">Part 1</biblScope>
+                    <biblScope type="volume">Volume 2</biblScope>
+                    <date when="1870">1870</date>
+                    <biblScope type="page">221</biblScope>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <classDecl>
+                <taxonomy xml:id="medsurg">
+                    <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme="#medsurg">
+                    <term>on special wounds and injuries of the head</term>
+                    <term>wounds and injuries of the head</term>
+                    <term>gunshot wounds</term>
+                    <term>gunshot fractures of the cranial bones</term> 
+                    <term>removal of fragments after gunshot fractures of the skull</term>
+                    <term>exfoliation and removal of necrosed or detached fragments of cranial bones after gunshot injuries</term>
+                    <term>piece of shell fractured and depressed frontal bone left of median line near coronal suture</term>
+                    <term>coma, fragments of bone removed and depressed portions elevated, no an&#230;sthetic used</term>
+                    <term>strabismus, disappeared after operation</term>                    
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change who="#mb" when="2013-07-23">additional proofing of transcription and encoding, edited and added keyword terms</change>
+            <change who="#mb" when="2011-07-26">additional proofing of transcription and encoding</change>
+            <change who="#el" when="2011-11-05">case text extracted and transformed from larger file</change>
+            <change who="#sb" when="2011-02-09">enriched encoding</change>
+            <change who="#sb" when="2011-01-28">validated file</change>
+            <change who="#et" when="2009-08-01">encoded</change>
+            <change who="#sb" when="2008-09-22">initial checking of OCR text against PDF; encoded</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body xml:id="ch1.sc3.294">            
+                <p><hi rend="initialcap">C</hi>ASE.&#8212;<name type="person" key="1634">Corporal J. Y. Sehamline</name>, <name type="organization" key="815">Co. I,
+                            51st Pennsylvania Volunteers</name>, was wounded at the battle of <name type="BATTLE"
+                                key="4">Fredericksburg, Virginia</name>, <date type="injury"
+                        when="1862-12-13">December 13th, 1862</date>, by a piece of shell, which
+                    fractured and depressed the frontal bone to the left of the median line, near
+                    the coronal suture. He fell senseless, but consciousness soon returned, when he
+                    was conveyed from the field.  He was taken to <name type="place" key="#Washington">Washington</name>, and entered the <name
+                        type="hospital" key="428">Judiciary Square Hospital</name> on <date
+                            type="admit" when="1862-12-18">the 18th</date>, where coma supervened. During
+                    the evening of <date type="operation" when="1862-12-18">the same day</date>, several fragments of bone were removed and the
+                    depressed portions elevated. No an&#230;sthetic was used. The patient rallied and
+                    became partially sensible; strabismus disappeared before morning.  On the second
+                    day after the operation, his pulse was 76, appetite fair, but the mind rather
+                    slow. On the 1st of January, 1863, he was a little giddy and complained of
+                    slight headache, but was otherwise improving rapidly.  He was transferred to the
+                        <name type="organization" key="644">Invalid Corps</name> on <date
+                        type="transfer" when="1863-05-17">May 17th, 1863</date>.  He is not a
+                    pensioner.</p>            
+        </body>
+    </text>
+</TEI>

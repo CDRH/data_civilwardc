@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d2e6835">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">O'Neil, Michael</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+    <idno>med.d2e6835</idno>
+    <authority>Civil War Washington</authority>
+    <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor><name>Center for Digital Research in the
+     Humanities</name><address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address></distributor>
+    <date>2011</date>
+    <availability>
+     <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+      republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+      law, requires express written consent from the editors and advance notification of the
+      publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+ <persName xml:id="kw">Kenneth Winkle</persName> <persName xml:id="ajh">AJ Howell</persName>
+     <persName xml:id="mb">Matthew Bosley</persName>
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title level="j">The Medical and Surgical History of the War of the Rebellion.
+      (1861-65.)</title><pubPlace>Washington, DC</pubPlace><publisher>Government Printing
+      Office</publisher><biblScope type="part">Part 3</biblScope><biblScope type="volume">Volume
+      2</biblScope><date when="1883">1883</date><biblScope type="page">150-151</biblScope></bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+     <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <keywords scheme="#medsurg">
+     <term>wounds and injuries of the lower extremities</term>
+     <term>wounds and injuries of the hip joint</term>
+     <term>shot fractures at the hip joint</term>
+     <term>amputations at the hip joint</term>
+     <term>coxo-femoral amputations</term>
+     <term>secondary amputations</term>
+     <term>ball entered upper anterior thigh, passed backward and slightly upward</term>
+     <term>comminuted upper extremity of femur, fissures extended down shaft and through trochanters
+      halfway up neck</term>
+     <term>wound suppurating freely</term>
+     <term>pus bathing acetabulum and femoral artery</term>
+     <term>abscess between iliacus externus muscle and iliac fascia</term>
+     <term>autopsy performed</term>
+     <term>general anesthesia, ether</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+ <change who="#kw" when="2014-05">blessed</change>
+   <change who="#ajh" when="2013-08-22">added figure encoding</change>
+   <change who="#mb" when="2012-02-27">additional case copied from MSHWR, performed proofing of copy
+    and XML encoding, and key terms identified</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+
+   <p><hi rend="initialcap">C</hi>ASE 327.&#8212;<name type="person" key="xxx">Private Michael
+     O'Neil</name>,&#178; <name type="organization" key="xxx">Co. E, 58th Massachusetts</name>, aged
+    19 years, was wounded at the battle of <name type="BATTLE" key="263">Cold Harbor</name>, <date
+     type="injury" when="1864-06-03">June 3, 1864</date>, by a conoidal musket ball, which entered
+    the upper anterior part of the right thigh, and passed backward and slightly upward through the
+    limb, comminuting the upper extremity of the femur. The fissures extended about three inches
+    down the shaft, and through the trochanters halfway up the neck. The wounded man was sent in an
+    ambulance to the <name type="place">White House</name>, on the <name type="place">York
+     River</name>, and thence by a hospital steamer to <name type="place">Alexandria</name>, where
+    he was received at the <name type="hospital" key="512">Third Division Hospital</name> on <date
+     type="transfer" when="1864-06-07">June 7th</date>. On admission his limb was much swollen, yet
+    there was but little pain, and this was not increased by moving the limb. His general condition
+    was satisfactory, though he reported that he was subject to attacks of intermittent fever. His
+    limb was arranged in a straight position, supported by cushions and pillows; evaporating lotions
+    were applied to the wound, and a nutritious diet was ordered. On <date type="operation"
+     when="1864-06-10">June 10th</date>, several fragments of bone were extracted. On June 12th the
+    patient had a chill, and was ordered to take four grains of sulphate of quinia every four hours.
+    The injured limb was now suspended by means of Smith's anterior splint. On June 24th there was
+    another chill. The wound was now suppurating freely, and the limb was very sensitive when
+    handled. On June <sic>31st</sic> there was a slight chill. From this date to August 1st there
+    was little change in the symptoms. It was now decided that there was little hope of
+    consolidation of the fracture. The suppuration was profuse, and it was believed that the patient
+    would inevitably succumb ultimately to the constitutional irritation and the drain upon the
+    system. It was determined, therefore, that amputation should be performed, and the character of
+    the fracture admitted only of amputation at the hip joint. On <date type="operation"
+     when="1864-08-10">August 10th</date>, the patient was an&#230;sthetised by sulphuric ether, and
+    amputation at the hip joint was performed by the lateral flap method by <name type="person"
+     key="134">Surgeon Edwin Bentley</name>, <name type="organization" key="132">U. S. V.</name>
+    There was but little h&#230;morrhage, and the operation was borne well. The patient had an
+    anodyne, and was freely stimulated. For forty-eight hours after the operation there was some
+    febrile excitement, with complete anorexia. The fever then subsided and the appetite returned.
+    The wound looked well, and the amount of suppuration was trifling. The case progressed very
+    favorably until <date type="operation" when="1864-08-20">August 20th</date>, when secondary
+    h&#230;morrhage supervened from ulceration of the femoral near the ligature. About six ounces of
+    blood were lost. A ligature was promptly placed upon the external iliac just above Poupart's
+    ligament. After the operation the patient was very weak and faint, and stimulants were freely
+    administered. On August 22d there was an excess of febrile excitement, but this abated on the
+    following day and the appetite again became moderately good. On August 28th there was nausea and
+    vomiting, which persisted for forty-eight hours. The wound at this time had assumed a very
+    unhealthy appearance, and the patient had become much emaciated. On the night of September 1st
+    there was delirium. The case terminated fatally on the morning of <date type="death"
+     when="1864-09-03">September 3d</date>, twenty-three days after the operation. At the autopsy
+    the viscera was found to be healthy, except that there was an old cicatrix with cretaceous
+    deposit at the apex of the left lung. The lips of the wound were united in nearly their entire
+    extent. There was a large accumulation of pus within the flap, bathing the acetabulum and the
+    gaping mouth of the femoral artery. The wound left by the incision above Poupart's ligament,
+    through which the external iliac was tied, communicated with an abscess between the iliacus
+    externus muscle and the iliac fascia, filled with pus. The ligature on the external iliac was
+    found to be placed about half an inch below the origin of the epigastric; the circumflex iliac
+    was given off a little below the epigastric. There was a firm conical plug in the external
+    iliac, ending at the origin of the epigastric. Through this plug ran a canal communicating with
+    the mouth of the circumflexa ilii; this canal was closed by a clot colored by included red
+    corpuscles and of more recent formation than the plugging clot. Ulceration of the external iliac
+    just above the ligature had commenced. The femoral vein was collapsed and contracted; the
+    external iliac vein was distended by a dirty fluid, which, when placed under the microscope, was
+    found to abound in pus globules. Higher up, the contents of the vein consisted of a granular
+    detritus. The branches of the external iliac vein was blocked up by dense coagula. The
+    deep-seated abdominal lymphatic glands were enlarged and deeply injected. An examination of the
+    fractured femur showed that it was shattered, with much loss of substance, just below the
+    trochanters. The fissures ran up with the capsule, and the fractured extremities of the bone
+    were carious and had lost tissue by absorption. </p>
+
+   <p> &#178; The abstract of this case was compiled from a report by the operator, Surgeon <hi
+     rend="initialcap">E</hi>. <hi rend="initialcap">B</hi>ENTLEY, <hi rend="initialcap">U</hi>. <hi
+     rend="initialcap">S</hi>. <hi rend="initialcap">V</hi>. See <hi rend="italic">Circular</hi> No.
+    7, S. G. O., 1867, p. 39. </p>
+
+   <figure>
+    <graphic url="cww.001550.001"/>
+    <head>
+     <hi rend="initialcap">F</hi>IG. 105.&#8212;Gunshot fracture of the upper extremity of the right
+     femur. <hi rend="italic">Spec</hi>. 3098.</head>
+   </figure>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d2e30000">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Nengebaur, M.</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+    <idno>med.d2e36010</idno>
+    <authority>Civil War Washington</authority>
+    <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor>
+     <name>Center for Digital Research in the Humanities</name>
+     <address><addrLine>319 Love Library</addrLine>
+       <addrLine>University of Nebraska–Lincoln</addrLine>
+       <addrLine>Lincoln, NE 68588-4100</addrLine>
+       <addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+    </distributor>
+    <date>2011</date>
+    <availability>
+     <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+      republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+      law, requires express written consent from the editors and advance notification of the
+      publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+     <persName xml:id="ajh">AJ Howell</persName>
+     <persName xml:id="at">Alex Thomas</persName>
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl>
+     <title level="j">The Medical and Surgical History of the War of the Rebellion.
+      (1861-65.)</title>
+     <pubPlace>Washington, DC</pubPlace>
+     <publisher>Government Printing Office</publisher>
+     <biblScope type="part">Part 2</biblScope>
+     <biblScope type="volume">Volume 2</biblScope>
+     <date when="1876">1876</date>
+     <biblScope type="page">315</biblScope>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+     <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <keywords scheme="#medsurg">
+     <term>injuries of pelvis</term>
+     <term>injuries of parts contained in the pelvis</term>
+     <term>wounds of the rectum</term>
+     <term>stercoral fistul&#230; after shot wounds of the rectum</term>
+     <term>rectal constriction, defecation difficult</term>
+     <term>shot perforation of both hips</term>
+     <term>shot perforation of rectum</term>
+     <term>rectal stricture</term>     
+     <term>ball entered natis and passed out opposite side, passed through rectum</term>
+     <term>wound of gluteal region of each side, injury of rectum</term>     
+    </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change who="#ajh" when="2012-08-21">additional proofing of transcription and encoding, identified keyword terms</change>
+   <change who="#at" when="2011-02-25">checked OCR; added minimal mark-up for personal names, place names, and dates</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p><hi rend="initialcap">C</hi>ASE 908.&#8212;<name type="xxx">Private M. Nengebaur</name>, <name type="organization" key="xxx">Co. B, 11th New Jersey</name>, aged 20 years, was wounded at <name type="BATTLE" key="7">Petersburg</name>, <date type="injury" when="1864-06-16">June 16, 1864</date>.  <name type="person" key="xxx">Surgeon O. Evarts</name>, <name type="organization" key="xxx">20th Indiana</name>, reported a shot perforation of both hips.  <name type="person" key="74">Surgeon A. F. Sheldon</name>, <name type="organization" key="132">U. S. V</name>, from <name type="hospital" key="174">Campbell Hospital</name>, reported a shot perforation of the rectum.  <name type="person" key="xxx">Assistant Surgeon J. T. Calhoun</name>, <name type="organization" key="190">U.S.A.</name>, from the Ward Hospital, <name type="place">Newark</name>, confirmed the diagnosis of the field surgeon.  <name type="person" key="xxx">Pension Examiner J.H. Clark</name> reported, <date type="pension" when="1865-07-17">July 17, 1865</date>, that "the ball entered the left natis and passed out at a corresponding point on the right, passing through the rectum, producing constriction, and making defecation difficult."  <name type="person" key="xxx">Examiners Woodhull</name>, <name type="person" key="xxx">Osborne</name>, and <name type="person" key="xxx">Mercer</name> reported, <date type="pension" when="1873-09-11">September 11, 1873</date>, "wound of gluteal region of each side, injury of rectum."</p>
+  </body>
+ </text>
+</TEI>

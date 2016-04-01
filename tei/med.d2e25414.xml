@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d2e25414">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Peasley, Calvin</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+    <idno>med.d2e25414</idno>
+    <authority>Civil War Washington</authority>
+    <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor><name>Center for Digital Research in the
+     Humanities</name><address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address></distributor>
+    <date>2011</date>
+    <availability>
+     <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+      republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+      law, requires express written consent from the editors and advance notification of the
+      publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+ <persName xml:id="kw">Kenneth Winkle</persName> <persName xml:id="ajh">AJ Howell</persName>
+     <persName xml:id="mb">Matthew Bosley</persName>
+     <persName xml:id="el">Elizabeth Lorang</persName>
+     <persName xml:id="sb">Stacey Berry</persName>
+     <persName xml:id="et">Elisabeth Tracey</persName>
+     <persName xml:id="ss">Sarah Synovec</persName>
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title level="j">The Medical and Surgical History of the War of the Rebellion.
+      (1861-65.)</title><pubPlace>Washington, DC</pubPlace><publisher>Government Printing
+      Office</publisher><biblScope type="part">Part 3</biblScope><biblScope type="volume">Volume
+      2</biblScope><date when="1883">1883</date><biblScope type="page">657-658</biblScope></bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+     <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <keywords scheme="#medsurg">
+     <term>miscellaneous injuries</term>
+     <term>operations for miscellaneous injuries</term>
+     <term>excisions</term>
+     <term>excision in the bones of the leg</term>
+     <term>kicked by mule in leg, fracturing both bones</term>
+     <term>resection of tibia and fibula performed</term>
+     <term>perfect solidification at place of fracture, no motion of ankle and instep</term>
+     <term>sedentary life from inability to walk</term>
+     <term>limb shortened three inches</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+ <change who="#kw" when="2014-05">blessed</change>
+   <change who="#el" when="2014-07-03">added fraction 1/2 to figure encoding</change>
+   <change who="#ajh" when="2013-08-23">added figure encoding</change>
+   <change who="#mb" when="2012-06-20">additional proofing of transcription and encoding, identified
+    keyword terms</change>
+   <change who="#el" when="2011-05-11">case text extracted and transformed from larger file</change>
+   <change who="#sb" when="2011-06-04">Enrich Encoding, Edit and validate</change>
+   <change who="#sb" when="2011-01-28">Validated File</change>
+   <change who="#ss" when="2008-09-22">initial checking of OCR text; encoded P5 Encoding</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p><hi rend="initialcap">C</hi>ASE 991.&#8212;<hi rend="italic">Excision in the bones of the
+     leg.</hi>&#8212;<name type="person" key="1446">Private C. Peasley</name>, <name
+     type="organization" key="541">Co. A, 10th Massachusetts</name>, was kicked by a mule in the
+    left leg, fracturing both bones, while driving ambulance at <name type="place">Camp
+     Brightwood</name>, <date type="injury" when="1861-08-31">August 31, 1861</date>. He was
+    admitted to the <name type="hospital" key="xxx">Washington Infirmary Hospital</name> on <date
+     type="admit" when="1861-08-31">the day of the injury</date>. <date type="operation"
+     when="1861-10">One month after the accident</date> no attempt at union of the bone had yet
+    taken place, but much suppuration had occurred and the bone had become bare in its whole
+    circumference for the space of two inches. Free incisions were made anteriorly and posteriorly
+    and resection of the tibia and fibula was performed. Firm union resulted three months after the
+    operation, a gypsum apparatus being used during the last month. The patient was discharged from
+    service <date type="servicedischarge" when="1861-12-17">December 17, 1861</date>, and sent home.
+    He had urgently requested that amputation be performed, but on careful examination it was deemed
+    more prudent to saw off the dead bone which had not yet been cast off and to resort to
+    amputation only in case of failure of the resection. The excised portion of the tibia (<hi
+     rend="italic">Spec</hi>. 340), represented in the adjacent cut (<hi rend="initialcap">F</hi>IG.
+    368), and measuring one and one-fourth inches in length, was contributed with the history of the
+    case by <name type="person" key="287">Assistant Surgeon J. W. S. Gouley</name>, <name
+     type="organization" key="190">U. S. A.</name> The patient became a pensioner after receiving
+    his discharge. <name type="person" key="xx">Examining Surgeon H. D. Train</name>, of <name
+     type="place" key="xx">Sheffield, Massachusetts</name>, <date type="pension" when="1872-09-07"
+     >September 7, 1872</date>, certified to the injury and resection, "shortening the limb three
+    inches. There is a perfect solidification at the place of fracture; no motion of ankle and
+    instep. After slight exertion or during damp weather he has often severe pain, which prevents
+    any labor. Since his discharge he has been obliged to lead a sedentary life from inability to
+    walk. His general health is fair, but his system is generally weakened and sensitive to cold
+    weather. The foot is gradually perishing, and the pensioner would have been infinitely better
+    off today if amputation had been performed." Five years later the same examiner reported that
+    "since last examination spicul&#230; of bone were frequently discharged, the wound breaking out
+    afresh. He cannot walk any distance without crutch or cane. General health poor." The pensioner
+    was paid <date type="pension" when="1881-12-04">December 4, 1881</date>.</p>
+   <figure>
+    <graphic url="cww.001661.001"/>
+    
+    <head>&#189; <lb/><hi rend="initialcap">F</hi>IG. 368.&#8212;Excised portion of fibula. <hi rend="italic"
+      >Spec</hi>. 346.</head>
+   </figure>
+  </body>
+ </text>
+</TEI>

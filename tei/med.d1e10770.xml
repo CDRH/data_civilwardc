@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e10770">
+        <teiHeader>
+                <fileDesc>
+                        <titleStmt>
+                                <title level="m" type="main">Winslow, Charles</title>
+                                <title level="m" type="sub">a machine readable transcription</title>
+                                <principal>Susan C. Lawrence</principal>
+                                <principal>Kenneth M. Price</principal>
+                                <principal>Kenneth J. Winkle</principal>
+                        </titleStmt>
+                        <editionStmt>
+                                <edition>
+                                        <date>2011</date>
+                                </edition>
+                        </editionStmt>
+                        <publicationStmt>
+                                <idno>med.d1e10770</idno>
+                                <authority>Civil War Washington</authority>
+                                <publisher>University of Nebraska–Lincoln</publisher>
+                                <distributor>
+                                        <name>Center for Digital Research in the Humanities</name>
+                                        <address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+                                </distributor>
+                                <date>2011</date>
+                                <availability>
+                                        <p>Copyright © 2011 by University of Nebraska–Lincoln, all
+                                                rights reserved. Redistribution or republication in
+                                                any medium, except as allowed under the Fair Use
+                                                provisions of U.S. copyright law, requires express
+                                                written consent from the editors and advance
+                                                notification of the publisher, the University of
+                                                Nebraska–Lincoln.</p>
+                                </availability>
+                        </publicationStmt>
+                        <notesStmt>
+                                <note type="project">The following are responsible for particular
+                                        readings or for changes to this file, as noted: 
+                                        <persName xml:id="mb">Matthew Bosley</persName>
+                                        <persName xml:id="el">Elizabeth Lorang</persName>
+                                        <persName xml:id="sb">Stacey Berry</persName>
+                                        <persName xml:id="et">Elisabeth Tracey</persName>
+                                </note>
+                        </notesStmt>
+                        <sourceDesc>
+                                <bibl>
+                                        <title level="j">The Medical and Surgical History of the War of the Rebellion</title>
+                                        <pubPlace>Washington, DC</pubPlace>
+                                        <publisher>Government Printing Office</publisher>
+                                        <biblScope type="part">Part 3</biblScope>
+                                        <biblScope type="volume">Volume 1</biblScope>
+                                        <date when="1888">1888</date>
+                                        <biblScope type="page">746-747</biblScope>
+                                </bibl>
+                        </sourceDesc>
+                </fileDesc>
+                <encodingDesc>
+                        <classDecl>
+                                <taxonomy xml:id="medsurg">
+                                        <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+                                </taxonomy>
+                        </classDecl>
+                </encodingDesc>
+                <profileDesc>
+                        <textClass>
+                                <keywords scheme="#medsurg">
+                                        <term>diseases attributed to non-miasmatic exposures</term>
+                                        <term>diseases of the respiratory organs</term>
+                                        <term>diphtheritic inflammation of the fauces, etc.</term>
+                                        <term>doubt diphtheria was constitutional disease from specific poison</term> 
+                                        <term>post-mortem records</term>                                        
+                                        <term>diphtheria</term>
+                                        <term>upper lobe of lung carnified posteriorly</term>
+                                        <term>chronic diarrh&#339;a</term>
+                                        <term>syphilis</term>                                        
+                                        <term>spots on uvula covered with false membrane</term>
+                                        <term>epiglottis erect from &#339;dema</term>
+                                        <term>under surface of epiglottis covered with false membrane, extended into larynx and trachea</term>                                        
+                                </keywords>
+                        </textClass>
+                </profileDesc>
+                <revisionDesc>
+                        <change who="#mb" when="2013-04-22">additional proofing of transcription and encoding, edited and added keyword terms</change>
+                        <change who="#mb" when="2013-03-04">additional proofing of transcription and encoding, edited and added keyword terms</change>
+                        <change who="#mb" when="2011-10-03">additional proofing of transcription and encoding</change>
+                        <change who="#mb" when="2011-06-29">additional proofing of transcription and encoding</change>
+                        <change who="#el" when="2011-05-11">case text extracted and transformed from larger file</change>
+                        <change who="#sb" when="2011-02-23">Encoding and Proofing</change>
+                        <change who="#et" when="2009-12-01">Initial Checking OCR Text to PDF file,</change>
+                </revisionDesc>
+        </teiHeader>
+        <text>
+                <body>                        
+                        <p> <hi rend="initialcap">C</hi>ASE 13.&#8212;<name type="person">Private Charles Winslow</name>, <name type="organization">Co. A, 44th N. Y.</name>;
+                                age 19; admitted from the field <date type="admit" when="1864-10-21">Oct. 21, 1864</date>, with chronic
+                                diarrh&#339;a and syphilis.  Died <date type="death" when="1864-11-06">November 6</date> of diphtheria.  <hi rend="italic">Post-mortem</hi> examination: Brain normal; spinal cord not
+                                        examined. Two spots, half an inch in diameter, on each side
+                                        of the uvula were covered with false membrane; the
+                                        epiglottis was erect from &#339;dema and its under surface
+                                        covered with false membrane, which extended through the
+                                        larynx about two inches into the trachea.  [<hi rend="italic">Specimen</hi> 440,
+                                Med. Sec., <name type="hospital" key="431">Army Medical Museum</name>.]  The heart and left lung were
+                                        normal; the right pleural sac contained three ounces of
+                                        serum and a small shred of loose floating lymph, but there
+                                        was no adhesion; the lower part of the upper lobe was
+                                        carnified posteriorly, but the remainder was healthy. The liver, pancreas, spleen, kidneys, stomach, small intestine and
+                                        colon were normal; the mesenteric glands were a little
+                                        darker than usual.&#8212;<hi rend="italic"><name type="person" key="655">Act. Ass't Surgeon Thomas
+                                                Bowen</name>, <name type="hospital" key="187">Second Division Hospital</name>, <name type="place">Alexandria, Va.</name></hi> </p>                        
+                </body>
+        </text>
+</TEI>

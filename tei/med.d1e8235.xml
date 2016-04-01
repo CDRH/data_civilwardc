@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e8235">
+        <teiHeader>
+                <fileDesc>
+                        <titleStmt>
+                                <title level="m" type="main">Slingland, W. H.</title>
+                                <title level="m" type="sub">a machine readable transcription</title>
+                                <principal>Susan C. Lawrence</principal>
+                                <principal>Kenneth M. Price</principal>
+                                <principal>Kenneth J. Winkle</principal>
+                        </titleStmt>
+                        <editionStmt>
+                                <edition>
+                                        <date>2011</date>
+                                </edition>
+                        </editionStmt>
+                        <publicationStmt>
+                                <idno>med.d1e8235</idno>
+                                <authority>Civil War Washington</authority>
+                                <publisher>University of Nebraska–Lincoln</publisher>
+                                <distributor>
+                                        <name>Center for Digital Research in the Humanities</name>
+                                        <address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+                                </distributor>
+                                <date>2011</date>
+                                <availability>
+                                        <p>Copyright © 2011 by University of Nebraska–Lincoln, all
+                                                rights reserved. Redistribution or republication in
+                                                any medium, except as allowed under the Fair Use
+                                                provisions of U.S. copyright law, requires express
+                                                written consent from the editors and advance
+                                                notification of the publisher, the University of
+                                                Nebraska–Lincoln.</p>
+                                </availability>
+                        </publicationStmt>
+                        <notesStmt>
+                                <note type="project">The following are responsible for particular
+                                        readings or for changes to this file, as noted: 
+                                        <persName xml:id="mb">Matthew Bosley</persName>
+                                        <persName xml:id="el">Elizabeth Lorang</persName>
+                                        <persName xml:id="sb">Stacey Berry</persName>
+                                        <persName xml:id="et">Elisabeth Tracey</persName>
+                                </note>
+                        </notesStmt>
+                        <sourceDesc>
+                                <bibl>
+                                        <title level="j">The Medical and Surgical History of the War of the Rebellion</title>
+                                        <pubPlace>Washington, DC</pubPlace>
+                                        <publisher>Government Printing Office</publisher>
+                                        <biblScope type="part">Part 3</biblScope>
+                                        <biblScope type="volume">Volume 1</biblScope>
+                                        <date when="1888">1888</date>
+                                        <biblScope type="page">379</biblScope>
+                                </bibl>
+                        </sourceDesc>
+                </fileDesc>
+                <encodingDesc>
+                        <classDecl>
+                                <taxonomy xml:id="medsurg">
+                                        <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+                                </taxonomy>
+                        </classDecl>
+                </encodingDesc>
+                <profileDesc>
+                        <textClass>
+                                <keywords scheme="#medsurg">
+                                        <term>the continued fevers</term>
+                                        <term>post-mortem records of continued fevers</term>                                       
+                                        <term>cases reported as typhoid fever, the clinical history insufficient or absent</term>
+                                        <term>Peyer's patches ulcerated and the ileum or small intestine only affected</term>    
+                                        <term>superficial ulcers in lower &#339;sophagus</term>
+                                        <term>softened and blackish lymphatic glands at bifurcation of trachea</term>
+                                        <term>lower lobes of lungs intensely congested</term>
+                                        <term>liver flabby, dull green, peculiar chicken-coop odor</term>
+                                        <term>lower fifth of small intestine ulcerated, ulcers confined to Peyer's patches</term>
+                                        <term>Peyer's patches higher in intestine pale, not elevated, not congested</term>
+                                </keywords>
+                        </textClass>
+                </profileDesc>
+                <revisionDesc>
+                        <change who="#mb" when="2013-03-29">additional proofing of transcription and encoding, edited and added keyword terms</change>
+                        <change who="#mb" when="2011-10-04">additional proofing of transcription and encoding</change>
+                        <change who="#mb" when="2011-06-21">additional proofing of transcription and encoding</change>
+                        <change who="#el" when="2011-05-11">case text extracted and transformed from larger file</change>
+                        <change who="#sb" when="2011-02-23">Encoding and Proofing</change>
+                        <change who="#et" when="2009-12-01">Initial Checking OCR Text to PDF file,</change>
+                </revisionDesc>
+        </teiHeader>
+        <text>
+                <body xml:id="ch4.sc4.1.00137">                        
+                                <p><hi rend="initialcap">C</hi>ASE 137.&#8212;<name
+                                                type="person" key="677">Private W. H.
+                                                Slingland</name>, <name type="organization"
+                                                key="387">Co. H, 14th U. S. Inf.</name>, was
+                                        admitted <date type="admit" when="1863-06-15">June 15,
+                                                1863</date>, and died on <date type="death"
+                                                        when="1863-06-17">the 17th</date>.  <hi rend="italic">Post-mortem</hi> examination <date type="autopsy" when="1863-06-18">twenty-one hours after
+                                        death</date>: Body not emaciated. Brain healthy.
+                                        <choice><sic>&#198;sophageal</sic><corr>&#338;sophageal</corr></choice> mucous membrane yellow-tinged and
+                                        presenting superficial ulcers in its lower portion, the
+                                        ulcers having their greatest diameter parallel to the axis
+                                        of the tube. Lymphatic glands at bifurcation of trachea much
+                                        softened and blackish; upper and middle lobes of right lung
+                                        and upper lobe of left lung slightly congested, lower lobes
+                                        intensely congested. Heart flabby, containing no clots;
+                                        pericardium everywhere firmly attached to the heart,
+                                        obliterating the sac. Liver very flabby, dull greenish in
+                                        color, evolving a peculiar chicken-coop odor and so soft
+                                        that the finger could be inserted in every direction;
+                                        gall-bladder containing eight drachms of dark ochre-colored
+                                        bile; spleen dark, soft, pultaceous, weight seven ounces.
+                                        Lower fifth of small intestine ulcerated, the ulcers
+                                        confined to Peyer's patches and presenting ragged surfaces,
+                                        purplish walls and congestion of the surrounding mucous
+                                        membrane&#8212;the patches higher up in the intestine
+                                        being pale and not elevated or congested. Kidneys
+                                                congested.&#8212;<hi rend="italic"><name
+                                                  type="person" key="245">Ass't Surg. Harrison
+                                                  Allen</name>, <name type="organization" key="190">U. S. A.</name>, <name type="hospital" key="176">Lincoln Hospital</name>, Washington, D. C.</hi></p>                        
+                </body>
+        </text>
+</TEI>

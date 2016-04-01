@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e40826">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Fr&#246;hlich, John</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+       <idno>med.d1e40826</idno>
+       <authority>Civil War Washington</authority>
+       <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor>
+       <name>Center for Digital Research in the Humanities</name>
+       <address><addrLine>319 Love Library</addrLine>
+       <addrLine>University of Nebraska–Lincoln</addrLine>
+       <addrLine>Lincoln, NE 68588-4100</addrLine>
+       <addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+    </distributor>
+    <date>2011</date>
+    <availability>
+        <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+         republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+         law, requires express written consent from the editors and advance notification of the
+         publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+     <persName xml:id="mb">Matthew Bosley</persName>
+     <persName xml:id="el">Elizabeth Lorang</persName>
+     <persName xml:id="sb">Stacey Berry</persName>
+     <persName xml:id="ao">Alyssa Olson</persName>
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl>
+     <title level="j">The Medical and Surgical History of the War of the Rebellion. (1861-65.)</title>
+     <pubPlace>Washington, DC</pubPlace>
+     <publisher>Government Printing Office</publisher>
+     <biblScope type="part">Part 2</biblScope>
+     <biblScope type="volume">Volume 1</biblScope>
+     <date when="1879">1879</date>
+     <biblScope type="page">146</biblScope>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+       <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+      <keywords scheme="#medsurg">
+       <term>diarrh&#339;a and dysentery</term>
+       <term>fatal cases of diarrh&#339;a and dysentery, with accounts of the morbid appearances observed</term>
+       <term>from the Harewood Hospital, Washington, D. C.</term>
+       <term>diarrh&#339;a of four months duration</term>
+       <term>ileum dark and injected within three feet of ileo-c&#230;cal valve, but not ulcerated</term>
+       <term>large intestine congested, but no abrasion of mucous surface</term>          
+       <term>autopsy performed</term>       
+     </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change who="#mb" when="2012-10-16">additional proofing of transcription and encoding, identified keyword terms</change>
+   <change who="#el" when="2010-11-05">case text extracted and transformed from larger file</change>
+   <change who="#sb" when="2010-05-01">enrich encoding, proof and edit</change>
+   <change who="#ao" when="2008-10-02">encoding and editing</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body> 
+   <p>Case from the case-book and medical descriptive lists of the <name type="hospital" key="173"><hi rend="initialcap">H</hi>AREWOOD <hi rend="initialcap">H</hi>OSPITAL</name>, Washington, D. C., <name type="person" key="156">Surgeon Thomas Antisell</name>, <name type="organization" key="132">U. S. V.</name>, in charge from October, 1862, to September, 1863:</p>
+   <p><hi rend="initialcap">C</hi>ASE 282.&#8212;<name type="person" key="177">Sergeant John Fr&#246;hlich</name>, <name type="organization" key="209">company F, 98th Pennsylvania volunteers</name>; age 30; admitted <date type="admit" when="1863-04-21">April 21, 1863</date>.  Diarrh&#339;a of nearly four months duration, contracted near <name type="place">Falmouth, Virginia</name>, in the <name type="organization" key="377">army of the Potomac</name>.  Died, <date type="death" when="1863-05-07">May 7th</date>.  <hi rend="italic">Autopsy:</hi> Body much emaciated. The upper part of the right lung was firmly adherent to the thoracic parietes; the lung itself was normal; the lower portion of the left lung was hepatized, the rest of the lung congested; there were extensive pleuritic adhesions on this side. Heart healthy; the pericardium contained three ounces of serum. The liver was normal in size but much congested. The spleen very small. The mucous membrane of the stomach was slightly injected. Duodenum and jejunum normal. The ileum was normal to within three feet of the ileo-c&#230;cal valve; below this point it was dark-brown or blackish, much injected, thickened, but not ulcerated. The large intestine was much thickened and darkly congested, but there was no abrasion of the mucous surface. Kidneys of normal size, but much congested.&#8212;<name type="person" key="178">Acting Assistant Surgeon Odrey D. Brooks</name>.</p>
+  </body>
+ </text>
+</TEI>

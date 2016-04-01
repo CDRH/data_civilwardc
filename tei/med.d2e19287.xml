@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d2e19287">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Cavanaugh, J.</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+    <idno>med.d2e19287</idno>
+    <authority>Civil War Washington</authority>
+    <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor><name>Center for Digital Research in the
+     Humanities</name><address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address></distributor>
+    <date>2011</date>
+    <availability>
+     <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+      republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+      law, requires express written consent from the editors and advance notification of the
+      publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+ <persName xml:id="kmp">Kenneth M. Price</persName> <persName xml:id="ajh">AJ Howell</persName>
+     <persName xml:id="mb">Matthew Bosley</persName>
+     <persName xml:id="el">Elizabeth Lorang</persName>
+     <persName xml:id="sb">Stacey Berry</persName>
+     <persName xml:id="et">Elisabeth Tracey</persName>
+     <persName xml:id="ss">Sarah Synovec</persName>
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title level="j">The Medical and Surgical History of the War of the Rebellion.
+      (1861-65.)</title><pubPlace>Washington, DC</pubPlace><publisher>Government Printing
+      Office</publisher><biblScope type="part">Part 3</biblScope><biblScope type="volume">Volume
+      2</biblScope><date when="1883">1883</date><biblScope type="page">492</biblScope></bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+     <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <keywords scheme="#medsurg">
+     <term>wounds and injuries of the lower extremities</term>
+     <term>wounds and operations in the leg</term>
+     <term>shot fractures of the bones of the leg</term>
+     <term>amputations in the continuity of the leg for shot fractures</term>
+     <term>primary amputations in the continuity of the leg for shot injury</term>
+     <term>primary amputations in the lower third of the leg for shot injury</term>
+     <term>successful primary amputations in the lower third of the bones of the leg</term>
+     <term>shell caused fracture of lower portion of leg, involving ankle joint</term>
+     <term>amputation of leg at lower third</term>
+     <term>injured leg amputated at field hospital</term>
+     <term>abscesses formed in middle third of tibia, left fistulous openings, indicating necrosis
+      of shaft of tibia</term>
+     <term>erysipelas</term>
+     <term>reamputation below tubercle of tibia</term>
+     <term>received artificial limb</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+ <change who="#kmp" when="2014-05">blessed</change>
+
+   <change who="#ajh" when="2013-08-23">added figure encoding</change>
+   <change who="#mb" when="2012-06-08">additional proofing of transcription and encoding, identified
+    keyword terms</change>
+   <change who="#el" when="2011-05-11">case text extracted and transformed from larger file</change>
+   <change who="#sb" when="2011-06-04">Enrich Encoding, Edit and validate</change>
+   <change who="#sb" when="2011-01-28">Validated File</change>
+   <change who="#ss" when="2008-09-22">initial checking of OCR text; encoded P5 Encoding</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p><hi rend="initialcap">C</hi>ASE 742.&#8212;<name type="person" key="1285">Private J.
+     Cavanaugh</name>, <name type="organization" key="229">Co. C, 7th Wisconsin</name>, aged 27
+    years, was wounded before <name type="BATTLE" key="7">Petersburg</name>, <date type="injury"
+     when="1864-06-18">June 18, 1864</date>, by a shell, which caused a fracture of the lower
+    portion of the left leg, involving the ankle joint. <name type="person" key="xx">Surgeon C. N.
+     Chamberlain</name>, <name type="organization" key="132">U. S. V.</name>, reported that the
+    injured leg was amputated at the field hospital of the 4th division, Fifth Corps. <name
+     type="person" key="405">Surgeon B. B. Wilson</name>, <name type="organization" key="132">U. S.
+     V.</name>, contributed the pathological specimen, No. 1526, <hi rend="italic">Surg. Sect.</hi>,
+    A. M. M., shown in the adjoining wood-cut (<hi rend="initialcap">F</hi>IG. 291), and reported
+    the following history of the case: "The patient was admitted to <name type="hospital" key="175"
+     >Stanton Hospital</name>, Washington, from <name type="place">City Point</name>, <date
+     type="admit" when="1864-07-01">July 1st</date>. He had suffered amputation of the leg at the
+    lower third, by the circular method, <date type="operation" when="1864-06-19">the day after he
+     was wounded</date>, being, according to his statement, in a high fever at the time of the
+    operation. He was treated with stimulants, and ice dressings locally. During the month of
+    September the limb became much swollen and abscesses formed in the line of the middle third of
+    the bone, which, after discharging, left fistulous openings, clearly indicating necrosis of the
+    shaft of the tibia. His term of service having expired, the patient was discharged <date
+     type="servicedischarge" when="1864-10-05">October 5, 1864</date>, but being unable to leave, he
+    was retained as a patient in the hospital. The shaft of the tibia being evidently extensively
+    necrosed, I determined to perform another amputation above the diseased portion. This
+    operation&#8212;though opposed by the medical staff of this hospital and by <name type="person"
+     key="1224">Surgeon A. N. Dougherty</name>, <name type="organization" key="132">U. S. V.</name>,
+    as well as <name type="person" key="1286">Surgeon T. F. Betton</name>, <name type="organization"
+     key="495">1st U. S. V. V.</name>, who saw the case&#8212;was preferred by me to that of <choice>
+     <orig>exsecting</orig>
+     <reg>excising</reg>
+    </choice> the sequestrum for the reason that it involved no more danger and would give the
+    patient a much better stump (though six inches shorter) for fitting an artificial limb. The
+    operation was performed one inch below the tubercle of the tibia, by the circular method, on
+     <date type="operation" when="1865-02-25">February 25, 1865</date>, and the stump was treated
+    with cold-water dressings. Traumatic erysipelas followed (an epidemic of erysipelas breaking out
+    in the hospital the same week), and for a few days fears were apprehended as to the result. The
+    patient, however, made a good recovery, and by March 15th the inflammation, which had extended
+    to the abdomen, had subsided. Before he finally left the hospital the patient received an
+    artificial limb, on which he walked with great ease and comfort. The specimen indicates clearly
+    and in a marked degree the efforts of nature in throwing off dead bone and supplying its place
+    by new growth. The adventitious process, thrown out to unite the amputated ends of the tibia and
+    fibula and thus give the extremities of those two bones firmness and solidity, shows to how
+    great an extent the reparative process can be carried. By what agency the want of bony matter at
+    this point was perceived and its deposit determined at the proper place and in the proper form
+    is beyond the scope of human knowledge at the present time. The fact, however, evidences the
+    powers of nature to accommodate herself to circumstances and to repair in a limited degree the
+    effects of losses which are irremediable." The specimen, consisting of the re-amputated stumps
+    of the bones of the leg joined by osseous deposit at their lower extremities, shows a massive
+    involucrum except on the anterior border, where a heavy sequestrum is visible. The patient
+    became a pensioner after leaving the hospital. On <date type="pension" when="1874-09-02"
+     >September 2, 1874</date>, he was examined by <name type="person" key="xx">Dr. C.
+     F.Falley</name>, pension examiner at <name type="place">Lancaster, Wisconsin</name>, who
+    certified to the loss of the leg and reported: "The amputation has left rather an irritable
+    stump, but, as his cork leg does not press on it, I do not think it any great injury in wearing
+    an artificial limb. He can flex and extend the stump freely," etc. The pensioner was paid <date
+     type="pension" when="1880-03-04">March 4, 1880</date>. In his application for an artificial leg
+    he reported that <name type="person" key="xx">Surgeon D. C. Ayres</name>, <name
+     type="organization" key="229">7th Wisconsin</name>, performed the first amputation. </p>
+   <figure>
+    <graphic url="cww.001637.001"/>
+    <head><hi rend="initialcap">F</hi>IG. 291&#8212;Six ins. of the stump of the bones of the left
+     leg, showing a massive involucrum. <hi rend="italic">Spec</hi>. 1526.</head>
+   </figure>
+
+  </body>
+ </text>
+</TEI>

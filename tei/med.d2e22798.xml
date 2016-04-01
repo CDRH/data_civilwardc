@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d2e22798">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Russell, A. K.</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+    <idno>med.d2e22798</idno>
+    <authority>Civil War Washington</authority>
+    <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor><name>Center for Digital Research in the
+     Humanities</name><address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address></distributor>
+    <date>2011</date>
+    <availability>
+     <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+      republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+      law, requires express written consent from the editors and advance notification of the
+      publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+     <persName xml:id="mb">Matthew Bosley</persName>
+     <persName xml:id="el">Elizabeth Lorang</persName>
+     <persName xml:id="sb">Stacey Berry</persName>
+     <persName xml:id="et">Elisabeth Tracey</persName>
+     <persName xml:id="ss">Sarah Synovec</persName>
+     <persName xml:id="ak">Alex Kinnaman</persName>
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title level="j">The Medical and Surgical History of the War of the Rebellion.
+      (1861-65.)</title><pubPlace>Washington, DC</pubPlace><publisher>Government Printing
+      Office</publisher><biblScope type="part">Part 3</biblScope><biblScope type="volume">Volume
+      2</biblScope><date when="1883">1883</date><biblScope type="page">596-597</biblScope></bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+     <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <keywords scheme="#medsurg">
+     <term>wounds and injuries of the lower extremities</term> 
+     <term>wounds and operations at the ankle joint</term>
+     <term>shot fractures of the bones of the ankle joint</term>
+     <term>amputations at the ankle joint</term> 
+     <term>primary amputations at the ankle joint</term> 
+     <term>successful primary amputations at the ankle joint</term> 
+     <term>gunshot wound of foot</term>
+     <term>ball entered heel posteriorly, passed forward through os calcis and <choice><orig>astragalus</orig><reg>talus</reg></choice>, exited anteriorly on dorsal surface of foot</term>
+     <term>os calcis, <choice><orig>astragalus</orig><reg>talus</reg></choice>, and metatarsal bones comminuted</term> 
+     <term>Syme's operation</term> 
+     <term>re-amputation below knee</term>     
+     <term>furnished with artificial foot</term>
+     <term>general anesthesia, chloroform</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change who="#ak" when="2014-10-08">added figure encoding</change>
+   <change who="#mb" when="2012-06-14">additional proofing of transcription and encoding, identified keyword terms</change>
+   <change who="#el" when="2011-05-11">case text extracted and transformed from larger file</change>
+   <change who="#sb" when="2011-06-04">Enrich Encoding, Edit and validate</change>
+   <change who="#sb" when="2011-01-28">Validated File</change>
+   <change who="#ss" when="2008-09-22">initial checking of OCR text; encoded P5 Encoding</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>   
+    <p><hi rend="initialcap">C</hi>ASE 871.&#8212;<name type="person" key="1383">Private A. K. Russell</name>, <name type="organization" key="150">Co. H, 1st Massachusetts Heavy Artillery</name>, aged 43 years, was wounded at <name type="BATTLE" key="3"><choice><orig>Spottsylvania</orig><reg>Spotsylvania</reg></choice></name>, <date type="injury" when="1864-05-19">May 19, 1864</date>, and admitted to <name
+       type="hospital" key="172">Emory Hospital</name>, Washington, <date type="admit" when="1864-05-22">three days afterwards</date>.  <name type="person" key="1382">Acting Assistant Surgeon J. E. Janvrin</name> reported:  "Gunshot wound
+     of left foot, the ball entering the heel posteriorly, passing forward through the os calcis and <choice><orig>astragalus</orig><reg>talus</reg></choice>, and making its exit anteriorly on the dorsal surface of the foot. The os calcis and
+     <choice><orig>astragalus</orig><reg>talus</reg></choice> together with the metatarsal bones were comminuted, and, according to the patient's   
+     statement, the soft parts were very much lacerated. Chloroform was administered, and Syme's operation was performed on <date type="operation" when="1864-05-19">the day of the injury</date>. When
+     admitted to <name type="hospital" key="172">Emory Hospital</name> the sutures had given way and the flap was pendant, with unhealthy discharges and tendency to slough. Adhesive straps and cold-water dressings were applied, and subsequently linseed,
+     charcoal, and yeast poultices were used. Alteratives, tunics, and stimulants were administered, the patient being much exhausted and suffering from loss of appetite, with derangement of the
+     system generally. On June 3d the parts were thoroughly cleansed, and a flat padded splint was applied to the anterior surface of the leg, extending beyond the stump, after which adhesive
+     straps were passed from beneath the leg across the flap and carried over the end of the splint and fastened. These were gradually shortened as the healing process went on, thus removing the
+     tension and weight of the flap from the anterior edge of the wound. By July 12th the patient was doing well and the granulations were covering the bone. About August 18th the stump had nearly closed and the
+     patient's general health was good. <date type="furlough" when="1864-09-01">Two weeks afterwards</date> he left for his home on furlough. The success attending this case is attributed in a large measure to the method adopted for
+     supporting the flap."  The patient subsequently entered the general hospital at <name type="place" key="xx">Readville</name>, whence he was discharged from service <date
+       type="servicedischarge" when="1865-06-02">June 2, 1865</date>, and pensioned. After leaving the service he was furnished with an artificial foot. A photograph of the stump, taken <date type="photo" when="1864-08">three months after the date of the amputation</date>, and contributed by <name type="person" key="884">Surgeon N. R. Moseley</name>, <name type="organization" key="132">U. S. V.</name>, is represented in <hi
+       rend="initialcap">F</hi>IGURE 4 of <hi rend="initialcap">P</hi>LATE <hi rend="initialcap">LXXV</hi>, opposite page 596.  The man subsequently underwent a second operation, which was certified to by the <name
+        type="person" key="xx">Surgeon General of the State of Massachusetts</name>, who communicated the following on <date type="pension" when="1871-01-26">January 26, 1871</date>:  "The pensioner has sustained re-amputation six inches below
+     the knee, which was performed by <name type="person" key="xx">Dr. C. N. Chamberlain</name>, of <name type="place" key="xx">Lawrence</name>, late surgeon <name type="organization" key="132">U. S. V.</name>, assisted by <name type="person" key="xx">Dr. G. W. Garland</name>, the case being at the time under my observation."  In his subsequent application for commutation the pensioner described the stump as being in a good condition. His pension was paid <date type="pension" when="1880-12-04">December 4, 1880</date>.</p>
+   
+   <figure>
+    <graphic url="cww.001824.001"/>
+    <head>
+     PLATE  LXXV.    AMPUTATIONS  AT  THE  ANKLE  JOINT.    Fig. 4.  Case of <name type="person" key="1383">Pt. A. K. Russell</name>, Syme's Operation.
+    </head>
+   </figure>   
+   
+  </body>
+ </text>
+</TEI>

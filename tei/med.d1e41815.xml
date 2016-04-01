@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e41815">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Diller, William</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+    <idno>med.d1e41815</idno>
+       <authority>Civil War Washington</authority>
+       <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor>
+       <name>Center for Digital Research in the Humanities</name>
+       <address><addrLine>319 Love Library</addrLine>
+       <addrLine>University of Nebraska–Lincoln</addrLine>
+       <addrLine>Lincoln, NE 68588-4100</addrLine>
+       <addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+    </distributor>
+    <date>2011</date>
+    <availability>
+        <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+         republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+         law, requires express written consent from the editors and advance notification of the
+         publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+     <persName xml:id="mb">Matthew Bosley</persName>
+     <persName xml:id="el">Elizabeth Lorang</persName>
+     <persName xml:id="sb">Stacey Berry</persName>
+     <persName xml:id="ao">Alyssa Olson</persName>
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl>
+     <title level="j">The Medical and Surgical History of the War of the Rebellion. (1861-65.)</title>
+     <pubPlace>Washington, DC</pubPlace>
+     <publisher>Government Printing Office</publisher>
+     <biblScope type="part">Part 2</biblScope>
+     <biblScope type="volume">Volume 1</biblScope>
+     <date when="1879">1879</date>
+     <biblScope type="page">205</biblScope>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+       <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+      <keywords scheme="#medsurg">
+       <term>diarrh&#339;a and dysentery</term>
+       <term>fatal cases of diarrh&#339;a and dysentery, with accounts of the morbid appearances observed</term>
+       <term>from the L'Ouverture Hospital, Alexandria, Virginia</term>
+       <term>colored recruit</term>
+       <term>gastrodynia</term>
+       <term>remittent fever</term>
+       <term>diarrh&#339;a</term>
+       <term>dyspeptic symptoms, pain and swelling in stomach</term>
+       <term>severe diarrh&#339;a, did not yield to treatment</term>
+       <term>ileum and large intestine extensively ulcerated with perforations</term>
+       <term>extensive deposit of tubercle in mesentery</term>
+       <term>intestines adherent to each other and to abdominal parietes</term>       
+       <term>autopsy performed</term>       
+     </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change who="#mb" when="2013-01-22">additional proofing of transcription and encoding, identified keyword terms</change>
+   <change who="#el" when="2010-11-05">case text extracted and transformed from larger file</change>
+   <change who="#sb" when="2010-05-01">enrich encoding, proof and edit</change>
+   <change who="#ao" when="2008-10-02">encoding and editing</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body> 
+   <p>Case from the case-book of the <hi rend="initialcap">L'O</hi>UVERTURE <hi rend="initialcap">H</hi>OSPITAL, Alexandria, Virginia, <name type="person" key="134">Surgeon Edwin Bentley</name>, <name type="organization" key="132">U. S. V.</name>, in charge. All the patients were colored men, most of them sent to Alexandria from the hospital for colored troops, <name type="place">City Point, Virginia</name>.</p>
+   <p><hi rend="initialcap">C</hi>ASE 557.&#8212;<name type="person" key="xxx">Recruit William Diller</name>, (colored;) admitted from <name type="hospital" key="176">Lincoln hospital</name> <date type="admit" when="1864-10-27">October 27, 1864</date>.  Gastrodynia.  [This man appears on the register of the <name type="hospital" key="218">Augur hospital</name>, near <name type="place" key="#Alexandria">Alexandria, Virginia</name>, admitted <date type="admit" when="1864-10-08">October 8th</date>&#8212;remittent fever&#8212;sent to general hospital <date type="transfer" when="1864-10-17">October 17th</date>; and on the register of the <name type="hospital" key="176">Lincoln hospital</name>, Washington, D. C., admitted <date type="admit" when="1864-10-18">October 18th</date>&#8212;diarrh&#339;a&#8212;sent to general hospital <date type="transfer" when="1864-10-27">October 27th</date>.]  He complained of dyspeptic symptoms, especially of pain and swelling in the stomach; but his appetite was good, and he did not seem to be very sick. Occasionally he had slight attacks of diarrh&#339;a, which were easily controlled by astringents, until about <date type="injury" when="1864-11-20">November 20th</date>, when severe diarrh&#339;a set in, which did not yield to treatment. There was some abdominal tenderness, but it was not thought that he was dangerously ill until a few hours before death.  Died, <date type="death" when="1864-12-15">December 15th</date>.  <hi rend="italic">Autopsy:</hi> The ileum and large intestine were extensively ulcerated, and there were a number of perforations.  [The record does not state whether in the small intestine or the large.]  There was an extensive deposit of tubercle in the mesentery. The intestines were firmly adherent to each other and to the abdominal parietes.&#8212;<name type="person" key="851">Acting Assistant Surgeon Freeman Stoddard</name>.</p>  
+  </body>
+ </text>
+</TEI>

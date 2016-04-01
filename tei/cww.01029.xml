@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="cww.01029">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Evidence Relating to the Petition of Mary Beall, 1 August 1862</title>
+                <title level="m" type="sub">a machine readable transcription</title>
+                <principal>Susan C. Lawrence</principal>
+                <principal>Kenneth M. Price</principal>
+                <principal>Kenneth J. Winkle</principal>
+                <respStmt>
+                    <resp>transcription and encoding</resp>
+                    <name xml:id="jc">Janel Cayer</name>
+                    <name xml:id="el">Elizabeth Lorang</name>
+                <name xml:id="kp">Kenneth M. Price</name>
+</respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2012</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <idno>cww.01029</idno>
+                <distributor>Civil War Washington</distributor>
+                <publisher>University of Nebraska–Lincoln</publisher>
+                <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>P.O. Box 884100</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+            </address>
+                <date>2012</date>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+                        <p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License (http://creativecommons.org/licenses/by-nc-sa/3.0/). Derivatives must be credited to Civil War Washington, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl xml:id="rg217">
+                    <title>Evidence Relating to the Petition of Mary Beall, 1 August 1862</title>
+                    <date when="1862-08-01">August 1, 1862</date>
+                    <idno>Microcopy 520, Reel 6</idno>
+                    <orgName>National Archives and Records Administration</orgName>
+                    <relatedItem type="original">
+                        <bibl>
+                            <title>Evidence Relating to the Petition of Mary Beall, 1 August 1862</title>
+                            <date when="1862-08-01">August 1, 1862</date>
+                            <idno type="rg">Record Group 217.6.5</idno>
+                            <orgName>Records of the Accounting Officers of the Department of the Treasury, 1775&#8211;1978, National Archives and Records Administration</orgName>
+                            <note type="project">Within the National Archives' Archival Description Catalog, see ARC Identifier 4644616 / MLR Number A1 347 (http://arcweb.archives.gov).</note>
+                        </bibl>
+                    </relatedItem>
+                    <note type="project">Our transcription is based on a digital image of a microfilm copy of the original.</note>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <particDesc>
+                <person role="owner">
+                    <persName>James Fling</persName>
+                </person>                
+                <person role="petitioner-slave">
+                    <persName>Mary Beall</persName>
+                </person>
+            </particDesc>
+        </profileDesc>
+        <revisionDesc>
+<change when="2013-04-29" who="#jc">blessed</change>
+<change when="2013-04-26" who="#kp">blessed</change>
+            <change when="2013-02-06" who="#el">checked</change>
+            <change when="2013-01-09" who="#jc">transcribed, encoded</change>
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>          
+            
+            <!-- Evidence pertaining to the case begins here -->                      
+            
+            <pb xml:id="leaf001r" facs="cww.01029.001.jpg"/>
+            
+                                
+                <div1 type="section" subtype="handwritten">
+                    <dateline rend="handwritten"><date when="1862-07-29">July, 29</date></dateline>
+                    <div2 type="procedural" subtype="handwritten">
+                    <ab><persName>Mary Beall</persName><lb/>
+                        servant of<lb/>
+                    <persName>James Fling</persName> of<lb/>
+                    <placeName>Montg Co Md</placeName></ab>
+                </div2>
+                
+            <div2 type="testimony" subtype="handwritten">
+                    <p><persName>Margaret Allen</persName>. Know <persName>Mary Bell</persName>. This is <persName>Mary Bell</persName> have known her for three or 4 months. she has bee living within the <placeName>District</placeName> out on the plant road for last a year or so. She lived with Mr <persName>Samuel Rives</persName> of <unclear reason="illegible" cert="low" resp="#jc">Masonry Dept</unclear>.</p>
+                </div2>
+                
+            <div2 type="procedural" subtype="handwritten">
+                    <ab>laid over for Mr <persName>Saml Reeves</persName>.</ab>
+            </div2>
+                </div1>
+                
+            <div1 type="section" subtype="handwritten">
+                <dateline><date when="1862-08-01">Aug 1, 1862</date>.</dateline>
+                <div2 type="testimony" subtype="handwritten">                    
+                    <p><persName>Saml Reeves</persName>. servant lived with me several months up to the time this law passed. I paid her wages to Mr <persName>Fling</persName> of <placeName>Montgomery Co Md</placeName>&#8212;she was here with consent of Mr <persName>Fling</persName>&#8212;He came to my house day she went away to come down to get her <gap reason="damage" extent="one or two words" atLeast="1" atMost="10" unit="chars"/></p>
+                </div2>
+                
+            <div2 type="procedural" subtype="handwritten">
+                    <ab><choice><abbr>cert</abbr><expan>certificate</expan></choice> orderd</ab>
+            </div2>
+            </div1>
+                
+                <pb xml:id="leaf001v" facs="cww.01029.002.jpg"/>
+            <div1 type="cover" subtype="handwritten">
+                    <ab><persName>Mary Beall</persName></ab>                    
+                    <ab><date when="1862-08-01">Aug 1, 1862</date></ab>
+                </div1>
+                        
+        </body>
+    </text>
+</TEI>
+                
+                
+                
+                
+                
+

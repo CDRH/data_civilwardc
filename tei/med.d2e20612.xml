@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d2e20612">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Scott, G. B.</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+    <idno>med.d2e20612</idno>
+    <authority>Civil War Washington</authority>
+    <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor><name>Center for Digital Research in the
+     Humanities</name><address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address></distributor>
+    <date>2011</date>
+    <availability>
+     <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+      republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+      law, requires express written consent from the editors and advance notification of the
+      publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+ <persName xml:id="kw">Kenneth Winkle</persName> 
+     <persName xml:id="ajh">AJ Howell</persName>
+     <persName xml:id="mb">Matthew Bosley</persName>
+     <persName xml:id="el">Elizabeth Lorang</persName>
+     <persName xml:id="sb">Stacey Berry</persName>
+     <persName xml:id="et">Elisabeth Tracey</persName>
+     <persName xml:id="ss">Sarah Synovec</persName>
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title level="j">The Medical and Surgical History of the War of the Rebellion.
+      (1861-65.)</title><pubPlace>Washington, DC</pubPlace><publisher>Government Printing
+      Office</publisher><biblScope type="part">Part 3</biblScope><biblScope type="volume">Volume
+      2</biblScope><date when="1883">1883</date><biblScope type="page">530</biblScope></bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+     <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <keywords scheme="#medsurg">
+     <term>wounds and injuries of the lower extremities</term>
+     <term>wounds and operations in the leg</term>
+     <term>shot fractures of the bones of the leg</term>
+     <term>amputations in the continuity of the leg for shot fractures</term>
+     <term>intermediary amputations in the continuity of the leg for shot injury</term>
+     <term>intermediary amputations in the lower third of the leg for shot injury</term>
+     <term>fatal intermediary amputations in the lower third of the leg</term>
+     <term>wound of ankle joint, affecting internal malleolus and bones of foot</term>
+     <term>ball entered over inner malleolus, not extracted</term>
+     <term>incisions over external malleolus allowed free flow of pus and daily extraction of
+      fragments of bone</term>
+     <term>leg amputated at lower third</term>
+     <term>erysipelas, none beyond knee</term>
+     <term>diarrh&#339;a</term>
+     <term>chills, two daily, with diaphoresis</term>
+     <term>periosteum of fibula detached and dark green color</term>
+     <term>post-mortem examination performed</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+ <change who="#kw" when="2014-05">blessed</change>
+   <change who="#ajh" when="2013-08-23">added figure encoding</change>
+   <change who="#mb" when="2012-06-11">additional proofing of transcription and encoding, identified
+    keyword terms</change>
+   <change who="#el" when="2011-05-11">case text extracted and transformed from larger file</change>
+   <change who="#sb" when="2011-06-04">Enrich Encoding, Edit and validate</change>
+   <change who="#sb" when="2011-01-28">Validated File</change>
+   <change who="#ss" when="2008-09-22">initial checking of OCR text; encoded P5 Encoding</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p><hi rend="initialcap">C</hi>ASE 778.&#8212;<name type="person" key="1310">Corporal G. B.
+     Scott</name>, <name type="organization" key="503">Co. K, 8th New York Cavalry</name>, aged 19
+    years, was wounded in the right lower extremity, at <name type="BATTLE" key="109">Beverly
+     Ford</name>, <date type="injury" when="1863-06-09">June 9, 1863</date>. He was conveyed to
+     <name type="place" key="#Washington">Washington</name> and admitted to <name type="hospital"
+     key="176">Lincoln Hospital</name> on <date type="admit" when="1863-06-10">the following
+     day</date>, whence <name type="person" key="76">Surgeon G. S. Palmer</name>, <name
+     type="organization" key="132">U. S. V.</name>, contributed the pathological specimen (No. 1347)
+    represented in the adjoining wood-cut (<hi rend="initialcap">F</hi>IG. 307), with the following
+    description and result of the injury: "The wound was of the right ankle joint, affecting the
+    internal malleolus and bones of the foot. The ball entered over the inner malleolus and was not
+    extracted. Incisions with the knife were made over the external malleolus, allowing the free
+    flow of pus, and fragments of bone were daily extracted. The leg was amputated at the lower
+    third on <date type="operation" when="1863-06-20">June 20th</date>. The patient never recovered
+    from the shock of the operation. On the second day he had a severe chill, followed by profuse
+    sweating. His tongue became dry and he complained of great thirst; pulse 130; appetite
+    capricious. The flaps of the stump grew whitish around the ligatures, and a watery offensive
+    discharge commenced to escape from the stump. On the third day the anterior flap became tawny,
+    having a decided tendency to slough, and the limb became decidedly erysipelatous. On June 24th,
+    profuse diarrh&#339;a set in and the patient complained of pain in the loins, but his mind was
+    yet clear and he was in excellent spirits. The stump now had no sensation in it whatever. The
+    chills followed each other in rapid succession, the patient having as many as two daily,
+    followed in each case by diaphoresis. He rested well until the evening of June 29th. On the
+    following day twenty-five drops of laudanum were administered, which produced a quiet slumber.
+    On awakening from this he became delirious and very restless; pulse 183 and compressible;
+    respiration thirty-five per minute and labored; fever intense. He died on the morning of <date
+     type="death" when="1863-07-01">July 1, 1863</date>. The wound at no time discharged purulent
+    matter, but profuse, thin, and offensive fluid, staining the dressings with a dirty blood color,
+    The flaps retained their proper relations, the ligatures not loosening. No erysipelas existed
+    beyond the knee, which was slightly swollen. At the <hi rend="italic">post-mortem</hi>
+    examination the stump was found to have become blackened, the epidermis being readily detached
+    from its base, and a large bleb full of brownish serum was discovered on the inner side of the
+    knee. The anterior flap was perfectly black, and the muscles in the posterior flap had become a
+    softened pultaceous mass. The periosteum of the fibula was detached and of a dark green color;
+    the muscles were affected as far up as the union of the tibia and fibula. The anterior portion
+    of the fibula and the crest of the tibia were dotted with a reddish color, the rest of the bones
+    being pure white." The specimen consists of the amputated lower extremities of the bones of the
+    leg, the external malleolus being broken off. </p>
+   <figure>
+    <graphic url="cww.001642.001"/>
+    <head><hi rend="initialcap">F</hi>IG. 307.&#8212;The lower portions of the bones of right leg.
+      <hi rend="italic">Spec.</hi> 1347.</head>
+   </figure>
+  </body>
+ </text>
+</TEI>

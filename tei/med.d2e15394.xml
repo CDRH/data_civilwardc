@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d2e15394">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Patterson, W.</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+    <idno>med.d2e15394</idno>
+    <authority>Civil War Washington</authority>
+    <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor><name>Center for Digital Research in the
+     Humanities</name><address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address></distributor>
+    <date>2011</date>
+    <availability>
+     <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+      republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+      law, requires express written consent from the editors and advance notification of the
+      publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+     <persName xml:id="mb">Matthew Bosley</persName>
+     <persName xml:id="el">Elizabeth Lorang</persName>
+     <persName xml:id="sb">Stacey Berry</persName>
+     <persName xml:id="et">Elisabeth Tracey</persName>
+     <persName xml:id="ss">Sarah Synovec</persName>
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title level="j">The Medical and Surgical History of the War of the Rebellion.
+      (1861-65.)</title><pubPlace>Washington, DC</pubPlace><publisher>Government Printing
+      Office</publisher><biblScope type="part">Part 3</biblScope><biblScope type="volume">Volume
+      2</biblScope><date when="1883">1883</date><biblScope type="page">374</biblScope></bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+     <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <keywords scheme="#medsurg">
+     <term>wounds and injuries of the lower extremities</term> 
+     <term>wounds and injuries of the knee joint</term>
+     <term>shot injuries of the knee joint</term> 
+     <term>shot fractures of the knee joint</term>
+     <term>shot fractures of the bones of the knee joint treated by conservation</term> 
+     <term>recoveries after shot fractures of the bones of the knee joint treated by conservation</term> 
+     <term>shot wound of both knee joints, involving fracture of right patella and extensive effusion in left knee joint</term>
+     <term>imperfect flexion and limited extension</term>
+     <term>ball entered left knee, striking bone, then struck right knee, fracturing patella and lacerating muscles</term>
+     <term>both knee joints stiff</term>     
+     <term>wounded through both knees</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change who="#mb" when="2012-05-25">additional proofing of transcription and encoding, identified keyword terms</change>
+   <change who="#el" when="2011-05-11">case text extracted and transformed from larger file</change>
+   <change who="#sb" when="2011-06-04">Enrich Encoding, Edit and validate</change>
+   <change who="#sb" when="2011-01-28">Validated File</change>
+   <change who="#ss" when="2008-09-22">initial checking of OCR text; encoded P5 Encoding</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>   
+    <p><hi rend="initialcap">C</hi>ASE 557.&#8212;<name type="person" key="1161">Private W.
+      Patterson</name>, <name type="organization" key="117">Co. K, 6th Wisconsin</name>, aged 36
+     years, was wounded through both knees, at <name type="BATTLE" key="102">Gainesville</name>, <date type="injury" when="1862-08-28">August 28, 1862</date>. He was treated at <name
+      type="hospital" key="167">Carver Hospital</name>, Washington, whence he was discharged and
+     pensioned <date type="servicedischarge" when="1862-12-09">December 9, 1862</date>, <name type="person" key="102">Surgeon O. A. Judson</name>, <name
+      type="organization" key="132">U. S. V.</name>, certifying to: "Shot wound of both knee joints,
+     involving a fracture of the right patella and causing extensive effusion in the left knee
+     joint." <name type="person" key="xxx">Examiner J. Hobbins</name>, <date type="pension" when="1863-02-18">February 18, 1863</date>, certified
+     to "imperfect flexion and limited and difficult extension," resulting from the wounds. <name
+      type="person" key="xxx">Examiner D. C. Green</name>, of <name type="place" key="xx">Mauston, Wisconsin</name>, reported, <date type="pension" when="1870-04-28">April 28, 1870</date>: "The wound was caused by a ball which
+     entered the left knee at the left side and passed through, striking the bone. The missile then,
+     being slightly turned in its course, struck the right knee and passed through it anteriorly,
+     fracturing the patella and lacerating the muscles badly. At present both knee joints are stiff." Subsequent examiners
+     report no additional information. The pensioner was paid <date type="pension" when="1879-12-04">December 4, 1879</date>. </p>   
+  </body>
+ </text>
+</TEI>

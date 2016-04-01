@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e2007">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Freybert, Adam</title>
+                <title level="m" type="sub">a machine readable transcription</title>
+                <principal>Susan C. Lawrence</principal>
+                <principal>Kenneth M. Price</principal>
+                <principal>Kenneth J. Winkle</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2011</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <idno>med.d1e2007</idno>
+                <authority>Civil War Washington</authority>
+                <publisher>University of Nebraska–Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+                </distributor>
+                <date>2011</date>
+                <availability>
+                    <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved.
+                        Redistribution or republication in any medium, except as allowed under the
+                        Fair Use provisions of U.S. copyright law, requires express written consent
+                        from the editors and advance notification of the publisher, the University
+                        of Nebraska–Lincoln.</p>
+                </availability>
+            </publicationStmt>
+            <notesStmt>
+                <note type="project">The following are responsible for particular readings or for
+                    changes to this file, as noted: 
+                    <persName xml:id="mb">Matthew Bosley</persName>
+                    <persName xml:id="el">Elizabeth Lorang</persName>
+                    <persName xml:id="sb">Stacey Berry</persName>
+                    <persName xml:id="et">Elisabeth Tracey</persName>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>The Medical and Surgical History of the War of the Rebellion.
+                        (1861&#8211;65.)</title>
+                    <editor role="compiler">Surgeon General Joseph K. Barnes, United States
+                        Army</editor>
+                    <pubPlace>Washington, D.C.</pubPlace>
+                    <publisher>Government Printing Office</publisher>
+                    <biblScope type="part">Part 1</biblScope>
+                    <biblScope type="volume">Volume 2</biblScope>
+                    <date when="1870">1870</date>
+                    <biblScope type="page">18</biblScope>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <classDecl>
+                <taxonomy xml:id="medsurg">
+                    <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme="#medsurg">
+                    <term>wounds and injuries of the head</term>   
+                    <term>incised and punctured wounds</term>
+                    <term>incised fractures of the cranium</term>
+                    <term>compound comminuted fracture</term>
+                    <term>blow from a sabre</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change who="#mb" when="2011-10-17">additional proofing of transcription and encoding</change>
+            <change who="#mb" when="2011-05-31">additional proofing of transcription and encoding</change>
+            <change who="#el" when="2011-11-05">case text extracted and transformed from larger
+                file</change>
+            <change who="#sb" when="2011-02-09">enriched encoding</change>
+            <change who="#sb" when="2011-01-28">validated file</change>
+            <change who="#et" when="2009-08-01">encoded</change>
+            <change who="#sb" when="2008-09-22">initial checking of OCR text against PDF; encoded
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body xml:id="ch1.sc1.0057">
+            
+                <p><name type="person" key="1137"><hi rend="initialcap">F</hi>REYBERT, <hi
+                            rend="initialcap">A</hi>DAM</name>, Private, <name type="organization"
+                        key="757">Co. B, 1st Maryland Cavalry</name>, aged 34 years. Compound
+                    comminuted fracture of the left parietal bone by a blow from a sabre. <name
+                        type="BATTLE" key="300">Brandy Station, Virginia</name>, <date type="injury"
+                            when="1863-06-09">June 9th, 1863</date>. Admitted to <name type="hospital">First Division
+                                Hospital</name>, <name type="place">Annapolis, Maryland</name>, <date type="admit" when="1863-06-21">June 21st</date>. Returned to duty <date type="duty" when="1864-04-21">April 21st, 1864</date>. On
+                    the expiration of his term of service, he re-enlisted in the <name
+                        type="organization" key="758">1st Regiment, 1st Army Corps</name>,
+                    (<name type="organization">Hancock's Corps</name>.) in the spring of <date when="1865">1865</date>. On <date type="admit"
+                        when="1865-07-18">July 18th, 1865</date>, he was treated at <name
+                        type="hospital" key="175">Stanton Hospital</name>, Washington, for catarrh,
+                    was furloughed, and then transferred to <name type="hospital" key="162"
+                        >Douglas</name>, and thence to <name type="hospital" key="173">Harewood
+                        Hospital</name>s, and finally discharged on surgeon's certificate of
+                    disability, <date type="discharge" when="1866-02-21">February 21st, 1866</date>.
+                    From the hospital records it appears that he suffered little or no inconvenience
+                    from his head injury, and that he was probably an incorrigible malingerer.</p>
+            
+        </body>
+    </text>
+</TEI>

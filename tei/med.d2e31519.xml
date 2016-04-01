@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d2e31519">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Johnson, Robert</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+       <idno>med.d2e31519</idno>
+       <authority>Civil War Washington</authority>
+       <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor>
+       <name>Center for Digital Research in the Humanities</name>
+       <address><addrLine>319 Love Library</addrLine>
+       <addrLine>University of Nebraska–Lincoln</addrLine>
+       <addrLine>Lincoln, NE 68588-4100</addrLine>
+       <addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+    </distributor>
+    <date>2011</date>
+    <availability>
+        <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+         republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+         law, requires express written consent from the editors and advance notification of the
+         publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+     <persName xml:id="mb">Matthew Bosley</persName>
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl>
+     <title level="j">The Medical and Surgical History of the War of the Rebellion. (1861-65.)</title>
+     <pubPlace>Washington, DC</pubPlace>
+     <publisher>Government Printing Office</publisher>
+     <biblScope type="part">Part 2</biblScope>
+     <biblScope type="volume">Volume 2</biblScope>
+     <date when="1876">1876</date>
+     <biblScope type="page">135</biblScope>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+       <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+      <keywords scheme="#medsurg">
+       <term>injuries of the abdomen</term>
+       <term>penetrating wounds of the abdomen</term>
+       <term>wounds of the liver</term>
+       <term>gunshot wounds</term>
+       <term>comparatively uncomplicated shot wounds of liver resulted fatally</term>
+       <term>ball entered to right of xiphoid appendage, lodged at anterior third of ninth rib</term>
+       <term>ball passed through liver</term> 
+       <term>empyema of pleural cavity</term>
+       <term>ball passed through left lobe of liver, as well as spleen</term>   
+       <term>necropsy performed</term>    
+     </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change who="#mb" when="2012-08-03">copied case from MSHWR, added proofing of transcription and encoding, identified keyword terms</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>   
+   <p><hi rend="initialcap">C</hi>ASE 352.&#8212;<name type="person" key="xxx">Private Robert Johnson</name>, <name type="organization" key="xxx">Co. B, 138th Pennsylvania</name>, aged 20 years, was wounded at <name type="battle" key="77">Mine Run</name>, <date type="injury" when="1863-11-27">November 27, 1863</date>. A conoidal ball entered one inch to the right of the xiphoid appendage, passed downward and forward and lodged at the anterior third of the ninth rib.  The patient was treated on the field until <date type="transfer" when="1863-12-05">December 5</date>, and then transferred to the <name type="hospital" key="512">Third Division Hospital</name>, at <name type="place">Alexandria</name>. Stimulants and tonics were given, and cold-water dressings were applied to the wound.  The ball was excised on <date type="operation" when="1863-12-14">December 14</date> by <name type="person" key="134">Surgeon Edwin Bentley</name>, <name type="organization" key="132">U. S. V.</name>  From the nature of the wound and discharge, it was evident that the ball had passed through the liver. The patient was very courageous, and, not knowing the nature of the wound, was sanguine of recovery. But rigors soon occurred and great constitutional disturbances followed, and the patient gradually sank, and died <date type="death" when="1863-12-20">December 20, 1863</date>.  The necropsy revealed empyema of the left pleural cavity. The ball had passed through the left lobe of the liver, which, as well as the spleen, was much disorganized. The intestines were black and softened, as though the tissues were in a state of mortification.  The case was reported by <name type="person" key="738">Acting Assistant Surgeon A. P. Crafts</name>.</p>       
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d2e22537">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Lister, T.</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+    <idno>med.d2e22537</idno>
+    <authority>Civil War Washington</authority>
+    <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor><name>Center for Digital Research in the
+     Humanities</name><address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address></distributor>
+    <date>2011</date>
+    <availability>
+     <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+      republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+      law, requires express written consent from the editors and advance notification of the
+      publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+     <persName xml:id="mb">Matthew Bosley</persName>
+     <persName xml:id="el">Elizabeth Lorang</persName>
+     <persName xml:id="sb">Stacey Berry</persName>
+     <persName xml:id="et">Elisabeth Tracey</persName>
+     <persName xml:id="ss">Sarah Synovec</persName>
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title level="j">The Medical and Surgical History of the War of the Rebellion.
+      (1861-65.)</title><pubPlace>Washington, DC</pubPlace><publisher>Government Printing
+      Office</publisher><biblScope type="part">Part 3</biblScope><biblScope type="volume">Volume
+      2</biblScope><date when="1883">1883</date><biblScope type="page">594</biblScope></bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+     <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <keywords scheme="#medsurg">
+     <term>wounds and injuries of the lower extremities</term> 
+     <term>wounds and operations at the ankle joint</term>
+     <term>shot fractures of the bones of the ankle joint</term>
+     <term>excisions at the ankle joint for shot injury</term> 
+     <term>secondary excisions at the ankle joint</term> 
+     <term>fatal secondary excisions at the ankle joint</term> 
+     <term>wound of foot caused by musket ball</term>
+     <term>gunshot wound of leg, lower third</term>
+     <term>missile entered above ankle joint, fractured tibia, lodged in head of <choice><orig>astragalus</orig><reg>talus</reg></choice></term> 
+     <term>lower tibia and head of <choice><orig>astragalus</orig><reg>talus</reg></choice> excised</term>      
+     <term>general anesthesia, ether</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change who="#mb" when="2012-06-13">additional proofing of transcription and encoding, identified keyword terms</change>
+   <change who="#el" when="2011-05-11">case text extracted and transformed from larger file</change>
+   <change who="#sb" when="2011-06-04">Enrich Encoding, Edit and validate</change>
+   <change who="#sb" when="2011-01-28">Validated File</change>
+   <change who="#ss" when="2008-09-22">initial checking of OCR text; encoded P5 Encoding</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>   
+    <p><hi rend="initialcap">C</hi>ASE 859.&#8212;<name type="person" key="1377">Private T. Lister</name>, <name type="organization" key="204">Co. B, 20th Michigan</name>, aged 26 years,
+     was wounded at <name type="BATTLE" key="3"><choice><orig>Spottsylvania</orig><reg>Spotsylvania</reg></choice></name>, <date type="injury" when="1864-05-12">May 12, 1864</date>. <name type="person"
+      key="xx">Surgeon J. E. Pomfret</name>, <name type="organization" key="457">7th New York Artillery</name>, reported his admission to the field hospital of the 1st division, Second Corps, with "wound of foot caused by a musket ball."  <name
+      type="person" key="158">Surgeon R. B. Bontecou</name>, <name type="organization" key="132">U. S. V.</name>, who operated in the case, described the injury as a gunshot wound of the left
+     leg, lower third, the missile fracturing the tibia, entering about one inch above the ankle
+     joint, and lodging in the head of the <choice><orig>astragalus</orig><reg>talus</reg></choice>.  The wounded man was admitted to <name
+      type="hospital" key="173">Harewood Hospital</name>, Washington, <date type="admit"
+       when="1864-05-26">May 26th</date>. On <date type="operation" when="1864-07-05">July 5th</date> sulphuric ether was administered, and the lower
+     end of the tibia as well as the head of the <choice><orig>astragalus</orig><reg>talus</reg></choice>, which had become necrosed, were
+     excised. The constitutional state of the patient at the time of the operation was very poor;
+     the tissues had become infiltrated with pus. Five days after the operation the fibula protruded
+     and was somewhat necrosed, the parts otherwise progressing favorably. The treatment was
+     supporting. The result was unfavorable.  Death occurred on <date type="death" when="1864-08-07">August 7, 1864</date>.&#185;</p>
+   <p>&#185; <hi rend="initialcap">C</hi>ULBERTSON (<hi rend="initialcap">H.</hi>), <hi rend="italic">Excision of the Larger Joints of the Extremities</hi>, in <hi rend="italic">Trans. Am. Med. Association</hi>, 1876, Supplement to Vol. XXVII, p. 312.</p>   
+  </body>
+ </text>
+</TEI>

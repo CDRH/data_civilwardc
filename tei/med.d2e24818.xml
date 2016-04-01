@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d2e24818">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Bivins, J. O.</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+    <idno>med.d2e24818</idno>
+    <authority>Civil War Washington</authority>
+    <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor><name>Center for Digital Research in the
+     Humanities</name><address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address></distributor>
+    <date>2011</date>
+    <availability>
+     <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+      republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+      law, requires express written consent from the editors and advance notification of the
+      publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+     <persName xml:id="mb">Matthew Bosley</persName>
+     <persName xml:id="el">Elizabeth Lorang</persName>
+     <persName xml:id="sb">Stacey Berry</persName>
+     <persName xml:id="et">Elisabeth Tracey</persName>
+     <persName xml:id="ss">Sarah Synovec</persName>
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title level="j">The Medical and Surgical History of the War of the Rebellion.
+      (1861-65.)</title><pubPlace>Washington, DC</pubPlace><publisher>Government Printing
+      Office</publisher><biblScope type="part">Part 3</biblScope><biblScope type="volume">Volume
+      2</biblScope><date when="1883">1883</date><biblScope type="page">649</biblScope></bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+     <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <keywords scheme="#medsurg">
+     <term>miscellaneous injuries</term> 
+     <term>simple and compound fractures</term>
+     <term>fracture of the lower jaw from the kick of a horse</term>
+     <term>contused and lacerated wound in connection with fracture</term> 
+     <term>fracture impacted at point where blow received</term> 
+     <term>bone united perfectly without perceptible deformity</term> 
+     <term>little trace of severe laceration in well-shaped and scarcely apparent cicatrix</term>
+     <term>impinged lower jaw to right of symphysis, large portion of alveolar process driven inward, six teeth attached</term>     
+    </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change who="#mb" when="2012-06-20">additional proofing of transcription and encoding, identified keyword terms</change>
+   <change who="#el" when="2011-05-11">case text extracted and transformed from larger file</change>
+   <change who="#sb" when="2011-06-04">Enrich Encoding, Edit and validate</change>
+   <change who="#sb" when="2011-01-28">Validated File</change>
+   <change who="#ss" when="2008-09-22">initial checking of OCR text; encoded P5 Encoding</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>   
+    <p><hi rend="initialcap">C</hi>ASE 961.&#8212;<hi rend="italic">Fracture of the lower jaw from
+      the kick of a horse.</hi>&#8212;<name type="person" key="xxx">Assistant Surgeon S. C.
+      Sanger</name>, <name type="organization" key="432">6th New York Cavalry</name>, reported the
+     following history of the case of "a contused and lacerated wound in connection with fracture,
+     which was incurred accidentally. The patient was kicked by a horse. The &#39;heel cork&#39; or iron
+     projection of the shoe impinged the anterior aspect of the lower jaw a little to the right of
+     the symphysis, and drove inward a large portion of the alveolar process to which six teeth were
+     attached. It was determined to place the fragment <hi rend="italic">in situ</hi>. This was
+     difficult because the fracture was impacted at the point where the blow was received and the
+     separated bone was drawn inward by the upper fibres of the genio-hyo-glossus muscles. But the
+     object was finally accomplished by extracting a tooth from the sound portion of the jaw, when
+     the fragment was secured in its place by silk cord and silver wire, two small braces made of
+     cork being placed between the movable teeth and the corresponding ones of the upper jaw. The patient was sent to General
+      Hospital. The accident happened <date type="injury" when="1863-06-19">June 19, 1863</date>, and on <date type="duty" when="1863-08-18">August 18th</date> the patient arrived back in camp and reported for duty. An
+     examination made showed that the bone had united perfectly and without any perceptible
+     deformity, but little trace of the severe laceration of the soft parts being discerned in the
+     well-shaped and scarcely apparent cicatrix."  This case has been identified as that of <name
+      type="person" key="1422">Farrier J. O. Bivins</name>, <name type="organization" key="432">Co.
+       B, 6th New York Cavalry</name>, aged 32 years, who entered <name type="hospital" key="172">Emory Hospital</name>, Washington, <date type="admit" when="1863-06-22">three days after the date of the injury</date>, and was returned
+     to duty <date type="duty" when="1863-08-13">August 13, 1863</date>. He was mustered out of
+     service <date type="servicedischarge" when="1864-09-19">September 19, 1864</date>, and has since then
+     filed an application for pension.</p>   
+  </body>
+ </text>
+</TEI>

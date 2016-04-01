@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d2e23382">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Carter, P.</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+    <idno>med.d2e23382</idno>
+    <authority>Civil War Washington</authority>
+    <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor><name>Center for Digital Research in the
+     Humanities</name><address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address></distributor>
+    <date>2011</date>
+    <availability>
+     <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+      republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+      law, requires express written consent from the editors and advance notification of the
+      publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+     <persName xml:id="mb">Matthew Bosley</persName>
+     <persName xml:id="el">Elizabeth Lorang</persName>
+     <persName xml:id="sb">Stacey Berry</persName>
+     <persName xml:id="et">Elisabeth Tracey</persName>
+     <persName xml:id="ss">Sarah Synovec</persName>
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title level="j">The Medical and Surgical History of the War of the Rebellion.
+      (1861-65.)</title><pubPlace>Washington, DC</pubPlace><publisher>Government Printing
+      Office</publisher><biblScope type="part">Part 3</biblScope><biblScope type="volume">Volume
+      2</biblScope><date when="1883">1883</date><biblScope type="page">603</biblScope></bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+     <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <keywords scheme="#medsurg">
+     <term>wounds and injuries of the lower extremities</term> 
+     <term>wounds and operations at the ankle joint</term>
+     <term>shot fractures of the bones of the ankle joint</term>
+     <term>amputations at the ankle joint</term> 
+     <term>intermediary amputations at the ankle joint</term> 
+     <term>recoveries after intermediary amputations at the ankle joint</term> 
+     <term>shot fracture of foot</term>
+     <term>Syme's amputation at ankle joint</term>     
+     <term>leg from knee down withered to the bone</term> 
+     <term>no cushion left for end of bone in stump to rest upon</term>
+     <term>fitted with artificial foot</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change who="#mb" when="2012-06-14">additional proofing of transcription and encoding, identified keyword terms</change>
+   <change who="#el" when="2011-05-11">case text extracted and transformed from larger file</change>
+   <change who="#sb" when="2011-06-04">Enrich Encoding, Edit and validate</change>
+   <change who="#sb" when="2011-01-28">Validated File</change>
+   <change who="#ss" when="2008-09-22">initial checking of OCR text; encoded P5 Encoding</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>   
+    <p><hi rend="initialcap">C</hi>ASE 880.&#8212;<name type="person" key="1390">Private P. Carter</name>, <name type="organization" key="524">Co. I, 7th Michigan</name>, aged 22 years,
+     was wounded at <name type="BATTLE" key="4">Fredericksburg</name>, <date type="injury"
+      when="1862-12-11">December 11, 1862</date>. <name type="person" key="xx">Surgeon G. S.
+      Palmer</name>, <name type="organization" key="132">U. S. V.</name>, recorded his admission to
+     the field hospital of the 2d division, Second Corps, with "shot fracture of right foot. Treatment of simple dressings."  <date type="transfer" when="1862-12-25">Two weeks after the reception of the
+     injury</date> the wounded man was transferred to <name type="hospital" key="176">Lincoln Hospital</name>, Washington, where Syme's
+     amputation at the ankle joint was performed, on <date type="operation" when="1862-12-26">December 26th</date>, by <name type="person" key="244">Assistant Surgeon G. M. McGill</name>, <name type="organization" key="190">U. S. A.</name>
+     The patient recovered, and was discharged from service <date type="servicedischarge" when="1863-03-02">March 2, 1863</date>, and pensioned. Several years afterwards he was fitted with an
+     artificial foot by <name type="person" key="xx">Dr. E. D. Hudson</name>, of <name type="place" key="xx">New York City</name>.  <name type="person" key="xx">Dr. A. B. Ranney</name>, of <name type="place" key="xx">Bronson, Michigan</name>, testified, <date type="pension" when="1875-06-25">June 25, 1875</date>:  "I have been Carter's family physician for the past three years and have examined him today. His right leg from the knee down is withered to the bone. The foot was taken off at
+     the ankle joint, and there was no cushion left for the end of the bone to rest upon. At times
+     the end of the bone is exposed and very painful, and much of the time there is discharge from
+     the stump. I have treated him with poor success at various times during the years <date type="pension" when="1872">1872</date>, <date type="pension" when="1873">1873</date>,
+      and <date type="pension" when="1874">1874</date>, and have advised an amputation of the limb at the knee, as it would, in my opinion,
+     give him less trouble than at present," etc.  The pensioner was paid <date type="pension" when="1881-03-04">March 4, 1881</date>. A part of
+     the amputated foot (<hi rend="italic">Spec.</hi> 4859), showing fracture of the <choice><orig>calcaneum</orig><reg>calcaneus</reg></choice> and
+     cuboid bone by a conoidal ball, was contributed to <name type="hospital" key="431">the Museum</name> by the operator. </p>   
+  </body>
+ </text>
+</TEI>

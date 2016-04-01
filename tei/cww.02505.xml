@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="cww.02505">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Letter From Washington</title>
+                <title level="m" type="sub">a machine readable transcription</title>
+                <editor role="co-editor">R. J. Weir</editor>
+                <principal>Susan C. Lawrence</principal>
+                <principal>Elizabeth Lorang</principal>
+                <principal>Kenneth M. Price</principal>
+                <principal>Kenneth J. Winkle</principal>
+                <respStmt>
+                    <resp>transcription and encoding</resp>
+                    <persName xml:id="ak">Alex Kinnaman</persName>
+                    <persName xml:id="el">Elizabeth Lorang</persName>
+                    <persName xml:id="bw">Becca Weir</persName>
+                    <persName xml:id="kk">Kourtney Klein</persName>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2015</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <idno>cww.02505</idno>
+                <distributor>Civil War Washington</distributor>
+                <publisher>University of Nebraska Lincoln</publisher>
+                <address>
+                    <addrLine>Center for Digital Research in the Humanities</addrLine>
+                    <addrLine>319 Love Library</addrLine>
+                    <addrLine>University of Nebraska-Lincoln</addrLine>
+                    <addrLine>P.O. Box 884100</addrLine>
+                    <addrLine>Lincoln, NE 68588-4100</addrLine>
+                </address>
+                <address>
+                    <addrLine>
+                        <email>cdrh@unl.edu</email>
+                    </addrLine>
+                </address>
+                <date>2015</date>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+                        <p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License (http://creativecommons.org/licenses/by-nc-sa/3.0/). Derivatives must be credited to Civil War Washington and R. J. Weir, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct xml:id="letter">
+                    <analytic>
+                        <author ref="#logic">Bob Logic</author>
+                        <title level="a">Letter from Washington</title>
+                    </analytic>
+                    <monogr>
+                        <title xml:id="paper" level="j">The Anglo-African</title>
+                        <imprint>
+                            <date xml:id="issue_date" when="1863-08-22">22 August 1863</date>                    
+                        </imprint>
+                        <biblScope type="pp">[2]</biblScope>                    
+                    </monogr>           
+                </biblStruct>
+                
+                <biblStruct xml:id="issue">               
+                    <monogr>
+                        <title level="j" sameAs="#paper"/>
+                        <imprint>
+                            <date sameAs="#issue_date"/>                  
+                        </imprint>              
+                    </monogr>                   
+                </biblStruct>                        
+            </sourceDesc>       
+        </fileDesc>
+        <encodingDesc> 
+            <p>This electronic text is a semi-diplomatic transcription of the source text. Hyphenation, punctuation, variant spellings, and errors present in the source text have been retained. The transcription does not attempt to capture all aspects of the original formatting or layout.</p>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <persName xml:id="logic">Unknown</persName>
+                <persName xml:id="rh">Hamilton, Robert</persName>
+                <persName xml:id="th">Hamilton, Thomas</persName>
+                <date when="1863">1863</date>
+            </creation>
+            <langUsage>
+                <language ident="en-US">modern American English</language>
+            </langUsage>
+            <textClass>
+                <classCode scheme="http://authorities.loc.gov">
+                    <term xml:id="sh2009113992">African American soldiers--History--19th century</term>
+                    <term xml:id="sh2009114063">African Americans--Washington (D.C.)</term>
+                    <term xml:id="n96034498">Bowser, David Bustill, 1820-1900</term>
+                    <term xml:id="n80013236">Douglass, Frederick, 1818-1895</term>
+                    <term xml:id="n89602848">Forney, John W. (John Wien), 1817-1881</term>
+                    <term xml:id="no2004049648">Gloucester, James N</term>
+                    <term xml:id="n81141734">Fifteenth Street Presbyterian Church (Washington, D.C.)</term>
+                    <term xml:id="n85055360">Keckley, Elizabeth, approximately 1818-1907</term>
+                    <term xml:id="nr92029004">Thomas, Lorenzo, 1804-1875</term>
+                    <term xml:id="n93053256">United States. Colored Troops</term>
+                    <term xml:id="sh2007100004">United States--History--Civil War, 1861-1865--Participation, African American</term>
+                    <term xml:id="sh85140274">United States--History--Civil War, 1861-1865--Societies, etc</term>
+                </classCode>
+                <classCode scheme="http://civilwardc.org">
+                    <term>Slade, William, 1815-?</term>
+                    <term>Cook, George F. T.</term>
+                    <term>Wilson, William J.</term>
+                </classCode>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when="2015-04-07" who="#ak">corrected</change>
+            <change when="2015-03-24" who="#el">checked transcription and encoding and made necessary changes; updated TEI header, including keywords</change>
+            <change when="2015-03-03" who="#ak">added keywords</change>
+            <change when="2015-02-17" who="#ak">checked, updated xml:id</change>
+            <change when="2014-11-05" who="#ak">checked transcription and encoding</change>
+            <change when="2014-04-25" who="#el">checked encoding; revised TEI header</change>
+            <change when="2014-04-14" who="#kk">transcribed, encoded</change>
+        </revisionDesc>
+    </teiHeader>
+    
+    <facsimile corresp="#issue">
+        <surface xml:id="pp1">
+                <graphic url="aa.18630822.pp1.jpg"/>
+            </surface>
+        <surface xml:id="pp2">
+            <graphic url="aa.18630822.pp2.jpg"/>
+            <zone xml:id="pp1_cropped" corresp="#letter">
+                <graphic url="aa.18630822.pp2_cropped.jpg"/>
+            </zone>
+        </surface>
+        <surface xml:id="pp3">
+            <graphic url="aa.18630822.pp3.jpg"/>
+        </surface>
+        <surface xml:id="pp4">
+            <graphic url="aa.18630822.pp4.jpg"/>
+        </surface>
+    </facsimile>
+    
+    <text corresp="#letter #pp1_cropped">
+        <body>
+            
+            <head type="main" subtype="authorial" rend="center"><emph rend="italic">LETTER FROM WASHINGTON.</emph></head>
+            
+            <milestone unit="undeclared" rend="medium-bar"/>
+            
+            <opener>
+                <dateline rend="right"><emph rend="smallcaps">Washington</emph>, August 15th, 1863.</dateline>
+                <salute><emph rend="smallcaps">Mr. Editor</emph>:</salute>
+            </opener>
+            
+            <p>Amid the dullness, together <lb/>with the heat and dust of a city noted for its <lb/>magnificent distances, we yet have our <choice><orig>plea-<lb/>sures</orig><reg>pleasures</reg></choice>.  We certainly had a rich and rare treat <lb/>the other evening.  The Contraband Relief <lb/>Association had a meeting last Tuesday <choice><orig>even-<lb/>ing</orig><reg>evening</reg></choice>, for the purpose of having an election of <lb/>officers for the ensuing year.  Having learned <lb/>that Mr. Frederick Douglass was in the city, <lb/>and intended to be present on that occasion, <lb/>of course I made for the place, the 15th Street <lb/>Presbyterian Church.</p>
+            
+           <p>As soon as I entered the room I found a <lb/>great many of the members present, also many <lb/>spectators.  The President, Mrs. Keckley, <lb/>called the house to order, and commenced the <lb/>preliminaries.  Just as they were reading a <lb/>portion of Scripture, which is the custom of <lb/>the Society when they open their meetings, a <lb/>gentleman entered the room, and there was <lb/>such an <choice><orig>outbust</orig><reg>ourburst</reg></choice> of applause that it brought <lb/>me to my feet to see what was the matter. <lb/>Never having seen Mr. Douglass, I was not <lb/>sure it was him until I heard a whisper, "That's <lb/>Frederick Douglass."  I then felt assured that <lb/>my eyes beheld a man whom I had never seen <lb/>before, but had long desired to see.  The house <lb/>by this time had become crowded.</p>
+            
+            <p>Mr. <choice><abbr>Wm.</abbr><expan>William</expan></choice> Slade was called upon to introduce <lb/>Mr. Douglass, which he did in his usual <lb/>affable manner.  Loud calls were then made <lb/>for "Douglass."  He arose, and with the eye <lb/>of an eagle, scanned the whole crowd, and <lb/>said that he thanked the Society and audience <lb/>with all the gratitude that his poor heart <lb/>could possess for the attention and honor they <lb/>had conferred upon him; and, as they had met <lb/>for a specific purpose, he would be happy, truly <lb/>happy, after they had gotten through with <lb/>their election, to make a few remarks.  The <lb/>proposition of Mr. D. being acceded to, they <lb/>proceeded with the election ; upon the <choice><orig>conclu-<lb/>sion</orig><reg>conclusion</reg></choice> of which Mr. D. arose and spoke for about <lb/>half an hour.  I must say that I never was so <lb/>interested in all my life as I was on this <lb/>occasion.  He riveted the attention of the <lb/>audience to such a degree, that at times you <lb/>could have heard a pin fall.  After Mr. D. had <lb/>finished his remarks, I had the extreme <choice><orig>plea-<lb/>sure</orig><reg>pleasure</reg></choice> of an introduction.</p>
+            
+            <p>The flag gotten up by the ladies of the <choice><orig>Con-<lb/>traband</orig><reg>Contraband</reg></choice> Relief Association for the First District <lb/>Colored Volunteers being in the room, it <lb/>was examied very closely by Mr. D., who <lb/>expressed his great delight of the design and <lb/>workmanship of the artist (Mr. Bowser of <lb/>Philadelphia), and after shaking hands with <lb/>many, he retired.  I should not forget to <choice><orig>men-<lb/>tion</orig><reg>mention</reg></choice> an instance of Mr. D.'s liberality.  He was <lb/>so pleased with the object of the Society, that <lb/>he requested them to call or draw upon him <lb/>for fifty dollars, which he said he gave <choice><orig>cheer-<lb/>fully</orig><reg>cheerfully</reg></choice> to aid them in their great work of <choice><orig>bene-<lb/>volence</orig><reg>benevolence</reg></choice>.</p>
+            
+            <p>The Society then passed a resolution to set <lb/>apart the following Thursday evening for their <lb/>Anniversary, they having been in existence <lb/>one year from last August, also for presentation <lb/>of the flag.  The Regiment had left but a <lb/>detachment to receive the flag.  On the arrival <lb/>of said evening, Mr. George Cook presented <lb/>the flag in a few very appropriate remarks, <lb/>and it was received on behalf of the Regiment <lb/>by Capt. Ferroe, of the Contraband Barracks, <lb/>whose command the detachment was under.</p>
+            
+            <p>I noticed present on the occasion Rev. J. N. <lb/>Gloucester and Prof. <choice><abbr>Wm.</abbr><expan>William</expan></choice> J. Wilson of <choice><orig>Brook-<lb/>lyn</orig><reg>Brooklyn</reg></choice>, both of whom made very suitable <choice><orig>ad-<lb/>dresses</orig><reg>addresses</reg></choice>, as did also Col. John W. Forney of <lb/><title level="j" rend="italic">The Daily Chronicle</title>.</p>
+            
+            <p>Since writing the above, I am informed that <lb/>Frederick Douglass has received a commission <lb/>from the War Department, to go down South, <lb/>in company with Adj. Gen. Thomas, to aid that <lb/>distinguished officer in the organization of <lb/>colored troops.  I hope it is a fact.  If it is <lb/>so, how strange these things are!  Frederick <lb/>Douglass, but a few years ago a terror to the <lb/>South, now on a mission of that kind.  There <lb/>is no question about it, <lb/><floatingText>
+                    <body>
+                        <l>"God moves in a mysterious way</l>
+                        <l> His wonders to perform."</l>
+                    </body>
+                </floatingText>
+            </p>
+            
+            <closer>
+                <signed><emph rend="smallcaps">Bob Logic</emph>.</signed>
+            </closer>
+            
+        </body>
+    </text>
+</TEI>
+

@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e9350">
+        <teiHeader>
+                <fileDesc>
+                        <titleStmt>
+                                <title level="m" type="main">Link, John</title>
+                                <title level="m" type="sub">a machine readable transcription</title>
+                                <principal>Susan C. Lawrence</principal>
+                                <principal>Kenneth M. Price</principal>
+                                <principal>Kenneth J. Winkle</principal>
+                        </titleStmt>
+                        <editionStmt>
+                                <edition>
+                                        <date>2011</date>
+                                </edition>
+                        </editionStmt>
+                        <publicationStmt>
+                                <idno>med.d1e9350</idno>
+                                <authority>Civil War Washington</authority>
+                                <publisher>University of Nebraska–Lincoln</publisher>
+                                <distributor>
+                                        <name>Center for Digital Research in the Humanities</name>
+                                        <address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+                                </distributor>
+                                <date>2011</date>
+                                <availability>
+                                        <p>Copyright © 2011 by University of Nebraska–Lincoln, all
+                                                rights reserved. Redistribution or republication in
+                                                any medium, except as allowed under the Fair Use
+                                                provisions of U.S. copyright law, requires express
+                                                written consent from the editors and advance
+                                                notification of the publisher, the University of
+                                                Nebraska–Lincoln.</p>
+                                </availability>
+                        </publicationStmt>
+                        <notesStmt>
+                                <note type="project">The following are responsible for particular
+                                        readings or for changes to this file, as noted: 
+                                        <persName xml:id="mb">Matthew Bosley</persName>
+                                        <persName xml:id="el">Elizabeth Lorang</persName>
+                                        <persName xml:id="sb">Stacey Berry</persName>
+                                        <persName xml:id="et">Elisabeth Tracey</persName>
+                                </note>
+                        </notesStmt>
+                        <sourceDesc>
+                                <bibl>
+                                        <title level="j">The Medical and Surgical History of the War of the Rebellion</title>
+                                        <pubPlace>Washington, DC</pubPlace>
+                                        <publisher>Government Printing Office</publisher>
+                                        <biblScope type="part">Part 3</biblScope>
+                                        <biblScope type="volume">Volume 1</biblScope>
+                                        <date when="1888">1888</date>
+                                        <biblScope type="page">386</biblScope>
+                                </bibl>
+                        </sourceDesc>
+                </fileDesc>
+                <encodingDesc>
+                        <classDecl>
+                                <taxonomy xml:id="medsurg">
+                                        <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+                                </taxonomy>
+                        </classDecl>
+                </encodingDesc>
+                <profileDesc>
+                        <textClass>
+                                <keywords scheme="#medsurg">
+                                        <term>the continued fevers</term>
+                                        <term>post-mortem records of continued fevers</term>                                       
+                                        <term>cases reported as typhoid fever, the clinical history insufficient or absent</term>
+                                        <term>Peyer's patches ulcerated and the large intestine also implicated</term> 
+                                        <term>admitted delirious</term>
+                                        <term>bronchial glands large</term>
+                                        <term>&#339;sophagus presented pale yellow ulcers</term>
+                                        <term>lungs congested and engorged</term>
+                                        <term>liver large, extending entirely across body</term>
+                                        <term>stomach immensely distended, occupied greater portion of abdomen in oblique position, minute black spots towards pylorus</term>
+                                        <term>jejunum filled with glairy tenacious mass</term>
+                                        <term>end of ileum presented ulceration of Peyer's patches, near ileo-c&#230;cal valve ulcers ran together</term>
+                                        <term>rug&#230; of large intestine elevated and coated with tenacious mucoid secretion, no ulcers found</term>
+                                        <term>kidneys congested, spots of transuded blood noticed</term>                                        
+                                </keywords>
+                        </textClass>
+                </profileDesc>
+                <revisionDesc>
+                        <change who="#mb" when="2013-04-08">additional proofing of transcription and encoding, edited and added keyword terms</change>
+                        <change who="#mb" when="2011-10-04">additional proofing of transcription and encoding</change>
+                        <change who="#mb" when="2011-06-23">additional proofing of transcription and encoding</change>
+                        <change who="#el" when="2011-05-11">case text extracted and transformed from larger file</change>
+                        <change who="#sb" when="2011-02-23">Encoding and Proofing</change>
+                        <change who="#et" when="2009-12-01">Initial Checking OCR Text to PDF file,</change>
+                </revisionDesc>
+        </teiHeader>
+        <text>
+                <body xml:id="ch4.sc4.1.00187">                        
+                                <p><hi rend="initialcap">C</hi>ASE 187.&#8212;<name
+                                                type="person" key="715">Sergeant John Link</name>,
+                                                <name type="organization" key="699">Co. A, 107th
+                                                Ohio</name>, was admitted <date type="admit"
+                                                when="1863-06-15">June 15, 1863</date>, delirious,
+                                        and died on <date type="death" when="1863-06-17">the 17th</date>.   <hi rend="italic">Post-mortem</hi>
+                                        examination <date type="autopsy" when="1863-06-17">ten hours after death</date>: The brain was normal. The
+                                        trachea was purple; its mucous membrane firm; the bronchial
+                                        glands at its bifurcation large. The lower part of the
+                                        &#339;sophagus was of a pale yellowish color and
+                                        presented ulcers of the same hue; its mucous membrane was
+                                        not softened. The right lung weighed nineteen ounces and a
+                                        half and was congested in its lower and in part of its upper
+                                        lobe; the lower lobe of the left lung was somewhat engorged.
+                                        The heart was normal and contained a fibrinous clot in its
+                                        right side. The liver was large and dark-colored, extending
+                                        entirely across the body; the gall-bladder contained three
+                                        ounces and six drachms of bile. The stomach was immensely
+                                        distended and occupied the greater portion of the abdomen in
+                                        an oblique position; its mucous membrane was softened and
+                                        presented several minute black spots towards the pylorus;
+                                        between its superior curvature and the gall-bladder was a
+                                        small quantity of recent lymph. The small intestine was
+                                        contracted; its mucous membrane was softened and varied in
+                                        color from light pink to deep purple; the jejunum was filled
+                                        with a glairy tenacious mass; the last two feet of the ileum
+                                        presented well defined ulceration of Peyer's patches, the
+                                        ulcers being mostly circular with ragged walls and an
+                                        irregular base, which was generally stained of a dull-ochre
+                                        color by the intestinal contents; near the
+                                        ileo-c&#230;cal valve several of the ulcers ran
+                                        together, forming a large ulcerated area, which, with its
+                                        black indurated walls and yellowish base, stood out in
+                                        strong relief against the purple, livid and congested mucous
+                                        membrane. The large intestine was also much contracted, its
+                                        rug&#230; elevated and coated with a tenacious mucoid
+                                        secretion; no ulcers were found in it. The right kidney was
+                                        congested, and several small spots of transuded blood were
+                                        noticed on its external surface; the pelvis of the left
+                                        kidney was similarly discolored.&#8212;<hi rend="italic"><name type="person" key="245">Ass't Surg. H.
+                                                  Allen</name>, <name type="organization" key="190">U. S. A.</name>, <name type="hospital" key="176">Lincoln Hospital</name>, Washington, D. C.</hi></p>                        
+                </body>
+        </text>
+</TEI>

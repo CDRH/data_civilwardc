@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d2e30854">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Hardy, Francis M.</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+       <idno>med.d2e30854</idno>
+       <authority>Civil War Washington</authority>
+       <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor>
+       <name>Center for Digital Research in the Humanities</name>
+       <address><addrLine>319 Love Library</addrLine>
+       <addrLine>University of Nebraska–Lincoln</addrLine>
+       <addrLine>Lincoln, NE 68588-4100</addrLine>
+       <addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+    </distributor>
+    <date>2011</date>
+    <availability>
+        <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+         republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+         law, requires express written consent from the editors and advance notification of the
+         publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+ <persName xml:id="kmp">Kenneth M. Price</persName> 
+     <persName xml:id="mb">Matthew Bosley</persName>
+     <persName xml:id="cm">Clint Mink</persName>
+     <persName xml:id="kk">Kourtney Klein</persName>
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl>
+     <title level="j">The Medical and Surgical History of the War of the Rebellion. (1861-65.)</title>
+     <pubPlace>Washington, DC</pubPlace>
+     <publisher>Government Printing Office</publisher>
+     <biblScope type="part">Part 2</biblScope>
+     <biblScope type="volume">Volume 2</biblScope>
+     <date when="1876">1876</date>
+     <biblScope type="page">950</biblScope>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+       <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+      <keywords scheme="#medsurg">
+       <term>wounds and injuries of the upper extremities</term>
+       <term>wounds and operations of the forearm</term>
+       <term>shot wounds of the forearm</term>
+       <term>shot fractures of the forearm</term>
+       <term>excisions in the continuity of the bones of the forearm for shot injury</term> 
+       <term>primary excisions in the shaft of the ulna, of the radius, or of both bones</term>
+       <term>fatal cases after primary excision in the forearm</term> 
+       <term>ball shattered lower third of left ulna, passed through to shatter middle third of right radius, and lodged</term>
+       <term>resection of both injured bones performed on the field</term>
+       <term>wounded lying behind corner of frame dwelling house</term>
+       <term>erysipelas</term> 
+       <term>abscess of biceps</term>
+       <term>gangrene</term>
+       <term>diarrh&#339;a</term>
+       <term>secondary h&#230;morrhages</term>
+       <term>pneumonia</term>        
+     </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+ <change who="#kmp" when="2014-05">blessed</change>
+   <change who="#kk" when="2014-01-22">added figure encoding</change>
+   <change who="#mb" when="2012-07-05">additional proofing of transcription and encoding, identified keyword terms</change>
+   <change who="#cm" when="2011-02-24">checked OCR; added minimal mark-up for personal names, place names, and dates</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>   
+   <p><hi rend="initialcap">C</hi>ASE 1897.&#8212;<name type="person" key="xxx">Private <hi rend="italic">Francis M. Hardy</hi></name>, <name type="organization" key="xxx">Co. B, 30th North Carolina</name>, aged 22 years, was wounded near <name type="place">Fort Stevens</name>, <date type="injury" when="1864-07-12">July 12, 1864</date>, captured, and admitted to <name type="hospital" key="176">Lincoln Hospital</name>, from the <name type="place">Defences of Washington</name>, on <date type="admit" when="1864-07-14"><date type="operation" when="1864-07-14">the 14th</date></date>. <name type="person" key="xxx">Assistant Surgeon W. Lindsly</name>, <name type="organization" key="190">U. S. A.</name>, reported:  &quot;Gunshot wound; a mini&#233; ball entering and shattering left ulna, lower third, passing through
+    and entering right radius, middle third, shattering that bone and lodging.&quot;  <name type="person" key="xxx">Acting Assistant Surgeon F. L. Leavitt</name> described
+    the case as follows:  &quot;Patient was wounded while lying behind the corner of a frame dwelling house, and in the act of firing,
+    by a mini&#233; ball, which he states first passed through the angle of the house. Resection of both injured bones was performed on
+    the field <date type="operation" when="1864-07-12">the same day</date>, by <name type="person" key="xxx">Surgeon G. W. Briggs</name>, <name type="organization" key="xxx">30th North Carolina</name>, the arm placed on straight splints, and in this condition
+    the patient was received in the hospital, suffering a good deal from the tightness of the bandages, the parts swelling considerably. Applied a loose water dressing merely sufficient to keep the bones in position. Signs of abscess at edge of right
+    biceps; the exploring needle revealed pus, and the probe the presence of a foreign body which I removed, and it proved to be
+    the bullet very much battered and irregular.  23th, doing well on iron and quinine.  29th, erysipelatous condition of left forearm; right upper extremity looks healthy.  August 2d, left forearm entirely healed; right heals
+    slowly.  8th, gangrene started in the wound of incision where the ball was extracted.  11th, arrested by bromine and stimulating poultices.  12th, patient <choice><sic>delirous</sic><corr>delirious</corr></choice> and very feverish; much
+    prostrated and emaciated from the effects of the diarrh&#339;a; gangrene again commenced and
+    attacked the left forearm; bromine used with no success; brachial artery exposed for the space of
+    two inches in right arm; a tourniquet was placed high up in the axilla ready for use if required.  <date type="operation" when="1864-08-13">13th</date>, secondary h&#230;morrhage occurred this morning, about eight o'clock, from the right brachial
+    artery, but was promptly checked and the artery tied. Afternoon, secondary h&#230;morrhage took
+    place about two o'clock, in the other arm, from one of the muscular branches of the radial artery;
+    the persulphate of iron arrested the bleeding.  Evening, brachial artery sloughed through at
+    point of ligation and a severe h&#230;morrhage followed; the blood being in a defibrinated condition all
+    efforts at forming a clot failed.  <date type="death" when="1864-08-17">17th</date>, h&#230;morrhage from left ulnar artery occurred this morning,
+    but was arrested by pressure; patient very much weakened; comatose. Died.&quot;  Dr. Leavitt does
+    not mention a h&#230;morrhage from the brachial, and the ligation of that artery, in his report of the
+    case to the Surgeon General.  In an account published in the <hi rend="italic">Medical and Surgical Reporter</hi>, Vol. XIII, for 1865-6, p. 299, he states that the patient died on the 14th.  At two o'clock on the afternoon of <date type="autopsy" when="1864-08-17">the 17th</date>, <name type="person" key="246">Acting Assistant Surgeon H. M. Dean</name> made an autopsy, and furnished the following notes:  &quot;Body considerably emaciated; <hi rend="italic">rigor mortis</hi> well marked; height, five feet six inches. He has three sores which have evidently been the seat of phaged&#230;na, viz: one on the inner surface of the left forearm; one on the outer aspect of the right forearm; and one on inner aspect of right arm just above the elbow; the former was in a state of gangrene. The lower half of the left ulna and a portion of the middle third of the right radius had been resected, the brachial artery stretched across the ulcer in the right arm having been entirely isolated from the surrounding tissues for a distance of two and a half inches. Lower lobe of right lung in a state of gray hepatization, with the exception of the upper portion of its free margin; posterior portion of the upper lobe also in the third stage of pneumonia, the rest of the right lung was normal; posterior portion of lower lobe of left lung in a state of gray hepatization, the rest of the lung was normal; right lung weighed twenty-three ounces, left thirteen ounces; pericardium normal; spleen normal, weight nine
+    and a half ounces; left lobe of liver somewhat longer than usual; the right lobe was in the shape of a sugar-loaf; parenchyma
+    normal, weight fifty-seven and one-half ounces; brain healthy, weight fifty-one and one-half ounces.&quot;  The specimens, represented
+    in the accompanying wood-cuts, were forwarded to <name type="hospital" key="431">the Museum</name> by <name type="person" key="246">Dr. Dean</name>. The first (<hi rend="initialcap">F</hi>IG. 688) consists of the bones of the
+    right forearm with the middle third of the radius excised; no reparative action exists at the extremities. The second (<hi rend="initialcap">F</hi>IG. 689)
+    consists of the bones of the left forearm from which the lower half of the ulna has been excised; the extremity of the bone
+    shows a slight ring of necrosis and no attempt whatever at repair.</p>
+   
+   <figure>
+    <graphic url="cww.001697.001" />
+    <head><hi rend="initialcap">F</hi>IG. 688.&#8212;Bones of right forearm with mid. third of radius excised.     <hi rend="italic">Spec</hi>. 3085.</head>
+   </figure> 
+   
+   <figure>
+    <graphic url="cww.001698.001" />
+    <head><hi rend="initialcap">F</hi>IG. 689.&#8212;Bones of left forearm with lower half of ulna excised.     <hi rend="italic">Spec</hi>. 3086.</head>
+   </figure>
+   
+  </body>
+ </text>
+</TEI>

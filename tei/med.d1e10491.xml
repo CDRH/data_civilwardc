@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e10491">
+        <teiHeader>
+                <fileDesc>
+                        <titleStmt>
+                                <title level="m" type="main">Redick, Robert</title>
+                                <title level="m" type="sub">a machine readable transcription</title>
+                                <principal>Susan C. Lawrence</principal>
+                                <principal>Kenneth M. Price</principal>
+                                <principal>Kenneth J. Winkle</principal>
+                        </titleStmt>
+                        <editionStmt>
+                                <edition>
+                                        <date>2011</date>
+                                </edition>
+                        </editionStmt>
+                        <publicationStmt>
+                                <idno>med.d1e10491</idno>
+                                <authority>Civil War Washington</authority>
+                                <publisher>University of Nebraska–Lincoln</publisher>
+                                <distributor>
+                                        <name>Center for Digital Research in the Humanities</name>
+                                        <address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+                                </distributor>
+                                <date>2011</date>
+                                <availability>
+                                        <p>Copyright © 2011 by University of Nebraska–Lincoln, all
+                                                rights reserved. Redistribution or republication in
+                                                any medium, except as allowed under the Fair Use
+                                                provisions of U.S. copyright law, requires express
+                                                written consent from the editors and advance
+                                                notification of the publisher, the University of
+                                                Nebraska–Lincoln.</p>
+                                </availability>
+                        </publicationStmt>
+                        <notesStmt>
+                                <note type="project">The following are responsible for particular
+                                        readings or for changes to this file, as noted:                                         
+                                        <persName xml:id="mb">Matthew Bosley</persName>
+                                        <persName xml:id="el">Elizabeth Lorang</persName>
+                                        <persName xml:id="sb">Stacey Berry</persName>
+                                        <persName xml:id="et">Elisabeth Tracey</persName>
+                                </note>
+                        </notesStmt>
+                        <sourceDesc>
+                                <bibl>
+                                        <title level="j">The Medical and Surgical History of the War of the Rebellion</title>
+                                        <pubPlace>Washington, DC</pubPlace>
+                                        <publisher>Government Printing Office</publisher>
+                                        <biblScope type="part">Part 3</biblScope>
+                                        <biblScope type="volume">Volume 1</biblScope>
+                                        <date when="1888">1888</date>
+                                        <biblScope type="page">581</biblScope>
+                                </bibl>
+                        </sourceDesc>
+                </fileDesc>
+                <encodingDesc>
+                        <classDecl>
+                                <taxonomy xml:id="medsurg">
+                                        <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+                                </taxonomy>
+                        </classDecl>
+                </encodingDesc>
+                <profileDesc>
+                        <textClass>
+                                <keywords scheme="#medsurg">
+                                        <term>diseases allied to or associated with</term>
+                                        <term>the paroxysmal and continued fevers</term>
+                                        <term>cerebro-spinal fever</term>
+                                        <term>clinical and post-mortem records</term>
+                                        <term>high fever and delirium</term> 
+                                        <term>admitted with nervous prostration</term>
+                                        <term>intense dyspn&#339;a</term>
+                                        <term>blood remarkably fluid</term>
+                                        <term>lower extremities and back covered with dark-purple spots</term>
+                                        <term>ecchymoses over whole surface</term>
+                                        <term>lungs congested, collapsed, contained apoplectic blood-clots</term>
+                                </keywords>
+                        </textClass>
+                </profileDesc>
+                <revisionDesc>
+                        <change who="#mb" when="2013-04-17">additional proofing of transcription and encoding, edited and added keyword terms</change>
+                        <change who="#mb" when="2013-02-22">additional proofing of transcription and encoding, edited and added keyword terms</change>
+                        <change who="#mb" when="2011-10-03">additional proofing of transcription and encoding</change>
+                        <change who="#mb" when="2011-06-27">additional proofing of transcription and encoding</change>                        
+                        <change who="#el" when="2011-05-11">case text extracted and transformed from larger file</change>
+                        <change who="#sb" when="2011-02-23">Encoding and Proofing</change>
+                        <change who="#et" when="2009-12-01">Initial Checking OCR Text to PDF file,</change>
+                </revisionDesc>
+        </teiHeader>
+        <text>
+                <body>                        
+                                <p><hi rend="initialcap">C</hi>ASE 99.&#8212;<name type="person"
+                                                key="835">Private Robert Redick</name>, <name
+                                                type="organization" key="732">Co. F., 1st N. Y. Light
+                                                Art'y</name>; age 32; was admitted <date
+                                                type="admit" when="1865-01-31">Jan. 31, 1865</date>,
+                                        at 8 P. M.  This man was taken suddenly ill on <date type="injury" when="1865-01-30">the previous
+                                        day</date> with high fever and delirium; pulse 130, eyes injected,
+                                        skin dry, tongue dry and coated, teeth covered with sordes,
+                                        respiration slow, stools involuntary and the lower
+                                        extremities and back covered with dark-purple spots in size
+                                        varying from a pinhead to a large pea.  On admission he was
+                                        suffering from nervous prostration; the radial pulse was
+                                        almost imperceptible; there was intense dyspn&#339;a, a
+                                        dull heavy feeling about the head and a dull pain between
+                                        the shoulder-blades; the face was livid, the lips purple and
+                                        the extremities cold.  He died <date type="death"
+                                                when="1865-01-31">two hours after admission</date>.  <hi rend="italic">Post-mortem</hi> examination: Body
+                                        of full habit and fleshy, exhibiting spots of ecchymoses
+                                        from one-fourth to three-fourths of an inch in diameter over
+                                        the whole surface and hypostatic congestion in the depending
+                                        portions. The blood vessels of the brain were very much
+                                        engorged; an ounce of serum was found in the cavity of the
+                                        arachnoid, a similar quantity in each ventricle and about
+                                        two ounces at the base of the brain; the Pacchionian bodies
+                                        were largely developed; the substance of the brain normal.
+                                        The spinal cord and its membranes were healthy. The heart
+                                        was normal; a fibrinous clot was found in its right
+                                        ventricle. Both lungs were highly congested, considerably
+                                        collapsed and contained a few small apoplectic blood-clots;
+                                        the bronchial tubes were filled with serum and frothy mucus.
+                                        The liver was normal; the gall-bladder distended with dark
+                                        viscid bile; the spleen congested. The stomach and bowels
+                                        were distended with flatus. The kidneys were normal; the
+                                        urine slightly albuminous. The blood generally was
+                                        remarkably fluid.&#8212;<hi rend="italic"><name
+                                                  type="hospital" key="175">Stanton Hospital</name>,
+                                                Washington, D. C.</hi>&#8432;</p>
+                        <p>&#8432; This case was communicated by Dr. <hi rend="initialcap">D.</hi> <hi rend="initialcap">W.</hi> <hi rend="initialcap">P</hi>RENTISS to the Committee on "Spotted Fever, so-called," of the American Medical Association, and published, p. 355, Vol. XVII of the <hi rend="italic">Transactions</hi>.  At the same time Dr. <hi rend="initialcap">P</hi>RENTISS submitted as a case of spotted fever the following, which appears on the records of the hospital as one of cerebral apoplexy:  <name type="person" key="xxx">Private James K. Hayes</name>, <name type="organization" key="109">Co. C, 10th V. R. Corps</name>, was admitted <date type="admit" when="1865-01-07">Jan. 7, 1865</date>, with headache, assumed to be the result of a debauch. Next day persistent coma came on, and he died on <date type="death" when="1865-01-10">the 10th</date>.  <hi rend="italic">Post-mortem</hi> examination: Rigor mortis well marked. There was a quantity, about eight ounces, of effused blood between the membranes of the brain and a large clot on the side of the right hemisphere; the substance of the brain was healthy. There were old adhesions of the lungs, and, in  the heart, slight induration of the aortic valves.  The other organs not examined.&#8212;<hi rend="italic"><name type="hospital" key="175">Stanton Hospital</name>, Washington, D. C.</hi>   The coagulation of the blood is inconsistent with the theory of cerebro-spinal fever in this case, as in the following, which was apparently the result of violence:  Private John Hutchinson, unassigned recruit; age 18; while wrestling Feb. 4, 1864, was tripped and fell heavily, striking his back, but he did not complain of the injury and was present at roll-call in the evening. The next day, however, he remained in his tent, where, in the evening, he was found groaning. On admission to the hospital at this time he was very restless and delirious, unable to reply intelligibly and lapsing into drowsiness occasionally for a few minutes at a time; his extremities were cold but the surface elsewhere was natural; the odor of alcohol was detected about his person. During the night he had two loose stools; his tongue became red and dry and sordes appeared on his teeth. On the 6th the delirium became more active; he tried to get out of bed&#8212;moved in every direction, rose to his knees and was restrained only by force; his pulse was rapid and weak, 130; abdomen not tender. He refused to swallow medicine; two small doses of quinine and opium were given per rectum. Towards midnight he became comatose and died.   <hi rend="italic">Post-mortem</hi> examination: Body well developed and showing no marks of violence. The membranes of the brain were much congested, and external to the dura mater there was some clotted blood which decreased in quantity from above downwards. The lungs, liver, spleen and kidneys were congested; in one of the kidneys was a clot the size of a pea between the capsule and parenchyma. The bladder was distended with slightly albuminous urine. Peyer's patches and the small intestine generally were slightly congested.&#8212;<hi rend="italic"><name type="hospital">Turner's Lane Hospital</name>, <name type="place">Philadelphia, Pa.</name></hi></p>                         
+                </body>
+        </text>
+</TEI>

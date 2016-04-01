@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d2e30706">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">McCready, J. S.</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+       <idno>med.d2e30706</idno>
+       <authority>Civil War Washington</authority>
+       <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor>
+       <name>Center for Digital Research in the Humanities</name>
+       <address><addrLine>319 Love Library</addrLine>
+       <addrLine>University of Nebraska–Lincoln</addrLine>
+       <addrLine>Lincoln, NE 68588-4100</addrLine>
+       <addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+    </distributor>
+    <date>2011</date>
+    <availability>
+        <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+         republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+         law, requires express written consent from the editors and advance notification of the
+         publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+ <persName xml:id="kw">Kenneth Winkle</persName> 
+     <persName xml:id="mb">Matthew Bosley</persName>
+     <persName xml:id="gm">Garec Monter</persName>
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl>
+     <title level="j">The Medical and Surgical History of the War of the Rebellion. (1861-65.)</title>
+     <pubPlace>Washington, DC</pubPlace>
+     <publisher>Government Printing Office</publisher>
+     <biblScope type="part">Part 2</biblScope>
+     <biblScope type="volume">Volume 2</biblScope>
+     <date when="1876">1876</date>
+     <biblScope type="page">960</biblScope>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+       <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+      <keywords scheme="#medsurg">
+       <term>wounds and injuries of the upper extremities</term> 
+       <term>wounds and operations in the forearm</term>
+       <term>shot wounds of the forearm</term>
+       <term>shot fractures of the forearm</term>
+       <term>excisions in the continuity of the bones of the forearm for shot injury</term>       
+       <term>intermediary excisions in the bones of the forearm</term>
+       <term>fatal intermediary excisions in the forearm</term> 
+       <term>gunshot wound of forearm at middle third</term> 
+       <term>ball fractured ulna and lacerated radial artery</term>
+       <term>radial artery ligated</term>
+       <term>resected ulna at middle third</term> 
+       <term>py&#230;mia</term>
+       <term>radius and remainder of ulna necrosed</term>
+       <term>secondary amputation of arm at middle third</term>        
+       <term>general anesthesia, ether</term>
+     </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+ <change who="#kw" when="2014-05">blessed</change>
+   <change who="#mb" when="2012-07-02">additional proofing of transcription and encoding, identified keyword terms</change>
+   <change who="#gm" when="2011-02-26">checked OCR; added minimal mark-up for personal names, place names, and dates</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>   
+   <p><hi rend="initialcap">C</hi>ASE 1918.&#8212;<name type="person" key="xxx">Captain J. S. McCready</name>, <name type="organization" key="xxx">Co. H, 126th Ohio</name>, aged 35 years, was wounded at <name type="BATTLE" key="3"><choice><orig>Spottsylvania</orig><reg>Spotsylvania</reg></choice></name>, <date type="injury" when="1864-05-10">May 10, 1864</date>, and admitted to <name type="hospital" key="172">Emory Hospital</name>, Washington, on <date type="admit" when="1864-05-17">the 17th</date>. <name type="person" key="884">Surgeon N. R. Moseley</name>, <name type="organization" key="132">U. S. V.</name>, reported:  &#34;Gunshot wound of left forearm at middle third; a mini&#233; ball passed from without inward, fracturing the ulna and lacerating the radial artery.  <date type="operation" when="1864-05-19">May 19th</date>, secondary h&#230;morrhage occurred from radial artery, which rendered ligation
+    necessary; ten ounces of blood lost.  <date type="operation" when="1864-05-20">20th</date>, h&#230;morrhage recurred; temporarily arrested by compression; eight ounces of blood lost. <name type="person" key="884">Surgeon Moseley</name> ligated radial artery at cardiac and at distal extremities, and also resected four inches of ulna at middle third. Constitutional state of patient at time of operation favorable;
+    arm kept <hi rend="italic">in situ</hi> by splint and roller.  June 1st, patient doing well; h&#230;morrhage has not recurred.  15th, py&#230;mia set in; h&#230;morrhage recurred, eight ounces of blood lost.  22d, four ounces of blood lost; tonic
+    and stimulant treatment.  27th, eight ounces of blood lost; patient still suffering from py&#230;mia.  H&#230;morrhage again recurred on <date type="operation" when="1864-07-06">the 6th of July</date>; radius and remaining portion of ulna necrosed; soft parts much
+    swollen; sinuses extending to elbow with discharge of dark ichorous pus. Flap amputation of arm at middle third by <name type="person" key="884">Surgeon N. R. Moseley</name>, <name type="organization" key="132">U. S. V.</name>; an&#230;sthetic&#8212;sulphuric ether. At time of operation patient much reduced from loss of blood and excessive discharge from wound; pulse 110, weak. Nausea and hiccough,
+    with extreme nervous prostration; treatment, tonics and stimulants with nutritious diet; adhesive straps and cold-water dressings; wound granulating healthily, with copious discharge of laudable pus until July 24th,
+    when the discharge ceased; applied flaxseed poultices.  July 31st, discharge reappearing and patient gradually improving.&#34;  This officer was transferred to the care of <name type="person" key="156">Surgeon Thomas Antisell</name>, <name type="organization" key="132">U. S. V.</name>, <date type="transfer" when="1864-08-04">August 4th</date>, and on <date type="furlough" when="1864-08-19">the 19th</date> was granted a leave of absence for thirty days to visit his home in <name type="place">Ohio</name>.  <name type="person" key="156">Surgeon Antisell</name> noted:  &#34;Died <date type="death" when="1864-09-07">September 7, 1864</date>, of wounds received in battle.&#34;  The specimen, represented in the adjoining
+    wood-cut (<hi rend="initialcap">F</hi>IG. 703), was contributed to <name type="hospital" key="431">the Museum</name> by the operator, <name type="person" key="884">Dr. Moseley</name>. It consists of &#34;the bones
+    of the left forearm. Three and a half inches from the lowest third of the ulna appears to have been excised. The extremity of the lower fragment is carious, and the upper portion of the shaft is necrosed nearly to the
+    olecranon. A small portion of the inner border of the radius has been absorbed as if after contusion.&#34;</p>
+   
+   
+   <figure>
+   <graphic url="cww.001691.001" />
+    <head><hi rend="right">; 	&#188;</hi></head>
+    <head><hi rend="initialcap">F</hi>IG. 703.&#8212;Excision of 3&#189; inches of ulna.    <hi rend="italic">Spec</hi>. 2810.</head>
+   </figure>  
+   
+  </body>
+ </text>
+</TEI>

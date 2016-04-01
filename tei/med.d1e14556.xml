@@ -1,0 +1,318 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e14556">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Hughes, Patrick</title>
+                <title level="m" type="sub">a machine readable transcription</title>
+                <principal>Susan C. Lawrence</principal>
+                <principal>Kenneth M. Price</principal>
+                <principal>Kenneth J. Winkle</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2011</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <idno>med.d1e14556</idno>
+                <authority>Civil War Washington</authority>
+                <publisher>University of Nebraska–Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+                </distributor>
+                <date>2011</date>
+                <availability>
+                    <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved.
+                        Redistribution or republication in any medium, except as allowed under the
+                        Fair Use provisions of U.S. copyright law, requires express written consent
+                        from the editors and advance notification of the publisher, the University
+                        of Nebraska–Lincoln.</p>
+                </availability>
+            </publicationStmt>
+            <notesStmt>
+                <note type="project">The following are responsible for particular readings or for
+                    changes to this file, as noted: 
+ <persName xml:id="kmp">Kenneth M. Price</persName> 
+                    <persName xml:id="ajh">AJ Howell</persName>
+                    <persName xml:id="mb">Matthew Bosley</persName>
+                    <persName xml:id="el">Elizabeth Lorang</persName>
+                    <persName xml:id="sb">Stacey Berry</persName>
+                    <persName xml:id="et">Elisabeth Tracey</persName>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>The Medical and Surgical History of the War of the Rebellion.
+                        (1861&#8211;65.)</title>
+                    <editor role="compiler">Surgeon General Joseph K. Barnes, United States
+                        Army</editor>
+                    <pubPlace>Washington, D.C.</pubPlace>
+                    <publisher>Government Printing Office</publisher>
+                    <biblScope type="part">Part 1</biblScope>
+                    <biblScope type="volume">Volume 2</biblScope>
+                    <date when="1870">1870</date>
+                    <biblScope type="page">206-207</biblScope>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <classDecl>
+                <taxonomy xml:id="medsurg">
+                    <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme="#medsurg">
+                    <term>on special wounds and injuries of the head</term>
+                    <term>wounds and injuries of the head</term>
+                    <term>gunshot wounds</term>
+                    <term>gunshot fractures of the cranial bones</term>
+                    <term>perforating gunshot fractures of the skull</term>
+                    <term>survived after perforations of craniums by musket balls</term>
+                    <term>missiles struck back of head</term>
+                    <term>ball entered posterior to junction of coronal and sagittal sutures on
+                        median line, passed backward under the scalp and escaped one inch above the
+                        occipital protuberance</term>
+                    <term>perforation of skull by single conoidal ball</term>
+                    <term>ball entered posterior right parietal, emerged at higher point of left
+                        parietal, large exit wound</term>
+                    <term>compound comminuted fracture of skull</term>
+                    <term>paroxysms of giddiness</term>
+                    <term>loss of substance of skull</term>
+                    <term>loss of hearing</term>
+                    <term>sight of right eye impaired</term>
+                    <term>unable to see small object placed directly on level and in midline between
+                        eyes</term>
+                    <term>confused and irritable</term>
+                    <term>fungus cerebri</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+ <change who="#kmp" when="2014-05">blessed</change>
+            <change who="#ajh" when="2013-08-19">added figure encoding</change>
+            
+            <change who="#mb" when="2011-07-25">additional proofing of transcription and
+                encoding</change>
+            <change who="#el" when="2011-11-05">case text extracted and transformed from larger
+                file</change>
+            <change who="#sb" when="2011-02-09">enriched encoding</change>
+            <change who="#sb" when="2011-01-28">validated file</change>
+            <change who="#et" when="2009-08-01">encoded</change>
+            <change who="#sb" when="2008-09-22">initial checking of OCR text against PDF;
+                encoded</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body xml:id="ch1.sc3.275">
+            <p><hi rend="initialcap">C</hi>ASE.&#8212;<name type="person" key="1609">Private Patrick
+                    Hughes</name>, <name type="organization" key="675">Co. K, 4th New York
+                    Volunteers</name>, aged 23 years, was wounded at the battle of <name
+                    type="BATTLE" key="33">Antietam</name>, <date type="injury" when="1862-09-17"
+                    >September 17th, 1862</date>, in <name type="person" key="xxx">Sumner</name>'s
+                attack on the right, near <name type="place">Dunker's Chapel</name>. Several special
+                reports, at variance in regard to some particulars of the case, have been received.
+                In the note book of <name type="person" key="288">Surgeon J. H. Brinton</name>,
+                    <name type="organization" key="132">U. S. V.</name>, it is stated that &#34;two
+                missiles had struck the back portion of his head, the one near vertex causing injury
+                of greatest extent,&#34; and that &#34;he did not entirely lose his consciousness at
+                time of injury.&#34; But the field report, and the majority of the subsequent
+                hospital reports, state very positively that the injury was a perforation of the
+                skull by a single conoidal musket ball entering near the inner posterior angle of
+                the right parietal, and emerging at a higher point of the left parietal, making,
+                after traversing a portion of the brain, a large exit wound. Little is known of the
+                early history of the case, except that the patient dragged himself from the field,
+                and, after a preliminary dressing from <name type="person" key="">Surgeon G. W.
+                    Lovejoy</name> of <name type="organization" key="675">his regiment</name>, was
+                conveyed to a field hospital in a barn near <name type="place">Keedysville</name>,
+                where he remained until <date type="transfer" when="1862-09-20">the 20th</date>,
+                when he was sent to <name type="place">Hagerstown</name>. The regimental surgeon
+                reports that the shock and depression from the injury was great, but that the
+                patient was conscious and answered questions rationally. There is no report from the
+                    <name type="place">Hagerstown</name> hospital, except that the patient was sent
+                to <name type="place" key="#Washington">Washington</name> on <date type="transfer"
+                    when="1862-09-24">the 24th</date>. On <date type="admit" when="1862-09-25">the
+                    25th</date>, he was received at the <name type="hospital" key="165">Mount
+                    Pleasant Hospital</name>. The following is an extract from the report of <name
+                    type="person" key="1610">Acting Assistant Surgeon Thomas Carroll</name>, who had
+                immediate charge of the case, after the patient's admission to <name type="hospital"
+                    key="165">Mount Pleasant Hospital</name>: &#34;The ball entered half an inch
+                posterior to the junction of the coronal and sagittal sutures on the median line,
+                passed backward under the scalp and escaped one inch above the occipital
+                protuberance, inflicting a wound four inches in length, producing a compound
+                comminuted fracture of the skull of the same extent. At the time of his admission to
+                the hospital, eight days after the reception of the wound, so much tumefaction of
+                the parts existed that it could not be ascertained whether or not the brain or its
+                membranes were injured. The general condition of the patient was good; suppuration
+                had commenced; no febrile action existed, the pulse was regular, sleep not
+                materially disturbed, mind clear and manifesting no signs of compression of the
+                brain, or inflammation of its membranes. Little, if any, change was perceptible for
+                several days, when the swelling of the scalp and tissues subsided, leaving a
+                prominence nearly, if not altogether, one inch in height, and two and a half or
+                three inches in length of brain substance, in which the pulsation of the arteries
+                could be distinctly observed. From the closest examination that could now be made,
+                it was supposed that the membranes of the brain were not lacerated, though this
+                supposition was by no means certain, as there was reason to believe the brain itself
+                had been penetrated. The chief, and in fact, the only unpleasant symptom complained
+                of by the patient, was an occasional paroxysm of giddiness that occurred at
+                intervals of from ten to fifteen days; the paroxysms continued to return, though
+                less frequently, while he remained in the hospital. Early in December, he was able
+                to sit up and walk about the ward, and was never afterwards much confined to bed.
+                The protuberance now began to subside, and was soon reduced nearly to a level with
+                the skull; numerous pieces of bone were removed as they became detached from the
+                tissues, leaving a complete channel in the cranium from the point where the ball
+                entered to where it emerged. At the time this man was discharged from the service,
+                    <date type="servicedischarge" when="1863-01-26">January 26th, 1863</date>, the
+                wound was nearly healed. There was but little discharge of pus, and with the
+                exception of an occasional recurrence of the paroxysms of giddiness, he suffered but
+                slight inconvenience. The treatment consisted simply in cutting the hair short, and
+                applying cold water dressing locally, paying strict attention to the diet, and
+                administering a cathartic as often as symptoms seemed to indicate its use.&#34;
+                    <name type="person" key="339">Assistant Surgeon C. A. McCall</name>, <name
+                    type="organization" key="190">U. S. A.</name>, in charge of <name
+                    type="hospital" key="165">Mount Pleasant Hospital</name>, furnished a report of
+                the case, from which the following extracts are made. &#34;The ball passed from
+                about one inch above and to the right of occipital protuberance into the cavity of
+                cranium and emerged at a point on the left of the median line, about one and
+                three-fourths inches from the point of entry; probably a conoidal ball. From the
+                posterior margin of the inferior wound to anterior margin of superior was about four
+                inches. At the time of his admission to hospital, eight days after the injury, so
+                much tumefaction and hardened clot existed, that it was deemed inadvisable to make a
+                very strict examination with a view to determine the extent of lesion. The hair was
+                closely shaved, and cold water dressings applied and patient placed in a sitting
+                posture. The general condition of patient was promising, although all the brain
+                functions appeared clouded, the memory impaired, speech desultory or given in
+                fragments, yet being readily aroused and, generally at such times, answering
+                promptly and clearly. In a short time healthy suppuration was established, febrile
+                action decreased, the pulse became regular, sleep became natural, the mind began to
+                show clearness, and he seemed to lose all symptoms of compression or of inflammation
+                of the brain or its membranes. The swelling and induration of the parts gradually
+                disappeared, leaving in their place a fungus cerebri of considerable size, perhaps
+                an inch in height by two and a half or three inches in length, in which the
+                pulsation could be distinctly seen and felt. The only unpleasant symptom now
+                existing was the occurrence of a paroxysm of giddiness at intervals of ten or twelve
+                days, which symptom continued, although at much greater intervals, during the
+                remainder of his stay at the hospital. The size and extent of the fungus deterred me
+                from using the knife, and I had resort to compression as recommended by the surgeons
+                of <name type="place">France</name>, but with such serious results that I was
+                startled for the safety of my patient, and therefore threw aside all dressing save
+                the simple cerate on soft lint, and proper guard for the delicate tissues. Early in
+                December, he was able to sit up and walk about the wards, and was never afterwards
+                confined to the bed. From this time the fungus commenced to decrease in size, and
+                continued to do so until shortly before his discharge from the service, <date
+                    type="servicedischarge" when="1863-01-26">January 26th, 1863</date>, when it had
+                shrunk below the level of the skull, and both openings had been well covered by
+                cicatricial tissue. During the progress of the case numerous spicul&#230; of bone
+                were removed as they became detached. The constitutional treatment consisted in
+                paying strict attention to the diet, and exhibiting saline cathartics and turpentine
+                injections as the symptoms seemed to call for. When the soldier left my hands he
+                complained of no inconvenience whatever with the exception of the occasional attack
+                of giddiness, and the fact that he could not see a small object when placed in a
+                position directly on a level and on a middle line between the eyes. Both which
+                defects, I consider, will diminish with time until lost. Shortly before the
+                patient's discharge from <name type="hospital" key="165">Mount Pleasant</name>, an
+                excellent picture of the aspect of the injury at that time was made in water color,
+                under the direction of <name type="person" key="288">Surgeon J. H. Brinton</name>,
+                    <name type="organization" key="132">U. S. V.</name>, who was then in charge of
+                the Division of Surgical Records of the Surgeon General's Office, and had secured
+                the services of an artist, <name type="person" key="878">Mr. Stauch</name>, whose
+                admirable drawing and coloring have furnished some of the best illustrations of this
+                book. The figure on the right of the chromo-lithograph opposite is a good copy of
+                    <name type="person" key="878">Mr. Stauch</name>'s water-color drawing. I take
+                the following memorandum of the case from one of the memorandum books turned over to
+                me by <name type="person" key="288">Dr. Brinton</name>: &#34;Gunshot wound of head:
+                The picture of this case was taken at the Surgeon General's Office, whither the man
+                came as an orderly, or on an errand. He was perfectly well. A small carnified
+                cerebral hernia existed at the exit wound, which was healing rapidly. The ball went
+                into cavity of the skull and emerged. No symptoms existed at all, when the patient's
+                portrait was taken. The wound was then some three or four months old. The history of
+                this case, which I took at the time, has been unfortunately mislaid.&#34; After this
+                we have the history of the case taken up by the pension examining surgeons. The
+                patient went to <name type="place">Newcastle, Delaware</name>, and was pensioned at
+                four dollars a month, until <date type="pension" when="1869-06">June, 1869</date>,
+                when his pension was increased to eight dollars a month. <name type="person"
+                    key="1611">Dr. D. W. Maull</name> reports, at this date, that there was a loss
+                of substance of the skull two inches wide and three inches long, leaving a large
+                depression, covered only by the integuments of the cranium. &#34;Through this can be
+                seen at all times the pulsations of the brain. About the cavity the bone is ridged
+                by the union of the fractured margins. There is almost constant dull pain, some loss
+                of hearing, and the sight of the right eye is impaired.&#34; Dr. Maull regarded the
+                disability as total. Yet the man worked afterwards in an iron foundry as puddler. On
+                    <date type="pension" when="1870-12-20">December 20th, 1870</date>, this patient
+                was examined by Doctors <name type="person" key="xx">William Thomson</name> and
+                    <name type="person" key="xx">W. W. Keen</name> of <name type="place"
+                    >Philadelphia</name>, who have published an interesting account&#185; of his
+                condition at that time, with a photograph, of which a reduced copy is given in the
+                annexed wood-cut, (<hi rend="initialcap">F</hi>IG. 106.) I make the following
+                quotations from this paper: &#34;His memory is quite good, but by no means so good
+                as before the injury. He is rather easily bothered and confused, and more irritable
+                than formerly. The sight of his right eye, he thinks, is poor. <choice>
+                    <orig>Whisky</orig>
+                    <reg>Whiskey</reg>
+                </choice> affects him as usual. Sexual power undiminished. He has no paralysis. The
+                wound of entrance &#42; &#42; is marked by a slight depression in the bone, the
+                wound of exit by a hollow two and a half by two inches, and one inch deep. No bone
+                has closed this opening, but the scalp and hair dip down into the hollow. The
+                arterial pulsations are barely perceptible. When recumbent the hollow is gradually
+                obliterated and replaced, in about one minute, by a rounded protuberance. To prevent
+                pain during this change, he supports the parts with his hand. When he coughs, even
+                with moderate force, the depressed scalp instantly hedges up in a cone, which nearly
+                reaches the general level of the skull and obliterates the depression, and then as
+                suddenly subsides.&#34; Drs. Keen and Thomson observe that &#34;the complete
+                recovery from paralysis, (as evinced by his subsequent severe labor,) and the almost
+                entire restoration of his mental faculties, are remarkable, especially in view of
+                the probable deep lesion of the brain, both by the primary injury and the subsequent
+                fungus cerebri.&#34; They comment also upon &#34;the rapid changes in the state of
+                the cranial contents, due to any change of position, to coughing, etc., as evinced
+                by the effacement of the depression at the wound of exit.&#34; The authors also
+                regard the case as of value in throwing light upon the probable anatomy of the optic
+                commissure. Their discussion on this point is given in a foot-note.&#178; </p>
+            <p>&#185; <hi rend="italic">Photographic Review of Medicine and Surgery</hi>. Vol. 1,
+                No. 3, p. 26. Philadelphia, February, 1871. J. B. Lippincott &#38; Co. </p>
+            <p>&#178; &#34;Wollaston, (Phil. Trans. 1824. p. 222,) reasoning from two attacks of
+                transient hemiopsia, occurring in himself, and other cases in friends, appears to
+                have been the first to point out the semi-decussation of the optic nerves at the
+                chiasm. Longet (Trait&#233; de Phys., 2d ed. ii, 476) seems to assent to the
+                explanation, though he refers to cases of perfect sight in which it is asserted no
+                chiasm existed; and in his Trait&#233; d'Anat. et de Phys. du Syst. Nerv., p. 666,
+                he gives cases of perfect sight in both eyes, in spite of unilateral cerebral
+                atrophy or traumatic lesion. Von Graefe (Archiv, ii, 286) assents cordially to
+                Wollaston's view, admitting that he proposes nothing new, but that which is far too
+                little known. Hubert Airy, (On a Distinct Form of Transient Hemiopsia, Proc. Roy.
+                Soc., Feb. 17th, 1870, in &#34;Nature,&#34; i, 444.) after a careful examination of
+                preceding writers, also supports it; and the experiments of Laborde and Leven, (Med.
+                Gaz., Nov. 5th, 1870; from Gaz. M&#233;d. de Paris,) who found atrophy of the right
+                optic nerve following the removal of the superficial right cerebral convolutions,
+                and without any apparent irritative processes, would also point in the same
+                direction. In our own case, the point to which we desire to call special attention
+                is the rigid optical examination of the region between the porus opticus and the
+                macula lutea. The semi-decussation of the nerves at the chiasm being admitted, it
+                would naturally be supposed that the fibres <hi rend="italic">a</hi> from the left
+                tract would supply the left retina from the porus opticus toward <hi rend="italic"
+                    >a'</hi>; but our examination shows that it supplies <hi rend="italic">less</hi>
+                than this, viz.: only that part of the retina from <hi rend="italic">c</hi> to <hi
+                    rend="italic">a'</hi>; while in the right eye the fibres <hi rend="italic"
+                    >b</hi>, instead of supplying the retina from the porus opticus to <hi
+                    rend="italic">b'</hi>, supply <hi rend="italic">more</hi> than this, viz.: that
+                part of the retina from <hi rend="italic">c'</hi> to <hi rend="italic">b'</hi> . In
+                other words the fibres <hi rend="italic">a</hi> and <hi rend="italic">b</hi> of the
+                left optic tract supply, mathematically, the left halves of the two retin&#230; from
+                    <hi rend="italic">c</hi> to <hi rend="italic">a'</hi> and <hi rend="italic"
+                    >c'</hi> to <hi rend="italic">b'</hi> , and the right tract the right halves. As
+                to the cerebral seat of the sense of vision, the amount and depth of the injury to
+                the brain are too uncertain, perhaps, to warrant us in venturing on any speculations
+                us to its locality.&#34; </p>
+            <figure><graphic url="cww.001401.001"/><head><hi rend="initialcap">F</hi>IG. 106.&#8212;Cicatrix of a gunshot perforation of the
+                skull, eight years after the reception of the wound. [From a photograph.]</head></figure>
+            <figure><graphic url="cww.001402.001"/><head><hi rend="initialcap">F</hi>IG. 107.&#8212;Diagram indicating the relations of the
+                optic commisure and retin&#230;. [After Drs. Thomson and Keen.]</head></figure>
+            <figure><graphic url="cww.001403.001"/><head>PLATE VI, facing p. 207. GUNSHOT FRACTURES OF THE CRANIUM. <hi rend="italic">Two
+                    figures</hi>: Left hand, case of McK&#8212;&#8212;, p. 280; right hand, case of
+                Hughes, p. 206.</head></figure>
+        </body>
+    </text>
+</TEI>

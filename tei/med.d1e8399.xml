@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e8399">
+        <teiHeader>
+                <fileDesc>
+                        <titleStmt>
+                                <title level="m" type="main">Loveland, James</title>
+                                <title level="m" type="sub">a machine readable transcription</title>
+                                <principal>Susan C. Lawrence</principal>
+                                <principal>Kenneth M. Price</principal>
+                                <principal>Kenneth J. Winkle</principal>
+                        </titleStmt>
+                        <editionStmt>
+                                <edition>
+                                        <date>2011</date>
+                                </edition>
+                        </editionStmt>
+                        <publicationStmt>
+                                <idno>med.d1e8399</idno>
+                                <authority>Civil War Washington</authority>
+                                <publisher>University of Nebraska–Lincoln</publisher>
+                                <distributor>
+                                        <name>Center for Digital Research in the Humanities</name>
+                                        <address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+                                </distributor>
+                                <date>2011</date>
+                                <availability>
+                                        <p>Copyright © 2011 by University of Nebraska–Lincoln, all
+                                                rights reserved. Redistribution or republication in
+                                                any medium, except as allowed under the Fair Use
+                                                provisions of U.S. copyright law, requires express
+                                                written consent from the editors and advance
+                                                notification of the publisher, the University of
+                                                Nebraska–Lincoln.</p>
+                                </availability>
+                        </publicationStmt>
+                        <notesStmt>
+                                <note type="project">The following are responsible for particular
+                                        readings or for changes to this file, as noted: 
+                                        <persName xml:id="mb">Matthew Bosley</persName>
+                                        <persName xml:id="el">Elizabeth Lorang</persName>
+                                        <persName xml:id="sb">Stacey Berry</persName>
+                                        <persName xml:id="et">Elisabeth Tracey</persName>
+                                </note>
+                        </notesStmt>
+                        <sourceDesc>
+                                <bibl>
+                                        <title level="j">The Medical and Surgical History of the War of the Rebellion</title>
+                                        <pubPlace>Washington, DC</pubPlace>
+                                        <publisher>Government Printing Office</publisher>
+                                        <biblScope type="part">Part 3</biblScope>
+                                        <biblScope type="volume">Volume 1</biblScope>
+                                        <date when="1888">1888</date>
+                                        <biblScope type="page">380</biblScope>
+                                </bibl>
+                        </sourceDesc>
+                </fileDesc>
+                <encodingDesc>
+                        <classDecl>
+                                <taxonomy xml:id="medsurg">
+                                        <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+                                </taxonomy>
+                        </classDecl>
+                </encodingDesc>
+                <profileDesc>
+                        <textClass>
+                                <keywords scheme="#medsurg">
+                                        <term>the continued fevers</term>
+                                        <term>post-mortem records of continued fevers</term>                                       
+                                        <term>cases reported as typhoid fever, the clinical history insufficient or absent</term>
+                                        <term>Peyer's patches ulcerated and the ileum or small intestine only affected</term>   
+                                        <term>gangrene of toes and anterior portion of metatarsus of both feet</term>
+                                        <term>single thickened Peyer's patch of upper ileum</term>
+                                        <term>two thickened patches with small ulcers in lower ileum, probably solitary follicles</term>                                        
+                                </keywords>
+                        </textClass>
+                </profileDesc>
+                <revisionDesc>
+                        <change who="#mb" when="2013-03-29">additional proofing of transcription and encoding, edited and added keyword terms</change>
+                        <change who="#mb" when="2011-10-04">additional proofing of transcription and encoding</change>
+                        <change who="#mb" when="2011-06-21">additional proofing of transcription and encoding</change>
+                        <change who="#el" when="2011-05-11">case text extracted and transformed from larger file</change>
+                        <change who="#sb" when="2011-02-23">Encoding and Proofing</change>
+                        <change who="#et" when="2009-12-01">Initial Checking OCR Text to PDF file,</change>
+                </revisionDesc>
+        </teiHeader>
+        <text>
+                <body xml:id="ch4.sc4.1.00143">                        
+                                <p><hi rend="initialcap">C</hi>ASE 143.&#8212;<name
+                                                type="person" key="683">Private James
+                                                Loveland</name>, <name type="organization" key="197">Co. G, 4th Vt.</name>, was admitted <date
+                                                type="admit" when="1863-11-23">Nov. 23, 1863</date>,
+                                                <date type="death" when="1863-11-23">moribund</date>.  <hi rend="italic">Post-mortem</hi>
+                                        examination: Toes and anterior portion of metatarsus of both
+                                        feet gangrenous.  [<hi rend="italic">Specimens</hi> 79 and
+                                        80, Med. Sect., <name type="hospital" key="431">Army Medical
+                                                Museum</name>, constitute the only record: 79, a
+                                        portion of the upper part of the ileum, shows a single
+                                        oblong and thickened Peyer's patch; 80, a portion of the
+                                        lower part, presents two thickened and ulcerated patches and
+                                        two small ulcers, corresponding probably to solitary
+                                                follicles.]&#8212;<hi rend="italic"><name
+                                                  type="person" key="200">Ass't Surg. W.
+                                                  Thomson</name>, <name type="organization"
+                                                  key="190">U. S. A.</name>, <name type="hospital"
+                                                  key="162">Douglas Hospital</name>, Washington, D. C.</hi></p>                        
+                </body>
+        </text>
+</TEI>

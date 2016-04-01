@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="cww.02516">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Editorial Correspondence</title>
+                <title level="m" type="sub">a machine readable transcription</title>
+                <editor role="co-editor">R. J. Weir</editor>
+                <principal>Susan C. Lawrence</principal>
+                <principal>Elizabeth Lorang</principal>
+                <principal>Kenneth M. Price</principal>
+                <principal>Kenneth J. Winkle</principal>
+                <respStmt>
+                    <resp>transcription and encoding</resp>
+                    <persName xml:id="ak">Alex Kinnaman</persName>
+                    <persName xml:id="el">Elizabeth Lorang</persName>
+                    <persName xml:id="bw">Becca Weir</persName>
+                    <persName xml:id="kk">Kourtney Klein</persName>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2015</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <idno>cww.02516</idno>
+                <distributor>Civil War Washington</distributor>
+                <publisher>University of Nebraska Lincoln</publisher>
+                <address>
+                    <addrLine>Center for Digital Research in the Humanities</addrLine>
+                    <addrLine>319 Love Library</addrLine>
+                    <addrLine>University of Nebraska-Lincoln</addrLine>
+                    <addrLine>P.O. Box 884100</addrLine>
+                    <addrLine>Lincoln, NE 68588-4100</addrLine>
+                </address>
+                <address>
+                    <addrLine>
+                        <email>cdrh@unl.edu</email>
+                    </addrLine>
+                </address>
+                <date>2015</date>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+                        <p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License (http://creativecommons.org/licenses/by-nc-sa/3.0/). Derivatives must be credited to Civil War Washington and R. J. Weir, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct xml:id="letter">
+                    <analytic>
+                        <author ref="#rh">R. H.</author>
+                        <title level="a">Editorial Correspondence</title>
+                    </analytic>
+                    <monogr>
+                        <title xml:id="paper" level="j">The Anglo-African</title>
+                        <imprint>
+                            <date xml:id="issue_date" when="1863-11-14">14 November 1863</date>                    
+                        </imprint>
+                        <biblScope type="pp">[2-3]</biblScope>                    
+                    </monogr>           
+                </biblStruct>
+                
+                <biblStruct xml:id="issue">               
+                    <monogr>
+                        <title level="j" sameAs="#paper"/>
+                        <imprint>
+                            <date sameAs="#issue_date"/>                  
+                        </imprint>              
+                    </monogr>                   
+                </biblStruct>                        
+            </sourceDesc>       
+        </fileDesc>
+        <encodingDesc> 
+            <p>This electronic text is a semi-diplomatic transcription of the source text. Hyphenation, punctuation, variant spellings, and errors present in the source text have been retained. The transcription does not attempt to capture all aspects of the original formatting or layout.</p>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <persName xml:id="rh">Hamilton, Robert</persName>
+                <persName xml:id="th">Hamilton, Thomas</persName>
+                <date when="1863">1863</date>
+            </creation>
+            <langUsage>
+                <language ident="en-US">modern American English</language>
+            </langUsage>
+            <textClass>
+                <classCode scheme="http://authorities.loc.gov">
+                     <term xml:id="sh85001817">African American churches</term>
+                     <term xml:id="sh85001818">African American clergy</term>
+                     <term xml:id="sh2009114001">African American women--History</term>
+                     <term xml:id="sh85001946">African Americans--Education</term>
+                     <term xml:id="sh2009114063">African Americans--Washington (D.C.)</term>
+                     <term xml:id="n83192912">Brown, Solomon G., 1829-1906</term>
+                     <term xml:id="nr98035713">Ebenezer United Methodist Church (Washington, D.C.)</term>
+                     <term xml:id="n2003100285">First Baptist Church (Georgetown, Washington, D.C.)</term>
+                     <term xml:id="n81141734">Fifteenth Street Presbyterian Church (Washington, D.C.)</term>
+                     <term xml:id="n97081092">Methodist Episcopal Church (Georgetown, Washington, D.C.)</term>
+                     <term xml:id="no00024368">Smith, David, 1784-</term>
+                     <term xml:id="n86066011">Stewart, Maria W., 1803-1879</term>
+                     <term xml:id="n50017339">Turner, Henry McNeal, 1834-1915</term>
+                     <term xml:id="n96039168">Union Bethel Church (Washington, D.C.)</term>
+                     <term xml:id="sh85140274">United States--History--Civil War, 1861-1865--Societies, etc</term>
+                </classCode>
+                <classCode scheme="http://civilwardc.org">
+                     <term>Boulden, Albert</term>
+                     <term>Bowen, Anthony</term>
+                     <term>Brooks, John Delaware, 1803-1874</term>
+                     <term>Cook, George F. T., 1835-1912</term>
+                     <term>Cook Jr., John Francis, 1833-1910</term>
+                     <term>Dyson, Robert Henry Garland, 1832-?</term>
+                     <term>Hamer, Jacob P.</term>
+                    <term>Hamilton, Robert, 1819-1870</term>
+                     <term>Handy, James Anderson, 1826-1911</term>
+                     <term>Herbert, John J.</term>
+                     <term>Hinton, Thomas H. C.</term>
+                     <term>Israel A.M.E. Church</term>
+                     <term>Literary society</term>
+                     <term>Madden, Samuel W.</term>
+                     <term>Slade, William, 1815-?</term>
+                     <term>Stewart, Carter A., 1827-?</term>
+                     <term>Taliaferro, William A.</term>
+                     <term>Walker, William E.</term>
+                     <term>Woodyard, Caleb</term>
+                </classCode>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when="2015-04-07" who="#ak">corrected</change>
+            <change when="2015-04-02" who="#el">checked transcription and encoding and made necessary changes; updated TEI header, including keywords</change>
+            <change when="2015-03-31" who="#ak">added keywords</change>
+            <change when="2015-02-24" who="#ak">checked, corrected, updated xml:id</change>
+            <change when="2014-11-12" who="#ak">corrected transcription, encoding</change>
+            <change when="2014-04-14" who="#el">checked encoding; revised TEI header</change>
+            <change when="2014-05-02" who="#kk">transcribed, encoded</change>
+        </revisionDesc>
+    </teiHeader>
+    
+    <facsimile corresp="#issue">
+        <surface xml:id="pp1">
+            <graphic url="aa.18631114.pp1.jpg"/>
+        </surface>
+        <surface xml:id="pp2">
+            <graphic url="aa.18631114.pp2.jpg"/>
+            <zone xml:id="pp2_cropped" corresp="#letter">
+                <graphic url="aa.18631114.pp2_cropped.jpg"/>
+            </zone>
+        </surface>
+        <surface xml:id="pp3">
+            <graphic url="aa.18631114.pp3.jpg"/>
+            <zone xml:id="pp3_cropped" corresp="#letter">
+                <graphic url="aa.18631114.pp3_cropped.jpg"/>
+            </zone>
+        </surface>
+        <surface xml:id="pp4">
+            <graphic url="aa.18631114.pp4.jpg"/>
+        </surface>
+    </facsimile>
+    
+    <text corresp="#letter #pp2_cropped">
+        <body>
+            <head type="main" subtype="authorial" rend="center"><emph rend="italic">EDITORIAL CORRESPONDENCE.</emph></head>
+            <milestone unit="undeclared" rend="medium-bar"/>
+            
+            <div>
+                <head type="main" subtype="authorial" rend="center">WASHINGTON CITY.</head>
+                
+                <p>One of the most hopeful facts connected with <lb/>the advancement of society in Washington is <lb/>the large number of unusually intelligent men <lb/>to be found in it. We do not know a <choice><orig>commu-<lb/>nity</orig><reg>community</reg></choice> that presents a better face in this <choice><orig>particu-<lb/>lar</orig><reg>particular</reg></choice>, and the only regret is, that they do not act <lb/>more in concert in the advancement of our <choice><orig>com-<lb/>mon</orig><reg>common</reg></choice> cause.</p>
+                
+                <p>We had not the opportunity to make the <choice><orig>ac-<lb/>quaintance</orig><reg>acquaintance</reg></choice> of many of these men; but those <lb/>with whom we came in contact, afforded us <lb/>much pleasure by the revelation of their <choice><orig>ex-<lb/>perience</orig><reg>experience</reg></choice> during the slavery times.</p>
+                
+                <p>The first name which suggests itself is that <lb/>of the Rev. David Smith. This gentleman is <lb/>the oldest minister of the A. M. E. Church now <lb/>residing in this city, and perhaps in the whole <lb/>country, and a history of his life would be a <lb/>work of very deep interest to our people, as it <lb/>would afford us a grand insight to our history <lb/>for the last fifty years. Mr. Smith has been <lb/>married three times, but has never wasted any <lb/>time in courting. If a woman would assent to <lb/>his proposal, well; if she would not, his duty <lb/>was plain before him, and he sought her that <lb/>would.</p>
+                
+                <p>Rev. Anthony Bowen, <choice><orig>Wm.</orig><reg>William</reg></choice> Slade, Rev. H. <lb/>M. Turner, Rev. R. H. Dyson, Mr. Carter A. <lb/>Stewart, Rev. J. D. Brooks, Solomon G. Brown, <lb/>Rev. J. P. Hamer, Rev. J. A. Handy, Thos. E. <lb/>Green, Rev. James H. Thomas, <choice><orig>Wm.</orig><reg>William</reg></choice> Orr, Rev. <lb/>A. Boulden, Jordan E. Snowden, John A. <lb/> Johnson, A. Winfield, Rev. J. J. Herbert, <lb/><choice><orig>Wm.</orig><reg>William</reg></choice> A Taliaferro, Rev. Samuel W. Madden, <lb/>Benjamin E. McCoy, John Reed, R. H. Booker, <lb/><choice><orig>Wm.</orig><reg>William</reg></choice> Hubbard, (Rev. Jacob Ross and Rev. <lb/><choice><orig>Wm.</orig><reg>William</reg></choice> Hicks, of Georgetown), J. A. F. Cook and <lb/>brother, Thos. Smith, Thomas H. C. Hinton, <lb/>Rev. W. Wilson, and others whom we could <lb/>name are gentlemen well calculated to fill, <lb/>with credit to themselves, the posts which the <lb/>new order of things has thrown open to them; <lb/>and many of them are fully alive to the duties <lb/>of the hour.</p>
+            </div>
+            
+            <div>
+                <head type="main" subtype="authorial" rend="center">CHURCHES.</head>
+                
+                <p>The great number of colored churches is <choice><orig>ano-<lb/>ther</orig><reg>another</reg></choice> important fact to which we call attention. <lb/>We cannot say that the following is a complete <lb/>list, but it is as near correct as we can make it <lb/>at this time.</p>
+                
+                <p>First Baptist church, Rev. S. W. Madden, <lb/>Pastor; Second Baptist church, Rev. C. <choice><orig>Wood-<lb/>yard</orig><reg>Woodyard</reg></choice>, Pastor; Third Baptist church, Rev. A. <lb/>Bouldin, Pastor; Fourth Baptist church, Rev. <lb/><choice><orig>Wm.</orig><reg>William</reg></choice> E. Walker, Pastor.</p>
+                
+                <p>Methodist Episcopal: Asbury church, Rev. <lb/>J. D. Lambert (white); Ebenezer church, Rev. <lb/>Mr. Sparks who is also a white gentleman.</p>
+                
+                <p>African Methodist Episcopal: Israel church, <lb/>Rev. H. M. Turner, Pastor; Mission church <lb/>(Island), Rev. J. J. Herbert, Pastor; Union <lb/>Bethel church, Rev. J. A. Handy, Pastor. For <lb/>list of Zion Wesleyan churches see <choice><orig>advertise-<lb/>ment</orig><reg>advertisement</reg></choice> in another column of this paper.</p>
+                
+                <p>Fifteenth Street Presbyterian church, Rev. <lb/>Mr. Evans (white) Pastor. This church was <lb/>built through the exertions of the late Rev. <lb/>John F. Cook who is named with great respect <lb/>by all the colored people of the city regardless <lb/>of sect.</p>
+            </div>
+            
+            <div>
+                <head type="main" subtype="authorial" rend="center">SCHOOLS.</head>
+                
+                <p>The desire and intention of the people to <lb/>advance are beautifully illustrated by the <lb/>large number of private schools which they <lb/>now sustain, regardless of the fact that all the <lb/>property-holders among them now pay taxes <lb/>which go to support the white public schools.</p>
+                
+                    <p>The largest school is kept by Mr. Geo. T. <lb/>Cook, a son of the Rev. Mr. Cook, above <choice><orig>men-<lb/>tioned</orig><reg>mentioned</reg></choice>. Had we not been informed of the fact, <lb/>the good order of the school and respectful <lb/>bearing of the scholars toward him would have <lb/>informed us that Mr. C. is a first rate teacher.</p>
+                
+                <p>The second in point of numbers is the school <lb/>taught by Mr. John F. Cook, another son of <lb/> the late Mr. Cook.</p>
+                
+                <p>Mr. H. P. Jones has a school in the rear of <lb/>the Capitol, and Miss Rebecca Wells also; Mr. <lb/>E. Ambush, Mr. Jos. Ambush, Miss G. Dyson, <lb/>Mrs. Maria Stewart, Mrs. Thomas, Mrs. <choice><orig>Wash-<lb/>ington</orig><reg>Washington</reg></choice>, Mrs. McDonalds, Rev. Mr. Handy and <lb/>daughter, Rev. C. Woodyard, Misses L. Coke <lb/>and Waugh, Miss E. Smith, Miss M. Jones and <lb/>Mrs. Brooks (Island). In addition to these, <lb/>there are many night schools in <choice><orig>differ-<lb/>ent</orig><reg>different</reg></choice> parts of the city, thus giving a chance to <lb/>the freedmen and women, who are obliged to <lb/>work all day, to secure an education; and it <lb/>afforded us great pleasure to see with what <lb/>avidity they study to become intelligent. This <lb/>appears to be characteristic of both old and <lb/>young in this city.</p>
+                
+                <p>The close attention which the children pay <lb/>to their lessons, and the avidity with which <lb/>they seek to acquire knowledge, presents to <lb/>the mind's eye a glowing picture of the swiftly <lb/>coming future, when the equality of all <choice><orig>be-<lb/>fore</orig><reg>before</reg></choice> the law shall be acknowledged, and when <lb/>slavery and its twin sister, caste, shall have <lb/>sunk from view, then will these children be <lb/>thoroughly prepared to act their part upon the <lb/>stage of life.</p>
+                
+                <p>We deemed it a great privilege and favor <lb/>that we were permitted to speak a word to the <lb/>children of most of these schools.</p>
+                
+                <p>In addition to the above-mentioned schools, <lb/>there is one at the Freedmen's quarters, over <lb/>which the Rev. W. A. Benedict presides. He <lb/>has one male and several female assistants, all <lb/>
+                    
+                    <pb corresp="#pp3_cropped"/>
+                    
+                    of whom are white. These gentlemen and <lb/>ladies are thoroughly devoted to the work <lb/> which they have in hand, and hence the school <lb/>is very successful.</p>
+            </div>
+            
+            <div>
+                <head type="main" subtype="authorial" rend="center">LITERARY SOCIETIES.</head>
+                
+                <p>There are but two societies of this kind in <lb/>the city; over one of which the Rev. H. M. <lb/>Turner presides. This is known as the "Israel <lb/>Lyceum" and meets in the basement of Israel <lb/>Church.</p>
+                
+                <p>The other, over which Mr. <choice><orig>Wm.</orig><reg>William</reg></choice> A. Taliaferro <lb/>presides, is known as the "Island Literary <lb/>Association." We had the pleasure of <choice><orig>attend-<lb/>ing</orig><reg>attending</reg></choice> <unclear reason="illegible" cert="medium">some</unclear> its meetings, and received from <lb/>many of <unclear reason="illegible" cert="medium">the</unclear> members a very generous support <lb/>for our paper. We also owe them thanks for <lb/>the rich treat afforded us in listening to their <lb/>essays and debates as well as for the splendid <lb/>audience which they secured <unclear reason="damange" resp="#bw" cert="medium">to</unclear> hear our <choice><orig>stam-<lb/>mering</orig><reg>stammering</reg></choice> remarks.</p>
+                
+                <p>The ladies of the Island have <unclear reason="damage" resp="#ak" cert="low">formed</unclear> <choice><orig>them-<lb/>selves</orig><reg>themselves</reg></choice> into a society which they <unclear reason="damage" resp="#bw" cert="medium">have</unclear> been <lb/>pleased to call "<emph rend="smallcaps">The Anglo-African Daughters'<lb/>Beneficial Association No</emph>. 1," and the <choice><orig>follow-<lb/>ing</orig><reg>following</reg></choice> are the names of its chief officers: Mrs. <lb/>Elizabeth Stootly, President; Mrs. Lucinda <lb/> Myers, Vice-President; Miss Laura Simms, <lb/> Secretary; Mrs. Sarah P. Stevenson, Treasurer.</p> 
+                    
+                    <p>These ladies, as representatives of the <choice><orig>so-<lb/>ciety</orig><reg>society</reg></choice>, will please receive our thanks, not only <lb/>for the honor done us in calling their society <lb/>after our paper, but also for the support which <lb/>the members have individually given to it.</p>
+            </div>
+            
+            <closer><dateline>Washington, Oct. 31st.</dateline>    
+            <signed rend="right">R. H.</signed></closer>
+            
+        </body>
+    </text>
+    
+</TEI>
+

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d2e36064">
+                <teiHeader>
+                                <fileDesc>
+                                                <titleStmt>
+                                                  <title level="m" type="main">Bang, Jacob</title>
+                                                  <title level="m" type="sub">a machine readable
+                                                  transcription</title>
+                                                  <principal>Susan C. Lawrence</principal>
+                                                  <principal>Kenneth M. Price</principal>
+                                                  <principal>Kenneth J. Winkle</principal>
+                                                </titleStmt>
+                                                <editionStmt>
+                                                  <edition><date>2011</date></edition>
+                                                </editionStmt>
+                                                <publicationStmt>
+                                                  <idno>med.d2e36064</idno>
+                                                  <authority>Civil War Washington</authority>
+                                                  <publisher>University of
+                                                  Nebraska–Lincoln</publisher>
+                                                  <distributor><name>Center for Digital Research in
+                                                  the
+                                                  Humanities</name><address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address></distributor>
+                                                  <date>2011</date>
+                                                  <availability>
+                                                  <p>Copyright © 2011 by University of
+                                                  Nebraska–Lincoln, all rights reserved.
+                                                  Redistribution or republication in any medium,
+                                                  except as allowed under the Fair Use provisions of
+                                                  U.S. copyright law, requires express written
+                                                  consent from the editors and advance notification
+                                                  of the publisher, the University of
+                                                  Nebraska–Lincoln.</p>
+                                                  </availability>
+                                                </publicationStmt>
+                                                <notesStmt>
+                                                  <note type="project">The following are responsible
+                                                  for particular readings or for changes to this
+                                                  file, as noted: 
+                                                                  <persName xml:id="mb">Matthew Bosley</persName>
+                                                                  <persName xml:id="el">Elizabeth Lorang</persName>
+                                                  <persName xml:id="sb">Stacey Berry</persName>
+                                                  <persName xml:id="et">Elisabeth Tracey</persName>
+                                                  </note>
+                                                </notesStmt>
+                                                <sourceDesc>
+                                                  <bibl><title>The Medical and Surgical History of
+                                                  the War of the Rebellion.
+                                                  (1861&#8211;65.)</title><editor role="compiler">Surgeon General Joseph K. Barnes, United States
+                                                  Army</editor><pubPlace>Washington,
+                                                  D.C.</pubPlace><publisher>Government Printing
+                                                  Office</publisher><biblScope type="part">Part 1</biblScope>
+                                                  <biblScope type="volume">Volume 2</biblScope><date
+                                                  when="1870">1870</date><biblScope type="page">533</biblScope></bibl>
+                                                </sourceDesc>
+                                </fileDesc>
+                                <encodingDesc>
+                                                <classDecl>
+                                                  <taxonomy xml:id="medsurg">
+                                                  <bibl>Medical and Surgical History of the War of
+                                                  the Rebellion</bibl>
+                                                  </taxonomy>
+                                                </classDecl>
+                                </encodingDesc>
+                                <profileDesc>
+                                                <textClass>
+                                                  <keywords scheme="#medsurg">
+                                                    <term>wounds and injuries of the chest</term> 
+                                                    <term>gunshot wounds of the chest</term>
+                                                    <term>wounds of the pericardium and heart</term>                                                    
+                                                    <term>disability total and permanent</term>
+                                                    <term>cardiac diseases resulting from wounds</term>
+                                                  </keywords>
+                                                </textClass>
+                                </profileDesc>
+                                <revisionDesc>
+                                                <change who="#mb" when="2012-01-06">additional proofing of transcription and encoding</change>                                                
+                                                <change who="#el" when="2011-05-11">case text extracted and transformed from larger file</change>
+                                                <change who="#sb" when="2011-02-09">enriched
+                                                  encoding</change>
+                                                <change who="#sb" when="2011-01-28">validated
+                                                  file</change>
+                                                <change who="#et" when="2009-08-01">encoded</change>
+                                                <change who="#sb" when="2008-09-22">initial checking
+                                                  of OCR text against PDF; encoded </change>
+                                </revisionDesc>
+                </teiHeader>
+                <text>
+                                <body>
+                                                
+                                  <p> <hi rend="initialcap">C</hi>ASE.&#8212;<name type="person" key="xxx">Private Jacob Bang</name>, <name type="organization" key="xxx">Co. D, 76th Pennsylvania Volunteers</name>, aged 23 years, was wounded in the left breast by a
+                                    conoidal ball, at <name type="BATTLE" key="xxx">Petersburg, Virginia</name>, <date type="injury" when="1864-07-30">July 30th, 1864</date>. Being <date type="admit" when="1864-07-30">at once</date> conveyed to the field hospital, simple dressings were applied to the wound. On <date type="transfer" when="1864-08-02">August 2d</date>, he was transferred to the hospital at <name type="place">Fort Monroe</name>; on <date type="transfer" when="1864-08-07">the 7th</date>, to De Camp Hospital, <name type="place">New York Harbor</name>, and on <date type="transfer" when="1864-09-13">September 13th</date>, to <name type="hospital">Satterlee Hospital, Philadelphia</name>, whence he was returned to duty <date type="duty" when="1864-10-19">October 19th, 1864</date>.
+                                    On <date type="admit" when="1864-10-24">October 24th</date>, he entered <name type="hospital" key="218">Augur Hospital</name>, <name type="place">Virginia</name>, and was discharged from service <date type="servicedischarge" when="1865-01-01">January 1st, 1865</date>. <name type="person" key="xxx">Pension Examiner H. S. Huber</name> reports, <date type="pension" when="1871-02-02">February 2d, 1871</date>: &#34;The ball entered the chest one inch above the nipple, passed directly through the left lung, and emerged just below the lower angle of the scapula. Slight <choice><orig>dulness</orig><reg>dullness</reg></choice> on percussion and feeble respiratory murmur
+                                    in the vicinity of the cicatrix. Disability total and permanent.&#34; It is added that the heart was injured. </p>
+                                                
+                                </body>
+                </text>
+</TEI>

@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e10855">
+        <teiHeader>
+                <fileDesc>
+                        <titleStmt>
+                                <title level="m" type="main">Hamp, David</title>
+                                <title level="m" type="sub">a machine readable transcription</title>
+                                <principal>Susan C. Lawrence</principal>
+                                <principal>Kenneth M. Price</principal>
+                                <principal>Kenneth J. Winkle</principal>
+                        </titleStmt>
+                        <editionStmt>
+                                <edition>
+                                        <date>2011</date>
+                                </edition>
+                        </editionStmt>
+                        <publicationStmt>
+                                <idno>med.d1e10855</idno>
+                                <authority>Civil War Washington</authority>
+                                <publisher>University of Nebraska–Lincoln</publisher>
+                                <distributor>
+                                        <name>Center for Digital Research in the Humanities</name>
+                                        <address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+                                </distributor>
+                                <date>2011</date>
+                                <availability>
+                                        <p>Copyright © 2011 by University of Nebraska–Lincoln, all
+                                                rights reserved. Redistribution or republication in
+                                                any medium, except as allowed under the Fair Use
+                                                provisions of U.S. copyright law, requires express
+                                                written consent from the editors and advance
+                                                notification of the publisher, the University of
+                                                Nebraska–Lincoln.</p>
+                                </availability>
+                        </publicationStmt>
+                        <notesStmt>
+                                <note type="project">The following are responsible for particular
+                                        readings or for changes to this file, as noted: 
+                                        <persName xml:id="mb">Matthew Bosley</persName>
+                                        <persName xml:id="el">Elizabeth Lorang</persName>
+                                        <persName xml:id="sb">Stacey Berry</persName>
+                                        <persName xml:id="et">Elisabeth Tracey</persName>
+                                </note>
+                        </notesStmt>
+                        <sourceDesc>
+                                <bibl>
+                                        <title level="j">The Medical and Surgical History of the War of the Rebellion</title>
+                                        <pubPlace>Washington, DC</pubPlace>
+                                        <publisher>Government Printing Office</publisher>
+                                        <biblScope type="part">Part 3</biblScope>
+                                        <biblScope type="volume">Volume 1</biblScope>
+                                        <date when="1888">1888</date>
+                                        <biblScope type="page">761</biblScope>
+                                </bibl>
+                        </sourceDesc>
+                </fileDesc>
+                <encodingDesc>
+                        <classDecl>
+                                <taxonomy xml:id="medsurg">
+                                        <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+                                </taxonomy>
+                        </classDecl>
+                </encodingDesc>
+                <profileDesc>
+                        <textClass>
+                                <keywords scheme="#medsurg">
+                                        <term>diseases attributed to non-miasmatic exposures</term>
+                                        <term>diseases of the respiratory organs</term>
+                                        <term>pneumonia</term>
+                                        <term>post-mortem records</term> 
+                                        <term>lobar pneumonias</term>
+                                        <term>post-mortem record prefaced by ante-mortem notes, indicating general course of disease</term>	
+                                        <term>admitted with pneumonia of asthenic type</term>
+                                        <term>effusion into both pleural sacs and into pericardium</term>
+                                        <term>diminished resonance over lower lung, moist r&#226;les</term>
+                                        <term>middle and lower lobes of right lung engorged</term>
+                                        <term>lower lobe of left lung hepatized</term>
+                                </keywords>
+                        </textClass>
+                </profileDesc>
+                <revisionDesc>
+                        <change who="#mb" when="2013-04-23">additional proofing of transcription and encoding, edited and added keyword terms</change>
+                        <change who="#mb" when="2013-03-01">additional proofing of transcription and encoding, edited and added keyword terms</change>
+                        <change who="#mb" when="2011-06-30">additional proofing of transcription and encoding</change>                        
+                        <change who="#el" when="2011-05-11">case text extracted and transformed from larger file</change>
+                        <change who="#sb" when="2011-02-23">Encoding and Proofing</change>
+                        <change who="#et" when="2009-12-01">Initial Checking OCR Text to PDF file,</change>
+                </revisionDesc>
+        </teiHeader>
+        <text>
+                <body>                        
+                        <p> <hi rend="initialcap">C</hi>ASE 8.&#8212;<name type="person">Private David Hamp</name>, <name type="organization">Co. B, 26th
+                                Mich.</name>, was admitted <date type="admit" when="1863-02-19">Feb. 19, 1863</date>, with pneumonia of an
+                                        asthenic type. Cough was frequent and painful, expectoration
+                                        difficult, the skin hot and dry, the tongue darkly coated,
+                                        the bowels constipated and the pulse frequent and
+                                        compressible. Diminished resonance was observed over the
+                                        lower portion of the right lung and moist r&#226;les were heard
+                                        anteriorly over the right side of the chest. A mercurial
+                                        cathartic followed by an emetic of ipecacuanha and
+                                        subsequently by small doses of calomel, opium and
+                                        ipecacuanha, were employed, with dry cups and turpentine
+                                        stupes locally.  The patient grow steadily worse and died on
+                                <date type="death" when="1863-02-28">the 28th</date>, notwithstanding the administration of
+                                stimulants.   <hi rend="italic">Post-mortem</hi> examination: The middle and
+                                        lower lobes of the right lung were engorged; the lower lobe
+                                        of the left lung was hepatized. There was a copious effusion
+                                        into both pleural sacs and some plastic exudation on the
+                                        right costal pleura; there was also some serous effusion
+                                        into the pericardium.&#8212;<hi rend="italic"><name type="hospital" key="189">Third Division Hospital</name>, <name type="place">Alexandria, Va.</name></hi> </p>                        
+                </body>
+        </text>
+</TEI>

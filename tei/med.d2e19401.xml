@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d2e19401">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Grahame, F.</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+    <idno>med.d2e19401</idno>
+    <authority>Civil War Washington</authority>
+    <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor><name>Center for Digital Research in the
+     Humanities</name><address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address></distributor>
+    <date>2011</date>
+    <availability>
+     <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+      republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+      law, requires express written consent from the editors and advance notification of the
+      publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+ <persName xml:id="kmp">Kenneth M. Price</persName> <persName xml:id="ajh">AJ Howell</persName>
+     <persName xml:id="mb">Matthew Bosley</persName>
+     <persName xml:id="el">Elizabeth Lorang</persName>
+     <persName xml:id="sb">Stacey Berry</persName>
+     <persName xml:id="et">Elisabeth Tracey</persName>
+     <persName xml:id="ss">Sarah Synovec</persName>
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title level="j">The Medical and Surgical History of the War of the Rebellion.
+      (1861-65.)</title><pubPlace>Washington, DC</pubPlace><publisher>Government Printing
+      Office</publisher><biblScope type="part">Part 3</biblScope><biblScope type="volume">Volume
+      2</biblScope><date when="1883">1883</date><biblScope type="page">492</biblScope></bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+     <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <keywords scheme="#medsurg">
+     <term>wounds and injuries of the lower extremities</term>
+     <term>wounds and operations in the leg</term>
+     <term>shot fractures of the bones of the leg</term>
+     <term>amputations in the continuity of the leg for shot fractures</term>
+     <term>primary amputations in the continuity of the leg for shot injury</term>
+     <term>primary amputations in the lower third of the leg for shot injury</term>
+     <term>successful primary amputations in the lower third of the bones of the leg</term>
+     <term>shot fracture of ankle joint</term>
+     <term>amputation of leg at lower third</term>
+     <term>reamputation at tuberosity of tibia</term>
+     <term>anterior and posterior tibial arteries were ligated</term>
+     <term>an&#230;mia</term>
+     <term>fibula united with tibia at its extremity</term>
+     <term>furnished with artificial leg</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+ <change who="#kmp" when="2014-05">blessed</change>
+   <change who="#ajh" when="2013-08-23">added figure encoding</change>
+   <change who="#mb" when="2012-06-08">additional proofing of transcription and encoding, identified
+    keyword terms</change>
+   <change who="#el" when="2011-05-11">case text extracted and transformed from larger file</change>
+   <change who="#sb" when="2011-06-04">Enrich Encoding, Edit and validate</change>
+   <change who="#sb" when="2011-01-28">Validated File</change>
+   <change who="#ss" when="2008-09-22">initial checking of OCR text; encoded P5 Encoding</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p><hi rend="initialcap">C</hi>ASE 743.&#8212;<name type="person" key="1287">Private F.
+     Grahame</name>, <name type="organization" key="177">Co. A, 6th Wisconsin</name>, aged 26 years,
+    was wounded at <name type="BATTLE" key="3"><choice>
+      <orig>Spottsylvania</orig>
+      <reg>Spotsylvania</reg>
+     </choice></name>, <date type="injury" when="1864-05-10">May 10, 1864</date>. <name
+     type="person" key="xx">Surgeon C. N. Chamberlain</name>, <name type="organization" key="132">U.
+     S. V.</name>, reported his admission to the field hospital of the 4th division, Fifth Corps,
+    with "shot fracture of right ankle joint, followed by amputation of leg at lower third." The
+    wounded man was conveyed to <name type="hospital" key="171">Armory Square Hospital</name>,
+    Washington, <date type="transfer" when="1864-05">several days after the reception of the
+     injury</date>, and <date type="transfer" when="1864-07">two months later</date> he was
+    transferred to Harvey Hospital at <name type="place">Madison</name>, where, on <date
+     type="operation" when="1864-09-07">September 7th</date>, a second operation was performed by
+     <name type="person" key="1288">Surgeon H. Culbertson</name>, <name type="organization"
+     key="132">U. S. V.</name>, who made the following report: "The stump of the tibia became
+    necrosed from the lower end to its tuberosity. New bone formed, but the necrosed portion was not
+    separating. There were several cloac&#230;, and the lower end of the tibia projected through the
+    soft parts of the stump. The patient was in an an&#230;mic condition and his system was failing
+    from the constant discharge and reflex irritation from the diseased stump. Designing to resect
+    the diseased tibia, I made an incision from the tuberosity of the bone down to its lower
+    extremity, but on separating the soft parts I found the disease so extensive as to lead me to
+    amputate by a short anterior and a long posterior flap at the tuberosity of the tibia. In
+    notching the tibia the periosteum was pushed back, the notch sawed off, and the periosteum laid
+    over the surface of the bone. The anterior and posterior tibial arteries were ligated. Simple
+    dressings were applied after the operation, and quinine and iron was administered. The sutures
+    were removed on the fifth day and the ligatures came away on the fourteenth day. The wound
+    steadily healed." The re-amputated stump of the tibia and fibula (<hi rend="italic">Spec</hi>.
+    3696, <hi rend="italic">Surg. Sect.</hi>, A. M. M.), the latter being well rounded and united at
+    its extremity with the former, were contributed to <name type="hospital" key="431">the
+     Museum</name> by <name type="person" key="1288">the operator</name>, and are represented in the
+    wood-cut (<hi rend="initialcap">F</hi>IG. 292). The specimen shows a sequestrum in the tibia six
+    inches long; over the upper part of the anterior border the involucrum is wanting. The patient
+    was discharged from service <date type="servicedischarge" when="1865-08-22">August 22,
+     1865</date>, and pensioned, having been previously furnished with a "Bly" artificial leg. In
+    his application for commutation he described the stump as continuing in "healthy condition."
+    This pensioner was paid <date type="pension" when="1880-03-04">March 4, 1880</date>. </p>
+   <figure>
+    <graphic url="cww.001638.001"/>
+    <head><hi rend="initialcap">F</hi>IG. 292&#8212;Reamputated portions of the right tibia and
+     fibula. <hi rend="italic">Spec</hi>. 3696.</head>
+   </figure>
+  </body>
+ </text>
+</TEI>

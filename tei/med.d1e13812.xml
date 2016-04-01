@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e13812">
+    <teiHeader>
+        <fileDesc>                                                                                                         
+            <titleStmt>
+                <title level="m" type="main">Edmonds, John E.</title>    
+                <title level="m" type="sub">a machine readable transcription</title>
+                <principal>Susan C. Lawrence</principal>
+                <principal>Kenneth M. Price</principal>
+                <principal>Kenneth J. Winkle</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2011</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <idno>med.d1e13812</idno>
+                <authority>Civil War Washington</authority>
+                <publisher>University of Nebraska–Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+                </distributor>
+                <date>2011</date>
+                <availability>
+                    <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved.
+                        Redistribution or republication in any medium, except as allowed under the
+                        Fair Use provisions of U.S. copyright law, requires express written consent
+                        from the editors and advance notification of the publisher, the University
+                        of Nebraska–Lincoln.</p>
+                </availability>
+            </publicationStmt>
+            <notesStmt>
+                <note type="project">The following are responsible for particular readings or for changes to this file, as noted: 
+                    <persName xml:id="mb">Matthew Bosley</persName>
+                    <persName xml:id="el">Elizabeth Lorang</persName>
+                    <persName xml:id="sb">Stacey Berry</persName>
+                    <persName xml:id="et">Elisabeth Tracey</persName>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>The Medical and Surgical History of the War of the Rebellion. (1861&#8211;65.)</title>
+                    <editor role="compiler">Surgeon General Joseph K. Barnes, United States Army</editor>
+                    <pubPlace>Washington, D.C.</pubPlace>
+                    <publisher>Government Printing Office</publisher>
+                    <biblScope type="part">Part 1</biblScope>
+                    <biblScope type="volume">Volume 2</biblScope>
+                    <date when="1870">1870</date>
+                    <biblScope type="page">190</biblScope>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <classDecl>
+                <taxonomy xml:id="medsurg">
+                    <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme="#medsurg">
+                    <term>on special wounds and injuries of the head</term>
+                    <term>wounds and injuries of the head</term>
+                    <term>gunshot wounds</term>
+                    <term>gunshot fractures of the cranial bones</term> 
+                    <term>depressed gunshot fracture of cranial bones</term>
+                    <term>remote results of depressed fractures</term>
+                    <term>necrosis of portions of outer table or of both tables of cranium, frequent results of gunshot fracture</term>
+                    <term>fractures of skull followed by headache and vertigo</term>
+                    <term>conoidal ball fractured right parietal bone</term>
+                    <term>functions of brain impaired</term>                    
+                    <term>pain in head with dizziness, increased by exercise</term> 
+                    <term>permanent disability</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change who="#mb" when="2013-07-12">additional proofing of transcription and encoding, edited and added keyword terms</change>            
+            <change who="#mb" when="2011-07-22">additional proofing of transcription and encoding</change>
+            <change who="#el" when="2011-11-05">case text extracted and transformed from larger file</change>
+            <change who="#sb" when="2011-02-09">enriched encoding</change>
+            <change who="#sb" when="2011-01-28">validated file</change>
+            <change who="#et" when="2009-08-01">encoded</change>
+            <change who="#sb" when="2008-09-22">initial checking of OCR text against PDF; encoded</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body xml:id="ch1.sc3.0254">            
+                <p><hi rend="initialcap">C</hi>ASE.&#8212;<name type="person" key="1580">Private
+                        John E. Edmonds</name>, <name type="organization" key="248">Battery E, 2d
+                            New York Heavy Artillery</name>, aged 22 years, was wounded at the battle of <name
+                                type="BATTLE" key="7">Petersburg, Virginia</name>, <date
+                        type="injury" when="1864-06-18">June 18th, 1864</date>, by a conoidal ball,
+                    which fractured the right parietal bone.  He was admitted on <date
+                        type="admit" when="1864-06-18">the same day</date>, to the
+                    1st division, Second Corps, hospital, and was transferred to the <name
+                        type="hospital" key="167">Carver Hospital</name>, Washington, on <date
+                        type="transfer" when="1864-06-22">June 22d</date>.  The functions of the
+                    brain were found to be, in a measure, impaired. He remained in the <name
+                        type="hospital" key="167">Carver Hospital</name> until <date type="transfer" when="1864-10-25">October 25th</date>, when
+                    he was transferred to the <name type="hospital" key="178">Ricord
+                        Hospital</name>.  Being regarded unfit for the <name type="organization" key="109">Veteran Reserve Corps</name>, he was
+                    discharged from service on <date type="servicedischarge" when="1865-03-22">March 22d,
+                        1865</date>, and pensioned.  <name type="person" key="1579">Pension Examiner
+                        Alonzo Churchill</name> reports that the patient suffered pain in the head
+                    with dizziness, which was increased by exercise, and rates his disability more
+                    or less permanent.</p>            
+        </body>
+    </text>
+</TEI>

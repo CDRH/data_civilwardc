@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e8754">
+        <teiHeader>
+                <fileDesc>
+                        <titleStmt>
+                                <title level="m" type="main">Hogle, Martin</title>
+                                <title level="m" type="sub">a machine readable transcription</title>
+                                <principal>Susan C. Lawrence</principal>
+                                <principal>Kenneth M. Price</principal>
+                                <principal>Kenneth J. Winkle</principal>
+                        </titleStmt>
+                        <editionStmt>
+                                <edition>
+                                        <date>2011</date>
+                                </edition>
+                        </editionStmt>
+                        <publicationStmt>
+                                <idno>med.d1e8754</idno>
+                                <authority>Civil War Washington</authority>
+                                <publisher>University of Nebraska–Lincoln</publisher>
+                                <distributor>
+                                        <name>Center for Digital Research in the Humanities</name>
+                                        <address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+                                </distributor>
+                                <date>2011</date>
+                                <availability>
+                                        <p>Copyright © 2011 by University of Nebraska–Lincoln, all
+                                                rights reserved. Redistribution or republication in
+                                                any medium, except as allowed under the Fair Use
+                                                provisions of U.S. copyright law, requires express
+                                                written consent from the editors and advance
+                                                notification of the publisher, the University of
+                                                Nebraska–Lincoln.</p>
+                                </availability>
+                        </publicationStmt>
+                        <notesStmt>
+                                <note type="project">The following are responsible for particular
+                                        readings or for changes to this file, as noted: 
+ <persName xml:id="kmp">Kenneth M. Price</persName>
+                                        <persName xml:id="ajh">AJ Howell</persName>
+                                        <persName xml:id="mb">Matthew Bosley</persName>
+                                        <persName xml:id="el">Elizabeth Lorang</persName>
+                                        <persName xml:id="sb">Stacey Berry</persName>
+                                        <persName xml:id="et">Elisabeth Tracey</persName>
+                                </note>
+                        </notesStmt>
+                        <sourceDesc>
+                                <bibl>
+                                        <title level="j">The Medical and Surgical History of the War
+                                                of the Rebellion.</title>
+                                        <pubPlace>Washington, DC</pubPlace>
+                                        <publisher>Government Printing Office</publisher>
+                                        <biblScope type="part">Part 3</biblScope>
+                                        <biblScope type="volume">Volume 1</biblScope>
+                                        <date when="1888">1888</date>
+                                        <biblScope type="page">382</biblScope>
+                                </bibl>
+                        </sourceDesc>
+                </fileDesc>
+                <encodingDesc>
+                        <classDecl>
+                                <taxonomy xml:id="medsurg">
+                                        <bibl>Medical and Surgical History of the War of the
+                                                Rebellion</bibl>
+                                </taxonomy>
+                        </classDecl>
+                </encodingDesc>
+                <profileDesc>
+                        <textClass>
+                                <keywords scheme="#medsurg">
+                                        <term>the continued fevers</term>
+                                        <term>post-mortem records of continued fevers</term>
+                                        <term>cases reported as typhoid fever, the clinical history
+                                                insufficient or absent</term>
+                                        <term>Peyer's patches ulcerated and the ileum or small
+                                                intestine only affected</term>
+                                        <term>typhoid fever</term>
+                                        <term>Peyer's patches ulcerated, perforated in five
+                                                places</term>
+                                        <term>pus on omentum</term>
+                                        <term>lung studded internally with melanic spots, size of
+                                                peas</term>
+                                </keywords>
+                        </textClass>
+                </profileDesc>
+                <revisionDesc>
+ <change who="#kmp" when="2014-05">blessed</change>
+                        <change who="#ajh" when="2013-08-16">added figure encoding</change>
+                        <change who="#mb" when="2013-04-01">additional proofing of transcription and
+                                encoding, edited and added keyword terms</change>
+                        <change who="#mb" when="2011-10-04">additional proofing of transcription and
+                                encoding</change>
+                        <change who="#mb" when="2011-06-22">additional proofing of transcription and
+                                encoding</change>
+                        <change who="#el" when="2011-05-11">case text extracted and transformed from
+                                larger file</change>
+                        <change who="#sb" when="2011-02-23">Encoding and Proofing</change>
+                        <change who="#et" when="2009-12-01">Initial Checking OCR Text to PDF
+                                file,</change>
+                </revisionDesc>
+        </teiHeader>
+        <text>
+                <body xml:id="ch4.sc4.1.00159">
+                        <p><hi rend="initialcap">C</hi>ASE 159.&#8212;<name type="person" key="694"
+                                        >Private Martin Hogle</name>, <name type="organization"
+                                        key="434">Co. B, 5th N. Y. Cav.</name>; age 27; was admitted
+                                        <date type="admit" when="1864-08-12">Aug. 12, 1864</date>,
+                                with well-marked symptoms of typhoid fever. He was delirious, the
+                                abdomen tympanitic and tender, the tongue furred and the pulse
+                                accelerated. He died on <date type="death" when="1864-08-29">the
+                                        29th</date>. There was no diarrh&#339;a until within four
+                                days of death. <hi rend="italic">Post-mortem</hi> examination on the
+                                day of death: Rigor mortis well marked; body moderately emaciated.
+                                The trachea was lined with frothy sputa of a molasses color; the
+                                right lung normal externally, was studded internally with melanic
+                                spots about the size of peas, it weighed twelve ounces; the left
+                                lung was healthy, it weighed seven ounces and a half. The right side
+                                of the heart contained a large firm black clot. A considerable
+                                quantity of pus was observed on the omentum; the spleen, fourteen
+                                ounces and a half, was firm and of a bluish-slate color; the liver,
+                                seventy-eight ounces, appeared to be normal; the kidneys were
+                                healthy. Peyer's patches were extensively ulcerated and the ulcers
+                                had perforated in five places; the large intestine was normal. [See
+                                Med. Sect., <name type="hospital" key="431">Army Medical
+                                        Museum</name>, 369 to 373, and also plate facing this
+                                        page.]&#8212;<hi rend="italic"><name type="person" key="246"
+                                                >Act. Ass't Surg. H. M. Dean</name>, <name
+                                                type="hospital" key="176">Lincoln Hospital</name>,
+                                        Washington, D. C.</hi></p>
+                        <figure>
+                                <graphic url="cww.001368.001"/>
+                                <head>PERFORATING ULCERS OF THE ILEUM. No. 370. MEDICAL
+                                        SECTION.</head>
+                        </figure>
+                </body>
+        </text>
+</TEI>

@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="cww.02508">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Washington Letter</title>
+                <title level="m" type="sub">a machine readable transcription</title>
+                <editor role="co-editor">R. J. Weir</editor>
+                <principal>Susan C. Lawrence</principal>
+                <principal>Elizabeth Lorang</principal>
+                <principal>Kenneth M. Price</principal>
+                <principal>Kenneth J. Winkle</principal>
+                <respStmt>
+                    <resp>transcription and encoding</resp>
+                    <persName xml:id="ak">Alex Kinnaman</persName>
+                    <persName xml:id="el">Elizabeth Lorang</persName>
+                    <persName xml:id="bw">Becca Weir</persName>
+                    <persName xml:id="kk">Kourtney Klein</persName>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2015</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <idno>cww.02508</idno>
+                <distributor>Civil War Washington</distributor>
+                <publisher>University of Nebraska Lincoln</publisher>
+                <address>
+                    <addrLine>Center for Digital Research in the Humanities</addrLine>
+                    <addrLine>319 Love Library</addrLine>
+                    <addrLine>University of Nebraska-Lincoln</addrLine>
+                    <addrLine>P.O. Box 884100</addrLine>
+                    <addrLine>Lincoln, NE 68588-4100</addrLine>
+                </address>
+                <address>
+                    <addrLine>
+                        <email>cdrh@unl.edu</email>
+                    </addrLine>
+                </address>
+                <date>2015</date>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+                        <p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License (http://creativecommons.org/licenses/by-nc-sa/3.0/). Derivatives must be credited to Civil War Washington and R. J. Weir, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct xml:id="letter">
+                    <analytic>
+                        <author ref="#logic">Bob Logic</author>
+                        <title level="a">Washington Letter</title>
+                    </analytic>
+                    <monogr>
+                        <title xml:id="paper" level="j">The Anglo-African</title>
+                        <imprint>
+                            <date xml:id="issue_date" when="1863-09-05">5 September 1863</date>                    
+                        </imprint>
+                        <biblScope type="pp">[2]</biblScope>                    
+                    </monogr>           
+                </biblStruct>
+                
+                <biblStruct xml:id="issue">               
+                    <monogr>
+                        <title level="j" sameAs="#paper"/>
+                        <imprint>
+                            <date sameAs="#issue_date"/>                  
+                        </imprint>              
+                    </monogr>                   
+                </biblStruct>                        
+            </sourceDesc>       
+        </fileDesc>
+        <encodingDesc> 
+            <p>This electronic text is a semi-diplomatic transcription of the source text. Hyphenation, punctuation, variant spellings, and errors present in the source text have been retained. The transcription does not attempt to capture all aspects of the original formatting or layout.</p>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <persName xml:id="logic">Unknown</persName>
+                <persName xml:id="rh">Hamilton, Robert</persName>
+                <persName xml:id="th">Hamilton, Thomas</persName>
+                <date when="1863">1863</date>
+            </creation>
+            <langUsage>
+                <language ident="en-US">modern American English</language>
+            </langUsage>
+            <textClass>
+                <classCode scheme="http://authorities.loc.gov">
+                    <term xml:id="sh86001005">African American Sunday schools</term>
+                    <term xml:id="sh2009114063">African Americans--Washington (D.C.)</term>
+                    <term xml:id="no94014581">Augusta, Alexander T., 1825-</term>
+                    <term xml:id="n85081799">Beauregard, G. T. (Gustave Toutant), 1818-1893</term>
+                    <term xml:id="sh85039267">Draft Riot, New York, N.Y., 1863</term>
+                    <term xml:id="n88121251">Freedmen's Hospital (Washington, D.C.)</term>
+                    <term xml:id="n89650162">Gillmore, Quincy Adams, 1825-1888</term>
+                    <term xml:id="no2004049682">Grimes, Leonard A., 1815-1874</term>
+                    <term xml:id="n79006779">Lincoln, Abraham, 1809-1865</term>
+                    <term xml:id="sh85140239">United States--History--Civil War, 1861-1865--Hospitals</term>
+                    <term xml:id="sh2007100004">United States--History--Civil War, 1861-1865--Participation, African American</term>
+                    <term xml:id="sh85140274">United States--History--Civil War, 1861-1865--Societies, etc</term>
+                </classCode>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when="2015-04-13" who="#ak">corrected</change>
+            <change when="2015-03-27" who="#el">checked transcription and encoding and made necessary changes; updated TEI header, including keywords</change>
+            <change when="2015-03-03" who="#ak">added keywords</change>
+            <change when="2015-02-17" who="#ak">checked, corrected</change>
+            <change when="2014-11-10" who="#ak">corrected transcription and encoding</change>
+            <change when="2014-04-25" who="#el">checked encoding; revised TEI header</change>
+            <change when="2014-04-14" who="#kk">transcribed, encoded</change>
+        </revisionDesc>
+    </teiHeader>
+    
+    <facsimile corresp="#issue">
+        <surface xml:id="pp1">
+            <graphic url="aa.18630905.pp1.jpg"/>
+            </surface>
+        <surface xml:id="pp2">
+            <graphic url="aa.18630905.pp2.jpg"/>
+            <zone xml:id="pp2_cropped" corresp="#letter">
+                <graphic url="aa.18630905.pp2b_cropped.jpg"/>
+            </zone>
+        </surface>
+        <surface xml:id="pp3">
+            <graphic url="aa.18630905.pp3.jpg"/>
+        </surface>
+        <surface xml:id="pp4">
+            <graphic url="aa.18630905.pp4.jpg"/>
+        </surface>
+    </facsimile>
+    
+    <text corresp="#letter #pp2_cropped">
+        <body>
+            <head type="main" subtype="authorial" rend="center"><emph rend="italic">WASHINGTON LETTER.</emph></head>
+            
+            <milestone unit="undeclared" rend="medium-bar"/>
+            
+            <opener>
+                <dateline rend="right"><emph rend="smallcaps">Washington</emph>, Aug. 28th, 1863.</dateline> 
+                <salute><emph rend="smallcaps">Mr. Editor</emph>:</salute>
+            </opener>
+            
+            <p>I am exceedingly sorry <choice><sic>thht</sic><corr>that</corr></choice> I <lb/>could not get a letter ready for the last issue <lb/>of <title level="j" rend="smallcaps">The Anglo-African</title>.  For the last ten or <lb/>twelve days pleasure with me has taken the <lb/>place of business.  Private parties and the <lb/>baptism of children have become quite a mania <lb/>among our people in this city for private <choice><orig>ban-<lb/>quets</orig><reg>banquets</reg></choice>, and your humble servant has been one <lb/>of the lucky ones&#8212;drafted in every company, <lb/>and so pleasant have been these <hi rend="italic"><choice><sic>tete-a-tete's</sic><corr>tete-a-tetes</corr></choice></hi> that <lb/>I have always went in without taking the <choice><orig>trou-<lb/>ble</orig><reg>trouble</reg></choice> and expense of getting a substitute.  <unclear reason="illegible" cert="medium">How</unclear> <lb/>amused I have been when the merits of <title level="j" rend="smallcaps">The <lb/> Anglo-African</title> would be the theme of <choice><orig>conversa-<lb/>tion</orig><reg>conversation</reg></choice> at these parties to hear a question by one <lb/>lady to another&#8212;"Did you see <title level="j" rend="smallcaps">The Anglo</title>?" <lb/>"No! I did not, I should like to have seen <lb/>it very much," was the reply.  "Well, every <lb/>one of our people ought to subscribe to it, if <lb/>only for one reason."  "Why?" says another. <lb/>"We ought to subscribe to it for several <choice><orig>rea-<lb/>sons</orig><reg>reasons</reg></choice>.  First, the embarrassed situation the <lb/>riots in New York have brought the editor in; <lb/>secondly, the object of the paper: viz., the <choice><orig>ele-<lb/>vation</orig><reg>elevation</reg></choice> of our people"&#8212;I spoke up and said <lb/>that I felt assured that if the ladies would take <lb/>this matter in hand, it would not be long <choice><orig>be-<lb/>fore</orig><reg>before</reg></choice> <title level="j" rend="smallcaps">The Anglo</title> would flourish and grow.  They <lb/>acquiesced, and I feel assured that the ladies <lb/>will begin to get subscribers for your most <lb/>excellent paper.  "But," says another lady, <lb/>"I wish we could learn who the correspondent <lb/>is writing over the signature of 'Bob Logic.' <lb/>If we <unclear reason="illegible" cert="medium">knew</unclear> him it would give us so much <lb/>pleasure to have him at our parties."  Just at <lb/>this moment the ladies were invited to take <lb/>refreshments, and that announcement was <lb/>sweet music to my ear, as they were about <lb/>getting me in a close place as to who was the <lb/>correspondent.</p>
+            
+            <p>The American Baptist Missionary <choice><orig>Conven-<lb/>tion</orig><reg>Convention</reg></choice> were in session all last week, and <choice><orig>ad-<lb/>journed</orig><reg>adjourned</reg></choice> last Monday <emph rend="italic">sine die</emph>.  I was unable to <lb/>attend the Convention, but will try and get <lb/>the minutes of their proceedings for my next <lb/>letter.  For the present, I clip from <title level="j" rend="italic">The Daily <lb/>Chronicle</title> the following interview with the <choice><orig>Pre-<lb/>sident</orig><reg>President</reg></choice> of the United States and the Committee.</p>
+            
+            <p>[An account of the interview referred to by <lb/>our correspondent will be found elsewhere in <lb/>our columns.&#8212;<emph rend="smallcaps">Ed</emph>.]</p>
+            
+            <p>Dr. Augusta and staff of the medical <choice><orig>depart-<lb/>ment</orig><reg>department</reg></choice> of the contraband camp is getting along <lb/>nobly:  The hospitals are in elegant order. <lb/>The sick have every attention that they can <lb/>desire, and the Doctor spares neither time nor <lb/>trouble to make them comfortable.  I hear of <lb/>no complaint whatever.  It is just as I <choice><orig>pre-<lb/>dicted</orig><reg>predicted</reg></choice>: give these people such attendants as <lb/>are in sympathy with them, and my word for <lb/>it, they will be well cared for, and God will <lb/>bless all concerned.  There is one thing that <lb/>the Doctor has accomplished since he has been <lb/>here, and that is, he has the Ladies of the <choice><orig>Con-<lb/>traband</orig><reg>Contraband</reg></choice> Relief Association in his favor, and <lb/>whenever he calls on them for assistance in <lb/>the hospitals they very readily respond.  The <lb/>Doctor very properly invited the female <choice><orig>por-<lb/>tion</orig><reg>portion</reg></choice> of the Association to an entertainment at <lb/>the barracks the other day, and they were <lb/>highly delighted at the reception.  They truly <lb/>deserved it, for there is no association in this <lb/>city that has been so indefatigable in their <lb/>exertions to take care of the people.</p>
+            
+            <p>The other Sunday I visited the <choice><orig>Sabbath-<lb/>school</orig><reg>Sabbath-school</reg></choice> of the little children belonging to the <lb/>camp, and what an agreeable surprise it was <lb/>to me!  Only look at the progress they have <lb/>made!  These little children not long in our <lb/>midst, when in the hands of the tyrannical <lb/>slaveholder, their parents or anybody else <lb/>dared not put a book in their hands.  Now see <lb/>how eager and readily they learn their book, <lb/>and then their singing!  Oh! it would delight <lb/>you to hear those children sing.  One of the <lb/>pieces that they sung for me, entitled, "A <lb/>light in the window for thee, brother," caused <lb/>my heart to melt within me when I stood and <lb/>heard their heavenly voices.</p>
+            
+            <p>The Rev. L. A. Grimes of Boston is here. <lb/>He was a delegate to the Baptist convention. <lb/>Many other distinguished divines, whose names <lb/>I cannot remember, are also here.  Mr. Grimes <lb/>has, whilst here, devoted much of his time in <lb/>visiting the various contraband camps here, in <lb/>Alexandria and Arlington.  I had a talk with <lb/>him on his return from Alexandria, and he is <lb/>not satisfied with some things down there, <choice><orig>re-<lb/>lative</orig><reg>relative</reg></choice> to the treatment of the freedmen.</p>
+            
+            <p>I intend in my next letter to give you an <lb/>account of the various Sabbath-schools in our <lb/>city, their progress, numbers, etc.</p>
+            
+            <p>The news from Charleston is cheering.  <choice><orig>Gill-<lb/>more</orig><reg>Gillmore</reg></choice> is throwing Greek fire among the reptiles, <lb/>and the <unclear reason="illegible" cert="medium" resp="#el">chivalry</unclear> are running pell-mell, and I <lb/>am in hopes that in a few days our colored <lb/>troops will take charge of Charleston and its <lb/>environs, and give Beauregard a little hemp <lb/>to hang upon.</p>  
+            
+            <closer>
+                <signed rend="right"><emph rend="smallcaps">Bob Logic</emph>.</signed>
+            </closer>
+        </body>
+    </text>                         
+    
+</TEI>
+

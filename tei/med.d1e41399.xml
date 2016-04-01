@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e41399">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Grinder, Jeremiah</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+    <idno>med.d1e41399</idno>
+       <authority>Civil War Washington</authority>
+       <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor>
+       <name>Center for Digital Research in the Humanities</name>
+       <address><addrLine>319 Love Library</addrLine>
+       <addrLine>University of Nebraska–Lincoln</addrLine>
+       <addrLine>Lincoln, NE 68588-4100</addrLine>
+       <addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+    </distributor>
+    <date>2011</date>
+    <availability>
+        <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+         republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+         law, requires express written consent from the editors and advance notification of the
+         publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+     <persName xml:id="mb">Matthew Bosley</persName>     
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl>
+     <title level="j">The Medical and Surgical History of the War of the Rebellion. (1861-65.)</title>
+     <pubPlace>Washington, DC</pubPlace>
+     <publisher>Government Printing Office</publisher>
+     <biblScope type="part">Part 2</biblScope>
+     <biblScope type="volume">Volume 1</biblScope>
+     <date when="1879">1879</date>
+     <biblScope type="page">190-191</biblScope>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+       <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+      <keywords scheme="#medsurg">
+       <term>diarrh&#339;a and dysentery</term>
+       <term>fatal cases of diarrh&#339;a and dysentery, with accounts of the morbid appearances observed</term>
+       <term>from the Second Division of the Alexandria Hospital, Virginia</term>
+       <term>cholera morbus</term>
+       <term>lungs engorged with blood</term>
+       <term>pulmonary veins emptied into heart by single opening</term>
+       <term>mesenteric glands enlarged</term>
+       <term>mucous membrane of ileum inflamed and ulcerated, appeared almost gangrenous in places</term>
+       <term>ulcers had ragged edges, arranged in narrow bands around circumference of ileum </term>
+       <term>mucous membrane had whitish deposits of pseudomembranous lymph</term>       
+       <term>autopsy performed</term>       
+     </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change who="#mb" when="2012-12-14">copied case from MSHWR, added proofing of transcription and encoding, identified keyword terms and figures</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body> 
+   <p>Case from the case-book of the <name type="hospital" key="501"><hi rend="initialcap">S</hi>ECOND <hi rend="initialcap">D</hi>IVISION</name> of the <name type="place" key="#Alexandria"><hi rend="initialcap">A</hi>LEXANDRIA</name> <hi rend="initialcap">H</hi>OSPITAL, Virginia, <name type="person" key="134">Surgeon Edwin Bentley</name>, <name type="organization" key="132">U. S. V.</name>, in charge.  Autopsy was made and recorded in the case-book by <name type="person" key="655">Acting Assistant Surgeon Thomas Bowen</name>:</p>
+   <p><hi rend="initialcap">C</hi>ASE 454.&#8212;<name type="person" key="xxx">Private Jeremiah Grinder</name>, <name type="organization" key="xxx">company H, 6th Pennsylvania heavy artillery</name>; age 22; admitted from the field <date type="admit" when="1864-11-14">November 14, 1864</date>.  Cholera morbus.  Died, <date type="death" when="1864-11-15">November 15th</date>.  <hi rend="italic">Autopsy</hi> <date type="autopsy" when="1864-11-16">twenty-eight hours after death</date>: Rigor mortis very great; body muscular, well developed; no emaciation; extensive suggillation posteriorly. Head, neck and spinal column not examined. There were slight pleuritic adhesions posteriorly on both sides. Both lungs were engorged with blood, and did not collapse when the sternum was removed. The heart was normal; there were large, very firm yellow clots in both auricles, and small ones in both ventricles; the auricular clot on the left side extended about six inches into the branches of the left pulmonary veins; these veins emptied into the heart by a single opening. The omentum was congested. The liver was large, but otherwise healthy; the gall-bladder contained about an ounce of dark bile. The spleen was normal. The pancreas a little congested, but otherwise healthy. Both kidneys were congested. The mesenteric glands were somewhat congested and enlarged. The mucous membrane of the ileum, for twelve inches from the ileo-c&#230;cal valve, was thickened, inflamed, and ulcerated; it was very dark colored, and appeared almost gangrenous in many places. The mucous membrane of the colon and rectum was inflamed and ulcerated; the ulcers had ragged edges, and were arranged in narrow bands around the circumference of the gut; in other parts of the mucous membrane there were whitish deposits of pseudomembranous lymph.&#8212;<name type="person" key="655">Acting Assistant Surgeon Thomas Bowen</name>.</p> 
+  </body>
+ </text>
+</TEI>

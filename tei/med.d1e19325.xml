@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e19325">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title level="m" type="main">A&#8212;&#8212;, Samuel</title>
+        <title level="m" type="sub">a machine readable transcription</title>
+        <principal>Susan C. Lawrence</principal>
+        <principal>Kenneth M. Price</principal>
+        <principal>Kenneth J. Winkle</principal>
+      </titleStmt>
+      <editionStmt>
+        <edition><date>2011</date></edition>
+      </editionStmt>
+      <publicationStmt>
+        <idno>med.d1e19325</idno>
+        <authority>Civil War Washington</authority>
+        <publisher>University of Nebraska–Lincoln</publisher>
+        <distributor><name>Center for Digital Research in the
+          Humanities</name><address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address></distributor>
+        <date>2011</date>
+        <availability>
+          <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution
+            or republication in any medium, except as allowed under the Fair Use provisions of U.S.
+            copyright law, requires express written consent from the editors and advance
+            notification of the publisher, the University of Nebraska–Lincoln.</p>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="project">The following are responsible for particular readings or for changes to
+          this file, as noted: 
+ <persName xml:id="kmp">Kenneth M. Price</persName> <persName xml:id="ajh">AJ Howell</persName>
+          <persName xml:id="mb">Matthew Bosley</persName>
+          <persName xml:id="el">Elizabeth Lorang</persName>
+          <persName xml:id="sb">Stacey Berry</persName>
+          <persName xml:id="et">Elisabeth Tracey</persName>
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl><title>The Medical and Surgical History of the War of the Rebellion.
+            (1861&#8211;65.)</title><editor role="compiler">Surgeon General Joseph K. Barnes, United
+            States Army</editor><pubPlace>Washington, D.C.</pubPlace><publisher>Government Printing
+            Office</publisher><biblScope type="part">Part 1</biblScope>
+          <biblScope type="volume">Volume 2</biblScope><date when="1870">1870</date><biblScope
+            type="page">482</biblScope></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <classDecl>
+        <taxonomy xml:id="medsurg">
+          <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="#medsurg">
+          <term>wounds and injuries of the chest</term>
+          <term>gunshot wounds of the chest</term>
+          <term>penetrating gunshot wounds of the chest</term>
+          <term>gunshot fractures of the clavicle</term>
+          <term>bullet fractured the clavicle transversely</term>
+          <term>bullet passed between third and fourth ribs, fracturing the third</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+ <change who="#kmp" when="2014-05">blessed</change>
+      <change who="#ajh" when="2013-08-20">added figure encoding</change>
+      <change who="#mb" when="2011-12-19">additional proofing of transcription and encoding</change>
+      <change who="#el" when="2011-05-11">case text extracted and transformed from larger
+        file</change>
+      <change who="#sb" when="2011-02-09">enriched encoding</change>
+      <change who="#sb" when="2011-01-28">validated file</change>
+      <change who="#et" when="2009-08-01">encoded</change>
+      <change who="#sb" when="2008-09-22">initial checking of OCR text against PDF; encoded
+      </change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+
+      <p>
+        <hi rend="initialcap">C</hi>ASE.&#8212;<name type="person">Sergeant Samuel
+          A&#8212;&#8212;</name>, <name type="organization">Co. F, 125th Pennsylvania
+          Volunteers</name>, aged 40 years, was wounded at <name type="BATTLE" key="257"
+          >Chancellorsville, Virginia</name>, on <date type="injury" when="1863-05-03">May 3d,
+          1863</date>, and was admitted to <name type="hospital" key="167">Carver Hospital</name>,
+        Washington, on <date type="admit" when="1863-05-09">the 9th</date>. A bullet wound was found
+        on the right side of the back, near the spine, and in the neighborhood of the third dorsal
+        vertebra. There was a fracture of the clavicle on the same side, with considerable swelling,
+        and some deformity of the shoulder. The patient had frequent cough, and bloody
+        expectoration. The fracture of the clavicle was treated by a pad in the armpit and a sling,
+        and the wound in the back was dressed with wet lint covered with oiled silk. Small doses of
+        morphia were given, with the effect of diminishing very much the frequency of the cough. The
+        patient was feeble, and the discharge from the wound considerable, but no very serious
+        symptoms presented themselves until <date type="injury" when="1863-05-16">the 16th</date>,
+        when the patient was seized with considerable oppression of breathing, and with pain on the
+        wounded side. Dullness over the upper side of the right lung was observed on percussion. A
+        discharge of blood and serum from the wound seemed to relieve the pneumonic symptoms in a
+        few hours after their first occurrence. The breathing became easier, and pain was no longer
+        complained of. Bleeding from the wound ceased on the 17th, but a copious discharge of serous
+        pus remained, and the patient became gradually weaker, notwithstanding the free use of
+        stimulants and of as much nourishment as could be administered. His sinking was slow but
+        constant, and he died on the afternoon of <date type="death" when="1863-05-20">May
+          20th</date>. At the autopsy, the bullet was found just below the clavicle, near its
+        middle, having fractured the bone transversely after passing between the third and fourth
+        ribs, and fracturing the neck of the third near its angle. The specimen figured in the
+        adjoining cut (<hi rend="initialcap">F</hi>IG. 218), was presented to the <name
+          type="hospital" key="431">Army Medical Museum</name>, with the above account, by <name
+          type="person">Acting Assistant Surgeon B. F. Craig</name>. </p>
+
+      <figure>
+        <graphic url="cww.001460.001"/>
+        <head>
+          <hi rend="initialcap">F</hi>IG. 218.&#8212;Transverse fracture of the right clavicle, with
+          a conoidal bullet attached. <hi rend="italic">Spec</hi>. 1210, Sect. I, A. M. M. (Vertical
+          view. Reduced to one-third.)</head>
+      </figure>
+
+    </body>
+  </text>
+</TEI>

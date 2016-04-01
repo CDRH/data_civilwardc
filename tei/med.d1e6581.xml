@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e6581">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Marsh, George H.</title>
+                <title level="m" type="sub">a machine readable transcription</title>
+                <principal>Susan C. Lawrence</principal>
+                <principal>Kenneth M. Price</principal>
+                <principal>Kenneth J. Winkle</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2011</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <idno>med.d1e6581</idno>
+                <authority>Civil War Washington</authority>
+                <publisher>University of Nebraska–Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+                </distributor>
+                <date>2011</date>
+                <availability>
+                    <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved.
+                        Redistribution or republication in any medium, except as allowed under the
+                        Fair Use provisions of U.S. copyright law, requires express written consent
+                        from the editors and advance notification of the publisher, the University
+                        of Nebraska–Lincoln.</p>
+                </availability>
+            </publicationStmt>
+            <notesStmt>
+                <note type="project">The following are responsible for particular readings or for changes to this file, as noted: 
+                    <persName xml:id="mb">Matthew Bosley</persName>
+                    <persName xml:id="el">Elizabeth Lorang</persName>
+                    <persName xml:id="sb">Stacey Berry</persName>
+                    <persName xml:id="et">Elisabeth Tracey</persName>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>The Medical and Surgical History of the War of the Rebellion. (1861&#8211;65.)</title>
+                    <editor role="compiler">Surgeon General Joseph K. Barnes, United States ssssArmy</editor>
+                    <pubPlace>Washington, D.C.</pubPlace>
+                    <publisher>Government Printing Office</publisher>
+                    <biblScope type="part">Part 1</biblScope>
+                    <biblScope type="volume">Volume 2</biblScope>
+                    <date when="1870">1870</date>
+                    <biblScope type="page">104</biblScope>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <classDecl>
+                <taxonomy xml:id="medsurg">
+                    <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme="#medsurg">
+                    <term>on special wounds and injuries of the head</term>
+                    <term>wounds and injuries of the head</term>
+                    <term>gunshot wounds</term>
+                    <term>gunshot contusions of the cranial bones</term> 
+                    <term>contusion of the skull without fracture</term>
+                    <term>exfoliation</term>
+                    <term>contusion of parietal near lambdoidal suture, denuding bone of periosteum</term>
+                    <term>fragment of external table exfoliated</term>
+                    <term>dizziness when he stooped, stinging sensation in hot weather</term>                    
+                    <term>bone denuded of periosteum, fragment of external table exfoliated</term>
+                    <term>temporary disability</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change who="#mb" when="2013-06-03">additional proofing of transcription and encoding, edited and added keyword terms</change>
+            <change who="#mb" when="2011-10-06">additional proofing of transcription and encoding</change>
+            <change who="#mb" when="2011-06-16">additional proofing of transcription and encoding</change>
+            <change who="#el" when="2011-11-05">case text extracted and transformed from larger file</change>
+            <change who="#sb" when="2011-02-09">enriched encoding</change>
+            <change who="#sb" when="2011-01-28">validated file</change>
+            <change who="#et" when="2009-08-01">encoded</change>
+            <change who="#sb" when="2008-09-22">initial checking of OCR text against PDF; encoded</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body xml:id="ch1.sc3.0077">            
+                <p><name type="person" key="1250"><hi rend="initialcap">M</hi>ARSH, <hi
+                            rend="initialcap">G</hi>EORGE <hi rend="initialcap">H</hi>.</name>,
+                    Private, <name type="organization" key="529">Co. I, 14th New York
+                        Artillery</name>, aged 18 years.  Contusion of left parietal, near lambdoidal
+                    suture, denuding bone of periosteum.  <name type="BATTLE" key="254">Petersburg</name>, <date type="injury" when="1865-03-25">March 25th,
+                        1865</date>.  Treated at <name type="hospital" key="165">Mount Pleasant
+                            Hospital</name>, Washington; <name type="place">White Hall, Pennsylvania</name>; and was discharged
+                    from service <date type="servicedischarge" when="1865-06-19">June 19th,
+                        1865</date>.  In <date type="pension" when="1869-11">November, 1869</date>,
+                        <name type="person" key="1249">Pension Examining Surgeon J. G. Pitts</name>
+                    reports that a fragment of the external table had been exfoliated, and the
+                    pensioner alleged that he suffered dizziness when he stooped at work, and he
+                    suffered a stinging sensation in hot weather. <name type="person" key="1249">Dr.
+                        Pitts</name> rated the disability at one-quarter, and probably
+                    temporary.</p>            
+        </body>
+    </text>
+</TEI>

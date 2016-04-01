@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d2e30784">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Gay, F. M.</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+       <idno>med.d2e30784</idno>
+       <authority>Civil War Washington</authority>
+       <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor>
+       <name>Center for Digital Research in the Humanities</name>
+       <address><addrLine>319 Love Library</addrLine>
+       <addrLine>University of Nebraska–Lincoln</addrLine>
+       <addrLine>Lincoln, NE 68588-4100</addrLine>
+       <addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+    </distributor>
+    <date>2011</date>
+    <availability>
+        <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+         republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+         law, requires express written consent from the editors and advance notification of the
+         publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+ <persName xml:id="kmp">Kenneth M. Price</persName> 
+     <persName xml:id="mb">Matthew Bosley</persName>
+     <persName xml:id="cm">Clint Mink</persName> 
+     <persName xml:id="kk">Kourtney Klein</persName>
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl>
+     <title level="j">The Medical and Surgical History of the War of the Rebellion. (1861-65.)</title>
+     <pubPlace>Washington, DC</pubPlace>
+     <publisher>Government Printing Office</publisher>
+     <biblScope type="part">Part 2</biblScope>
+     <biblScope type="volume">Volume 2</biblScope>
+     <date when="1876">1876</date>
+     <biblScope type="page">937</biblScope>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+       <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+      <keywords scheme="#medsurg">
+       <term>wounds and injuries of the upper extremities</term> 
+       <term>wounds and operations in the forearm</term>
+       <term>shot wounds of the forearm</term>
+       <term>shot fractures of the forearm</term>
+       <term>excisions in the continuity of the bones of the forearm for shot injury</term>       
+       <term>primary excisions in the shaft of the ulna, of the radius, or of both bones</term>
+       <term>recoveries after primary excision in the forearm</term>
+       <term>excisions in the shaft of ulna</term> 
+       <term>gunshot wound of forearm</term> 
+       <term>ball entered forearm in middle third posteriorly, exited anteriorly</term>
+       <term>fractured ulna</term>
+       <term>resection of shaft of ulna, middle third</term> 
+       <term>chronic diarrh&#339;a</term>
+       <term>general anesthesia, agent unknown</term>
+     </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+ <change who="#kmp" when="2014-05">blessed</change>
+   <change who="#kk" when="2014-01-22">added figure encoding</change>
+   <change who="#mb" when="2012-07-05">additional proofing of transcription and encoding, identified keyword terms</change>
+   <change who="#cm" when="2011-02-24">checked OCR; added minimal mark-up for personal names, place names, and dates</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>   
+   <p><hi rend="initialcap">C</hi>ASE 1891.&#8212;<name type="person" key="xxx">Corporal F. M. Gay</name>, <name type="organization" key="xxx">Co. F, 12th New Hampshire</name>, age 22 years, was wounded at <name type="BATTLE" key="16">Cold Harbor</name>, <date type="injury" when="1864-06-03">June 3, 1864</date>; and was admitted to <name type="hospital" key="173">Harewood Hospital</name>, Washington, on <date type="admit" when="1864-06-07">the 7th</date>.  <name type="person" key="158">Surgeon R. B. Bontecou</name>, <name type="organization" key="132">U. S. V.</name>, contributed the photograph of the patient, represented by the adjacent wood-cut (<hi rend="initialcap">F</hi>IG 683), and reported:  &#34;Gunshot wound of the left forearm, the ball entering the middle third posteriorly and making its exit anteriorly, fracturing the ulna in its course.  <date type="operation" when="1864-06-03">June 3, 1864</date>, resection of the ulna of the right side, middle
+    third, three inches of the shaft removed; an&#230;sthetic unknown. Operation performed on the field; operator unknown. Patient states that he was in good health at the time
+    of the operation. Progress was favorable; treatment, simple dressing and supporting diet. Furloughed <date type="furlough" when="1864-07-23">July 23, 1864</date>.&#34;  The patient was discharged the service <date type="servicedischarge" when="1864-12-03">December 3, 1864</date>. In <date type="pension" when="1865-01">January, 1865</date>, the patient was an applicant for pension, and stated that in addition to the above wound he was continually suffering from a severe form
+    of chronic diarrh&#339;a.  In <date type="death" when="1865-05">May, 1865</date>, his agent withdrew the claim on account of the death of the soldier, but did not give the date of or cause of death.</p>
+   
+   <figure>
+    <graphic url="cww.001695.001" />
+    <head><hi rend="initialcap">F</hi>IG. 683.&#8212;Appearance after primary excision in the shaft of the left ulna for shot injury.     [From a photograph.]</head>
+   </figure>
+   
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d2e1098">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Lambert, H. M.</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+    <idno>med.d2e1098</idno>
+    <authority>Civil War Washington</authority>
+    <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor><name>Center for Digital Research in the
+     Humanities</name><address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address></distributor>
+    <date>2011</date>
+    <availability>
+     <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+      republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+      law, requires express written consent from the editors and advance notification of the
+      publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+ <persName xml:id="kmp">Kenneth M. Price</persName> 
+     <persName xml:id="ajh">AJ Howell</persName>
+     <persName xml:id="mb">Matthew Bosley</persName>
+     <persName xml:id="el">Elizabeth Lorang</persName>
+     <persName xml:id="sb">Stacey Berry</persName>
+     <persName xml:id="et">Elisabeth Tracey</persName>
+     <persName xml:id="ss">Sarah Synovec</persName>
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title level="j">The Medical and Surgical History of the War of the Rebellion.
+      (1861-65.)</title><pubPlace>Washington, DC</pubPlace><publisher>Government Printing
+      Office</publisher><biblScope type="part">Part 3</biblScope><biblScope type="volume">Volume
+      2</biblScope><date when="1883">1883</date><biblScope type="page">23</biblScope></bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+     <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <keywords scheme="#medsurg">
+     <term>wounds and injuries of the lower extremities</term>
+     <term>flesh wounds of the lower extremities</term>
+     <term>shot flesh wounds</term>
+     <term>flesh wounds of the lower limbs unattended by primary injury of the large nerves or
+      blood-vessels</term>
+     <term>lodgement of missiles in soft parts</term>
+     <term>ball remained innocuously two years</term>
+     <term>removed with amputation at thigh from complicated fracture of leg</term>
+     <term>comminuted fracture of both bones of leg at middle third</term>
+     <term>limb reamputated for supervening h&#230;morrhage</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+ <change who="#kmp" when="2014-05">blessed</change>
+   <change who="#ajh" when="2013-08-21">added figure encoding</change>
+   <change who="#mb" when="2012-02-01">additional proofing of transcription and encoding</change>
+   <change who="#el" when="2011-05-11">case text extracted and transformed from larger file</change>
+   <change who="#sb" when="2011-06-04">Enrich Encoding, Edit and validate</change>
+   <change who="#sb" when="2011-01-28">Validated File</change>
+   <change who="#ss" when="2008-09-22">Sarah Synovec initial checking of OCR text; encoded P5
+    Encoding</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+
+   <p>
+    <hi rend="initialcap">C</hi>ASE 38.&#8212;<name type="person" key="883">Sergeant H. M.
+     Lambert</name>, <name type="organization" key="327">Co. D, 12th Illinois Cavalry</name>, aged
+    29 years, sustained a contusion of the right leg by the falling <choice>
+     <sic>of</sic>
+     <corr>off</corr>
+    </choice> his horse during a charge on the enemy near <name type="BATTLE" key="260">Germanna
+     Ford</name>, <date type="injury" when="1863-10-10">October 10, 1863</date>. <date type="admit"
+     when="1863-10-13">Three days after</date> the accident he was admitted to <name type="hospital"
+     key="172">Emory Hospital</name>, Washington, whence <name type="person" key="884">Surgeon N. R.
+     Moseley</name>, <name type="organization" key="132">U. S. V.</name>, contributed the specimen
+     (<hi rend="initialcap">F</hi>IG. 7), with the following report: &#34;Slightly comminuted
+    fracture of both bones of right leg at middle third, followed by copious discharge of sanious
+    pus. The patient having become weak and debilitated, tonics and stimulants were resorted to with
+    the desired effect. On <date type="operation" when="1863-10-25">October 25th</date>, double-flap
+    amputation at the upper third of the leg was performed by <name type="person" key="880">Acting
+     Assistant Surgeon W. H. Ensign</name>. Simple dressings and adhesive straps were used. The
+    patient did well, and the stump had almost entirely healed, when, on <date type="injury"
+     when="1863-11-08">November 8th</date>, h&#230;morrhage supervened. Graduated compresses were
+    resorted to without avail, and on <date type="operation" when="1863-11-10">November 10th</date>
+    the limb was reamputated at the lower third of the thigh by the double-flap method. The stump
+    was again well-nigh healed, when, on November 26th, h&#230;morrhage again set in, and <name
+     type="person" key="885">Dr. Mott</name>'s tourniquet was applied with perfect success. On
+    December 10th the tourniquet was removed, and no return of the h&#230;morrhage followed. By
+    January 18, 1864, the patient was up and about the ward, and doing well. The specimen, a conical
+    ball enclosed in a sac, was removed from the amputated leg at the second operation. The patient
+    had received this ball in a skirmish with the enemy in Kentucky, in October, 1861, and the
+    missile had remained in the popliteal space beneath the outer hamstring tendons, without
+    inconvenience, for two years and one month.&#34; The amputated tibia and fibula, showing no
+    attempt at union, were contributed by the operator (See <hi rend="italic">Cat. Surg. Sect.</hi>,
+    1866, p. 511), and constitute specimen 1744 of the Surgical Section of the <name type="hospital"
+     key="431">Army Medical Museum</name>. The patient was subsequently transferred to <name
+     type="hospital" key="428">Judiciary Square Hospital</name>, and discharged from service <date
+     type="servicedischarge" when="1864-07-30">July 30, 1864</date>. He is a pensioner, and was paid
+     <date type="pension" when="1876-06-04">June 4, 1876</date>. </p>
+
+   <figure><graphic url="cww.001514.001"/><head>
+    <hi rend="initialcap">F</hi>IG. 7.&#8212;Ball encysted in connective tissue. <hi rend="italic"
+     >Sp</hi>. 1879.</head></figure>
+
+
+  </body>
+ </text>
+</TEI>

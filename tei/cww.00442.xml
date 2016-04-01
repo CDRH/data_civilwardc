@@ -1,0 +1,368 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="cww.00442">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Petition of Robert Gunnell, 26 May 1862 </title>
+                <title level="m" type="sub">a machine readable transcription</title>
+                <principal>Susan C. Lawrence</principal>
+                <principal>Kenneth M. Price</principal>
+                <principal>Kenneth J. Winkle</principal>
+                <respStmt>
+                    <resp>transcription and encoding</resp>
+                    <name xml:id="jc">Janel Cayer</name>
+                    <name xml:id="rr">Rhiannon Root</name>
+                    <name xml:id="bj">Brittany Jones</name>
+                    <name xml:id="rv">Robert Voss</name>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2013</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <idno>cww.00442</idno>
+                <distributor>Civil War Washington</distributor>
+                <publisher>University of Nebraska–Lincoln</publisher>
+                <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>P.O. Box 884100</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+            </address>
+                <date>2013</date>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+                        <p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike
+                            3.0 Unported License
+                            (http://creativecommons.org/licenses/by-nc-sa/3.0/). Derivatives must be
+                            credited to Civil War Washington, made available non-commercially, and
+                            distributed under the same terms. Requests for permission for commercial
+                            publication or other use should be emailed to the project team.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Petition of Robert Gunnell, 26 May 1862</title>
+                    <date when="1862-05-26">May 26, 1862</date>
+                    <idno>Microcopy 520, Reel 4</idno>
+                    <orgName>National Archives and Records Administration</orgName>
+                    <relatedItem type="original">
+                        <bibl>
+                            <title>Petition of Robert Gunnell, 26 May 1862</title>
+                            <date when="1862-05-26">May 26, 1862</date>
+                            <idno>Record Group 217.6.5</idno>
+                            <orgName>Records of the Accounting Officers of the Department of the
+                                Treasury, 1775–1978, National Archives and Records
+                                Administration</orgName>
+                            <note type="project">Within the National Archives' Archival Description
+                                Catalog, see ARC Identifier 4644616 / MLR Number A1 347
+                                (http://arcweb.archives.gov).</note>
+                        </bibl>
+                    </relatedItem>
+                    <note type="project">Our transcription is based on a digital image of a
+                        microfilm copy of the original.</note>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <particDesc>
+                <person role="petitioner">
+                    <persName>Robert Gunnell</persName>
+                </person>
+                <person role="jp">
+                    <persName>Robert White</persName>
+                </person>
+            </particDesc>
+        </profileDesc>
+        <revisionDesc>
+            <change when="2013-01-20" who="#jc">revised schema declaration</change>
+            <change when="2012-09-06" who="#jc">updated tei header; fixed values for @facs as
+                necessary; automated checking across files for extra spaces in elements and other
+                encoding inconsistencies and for regular transcription errors</change>
+            <change when="2011-05-26" who="#rr">checked</change>
+            <change when="2011-04-26" who="#rv">checked</change>
+            <change when="2010-11-22" who="#bj">transcribed, encoded</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb xml:id="leaf001r" facs="cww.00442.002.jpg"/>
+            <div1 type="petition" subtype="mixed">
+                <head type="main">PETITION.</head>
+                <p rend="bold">To the Commissioners under the act of Congress approved the <date
+                        when="1862-04-16">16th of April, 1862</date>, entitled "An act for the
+                    release of certain persons held to service or labor in the District of
+                    Columbia."</p>
+
+                <p>Your Petitioner, <seg type="handwritten">
+                        <persName>Robert Gunnell</persName>
+                    </seg> of <seg type="handwritten">
+                        <placeName>Fairfax County, Virginia</placeName>
+                    </seg> by this <seg type="handwritten">his</seg> petition in writing, represents
+                    and states, that <seg type="handwritten">he</seg> is a person loyal to the
+                    United States, who, at the time of the passage of the said act of Congress, held
+                    a claim to service or labor against <seg type="handwritten">ten</seg> person<seg
+                        type="handwritten">s</seg> of African descent of the name<seg
+                        type="handwritten">s</seg> of <seg type="handwritten">
+                        <hi rend="underline"><persName>Paulina Booth</persName></hi>, <hi
+                            rend="underline"><persName>Sarah Fairfax</persName></hi>, <hi
+                            rend="underline">
+                            <persName>Florida</persName></hi>, <hi rend="underline"><persName>Anna</persName></hi>, and <hi rend="underline">
+                            <persName>William</persName></hi>, <hi rend="underline"><persName>Frank</persName></hi>, <hi rend="underline"><persName>Thomas</persName></hi> and <hi rend="underline"><persName>Joseph</persName></hi> the sons of <persName>Sarah
+                            Fairfax</persName>. <hi rend="underline"><persName>Sally</persName></hi>
+                        the child of <persName><hi rend="underline">Paulina</hi> Booth</persName>,
+                        and <hi rend="underline">
+                            <persName>Charles</persName></hi> the son of <hi rend="underline"><persName>Florida</persName></hi>,</seg> for and during the life of
+                    said <seg type="handwritten">persons as before named</seg> and that by said act
+                    of Congress said <seg type="handwritten">persons as before named were</seg>
+                    discharged and freed of and from all claim of your petitioner to such service or
+                    labor; that at the time of said discharge said <seg type="handwritten">persons
+                        as before name were</seg> of the age<seg type="handwritten">s</seg> of <seg
+                        type="handwritten">Twenty four&#8212;Twenty six years&#8212;Seventeen
+                        years&#8212;Twelve years, and Eight years, Four years, Three years, one
+                        year, one year, and 4 months, respectively in the order named</seg> and of
+                    the personal description<seg type="handwritten">s</seg> following:<note
+                        type="government" place="foot" xml:id="n1">Here describe the person, so as
+                        to identify him or her; and if there be more than one slave, describe each
+                        one separately.</note>
+                    <table rend="handwritten">
+                        <row>
+                            <cell><hi rend="underline"><persName>Paulina</persName></hi>&#8212;</cell>
+                            <cell>about 24 yrs old&#8212;</cell>
+                            <cell>Female</cell>
+                            <cell>the wife of <persName>William Booth</persName> of
+                                    <placeName>Washington</placeName>, quite black</cell>
+                        </row>
+                        <row>
+                            <cell><hi rend="underline"><persName>Sarah</persName></hi></cell>
+                            <cell>" 26 " "</cell>
+                            <cell>Female&#8212;</cell>
+                            <cell>the widow of <hi rend="underline"><persName>John
+                                        Fairfax</persName></hi>, brown color <hi rend="underline">sound</hi> and <hi rend="underline">healthy</hi>.</cell>
+                        </row>
+                        <row>
+                            <cell><hi rend="underline"><persName>Florida</persName></hi></cell>
+                            <cell>" 17 yrs "</cell>
+                            <cell>Female.</cell>
+                            <cell>Brown color, sound &#38; healthy.</cell>
+                        </row>
+                        <row>
+                            <cell><hi rend="underline"><persName>Anna</persName></hi></cell>
+                            <cell>" 12 " </cell>
+                            <cell>Female</cell>
+                            <cell>Brown color, sound &#38; healthy.</cell>
+                        </row>
+                        <row>
+                            <cell><hi rend="underline"><persName>William</persName></hi></cell>
+                            <cell>" 8 " " </cell>
+                            <cell>Male,</cell>
+                            <cell>Child of <hi rend="underline"><persName>Sarah</persName></hi>.
+                                Black, Brown color, sound &#38; healthy.</cell>
+                        </row>
+                        <row>
+                            <cell><hi rend="underline"><persName>Frank</persName></hi></cell>
+                            <cell>" 4 " " </cell>
+                            <cell>Male</cell>
+                            <cell>" " " " " "</cell>
+                        </row>
+                        <row>
+                            <cell><hi rend="underline"><persName>Thomas</persName></hi></cell>
+                            <cell>" 3 " "</cell>
+                            <cell>Male</cell>
+                            <cell>" " " " " "</cell>
+                        </row>
+                        <row>
+                            <cell><hi rend="underline"><persName>Joseph</persName></hi></cell>
+                            <cell>" 1 " "</cell>
+                            <cell>Male,</cell>
+                            <cell>" " " " " " </cell>
+                        </row>
+                        <row>
+                            <cell><hi rend="underline"><persName>Sally</persName></hi></cell>
+                            <cell>" 1 " "</cell>
+                            <cell>Female</cell>
+                            <cell>Child of <hi rend="underline"><persName>Paulina</persName></hi>,
+                                Brown colored</cell>
+                        </row>
+                        <row>
+                            <cell><hi rend="underline"><persName>Charles</persName></hi></cell>
+                            <cell>" 4 months old</cell>
+                            <cell>Male</cell>
+                            <cell>" " <hi rend="underline"><persName>Florida</persName></hi>, Brown
+                                colored </cell>
+                        </row>
+                    </table>
+                </p>
+
+                <pb xml:id="leaf002v" facs="cww.00442.003.jpg"/>
+
+                <p>That your petitioner acquired <seg type="handwritten">his</seg> claim to the
+                    aforesaid service or labor of said <seg type="handwritten">ten persons before
+                        named</seg> in manner following:<note type="government" place="foot"
+                        xml:id="n2">Here state how the claim was acquired, when, from whom, and for
+                        what price or consideration; and, if held under any written evidence of
+                        title, make exhibit thereof, or refer to the public record where the same
+                        may be found.</note>
+                    <seg type="handwritten">He purchased<persName>Paulina Booth</persName> of
+                            <persName>E. C. Morgan</persName>
+                        <choice>
+                            <abbr>Esq</abbr>
+                            <expan>Esquire</expan>
+                        </choice>. Attorney at Law of <placeName>Washington D.C.</placeName> and
+                            <persName>Evelene</persName> his wife, as per bill of sale, <date
+                            when="1858-09-20">Sept. 20th 1858</date> for seven hundred dollars which
+                        bill of sale is recorded in the Land Records of <placeName>Washington
+                            Co.</placeName> in Liber J.A.S. No 16, fol. 153 and he has mislaid the
+                        original bill of sale, so that he cannot produce it, He purchased the said
+                            <hi rend="underline">
+                            <persName>Sarah Fairfax</persName></hi> with her child <hi
+                            rend="underline">
+                            <persName>William</persName></hi>, then a small infant, and <hi
+                            rend="underline">
+                            <persName>Florida</persName></hi> and <hi rend="underline">
+                            <persName>Anna</persName></hi> of Major <hi rend="underline">
+                            <persName>Richard B. Lee</persName></hi> then of the U.S. Army, in
+                            <placeName>Washington D.C.</placeName> in the year <date>1854</date> for
+                        the sum of six-hundred dollars. very cheap, but <persName>Florida</persName>
+                        &#38; <persName>Anna</persName> were both small at the time&#8212;the bill
+                        of sale is in the possession of <hi rend="underline"><persName>B. F.
+                                MacKall</persName></hi>
+                        <choice>
+                            <abbr>Esq</abbr>
+                            <expan>Esquire</expan>
+                        </choice>, who had mislaid it.</seg></p>
+                <ab type="handwritten">the said <persName>Frank</persName>,
+                        <persName>Thomas</persName>, <persName>Joseph</persName>,
+                        <persName>Sally</persName> and <persName>Charles</persName> have been born
+                    of the said <persName>Paulina</persName>, <persName>Sarah</persName> and
+                        <persName>Florida</persName> since their said purchase by this
+                    petitioner.</ab>
+
+                <p>That your petitioner's claim to the service or labor of said <seg
+                        type="handwritten">ten persons</seg> was, at the time of said discharge
+                    therefrom, of the value of <seg type="handwritten">four thousand nine
+                        hundred</seg> dollars in money.<note type="government" place="foot"
+                        xml:id="n3">Here state such facts, if any there be, touching the value of
+                        the petitioner's claim to the service or labor of the person, as may enhance
+                        the same, and also such facts, if any, touching the moral, mental, and
+                        bodily infirmities or defects of said person, as impair the value of the
+                        petitioner's claim to such service or labor, and conclude such statement
+                        with an averment that the petitioner knows of no other infirmities or
+                        defects of said person which impair the value of petitioner's claim to such
+                        service or labor, and that he believes none other to exist. If the
+                        petitioner specify no such infirmity or defect, then his statement touching
+                        the value of his claim should conclude with an averment that he has no
+                        knowledge of any such infirmity or defect.</note>
+                    <seg type="handwritten">as he has no knowledge of any mental, moral or bodily
+                        defect in any or either of said persons, and he values them as follows: <hi
+                            rend="underline"><persName>Paulina</persName></hi> and <hi
+                            rend="underline"><persName>Sarah</persName></hi> each $1000: <hi
+                            rend="underline"><persName>Florida</persName></hi> $900: <hi
+                            rend="underline"><persName>Anna</persName></hi> $800&#8212; <hi
+                            rend="underline"><persName>Anna</persName></hi> $500: <hi
+                            rend="underline"><persName>Frank</persName></hi> $250: <hi
+                            rend="underline"><persName>Thomas</persName></hi> $200: <hi
+                            rend="underline"><persName>Joseph</persName></hi> $100: <hi
+                            rend="underline"><persName>Sally</persName></hi> $100: <hi
+                            rend="underline"><persName>Charles</persName></hi> $50.</seg>
+                </p>
+
+                <ab type="handwritten">(These persons always lived in the <placeName>District of
+                        Columbia</placeName> and are still in the <placeName>District of
+                        Columbia</placeName>,)</ab>
+
+                <p>Your petitioner hereby declares that <seg type="handwritten">he</seg> bears true
+                    and faithful allegiance to the Government of the United States, and that <seg
+                        type="handwritten">he</seg> has not borne arms against the United States in
+                    the present rebellion, nor in any way given aid or comfort thereto.</p>
+
+                <p>And your petitioner further states and alleges, that <seg type="handwritten">he</seg> has not brought said <seg type="handwritten">persons or either of them</seg> into the District of Columbia since the passage of said act of
+                    Congress; and that, at the time of the passage thereof, said <seg type="handwritten">persons were</seg>
+                    <del>was</del> held to service or labor therein under and by virtue
+                    of your petitioner's claim to such service or labor.</p>
+
+                <p>Your petitioner further states and alleges, that <seg type="handwritten">his</seg> said claim to the service or labor of said <seg type="handwritten">persons or either of them</seg> does not originate in or
+                    by virtue of any transfer heretofore made by any person who has in any manner
+                    aided or sustained the present rebellion against the Government of the United
+                    States.</p>
+
+                <p>And your petitioner prays the said Commissioners to investigate and determine the
+                    validity of <seg type="handwritten">his</seg> said claim to the service or labor
+                    of said <seg type="handwritten">persons as</seg> herein above set forth; and if
+                    the same be found to be valid, that they appraise and apportion the value of
+                    said claim in money, and report the same to the Secretary of the Treasury of the
+                    United States, in conformity to the provisions of said act of Congress.</p>
+
+                <closer> (Signed by) <signed><seg type="handwritten">his X mark <persName>Robert Gunnell</persName></seg></signed></closer>
+                    <closer><seg type="handwritten">Test</seg>
+                        <signed><seg type="handwritten"><persName>R White</persName></seg>
+                    </signed>
+                </closer>
+            </div1>
+
+            <pb xml:id="leaf003r" facs="cww.00442.004.jpg"/>
+
+            <div1 type="oath" subtype="mixed">
+                <head type="main">[<hi rend="italic">Form of the Oath for the Verification of the
+                        Petition.</hi>]</head>
+
+                <dateline>
+                    <placeName>District of Columbia</placeName>,<lb/>                    
+                    <hi rend="italic"><placeName>Washington County</placeName>, ss.</hi>
+                </dateline>
+
+                <div2 type="section">
+                    <p>I, <seg type="handwritten"><persName>Robert Gunnell</persName></seg> being
+                        duly sworn, do depose and say, that all the several matters and things which
+                        are set forth and stated in the foregoing petition, as of my own knowledge,
+                        are true in substance and in fact; and that all the several other matters
+                        and things therein set forth and stated, as from the information of others,
+                        I believe to be true in substance and in fact.</p>
+                    <closer> (Signed by) <signed><seg type="handwritten">his X mark <persName>Robert Gunnell</persName></seg></signed></closer>
+                    <closer><seg type="handwritten">Test</seg>
+                                <signed><seg type="handwritten"><persName>R White</persName></seg></signed></closer>
+                </div2>
+
+                <div2 type="section">
+                    <p>Sworn to and subscribed before me this <date when="1862-05-26">
+                            <seg type="handwritten">26th</seg> day of <seg type="handwritten">May</seg> A. D. 1862</date>. </p>
+                    <closer> (Signed by) <signed>
+                            <seg type="handwritten">
+                                <persName>Robert White</persName>
+                                <lb/>J. Peace</seg>
+                        </signed>
+                    </closer>
+                </div2>
+            </div1>
+
+            <div1 type="cover" subtype="handwritten">
+                <note type="editorial">The following note, about the filing of the petition, has
+                    been imaged twice in the National Archives microfilm, but the note occurs in
+                    only one place in the petition: written horizontally on the final page, the Oath
+                    for the Verification.</note>
+                <ab>442</ab>
+                <ab>Petition of <hi rend="underline"><persName>Robert Gunnell</persName></hi></ab>
+                <ab>Ten Slaves</ab>
+                <ab>Witnesses <lb/>
+                    <persName>Benj. F. Mackall</persName>, <lb/>
+                    <persName>E. C. Morgan</persName>. <lb/> &#38; Records.</ab>
+                <ab>Filed <date when="1862-05-26">May 26, 1862</date></ab>
+                <ab><persName>Paulina Booth</persName></ab>
+                <ab><persName>Sarah Fairfax</persName></ab>
+                <ab><persName>William Fairfax</persName></ab>
+                <ab><persName>Frank Fairfax</persName></ab>
+                <ab><persName>Thomas Fairfax</persName></ab>
+                <ab><persName>Joseph Farifax</persName></ab>
+                <ab><persName>Florida Gunnell</persName></ab>
+                <ab><persName>Anna Gunnell</persName></ab>
+                <ab><persName>Charles Gunnell</persName></ab>
+                <ab><persName>Sally Booth</persName></ab>
+            </div1>
+        </body>
+    </text>
+</TEI>

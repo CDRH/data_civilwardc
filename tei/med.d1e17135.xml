@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e17135">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title level="m" type="main">Kennedy, Charles</title>
+        <title level="m" type="sub">a machine readable transcription</title>
+        <principal>Susan C. Lawrence</principal>
+        <principal>Kenneth M. Price</principal>
+        <principal>Kenneth J. Winkle</principal>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <date>2011</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <idno>med.d1e17135</idno>
+        <authority>Civil War Washington</authority>
+        <publisher>University of Nebraska–Lincoln</publisher>
+        <distributor>
+          <name>Center for Digital Research in the Humanities</name>
+          <address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+        </distributor>
+        <date>2011</date>
+        <availability>
+          <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution
+            or republication in any medium, except as allowed under the Fair Use provisions of U.S.
+            copyright law, requires express written consent from the editors and advance
+            notification of the publisher, the University of Nebraska–Lincoln.</p>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="project">The following are responsible for particular readings or for changes to
+          this file, as noted: 
+ <persName xml:id="kmp">Kenneth M. Price</persName> <persName xml:id="ajh">AJ Howell</persName>
+          <persName xml:id="mb">Matthew Bosley</persName>
+          <persName xml:id="el">Elizabeth Lorang</persName>
+          <persName xml:id="sb">Stacey Berry</persName>
+          <persName xml:id="et">Elisabeth Tracey</persName>
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>
+          <title>The Medical and Surgical History of the War of the Rebellion.
+            (1861&#8211;65.)</title>
+          <editor role="compiler">Surgeon General Joseph K. Barnes, United States Army</editor>
+          <pubPlace>Washington, D.C.</pubPlace>
+          <publisher>Government Printing Office</publisher>
+          <biblScope type="part">Part 1</biblScope>
+          <biblScope type="volume">Volume 2</biblScope>
+          <date when="1870">1870</date>
+          <biblScope type="page">294-295</biblScope>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <classDecl>
+        <taxonomy xml:id="medsurg">
+          <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="#medsurg">
+          <term>wounds and injuries of the head</term>
+          <term>hernia cerebri after gunshot fractures of the skull</term>
+          <term>fungus cerebri</term>
+          <term>leeches applied</term>
+          <term>discharged and pensioned</term>
+          <term>vertigo</term>
+          <term>cephalgia</term>
+          <term>wound removed superior portion of occipital bone</term>
+          <term>destroyed membranes, substance of brain protruded</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+ <change who="#kmp" when="2014-05">blessed</change>
+      <change who="#ajh" when="2013-08-19">added figure encoding</change>
+      <change who="#mb" when="2011-09-02">additional proofing of transcription and encoding</change>
+      <change who="#el" when="2011-11-05">case text extracted and transformed from larger
+        file</change>
+      <change who="#sb" when="2011-02-09">enriched encoding</change>
+      <change who="#sb" when="2011-01-28">validated file</change>
+      <change who="#et" when="2009-08-01">encoded</change>
+      <change who="#sb" when="2008-09-22">initial checking of OCR text against PDF; encoded
+      </change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+
+      <p><hi rend="initialcap">C</hi>ASE.&#8212;<name type="person">Lieutenant Charles
+          Kennedy</name>, <name type="organization">Co. I, 28th Pennsylvania Volunteers</name>, aged
+        25 years, was wounded at the battle of <name type="BATTLE" key="257">Chancellorsville,
+          Virginia</name>, <date type="injury" when="1863-05-02">May 2d, 1863</date>, by a fragment
+        of shell, which produced a wound two inches long and one inch wide, removing the superior
+        portion of the occipital bone one inch to the right of the median line, destroying the
+        membranes so that the substance of the brain protruded about one and a half inches. On <date
+          type="admit" when="1863-05-07">May 7th</date>, he was admitted to <name type="hospital"
+          >Armory Square Hospital</name>, Washington. The wound had a burnt and black appearance,
+        and the pulsation of the brain was very distinct with every beat of the heart. The patient's
+        intellect was greatly impaired, and there was total loss of vision, so that he could not
+        distinguish day from night. The pulse was at 60 and full, and there was partial loss of
+        power in the lower extremities. After admission to hospital, the hair was closely shaven
+        around the wound, and the dead tissue was removed by sponging with tepid water. His bowels
+        were constipated for seven days from the date of the injury, and he had scarcely any sleep.
+        Cathartics, injections, and anodynes were administered. On <date type="injury"
+          when="1863-05-11">May 11th</date>, twelve leeches were applied to each temple, and three
+        behind each ear. On the following day the symptoms were greatly ameliorated. On <date
+          type="operation" when="1863-05-13">May 13th</date>, spicul&#230; of bone were removed, and
+        also on <date type="operation" when="1863-05-15">the 15th</date>, when the fungus had
+        receded somewhat, and a healthy granulation was progressing. His appetite was good, no
+        fever, vision partially restored, and able to get out of bed. He continued to improve, and
+        on June 16th the fungus had entirely retracted, and vision was restored. The intellect was
+        perfect and the general health good. On <date type="furlough" when="1863-06-20">June
+          20th</date>, <name type="person">Lieutenant Kennedy</name> went home on leave of absence.
+        He was subsequently admitted to the <name type="hospital">Officers' Hospital at
+          Philadelphia</name>. On <date type="injury" when="1863-09-09">September 9th, 1863</date>,
+        the wound had entirely healed. On <date type="duty" when="1863-11-12">November 12th</date>,
+        he was ordered before an examining board at <name type="place">Annapolis</name>, and was
+        returned to duty <date type="duty" when="1864-01-12">January 12th, 1864</date>. On <date
+          type="admit" when="1864-05-05">May 5th, 1864</date>, he was admitted to the field hospital
+        at <name type="place">Lookout Mountain</name>, being again returned to duty about <date
+          type="duty" when="1864-07">July, 1864</date>. He was discharged the service <date
+          type="servicedischarge" when="1864-07-20"> July 20th, 1864</date>, and afterward
+        pensioned. <name type="person">Pension Examiner Wilson Jewell</name>, under date of <date
+          type="pension" when="1865-04-19">April 19th, 1865</date>, reported that the patient
+        suffers from cephalalgia, vertigo, and weakness, when exposed to the sun or much excited.
+        His disability was rated one-third and temporary. It was subsequently stated by <name
+          type="person">Dr. C. C. McGlaughlin</name>, late surgeon <name type="organization">95th
+          Pennsylvania Volunteers</name>, that he attended <name type="person">Lieutenant
+          Kennedy</name> in his last illness, and that he died <date type="death" when="1865-12-15"
+          >December 15th, 1865</date>, from the effects of a wound in his head. The plate opposite
+        illustrates the appearance of the wound in <date type="injury" when="1863-05">May and June,
+          1863</date>. </p>
+
+      <figure>
+        <graphic url="cww.001428.001"/>
+        <head>
+          <hi rend="initialcap">P</hi>LATE <hi rend="initialcap">VII</hi>. HERNIA CEREBRI FOLLOWING
+          GUNSHOT FRACTURE OF THE OCCIPITAL. <hi rend="italic">Two figures</hi>: Case of
+          Kennedy.</head>
+      </figure>
+
+    </body>
+  </text>
+</TEI>

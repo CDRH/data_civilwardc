@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e16344">
+                <teiHeader>
+                                <fileDesc>
+                                                <titleStmt>
+                                                                <title level="m" type="main">&#8212;&#8212;, X.</title>
+                                                  <title level="m" type="sub">a machine readable
+                                                  transcription</title>
+                                                  <principal>Susan C. Lawrence</principal>
+                                                  <principal>Kenneth M. Price</principal>
+                                                  <principal>Kenneth J. Winkle</principal>
+                                                </titleStmt>
+                                                <editionStmt>
+                                                  <edition>
+                                                  <date>2011</date>
+                                                  </edition>
+                                                </editionStmt>
+                                                <publicationStmt>
+                                                  <idno>med.d1e16344</idno>
+                                                  <authority>Civil War Washington</authority>
+                                                  <publisher>University of
+                                                  Nebraska–Lincoln</publisher>
+                                                  <distributor>
+                                                  <name>Center for Digital Research in the
+                                                  Humanities</name>
+                                                  <address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+                                                  </distributor>
+                                                  <date>2011</date>
+                                                  <availability>
+                                                  <p>Copyright © 2011 by University of
+                                                  Nebraska–Lincoln, all rights reserved.
+                                                  Redistribution or republication in any medium,
+                                                  except as allowed under the Fair Use provisions of
+                                                  U.S. copyright law, requires express written
+                                                  consent from the editors and advance notification
+                                                  of the publisher, the University of
+                                                  Nebraska–Lincoln.</p>
+                                                  </availability>
+                                                </publicationStmt>
+                                                <notesStmt>
+                                                  <note type="project">The following are responsible for particular readings or for changes to this file, as noted: 
+                                                                  <persName xml:id="mb">Matthew Bosley</persName>
+                                                                  <persName xml:id="el">Elizabeth Lorang</persName>
+                                                  <persName xml:id="sb">Stacey Berry</persName>
+                                                  <persName xml:id="et">Elisabeth Tracey</persName>
+                                                  </note>
+                                                </notesStmt>
+                                                <sourceDesc>
+                                                  <bibl>
+                                                  <title>The Medical and Surgical History of the War of the Rebellion. (1861&#8211;65.)</title>
+                                                  <editor role="compiler">Surgeon General Joseph K. Barnes, United States Army</editor>
+                                                  <pubPlace>Washington, D.C.</pubPlace>
+                                                  <publisher>Government Printing Office</publisher>
+                                                  <biblScope type="part">Part 1</biblScope>
+                                                  <biblScope type="volume">Volume 2</biblScope>
+                                                  <date when="1870">1870</date>
+                                                  <biblScope type="page">250</biblScope>
+                                                  </bibl>
+                                                </sourceDesc>
+                                </fileDesc>
+                                <encodingDesc>
+                                                <classDecl>
+                                                  <taxonomy xml:id="medsurg">
+                                                  <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+                                                  </taxonomy>
+                                                </classDecl>
+                                </encodingDesc>
+                                <profileDesc>
+                                                <textClass>
+                                                  <keywords scheme="#medsurg">
+                                                    <term>on special wounds and injuries of the head</term>
+                                                    <term>wounds and injuries of the head</term>
+                                                    <term>gunshot wounds</term>
+                                                    <term>gunshot fractures of the cranial bones</term> 
+                                                    <term>removal of fragments after gunshot fractures of the skull</term>
+                                                    <term>fatal cases of gunshot fractures of the skull treated by the removal or elevation fragments</term>
+                                                    <term>treated by operation, not by formal trephining</term>
+                                                    <term>extent of injury ascertained with precision, organic alterations accurately observed</term>
+                                                    <term>conoidal ball perforated frontal bone to right of median line, dura mater penetrated, splinters driven into brain</term>
+                                                    <term>pupils dilated, right side and bladder paralyzed, deglutition difficult</term>
+                                                    <term>frontal and temporal bones fissured, fracture of temporal bone extending nearly to ear</term>
+                                                    <term>conoidal ball found in middle lobe of right hemisphere</term>                                                   
+                                                    <term>autopsy performed</term>                                                    
+                                                  </keywords>
+                                                </textClass>
+                                </profileDesc>
+                                <revisionDesc>
+                                                <change who="#mb" when="2013-08-07">additional proofing of transcription and encoding, edited and added keyword terms</change>  
+                                                <change who="#mb" when="2011-08-03">additional proofing of transcription and encoding</change>
+                                                <change who="#el" when="2011-11-05">case text extracted and transformed from larger file</change>
+                                                <change who="#sb" when="2011-02-09">enriched encoding</change>
+                                                <change who="#sb" when="2011-01-28">validated file</change>
+                                                <change who="#et" when="2009-08-01">encoded</change>
+                                                <change who="#sb" when="2008-09-22">initial checking of OCR text against PDF; encoded</change>
+                                </revisionDesc>
+                </teiHeader>
+                <text>
+                                <body>                                                
+                                                <p><hi rend="initialcap">C</hi>ASE.&#8212;<name type="person">Captain <hi rend="italic">X</hi>. &#8212;&#8212;</name>, a Confederate officer, was
+                                                                admitted into <name type="hospital" key="175">Stanton Hospital</name>, Washington, on <date type="admit" when="1864-05-18">May
+                                                                                18th, 1864</date>, in a comatose condition.  He had been
+                                                                wounded at <name type="BATTLE" key="3"><choice><orig>Spottsylvania</orig><reg>Spotsylvania</reg></choice></name> on <date type="injury" when="1864-05-12">the 12th</date> by a conoidal
+                                                  ball, which perforated the frontal bone to the
+                                                  right of the median line. The dura mater was
+                                                  penetrated, and several splinters were driven into
+                                                  the brain.  On <date type="operation" when="1864-05-19">May 19th</date>, he was still in a comatose
+                                                  condition; the pupils widely dilated; breathing
+                                                  stertorous, with puffing of the corners of the
+                                                  mouth; right side and bladder paralyzed; pulse
+                                                  108, and full; deglutition difficult. <name type="person" key="459">Assistant Surgeon George A. Mursick</name>, <name type="organization" key="132">U. S. V.</name>, enlarged the
+                                                  wound by a <choice><orig>crucial</orig><reg>cruciate</reg></choice> incision, and removed several
+                                                  large splinters with an elevator. Ice was applied
+                                                  to the head, and a stimulating enema was ordered,
+                                                  and the urine was drawn off by a catheter.  On the
+                                                  following morning the coma was yet more profound,
+                                                  and the patient died during the day, <date type="death" when="1864-05-20">May 20th, 1864</date>.  At the autopsy, the right frontal and
+                                                  temporal bones were found to be fissured, the
+                                                  fracture of the temporal bone extending nearly to
+                                                  the ear. A conoidal ball was found in the middle
+                                                  lobe of the right hemisphere; also a plastic
+                                                  exudation on the vertex, between the dura mater
+                                                  and the arachnoid.  The pathological specimen is
+                                                  No. 2683, Sect. I, A. M. M.  The opening in the
+                                                  frontal bone is elliptical, measuring
+                                                  three-fourths by one and one-half inches. The
+                                                  fractured surface of the inner table is the
+                                                  larger.  The specimen and history were contributed
+                                                  by <name type="person" key="459">Assistant Surgeon George A. Mursick</name>, <name type="organization" key="132">U. S. V.</name> </p>                                                
+                                </body>
+                </text>
+</TEI>

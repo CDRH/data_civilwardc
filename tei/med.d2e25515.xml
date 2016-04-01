@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d2e25515">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Clark, C. O. F.</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+    <idno>med.d2e25515</idno>
+    <authority>Civil War Washington</authority>
+    <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor><name>Center for Digital Research in the
+     Humanities</name><address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address></distributor>
+    <date>2011</date>
+    <availability>
+     <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+      republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+      law, requires express written consent from the editors and advance notification of the
+      publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+ <persName xml:id="kmp">Kenneth M. Price</persName> 
+     <persName xml:id="ajh">AJ Howell</persName>
+     <persName xml:id="mb">Matthew Bosley</persName>
+     <persName xml:id="el">Elizabeth Lorang</persName>
+     <persName xml:id="sb">Stacey Berry</persName>
+     <persName xml:id="et">Elisabeth Tracey</persName>
+     <persName xml:id="ss">Sarah Synovec</persName>
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title level="j">The Medical and Surgical History of the War of the Rebellion.
+      (1861-65.)</title><pubPlace>Washington, DC</pubPlace><publisher>Government Printing
+      Office</publisher><biblScope type="part">Part 3</biblScope><biblScope type="volume">Volume
+      2</biblScope><date when="1883">1883</date><biblScope type="page">670-671</biblScope></bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+     <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <keywords scheme="#medsurg">
+     <term>miscellaneous injuries</term>
+     <term>operations for miscellaneous injuries</term>
+     <term>amputations</term>
+     <term>amputations in the lower extremities</term>
+     <term>amputations in the leg</term>
+     <term>frost-bitten in feet and hands</term>
+     <term>lost portions of phalanges of both hands</term>
+     <term>portions of lower limbs amputated</term>
+     <term>Chopart's operation on right foot</term>
+     <term>amputation of left leg performed above ankle</term>
+     <term>re-amputation of stump of left leg</term>
+     <term>provided with artificial limbs</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+ <change who="#kmp" when="2014-05">blessed</change>
+   <change who="#ajh" when="2013-08-23">added figure encoding</change>
+   <change who="#mb" when="2012-06-21">additional proofing of transcription and encoding, identified
+    keyword terms</change>
+   <change who="#el" when="2011-05-11">case text extracted and transformed from larger file</change>
+   <change who="#sb" when="2011-06-04">Enrich Encoding, Edit and validate</change>
+   <change who="#sb" when="2011-01-28">Validated File</change>
+   <change who="#ss" when="2008-09-22">initial checking of OCR text; encoded P5 Encoding</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p><hi rend="initialcap">C</hi>ASE 1004.&#8212;<hi rend="italic">Amputation in the
+     leg.</hi>&#8212;<name type="person" key="1450">Private C. O. F. Clark</name>, <name
+     type="organization" key="542">Co. G, 1st Oregon</name>, aged 35 years, was frost-bitten in his
+    feet and hands while on march between Owyhee and Malheur rivers, Idaho, <date type="injury"
+     when="1865-12-17">December 17, 1865</date>. He was conveyed to <name type="hospital" key="xx"
+     >Camp Auburn</name>, where portions of the lower limbs were amputated by <name type="person"
+     key="xx">Acting Assistant Surgeon M. V. Amen</name> on <date type="operation" when="1866-01-17"
+     >January 17, 1866</date>. The patient recovered, and was mustered out of service <date
+     type="servicedischarge" when="1866-04-14">April 14, 1866</date>, and pensioned. Having been
+    sent East, after receiving his discharge from service, for the purpose of being provided with
+    artificial limbs, he was admitted to the <name type="hospital" key="89">Post Hospital</name> at
+    Washington on <date type="admit" when="1867-02-02">February 2, 1867</date>, whence <name
+     type="person" key="200">Assistant Surgeon W. Thomson</name>, <name type="organization"
+     key="190">U. S. A.</name>, described the case as follows: "The operation seems to have been
+    Chopart's, on the right foot, which had entirely healed when the patient was admitted. The stump
+    was firm and well formed, but so sensitive for the space of one and a half inches from the
+    cicatrix that the man desired the limb to be removed at a point above the ankle. The amputation
+    of the left leg had been performed about six inches above the ankle and had failed to close from
+    the presence of a ligature. After this was removed the stump healed entirely. The patient had
+    also lost portions of the phalanges of both hands from the same cause. On <date type="pension"
+     when="1867-05-22">May 22, 1867</date>, he was furnished transportation to <name type="place"
+     >New York City</name> to be fitted with artificial limbs." These were supplied by the firm of
+     <name type="organization" key="xx">Monroe and Gardiner</name>. Re-amputation of the stump of
+    the left leg subsequently became necessary and was performed by <name type="person" key="xx"
+     >Professor F. H. Hamilton</name>, at <name type="hospital" key="xx">Bellevue Hospital</name>,
+    on <date type="operation" when="1868-11-09">November 9, 1868</date>. Several years later, when
+    the pensioner was supplied with artificial limbs by <name type="person" key="xx">D. W.
+     Kolbe</name>, of <name type="place" key="xx">Philadelphia</name>, both stumps were reported as
+    being in a sound condition. The pensioner was paid <date type="pension" when="1881-12-04"
+     >December 4, 1881</date>. Casts of the stump of the foot and of the leg were prepared at the
+     <name type="hospital" key="431">Army Medical Museum</name>, and constitute specimens 4128 and
+    4191, respectively, of the <hi rend="italic">Surgical Section</hi>. The latter is represented in
+    the annexed wood-cut (<hi rend="initialcap">F</hi>IG. 371) and apparently shows the amputation
+    to have been performed by the posterior flap-method.&#185;</p>
+   <p>&#185; <hi rend="italic">Account of Several Amputations, etc.</hi>, in <hi rend="italic"
+     >Circular</hi> No. 3, S. G. O., Washington, 1871, p. 197.</p>
+   <figure><graphic url="cww.001662.001"/><head><hi rend="initialcap">F</hi>IG. 371.&#8212;Stump after posterior flap amputation of leg. <hi
+    rend="italic">Spec</hi>. 4191.</head></figure>
+   <figure><graphic url="cww.001656.001"/><head><hi rend="initialcap">F</hi>IG. 361.&#8212;<hi rend="initialcap">C</hi>HOPART'S amputation of
+    the foot. [After <hi rend="initialcap">E</hi>SMARCH.]</head></figure>
+  </body>
+ </text>
+</TEI>

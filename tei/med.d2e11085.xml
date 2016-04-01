@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d2e11085">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Crawford, J. A.</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+    <idno>med.d2e11085</idno>
+    <authority>Civil War Washington</authority>
+    <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor>
+     <name>Center for Digital Research in the Humanities</name>
+     <address><addrLine>319 Love Library</addrLine>
+       <addrLine>University of Nebraska–Lincoln</addrLine>
+       <addrLine>Lincoln, NE 68588-4100</addrLine>
+       <addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+    </distributor>
+    <date>2011</date>
+    <availability>
+     <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+      republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+      law, requires express written consent from the editors and advance notification of the
+      publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+ <persName xml:id="kmp">Kenneth M. Price</persName> 
+     
+     <persName xml:id="ajh">AJ Howell</persName>
+     <persName xml:id="mb">Matthew Bosley</persName>
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl>
+     <title level="j">The Medical and Surgical History of the War of the Rebellion.
+      (1861-65.)</title>
+     <pubPlace>Washington, DC</pubPlace>
+     <publisher>Government Printing Office</publisher>
+     <biblScope type="part">Part 3</biblScope>
+     <biblScope type="volume">Volume 2</biblScope>
+     <date when="1883">1883</date>
+     <biblScope type="page">241</biblScope>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+     <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <keywords scheme="#medsurg">
+     <term>wounds and injuries of the lower extremities</term>
+     <term>injuries of the shaft of the femur</term>
+     <term>amputations in the shaft of the femur</term>
+     <term>primary amputations in the shaft of the femur for shot injury</term>
+     <term>primary amputations in the lower third of the femur</term>
+     <term>recoveries after primary amputations in the lower third of the femur</term>
+     <term>wounded through knee joint</term>
+     <term>general anesthesia, chloroform</term>
+     <term>amputated at lower third of thigh</term>
+     <term>h&#230;morrhage</term>
+     <term>diarrh&#339;a</term>
+     <term>tubular sequestrum and involucrum removed from stump of femur</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+ <change who="#kmp" when="2014-05">blessed</change>
+   <change who="#ajh" when="2013-08-22">added figure encoding</change>
+   <change who="#mb" when="2012-04-20">additional case copied from MSHWR, performed proofing of copy
+    and XML encoding, and key terms identified</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+
+   <p><hi rend="initialcap">C</hi>ASE 444.&#8212;<name type="person" key="xxx">Corporal J. A.
+     Crawford</name>, <name type="organization" key="xxx">Co. K, 6th Wisconsin</name>, aged 24
+    years, was wounded through the knee joint, at <name type="BATTLE" key="2">Gettysburg</name>,
+     <date type="injury" when="1863-07-01">July 1, 1863</date>. He was admitted to the Seminary
+    Hospital, whence <name type="person" key="xxx">Acting Assistant Surgeon W. M. Welch</name> made
+    the following report: &#34;The limb was amputated at the lower third of the thigh on <date
+     type="operation" when="1863-07-02">the day following the injury</date>. The patient, came under
+    my care on August 15th, at which time the stump was granulating slowly and there was a free
+    discharge of healthy pus; but the flaps had sloughed, leaving the end of the femur bare. A
+    roller bandage was applied to prevent retraction of the muscles, and warm-water dressings with
+    disinfectants were used, iron and stimulants being given internally. The patient's general
+    health was disturbed, though his appetite was tolerably fair. He improved gradually, and was
+    transferred to <name type="place" key="xx">Camp Letterman</name> on <date type="transfer"
+     when="1863-09-02">September 2d.</date>&#34; <name type="person" key="xxx">Assistant Surgeon H.
+     C. May</name>, <name type="organization" key="xxx">145th New York</name>, continued the history
+    as follows: &#34;The patient came under my charge on October 12th, being very feeble and
+    troubled with profuse and obstinate diarrh&#339;a, having no appetite, and suffering from hectic
+    fever and much pain, also an abscess along the course of the lower end of the bone. The stump
+    was conical shaped, with the end of the femur exposed, and the granulations were pale and
+    flabby. Astringents and tonics were administered. On <date type="operation" when="1863-10-30"
+     >October 30th</date>, the diarrh&#339;a was almost controlled, but great pain and irritation
+    was felt about the stump, and, chloroform having been given, a sequestrum four and a half inches
+    long, and consisting of a complete section of the lower end of the bone, was removed by forcible
+    traction. The surfaces of the bone were found to be very rough and surrounded with a wall of
+    callus. The patient did well after the operation; the abscesses ceased to discharge, and the
+    cavity in the stump filled with healthy granulations. By November 6th, he had regained a good
+    appetite, the diarrh&#339;a was entirely checked, and his general appearance and condition were
+    rapidly improving.&#34; On <date type="transfer" when="1863-11-07">the next day</date> the
+    patient was transferred to Newton University Hospital, <name type="place">Baltimore</name>,
+    where the following described operation was performed on <date type="operation"
+     when="1864-02-02">February 2, 1864</date>, by <name type="person" key="xx">Surgeon C. W.
+     Jones</name>, <name type="organization" key="132">U. S. V.</name>, in charge: &#34;The end of
+    the femur being necrosed, an incision six inches in length was made on the anterior aspect of
+    the thigh and four inches of bone removed. Thirty-six hours afterwards h&#230;morrhage to the
+    amount of four ounces occurred, when the sutures were removed and a large clot of blood was
+    taken out, after which the bleeding ceased. After this the patient's constitutional condition
+    continued to improve and the flaps approximated. By March 24th, the stump had entirely healed
+    with a good cushion.&#34; The patient was discharged from service <date type="servicedischarge"
+     when="1864-05-03">May 3, 1864</date>, and pensioned. He was paid <date type="pension"
+     when="1879-06-04">June 4, 1879</date>. The sequestrum was contributed to <name type="hospital"
+     key="431">the Museum</name> by <name type="person" key="xxx">Acting Assistant Surgeon E. A.
+     Koerper</name>, and is represented in <hi rend="initialcap">F</hi>IGURE 180, and an involucrum
+    of new bone, removed at the last operation, is shown in <hi rend="initialcap">F</hi>IGURE
+    181.</p>
+   <figure><graphic url="cww.001583.001"/><head><hi rend="initialcap">F</hi>IG. 180.&#8212;Tubular sequestrum removed from stump of the right
+    femur. <hi rend="italic">Spec</hi>. 1971.</head></figure>
+   <figure><graphic url="cww.001584.001"/><head><hi rend="initialcap">F</hi>IG. 181.&#8212;Involucrum, 4 inches in length, from stump of right
+    femur. <hi rend="italic">Spec</hi>. 2153.</head></figure>
+  </body>
+ </text>
+</TEI>

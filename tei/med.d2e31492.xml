@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d2e31492">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Tiffany, Gerald</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+       <idno>med.d2e31492</idno>
+       <authority>Civil War Washington</authority>
+       <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor>
+       <name>Center for Digital Research in the Humanities</name>
+       <address><addrLine>319 Love Library</addrLine>
+       <addrLine>University of Nebraska–Lincoln</addrLine>
+       <addrLine>Lincoln, NE 68588-4100</addrLine>
+       <addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+    </distributor>
+    <date>2011</date>
+    <availability>
+        <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+         republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+         law, requires express written consent from the editors and advance notification of the
+         publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+     <persName xml:id="mb">Matthew Bosley</persName>
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl>
+     <title level="j">The Medical and Surgical History of the War of the Rebellion. (1861-65.)</title>
+     <pubPlace>Washington, DC</pubPlace>
+     <publisher>Government Printing Office</publisher>
+     <biblScope type="part">Part 2</biblScope>
+     <biblScope type="volume">Volume 2</biblScope>
+     <date when="1876">1876</date>
+     <biblScope type="page">20</biblScope>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+       <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+      <keywords scheme="#medsurg">
+       <term>injuries of the abdomen</term>
+       <term>visceral injuries without external wounds</term>
+       <term>ruptures of the kidney</term> 
+       <term>fell between platforms of two railway cars, caught and squeezed between buffers</term>
+       <term>antero-posterior compression to left of umbilicus in front, between crest of ilium and ribs behind</term>
+       <term>ecchymosis in lumbar region</term> 
+       <term>urine bloody, h&#230;maturia</term>
+       <term>peritonitis</term>
+       <term>rupture of kidney, extra-peritoneal urinary extravasation</term>
+       <term>&#339;dema of lower extremities</term>
+       <term>ur&#230;mic infection</term>
+       <term>severe diarrh&#339;a</term>          
+     </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change who="#mb" when="2012-08-02">copied case from MSHWR, added proofing of transcription and encoding, identified keyword terms</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>   
+   <p><hi rend="initialcap">C</hi>ASE 108.&#8212;<name type="person" key="xxx">Private Gerald Tiffany</name>, <name type="organization" key="xxx">27th New York Battery</name>, aged 44 years, falling between the platforms of two railway cars, <date type="injury" when="1864-02-06">February 6, 1864</date>, was caught and squeezed between the buffers. The compression was antero-posterior and over a space to the left of the umbilicus in front, and between the crest of the ilium and the ribs behind. There was ecchymosis in the lumbar region, but the integuments were intact.  The patient was conveyed to <name type="hospital" key="179">Kalorama Hospital</name>.  There was profound collapse, from which he slowly rallied. The abdomen was tender and swollen, the urine bloody. Emollient fomentations were applied and opiates were administered, and diluents and a light diet were prescribed. There were symptoms of peritonitis during the first week, but not of an aggravated character. The h&#230;maturia persisted for three weeks, clots being passed occasionally molded of the form of the ureter. There was <choice><orig>dulness</orig><reg>dullness</reg></choice> of percussion over the left flank.  The symptoms seemed to indicate rupture of the left kidney, with limited and probably extra-peritoneal urinary extravasation. Balsamic remedies were employed, and the bloody appearance of the urine at last disappeared; an albuminous condition of the secretion persisting. &#338;dema of the lower extremities supervened. With occasional amendments, the evidence of ur&#230;mic infection became more confirmed.  The patient had several severe attacks of diarrh&#339;a, and sank and died from the effects of his injuries on <date type="death" when="1864-04-06">April 6, 1864</date>.  No autopsy.</p>     
+  </body>
+ </text>
+</TEI>

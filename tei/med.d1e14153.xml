@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e14153">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">C&#8212;&#8212;, D.</title>
+                <title level="m" type="sub">a machine readable transcription</title>
+                <principal>Susan C. Lawrence</principal>
+                <principal>Kenneth M. Price</principal>
+                <principal>Kenneth J. Winkle</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2011</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <idno>med.d1e14153</idno>
+                <authority>Civil War Washington</authority>
+                <publisher>University of Nebraska–Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+                </distributor>
+                <date>2011</date>
+                <availability>
+                    <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved.
+                        Redistribution or republication in any medium, except as allowed under the
+                        Fair Use provisions of U.S. copyright law, requires express written consent
+                        from the editors and advance notification of the publisher, the University
+                        of Nebraska–Lincoln.</p>
+                </availability>
+            </publicationStmt>
+            <notesStmt>
+                <note type="project">The following are responsible for particular readings or for changes to this file, as noted: 
+                    <persName xml:id="mb">Matthew Bosley</persName>
+                    <persName xml:id="el">Elizabeth Lorang</persName>
+                    <persName xml:id="sb">Stacey Berry</persName>
+                    <persName xml:id="et">Elisabeth Tracey</persName>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>The Medical and Surgical History of the War of the Rebellion. (1861&#8211;65.)</title>
+                    <editor role="compiler">Surgeon General Joseph K. Barnes, United States Army</editor>
+                    <pubPlace>Washington, D.C.</pubPlace>
+                    <publisher>Government Printing Office</publisher>
+                    <biblScope type="part">Part 1</biblScope>
+                    <biblScope type="volume">Volume 2</biblScope>
+                    <date when="1870">1870</date>
+                    <biblScope type="page">200</biblScope>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <classDecl>
+                <taxonomy xml:id="medsurg">
+                    <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme="#medsurg">
+                    <term>on special wounds and injuries of the head</term>
+                    <term>wounds and injuries of the head</term>
+                    <term>gunshot wounds</term>
+                    <term>gunshot fractures of the cranial bones</term> 
+                    <term>penetrating gunshot fractures of the skull</term>
+                    <term>missiles extracted from within the cranium</term>
+                    <term>projectiles penetrated cranial cavity, even imbedded in substance of cerebral hemispheres</term>
+                    <term>penetrating gunshot fractures of the head terminated fatally</term>
+                    <term>conoidal ball fractured anterior inferior angle of right parietal bone and lodged in brain</term>
+                    <term>inner table fractured to greater extent, free edges slightly depressed</term>
+                    <term>caries of fractured surface</term>                    
+                    <term>bone fragments extracted from cranium</term>
+                    <term>cerebral abscess formed</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change who="#mb" when="2013-07-16">additional proofing of transcription and encoding, edited and added keyword terms</change>
+            <change who="#mb" when="2011-07-25">additional proofing of transcription and encoding</change>
+            <change who="#el" when="2011-11-05">case text extracted and transformed from larger file</change>
+            <change who="#sb" when="2011-02-09">enriched encoding</change>
+            <change who="#sb" when="2011-01-28">validated file</change>
+            <change who="#et" when="2009-08-01">encoded</change>
+            <change who="#sb" when="2008-09-22">initial checking of OCR text against PDF; encoded</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body xml:id="ch1.sc3.0263">            
+                <p><hi rend="initialcap">C</hi>ASE.&#8212;<name type="person" key="1593">Private
+                        D. C&#8212;&#8212;</name>, <name type="organization" key="554">Co.
+                        D, 10th Pennsylvania Reserves</name>, aged 26 years, was wounded near <name type="battle" key="96">Old
+                            Church, Virginia</name>, <date type="injury" when="1864-05-30">May 30th, 1864</date>,
+                    by a conoidal ball, which fractured the anterior inferior angle of the right
+                    parietal bone and lodged in the brain.  He was admitted to the hospital, 3d
+                        division, Fifth Corps, <date type="admit" when="1864-05-30">on the same day</date>, and was transferred to the <name
+                        type="hospital" key="175">Stanton Hospital</name> at Washington, on the
+                    <date type="operation" when="1864-06-04"><date type="transfer" when="1864-06-04">4th of June</date></date>. Several
+                    fragments of bone were removed.  A cerebral abscess formed, and death ensued on
+                    <date type="death" when="1864-06-11">the 11th</date>.  The pathological specimen,
+                    No. 2682, Sect. I, A. M. M., is a section of cranium, from which fragments have
+                    been removed for a distance of two inches from before backward, and one-half
+                    inch in width; a fragment, half an inch long, remains <hi rend="italic">in situ</hi>. The inner table
+                    is fractured to a somewhat greater extent, and two small fragments remain, with
+                    their free edges slightly depressed. There is caries of the fractured surface,
+                    but no distinct attempt at repair.   The specimen and history were contributed by
+                        <name type="person" key="459">Assistant Surgeon G. A. Mursick</name>, <name
+                        type="organization" key="132">U. S. V.</name></p>            
+        </body>
+    </text>
+</TEI>

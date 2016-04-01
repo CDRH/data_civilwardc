@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e16914">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title level="m" type="main">E&#8212;&#8212;, John</title>
+        <title level="m" type="sub">a machine readable transcription</title>
+        <principal>Susan C. Lawrence</principal>
+        <principal>Kenneth M. Price</principal>
+        <principal>Kenneth J. Winkle</principal>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <date>2011</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <idno>med.d1e16914</idno>
+        <authority>Civil War Washington</authority>
+        <publisher>University of Nebraska–Lincoln</publisher>
+        <distributor>
+          <name>Center for Digital Research in the Humanities</name>
+          <address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+        </distributor>
+        <date>2011</date>
+        <availability>
+          <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution
+            or republication in any medium, except as allowed under the Fair Use provisions of U.S.
+            copyright law, requires express written consent from the editors and advance
+            notification of the publisher, the University of Nebraska–Lincoln.</p>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="project">The following are responsible for particular readings or for changes to
+          this file, as noted: 
+ <persName xml:id="kmp">Kenneth M. Price</persName> <persName xml:id="ajh">AJ Howell</persName>
+          <persName xml:id="mb">Matthew Bosley</persName>
+          <persName xml:id="el">Elizabeth Lorang</persName>
+          <persName xml:id="sb">Stacey Berry</persName>
+          <persName xml:id="et">Elisabeth Tracey</persName>
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>
+          <title>The Medical and Surgical History of the War of the Rebellion.
+            (1861&#8211;65.)</title>
+          <editor role="compiler">Surgeon General Joseph K. Barnes, United States Army</editor>
+          <pubPlace>Washington, D.C.</pubPlace>
+          <publisher>Government Printing Office</publisher>
+          <biblScope type="part">Part 1</biblScope>
+          <biblScope type="volume">Volume 2</biblScope>
+          <date when="1870">1870</date>
+          <biblScope type="page">278</biblScope>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <classDecl>
+        <taxonomy xml:id="medsurg">
+          <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="#medsurg">
+          <term>wounds and injuries of the head</term>
+          <term>trephining after gunshot fractures of the skull</term>
+          <term>recovery with disability</term>
+          <term>general anesthesia, ether</term>
+          <term>hemiplegia</term>
+          <term>difficulty in articulation, tripping of one foot in walking</term>
+          <term>pistol ball caused compound fracture of both tables of os frontis near temporal
+            bone</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+ <change who="#kmp" when="2014-05">blessed</change>
+      <change who="#ajh" when="2013-08-19">added figure encoding</change>
+      <change who="#mb" when="2011-08-25">additional proofing of transcription and encoding</change>
+      <change who="#el" when="2011-11-05">case text extracted and transformed from larger
+        file</change>
+      <change who="#sb" when="2011-02-09">enriched encoding</change>
+      <change who="#sb" when="2011-01-28">validated file</change>
+      <change who="#et" when="2009-08-01">encoded</change>
+      <change who="#sb" when="2008-09-22">initial checking of OCR text against PDF; encoded
+      </change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+
+      <p><hi rend="initialcap">C</hi>ASE.&#8212;<name type="person">Private John
+          E&#8212;&#8212;</name>, <name type="organization">Co. C, 39th New York Volunteers</name>,
+        aged 35 years, was wounded in a melee in a railroad car, near <name type="place">Chicago,
+          Illinois</name>, <date type="injury" when="1862-11-16">November 16th, 1862</date>, by a
+        pistol ball, which caused a compound fracture of both tables of the <hi rend="italic">os
+          frontis</hi>, right side, near the border of the temporal bone. He arrived at <name
+          type="place" key="#Washington">Washington</name> on <date type="admit" when="1862-11-26"
+          >the 26th</date>, and was admitted to <name type="hospital" key="171">Armory Square
+          Hospital</name>, being quite delirious. There was much tumefaction, and extensive
+        suppuration had already commenced. His strength, appetite, and secretions were normal, his
+        pulse slightly accelerated and tense. An examination revealed a wound of the scalp, two
+        inches in length, crossing the coronal suture at right angles, two inches above the border
+        of the temporal bone. On the morning after admission, the delirium was so intense that it
+        was impossible to keep the patient in the ward. There was occasional difficulty in
+        articulation and a tripping of the left foot in walking, denoting slight hemiplegia. The
+        memory was somewhat impaired, but lucid intervals occurred. The constitutional symptoms had
+        remained the same, denoting irritation rather than compression of the brain. On <date
+          type="operation" when="1862-11-22">the 22d</date>, the tumefaction having somewhat
+        subsided, a further examination revealed another wound of the scalp, one and a half inches
+        below the first, and a ball imbedded in the cranium. Ether was administered and an incision
+        made through the integument. The trephine was then applied, and the portion of the cranium
+        containing the ball was removed, as also a fragment of the inner table, triangular in shape,
+        three-eighths of an inch in length and one-fourth of an inch in width at the base. The
+        latter was found driven into the substance of the brain, piercing the dura mater and
+        standing point downward, its broad base displacing the meningea media. After the operation
+        the patient rose from the table, perfectly sane, and walked to his bed. Cold water dressings
+        were applied, laxatives administered, and low diet ordered, and by the 25th he was improving
+        rapidly, there having been no delirium since the operation. On <date type="injury"
+          when="1862-12-10">December 10th</date>, the general health of the patient was good, and
+        the wound across the coronal suture had nearly closed by healthy granulations. The wound of
+        operation had healed by first intention, except at the place where the flaps met; at that
+        point there was healthy granulation going on. On <date type="servicedischarge"
+          when="1863-01-06">January 6th, 1863</date>, he was discharged from the service, having
+        entirely recovered. The specimen removed is a disk of bone, one-half an inch in diameter,
+        with fracture and depression of both tables, and was contributed by <name type="person"
+          >Surgeon D. W. Bliss</name>, <name type="organization" key="132">U. S. V.</name> It is
+        figured in the wood-cut.</p>
+      <figure>
+        <graphic url="cww.001424.001"/>
+        <head>
+          <hi rend="initialcap">F</hi>IG. 140.&#8212;Disk with a depressed gunshot fracture its
+          centre. <hi rend="italic">Spec</hi>. 422, Sect. I, A. M. M.</head>
+      </figure>
+
+    </body>
+  </text>
+</TEI>

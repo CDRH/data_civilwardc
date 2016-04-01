@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d2e16297">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Derr, J. W.</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+    <idno>med.d2e16297</idno>
+    <authority>Civil War Washington</authority>
+    <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor><name>Center for Digital Research in the
+     Humanities</name><address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address></distributor>
+    <date>2011</date>
+    <availability>
+     <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+      republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+      law, requires express written consent from the editors and advance notification of the
+      publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+     <persName xml:id="mb">Matthew Bosley</persName>
+     <persName xml:id="el">Elizabeth Lorang</persName>
+     <persName xml:id="sb">Stacey Berry</persName>
+     <persName xml:id="et">Elisabeth Tracey</persName>
+     <persName xml:id="ss">Sarah Synovec</persName>
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title level="j">The Medical and Surgical History of the War of the Rebellion.
+      (1861-65.)</title><pubPlace>Washington, DC</pubPlace><publisher>Government Printing
+      Office</publisher><biblScope type="part">Part 3</biblScope><biblScope type="volume">Volume
+      2</biblScope><date when="1883">1883</date><biblScope type="page">390</biblScope></bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+     <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <keywords scheme="#medsurg">
+     <term>wounds and injuries of the lower extremities</term> 
+     <term>wounds and injuries of the knee joint</term>
+     <term>excisions at the knee joint for shot injury</term> 
+     <term>primary excisions at the knee joint</term>
+     <term>fatal cases of primary excision of the knee joint</term> 
+     <term>recourse to amputation of thigh</term> 
+     <term>ball struck patella of knee laterally, shattering patella into fragments, not involving knee joint proper</term>
+     <term>entire patella excised</term>     
+    </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change who="#mb" when="2012-05-29">additional proofing of transcription and encoding, identified keyword terms</change>
+   <change who="#el" when="2011-05-11">case text extracted and transformed from larger file</change>
+   <change who="#sb" when="2011-06-04">Enrich Encoding, Edit and validate</change>
+   <change who="#sb" when="2011-01-28">Validated File</change>
+   <change who="#ss" when="2008-09-22">initial checking of OCR text; encoded P5 Encoding</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>   
+    <p><hi rend="initialcap">C</hi>ASE 605.&#8212;<name type="person" key="1211">Private J. W.
+      Derr</name>, <name type="organization" key="478">Co. E, 7th Maryland</name>, aged 18 years,
+     was wounded at <name type="BATTLE" key="79">Hatcher's Run</name>,<date type="injury"
+      when="1865-03-31"> March 31, 1865</date>, and admitted to the field hospital of the 2d division, Fifth Corps. <name type="person" key="xx">Surgeon
+      A. A. White</name>, <name type="organization" key="479">8th Maryland</name>, reported: "A
+     musket ball struck the patella of the right knee laterally, shattering the patella into a
+     number of fragments, but not involving the knee joint proper. I excised the entire patella,
+     carefully dissecting it from its covering." <name type="person" key="74">Surgeon A. F.
+      Sheldon</name>, <name type="organization" key="132">U. S. V.</name>, reported that the patient
+     was admitted to <name type="hospital" key="174">Campbell Hospital</name>, Washington, <date
+      type="admit" when="1865-04-05">April 5th</date>, with the incised wound of the operation
+     healing by first intention. After doing well for three weeks, inflammation commenced and
+     suppuration became very great. Circular amputation through the lower third of the thigh was performed on <date type="operation" when="1865-05-15">May 15th</date>, by <name
+      type="person" key="1210">Acting Assistant Surgeon F. Hall</name>, after which there was favorable
+     progress for a time. On June 10th, there were signs of morbid poisoning, and on <date type="operation" when="1865-06-15">June 15th</date> the
+     stump was opened, allowing a canal filled with pus to discharge. Death resulted from exhaustion
+      <date type="death" when="1865-06-23">June 23, 1865</date>. The amputated part of the femur,
+     together with the upper portions of the tibia and fibula, were contributed to <name
+      type="hospital" key="431">the Museum</name> by <name type="person" key="74">Surgeon
+     Sheldon</name>, and constitute specimen 4199 of the Surgical Section. </p>   
+  </body>
+ </text>
+</TEI>

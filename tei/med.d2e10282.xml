@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d2e10282">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Judd, J. H.</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+    <idno>med.d2e10282</idno>
+    <authority>Civil War Washington</authority>
+    <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor><name>Center for Digital Research in the
+     Humanities</name><address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address></distributor>
+    <date>2011</date>
+    <availability>
+     <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+      republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+      law, requires express written consent from the editors and advance notification of the
+      publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+     <persName xml:id="mb">Matthew Bosley</persName>
+     <persName xml:id="el">Elizabeth Lorang</persName>
+     <persName xml:id="sb">Stacey Berry</persName>
+     <persName xml:id="et">Elisabeth Tracey</persName>
+     <persName xml:id="ss">Sarah Synovec</persName>
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title level="j">The Medical and Surgical History of the War of the Rebellion.
+      (1861-65.)</title><pubPlace>Washington, DC</pubPlace><publisher>Government Printing
+      Office</publisher><biblScope type="part">Part 3</biblScope><biblScope type="volume">Volume
+      2</biblScope><date when="1883">1883</date><biblScope type="page">215</biblScope></bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+     <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <keywords scheme="#medsurg">
+     <term>wounds and injuries of the lower extremities</term> 
+     <term>injuries of the shaft of the femur</term>
+     <term>amputations in the shaft of the femur</term> 
+     <term>primary amputations in the shaft of the femur for shot injury</term>
+     <term>primary amputations in the upper third of the femur</term> 
+     <term>successful cases of primary amputations in the upper third of the thigh</term> 
+     <term>compound fracture of femur at middle third</term> 
+     <term>amputated limb at upper third</term>
+     <term>supplied with artificial limb</term> 
+     <term>amputation two inches below trochanter minor</term>     
+    </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change who="#mb" when="2012-05-09">additional proofing of transcription and encoding, identified keyword terms</change>   
+   <change who="#el" when="2011-05-11">case text extracted and transformed from larger file</change>
+   <change who="#sb" when="2011-06-04">Enrich Encoding, Edit and validate</change>
+   <change who="#sb" when="2011-01-28">Validated File</change>
+   <change who="#ss" when="2008-09-22">Sarah Synovec initial checking of OCR text; encoded P5 Encoding</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   
+    <p><hi rend="initialcap">C</hi>ASE 429.&#8212;<name type="person" key="1065">Private J. H.
+      Judd</name>, <name type="organization" key="329">Co. C, 86th New York</name>, aged 18 years,
+     was wounded in the right thigh, before <name type="BATTLE" key="xxx">Petersburg</name>, <date
+      type="injury" when="1864-09-11">September 11, 1864</date>. He was admitted to the field hospital of the 3d division, Second Corps, whence <name
+      type="person" key="xx">Surgeon J. S. Jameson</name>, <name type="organization" key="329">86th
+      New York</name>, described the injury as "a compound fracture of the femur at the middle
+     third, caused by a musket ball," and reported that he "amputated the limb at the upper third."
+     The patient was subsequently transferred to <name type="place">City Point</name>, and three weeks after the date of the
+     operation he was moved to hospital at <name type="place">Alexandria</name>, whence <name type="person" key="134">Surgeon
+      E. Bentley</name>, <name type="organization" key="132">U. S. V.</name>, described the
+     amputation as an "antero-posterior flap operation." The patient was ultimately transferred to
+      <name type="hospital" key="428">Judiciary Square Hospital</name>, Washington, and discharged
+     from service <date type="servicedischarge" when="1865-01-13">January 13, 1865</date>, and pensioned.
+     Previous to leaving the hospital he was supplied with an artificial limb by the <name
+      type="organization" key="450">Jewett Patent Leg Company</name>, of <name type="place" key="#Washington">Washington, D. C.</name> In his
+     application for commutation, dated <date type="pension" when="1870">1870</date>, the pensioner represented the stump as being in a
+     sound condition, but reported the artificial leg as having been unsatisfactory. <name
+      type="person" key="xx">Examiner F. R. Wagner</name>, of <name type="place" key="xx">Addison, N. Y.</name>, <date type="pension" when="1874-04-15">April 15, 1874</date>, certified to "amputation about two inches below the
+     trochanter minor, leaving the stump so short that an artificial limb cannot be worn." The
+     pensioner was paid <date type="pension" when="1879-06-04">June 4, 1879</date>. The specimen, No. 410, <name type="hospital" key="431">Army
+      Medical Museum</name>, consists of the middle third of the shaft of the injured femur. It was contributed by the operator.</p>
+   
+  </body>
+ </text>
+</TEI>

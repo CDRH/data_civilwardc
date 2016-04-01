@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="cww.02506">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Letters From "Ethiop." Number I</title>
+                <title level="m" type="sub">a machine readable transcription</title>
+                <editor role="co-editor">R. J. Weir</editor>
+                <principal>Susan C. Lawrence</principal>
+                <principal>Elizabeth Lorang</principal>
+                <principal>Kenneth M. Price</principal>
+                <principal>Kenneth J. Winkle</principal>
+                <respStmt>
+                    <resp>transcription and encoding</resp>
+                    <persName xml:id="ak">Alex Kinnaman</persName>
+                    <persName xml:id="el">Elizabeth Lorang</persName>
+                    <persName xml:id="bw">Becca Weir</persName>
+                    <persName xml:id="kk">Kourtney Klein</persName>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2015</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <idno>cww.02506</idno>
+                <distributor>Civil War Washington</distributor>
+                <publisher>University of Nebraska Lincoln</publisher>
+                <address>
+                    <addrLine>Center for Digital Research in the Humanities</addrLine>
+                    <addrLine>319 Love Library</addrLine>
+                    <addrLine>University of Nebraska-Lincoln</addrLine>
+                    <addrLine>P.O. Box 884100</addrLine>
+                    <addrLine>Lincoln, NE 68588-4100</addrLine>
+                </address>
+                <address>
+                    <addrLine>
+                        <email>cdrh@unl.edu</email>
+                    </addrLine>
+                </address>
+                <date>2015</date>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+                        <p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License (http://creativecommons.org/licenses/by-nc-sa/3.0/). Derivatives must be credited to Civil War Washington and R. J. Weir, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct xml:id="letter">
+                    <analytic>
+                        <author ref="#ethiop">Ethiop</author>
+                        <title level="a">Letters From "Ethiop"</title>
+                        <title type="sub" level="a">Number I</title>
+                    </analytic>
+                    <monogr>
+                        <title xml:id="paper" level="j">The Anglo-African</title>
+                        <imprint>
+                            <date xml:id="issue_date" when="1863-08-29">29 August 1863</date>                    
+                        </imprint>
+                        <biblScope type="pp">[2]</biblScope>                    
+                    </monogr>           
+                </biblStruct>
+                
+                <biblStruct xml:id="issue">               
+                    <monogr>
+                        <title level="j" sameAs="#paper"/>
+                        <imprint>
+                            <date sameAs="#issue_date"/>                  
+                        </imprint>              
+                    </monogr>                   
+                </biblStruct>                        
+            </sourceDesc>       
+        </fileDesc>
+        <encodingDesc> 
+            <p>This electronic text is a semi-diplomatic transcription of the source text. Hyphenation, punctuation, variant spellings, and errors present in the source text have been retained. The transcription does not attempt to capture all aspects of the original formatting or layout.</p>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <persName xml:id="ethiop">Wilson, William J.</persName>
+                <persName xml:id="rh">Hamilton, Robert</persName>
+                <persName xml:id="th">Hamilton, Thomas</persName>
+                <date when="1863">1863</date>
+            </creation>
+            <langUsage>
+                <language ident="en-US">modern American English</language>
+            </langUsage>
+            <textClass>
+                <classCode scheme="http://id.loc.gov">
+                    <term xml:id="sh2009114063">African Americans--Washington (D.C.)</term>
+                    <term xml:id="n79006530">Baltimore (Md.)</term>
+                    <term xml:id="no2004049648">Gloucester, James N.</term>
+                    <term xml:id="n79006779">Lincoln, Abraham, 1809-1865</term>
+                    <term xml:id="sh85091423">New York (N.Y.)--History--Civil War, 1861-1865</term>
+                    <term xml:id="nr93003067">Smith, James McCune, 1813-1865</term>
+                    <term xml:id="sh2010113249">Slavery--Maryland</term>
+                </classCode>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when="2015-04-08" who="#ak">corrected</change>
+            <change when="2015-03-24" who="#el">checked and corrected transcription and encoding; updated TEI header, including keywords</change>
+            <change when="2015-03-03" who="#ak">updated keywords</change>
+            <change when="2015-02-17" who="#ak">checked, corrected, updated xml:id</change>
+            <change when="2014-04-14" who="#el">checked encoding; revised TEI header</change>
+            <change when="2014-04-28" who="#kk">transcribed, encoded</change>
+        </revisionDesc>
+    </teiHeader>
+    
+    <facsimile corresp="#issue">
+        <surface xml:id="pp1">
+            <graphic url="aa.18630829.pp1.jpg"/>
+        </surface>
+        <surface xml:id="pp2">
+            <graphic url="aa.18630829.pp2.jpg"/>
+            <zone xml:id="pp2_cropped" corresp="#letter">
+                <graphic url="aa.18630829.pp2_cropped.jpg"/>
+            </zone>
+        </surface>
+        <surface xml:id="pp3">
+            <graphic url="aa.18630829.pp3.jpg"/>
+        </surface>
+        <surface xml:id="pp4">
+            <graphic url="aa.18630829.pp4.jpg"/>
+        </surface>
+    </facsimile>
+    
+    <text corresp="#letter #pp2_cropped">
+        <body>
+            <head type="main" subtype="authorial" rend="center"><emph rend="italic">LETTERS FROM &#8220;ETHIOP.&#8221;</emph></head>
+            <milestone unit="undeclared" rend="short-bar"/>
+            <head type="sub" subtype="authorial" rend="center">NUMBER I.</head>
+            
+            <div>  
+                <opener>
+                    <salute><emph rend="smallcaps">Mr. Editor</emph>&#8212;<emph rend="italic">Dear Sir:</emph></salute>
+                </opener> 
+                
+                <p>The enclosed, one of <lb/>a series of letters, kindly written for my "<choice><orig>own-<lb/>self</orig><reg>ownself</reg></choice>" by a well known <choice><sic>literateur</sic><corr>litterateur</corr></choice>, I find so <choice><orig>re-<lb/>freshing</orig><reg>refreshing</reg></choice> and "toothsome," that I must beg <lb/>you to give your patrons the pleasure of <choice><orig>read-<lb/>ing</orig><reg>reading</reg></choice> them.</p>
+                
+                <closer>
+                    <salute>Truly yours,</salute>
+                    <signed>J. M'C. S.</signed>
+                </closer>
+            </div>
+            
+            <div>
+                <opener>
+                    <dateline>New York, Aug. 22, 1863.</dateline>
+                    <salute> <emph rend="smallcaps">Dear Doctor:</emph></salute>
+                </opener>
+                
+                <p>I should have written you <lb/>before, but Mr. G. has been sick, which is my <lb/>apology. I much regret this, since it has <choice><orig>pre-<lb/>vented</orig><reg>prevented</reg></choice> me from sooner fulfilling my promise; <lb/>still, if not too late, I will endeavor to redeem <lb/>myself. We set out for Washington, D.C., at <lb/>12 at night. Rather an unseasonable hour, I <lb/>hear you say, for two grave men to be seen <lb/>gliding through some of the dark streets of <lb/>Gotham with carpet-bags and slouched hats <lb/>well-drawn. "All aboard!" soon was the cry <lb/>at Jersey City; a whistle, three snorts and a <lb/>terrific squeal, and our good old iron horse <lb/>hied us swiftly away for Dixie&#8212;a land known <lb/>only to me in story and in song; and as the <lb/>car rocked me gently into a doze, I found <choice><orig>my-<lb/>self</orig><reg>myself</reg></choice> humming&#8212;don't smile&#8212;"Oh, I wish I was <lb/>in Dixie." But what kind of a land, or what <lb/>really its inhabitants, I positively had no just <lb/>conception. As my dozing took the form of <lb/>sound napping, I dreamt of whips, and chains, <lb/>and thumbscrews; of slave gangs, old <choice><orig>mas-<lb/>ters</orig><reg>masters</reg></choice>, and slouched-hatted, grim-visaged <choice><orig>over-<lb/>seers</orig><reg>overseers</reg></choice>; and at last I was in the chain-gang, <lb/>going through the streets of Washington to <lb/>the Southern market, to be sold; that I was <lb/>actually put up, that the hammer fell (I shall <lb/>never forget the look of that auctioneer), the <lb/>hammer fell, and I was struck off to one <emph rend="italic"><choice><orig>Abra-<lb/>ham</orig><reg>Abraham</reg></choice> Lincoln</emph>. I awoke and found that we <lb/>were passing through Baltimore, my eyes <choice><orig>gaz-<lb/>ing</orig><reg>gazing</reg></choice> as we passed upon blocks of dirty <choice><orig>build-<lb/>ings</orig><reg>buildings</reg></choice> with hideous black bars, row after row. <lb/>"There," said my friend G., as he pointed <choice><orig>to-<lb/>ward</orig><reg>toward</reg></choice> them, "do you know what those are? <lb/>Those," said he, "were the once famous <choice><orig>slave-<lb/>prisons</orig><reg>slave-prisons</reg></choice> of Baltimore." My indignation knew <lb/>no bounds; a sudden chilliness seized me; my <lb/>pulse beat quickly, and I determined to spit <lb/>upon the <unclear reason="illegible" resp="#bw" cert="medium">first</unclear> insulting-looking scoundrel that <lb/>dared to venture near me.</p>
+                
+                <p>Having closed your eyes in sight of your <lb/>home, and waking up as you do in Baltimore, <lb/>you feel removed but just beyond your own <lb/>immediate neighborhood, but a few steps from <lb/>your own door-sill, and it seems impossible to <lb/>realize such a change that men are owned and <lb/>bought and sold like beasts. At your distance, <lb/>and merely reading, it is possible to realize, to <lb/>some extent, slavery; but to close eyes that <lb/>have ever gazed on freedom, and in five hours <lb/>thereafter, to open them upon slavery, is <lb/>strange indeed. You look upon the dominant <lb/>class with mingled curiosity and disgust. You <lb/>feel that they are a hardened, heartless set, <lb/>capable of committing any wrong, inflicting <lb/>any injury, or perpetrating any deed of evil. <lb/>I can easily conceive how armies of North <lb/>men, when they came down here, soon got it <lb/>into their heads to break up this accursed <choice><orig>sys-<lb/>tem</orig><reg>system</reg></choice>. Notwithstanding the efforts of <choice><orig>politi-<lb/>cians</orig><reg>politicians</reg></choice> to the contrary, when the great masses <lb/>of men living all their lives surrounded by <lb/>freedom, and but ten hours remote from this <lb/>brutal system, and separated from it by no <lb/>lines either of government or nature, and when <lb/>brought suddenly face to face with it, it was <lb/>no marvel that they were determined to <choice><orig>grap-<lb/>ple</orig><reg>grapple</reg></choice> with it, and, if possible, squelch it out of <lb/>existence. It is no wonder. <emph rend="italic">We</emph> have two <lb/>revolutions&#8212;one on behalf of the Confederacy <lb/>and the other on behalf of the negro. But <lb/>these once slave-prisons of Baltimore exist <lb/>now only in name. Some strong hand has <lb/>cleaned them out. Not a slave is there. The <lb/>grim gratings gape at the passer-by, but no <lb/>tear as the slave mother's eye strains through <lb/>them, trickles down to further blacken and <choice><orig>cor-<lb/>rode</orig><reg>corrode</reg></choice> them; no bronzed manly form now <choice><orig>press-<lb/>es</orig><reg>presses</reg></choice> against them for egress. There they stand <lb/>&#8212;cold, naked, frowning, silent&#8212;a horrible <lb/>commentary upon the chief city of <emph rend="italic">"My <lb/>Maryland."</emph> Our good old iron horse, having <lb/>took breath, gave one or two more snorts, <lb/>and then rushed on at such a speed that <lb/>between sleeping and waking we saw but <choice><orig>lit-<lb/>tle</orig><reg>little</reg></choice> of my Maryland, and soon lost sight of it <lb/>altogether.</p>
+                
+                <p>At length a few straggling houses hove in <lb/>sight; and then a few apologies for streets <lb/>peeped at us, and then a row or so of <choice><orig>indiffer-<lb/>ently</orig><reg>indifferently</reg></choice> dressed-up houses would look out upon <lb/>us, but no one seemed to notice them. At <lb/>length the great dome loomed up in the <choice><orig>dis-<lb/>tance</orig><reg>distance</reg></choice>, and I required not to be told I was in <lb/>Washington. And here I am, weary, sleepy <lb/>and hungry as a wolf, else I might have <choice><orig>writ-<lb/>ten</orig><reg>written</reg></choice> you not such an indifferent letter. More <lb/>anon.</p>    
+               
+                <closer>
+                    <salute>Yours truly,</salute>    
+                    <signed><emph rend="smallcaps">Ethiop</emph>.</signed>
+                </closer>
+            </div>
+            
+            <div><note type="newspaper-editorial"><emph rend="smallcaps">To James M'Cune Smith, M.D.</emph></note></div>
+        </body>
+    </text>
+    
+</TEI>
+

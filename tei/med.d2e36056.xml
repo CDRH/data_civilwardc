@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d2e36056">
+        <teiHeader>
+                <fileDesc>
+                        <titleStmt>
+                                <title level="m" type="main">Sperry, Ira A.</title>
+                                <title level="m" type="sub">a machine readable transcription</title>
+                                <principal>Susan C. Lawrence</principal>
+                                <principal>Kenneth M. Price</principal>
+                                <principal>Kenneth J. Winkle</principal>
+                        </titleStmt>
+                        <editionStmt>
+                                <edition>
+                                        <date>2011</date>
+                                </edition>
+                        </editionStmt>
+                        <publicationStmt>
+                                <idno>med.d2e36056</idno>
+                                <authority>Civil War Washington</authority>
+                                <publisher>University of Nebraska–Lincoln</publisher>
+                                <distributor>
+                                        <name>Center for Digital Research in the Humanities</name>
+                                        <address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+                                </distributor>
+                                <date>2011</date>
+                                <availability>
+                                        <p>Copyright © 2011 by University of Nebraska–Lincoln, all
+                                                rights reserved. Redistribution or republication in
+                                                any medium, except as allowed under the Fair Use
+                                                provisions of U.S. copyright law, requires express
+                                                written consent from the editors and advance
+                                                notification of the publisher, the University of
+                                                Nebraska–Lincoln.</p>
+                                </availability>
+                        </publicationStmt>
+                        <notesStmt>
+                                <note type="project">The following are responsible for particular
+                                        readings or for changes to this file, as noted: 
+                                        <persName xml:id="mb">Matthew Bosley</persName>
+                                        <persName xml:id="el">Elizabeth Lorang</persName>
+                                        <persName xml:id="sb">Stacey Berry</persName>
+                                        <persName xml:id="et">Elisabeth Tracey</persName>
+                                </note>
+                        </notesStmt>
+                        <sourceDesc>
+                                <bibl>
+                                        <title level="j">The Medical and Surgical History of the War
+                                                of the Rebellion</title>
+                                        <pubPlace>Washington, DC</pubPlace>
+                                        <publisher>Government Printing Office</publisher>
+                                        <biblScope type="part">Part 3</biblScope>
+                                        <biblScope type="volume">Volume 1</biblScope>
+                                        <date when="1888">1888</date>
+                                        <biblScope type="page">385</biblScope>
+                                </bibl>
+                        </sourceDesc>
+                </fileDesc>
+                <encodingDesc>
+                        <classDecl>
+                                <taxonomy xml:id="medsurg">
+                                        <bibl>Medical and Surgical History of the War of the
+                                                Rebellion</bibl>
+                                </taxonomy>
+                        </classDecl>
+                </encodingDesc>
+                <profileDesc>
+                        <textClass>
+                                <keywords scheme="#medsurg">
+                                        <term>post-mortem records</term>
+                                        <term>continued fevers</term>
+                                        <term>typhoid fever, clinical history insufficient</term>
+                                        <term>Peyer's patches ulcerated, large intestine also implicated</term>
+                                </keywords>
+                        </textClass>
+                </profileDesc>
+                <revisionDesc>
+                        <change who="#mb" when="2011-10-04">additional proofing of transcription and encoding</change>
+                        <change who="#mb" when="2011-06-22">additional proofing of transcription and encoding</change>
+                        <change who="#el" when="2011-05-11">case text extracted and transformed from
+                                larger file</change>
+                        <change who="#sb" when="2011-02-23">Encoding and Proofing</change>
+                        <change who="#et" when="2009-12-01">Initial Checking OCR Text to PDF file,
+                        </change>
+                </revisionDesc>
+        </teiHeader>
+        <text>
+                <body xml:id="ch4.sc4.1.00181">
+                        
+                                <p><hi rend="initialcap">C</hi>ASE 181.&#8212;<name
+                                                type="person" key="708">Private Ira A.
+                                        Sperry</name>, <name type="organization" key="142">Co. D,
+                                                147th N. Y.</name>; age 21; was admitted <date
+                                                type="admit" when="1863-06-15">June 15, 1863</date>,
+                                        with typhoid fever, and died on <date type="death"
+                                                when="1863-06-22">the 22d</date>. <hi rend="italic"
+                                                >Post-mortem</hi> examination twenty-five hours
+                                        after death: Body not emaciated. Brain healthy. Mucous
+                                        membrane of trachea much congested; upper lobe of right lung
+                                        somewhat congested, middle lobe more natural, lower lobe
+                                        extremely congested, weight of lung sixteen ounces; upper
+                                        lobe of left lung congested, weight of lung fifteen ounces
+                                        and a half. Right cavities of heart contained fibrinous
+                                        clots; left mixed clots. Liver, sixty-five ounces, flabby,
+                                        mottled cineritious and deep purple; about the middle of the
+                                        anterior surface of the right lobe was a large white spot
+                                        coated with lymph, indicative probably of previous
+                                        inflammation. &#338;sophagus normal; stomach of a dull
+                                        gray color; spleen firm, dark mahogany colored, weight
+                                        eleven ounces and a quarter, an opaque spot covered with
+                                        recent lymph on its upper surface; pancreas firm and white,
+                                        weight two ounces and a half. Duodenum somewhat congested;
+                                        jejunum and upper part of ileum normal; mucous membrane of
+                                        lower part of ilem thin, pale and easily torn; Peyer's
+                                        patches elevated, dark slate-colored; solitary glands
+                                        prominent; ulceration present but nowhere extensive. Large
+                                        intestine dull greenish in color but not ulcerated. Left
+                                        kidney flabby, slightly injected, somewhat friable and with
+                                        many ecchymosed blotches on pelvis; bladder much distended
+                                        with urine.&#8212;<hi rend="italic"><name type="person"
+                                                  key="245">Ass't Surg. Harrison Allen</name>, <name
+                                                  type="organization" key="190">U. S. A.</name>,
+                                                  <name type="hospital" key="176">Lincoln
+                                                  Hospital</name>, Washington, D. C.</hi></p>
+                        
+                </body>
+        </text>
+</TEI>

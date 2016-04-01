@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d2e20683">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Smith, L.</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+    <idno>med.d2e20683</idno>
+    <authority>Civil War Washington</authority>
+    <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor><name>Center for Digital Research in the
+     Humanities</name><address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address></distributor>
+    <date>2011</date>
+    <availability>
+     <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+      republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+      law, requires express written consent from the editors and advance notification of the
+      publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+     <persName xml:id="mb">Matthew Bosley</persName>
+     <persName xml:id="el">Elizabeth Lorang</persName>
+     <persName xml:id="sb">Stacey Berry</persName>
+     <persName xml:id="et">Elisabeth Tracey</persName>
+     <persName xml:id="ss">Sarah Synovec</persName>
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title level="j">The Medical and Surgical History of the War of the Rebellion.
+      (1861-65.)</title><pubPlace>Washington, DC</pubPlace><publisher>Government Printing
+      Office</publisher><biblScope type="part">Part 3</biblScope><biblScope type="volume">Volume
+      2</biblScope><date when="1883">1883</date><biblScope type="page">530-531</biblScope></bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+     <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <keywords scheme="#medsurg">
+     <term>wounds and injuries of the lower extremities</term> 
+     <term>wounds and operations in the leg</term>
+     <term>shot fractures of the bones of the leg</term>
+     <term>amputations in the continuity of the leg for shot fractures</term> 
+     <term>intermediary amputations in the continuity of the leg for shot injury</term> 
+     <term>intermediary amputations in the lower third of the leg for shot injury</term> 
+     <term>fatal intermediary amputations in the lower third of the leg</term>
+     <term>py&#230;mia, py&#230;mic chill</term> 
+     <term>diarrh&#339;a</term> 
+     <term>abscesses popliteal space and middle third of thigh</term>
+     <term>shell wound on plantar surface, all tarsal bones except the cuboid fractured</term>
+     <term>amputated leg at lower third</term>     
+     <term>general anesthesia, ether</term>
+     <term>autopsy performed</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change who="#mb" when="2012-06-11">additional proofing of transcription and encoding, identified keyword terms</change>
+   <change who="#el" when="2011-05-11">case text extracted and transformed from larger file</change>
+   <change who="#sb" when="2011-06-04">Enrich Encoding, Edit and validate</change>
+   <change who="#sb" when="2011-01-28">Validated File</change>
+   <change who="#ss" when="2008-09-22">initial checking of OCR text; encoded P5 Encoding</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>   
+    <p><hi rend="initialcap">C</hi>ASE 780.&#8212;<name type="person" key="1312">Private L.
+      Smith</name>, <name type="organization" key="504">Co. D, 12th Infantry</name>, aged 24 years,
+     was wounded in the left foot, at <name type="BATTLE" key="3"><choice><orig>Spottsylvania</orig><reg>Spotsylvania</reg></choice></name>, <date type="injury" when="1864-05-12">May 12, 1864</date>, and entered <name
+      type="hospital" key="175">Stanton Hospital</name>, Washington, <date type="admit" when="1864-05-18">six days afterwards</date>. <name
+      type="person" key="70">Surgeon J. A. Lidell</name>, <name type="organization" key="132">U. S. V.</name>, reported: "The nature of the injury was an extensive shell wound on the plantar surface, all the tarsal bones except the cuboid being fractured. The foot became much swollen and inflamed and the wound was sloughing and full of maggots. <name type="person"
+       key="1311">Acting Assistant Surgeon C. H. Osborn</name> amputated the leg at the lower third, on <date type="operation" when="1864-05-21">May 21st</date>, by the circular method, using sulphuric ether as the an&#230;sthetic. But little blood
+     was lost during the operation. The patient reacted promptly and did not suffer much shock.
+     Tonics and stimulants were administered. On <date type="injury" when="1864-05-26">May 26th</date>, there was a py&#230;mic chill, which
+     returned at intervals for two weeks. The stump commenced to slough, abscesses formed in the
+     thigh, and large bed-sores came on over the sacrum. The patient was also troubled with
+     diarrh&#339;a.  Death resulted from py&#230;mia <date type="death" when="1864-07-03">July 3,
+      1864</date>.  At the autopsy the anterior part of the stump was found to have sloughed to
+     within one inch below the tubercle of the tibia, exposing the bone, which was denuded of its
+     periosteum. There were two large abscesses, one in the popliteal space and the other in the
+     middle third of the thigh; small thrombi in the veins. The lungs contained several superficial abscesses; the liver was enlarged,
+     soft, and fatty; spleen soft and enlarged. All the other viscera were in a normal condition."
+     The stump of the leg, showing the tibia to be exposed for the extent of six inches, was contributed to <name type="hospital" key="431">the Museum</name> by <name type="person" key="459">Assistant Surgeon G. A. Mursick</name>, <name type="organization" key="132">U. S. V.</name>, and constitutes specimen 2739 of the Surgical Section. </p>   
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="cww.01070">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>                
+                <title level="m" type="main">Petition of Harriet Neale, 19 July 1862</title>
+                <title level="m" type="main">Evidence Relating to the Petition of Harriet Neale, 22 July 1862</title>
+                <title level="m" type="sub">a machine readable transcription</title>
+                <principal>Susan C. Lawrence</principal>
+                <principal>Kenneth M. Price</principal>
+                <principal>Kenneth J. Winkle</principal>
+                <respStmt>
+                    <resp>transcription and encoding</resp>
+<name xml:id="kp">Kenneth M. Price</name>
+                    <name xml:id="jc">Janel Cayer</name>
+                    <name xml:id="km">Kevin McMullen</name>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2012</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <idno>cww.01070</idno>
+                <distributor>Civil War Washington</distributor>
+                <publisher>University of Nebraska–Lincoln</publisher>
+                <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>P.O. Box 884100</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+            </address>
+                <date>2012</date>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+                        <p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License (http://creativecommons.org/licenses/by-nc-sa/3.0/). Derivatives must be credited to Civil War Washington, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl xml:id="rg21">
+                    <title>Petition of Harriet Neale, 19 July 1862</title>                    
+                    <date when="1862-07-19">July 19, 1862</date>
+                    <idno>Microcopy 433, Reel 3</idno>                
+                    <orgName>National Archives and Records Administration</orgName>
+                    <relatedItem type="original">
+                        <bibl>
+                            <title>Petition of Harriet Neal 19 July 1862</title>                            
+                            <date when="1862-07-19">July 19, 1862</date>
+                            <idno type="rg">Record Group 21</idno>
+                            <orgName>Records of the District Courts of the United States, 1685&#8211;2004, National Archives and Records Administration</orgName>
+                            <orgName>Emancipation Records, compiled 1862&#8211;1863</orgName>
+                            <note type="project">Within the National Archives' Archival Description Catalog, see ARC Identifier 4314547 / MLR Number NC-2 33 (http://arcweb.archives.gov).</note>
+                        </bibl>
+                    </relatedItem>
+                    <note type="project">Our transcription is based on a digital image of a microfilm copy of the original.</note>
+                </bibl>
+                
+                <bibl xml:id="rg217">
+                    <title>Evidence Relating to the Petition of Harriet Neale, 22 July 1862</title>                   
+                    <date when="1862-07-22">July 22, 1862</date>
+                    <idno>Microcopy 520, Reel 6</idno>
+                    <orgName>National Archives and Records Administration</orgName>
+                    <relatedItem type="original">
+                        <bibl>
+                            <title>Evidence Relating to the Petition of Harriet Neale, 19 July 1862</title>                          
+                            <date when="1862-07-22">July 22, 1862</date>
+                            <idno type="rg">Record Group 217.6.5</idno>
+                            <orgName>Records of the Accounting Officers of the Department of the Treasury, 1775&#8211;1978, National Archives and Records Administration</orgName>
+                            <note type="project">Within the National Archives' Archival Description Catalog, see ARC Identifier 4644616 / MLR Number A1 347 (http://arcweb.archives.gov).</note>
+                        </bibl>
+                    </relatedItem>
+                    <note type="project">Our transcription is based on a digital image of a microfilm copy of the original.</note>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <particDesc>
+                <person role="owner">
+                    <persName>Lewis Henry Phillips</persName>
+                </person>
+                <person role="petitioner-slave">
+                    <persName>Harriet Neal</persName>
+                </person>
+            </particDesc>
+        </profileDesc>
+        <revisionDesc>
+<change when="2013-02-28" who="#jc">blessed</change>
+<change when="2013-02-13" who="#kp">blessed</change>
+            <change when="2013-01-10" who="#jc">checked; revised values @facs</change>
+            <change when="2012-07-30" who="#km">transcribed, encoded</change>
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            <!-- Begins with the text of the petition. -->
+            <pb xml:id="leaf001r" facs="cww.01070.001.jpg"/>
+            
+            
+            <div1 type="petition" subtype="mixed" corresp="#rg21">                
+                                
+                <div2 type="document" subtype="mixed">
+                    <fw>[Sold by W. H. &#38; O. H. Morrison, Booksellers.</fw>
+                    <opener>
+                        <salute>To <persName>John A. Smith</persName> <choice><abbr>Esq.</abbr><expan>Esquire</expan></choice>, <hi rend="italic">Clerk of the Circuit Court of the <placeName>District of Columbia</placeName></hi>.</salute>
+                        <salute>Sir:</salute>
+                    </opener>
+                    
+                    <p>You will please file and record in your office the annexed statement and schedule, under the provisions of an act of Congress, entitled "An act for the relief of certain persons held to service or labor in the <placeName>District of Columbia</placeName>," approved <date when="1862-04-16">April 16th, 1862</date>:</p>
+                    <table>
+                        <row>
+                            <cell>Name.</cell>
+                            <cell>Age.</cell>
+                            <cell>Sex.</cell>
+                            <cell>Particular Description.</cell>
+                        </row>
+                        <row rend="handwritten">
+                            <cell>Harriet Neal</cell>
+                            <cell>30</cell>
+                            <cell>female</cell>
+                            <cell>Dark olive about four feet &#38; 10 inches high</cell>
+                        </row>
+                    </table>
+                    
+                    <p>The persons mentioned in the foregoing schedule w<del>ere</del><seg type="handwritten">as</seg> by reason of African descent and acquired title, <seg type="handwritten">the</seg> property, <del>and by</del> <seg type="handwritten">&#38;</seg> held to service and labor in the <placeName>District of Columbia</placeName> at the time the act of Congress above cited was approved, the benefit of which is hereby claimed <seg type="handwritten">by <persName>Lewis Henry Phillips</persName>. Deponent has resided within the <placeName>District of Columbia</placeName> during fourteen years last past &#38; still resides in said <placeName>District</placeName>. She further says she makes this application for herself &#38; in her own name under the act amendatory to the act of <date when="1862-04-16">16th April 1862</date> approved <date when="1862-07-12">July 12, 1862</date> because her master said Phillips omitted to file his schedule or petition before the commission, as provided in said act</seg></p>                    
+                    <closer>
+                        <signed>her X mark <persName>Harriet Neal</persName></signed>
+                        <signed>In presence of<lb/>
+                            <persName>Geo E. H. Day</persName></signed>
+                    </closer>
+                </div2>
+                
+                <pb xml:id="leaf001v" facs="cww.01070.002.jpg"/>
+                
+                <div2 type="cover" subtype="handwritten">
+                    <div3 type="section">
+                        <ab><persName>Harriet Neale</persName></ab>
+                        <ab>schedule</ab>
+                        <ab><persName>Lewis Henry Philips</persName></ab>
+                        <ab>Filed <date when="1862-07-19">19th July 1862</date></ab>
+                        <ab>Recorded in Manumission Record No. 2 folio 63</ab>                        
+                    </div3>
+                    
+                    <div3 type="section">
+                        <ab><choice><abbr>Cert</abbr><expan>Certificate</expan></choice> given <date when="1862-07-22">July 22d</date> <choice><abbr>Idfd</abbr><expan>Identified</expan></choice> <persName>Day</persName>.</ab>
+                    </div3>
+                    
+                    <pb sameAs="leaf001v" facs="cww.01070.003.jpg"/>
+                    <div3 type="section">
+                        <dateline><placeName>Washington City</placeName> <date when="1862-07-22">July 22 1862</date></dateline>
+                        <p>The Commissioners being satisfied from the testimony of <persName>Saml S. Philips</persName> examined before them, of the truth of the statements in the within schedule have ordered the same to be certified to the Clerk of the Circuit Court of the <placeName>District of Columbia</placeName></p>
+                        <closer>
+                            <signed><persName>Wm. R. Woodward</persName><lb/>
+                                Clerk</signed>
+                        </closer>
+                    </div3>                   
+                </div2>
+            </div1>
+            
+            <!-- Evidence pertaining to the case begins here. -->
+                        
+            <pb xml:id="leaf002r" facs="cww.01070.004.jpg"/>
+            <div1 type="evidence" corresp="#rg217" subtype="handwritten">
+                
+                
+                <div2 type="procedural">
+                    <ab><persName>Harriet Neal</persName></ab>
+                    <ab>servant of <persName>Lewis Henry Philips</persName></ab>
+                </div2>
+                
+                <div2 type="testimony">
+                    <ab><persName>Sam Philips</persName> I know petitioner she has been in service of Mr <persName>S. H Philips</persName> a <unclear reason="illegible" cert="high" resp="#km">cousin</unclear> of mine&#8212;for more than a year with masters consent</ab>
+                </div2>
+                
+                <div2 type="procedural">
+                    <ab>Certificate ordered</ab>
+                </div2>
+                
+                <pb xml:id="leaf003v" facs="cww.01070.005.jpg"/>
+                <div2 type="cover">
+                    <ab><persName>Harriet Neale</persName></ab>
+                    <ab><date when="1862-07-22">July 22</date>.</ab>
+                </div2>
+            </div1>            
+        </body>
+    </text>
+</TEI>
+                
+                
+                
+                
+                
+

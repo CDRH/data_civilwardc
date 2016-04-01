@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d2e31524">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Dorr, O. H.</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+       <idno>med.d2e31524</idno>
+       <authority>Civil War Washington</authority>
+       <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor>
+       <name>Center for Digital Research in the Humanities</name>
+       <address><addrLine>319 Love Library</addrLine>
+       <addrLine>University of Nebraska–Lincoln</addrLine>
+       <addrLine>Lincoln, NE 68588-4100</addrLine>
+       <addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+    </distributor>
+    <date>2011</date>
+    <availability>
+        <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+         republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+         law, requires express written consent from the editors and advance notification of the
+         publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+     <persName xml:id="mb">Matthew Bosley</persName>
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl>
+     <title level="j">The Medical and Surgical History of the War of the Rebellion. (1861-65.)</title>
+     <pubPlace>Washington, DC</pubPlace>
+     <publisher>Government Printing Office</publisher>
+     <biblScope type="part">Part 2</biblScope>
+     <biblScope type="volume">Volume 2</biblScope>
+     <date when="1876">1876</date>
+     <biblScope type="page">137</biblScope>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+       <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+      <keywords scheme="#medsurg">
+       <term>injuries of the abdomen</term>
+       <term>penetrating wounds of the abdomen</term>
+       <term>wounds of the liver</term>
+       <term>gunshot wounds</term>
+       <term>complicated wounds terminated fatally</term> 
+       <term>traumatic hepatic abscess discharging through the bronchial tubes</term>
+       <term>ball entered to right of ensiform cartilage, emerged near angle of ninth rib</term>
+       <term>coughing with purulent expectoration mixed with bilious matter</term> 
+       <term>ball passed through lower lobe of lung, the diaphragm, and convex surface of liver</term> 
+       <term>autopsy performed</term>
+     </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change who="#mb" when="2012-08-03">copied case from MSHWR, added proofing of transcription and encoding, identified keyword terms</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>   
+   <p><hi rend="initialcap">C</hi>ASE 428.&#8212;<name type="person" key="xxx">Private O. H. Dorr</name>, <name type="organization" key="xxx">Co. G, 66th Ohio</name>, was wounded at <name type="battle" key="68">Cedar Mountain</name>, <date type="injury" when="1862-08-09">August 9, 1862</date>, by a musket ball, which entered to the right of the ensiform cartilage and emerged near the angle of the ninth rib.  He entered <name type="hospital" key="194">Fairfax Street Hospital</name>, at <name type="place" key="#Alexandria">Alexandria</name>, on <date type="admit" when="1862-08-12">August 12th</date>.  Upon examination, it was thought the pulmonary organs had escaped injury. There was at no time h&#230;moptysis. The general condition was favorable until August 28th, when there was a chill, followed by severe coughing, the expectoration being purulent and mixed with bilious matter. This form of expectoration continued until the patient's death, <date type="death" when="1862-09-08">September 8, 1862</date>.  At the autopsy, it was found that the ball had passed through the lower lobe of the right lung, the diaphragm, and had grooved the convex surface of the liver.</p>     
+  </body>
+ </text>
+</TEI>

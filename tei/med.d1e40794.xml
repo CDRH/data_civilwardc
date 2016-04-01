@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e40794">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Burt, Thomas</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+       <idno>med.d1e40794</idno>
+       <authority>Civil War Washington</authority>
+       <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor>
+       <name>Center for Digital Research in the Humanities</name>
+       <address><addrLine>319 Love Library</addrLine>
+       <addrLine>University of Nebraska–Lincoln</addrLine>
+       <addrLine>Lincoln, NE 68588-4100</addrLine>
+       <addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+    </distributor>
+    <date>2011</date>
+    <availability>
+        <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+         republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+         law, requires express written consent from the editors and advance notification of the
+         publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+     <persName xml:id="mb">Matthew Bosley</persName>
+     <persName xml:id="el">Elizabeth Lorang</persName>
+     <persName xml:id="sb">Stacey Berry</persName>
+     <persName xml:id="ao">Alyssa Olson</persName>
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl>
+     <title level="j">The Medical and Surgical History of the War of the Rebellion. (1861-65.)</title>
+     <pubPlace>Washington, DC</pubPlace>
+     <publisher>Government Printing Office</publisher>
+     <biblScope type="part">Part 2</biblScope>
+     <biblScope type="volume">Volume 1</biblScope>
+     <date when="1879">1879</date>
+     <biblScope type="page">144</biblScope>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+       <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+      <keywords scheme="#medsurg">
+       <term>diarrh&#339;a and dysentery</term>
+       <term>fatal cases of diarrh&#339;a and dysentery, with accounts of the morbid appearances observed</term>
+       <term>from the Harewood Hospital, Washington, D. C.</term>
+       <term>chronic diarrh&#339;a</term>
+       <term>small intestine congested in patches, increased intensity toward ileoc&#230;cal valve</term>
+       <term>intussusception lower jejunum</term>
+       <term>mucous membrane of colon thickened and ulcerated throughout</term>
+       <term>numerous perforations of descending colon connected with peritoneal cavity</term>       
+       <term>autopsy performed</term>       
+     </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change who="#mb" when="2012-10-15">additional proofing of transcription and encoding, identified keyword terms</change>
+   <change who="#el" when="2010-11-05">case text extracted and transformed from larger file</change>
+   <change who="#sb" when="2010-05-01">enrich encoding, proof and edit</change>
+   <change who="#ao" when="2008-10-02">encoding and editing</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body> 
+   <p>Case from the case-book and medical descriptive lists of the <name type="hospital" key="173"><hi rend="initialcap">H</hi>AREWOOD <hi rend="initialcap">H</hi>OSPITAL</name>, Washington, D. C., <name type="person" key="156">Surgeon Thomas Antisell</name>, <name type="organization" key="132">U. S. V.</name>, in charge from October, 1862, to September, 1863:</p>
+   <p><hi rend="initialcap">C</hi>ASE 269.&#8212;<name type="person" key="160">Private Thomas Burt</name>, <name type="organization" key="198">company E, 29th Massachusetts volunteers</name>; admitted <date type="admit" when="1862-10-07">October 7, 1862</date>.  Chronic diarrh&#339;a.  Died, <date type="death" when="1862-10-31">October 31st</date>. <hi rend="italic">Autopsy:</hi> The stomach presented the normal appearance, except that its mucous membrane was pale. The small intestine was congested in patches, which increased in intensity toward the ileoc&#230;cal valve. At the lower end of the jejunum there was an intussusception three inches long. The colon was very vascular, its mucous membrane thickened and ulcerated throughout; in the descending colon were numerous perforations connecting with the peritoneal cavity. The walls of the rectum were thickened; its mucous membrane of a dark-green color. The liver showed no marked evidence of disease; the gall-bladder was distended with bile. The spleen was very much enlarged and congested.</p>    
+  </body>
+ </text>
+</TEI>

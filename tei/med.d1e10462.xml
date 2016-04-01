@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e10462">
+        <teiHeader>
+                <fileDesc>
+                        <titleStmt>
+                                <title level="m" type="main">Bond, Simeon</title>
+                                <title level="m" type="sub">a machine readable transcription</title>
+                                <principal>Susan C. Lawrence</principal>
+                                <principal>Kenneth M. Price</principal>
+                                <principal>Kenneth J. Winkle</principal>
+                        </titleStmt>
+                        <editionStmt>
+                                <edition>
+                                        <date>2011</date>
+                                </edition>
+                        </editionStmt>
+                        <publicationStmt>
+                                <idno>med.d1e10462</idno>
+                                <authority>Civil War Washington</authority>
+                                <publisher>University of Nebraska–Lincoln</publisher>
+                                <distributor>
+                                        <name>Center for Digital Research in the Humanities</name>
+                                        <address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+                                </distributor>
+                                <date>2011</date>
+                                <availability>
+                                        <p>Copyright © 2011 by University of Nebraska–Lincoln, all
+                                                rights reserved. Redistribution or republication in
+                                                any medium, except as allowed under the Fair Use
+                                                provisions of U.S. copyright law, requires express
+                                                written consent from the editors and advance
+                                                notification of the publisher, the University of
+                                                Nebraska–Lincoln.</p>
+                                </availability>
+                        </publicationStmt>
+                        <notesStmt>
+                                <note type="project">The following are responsible for particular
+                                        readings or for changes to this file, as noted: 
+                                        <persName xml:id="mb">Matthew Bosley</persName>
+                                        <persName xml:id="el">Elizabeth Lorang</persName>
+                                        <persName xml:id="sb">Stacey Berry</persName>
+                                        <persName xml:id="et">Elisabeth Tracey</persName>
+                                </note>
+                        </notesStmt>
+                        <sourceDesc>
+                                <bibl>
+                                        <title level="j">The Medical and Surgical History of the War of the Rebellion</title>
+                                        <pubPlace>Washington, DC</pubPlace>
+                                        <publisher>Government Printing Office</publisher>
+                                        <biblScope type="part">Part 3</biblScope>
+                                        <biblScope type="volume">Volume 1</biblScope>
+                                        <date when="1888">1888</date>
+                                        <biblScope type="page">580</biblScope>
+                                </bibl>
+                        </sourceDesc>
+                </fileDesc>
+                <encodingDesc>
+                        <classDecl>
+                                <taxonomy xml:id="medsurg">
+                                        <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+                                </taxonomy>
+                        </classDecl>
+                </encodingDesc>
+                <profileDesc>
+                        <textClass>
+                                <keywords scheme="#medsurg">
+                                        <term>diseases allied to or associated with</term>
+                                        <term>the paroxysmal and continued fevers</term>
+                                        <term>cerebro-spinal fever</term>
+                                        <term>clinical and post-mortem records</term>
+                                        <term>out of his head, sick at stomach, headache</term> 
+                                        <term>member of hospital guard, admitted from quarters</term>
+                                        <term>delirium, stupor</term>                                        
+                                </keywords>
+                        </textClass>
+                </profileDesc>
+                <revisionDesc>
+                        <change who="#mb" when="2013-04-16">additional proofing of transcription and encoding, edited and added keyword terms</change>
+                        <change who="#mb" when="2011-06-27">additional proofing of transcription and encoding</change>
+                        <change who="#el" when="2011-05-11">case text extracted and transformed from larger file</change>
+                        <change who="#sb" when="2011-02-23">Encoding and Proofing</change>
+                        <change who="#et" when="2009-12-01">Initial Checking OCR Text to PDF file,</change>
+                </revisionDesc>
+        </teiHeader>
+        <text>
+                <body>                        
+                                <p><hi rend="initialcap">C</hi>ASE 93.&#8212;<name type="person"
+                                                key="834">Private Simeon Bond</name>, <name
+                                                type="organization" key="109">37th Co. 2d Batt. V.
+                                                R. Corps</name>; age 25; a member of the hospital
+                                        guard, was admitted from quarters on the evening of <date
+                                                type="admit" when="1864-08-14">August 14,
+                                                1864</date>. He had complained of debility and loss
+                                        of appetite for several days, and the orderly sergeant
+                                        thought him slightly out of his head.  On admission he was
+                                        weak, feverish, thirsty and sick at stomach, but did not
+                                        vomit; pulse 90; he had headache but no other pain. Neutral
+                                        mixture and aconite were prescribed. He was restless and
+                                        slept but little during the night, and next morning he did
+                                        not seem to realize where he was. He wanted to get up and
+                                        steal away, but was quiet withal. His head was hot, eyes
+                                        somewhat injected, tongue furred, pulse 95 and stronger. The
+                                        ice-bag, a brisk purgative and acetate of ammonia with
+                                        antimonial wine and nitric ether were prescribed. Morphia
+                                        was administered in the evening and he passed a better
+                                        night.  On <date type="death" when="1864-08-16">the 16th</date> he was mildly delirious, sinking into
+                                        stupor when left undisturbed; pupils somewhat dilated,
+                                        symmetrical; eyes more injected; pulse 80 and full;
+                                        respiration deep and regular but slower than natural. He had
+                                        no spasm of any kind. A blister was applied to the nape of
+                                        the neck and sinapisms to the epigastrium and inside of the
+                                        thighs; quinine was given in full doses. His bowels had been
+                                        freely moved.  No improvement followed,&#8212;the stupor
+                                        grew more profound, and he died comatose about 11 P. M., a
+                                        little over forty-eight hours after his
+                                                admission.&#8212;<hi rend="italic"><name
+                                                  type="hospital" key="175">Stanton Hospital</name>,
+                                                        Washington, D. C.</hi>&#8432;</p> 
+                        <p>&#8432; <hi rend="initialcap">J</hi>OHN <hi rend="initialcap">A</hi>. <hi rend="initialcap">L</hi>IDELL, <hi rend="initialcap">U. S. V.</hi>, published this case in an article on <hi rend="italic">Epidemic Cerebro-spinal Meningitis</hi> in the <hi rend="italic">American Jour. Med. Sciences</hi>, June, 1865.</p>       
+                </body>
+        </text>
+</TEI>

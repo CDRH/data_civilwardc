@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e41894">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Irish, Charles</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+    <idno>med.d1e41894</idno>
+       <authority>Civil War Washington</authority>
+       <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor>
+       <name>Center for Digital Research in the Humanities</name>
+       <address><addrLine>319 Love Library</addrLine>
+       <addrLine>University of Nebraska–Lincoln</addrLine>
+       <addrLine>Lincoln, NE 68588-4100</addrLine>
+       <addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+    </distributor>
+    <date>2011</date>
+    <availability>
+        <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+         republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+         law, requires express written consent from the editors and advance notification of the
+         publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+     <persName xml:id="mb">Matthew Bosley</persName>     
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl>
+     <title level="j">The Medical and Surgical History of the War of the Rebellion. (1861-65.)</title>
+     <pubPlace>Washington, DC</pubPlace>
+     <publisher>Government Printing Office</publisher>
+     <biblScope type="part">Part 2</biblScope>
+     <biblScope type="volume">Volume 1</biblScope>
+     <date when="1879">1879</date>
+     <biblScope type="page">410</biblScope>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+       <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+      <keywords scheme="#medsurg">
+       <term>diarrh&#339;a and dysentery</term>
+       <term>remarks on the pathology and treatment of diarrh&#339;a and dysentery</term>
+       <term>acute dysentery</term>                    
+       <term>complications of dysentery</term>       
+       <term>paralysis as a sequel to dysentery</term>       
+       <term>chronic rheumatism</term>
+       <term>partial paralysis of lower extremities</term>
+       <term>typhoid fever years ago</term>
+       <term>unable to walk</term>
+       <term>sensation less impaired than motion</term>              
+     </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change who="#mb" when="2013-01-30">copied case from MSHWR, added proofing of transcription and encoding, identified keyword terms and figures</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body> 
+   <p>
+    <hi rend="initialcap">C</hi>ASE 885.&#8212;<name type="person" key="xxx">Private Charles Irish</name>, <name type="organization" key="xxx">company K, 6th Ohio cavalry</name>; age 40; was admitted to <name type="hospital" key="501">2d Division general hospital</name>, Alexandria, Virginia, <date type="admit" when="1864-06-15">June 15,1864</date>.  Diagnosis, chronic rheumatism.  Transferred to <name type="place">Philadelphia</name>, <date type="transfer" when="1864-06-20">June 20th</date>. Admitted to
+    Summit House hospital, Philadelphia, <date type="admit" when="1864-06-21">June 21st</date>; same diagnosis. Transferred to Satterlee hospital <date type="admit" when="1864-08-24">August 24th</date>; same diagnosis. Transferred to Turner's Lane hospital. Admitted to Turner's Lane hospital, <name type="person" key="xxx">Surgeon R. A. Christian</name>, <name type="organization" key="132">U. S. V.</name>, in charge, <date type="admit" when="1864-10-20">October 20th</date>.  Diagnosis, partial paralysis of the lower extremities.  The case-book of the hospital gives the following particulars: This man had typhoid fever eight or nine years ago, followed by enfeeblement of the limbs, in consequence of which he was unable to walk for months. He says his limbs were never so strong again; nevertheless, he was well enough to enlist <date type="enlist" when="1864-04-04">April 4, 1864</date>, and was sent at once to the field. <date type="injury" when="1864-05">Six weeks after enlistment</date> he was attacked by dysentery, which was followed by his present trouble. He is now unable to walk, and complains of a feeling as if a rope were tied tightly around his hips; sensation is less impaired than motion; he feels a touch on the legs, but does not perceive painful impressions as distinctly on the lower as on the upper extremities. The record shows that this man was discharged the service <date type="servicedischarge" when="1864-12-21">December 21st</date>, because of &#34;partial paralysis of the lower extremities.&#34;</p>   
+  </body>
+ </text>
+</TEI>

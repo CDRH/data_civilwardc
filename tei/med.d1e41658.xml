@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e41658">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Fox, Francis M.</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+    <idno>med.d1e41658</idno>
+       <authority>Civil War Washington</authority>
+       <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor>
+       <name>Center for Digital Research in the Humanities</name>
+       <address><addrLine>319 Love Library</addrLine>
+       <addrLine>University of Nebraska–Lincoln</addrLine>
+       <addrLine>Lincoln, NE 68588-4100</addrLine>
+       <addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+    </distributor>
+    <date>2011</date>
+    <availability>
+        <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+         republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+         law, requires express written consent from the editors and advance notification of the
+         publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+     <persName xml:id="mb">Matthew Bosley</persName>
+     <persName xml:id="el">Elizabeth Lorang</persName>
+     <persName xml:id="sb">Stacey Berry</persName>
+     <persName xml:id="ao">Alyssa Olson</persName>
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl>
+     <title level="j">The Medical and Surgical History of the War of the Rebellion. (1861-65.)</title>
+     <pubPlace>Washington, DC</pubPlace>
+     <publisher>Government Printing Office</publisher>
+     <biblScope type="part">Part 2</biblScope>
+     <biblScope type="volume">Volume 1</biblScope>
+     <date when="1879">1879</date>
+     <biblScope type="page">199-200</biblScope>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+       <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+      <keywords scheme="#medsurg">
+       <term>diarrh&#339;a and dysentery</term>
+       <term>fatal cases of diarrh&#339;a and dysentery, with accounts of the morbid appearances observed</term>
+       <term>from the Third Division of the Alexandria Hospital, Virginia</term>
+       <term>consumption</term>
+       <term>exhausting diarrh&#339;a</term>
+       <term>n&#230;vi materni</term>
+       <term>both lungs infiltrated with miliary tubercles, several cavities in right upper lobe</term>
+       <term>mucous membrane of trachea ulcerated</term>
+       <term>liver and spleen enlarged</term>
+       <term>mesenteric glands cheesy</term>
+       <term>small intestine ulcerated in places, distinct pustules in others</term>
+       <term>three distinct intussusceptions of small intestine</term>
+       <term>kidneys enlarged</term>
+       <term>large intestine congested and presented some ulcers</term>
+       <term><choice><orig>dulness</orig><reg>dullness</reg></choice> on percussion over whole lung</term>
+       <term>contusion of lumbar region, fell from tree</term>
+       <term>autopsy performed</term>       
+     </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change who="#mb" when="2013-01-09">additional proofing of transcription and encoding, identified keyword terms</change>
+   <change who="#el" when="2010-11-05">case text extracted and transformed from larger file</change>
+   <change who="#sb" when="2010-05-01">enrich encoding, proof and edit</change>
+   <change who="#ao" when="2008-10-02">encoding and editing</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body> 
+   <p>Case from the case-book of the <name type="hospital" key="501"><hi rend="initialcap">T</hi>HIRD <hi rend="initialcap">D</hi>IVISION</name> of the <name type="place" key="#Alexandria"><hi rend="initialcap">A</hi>LEXANDRIA</name> <hi rend="initialcap">H</hi>OSPITAL, <name type="person" key="134">Surgeon Edwin Bentley</name>, <name type="organization" key="132">U. S. V.</name>, in charge:&#8432;</p>
+   <p><hi rend="initialcap">C</hi>ASE 521.&#8212;<name type="person" key="xxx">Private Francis M. Fox</name>, <name type="organization" key="xxx">company K, 109th New York volunteers</name>; age 23; admitted from <name type="hospital" key="218">Augur hospital</name> <date type="admit" when="1864-07-20">July 20, 1864</date>.  Consumption.   [This man appears on the register of the <name type="hospital" key="165">Mount Pleasant hospital</name>, Washington, D. C., admitted <date type="admit" when="1864-06-21">June 21st</date>&#8212;contusion of lumbar region by falling from a tree; returned to duty <date type="duty" when="1864-06-22">June 22d</date>. He appears on the register of the <name type="hospital" key="218">Augur Hospital</name>, near <name type="place" key="#Alexandria">Alexandria, Virginia</name>, admitted <date type="admit" when="1864-07-04">July 4th</date>&#8212;chronic rheumatism&#8212;sent to general hospital <date type="transfer" when="1864-07-20">July 20th</date>.]  The patient was suffering from an exhausting diarrh&#339;a and was much emaciated; his cough was not severe. There was <choice><orig>dulness</orig><reg>dullness</reg></choice> on percussion over the whole of the right lung.  Treatment: Astringents, expectorants, cod-liver oil, stimulants and a nutritious diet.  The diarrh&#339;a was readily controlled, but the chest-symptoms were persistent.  Died, <date type="death" when="1864-11-13">November 13th</date>.  <hi rend="italic">Autopsy</hi> <date type="autopsy" when="1864-11-14">eighteen hours after death</date>: Body moderately rigid and much emaciated; several n&#230;vi materni were observed on the right hip. The right lung was infiltrated with miliary tubercles, and had several cavities in its upper lobe; the left lung was also tuberculous, but less diseased than the right; its upper lobe was adherent to the parietes of the chest. The mucous membrane of the trachea was ulcerated. The heart was small but normal; there was a small clot in the left ventricle; the large veins and arteries were nearly empty. The liver was enlarged; the gall-bladder empty. The spleen enlarged and filled with black blood. The mesenteric glands were cheesy. The small intestine was ulcerated in several places, in others presented distinct pustules; [?] three distinct intussusceptions of the small intestine were observed. The large intestine was congested and presented a number of ulcers. The kidneys were enlarged; the urinary bladder contained eight ounces of light-colored urine.</p>
+   <p>&#8432; It is to be regretted that, in most instances, the records of this hospital do not show by whom the autopsies were made. It is known that many of them were made by <name type="person" key="134">Surgeon Bentley</name> himself, or under his immediate supervision, but it is only possible to distinguish these from the others in a few cases.</p>
+  </body>
+ </text>
+</TEI>

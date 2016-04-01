@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d2e4387">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Perkins, M. J. H.</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+    <idno>med.d2e4387</idno>
+    <authority>Civil War Washington</authority>
+    <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor><name>Center for Digital Research in the
+     Humanities</name><address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address></distributor>
+    <date>2011</date>
+    <availability>
+     <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+      republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+      law, requires express written consent from the editors and advance notification of the
+      publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+ <persName xml:id="kw">Kenneth Winkle</persName> 
+     <persName xml:id="ajh">AJ Howell</persName>
+     <persName xml:id="mb">Matthew Bosley</persName>
+     <persName xml:id="el">Elizabeth Lorang</persName>
+     <persName xml:id="sb">Stacey Berry</persName>
+     <persName xml:id="et">Elisabeth Tracey</persName>
+     <persName xml:id="ss">Sarah Synovec</persName>
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title level="j">The Medical and Surgical History of the War of the Rebellion.
+      (1861-65.)</title><pubPlace>Washington, DC</pubPlace><publisher>Government Printing
+      Office</publisher><biblScope type="part">Part 3</biblScope><biblScope type="volume">Volume
+      2</biblScope><date when="1883">1883</date><biblScope type="page">81</biblScope></bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+     <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <keywords scheme="#medsurg">
+     <term>wounds and injuries of the lower extremities</term>
+     <term>wounds and injuries of the hip joint</term>
+     <term>shot fractures at the hip joint</term>
+     <term>shot fractures at the hip joint unsuccessfully treated by conservation</term>
+     <term>acetabulum with head and neck or trochanters and shaft injured</term>
+     <term>ball entered hip, striking neck of femur within capsule, passed through the obturator
+      foramen and between the rectum and urethra, escaped behind ramus of opposite ischium</term>
+     <term>inflammation of prostate gland</term>
+     <term>priapism</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+ <change who="#kw" when="2014-05">blessed</change>
+   <change who="#ajh" when="2013-08-21">added figure encoding</change>
+   <change who="#mb" when="2012-02-14">additional proofing of transcription and encoding, identified
+    keyword terms</change>
+   <change who="#el" when="2011-05-11">case text extracted and transformed from larger file</change>
+   <change who="#sb" when="2011-06-04">Enrich Encoding, Edit and validate</change>
+   <change who="#sb" when="2011-01-28">Validated File</change>
+   <change who="#ss" when="2008-09-22">Sarah Synovec initial checking of OCR text; encoded P5
+    Encoding</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+
+   <p>
+    <hi rend="initialcap">C</hi>ASE 166.&#8212;<name type="person" key="933">Private M. J. H.
+     Perkins</name>, <name type="organization" key="96">Co. K, 6th Maine</name>, aged 21 years, was
+    wounded at <name type="BATTLE" key="10">Chancellorsville</name>, <date type="injury"
+     when="1863-05-03">May 3, 1863</date>. He was admitted to <name type="hospital" key="428"
+     >Judiciary Square Hospital</name>, Washington, <date type="admit" when="1863-05-07">May
+     7th</date>, and transferred to McDougall Hospital, Fort Schuyler, <name type="place">New York
+     Harbor</name>, <date type="transfer" when="1863-06">one month afterwards</date>. <name
+     type="person" key="242">Assistant Surgeon R. Bartholow</name>, <name type="organization"
+     key="190">U. S. A.</name>, contributed the specimen (<hi rend="italic">Cat. Surg. Sect.</hi>,
+    1866, p. 235, <hi rend="italic">Spec</hi>. 1659), represented in the adjacent wood-cut (<hi
+     rend="initialcap">F</hi>IG. 34), with the following description: &#34;A mini&#233; ball entered
+    the left hip, striking the neck of the femur within the capsule, passing through the obturator
+    foramen and between the rectum and urethra without injuring either, and escaped behind the ramus
+    of the right ischium. Inflammation of the prostate gland, and priapism set in. The patient died
+     <date type="death" when="1863-06-13">June 13, 1863</date>.&#34; The specimen consists of the
+    bones of the hip joint, the articular surfaces being entirely eroded. </p>
+
+   <figure><graphic url="cww.001523.001"/><head>
+    <hi rend="initialcap">F</hi>IG. 34&#8212;Bones of the left hip joint. <hi rend="italic"
+     >Spec</hi>. 1659.</head></figure>
+
+  </body>
+ </text>
+</TEI>

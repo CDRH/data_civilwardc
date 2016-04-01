@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e11112">
+        <teiHeader>
+                <fileDesc>
+                        <titleStmt>
+                                <title level="m" type="main">Brodder, John</title>
+                                <title level="m" type="sub">a machine readable transcription</title>
+                                <principal>Susan C. Lawrence</principal>
+                                <principal>Kenneth M. Price</principal>
+                                <principal>Kenneth J. Winkle</principal>
+                        </titleStmt>
+                        <editionStmt>
+                                <edition>
+                                        <date>2011</date>
+                                </edition>
+                        </editionStmt>
+                        <publicationStmt>
+                                <idno>med.d1e11112</idno>
+                                <authority>Civil War Washington</authority>
+                                <publisher>University of Nebraska–Lincoln</publisher>
+                                <distributor>
+                                        <name>Center for Digital Research in the Humanities</name>
+                                        <address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+                                </distributor>
+                                <date>2011</date>
+                                <availability>
+                                        <p>Copyright © 2011 by University of Nebraska–Lincoln, all
+                                                rights reserved. Redistribution or republication in
+                                                any medium, except as allowed under the Fair Use
+                                                provisions of U.S. copyright law, requires express
+                                                written consent from the editors and advance
+                                                notification of the publisher, the University of
+                                                Nebraska–Lincoln.</p>
+                                </availability>
+                        </publicationStmt>
+                        <notesStmt>
+                                <note type="project">The following are responsible for particular readings or for changes to this file, as noted: 
+                                        <persName xml:id="mb">Matthew Bosley</persName>
+                                        <persName xml:id="el">Elizabeth Lorang</persName>
+                                        <persName xml:id="sb">Stacey Berry</persName>
+                                        <persName xml:id="et">Elisabeth Tracey</persName>
+                                </note>
+                        </notesStmt>
+                        <sourceDesc>
+                                <bibl>
+                                        <title level="j">The Medical and Surgical History of the War of the Rebellion</title>
+                                        <pubPlace>Washington, DC</pubPlace>
+                                        <publisher>Government Printing Office</publisher>
+                                        <biblScope type="part">Part 3</biblScope>
+                                        <biblScope type="volume">Volume 1</biblScope>
+                                        <date when="1888">1888</date>
+                                        <biblScope type="page">776</biblScope>
+                                </bibl>
+                        </sourceDesc>
+                </fileDesc>
+                <encodingDesc>
+                        <classDecl>
+                                <taxonomy xml:id="medsurg">
+                                        <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+                                </taxonomy>
+                        </classDecl>
+                </encodingDesc>
+                <profileDesc>
+                        <textClass>
+                                <keywords scheme="#medsurg">
+                                        <term>diseases attributed to non-miasmatic exposures</term>
+                                        <term>diseases of the respiratory organs</term>
+                                        <term>pneumonia</term>
+                                        <term>post-mortem records</term> 
+                                        <term>lobar pneumonias</term>
+                                        <term>cases terminated in abscess or circumscrihed disintegration of the pulmonary tissue</term>
+                                        <term>admitted with pneumonia</term>
+                                        <term>pain in chest, coughed considerably</term>
+                                        <term><choice><orig>dulness</orig><reg>dullness</reg></choice> on percussion</term>
+                                        <term><choice><orig>sputa</orig><reg>sputum</reg></choice> streaked with blood</term>
+                                        <term>pleuritic adhesions both sides</term>
+                                        <term>abscesses in upper lobe of lung</term>
+                                        <term>lower lobe of lung in gray hepatization</term>
+                                        <term>opposite lower lobe hepatized</term>
+                                        <term>pericardium contained serum</term>                                        
+                                </keywords>
+                        </textClass>
+                </profileDesc>
+                <revisionDesc>
+                        <change who="#mb" when="2013-04-30">additional proofing of transcription and encoding, edited and added keyword terms</change>
+                        <change who="#mb" when="2013-03-08">additional proofing of transcription and encoding, edited and added keyword terms</change>
+                        <change who="#mb" when="2011-07-06">additional proofing of transcription and encoding</change>
+                        <change who="#el" when="2011-05-11">case text extracted and transformed from larger file</change>
+                        <change who="#sb" when="2011-02-23">Encoding and Proofing</change>
+                        <change who="#et" when="2009-12-01">Initial Checking OCR Text to PDF file,</change>
+                </revisionDesc>
+        </teiHeader>
+        <text>
+                <body>                        
+                        <p> <hi rend="initialcap">C</hi>ASE 132.&#8212;<name type="person">Private John Brodder</name>, <name type="organization">29th Colored Troops</name>; age 21; was admitted <date type="admit" when="1865-03-09">March 9, 1865</date>, with pneumonia. The patient was restless; complained of
+                                        pain in the chest and coughed considerably; there was
+                                <choice><orig>dulness</orig><reg>dullness</reg></choice> on percussion over the lower lobe of the left
+                                        lung. A blister, cough mixture and Dover's powder were
+                                        prescribed.  On the 13th the pulse was 100, tongue dry, skin
+                                        hot and expectoration stringy and tenacious. Poultices,
+                                        stimulants and beef-extract were ordered.  Diarrh&#339;a set in
+                                        on the 17th, the pulse rose to 120, and the patient became
+                                        slightly delirious. Next day the delirium increased;
+                                        respiration 44; <choice><orig>sputa</orig><reg>sputum</reg></choice> streaked with blood.  He died on <date type="death" when="1865-03-19">the
+                                                19th</date>.   <hi rend="italic">Post-mortem</hi> examination: There were pleuritic
+                                        adhesions on both sides. Four abscesses the size of walnuts
+                                        were found in the upper lobe of the right lung; the lower
+                                        lobe was in a state of gray hepatization. The left lung was
+                                        congested, its lower portion hepatized. The pericardium
+                                        contained two ounces of serum. The other viscera were
+                                        normal.&#8212;<hi rend="italic"><name type="person">Act. Ass't Surgeon S. D. Twining</name>,
+                                                <name type="hospital" key="210">L'Ouverture Hospital</name>, <name type="place">Alexandria, Va.</name></hi> </p>                        
+                </body>
+        </text>
+</TEI>

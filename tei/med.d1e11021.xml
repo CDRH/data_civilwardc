@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e11021">
+        <teiHeader>
+                <fileDesc>
+                        <titleStmt>
+                                <title level="m" type="main">Close, Robert</title>
+                                <title level="m" type="sub">a machine readable transcription</title>
+                                <principal>Susan C. Lawrence</principal>
+                                <principal>Kenneth M. Price</principal>
+                                <principal>Kenneth J. Winkle</principal>
+                        </titleStmt>
+                        <editionStmt>
+                                <edition>
+                                        <date>2011</date>
+                                </edition>
+                        </editionStmt>
+                        <publicationStmt>
+                                <idno>med.d1e11021</idno>
+                                <authority>Civil War Washington</authority>
+                                <publisher>University of Nebraska–Lincoln</publisher>
+                                <distributor>
+                                        <name>Center for Digital Research in the Humanities</name>
+                                        <address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+                                </distributor>
+                                <date>2011</date>
+                                <availability>
+                                        <p>Copyright © 2011 by University of Nebraska–Lincoln, all
+                                                rights reserved. Redistribution or republication in
+                                                any medium, except as allowed under the Fair Use
+                                                provisions of U.S. copyright law, requires express
+                                                written consent from the editors and advance
+                                                notification of the publisher, the University of
+                                                Nebraska–Lincoln.</p>
+                                </availability>
+                        </publicationStmt>
+                        <notesStmt>
+                                <note type="project">The following are responsible for particular readings or for changes to this file, as noted: 
+                                        <persName xml:id="mb">Matthew Bosley</persName>
+                                        <persName xml:id="el">Elizabeth Lorang</persName>
+                                        <persName xml:id="sb">Stacey Berry</persName>
+                                        <persName xml:id="et">Elisabeth Tracey</persName>
+                                </note>
+                        </notesStmt>
+                        <sourceDesc>
+                                <bibl>
+                                        <title level="j">The Medical and Surgical History of the War of the Rebellion</title>
+                                        <pubPlace>Washington, DC</pubPlace>
+                                        <publisher>Government Printing Office</publisher>
+                                        <biblScope type="part">Part 3</biblScope>
+                                        <biblScope type="volume">Volume 1</biblScope>
+                                        <date when="1888">1888</date>
+                                        <biblScope type="page">770-771</biblScope>
+                                </bibl>
+                        </sourceDesc>
+                </fileDesc>
+                <encodingDesc>
+                        <classDecl>
+                                <taxonomy xml:id="medsurg">
+                                        <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+                                </taxonomy>
+                        </classDecl>
+                </encodingDesc>
+                <profileDesc>
+                        <textClass>
+                                <keywords scheme="#medsurg">
+                                        <term>diseases attributed to non-miasmatic exposures</term>
+                                        <term>diseases of the respiratory organs</term>
+                                        <term>pneumonia</term>
+                                        <term>post-mortem records</term> 
+                                        <term>lobar pneumonias</term>
+                                        <term>associated with pericarditis</term>
+                                        <term>admitted with pneumonia</term>
+                                        <term>trachea and bronchi lined with tenacious reddish-brown mucus</term>
+                                        <term>lung solidified and adherent throughout</term>
+                                        <term>pericardium dark liquid like mulberry-juice</term>
+                                        <term>Peyer's patches prominent</term>
+                                </keywords>
+                        </textClass>
+                </profileDesc>
+                <revisionDesc>
+                        <change who="#mb" when="2011-07-05">additional proofing of transcription and encoding</change>
+                        <change who="#el" when="2011-05-11">case text extracted and transformed from larger file</change>
+                        <change who="#sb" when="2011-02-23">Encoding and Proofing</change>
+                        <change who="#et" when="2009-12-01">Initial Checking OCR Text to PDF file,</change>
+                </revisionDesc>
+        </teiHeader>
+        <text>
+                <body>                        
+                        <p> <hi rend="initialcap">C</hi>ASE 86.&#8212;<name type="person">Private Robert Close</name>, <name type="organization">Co. B, 8th Ill. Cav.</name>;
+                                age 33; admitted <date type="admit" when="1864-03-06">March 6, 1864</date>, with pneumonia.  Died <date type="death" when="1864-03-14">14th</date>.   <hi rend="italic">Post-mortem</hi> examination: Brain fifty-six ounces, much congested. Trachea and bronchi congested and lined with
+                                        tenacious reddish-brown mucus. Right lung, thirty ounces,
+                                        congested, especially at the base; left, fifty-seven ounces,
+                                        solidified, adherent throughout by recent lymph and with
+                                        seven ounces of serum in the pleural sac. Pericardium contained four ounces of dark liquid like mulberry-juice; heart flabby, reddish-brown in color and filled with fibrinous clots. Intestines normal but Peyer's patches prominent. Liver seventy-one ounces; spleen twelve ounces and a half; pancreas three ounces;
+                                        right kidney five ounces and a half, left seven ounces&#8212;all apparently healthy.&#8212;<hi rend="italic"><name type="hospital" key="176">Lincoln Hospital</name>, Washington, D. C.</hi> </p>                        
+                </body>
+        </text>
+</TEI>

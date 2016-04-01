@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e41910">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Snow, Daniel</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+    <idno>med.d1e41910</idno>
+    <authority>Civil War Washington</authority>
+    <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor>
+     <name>Center for Digital Research in the Humanities</name>
+     <address><addrLine>319 Love Library</addrLine>
+       <addrLine>University of Nebraska–Lincoln</addrLine>
+       <addrLine>Lincoln, NE 68588-4100</addrLine>
+       <addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+    </distributor>
+    <date>2011</date>
+    <availability>
+     <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+      republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+      law, requires express written consent from the editors and advance notification of the
+      publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+ <persName xml:id="kw">Kenneth Winkle</persName> <persName xml:id="ajh">AJ Howell</persName>
+     <persName xml:id="mb">Matthew Bosley</persName>
+     <persName xml:id="el">Elizabeth Lorang</persName>
+     <persName xml:id="sb">Stacey Berry</persName>
+     <persName xml:id="ao">Alyssa Olson</persName>
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl>
+     <title level="j">The Medical and Surgical History of the War of the Rebellion.
+      (1861-65.)</title>
+     <pubPlace>Washington, DC</pubPlace>
+     <publisher>Government Printing Office</publisher>
+     <biblScope type="part">Part 2</biblScope>
+     <biblScope type="volume">Volume 1</biblScope>
+     <date when="1879">1879</date>
+     <biblScope type="page">448</biblScope>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+     <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <keywords scheme="#medsurg">
+     <term>diarrh&#339;a and dysentery</term>
+     <term>remarks on the pathology and treatment of diarrh&#339;a and dysentery</term>
+     <term>acute dysentery</term>
+     <term>post mortem appearances in acute dysentery</term>
+     <term>diphtheritic inflammation</term>
+     <term>autopsy performed</term>
+     <term>confined as deserter</term>
+     <term>chronic dysentery</term>
+     <term>jaundice and bilious vomiting</term>
+     <term>large intestine presented large irregular ulcers from c&#230;cum to anus</term>
+     <term>colon ulcers involved muscular coat</term>
+     <term>perforation in caput coli</term>
+     <term>periton&#230;um covering intestine adherent to right lobe of liver</term>
+     <term>liver contained yellow metastatic foci, most in right lobe and in course of branches of
+      portal vein</term>
+     <term>liver foci contained disorganized liver tissue, granular matter, and fat globules, but no
+      pus</term>
+     <term>acute diphtheritic dysentery</term>
+     <term>diphtheritic sloughs completely separated before death</term>
+     <term>metastatic foci in liver like those in py&#230;mia</term>
+     <term>metastatic foci consecutive upon colon ulcers</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+ <change who="#kw" when="2014-05">blessed</change>
+
+   <change who="#ajh" when="2013-08-21">added figure encoding</change>
+   <change who="#mb" when="2013-01-31">additional proofing of transcription and encoding, edited and
+    added keyword terms, added figures</change>
+   <change who="#el" when="2010-11-05">case text extracted and transformed from larger file</change>
+   <change who="#sb" when="2010-05-01">enrich encoding, proof and edit</change>
+   <change who="#ao" when="2008-10-02">encoding and editing</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>The chromo-plate facing page 452 exhibits one variety of diphtheritic ulcers. The following is
+    an account of the case:</p>
+   <p><hi rend="initialcap">C</hi>ASE 896.&#8212;<name type="person" key="xxx">Private Daniel
+     Snow</name>, <name type="organization" key="xxx">company F, 2d New York heavy artillery</name>;
+    enlisted <date type="enlist" when="1864-01-06">January 6, 1864</date>, and is reported present
+    with his company until after the first of May. On the muster-roll for May and June he is
+    reported missing, and on that for July and August: "Absent; confined as a deserter by the
+    provost-marshal." While in confinement he was attacked with dysentery, and became so sick that
+    he was admitted to the field hospital of the 2d Army Corps at <name type="place">City Point,
+     Virginia</name>, <date type="admit" when="1864-09-06">September 6, 1864</date>, where the
+    diagnosis recorded was chronic dysentery. He appeared to be so ill that <date type="transfer"
+     when="1864-09-07">next day</date> he was put on board the <name type="hospital" key="xxx"
+     >steamer Connecticut</name> for transfer to general hospital. He was admitted to <name
+     type="hospital" key="162">Douglas Hospital</name>, Washington, D. C., <date type="admit"
+     when="1864-09-09">September 9th</date>, and the following particulars were communicated by
+     <name type="person" key="201">Assistant Surgeon Wm. F. Norris</name>, <name type="organization"
+     key="190">U. S. A.</name>: The patient was much emaciated, and, in addition to the usual
+    symptoms of the advanced stage of dysentery, had jaundice and frequent bilious vomiting. The
+    abdomen was flat and tender, the skin cool, the pulse feeble. He had stupor, low delirium and
+    involuntary stools. Died, <date type="death" when="1864-09-17">September 17th</date>. <hi
+     rend="italic">Autopsy:</hi> Body somewhat emaciated and intensely jaundiced. Organs of the
+    thorax healthy. [The state of the small intestine is not recorded.] The large intestine was
+    greatly thickened, contracted in calibre, and presented, from the c&#230;cum to the anus,
+    numerous large, irregular, ragged ulcers, most of which involved the muscular coat. The ulcers
+    had sharp, abrupt, ragged edges. In the caput coli there was a perforation the size of a dime.
+    Externally the periton&#230;um covering the intestine was roughened and adherent to the right
+    lobe of the liver for an extent of two inches. There was but little f&#230;cal matter in the
+    large intestine, which contained a number of black and gray fibrin-like clots. The liver
+    contained numerous yellow metastatic foci from a quarter to half an inch in diameter; these were
+    mostly in the right lobe and in the course of the branches of the portal vein; many of them
+    contained a small drop of yellow fluid in the centre, and consisted, as seen under the
+    microscope, of disorganized liver tissue, granular matter and fat globules, but no pus. The
+    other abdominal viscera were healthy. [Nos. 448 and 449, Medical Section, <name type="hospital"
+     key="431">Army Medical Museum</name>, are from this case.]</p>
+   <p>A portion of the descending colon and the liver from this case were brought to <name
+     type="hospital" key="431">the Museum</name>on the day of the autopsy, and water-color drawings
+    of the appearances presented made by <name type="person" key="xxx">Mr. Hermann Faber</name>;
+    these are reunited in the chromo-plate. The very large ulcer shown near the middle of the piece,
+    and parts of some of the others, laid bare the muscular coat, which was smooth and shining,
+    while the bottoms of some of the ulcers only penetrated more or less deeply into the submucous
+    connective tissue. The prevailing tint of the mucous membrane between the ulcers was yellowish,
+    but it was streaked with bluish, gray and greenish tints, and in places brownish, reddish-brown
+    or even bright red. Greenish or bluish neutral tints prevailed on the surface of the ulcers;
+    their edges were rounded or bevelled, in but few places overhanging. The liver was dark brown
+    externally, except where the metastatic foci described in the report of the autopsy were
+    visible. Its cut section presented the nutmeg appearance in a marked manner and numbers of the
+    metastatic foci. The description, given in the report, of the microscopical characters of these
+    foci and of their relations to the portal vein was verified at <name type="hospital" key="431"
+     >the Museum</name>. This case, then, is to be regarded as one of acute diphtheritic dysentery
+    in which the sloughs had completely separated before death. The exact duration of the dysentery
+    cannot be determined, but it probably set in some time after the deserter was captured by the
+    provost-marshal, so that it is improbable that it commenced earlier than July, and it may not
+    have done so until sometime in August. The metastatic foci in the liver were quite like those
+    which occur in py&#230;mia, and I am disposed to regard them as consecutive upon the colon
+    ulcers.</p>
+   <figure>
+    <graphic url="cww.001502.001"/>
+    <head><hi rend="initialcap">P</hi>LATE XIX. EXTENSIVE ULCERATION OF COLON.&#8212;CHRONIC
+     DYSENTERY. METASTATIC FOCI OF LIVER.</head>
+   </figure>
+   <p/>
+  </body>
+ </text>
+</TEI>

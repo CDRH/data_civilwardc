@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e15985">
+                <teiHeader>
+                                <fileDesc>
+                                                <titleStmt>
+                                                                <title level="m" type="main">O'Donovan, Daniel D.</title>
+                                                  <title level="m" type="sub">a machine readable
+                                                  transcription</title>
+                                                  <principal>Susan C. Lawrence</principal>
+                                                  <principal>Kenneth M. Price</principal>
+                                                  <principal>Kenneth J. Winkle</principal>
+                                                </titleStmt>
+                                                <editionStmt>
+                                                  <edition>
+                                                  <date>2011</date>
+                                                  </edition>
+                                                </editionStmt>
+                                                <publicationStmt>
+                                                  <idno>med.d1e15985</idno>
+                                                  <authority>Civil War Washington</authority>
+                                                  <publisher>University of
+                                                  Nebraska–Lincoln</publisher>
+                                                  <distributor>
+                                                  <name>Center for Digital Research in the
+                                                  Humanities</name>
+                                                  <address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+                                                  </distributor>
+                                                  <date>2011</date>
+                                                  <availability>
+                                                  <p>Copyright © 2011 by University of
+                                                  Nebraska–Lincoln, all rights reserved.
+                                                  Redistribution or republication in any medium,
+                                                  except as allowed under the Fair Use provisions of
+                                                  U.S. copyright law, requires express written
+                                                  consent from the editors and advance notification
+                                                  of the publisher, the University of
+                                                  Nebraska–Lincoln.</p>
+                                                  </availability>
+                                                </publicationStmt>
+                                                <notesStmt>
+                                                  <note type="project">The following are responsible for particular readings or for changes to this file, as noted: 
+                                                                  <persName xml:id="mb">Matthew Bosley</persName>
+                                                                  <persName xml:id="el">Elizabeth Lorang</persName>
+                                                                  <persName xml:id="sb">Stacey Berry</persName>
+                                                                  <persName xml:id="et">Elisabeth Tracey</persName>
+                                                  </note>
+                                                </notesStmt>
+                                                <sourceDesc>
+                                                  <bibl>
+                                                  <title>The Medical and Surgical History of the War of the Rebellion. (1861&#8211;65.)</title>
+                                                  <editor role="compiler">Surgeon General Joseph K. Barnes, United States Army</editor>
+                                                  <pubPlace>Washington, D.C.</pubPlace>
+                                                  <publisher>Government Printing Office</publisher>
+                                                  <biblScope type="part">Part 1</biblScope>
+                                                  <biblScope type="volume">Volume 2</biblScope>
+                                                  <date when="1870">1870</date>
+                                                  <biblScope type="page">232</biblScope>
+                                                  </bibl>
+                                                </sourceDesc>
+                                </fileDesc>
+                                <encodingDesc>
+                                                <classDecl>
+                                                  <taxonomy xml:id="medsurg">
+                                                  <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+                                                  </taxonomy>
+                                                </classDecl>
+                                </encodingDesc>
+                                <profileDesc>
+                                                <textClass>
+                                                  <keywords scheme="#medsurg">
+                                                    <term>on special wounds and injuries of the head</term>
+                                                    <term>wounds and injuries of the head</term>
+                                                    <term>gunshot wounds</term>
+                                                    <term>gunshot fractures of the cranial bones</term> 
+                                                    <term>removal of fragments after gunshot fractures of the skull</term>
+                                                    <term>recovered after gunshot fractures of the skull</term>
+                                                    <term>defective vision</term>
+                                                    <term>partial or complete loss of vision</term>
+                                                    <term>conoidal musket ball injured orbital ridge of frontal bone</term>                                                    
+                                                    <term>sympathetic affection of right eye</term>
+                                                    <term>vision of left eye totally destroyed</term>
+                                                    <term>pain in head and vertigo</term>
+                                                    <term>disability total and permanent</term>
+                                                  </keywords>
+                                                </textClass>
+                                </profileDesc>
+                                <revisionDesc>
+                                                <change who="#mb" when="2013-07-29">additional proofing of transcription and encoding, edited and added keyword terms</change>
+                                                <change who="#mb" when="2011-07-29">additional proofing of transcription and encoding</change>
+                                                <change who="#el" when="2011-11-05">case text extracted and transformed from larger file</change>
+                                                <change who="#sb" when="2011-02-09">enriched encoding</change>
+                                                <change who="#sb" when="2011-01-28">validated file</change>
+                                                <change who="#et" when="2009-08-01">encoded</change>
+                                                <change who="#sb" when="2008-09-22">initial checking of OCR text against PDF; encoded</change>
+                                </revisionDesc>
+                                
+                </teiHeader>
+                <text>
+                                <body>                                                
+                                  <p><hi rend="initialcap">C</hi>ASE.&#8212;<name type="person" key="xx">Private Daniel D. O'Donovan</name>, <name type="organization" key="xx">Co. K, 59th Massachusetts Volunteers</name>, aged 23 years, was wounded at the battle of the <name type="BATTLE" key="12">the Wilderness, Virginia</name>, <date type="injury" when="1864-05-06">May 6th, 1864</date>, by a conoidal musket ball, which injured the orbital ridge of the frontal bone.  He was, on <date type="admit" when="1864-05-11">May 11th</date>, admitted to the <name type="hospital" key="176">Lincoln Hospital</name>, Washington, D. C.; on <date type="transfer" when="1864-05-16">May 16th</date>, sent to the <name type="hospital">Patterson Park Hospital, Baltimore</name>, Maryland; on <date type="transfer" when="1864-06-17">June 17th</date>, to the Knight Hospital,<name type="place"> New Haven, Connecticut</name>; on <date type="transfer" when="1864-10-16">October 16th</date>, to <name type="place">Readville</name>; and thence, on <date type="transfer" when="1864-10-24">October 24th</date>, to the Dale Hospital, <name type="place">Worcester, Massachusetts</name>, where he was discharged from service on <date type="servicedischarge" when="1865-03-02">March 2d, 1865</date>, and pensioned.  The vision of the left eye was totally destroyed, and the man suffered from morbid sensibility.  On <date type="pension" when="1867-04-09">April 9th, 1867</date>, <name type="person">Pension Examiner G. S. Jones</name> reported this man to be suffering from a sympathetic affection of the right eye, with pain in the head and vertigo. He rates his disability total and probably permanent.</p>                                                
+                                </body>
+                </text>
+</TEI>

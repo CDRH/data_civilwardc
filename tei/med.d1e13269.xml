@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e13269">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Baumgartner, Andreas</title>
+                <title level="m" type="sub">a machine readable transcription</title>
+                <principal>Susan C. Lawrence</principal>
+                <principal>Kenneth M. Price</principal>
+                <principal>Kenneth J. Winkle</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2011</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <idno>med.d1e13269</idno>
+                <authority>Civil War Washington</authority>
+                <publisher>University of Nebraska–Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+                </distributor>
+                <date>2011</date>
+                <availability>
+                    <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved.
+                        Redistribution or republication in any medium, except as allowed under the
+                        Fair Use provisions of U.S. copyright law, requires express written consent
+                        from the editors and advance notification of the publisher, the University
+                        of Nebraska–Lincoln.</p>
+                </availability>
+            </publicationStmt>
+            <notesStmt>
+                <note type="project">The following are responsible for particular readings or for changes to this file, as noted: 
+                    <persName xml:id="mb">Matthew Bosley</persName>
+                    <persName xml:id="el">Elizabeth Lorang</persName>
+                    <persName xml:id="sb">Stacey Berry</persName>
+                    <persName xml:id="et">Elisabeth Tracey</persName>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>The Medical and Surgical History of the War of the Rebellion. (1861&#8211;65.)</title>
+                    <editor role="compiler">Surgeon General Joseph K. Barnes, United States Army</editor>
+                    <pubPlace>Washington, D.C.</pubPlace>
+                    <publisher>Government Printing Office</publisher>
+                    <biblScope type="part">Part 1</biblScope>
+                    <biblScope type="volume">Volume 2</biblScope>
+                    <date when="1870">1870</date>
+                    <biblScope type="page">185</biblScope>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <classDecl>
+                <taxonomy xml:id="medsurg">
+                    <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme="#medsurg">
+                    <term>on special wounds and injuries of the head</term>
+                    <term>wounds and injuries of the head</term>
+                    <term>gunshot wounds</term>
+                    <term>gunshot fractures of the cranial bones</term> 
+                    <term>depressed gunshot fracture of cranial bones</term>
+                    <term>caries and necrosis</term>
+                    <term>caries or necrosis following gunshot injuries of cranial bones</term>
+                    <term>round ball fractured upper portion of occipital bone</term>
+                    <term>gunshot wound of left orbit</term>
+                    <term>necrosis of both tables of skull</term>
+                    <term>persistent pain, vertigo, general constitutional disturbance</term>
+                    <term>unable to earn livelihood</term>
+                    <term>disability rated three-fourths</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change who="#mb" when="2013-07-10">additional proofing of transcription and encoding, edited and added keyword terms</change>
+            <change who="#mb" when="2011-07-22">additional proofing of transcription and encoding</change>
+            <change who="#el" when="2011-11-05">case text extracted and transformed from larger file</change>
+            <change who="#sb" when="2011-02-09">enriched encoding</change>
+            <change who="#sb" when="2011-01-28">validated file</change>
+            <change who="#et" when="2009-08-01">encoded</change>
+            <change who="#sb" when="2008-09-22">initial checking of OCR text against PDF; encoded</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body xml:id="ch1.sc3.0240">            
+                <p><hi rend="initialcap">C</hi>ASE.&#8212;<name type="person" key="1561">Private
+                        Andreas Baumgartner</name>, <name type="organization" key="801">Co. K, 82d
+                        Illinois Volunteers</name>, aged 42 years, was wounded at <name
+                        type="BATTLE" key="10">Chancellorsville</name>, <date type="injury"
+                        when="1863-05-02">May 2, 1863</date>, by a round ball, which fractured the
+                    upper portion of the occipital bone. In the same engagement he received a
+                    gunshot wound of the left orbit.  On <date type="admit" when="1863-05-15">May 15th</date>, he was admitted to the hospital of
+                        the 3d division, Eleventh Corps; on <date type="transfer" when="1863-06-15">June
+                        15th</date>, he was sent to <name type="hospital" key="176">Lincoln
+                            Hospital</name>, Washington, and on <date type="transfer" when="1864-01-01">January 1st, 1864</date>, was sent to the Marine Hospital, <name type="place">Chicago,
+                                Illinois</name>.  He was discharged on <date type="servicedischarge" when="1864-05-05">May 5th, 1864</date>.  In <date type="pension" when="1869-12">December, 1869</date>, it was reported by <name
+                        type="person" key="1560">Pension Examiner J. D. Howell</name> that there was
+                    necrosis of both tables of the skull, leaving the patient with persistent pain
+                    and vertigo, and general constitutional disturbance, which rendered him unable
+                    to earn a livelihood. <name type="person" key="1560">Dr. Howell</name> rated his
+                    disability at three-fourths.</p>            
+        </body>
+    </text>
+</TEI>

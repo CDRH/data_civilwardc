@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="cww.02509">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Letters From "Ethiop." Number III.</title>
+                <title level="m" type="sub">a machine readable transcription</title>
+                <editor role="editor">R. J. Weir</editor>
+                <principal>Susan C. Lawrence</principal>
+                <principal>Elizabeth Lorang</principal>
+                <principal>Kenneth M. Price</principal>
+                <principal>Kenneth J. Winkle</principal>
+                <respStmt>
+                    <resp>transcription and encoding</resp>
+                    <persName xml:id="ak">Alex Kinnaman</persName>
+                    <persName xml:id="el">Elizabeth Lorang</persName>
+                    <persName xml:id="bw">R. J. Weir</persName>
+                    <persName xml:id="kk">Kourtney Klein</persName>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2015</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <idno>cww.02509</idno>
+                <distributor>Civil War Washington</distributor>
+                <publisher>University of Nebraska Lincoln</publisher>
+                <address>
+                    <addrLine>Center for Digital Research in the Humanities</addrLine>
+                    <addrLine>319 Love Library</addrLine>
+                    <addrLine>University of Nebraska-Lincoln</addrLine>
+                    <addrLine>P.O. Box 884100</addrLine>
+                    <addrLine>Lincoln, NE 68588-4100</addrLine>
+                </address>
+                <address>
+                    <addrLine>
+                        <email>cdrh@unl.edu</email>
+                    </addrLine>
+                </address>
+                <date>2015</date>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+                        <p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License (http://creativecommons.org/licenses/by-nc-sa/3.0/). Derivatives must be credited to Civil War Washington and R. J. Weir, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct xml:id="letter">
+                    <analytic>
+                        <author ref="#ethiop">Ethiop</author>
+                        <title type="main" level="a">Letters From "Ethiop"</title>
+                        <title type="sub" level="a">Number III</title>
+                    </analytic>
+                    <monogr>
+                        <title xml:id="paper" level="j">The Anglo-African</title>
+                        <imprint>
+                            <date xml:id="issue_date" when="1863-09-19">19 September 1863</date>                    
+                        </imprint>
+                        <biblScope type="pp">[1]</biblScope>                    
+                    </monogr>           
+                </biblStruct>
+                
+                <biblStruct xml:id="issue">               
+                    <monogr>
+                        <title level="j" sameAs="#paper"/>
+                        <imprint>
+                            <date sameAs="#issue_date"/>                  
+                        </imprint>              
+                    </monogr>                   
+                </biblStruct>                        
+            </sourceDesc>       
+        </fileDesc>
+        <encodingDesc> 
+            <p>This electronic text is a semi-diplomatic transcription of the source text. Hyphenation, punctuation, variant spellings, and errors present in the source text have been retained. The transcription does not attempt to capture all aspects of the original formatting or layout.</p>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <persName xml:id="ethiop">Wilson, William J.</persName>
+                <persName xml:id="rh">Hamilton, Robert</persName>
+                <persName xml:id="th">Hamilton, Thomas</persName>
+                <date when="1863">1863</date>
+            </creation>
+            <langUsage>
+                <language ident="en-US">modern American English</language>
+            </langUsage>
+            <textClass>
+                <classCode scheme="http://id.loc.gov/">
+                    <term xml:id="sh2009113992">African American soldiers--History--19th century</term>
+                    <term xml:id="sh2009114063">African Americans--Washington (D.C.)</term>
+                    <term xml:id="sh2009114001.html">African American women--History</term>
+                    <term xml:id="n78095586">Buchanan, James, 1791-1868</term>
+                    <term xml:id="nr90000559">Butler, A. P. (Andrew Pickens), 1796-1857</term>
+                    <term xml:id="n85363511">Butler, Benjamin F. (Benjamin Franklin), 1818-1893</term>
+                    <term xml:id="n85363455">Dallas, George Mifflin, 1792-1864</term>
+                    <term xml:id="n79145410">Davis, Jefferson, 1808-1889</term>
+                    <term xml:id="n80013236">Douglass, Frederick, 1818-1895</term>
+                    <term xml:id="n81141734">Fifteenth Street Presbyterian Church (Washington, D.C.)</term>
+                    <term xml:id="n84005107">Floyd, John B. (John Buchanan), 1806-1863</term>
+                    <term xml:id="n89602848">Forney, John W. (John Wien), 1817-1881</term>
+                    <term xml:id="no2004049648">Gloucester, James N.</term>
+                    <term xml:id="n85055360">Keckley, Elizabeth, approximately 1818-1907</term>
+                    <term xml:id="n50018658">Pierce, Franklin, 1804-1869</term>
+                    <term xml:id="n80145740">Polk, James K. (James Knox), 1795-1849</term>
+                    <term xml:id="sh2010113249">Slavery--Maryland</term>
+                    <term xml:id="nr93003067">Smith, James McCune, 1813-1865</term>
+                    <term xml:id="n95068450">Soulé, Pierre, 1801-1870</term>
+                    <term xml:id="n93053256">United States. Colored Troops</term>
+                    <term xml:id="sh85140274">United States--History--Civil War, 1861-1865--Societies, etc</term>
+                    <term xml:id="sh2007100004">United States--History--Civil War, 1861-1865--Participation, African American</term>
+                    <term xml:id="n84017802">Wise, Henry A. (Henry Alexander), 1806-1876</term></classCode>
+            </textClass>
+            <textClass>
+                <classCode scheme="http://civilwardc.org">
+                    <term>Slade, William, 1815-?</term>
+                    <term>Cook, Jr., John Francis</term>
+                    <term>Cook, George F. T.</term>
+                </classCode>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when="2015-04-07" who="#ak">corrected</change>
+            <change when="2015-03-24" who="#el">checked and corrected transcription and encoding; updated TEI header, including keywords</change>
+            <change when="2015-03-03" who="#ak">updated keywords</change>
+            <change when="2015-02-17" who="#ak">checked, corrected</change>
+            <change when="2014-08-05" who="#el">checked transcription and encoding</change>
+            <change when="2014-04-14" who="#el">checked encoding; revised TEI header</change>
+            <change when="2014-04-30" who="#kk">encoded</change>
+            <change when="2014-04" who="#kk">checked transcription</change>
+            <change when="2014-03-31" who="#bw">checked transcription</change>
+            <change when="2014-03" who="#bw">transcribed</change>
+        </revisionDesc>
+    </teiHeader>
+    
+    <facsimile corresp="#issue">
+        <surface xml:id="pp1">
+            <graphic url="aa.18630919.pp1.jpg"/>
+            <zone xml:id="pp1_cropped" corresp="#letter">
+                <graphic url="aa.18630919.pp1_cropped.jpg"/>
+            </zone>
+        </surface>
+        <surface xml:id="pp2">
+            <graphic url="aa.18630919.pp2.jpg"/>
+        </surface>
+        <surface xml:id="pp3">
+            <graphic url="aa.18630919.pp3.jpg"/>
+        </surface>
+        <surface xml:id="pp4">
+            <graphic url="aa.18630919.pp4.jpg"/>
+        </surface>
+    </facsimile>
+    
+    <text corresp="#letter #pp1_cropped">
+        <body>
+           
+            <head type="main" subtype="authorial" rend="center"><emph rend="italic">LETTERS FROM &#8220;ETHIOP.&#8221;</emph></head>
+            
+            <milestone unit="undeclared" rend="medium-bar"/>
+            
+            <head type="sub" subtype="authorial" rend="center">NUMBER III.</head>
+            
+            <opener>
+                <salute><emph rend="smallcaps">Dear Doctor</emph>:</salute>
+            </opener> 
+            
+            <p>Washington seems to be a <lb/>kind of a Mecca for sable gentlemen&#8212;at least <lb/>prospectively; and they are not, as formerly, <lb/>required to show their free papers ere they <lb/>pass through the metropolis of "my <choice><orig>Mary-<lb/>land</orig><reg>Maryland</reg></choice>" when facing northward. "Have you <lb/>got a pass?" said a genteel-looking young <lb/>white man to me as we were about to leave <lb/>Washington. "I had to get one before I could <lb/>get away. I do not know whether colored <lb/>men have to or not," said he. At this my <lb/>friend G. began to get a little nervous, and we <lb/>had but little time, and a mile away from the <lb/>place where passes were to be obtained.</p>
+            
+                <p>But to ascertain if such were really <choice><orig>neces-<lb/>sary</orig><reg>necessary</reg></choice> was first in order, and so I stepped up to <lb/>the most important-looking personage about <lb/>the station, exhibiting at the same time <choice><orig>let-<lb/>ters</orig><reg>letters</reg></choice> enclosed in government envelopes, and <lb/>asked if I needed anything else to leave <choice><orig>Wash-<lb/>ington</orig><reg>Washington</reg></choice>. "Nothing," said he, promptly (he was <lb/>the man in power). "With that" (pointing <lb/>to the enveloped letters, or the envelope) <lb/>"with that you can go anywhere." Oh! <choice><orig>won-<lb/>drous</orig><reg>wondrous</reg></choice> strange! There sat crouched at my feet, <lb/>with his permit to leave Washington in his <lb/>pocket, a white man who, a few dozen moons <lb/>ago, had I not had one, could, and doubtless <lb/>would, have arrested me as a <emph rend="italic">piece of stray <choice><orig>pro-<lb/>perty</orig><reg>property</reg></choice></emph>, and, as such, put a part of the price into <lb/>the very pocket that now contained (to him) <lb/>the humiliating permit.</p>
+            
+            <p>Among other distinguished persons, <choice><orig>Frede-<lb/>rick</orig><reg>Frederick</reg></choice> Douglass (who has by this time earned <lb/>for himself the appellation of Lion&#8212;if not of <lb/>the tribe of Judah, yet certainly a <emph rend="italic">Lion</emph>) made <lb/>his entry into this pilgrim's rest a day or so <lb/>before I arrived. From his Excellency and <lb/>heads of departments down, all stepped <choice><orig>for-<lb/>ward</orig><reg>forward</reg></choice> to do him honor and bid him God-speed <lb/>on his mission, and lesser employees laid aside <lb/>their pens and other duties to look upon the <lb/>unusual scene; while all sympathizing <choice><orig>rebel-<lb/>dom</orig><reg>rebeldom</reg></choice>, or what there is left of it hereabouts, <lb/>gazed in mute astonishment, even <choice><orig>bewilder-<lb/>ment</orig><reg>bewilderment</reg></choice>, upon the scene and the cause of it.</p>
+            
+                <p>Remember, this Lion who is now going <lb/>about rebeldom seeking whom he may devour <lb/>was once (forgive me, friend Douglass) a <emph rend="italic">Cub</emph> <lb/>in "my Maryland," where his physical growth <lb/>was well stimulated by the rod-applying hand <lb/>of more than one of the good old saints of that <lb/>slavery-beloved region. But since his mental <lb/>growth and strength developed somewhere up <lb/>Northward, and so often felt upon the country, <lb/>and is now being brought to bear upon these <lb/>lower regions, it is no surprise that there was <lb/>some little gnashing of teeth amid the mingled <lb/>amazement and hilarity here; for whoever <choice><orig>be-<lb/>lieves</orig><reg>believes</reg></choice> that all the old leaven is out of the <choice><orig>gov-<lb/>ernment</orig><reg>government</reg></choice> dough trays, pap bowls and spoons, is <lb/>sadly mistaken.</p>
+            
+            <p>Douglass left Washington the day of our <lb/>arrival. I was sorry for this; but my friend <lb/>G. and myself, if we were not lions, each of us <lb/>looked the lion, and on repairing to the several <lb/>departments where business or pleasure called <lb/>us, found ourselves very handsomely treated <lb/>by both white and colored friends, of whom we <lb/>left behind many.</p>
+            
+            <p>Mr. Slade, to whom among others I had <lb/>letters, and who is not only, as you know, a <lb/>highly intelligent gentleman, but a leading <lb/>man here, paid us every attention. Through <lb/>him we were introduced into one of the leading <lb/>Churches here (the Presbyterian), and to <lb/>many noted friends and co-laborers in the <lb/>great field of progress, and whose hands are <lb/>not slack. Indeed, from what I witnessed, I <lb/>am not sure that they can put to blush some <lb/>of the frigid societies up about Gotham in real <lb/>work, at least, of their associations. The <choice><orig>an-<lb/>niversary</orig><reg>anniversary</reg></choice> of the Ladies' F. R. Association <choice><orig>oc-<lb/>curred</orig><reg>occurred</reg></choice> one evening. At the same time a flag <lb/>was presented to the First Washington <choice><orig>Regi-<lb/>ment</orig><reg>Regiment</reg></choice> (colored), and a splendid flag it was, too, <lb/>gotten up by the ladies of the Society, and <lb/>costing, I think, $150. All this threw <choice><orig>Wash-<lb/>ington</orig><reg>Washington</reg></choice>&#8212;I mean the colored portion&#8212;into quite <lb/>a flutter of pleasant excitement. A young <choice><orig>gen-<lb/>tleman</orig><reg>gentleman</reg></choice>, it was said, of much talents and <choice><orig>learn-<lb/>ing</orig><reg>learning</reg></choice>, but of great modesty, was to deliver the <lb/>presentation address, and as it was his first <lb/>appearance and generally predicted success, <lb/>expectation was, as you may know, on tiptoe.</p>
+            
+                <p>At the appointed hour we quietly went <lb/>round to the place of gathering&#8212;the <choice><orig>Presbyte-<lb/>rian</orig><reg>Presbyterian</reg></choice> church&#8212;and found every aisle and <choice><orig>pas-<lb/>sageway</orig><reg>passageway</reg></choice> crammed with anxious spectators. <lb/>All Anglo-African rank and beauty was there; <lb/>and what beauty! It would have done your <lb/>heart good to have gazed for one moment upon <lb/>that vast and beautifully-countenanced <choice><orig>audi-<lb/>ence</orig><reg>audience</reg></choice>. My friend G., who was no stranger <lb/>here, and is of the "<emph rend="italic">Cloth</emph>," was immediately <lb/>on entering ushered up to the pulpit. I stepped <lb/>a little behind him, and slipped into the first <lb/>vacant space I could find.</p>
+            
+            <p>Just at this moment a lady&#8212;tall, stately, <lb/>commanding&#8212;I dare not say more&#8212;rose, and <lb/>in a clear and harmonious voice commenced to <lb/>address the Society. You could have heard a <lb/>pin had it dropped from any part of the house<lb/>&#8212;a just tribute to so fine a speech and so <choice><orig>cap-<lb/>tivatingly</orig><reg>captivatingly</reg></choice> uttered. "Who is that?" said I, <lb/>ere she resumed her seat, for I could not <lb/>speak before, and could not wait till she had <lb/>sat down.  "Who is that?" I instinctively <lb/>inquired of my nearest neighbor. "That," <lb/>said he, "is Madam Keckley<choice><sic>.</sic><corr>."</corr></choice></p>
+            
+            <p>I drew breath, and looked and listened again <lb/>and again, as young lady after young lady&#8212; <lb/>active, live members of the Association&#8212;read <lb/>their various reports, conclusive of the life, <lb/>activity and good results of the past year.</p>
+            
+                <p>Then unfurled the splendid flag to the <choice><orig>audi-<lb/>ence</orig><reg>audience</reg></choice> and to the soldiers detailed to bear it to <lb/>their regiment. I will not describe it. It has <lb/>already been done better than I can by the <lb/>Washington correspondent of <title level="j" rend="smallcaps">The <choice><orig>Anglo-Afri-<lb/>can</orig><reg>Anglo-African</reg></choice></title>, "Bob Logic." Enough to say it was <choice><orig>in-<lb/>spiring</orig><reg>inspiring</reg></choice>; and the orator of the evening, let me <lb/>now expose him. J. F. Cook, rising, caught <lb/>the flame, and for chaste, ornate language, and <lb/>fine classical allusions and patriotic thoughts, <lb/>it has seldom been my privilege to listen to in <lb/>the brief space of half an hour. The flag was <lb/>received by an officer, who, in a brief speech, <lb/>thanked the ladies for their patriotism and <lb/>kindness. Then followed what was perhaps <lb/>never expected in Washington&#8212;certainly <lb/>never by me. Col. John W. Forney was <choice><orig>pre-<lb/>sent</orig><reg>present</reg></choice>. Yes, sir, Col. Forney, one of the old <lb/>apostles of Democracy in the olden days, when <lb/>Polk and Dallas, and Soule and Buchanan, and <lb/>Jeff. Davis and Floyd, and Pierce and <emph rend="italic">Butler</emph>&#8212; <lb/><emph rend="italic">even Ben</emph>, the other Butler, the man of this our <lb/>time&#8212;and Wise, Henry A., of John Brown <lb/>notoriety, and many other of lesser light were <lb/>above the horizon; I say the said Col. J. W. <lb/>Forney, once the rock and tower and strength, <lb/>and often brain, of these men and this once <lb/>formidable party, was called for, and that <lb/>loudly, and did go upon the platform right <lb/>willingly and made a speech, every word of <lb/>which I not only cheerfully subscribed to, but <lb/>did my heart good. I confess I was not <choice><orig>pre-<lb/>pared</orig><reg>prepared</reg></choice> for the complete conversion and <choice><orig>soul-<lb/>stirring</orig><reg>soul-stirring</reg></choice> utterances of this able and influential <lb/>man. I was not prepared to hear him say, as <lb/>he did in remarking upon his former views of <lb/>the colored people in these United States, and <lb/>of what he had formerly written of them and <lb/>spoken of them&#8212;said he, "I little thought <lb/>then that the things I wrote and spoke of you <lb/>then I should as I now do loathe and hate. I <lb/>am amazed," said he, "at what I now know of <lb/>the colored people of these United States, and <lb/>what I once thought of them; and I am also <lb/>amazed at myself that I ever could have <choice><orig>enter-<lb/>tained</orig><reg>entertained</reg></choice> such sentiments. I repeat again," said <lb/>he, "I both hate and loathe them." Much <lb/>more to the same effect proceeded from him; <lb/>closing with the assurance that whatever of <lb/>talent he possessed he should henceforth wield <lb/>in behalf of the cause of right, which is our <lb/>cause.</p>
+            
+            <p>My friend G. next spoke; and then, for some <lb/>cause (for fun, I suppose, because without it <lb/>things would go dull indeed), Mr. J. Cook, <lb/>brother of the orator of the evening, who acted <lb/>as master of ceremonies, rose and said (I could <lb/>have pinched Shylock's pound of flesh out of <lb/>him, no more nor no less, for it), "Ethiop is in <lb/>the house." I think I must have been getting <lb/>under the bottom of the pew at that moment<unclear reason="illegible" resp="#el" cert="medium">.</unclear> <lb/>"We will now have a speech from Ethiop," <lb/>said he. Madam Keckley, the President, rose <lb/>and called for me. Between my friends, Mr. <lb/>Kiger, Harris, and some others, I think I must <lb/>have been led up; and I remember to have <lb/>got off some broken and incoherent sentences<lb/>&#8212;about what, I leave for my Washington <choice><orig>au-<lb/>dience</orig><reg>audience</reg></choice> to say. I took my seat, and some more <lb/>splendid music, under the direction of our old <lb/>friend, T. S. Boston (he is everywhere), and <lb/>many kind and cordial introductions of ourself <lb/>by friends to the <emph rend="italic">elite</emph> and beauty present, <lb/>ended one of those brilliant <emph rend="italic">fetes</emph> now becoming <lb/>frequent all over Afric-America where <choice><orig>intelli-<lb/>gence</orig><reg>intelligence</reg></choice>, spirit and patriotism are to be found.</p>   
+                
+                <p>But I have trespassed upon your patience. <lb/>More anon.</p>
+            
+            <closer><salute rend="center">Yours truly,</salute>    
+            <signed rend="right"><emph rend="smallcaps">Ethiop</emph>.</signed></closer>
+            
+            <note type="newspaper-editorial"><emph rend="italic">To James McCune Smith, M.D.</emph></note>
+            
+        </body>
+    </text>
+    
+</TEI>

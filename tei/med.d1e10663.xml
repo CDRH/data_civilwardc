@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e10663">
+        <teiHeader>
+                <fileDesc>
+                        <titleStmt>
+                                <title level="m" type="main">Wentworth, Asa C.</title> 
+                                <title level="m" type="sub">a machine readable transcription</title>
+                                <principal>Susan C. Lawrence</principal>
+                                <principal>Kenneth M. Price</principal>
+                                <principal>Kenneth J. Winkle</principal>
+                        </titleStmt>
+                        <editionStmt>
+                                <edition>
+                                        <date>2011</date>
+                                </edition>
+                        </editionStmt>
+                        <publicationStmt>
+                                <idno>med.d1e10663</idno>
+                                <authority>Civil War Washington</authority>
+                                <publisher>University of Nebraska–Lincoln</publisher>
+                                <distributor>
+                                        <name>Center for Digital Research in the Humanities</name>
+                                        <address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+                                </distributor>
+                                <date>2011</date>
+                                <availability>
+                                        <p>Copyright © 2011 by University of Nebraska–Lincoln, all
+                                                rights reserved. Redistribution or republication in
+                                                any medium, except as allowed under the Fair Use
+                                                provisions of U.S. copyright law, requires express
+                                                written consent from the editors and advance
+                                                notification of the publisher, the University of
+                                                Nebraska–Lincoln.</p>
+                                </availability>
+                        </publicationStmt>
+                        <notesStmt>
+                                <note type="project">The following are responsible for particular
+                                        readings or for changes to this file, as noted: 
+                                        <persName xml:id="mb">Matthew Bosley</persName>
+                                        <persName xml:id="el">Elizabeth Lorang</persName>
+                                        <persName xml:id="sb">Stacey Berry</persName>
+                                        <persName xml:id="et">Elisabeth Tracey</persName>
+                                </note>
+                        </notesStmt>
+                        <sourceDesc>
+                                <bibl>
+                                        <title level="j">The Medical and Surgical History of the War of the Rebellion</title>
+                                        <pubPlace>Washington, DC</pubPlace>
+                                        <publisher>Government Printing Office</publisher>
+                                        <biblScope type="part">Part 3</biblScope>
+                                        <biblScope type="volume">Volume 1</biblScope>
+                                        <date when="1888">1888</date>
+                                        <biblScope type="page">732</biblScope>                                        
+                                </bibl>
+                        </sourceDesc>
+                </fileDesc>
+                <encodingDesc>
+                        <classDecl>
+                                <taxonomy xml:id="medsurg">
+                                        <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+                                </taxonomy>
+                        </classDecl>
+                </encodingDesc>
+                <profileDesc>
+                        <textClass>
+                                <keywords scheme="#medsurg">
+                                        <term>diseases attributed to non-miasmatic exposures</term>
+                                        <term>diseases of the respiratory organs</term>
+                                        <term>inflammation of the larynx</term>
+                                        <term>larynx implicated by extension of diseased action from pharynx</term>
+                                        <term>pharyngitis</term>
+                                        <term>abscess of the pharynx</term>
+                                        <term>abscess opposite arytenoid cartilage</term>
+                                        <term>difficulty of deglutition</term>
+                                        <term>epiglottis and vocal chords &#339;dematous</term>
+                                        <term>liver bronzed, mottled with hard lardaceous spots</term>         
+                                </keywords>
+                        </textClass>
+                </profileDesc>
+                <revisionDesc>
+                        <change who="#mb" when="2013-04-18">additional proofing of transcription and encoding, edited and added keyword terms</change>
+                        <change who="#mb" when="2013-02-26">additional proofing of transcription and encoding, edited and added keyword terms</change>                        
+                        <change who="#mb" when="2011-10-03">additional proofing of transcription and encoding</change>
+                        <change who="#mb" when="2011-06-28">additional proofing of transcription and encoding</change>
+                        <change who="#el" when="2011-05-11">case text extracted and transformed from larger file</change>
+                        <change who="#sb" when="2011-02-23">Encoding and Proofing</change>
+                        <change who="#et" when="2009-12-01">Initial Checking OCR Text to PDF file,</change>
+                </revisionDesc>
+        </teiHeader>
+        <text>
+                <body>                        
+                        <p> <hi rend="initialcap">C</hi>ASE 7.&#8212;<name type="person">Private Asa C. Wentworth</name>, <name type="organization">Co. H, 19th Me.</name>;
+                                        admitted <date type="admit" when="1863-11-26">Nov. 26, 1863</date>; died <date type="death" when="1864-01-12">Jan. 12, 1864</date>.   <hi rend="italic">Post-mortem</hi> examination: The velum palati was hard, stiff
+                                        and white; the tonsils in normal condition. Pharyngitis was
+                                        present, especially on the right side. Opposite the right
+                                        arytenoid cartilage a large abscess, with hard,
+                                        yellowish-white walls, was observed, and the cartilage
+                                        itself was the seat of a large protuberance, probably a
+                                        collection of pus. This swelling and the abscess of the
+                                        pharynx explained the difficulty of deglutition observed
+                                        during life. A small collection of pus was seen on the
+                                        opposite side of this region immediately above the greater
+                                        horn of the hyoid bone. The epiglottis and vocal chords were
+                                        &#339;dematous and yellowish-white. The heart was soft and the
+                                        liver bronzed and mottled with hard lardaceous spots.  [The
+                                        condition of the lungs is not stated.]&#8212;<hi rend="italic"><name type="person" key="245">Ass't
+                                        Surgeon H. Allen</name>, <name type="organization" key="190">U. S. A.</name>, <name type="hospital" key="176">Lincoln Hospital</name>, Washington, D. C.</hi> </p>                           
+                </body>
+        </text>
+</TEI>

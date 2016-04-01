@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d2e25301">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Jackson, T. A.</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+    <idno>med.d2e25301</idno>
+    <authority>Civil War Washington</authority>
+    <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor><name>Center for Digital Research in the
+     Humanities</name><address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address></distributor>
+    <date>2011</date>
+    <availability>
+     <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+      republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+      law, requires express written consent from the editors and advance notification of the
+      publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+     <persName xml:id="mb">Matthew Bosley</persName>
+     <persName xml:id="el">Elizabeth Lorang</persName>
+     <persName xml:id="sb">Stacey Berry</persName>
+     <persName xml:id="et">Elisabeth Tracey</persName>
+     <persName xml:id="ss">Sarah Synovec</persName>
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title level="j">The Medical and Surgical History of the War of the Rebellion.
+      (1861-65.)</title><pubPlace>Washington, DC</pubPlace><publisher>Government Printing
+      Office</publisher><biblScope type="part">Part 3</biblScope><biblScope type="volume">Volume
+      2</biblScope><date when="1883">1883</date><biblScope type="page">653</biblScope></bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+     <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <keywords scheme="#medsurg">
+     <term>miscellaneous injuries</term> 
+     <term>punctured, incised, and lacerated wounds</term>
+     <term>punctured wound of knee joint</term>
+     <term>perforating wound of knee</term> 
+     <term>fall from horse, pair of scissors from knapsack punctured knee joint and broke off</term> 
+     <term>points were removed days later</term> 
+     <term>inflammation and large number of abscesses formed about joint</term>     
+     <term>walks on crutches, unable to bear weight on limb</term>
+     <term>anchylosis of knee joint, injury by scissors penetrating knee joint</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change who="#mb" when="2012-06-20">additional proofing of transcription and encoding, identified keyword terms</change>
+   <change who="#el" when="2011-05-11">case text extracted and transformed from larger file</change>
+   <change who="#sb" when="2011-06-04">Enrich Encoding, Edit and validate</change>
+   <change who="#sb" when="2011-01-28">Validated File</change>
+   <change who="#ss" when="2008-09-22">initial checking of OCR text; encoded P5 Encoding</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>   
+    <p><hi rend="initialcap">C</hi>ASE 979.&#8212;<hi rend="italic">Punctured wound of knee
+      joint.</hi>&#8212;<name type="person" key="1444">Private T. A. Jackson</name>, <name
+      type="organization" key="540">Co. H, 1st Rhode Island Cavalry</name>, aged 23 years, is
+     recorded by <name type="person" key="147">Assistant Surgeon E. J. Marsh</name>, <name
+      type="organization" key="190">U. S. A.</name>, as having been admitted to <name
+      type="hospital" key="428">Judiciary Square Hospital</name>, Washington, <date type="admit"
+      when="1863-04-29">April 29, 1863</date>, with a "perforating wound of the left knee," and as
+     having been transferred to Philadelphia <date type="transfer" when="1863-05-07">one week afterwards</date>.  <name type="person" key="xx">Acting Assistant Surgeon W. W. Keen, <choice><orig>jr.</orig><reg>Jr.</reg></choice></name>, reported the case as a "punctured wound of the knee joint" and described the injury as follows:  "The patient was admitted to <name
+      type="hospital" key="xx">Satterlee Hospital</name> <date type="admit" when="1863-05-07">May 7th</date>. He stated that in <date type="injury" when="1862-12">the previous December</date> he
+     met with a fall from his horse, during which a pair of scissors from his knapsack punctured the
+     knee joint and broke off; that the points were removed <date type="operation" when="1862-12">three days after the accident</date>, being
+     three inches deep according to the statement of his surgeon, and that severe inflammation
+     followed and a large number of abscesses formed about the joint. At the time of the patient's
+     admission the injured joint was smaller than the sound one, the hamstrings were contracted, and
+     motion was limited from complete flexion to an angle of 135° with the thigh. Crepitation was
+     very marked and motion of the patella much restricted. Just to the inside and above the
+     tubercle of the tibia there was a cicatrix from a wound, and all about the joint old cicatrices
+     from abscesses were found. The evidence was rather in favor of penetration of the joint, both
+     by the position of the cicatrix mentioned and the escape of synovia, which seems probable from
+     his statement, though of this he is not quite confident. The scissors were rusty when he was
+     wounded. He walks about on crutches but is unable to bear weight on the limb." <name type="person" key="137">Surgeon I. I. Hayes</name>, <name type="organization" key="132">U. S. V.</name>, reported that the patient was discharged from <date type="servicedischarge" when="1863-06-01">June 1, 1863</date>, by reason of anchylosis of the left knee joint
+     resulting from an injury by scissors penetrating the knee joint." The man is not a pensioner.</p>  
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d2e24728">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Hoffman, A.</title>
+                <title level="m" type="sub">a machine readable transcription</title>
+                <principal>Susan C. Lawrence</principal>
+                <principal>Kenneth M. Price</principal>
+                <principal>Kenneth J. Winkle</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition><date>2011</date></edition>
+            </editionStmt>
+            <publicationStmt>
+                <idno>med.d2e24728</idno>
+                <authority>Civil War Washington</authority>
+                <publisher>University of Nebraska–Lincoln</publisher>
+                <distributor><name>Center for Digital Research in the
+                    Humanities</name><address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address></distributor>
+                <date>2011</date>
+                <availability>
+                    <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved.
+                        Redistribution or republication in any medium, except as allowed under the
+                        Fair Use provisions of U.S. copyright law, requires express written consent
+                        from the editors and advance notification of the publisher, the University
+                        of Nebraska–Lincoln.</p>
+                </availability>
+            </publicationStmt>
+            <notesStmt>
+                <note type="project">The following are responsible for particular readings or for
+                    changes to this file, as noted: 
+                    <persName xml:id="mb">Matthew Bosley</persName>
+                    <persName xml:id="el">Elizabeth Lorang</persName>
+                    <persName xml:id="sb">Stacey Berry</persName>
+                    <persName xml:id="et">Elisabeth Tracey</persName>
+                    <persName xml:id="ss">Sarah Synovec</persName>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <bibl><title level="j">The Medical and Surgical History of the War of the Rebellion.
+                        (1861-65.)</title><pubPlace>Washington, DC</pubPlace><publisher>Government
+                        Printing Office</publisher><biblScope type="part">Part 3</biblScope><biblScope type="volume">Volume 2</biblScope><date when="1883">1883</date><biblScope type="page">644</biblScope></bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <classDecl>
+                <taxonomy xml:id="medsurg">
+                    <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme="#medsurg">
+                    <term>miscellaneous injuries</term> 
+                    <term>dislocations</term>
+                    <term>dislocation of first lumbar vertebra</term>
+                    <term>dislocation of superior lumbar vertebra by falling of brick wall</term> 
+                    <term>perfect paralysis of all parts below seat of injury</term> 
+                    <term>stools passed involuntarily, urine drawn off by catheter</term> 
+                    <term>slight sensation in feet and legs</term>                    
+                    <term>erysipelas and gangrene, inguinal region</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change who="#mb" when="2012-06-19">additional proofing of transcription and encoding, identified keyword terms</change>
+            <change who="#el" when="2011-05-11">case text extracted and transformed from larger file</change>
+            <change who="#sb" when="2011-06-04">Enrich Encoding, Edit and validate</change>
+            <change who="#sb" when="2011-01-28">Validated File</change>
+            <change who="#ss" when="2008-09-22">initial checking of OCR text; encoded P5 Encoding</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+              <p><hi rend="initialcap">C</hi>ASE 947.&#8212;<hi rend="italic">Dislocation of first
+                        lumbar vertebra.</hi>&#8212;<name type="person" key="1419">Private A.
+                        Hoffman</name>, <name type="organization" key="535">Co. E, 101st New
+                        York</name>, sustained a dislocation of the superior lumbar vertebra by the
+                    falling of the brick wall of a building at Port Republic, <date type="injury"
+                        when="1862-06-01">June 1, 1862</date>.  He was admitted to <name
+                            type="hospital" key="190">Washington Street Hospital</name>, at <name type="place" key="#Alexandria">Alexandria</name>,
+                  <date type="admit" when="1862-06-17">sixteen days after the occurrence of the accident</date>, there being perfect paralysis
+                    of all the parts below the seat of injury. His stools passed off involuntarily, and the urine was drawn off by the
+                    catheter. On July 5th he passed his urine freely and some slight sensation was
+                    felt in both feet and legs. Erysipelatous inflammation attacked the inguinal
+                    region of the right side and resulted in gangrene, terminating in death on <date
+                        type="death" when="1862-08-29">August 29, 1862</date>. No autopsy was
+                    recorded. </p>            
+        </body>
+    </text>
+</TEI>

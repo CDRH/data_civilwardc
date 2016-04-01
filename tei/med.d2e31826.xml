@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d2e31826">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Johnson, Andrew (President of U. S.)</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+       <idno>med.d2e31826</idno>
+       <authority>Civil War Washington</authority>
+       <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor>
+       <name>Center for Digital Research in the Humanities</name>
+       <address><addrLine>319 Love Library</addrLine>
+       <addrLine>University of Nebraska–Lincoln</addrLine>
+       <addrLine>Lincoln, NE 68588-4100</addrLine>
+       <addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+    </distributor>
+    <date>2011</date>
+    <availability>
+        <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+         republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+         law, requires express written consent from the editors and advance notification of the
+         publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+ <persName xml:id="kmp">Kenneth M. Price</persName> 
+     <persName xml:id="mb">Matthew Bosley</persName>
+     <persName xml:id="kk">Kourtney Klein</persName>
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl>
+     <title level="j">The Medical and Surgical History of the War of the Rebellion. (1861-65.)</title>
+     <pubPlace>Washington, DC</pubPlace>
+     <publisher>Government Printing Office</publisher>
+     <biblScope type="part">Part 2</biblScope>
+     <biblScope type="volume">Volume 2</biblScope>
+     <date when="1876">1876</date>
+     <biblScope type="page">376</biblScope>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+       <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+      <keywords scheme="#medsurg">
+       <term>urethral calculi</term>       
+       <term>injuries of the pelvis</term>
+       <term>injuries of the genital organs</term>
+       <term>wounds of the penis</term>
+       <term>wounds of the urethra</term>
+       <term>foreign bodies</term>
+       <term>passage of renal calculus</term>
+       <term>hypodermic injections of sulphate of morphia</term>
+       <term>calculus a hard tuberculated ovoid concretion, wholly of oxalate of lime</term>
+       <term>lumbar pain, dysuria, other symptoms of nephritic colic</term>
+       <term>urethral irritation</term>       
+     </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+ <change who="#kmp" when="2014-05">blessed</change>
+   <change who="#kk" when="2014-01-17">added figure encoding</change>
+   <change who="#mb" when="2012-09-04">copied case from MSHWR, added proofing of transcription and encoding, identified keyword terms</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body> 
+   <p>The particulars of a case which furnished two of the specimens of urethral calculi, on account of the eminent position of the subject of it, possess extrinsic interest:</p>       
+   <p><hi rend="initialcap">C</hi>ASE A&#185;&#8304;.&#8212;<name type="person" key="xxx">President Andrew Johnson</name>, in <date type="injury" when="1867-08">August and September, 1867</date>, suffered intensely from the frequent recurrence of paroxysms of lumbar pain, dysuria, and other symptoms of nephritic colic; symptoms which his physician, <name type="person" key="xxx">Dr. Basil Norris</name>, <name type="organization" key="190">U. S. A.</name>, ascribed to the passage of a renal calculus.  After a few weeks intermission, about <date type="injury" when="1867-10">the middle of October</date>, another attack of difficult micturition, with tenesmus and great pain, announced that the calculus had entered the vesical end of the urethra. The pain was mitigated by the use of hypodermic injections of sulphate of morphia.  On the second day of the paroxysm, the calculus could be felt in the scrotal portion of the canal, and Dr. Norris proposed to attempt its extraction by the aid of a curette or forceps; but the patient objected to operative interference; and, as micturition, though difficult and painful, was still accomplished sufficiently to avert any dangerous vesical accumulation, the expectant and anodyne treatment was continued. During night the calculus was expelled, and, at the morning visit, the patient handed the concretion (<hi rend="initialcap">F</hi>IG. 294 b) to his attendant, remarking that he might exclaim with the old Greek philosopher:  &#917;&#971;&#961;&#951;&#954;&#945;!  The urethral irritation at once subsided, and, on the same day, the President undertook a journey to Boston. The calculus, weighing six grains Troy, was a hard tuberculated ovoid concretion, consisting almost wholly of oxalate of lime.  In <date type="injury" when="1869-03">the spring of 1869</date>, after a similar train of symptoms, a second, somewhat smaller, calculus (<hi rend="initialcap">F</hi>IG. 294 a) was spontaneously expelled. While it was engaged in the urethra, the pain was so excessive that <name type="person" key="xxx">Dr. Norris</name> was summoned to <name type="place">Greenville</name>; but, upon his arrival, <date when="1869-03-09">March 9, 1869</date>, the offending concretion had escaped. The patient recuperated as rapidly as on the first occasion, and has since enjoyed immunity from calculous disorder. The second concretion was similar in weight, color, and composition to the first, but of irregular form, as indicated in the wood-cut (<hi rend="initialcap">F</hi>IG. 294 a).</p> 
+   
+   <figure>
+    <graphic url="cww.001785.001" />
+    <head><hi rend="initialcap">F</hi>IG. 294.&#8212;Two mulberry calculi passed by the urethra:  <hi rend="italic">a, Spec</hi>. 5562;   <hi rend="italic">b, Spec</hi>. 4830.</head>
+   </figure>
+   
+  </body>
+ </text>
+</TEI>

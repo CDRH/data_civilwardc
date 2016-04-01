@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d2e31530">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">N&#8212;&#8212;, Allen A.</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+       <idno>med.d2e31530</idno>
+       <authority>Civil War Washington</authority>
+       <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor>
+       <name>Center for Digital Research in the Humanities</name>
+       <address><addrLine>319 Love Library</addrLine>
+       <addrLine>University of Nebraska–Lincoln</addrLine>
+       <addrLine>Lincoln, NE 68588-4100</addrLine>
+       <addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+    </distributor>
+    <date>2011</date>
+    <availability>
+        <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+         republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+         law, requires express written consent from the editors and advance notification of the
+         publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+ <persName xml:id="kw">Kenneth Winkle</persName> 
+     <persName xml:id="mb">Matthew Bosley</persName>
+     <persName xml:id="mb-o">Miguel Beltran-Orozco</persName>
+     <persName xml:id="kk">Kourtney Klein</persName>
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl>
+     <title level="j">The Medical and Surgical History of the War of the Rebellion. (1861-65.)</title>
+     <pubPlace>Washington, DC</pubPlace>
+     <publisher>Government Printing Office</publisher>
+     <biblScope type="part">Part 2</biblScope>
+     <biblScope type="volume">Volume 2</biblScope>
+     <date when="1876">1876</date>
+     <biblScope type="page">133</biblScope>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+       <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+      <keywords scheme="#medsurg">
+       <term>injuries of the abdomen</term>
+       <term>penetrating wounds of the abdomen</term>
+       <term>wounds of the liver</term>
+       <term>gunshot wounds</term>
+       <term>recoveries from shot wounds of the liver</term> 
+       <term>died in ambulance carriage</term>
+       <term>wound of right abdomen</term>
+       <term>abdomen contained blackish fluid and clots of venous blood</term>
+       <term>ball passed through irregular fissure on inferior surface of liver</term>
+       <term>ball exited to left of spine six inches above sacrum</term>        
+     </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+ <change who="#kw" when="2014-05">blessed</change>
+   <change who="#kk" when="2014-01-17">added figure encoding</change>
+   <change who="#mb" when="2012-08-03">additional proofing of transcription and encoding, identified keyword terms</change>
+   <change who="#mb-o" when="2011-02-16">checked OCR; added minimal mark-up for personal names, place names, and dates</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>   
+   <p><hi rend="initialcap">C</hi>ASE 362.&#8212;<name type="person" key="xxx">Sergeant Allen A. N&#8212;&#8212;</name>, <name type="organization" key="xxx">Co. D, 2nd Massachusetts</name>, died, in an ambulance carriage, while being conveyed to <name type="hospital" key="176">Lincoln Hospital</name>, Washington, <date type="death" when="1863-06-10">June 10, 1863</date>. He had probably been wounded at <name type="BATTLE" key="109">Beverly Ford</name> <date type="injury" when="1863-06-09">the day previously</date>.  An autopsy was made <date type="autopsy" when="1863-06-10">seven hours after</date> the reception of the cadaver. The wound was ten inches above the pubis and three inches to the right of the median line, and was a small opening, depressed and blackened around the edges. The small intestine and omentum were agglutinated together by a thin layer of recent lymph. The cavity of the abdomen contained a large quantity of blackish fluid, mingled with dark clots of venous blood. The mucous lining of the trachea was very pale, and was covered with numerous papillated points, which were readily removed with the finger, and probably consisted of a tenacious mucous secretion. A large, dense, venous clot was present in the right ventricle of the heart, and a much smaller and more fibrous one in the left. One inch to the right of the suspensory ligament of the liver was a stellate opening, and on the inferior surface, to the left of the gall bladder, a large irregular fissure, through which the ball had passed; it went through the body, making its exit two inches to the left of the spine and six inches above the sacrum. The intestines were not injured. The specimen represented in the wood-cut (<hi rend="initialcap">F</hi>IG. 103) was contributed to the <name type="hospital" key="431">Army Medical Museum</name> by <name type="person" key="76">Surgeon G. S. Palmer</name>, <name type="organization" key="132">U. S. V.</name>, and the notes of the case by <name type="person" key="245">Assitant Surgeon H. Allen</name>, <name type="organization" key="190">U. S. A.</name>, who conducted the <hi rend="italic">post-mortem</hi> examination.</p>
+   
+   <figure>
+    <graphic url="cww.001758.001" />
+    <head><hi rend="initialcap">F</hi>IG. 103.&#8212;Section of liver, showing the entrance of a shot perforation on the anterior surface of the right lobe.    <hi rend="italic">Spec</hi>. 1232.    [Reduced to one-twelfth.]</head>
+   </figure>     
+  </body>
+ </text>
+</TEI>

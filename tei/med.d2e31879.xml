@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d2e31879">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Gibson, W. J.</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+       <idno>med.d2e31879</idno>
+       <authority>Civil War Washington</authority>
+       <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor>
+       <name>Center for Digital Research in the Humanities</name>
+       <address><addrLine>319 Love Library</addrLine>
+       <addrLine>University of Nebraska–Lincoln</addrLine>
+       <addrLine>Lincoln, NE 68588-4100</addrLine>
+       <addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+    </distributor>
+    <date>2011</date>
+    <availability>
+        <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+         republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+         law, requires express written consent from the editors and advance notification of the
+         publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+ <persName xml:id="kmp">Kenneth M. Price</persName> 
+     <persName xml:id="mb">Matthew Bosley</persName>
+     <persName xml:id="jy">Jingyao Yu</persName> 
+     <persName xml:id="kk">Kourtney Klein</persName>
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl>
+     <title level="j">The Medical and Surgical History of the War of the Rebellion. (1861-65.)</title>
+     <pubPlace>Washington, DC</pubPlace>
+     <publisher>Government Printing Office</publisher>
+     <biblScope type="part">Part 2</biblScope>
+     <biblScope type="volume">Volume 2</biblScope>
+     <date when="1876">1876</date>
+     <biblScope type="page">215</biblScope>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+       <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+      <keywords scheme="#medsurg">
+       <term>injuries of the pelvis</term>
+       <term>shot fractures of the pelvic bones</term>
+       <term>shot fractures of the ilium</term> 
+       <term>grapeshot entered front of abdomen below line from umbilicus to anterior superior spinous process near border of ilium, passed through middle of ilium</term>
+       <term>ball carried before it portion of ilium, both ball and fragment of bone lodged in gluteal muscles</term>
+       <term>missile entered iliac region and fractured ilium</term>
+       <term>deformity and partial loss of use of leg</term>
+       <term>extensive incision along nates</term>       
+       <term>general anesthesia, chloroform</term>
+     </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+ <change who="#kmp" when="2014-05">blessed</change>
+   <change who="#kk" when="2014-01-17">Kourtney Klein</change>
+   <change who="#mb" when="2012-09-05">additional proofing of transcription and encoding, identified keyword terms</change>
+   <change who="#jy" when="2011-02-24">checked OCR; added minimal mark-up for personal names, place names, and dates</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body> 
+   <p>CASE 629. <name type="person" key="xxx">Private W. J. Gibson</name>, <name type="organization" key="xxx">Co. G, 102d Pennsylvania</name>, aged 20 years, was wounded at <name type="BATTLE" key="12">the Wilderness</name>, <date type="operation" when="1864-05-05"><date type="injury" when="1864-05-05">May 5, 1864</date></date>, by a six-ounce grapeshot, which entered the front of the abdomen a little below a line drawn from the umbilicus to the anterior superior spinous process, and about three inches from the border of the right ilium, and passed through the middle of the ilium, carrying before it a portion of the bone more than two inches square; both the ball and the fragment of bone lodged in the gluteal muscles. He was removed to the field hospital of the 2d division, Sixth Corps, where <name type="person" key="xxx">Surgeon George F. Stevens</name>, <name type="organization" key="xxx">77th New York</name> administered chloroform, and removed, through an extensive incision along the nates, the missile and the fragment of bone which lay in proximity. The borders of the large opening in the ilium were smoothed by means of the bone forceps somewhat enlarging the orifice. The wound was then brought together, and water-dressings applied. He passed through the hard experience of the wounded of the Wilderness, being drawn in an army wagon two nights and a day over rough roads, and for several days received little or no care.  [The above notes of the case appear on a special report furnished by <name type="person" key="xxx">the operator</name>.]   On <date type="transfer" when="1864-05-25">May 25th</date>, the patient was removed to <name type="hospital" key="176">Lincoln Hospital</name>, Washington>, and on <date type="transfer" when="1864-07-28">July 28th</date>, to the hospital at <name type="place"><choice><orig>Pittsburg</orig><reg>Pittsburgh</reg></choice></name>, where he was transferred to the <name type="organization" key="109">Veteran Reserve Corps</name>, <date type="duty" when="1865-01-30">January 30, 1865</date>.  He was discharged <date type="servicedischarge" when="1865-06-19">June 19, 1865</date>, and pensioned.   <name type="person" key="xxx">Examining Surgeon D. N. Rankin</name>, of <name type="place">Alleghany City</name>, reported, <date type="pension" when="1865-07-05">July 5, 1865</date>, that "the missile entered the right iliac region and fractured the right ilium. Great deformity of the parts and a partial loss of the use of the right leg resulted. He has had poor health since the reception of the injury."  <name type="person" key="xxx">This pensioner</name> died <date type="death" when="1866-10-07">October 7, 1866</date>.  <name type="person" key="xxx">Dr. Stevens</name> had prepared and sent to <name type="hospital" key="431">the Museum</name> a ferrotype of the specimens removed, which are represented, of the size of nature, in the adjacent drawings (<hi rend="initialcap">F</hi>IGS. 142 and 143).</p>
+   
+   <figure>
+    <graphic url="cww.001786.001" />
+    <head><hi rend="initialcap">F</hi>IG. 142.&#8212;Fragment of right ilium carried away by a grapeshot.  [From a photograph.]</head>
+   </figure>    
+   
+   <figure>
+    <graphic url="cww.001787.001" />
+    <head><hi rend="initialcap">F</hi>IG. 143.&#8212;Grapeshot that produced the foregoing fracture, and then lodged in the buttock.</head>
+   </figure> 
+   
+  </body>
+ </text>
+</TEI>

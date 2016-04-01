@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d2e23698">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Tarrance, D. M.</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+    <idno>med.d2e23698</idno>
+    <authority>Civil War Washington</authority>
+    <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor><name>Center for Digital Research in the
+     Humanities</name><address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address></distributor>
+    <date>2011</date>
+    <availability>
+     <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+      republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+      law, requires express written consent from the editors and advance notification of the
+      publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+     <persName xml:id="mb">Matthew Bosley</persName>
+     <persName xml:id="el">Elizabeth Lorang</persName>
+     <persName xml:id="sb">Stacey Berry</persName>
+     <persName xml:id="et">Elisabeth Tracey</persName>
+     <persName xml:id="ss">Sarah Synovec</persName>
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title level="j">The Medical and Surgical History of the War of the Rebellion.
+      (1861-65.)</title><pubPlace>Washington, DC</pubPlace><publisher>Government Printing
+      Office</publisher><biblScope type="part">Part 3</biblScope><biblScope type="volume">Volume
+      2</biblScope><date when="1883">1883</date><biblScope type="page">619</biblScope></bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+     <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <keywords scheme="#medsurg">
+     <term>wounds and injuries of the lower extremities</term> 
+     <term>wounds and operations in the foot</term>
+     <term>shot wounds of the bones of the foot</term>
+     <term>shot fractures of the bones of the foot</term> 
+     <term>shot fractures of the bones of the foot treated by conservation</term> 
+     <term>shot fracture of the os calcis</term>
+     <term>ball entered outside of tendo-achillis, passed through os calcis and fractured bone, emerged at inner margin of sole of foot</term> 
+     <term>pus discharged from wounds, symptoms of necrosed bone present</term>
+     <term>diseased bone removed</term>     
+    </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change who="#mb" when="2012-06-15">additional proofing of transcription and encoding, identified keyword terms</change>
+   <change who="#el" when="2011-05-11">case text extracted and transformed from larger file</change>
+   <change who="#sb" when="2011-06-04">Enrich Encoding, Edit and validate</change>
+   <change who="#sb" when="2011-01-28">Validated File</change>
+   <change who="#ss" when="2008-09-22">initial checking of OCR text; encoded P5 Encoding</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>   
+    <p><hi rend="initialcap">C</hi>ASE 892.&#8212;<hi rend="italic">Shot fracture of the os
+      calcis.</hi>&#8212;<name type="person" key="1394">Sergeant D. M. Tarrance</name>, <name
+      type="organization" key="344">Co. B, 1st Pennsylvania Cavalry</name>, aged 24 years, was
+     wounded in the right foot, at <name type="place">United States Ford</name>, <date
+      type="injury" when="1863-05-25">May 25, 1863</date>, and entered <name type="hospital"
+       key="173">Harewood Hospital</name>, Washington, <date type="admit" when="1863-06-15">three weeks afterwards</date>.  On <date type="transfer" when="1863-09-29">September 29th</date> the patient was
+     transferred to <name type="hospital" key="xx">Mower Hospital, Philadelphia</name>. <name
+      type="person" key="xx">Surgeon J. Hopkinson</name>, <name type="organization" key="132">U. S. V.</name>, reported:  "The patient was wounded by a ball entering outside of the
+     tendo-achillis, passing downward, forward and inward through the os calcis, fracturing the
+     bone, and emerging at the inner margin of the sole of the foot. The heel became very much
+     swollen and painful and pus continued to discharge from both the wound of entrance and exit,
+     all the symptoms of necrosed bone being present. Flaxseed poultices were applied; iron and
+     quinine with wine was administered. On <date type="operation" when="1863-12-01">December 1st</date>, another examination having been made, it
+     was decided to cut down and remove the diseased bone, and a crucial incision was made along the
+     internal aspect of the bone, its length parallel with the axis of the bone being three and a
+     half inches, in the opposite direction two and a half inches. The loose pieces were then
+     removed and the necrosed bone was scraped with the gouge, after which the wound was closed with
+     sutures and cold-water dressings were applied. The operation was performed by <name
+      type="person" key="xx">Acting Assistant Surgeon J. H. Jamar</name>, the patient being in good general condition at the time. He did
+     well afterwards. Small fragments of bone exfoliated and were removed at different intervals. By
+     <date type="furlough" when="1864-01-20">January 20, 1864</date>, the wound was healing kindly and the patient was allowed to go to his home.
+     About the end of February the wound had healed with the exception of a small point, and the
+     patient dispensed with his crutches and used a cane.  He was discharged from service <date
+      type="servicedischarge" when="1864-07-08">July 8, 1864</date>."  <name type="person"
+       key="xx">Examining Surgeon W. Jewell</name>, of <name type="place">Philadelphia</name>,
+     certified to the injury <date type="pension" when="1866-04-07">April 7, 1866</date>, and described the wound as still suppurating. The
+      pensioner was paid <date type="pension" when="1871-03-04">March 4, 1871</date>.</p>
+   
+  </body>
+ </text>
+</TEI>

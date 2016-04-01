@@ -1,0 +1,599 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="cww.00540">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Petition of William L. Hoyle, 28 May 1862</title>
+                <title level="m" type="sub">a machine readable transcription</title>
+                <principal>Susan C. Lawrence</principal>
+                <principal>Kenneth M. Price</principal>
+                <principal>Kenneth J. Winkle</principal>
+                <respStmt>
+                    <resp>transcription and encoding</resp>
+                    <name xml:id="kp">Kenneth M. Price</name>
+                    <name xml:id="jc">Janel Cayer</name>
+                    <name xml:id="rr">Rhiannon Root</name>
+                    <name xml:id="bj">Brittany Jones</name>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2013</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <idno>cww.00540</idno>
+                <distributor>Civil War Washington</distributor>
+                <publisher>University of Nebraska–Lincoln</publisher>
+                <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>P.O. Box 884100</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+            </address>
+                <date>2013</date>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+                        <p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike
+                            3.0 Unported License
+                            (http://creativecommons.org/licenses/by-nc-sa/3.0/). Derivatives must be
+                            credited to Civil War Washington, made available non-commercially, and
+                            distributed under the same terms. Requests for permission for commercial
+                            publication or other use should be emailed to the project team.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Petition of William L. Hoyle, 28 May 1862</title>
+                    <date when="1862-05-28">May 28, 1862</date>
+                    <idno>Microcopy 520, Reel 4</idno>
+                    <orgName>National Archives and Records Administration</orgName>
+                    <relatedItem type="original">
+                        <bibl>
+                            <title>Petition of William L. Hoyle, 28 May 1862 </title>
+                            <date when="1862-05-28">May 28, 1862</date>
+                            <idno>Record Group 217.6.5</idno>
+                            <orgName>Records of the Accounting Officers of the Department of the
+                                Treasury, 1775–1978, National Archives and Records
+                                Administration</orgName>
+                            <note type="project">Within the National Archives' Archival Description
+                                Catalog, see ARC Identifier 4644616 / MLR Number A1 347
+                                (http://arcweb.archives.gov).</note>
+                        </bibl>
+                    </relatedItem>
+                    <note type="project">Our transcription is based on a digital image of a
+                        microfilm copy of the original.</note>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <particDesc>
+                <person role="petitioner">
+                    <persName>William L. Hoyle</persName>
+                </person>
+                <person role="petitioner">
+                    <persName>John C. McKelden</persName>
+                </person>
+                <person role="petitioner">
+                    <persName>William R. Woodward</persName>
+                </person>
+                <person role="jp">
+                    <persName>Thomas C. Donn</persName>
+                </person>
+                <person role="jp">
+                    <persName>John H. Johnson</persName>
+                </person>
+                <person role="jp">
+                    <persName>Francis I. Murphey</persName>
+                </person>
+            </particDesc>
+        </profileDesc>
+        <revisionDesc>
+            <change when="2013-08-14" who="#jc">revised order of transcription</change>
+            <change when="2013-01-18" who="#jc">fixed typo in spelling of McKelden's name; updated
+                tei header with additional people in particDesc</change>
+            <change when="2012-11-09" who="#kp">blessed</change>
+            <change when="2012-10-05" who="#jc">updated tei header; fixed values for @facs as
+                necessary; automated checking across files for extra spaces in elements and other
+                encoding inconsistencies and for regular transcription errors</change>
+            <change when="2011-11-17" who="#bj">checked</change>
+            <change when="2011-03-11" who="#rr">transcribed</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb xml:id="leaf001r" facs="cww.00540.001.jpg"/>
+
+            <div1 type="petition" subtype="mixed">
+                <head type="main">PETITION.</head>
+                <p rend="bold">To the Commissioners under the act of Congress approved the <date
+                        when="1862-04-16">16th of April, 1862</date>, entitled "An act for the
+                    release of certain persons held to service or labor in the District of
+                    Columbia."</p>
+
+                <p>Your Petitioner, <seg type="handwritten">
+                        <persName>Wm L. Hoyle</persName>
+                    </seg> of <seg type="handwritten">
+                        <placeName>Washington D.C.</placeName>
+                    </seg> by this <seg type="handwritten">his</seg> petition in writing, represents
+                    and states, that <seg type="handwritten">he</seg> is a person loyal to the
+                    United States, who, at the time of the passage of the said act of Congress, held
+                    a claim to service or labor against <seg type="handwritten">three</seg>
+                        person<seg type="handwritten">s</seg> of African descent of the name<seg
+                        type="handwritten">s</seg> of <seg type="handwritten">
+                        <persName>Mary Dyson</persName>, <persName>Margaret Dyson</persName>,
+                            <persName>Matilda Dyson</persName>
+                    </seg> for and during the life of said <seg type="handwritten">persons</seg> and
+                    that by said act of Congress said <seg type="handwritten">persons were</seg>
+                    discharged and freed of and from all claim of your petitioner to such service or
+                    labor; that at the time of said discharge said <seg type="handwritten">persons
+                        were</seg> of the age<seg type="handwritten">s</seg> of <space atLeast="1"/>
+                    and of the personal description following:<note type="government" place="foot"
+                        xml:id="n1"> Here describe the person, so as to identify him or her; and if
+                        there be more than one slave, describe each one separately.</note>
+                    <seg type="handwritten">
+                        <persName><choice>
+                                <orig>Margaret</orig>
+                                <reg>Mary</reg>
+                            </choice> Dyson</persName> is about forty-seven years of age, Mulatto,
+                        about the medium height and robust person; she is sound and healthy in mind
+                        and body of excellent character for honesty and industry, and a first rate
+                        cook</seg></p>
+                <ab type="handwritten"><persName>Margaret Dyson</persName> is about seventeen years
+                    of age, dark color, about the medium height, stout person, sound in body and
+                    mind, of excellent character, and is a good house servant &amp; child
+                    nurse.</ab>
+                <ab type="handwritten"><persName>Matilda Dyson</persName> is about ten years old,
+                    dark color, well grown, sound &amp; healthy in mind and body and is a really
+                    good girl.</ab>
+
+                <pb xml:id="leaf001v" facs="cww.00540.002.jpg"/>
+
+                <p>That your petitioner acquired <seg type="handwritten">his</seg> claim to the
+                    aforesaid service or labor of said <seg type="handwritten">persons</seg> in
+                    manner following:<note type="government" place="foot" xml:id="n2"> Here state
+                        how the claim was acquired, when, from whom, and for what price or
+                        consideration; and, if held under any written evidence of title, make
+                        exhibit thereof, or refer to the public record where the same may be
+                        found.</note>
+                    <seg type="handwritten"> by marriage <persName>Susan A. J. Rollins</persName> of
+                            <placeName>Prince George County MD</placeName>. in <date when="1848"
+                            >1848</date>. </seg>
+                </p>
+
+                <p>That your petitioner's claim to the service or labor of said <seg
+                        type="handwritten">person</seg> was, at the time of said discharge
+                    therefrom, of the value of <seg type="handwritten">three thousand</seg> dollars
+                    in money.<note type="government" place="foot" xml:id="n3"> Here state such
+                        facts, if any there be, touching the value of the petitioner's claim to the
+                        service or labor of the person, as may enhance the same, and also such
+                        facts, if any, touching the moral, mental, and bodily infirmities or defects
+                        of said person, as impair the value of the petitioner's claim to such
+                        service or labor, and conclude such statement with an averment that the
+                        petitioner knows of no other infirmities or defects of said person which
+                        impair the value of petitioner's claim to such service or labor, and that he
+                        believes none other to exist. If the petitioner specify no such infirmity or
+                        defect, then his statement touching the value of his claim should conclude
+                        with an averment that he has no knowledge of any such infirmity or
+                        defect.</note>
+                    <seg type="handwritten">
+                        <persName>Mary Dyson</persName>, one thousand <choice>
+                            <abbr>dolls</abbr>
+                            <expan>dollars</expan>
+                        </choice>
+                        <persName>Margaret Dyson</persName> twelve hundred <choice>
+                            <abbr>dolls</abbr>
+                            <expan>dollars</expan>
+                        </choice>. <persName>Matilda Dyson</persName> eight hundred <choice>
+                            <abbr>dolls</abbr>
+                            <expan>dollars</expan>
+                        </choice>. And your petitioner avers that knows of no infirmity or defect
+                        that impairs the value of his claim and he believes that none exists. </seg>
+                </p>
+
+                <p>Your petitioner hereby declares that <seg type="handwritten">he</seg> bears true
+                    and faithful allegiance to the Government of the United States, and that <seg
+                        type="handwritten">he</seg> has not borne arms against the United States in
+                    the present rebellion, nor in any way given aid or comfort thereto.</p>
+
+                <p>And your petitioner further states and alleges, that <seg type="handwritten"
+                        >he</seg> has not brought said <seg type="handwritten">persons</seg> into
+                    the District of Columbia since the passage of said act of Congress; and that, at
+                    the time of the passage thereof, said <seg type="handwritten">persons were</seg>
+                    held to service or labor therein under and by virtue of your petitioner's claim
+                    to such service or labor.</p>
+
+                <p>Your petitioner further states and alleges, that <seg type="handwritten"
+                        >his</seg> said claim to the service or labor of said <seg
+                        type="handwritten">persons</seg> does not originate in or by virtue of any
+                    transfer heretofore made by any person who has in any manner aided or sustained
+                    the present rebellion against the Government of the United States.</p>
+
+                <p>And your petitioner prays the said Commissioners to investigate and determine the
+                    validity of <seg type="handwritten">his</seg> said claim to the service or labor
+                    of said <seg type="handwritten">persons</seg> herein above set forth; and if the
+                    same be found to be valid, that they appraise and apportion the value of said
+                    claim in money, and report the same to the Secretary of the Treasury of the
+                    United States, in conformity to the provisions of said act of Congress.</p>
+
+                <closer> (Signed by) <signed>
+                        <seg type="handwritten">
+                            <persName>W. L. Hoyle</persName>
+                        </seg>
+                    </signed>
+                </closer>
+            </div1>            
+
+            <pb xml:id="leaf002r" facs="cww.00540.006.jpg"/>
+            <div1 type="petition" subtype="mixed">
+                <head type="main">PETITION.</head>
+                <p rend="bold">To the Commissioners under the act of Congress approved the <date
+                        when="1862-04-16">16th of April, 1862</date>, entitled "An act for the
+                    release of certain persons held to service or labor in the District of
+                    Columbia."</p>
+
+                <p>Your Petitioner<seg type="handwritten">s</seg>, <seg type="handwritten">
+                        <persName>Wm R. Woodward</persName> trustee and <persName>John C.
+                            McKelden</persName> cestui que trust</seg> of <seg type="handwritten">
+                        the <placeName>City of Washington</placeName>
+                    </seg> by this <seg type="handwritten">their</seg> petition in writing,
+                        represent<del>s</del> and state<del>s</del>, that <seg type="handwritten"
+                        >they are</seg>
+                    <del>is a</del> person<seg type="handwritten">s</seg> loyal to the United
+                    States, who, at the time of the passage of the said act of Congress, held a
+                    claim to service or labor against <seg type="handwritten">a</seg> person of
+                    African descent of the name of <seg type="handwritten">
+                        <persName>Mary Dyson</persName>
+                    </seg> for and during the life of said <seg type="handwritten">
+                        <persName>Mary Dyson</persName>
+                    </seg> and that by said act of Congress said <seg type="handwritten">
+                        <persName>Mary Dyson</persName> was</seg> discharged and freed of and from
+                    all claims of your petitioner to such service or labor; that at the time of said
+                    discharge said <seg type="handwritten">
+                        <persName>Mary Dyson</persName> was</seg> of the age of <seg
+                        type="handwritten">about forty seven years</seg> and of the personal
+                    description following:<note type="government" place="foot" xml:id="n4"> Here
+                        describe the person, so as to identify him or her; and if there be more than
+                        one slave, describe each one separately.</note>
+                    <seg type="handwritten">viz a mulatto above medium size and height and of a
+                        large person</seg>
+                </p>
+
+                <pb xml:id="leaf002v" facs="cww.00540.007.jpg"/>
+
+                <p>That your petitioner<seg type="handwritten">s</seg> acquired <seg
+                        type="handwritten">their</seg> claim to the aforesaid service or labor of
+                    said <seg type="handwritten">
+                        <persName>Mary Dyson</persName>
+                    </seg> in manner following:<note type="government" place="foot" xml:id="n5">
+                        Here state how the claim was acquired, when, from whom, and for what price
+                        or consideration; and, if held under any written evidence of title, make
+                        exhibit thereof, or refer to the public record where the same may be
+                        found.</note>
+                    <seg type="handwritten">one <persName>William L. Hoyle</persName> being indebted
+                        to said <persName>McKelden</persName> in the sum of $132.94 for which said
+                            <persName>McKelden</persName> held the promissory note of said Hoyle
+                        dated <date when="1858-01-09">January 9th 1858</date> and at thirty days
+                        after date to his order for $132.94. by his deed bearing date on <date
+                            when="1858-01-27">January 27th 1858</date> conveyed said <persName>Mary
+                            Dyson</persName> to said <persName>Woodward</persName> in trust to
+                        secure said debt. which is now due and unpaid&#8212;Your petitioners
+                        herewith annex the original deed of trust marked <hi rend="underline"
+                            >WBW</hi>, which has been recorded in the proper office in the
+                            <placeName>county of Washington</placeName> in the <placeName>District
+                            of Columbia</placeName> Liber JAS 149 <choice>
+                            <abbr>fol</abbr>
+                            <expan>folio</expan>
+                        </choice>. 360 <gap reason="illegible" extent="one or two words"
+                            quantity="5" unit="chars"/></seg>
+                </p>
+
+                <p>That your petitioner<seg type="handwritten">s</seg> claim to the service or labor
+                    of said <seg type="handwritten">
+                        <persName>Mary Dyson</persName>
+                    </seg> was, at the time of said discharge therefrom, of the value of <seg
+                        type="handwritten">$166 17/100</seg> dollars in money.<note
+                        type="government" place="foot" xml:id="n6"> Here state such facts, if any
+                        there be, touching the value of the petitioner's claim to the service or
+                        labor of the person, as may enhance the same, and also such facts, if any,
+                        touching the moral, mental, and bodily infirmities or defects of said
+                        person, as impair the value of the petitioner's claim to such service or
+                        labor, and conclude such statement with an averment that the petitioner
+                        knows of no other infirmities or defects of said person which impair the
+                        value of petitioner's claim to such service or labor, and that he believes
+                        none other to exist. If the petitioner specify no such infirmity or defect,
+                        then his statement touching the value of his claim should conclude with an
+                        averment that he has no knowledge of any such infirmity or defect.</note>
+                    <seg type="handwritten"> The said <persName>Mary Dyson</persName> was at the
+                        date of the passage of said law of the value of $.</seg></p>
+                <ab type="handwritten">Your petitioners claims that the sum of $132.94 with interest
+                    there from <date when="1858-02-11">February 11th 1858</date> Shall be allowed
+                    and paid to them from whatever amount shall be allowed for said <persName>Mary
+                        Dyson</persName> made the act of Congress aforesaid&#8212;</ab>
+
+                <p>Your petitioner<seg type="handwritten">s</seg> hereby declare<del>s</del> that
+                        <seg type="handwritten">they</seg> bear<del>s</del> true and faithful
+                    allegiance to the Government of the United States, and that <seg
+                        type="handwritten">they</seg> ha<seg type="handwritten">ve</seg> not borne
+                    arms against the United States in the present rebellion, nor in any way given
+                    aid or comfort thereto.</p>
+
+                <p>And your petitioner<seg type="handwritten">s</seg> further state<del>s</del> and
+                        allege<del>s</del>, that <seg type="handwritten">they</seg> ha<seg
+                        type="handwritten">ve</seg> not brought said <seg type="handwritten">
+                        <persName>Mary Dyson</persName>
+                    </seg> into the District of Columbia since the passage of said act of Congress;
+                    and that, at the time of the passage thereof, said <seg type="handwritten">
+                        <persName>Mary Dyson</persName>
+                    </seg> was held to service or labor therein under and by virtue of your
+                    petitioner's claim to such service or labor. <seg type="handwritten">and the
+                        claim of said <persName>Wm L Hoyle</persName> as owner.</seg>
+                </p>
+
+                <p>Your petitioner<seg type="handwritten">s</seg> further state<del>s</del> and
+                        allege<del>s</del>, that <seg type="handwritten">their</seg> said claim to
+                    the service or labor of said <seg type="handwritten">persons</seg> does not
+                    originate in or by virtue of any transfer heretofore made by any person who has
+                    in any manner aided or sustained the present rebellion against the Government of
+                    the United States.</p>
+
+                <p>And your petitioner<seg type="handwritten">s</seg> pray<del>s</del> the said
+                    Commissioners to investigate and determine the validity of <seg
+                        type="handwritten">their</seg> said claim to the service or labor of said
+                        <seg type="handwritten">
+                        <persName>Mary Dyson</persName>
+                    </seg> herein above set forth; and if the same be found to be valid, that they
+                    appraise and apportion the value of said claim in money, and report the same to
+                    the Secretary of the Treasury of the United States, in conformity to the
+                    provisions of said act of Congress.</p>
+
+                <closer>(Signed by) <signed><seg type="handwritten">
+                            <persName>Wm. R. Woodward</persName><lb/> Trustee</seg></signed>
+                    <signed><seg type="handwritten"><persName>J. C.
+                        McKelden</persName></seg></signed>
+                </closer>
+            </div1>
+
+            <pb xml:id="leaf003r" facs="cww.00540.008.jpg"/>
+            <div1 type="oath" subtype="mixed">
+                <head type="main">[<hi rend="italic">Form of the Oath for the Verification of the
+                        Petition.</hi>]</head>
+
+                <dateline>
+                    <placeName>District of Columbia</placeName>,
+                    <lb/>
+                    <hi rend="italic"><placeName>Washington County</placeName>, ss.</hi>
+                </dateline>
+
+                <div2 type="section">
+                    <p>We, <seg type="handwritten">
+                            <persName>William L. Woodward</persName>and <persName>John C.
+                                McKelden</persName>
+                        </seg> being duly sworn, do depose and say, that all the several matters and
+                        things which are set forth and stated in the foregoing petition, as of
+                            <del>my</del>
+                        <seg type="handwritten">our</seg> own knowledge, are true in substance and
+                        in fact; and that all the several other matters and things therein set forth
+                        and stated, as from the information of others, <del>I</del>
+                        <seg type="handwritten">we</seg> believe to be true in substance and in
+                        fact.</p>
+                    <closer> (Signed by) <signed>
+                            <seg type="handwritten">
+                                <persName>Wm Woodward</persName> Trustee</seg></signed>
+                        <signed><seg type="handwritten"><persName>J. C.
+                            McKelden</persName></seg></signed>
+                    </closer>
+                </div2>
+
+                <div2 type="section">
+                    <p>Sworn to and subscribed before me this <date when="1862-07-08">
+                            <seg type="handwritten">8th</seg> day of <seg type="handwritten"
+                                >July</seg> A. D. 1862</date>. </p>
+                    <closer> (Signed by) <signed>
+                            <seg type="handwritten">
+                                <persName>John H. Johnson</persName> JP. Seal</seg>
+                        </signed>
+                    </closer>
+                </div2>
+
+            </div1>
+            <div1 type="cover" subtype="handwritten">
+                <note type="editorial">The following note, about the filing of the petition, has
+                    been imaged twice in the National Archives microfilm, but the note occurs in
+                    only one place in the petition: written horizontally on the final page, the Oath
+                    for the Verification.</note>
+                <ab>540<lb/>
+                    <persName>Wm. R. Woodward</persName> trustee<lb/> and<lb/>
+                    <persName>John C. McKelden</persName></ab>
+                <ab>Counter petition to <persName>Wm L. Hoyles</persName> Claim</ab>
+            </div1>
+
+            <pb xml:id="leaf004r" facs="cww.00540.009.jpg"/>
+            <div1 type="billofsale" subtype="handwritten">
+                <div2 type="section">
+                    <ab>Paid $1.00</ab>
+                    <ab><persName>William L. Hoyle</persName><lb/> To<lb/>
+                        <persName>Wm. R. Woodward</persName></ab>
+                    <ab>Bill Sale in Trust</ab>
+                    <ab>WRW</ab>
+                </div2>
+                <div2 type="section">
+                    <ab>Received <date when="1858-02-12">12th February 1858</date> To be recorded
+                        &#38; same day was Recorded in Liber L. Sp. S. No. 149 Folio 360, 361, 362,
+                        &#38; 363, One of the Land Records of <placeName>Washington
+                            County</placeName> in the <placeName>District of Columbia</placeName>
+                        &amp; examined by</ab>
+                    <closer>
+                        <signed><persName>John S. Smith</persName>. <choice>
+                                <abbr>clk</abbr>
+                                <expan>clerk</expan>
+                            </choice></signed>
+                    </closer>
+                    <postscript>
+                        <ab>To be recorded in 20 days</ab>
+                    </postscript>
+                </div2>
+
+                <pb xml:id="leaf004v" facs="cww.00540.010.jpg"/>
+                <div2 type="section">
+                    <p>This indenture made the <date when="1858-01-27">twenty seventh day of January
+                            Eighteen hundred and fifty eight</date> between <persName>William L.
+                            Hoyle</persName> of the first place and <persName>John C.
+                            McKelden</persName> of the second part and <persName>William R.
+                            Woodward</persName> of the third part. All of the City of<placeName>
+                            Washington in the District of Columbia</placeName>. There as the said
+                            <persName>William L. Hoyle</persName> is indebted unto said
+                            <persName>John C. McKelden</persName> in the full amount of his
+                        promissory note dated the <date when="1858-01-09">ninth day of
+                            January</date> instant for the sum of one hundred and thirty two dollars
+                        and ninety four cents payable at thirty days of the date thereof with
+                        interest there on from date and decision by there presents to secure the
+                        payment of said note by a regular <unclear reason="illegible" cert="low"
+                            resp="#jc">curtail</unclear> thereof of fifteen dollars paid at the end
+                        of each and every thirty days until the whole of said debt note and interest
+                        is paid. This indenture there on witnesseth that the said <persName>William
+                            L. Hoyle</persName> in consideration of the premises and also of the sum
+                        of one dollars current money to him paid by the said <persName>William
+                            Woodward</persName> at or before the execution hereof (the receipt is
+                        hereby acknowledged) Hath bargained sold assigned and transferred and by
+                        these presents doth bargain sell assign and transfer unto the said
+                            <persName>William R. Woodward</persName> his executors administrators
+                        and assigns one slave called <persName>Mary Dyson</persName> to have and to
+                        hold the said Slave <persName>Mary Dyson</persName> unto and to the use of
+                        the said <persName>William R. Woodward</persName> his executors,
+                        administrators and assigns upon the trusts following nevertheless and to and
+                        for no other use intent or purpose whatsoever, that is to say upon trust to
+                        permit the said <persName>William L. Hoyle</persName> to have hold use and
+                        employ, and receive the rents of said <persName>Mary Dyson</persName> as
+                        though this deed had not been made until default made in the payment of the
+                        said note in manner as aforesaid or of any note or notes given in
+                        substitution or renewal thereof or herein after provided and upon any
+                        default in the regular payment every thirty days of <unclear
+                            reason="illegible" cert="low" resp="#jc">curtail</unclear> of said note
+                        till all is paid or of any note given in restitution or renewal of the same
+                        or any part thereof by said <persName>William L. Hoyle</persName> or as
+                        herein the provided through no default shall have been made it shall be the
+                        duty of said <persName>William R. Woodward</persName> his executors,
+                        administrators or assigns on the request of said <persName>John C.
+                            McKelden</persName> or the legal holder of the note as in default to
+                        make into his and their exclusive possession the said <persName>Mary
+                            Dyson</persName> and to sell the same at public auction of the such
+                        notice and upon such times as the trustee shall determine and most for <pb
+                            xml:id="leaf007r" facs="cww.00540.011.jpg"/> for the interest of all
+                        concerned, and out of the proceeds of sale he shall pay the costs and
+                        expenses there of including a commission of fine of five percent on the
+                        gross amount there of to himself and next he shall pay to the person
+                        entitled and debt and note the whole of said debt, note and interest then
+                        owing and unpaid (no further contact or the act being did of in such
+                        default) and the residue shall be paid over to the said <persName>William L.
+                            Hoyle</persName> his executors, administrators or assigns. Provided
+                        always and upon this further trust that whenever it shall appear to the
+                        trustee that any disposition of said slave otherwise than is consistent with
+                        these presents and the final execution thereof by said <persName>William L.
+                            Hoyle</persName> in the event of the death of said
+                            <persName>Hoyle</persName> or of any executor or other process being
+                        levied or attempted to the levied on said slave at shall and may be lawful
+                        for the said trustee and it is made his duty; he deeming it seems any for
+                        the security of said debt to the said slave and sell as of and apply the
+                        proceeds as aforesaid and to that end to institute all and every necessary
+                        process at law and in equity and the said <persName>William L.
+                            Hoyle</persName> doth hereby covenant with said <persName>William R.
+                            Woodward</persName> that he the said <persName>William L.
+                            Hoyle</persName> shall and will during the continuance of this trust nor
+                        cause or permit to be done, any act to impair or hinder the security hereby
+                        granted and that on any default as aforesaid he shall and will quietly and
+                        peacefully deliver the exclusive possession of said slave to said
+                            <persName>William R. Woodward</persName> his executors, administrators
+                        or assigns to be disposed of in the manner herein before set forth. In
+                        witness whereof the said <persName>William L. Hoyle</persName> hath hereto
+                        set his hand and seal an the day and year first hereunto written</p>
+                    <closer>
+                        <signed><persName>W.L. Hoyle</persName> seal</signed><lb/> Signed, Sealed
+                        and delivered <signed><persName>F. I. Murphey</persName></signed>
+                        <signed><persName>D. H. Goodard</persName></signed>
+                    </closer>
+                </div2>
+
+
+                <pb xml:id="leaf005r" facs="cww.00540.012.jpg"/>
+                <div2 type="section">
+                    <dateline>
+                        <placeName>District of Columbia</placeName>
+                        <lb/>
+                        <placeName>County of Washington</placeName> to wit </dateline>
+                    <p>Be it remembered that on this <date when="1858-01-27">27th day of January in
+                            the year Eighteen hundred and fifty eight</date> before me the
+                        subscribed a justice of the peace on and for the county aforesaid personally
+                        appeared <persName>William L. Hoyle</persName> to me as the person who
+                        executed deed dated the <date when="1858-01-27">27th day of January
+                            instant</date> to <persName>William R. Woodward</persName> and unto
+                        answered and acknowledged the same to be his act and deed 27th given under
+                        my hand and seal.</p>
+                    <closer>
+                        <signed>
+                            <persName>F. I. Murphey</persName> J.P. seal</signed>
+                    </closer>
+                </div2>
+            </div1>
+            <pb xml:id="leaf006r" facs="cww.00540.004.jpg"/>
+            
+            <div1 type="oath" subtype="mixed">
+                <head type="main">[<hi rend="italic">Form of the Oath for the Verification of the
+                    Petition.</hi>]</head>
+                
+                <dateline>
+                    <placeName>District of Columbia</placeName>,
+                    <lb/>
+                    <hi rend="italic"><placeName>Washington County</placeName>, ss.</hi>
+                </dateline>
+                
+                <div2 type="section">
+                    <p>I, <seg type="handwritten">
+                        <persName>William L. Hoyle</persName>
+                    </seg> being duly sworn, do depose and say, that all the several matters and
+                        things which are set forth and stated in the foregoing petition, as of my
+                        own knowledge, are true in substance and in fact; and that all the several
+                        other matters and things therein set forth and stated, as from the
+                        information of others, I believe to be true in substance and in fact.</p>
+                    <closer> (Signed by) <signed>
+                        <seg type="handwritten">
+                            <persName>W. L. Hoyle</persName>
+                        </seg>
+                    </signed>
+                    </closer>
+                </div2>
+                
+                <div2 type="section">
+                    <p>Sworn to and subscribed before me this <date when="1862-05-28">
+                        <seg type="handwritten">28th</seg> day of <seg type="handwritten"
+                            >May</seg> A. D. 1862</date>. </p>
+                    <closer> (Signed by) <signed>
+                        <seg type="handwritten">
+                            <persName>Thomas C. Donn</persName> Justice of the Peace for
+                            <placeName>Washington County</placeName>
+                            <placeName>District of Columbia</placeName>
+                        </seg>
+                    </signed>
+                    </closer>
+                </div2>
+            </div1>
+            
+            <div1 type="cover" subtype="handwritten">
+                <note type="editorial">The following note, about the filing of the petition, has
+                    been imaged twice in the National Archives microfilm, but the note occurs in
+                    only one place in the petition: written horizontally on the final page, the Oath
+                    for the Verification.</note>
+                <ab>540<lb/> Petition of<lb/>
+                    <persName>W. L. Hoyle</persName></ab>
+                <ab>Filed <date when="1862-05-28">May 28, 1862</date></ab>
+                <ab>Presented by<lb/>
+                    <persName>Tho. B. Peyton</persName></ab>
+                <ab><persName>R. W. Carter</persName><lb/>
+                    <persName>Lewis L. Rollins</persName></ab>
+            </div1>            
+        </body>
+    </text>
+</TEI>

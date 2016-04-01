@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e7334">
+        <teiHeader>
+                <fileDesc>
+                        <titleStmt>
+                                <title level="m" type="main">Ivers, Niles</title>
+                                <title level="m" type="sub">a machine readable transcription</title>
+                                <principal>Susan C. Lawrence</principal>
+                                <principal>Kenneth M. Price</principal>
+                                <principal>Kenneth J. Winkle</principal>
+                        </titleStmt>
+                        <editionStmt>
+                                <edition>
+                                        <date>2011</date>
+                                </edition>
+                        </editionStmt>
+                        <publicationStmt>
+                                <idno>med.d1e7334</idno>
+                                <authority>Civil War Washington</authority>
+                                <publisher>University of Nebraska–Lincoln</publisher>
+                                <distributor>
+                                        <name>Center for Digital Research in the Humanities</name>
+                                        <address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+                                </distributor>
+                                <date>2011</date>
+                                <availability>
+                                        <p>Copyright © 2011 by University of Nebraska–Lincoln, all
+                                                rights reserved. Redistribution or republication in
+                                                any medium, except as allowed under the Fair Use
+                                                provisions of U.S. copyright law, requires express
+                                                written consent from the editors and advance
+                                                notification of the publisher, the University of
+                                                Nebraska–Lincoln.</p>
+                                </availability>
+                        </publicationStmt>
+                        <notesStmt>
+                                <note type="project">The following are responsible for particular
+                                        readings or for changes to this file, as noted: 
+                                        <persName xml:id="mb">Matthew Bosley</persName>
+                                        <persName xml:id="el">Elizabeth Lorang</persName>
+                                        <persName xml:id="sb">Stacey Berry</persName>
+                                        <persName xml:id="et">Elisabeth Tracey</persName>
+                                </note>
+                        </notesStmt>
+                        <sourceDesc>
+                                <bibl>
+                                        <title level="j">The Medical and Surgical History of the War of the Rebellion</title>
+                                        <pubPlace>Washington, DC</pubPlace>
+                                        <publisher>Government Printing Office</publisher>
+                                        <biblScope type="part">Part 3</biblScope>
+                                        <biblScope type="volume">Volume 1</biblScope>
+                                        <date when="1888">1888</date>
+                                        <biblScope type="page">350-351</biblScope>
+                                </bibl>
+                        </sourceDesc>
+                </fileDesc>
+                <encodingDesc>
+                        <classDecl>
+                                <taxonomy xml:id="medsurg">
+                                        <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+                                </taxonomy>
+                        </classDecl>
+                </encodingDesc>
+                <profileDesc>
+                        <textClass>
+                                <keywords scheme="#medsurg">
+                                        <term>post-mortem records</term>
+                                        <term>continued fevers</term>
+                                        <term>typho-malarial fever</term>
+                                        <term>entered as typho-malarial with or without a record of symptoms to substantiate the diagnosis</term>
+                                        <term>condition of Peyer's patches variously stated, but not ulcerated; intestines more or less affected, but no ulceration of the ileum</term>
+                                        <term>left pleural cavity contained pint and a half of purulent liquid, right cavity contained six ounces of serum</term>
+                                        <term>liquid in pleural cavity, effusion did not embarrass breathing.</term>
+                                        <term>pleural cavity contained purulent liquid, compressed lung against spinal column</term>
+                                        <term>glands of Br&#252;nner and solitary glands of ileum enlarged but not ulcerated</term>
+                                        <term>patches of Peyer presented shaven-beard appearance</term>
+                                        <term>liver enlarged and contained minute abscesses</term>
+                                        <term>spleen enlarged and contained abscesses</term>
+                                </keywords>
+                        </textClass>
+                </profileDesc>
+                <revisionDesc>
+                        <change who="#mb" when="2013-03-20">additional proofing of transcription and encoding, edited and added keyword terms</change>
+                        <change who="#mb" when="2011-10-05">additional proofing of transcription and encoding</change>
+                        <change who="#mb" when="2011-06-17">additional proofing of transcription and encoding</change>
+                        <change who="#el" when="2011-05-11">case text extracted and transformed from larger file</change>
+                        <change who="#sb" when="2011-02-23">Encoding and Proofing</change>
+                        <change who="#et" when="2009-12-01">Initial Checking OCR Text to PDF file,</change>
+                </revisionDesc>
+        </teiHeader>
+        <text>
+                <body xml:id="ch4.sc4.1.00087">                        
+                                <p><hi rend="initialcap">C</hi>ASE 87.&#8212;<name type="person"
+                                                key="648">Private Niles Ivers</name>, <name
+                                                type="organization" key="177">Co. F, 6th
+                                        Wis.</name>, was admitted <date type="admit"
+                                                when="1864-04-21">April 21, 1864</date>, with
+                                        typho-malarial fever.  He stated that he had been sick <date type="imjury" when="1864-04-14">for a
+                                                week</date> with fever, which began with chills. He was much
+                                        prostrated; his bowels were loose and his tongue dry and
+                                        brown with red edges. Quinine, stimulants and nutriment were
+                                        ordered.  In a few days his respiration became accelerated
+                                        and he complained of cough and pain in the side, for which
+                                        he was blistered. Under this treatment he gradually
+                                        improved, the fever subsiding, but a considerable quantity
+                                        of liquid remained in the pleural cavity, for the removal of
+                                        which iodide of potassium was given in free doses and an
+                                        occasional blister was applied, but without much benefit;
+                                        the effusion did not embarrass his breathing. Convalescence
+                                        was slow and he was unable to leave his bed, when, about
+                                        June 1, symptoms of hectic appeared.  He failed gradually and
+                                        died on <date type="death" when="1864-06-23">the 23d</date>.  <hi rend="italic">Post-mortem</hi> examination
+                                        <date type="autopsy" when="1864-06-24">twenty-four hours after death</date>: Body much emaciated; rigor
+                                        mortis moderate. The left pleural cavity contained about a
+                                        pint and a half of purulent liquid which compressed the lung
+                                        against the spinal column; the right cavity contained about
+                                        six ounces of serum; the right lung was healthy. The
+                                        intestines were distended with gas; the mucous coat of the
+                                        stomach and of the intestinal canal was thickened and
+                                        softened; the glands of Br&#252;nner and the solitary glands of
+                                        the ileum were enlarged and prominent but not ulcerated; the
+                                        patches of Peyer presented the shaven-beard appearance. The
+                                        liver was about one-third  larger than normal and contained a number of minute abscesses; the spleen was
+                                        enlarged to three times its normal size and also contained
+                                        abscesses; the kidneys were healthy.  [<hi rend="italic">Specimens</hi> 325-6, Med. Sect., <name
+                                                type="hospital" key="431">Army Medical
+                                        Museum</name>, are from the spleen of this
+                                                case.]&#8212;<hi rend="italic"><name
+                                                  type="person" key="459">Ass't Surg. Geo. A.
+                                                  Mursick</name>, <name type="organization"
+                                                  key="132">U. S. V.</name>, <name type="hospital"
+                                                  key="175">Stanton Hospital</name>, Washington, D. C.</hi></p>                        
+                </body>
+        </text>
+</TEI>

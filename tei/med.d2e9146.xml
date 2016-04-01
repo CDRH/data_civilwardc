@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d2e9146">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Shillinglaw, R. T.</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+    <idno>med.d2e9146</idno>
+    <authority>Civil War Washington</authority>
+    <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor><name>Center for Digital Research in the
+     Humanities</name><address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address></distributor>
+    <date>2011</date>
+    <availability>
+     <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+      republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+      law, requires express written consent from the editors and advance notification of the
+      publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+ <persName xml:id="kw">Kenneth Winkle</persName> 
+     <persName xml:id="ajh">AJ Howell</persName>
+     <persName xml:id="mb">Matthew Bosley</persName>
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title level="j">The Medical and Surgical History of the War of the Rebellion.
+      (1861-65.)</title><pubPlace>Washington, DC</pubPlace><publisher>Government Printing
+      Office</publisher><biblScope type="part">Part 3</biblScope><biblScope type="volume">Volume
+      2</biblScope><date when="1883">1883</date><biblScope type="page">190-191</biblScope></bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+     <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <keywords scheme="#medsurg">
+     <term>wounds and injuries of the lower extremities</term>
+     <term>injuries of the shaft of the femur</term>
+     <term>shot fractures of the shaft of the femur</term>
+     <term>shot fractures of the shaft of the femur treated by conservation</term>
+     <term>shot fractures of the middle third of the femur treated by conservation</term>
+     <term>recovery after shot fractures of the middle third of the femur treated by
+      conservation</term>
+     <term>ball fractured femur obliquely at middle third</term>
+     <term>wounded in thigh, both upper extremities, and temple</term>
+     <term>made prisoner</term>
+     <term>injured limb shortened three inches</term>
+     <term>gunshot wound of thigh, arm and elbow, hand and arm, and temple. The bone has united
+      crookedly</term>
+     <term>compound comminuted fracture of thigh bone</term>
+     <term>bone united crookedly, three inches shorter</term>
+     <term>nerves of limb affected, constantly suffering</term>
+     <term>gunshot wound of elbow joint, ball lodged near joint</term>
+     <term>elbow weakened as to be unserviceable for labor</term>
+     <term>ball struck parietal bone</term>
+     <term>consumption, superinduced by pleuro-pneumonia</term>
+     <term>arm pierced by piece of shell, scraping bone</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+ <change who="#kw" when="2014-05">blessed</change>
+   <change who="#ajh" when="2013-08-22">added figure encoding</change>
+   <change who="#mb" when="2012-05-04">additional case copied from MSHWR, performed proofing of copy
+    and XML encoding, and key terms identified</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+
+   <p><hi rend="initialcap">C</hi>ASE 390.&#8212;<name type="person" key="xxx">Captain R. T.
+     Shillinglaw</name>, <name type="organization" key="xxx">Co. I, 79th New York</name>, aged 32
+    years, was wounded in the left thigh, both upper extremities, and the right temple, at <name
+     type="BATTLE" key="6">Bull Run</name>, <date type="injury" when="1861-07-21">July 21,
+     1861</date>. The injury of the thigh was caused by a conoidal ball, which fractured the femur
+    obliquely at the middle third. He was made a prisoner and conveyed to <name type="place"
+     >Richmond</name>, where the fracture was treated at the Alms House Hospital, by a Desault
+    splint for one week, and by Smith s anterior splint for twelve weeks subsequently. Slight
+    suppuration continued for nearly a year after the injury, with occasional elimination of bits of
+    necrosed bone. Having been exchanged on <date type="transfer" when="1861-12-31">December 31,
+     1861</date>, he proceeded to his home in <name type="place">New York City</name>, where he was
+    treated, for a time, by his family physician. <date type="duty" when="1862">Some months
+     afterwards</date> he returned to the field, and served as Acting Aid-de-Camp to <name
+     type="person" key="xxx">General Wilcox</name> until <date type="servicedischarge"
+     when="1863-01-20">January 20, 1863</date>, when he resigned the service. In <date type="duty"
+     when="1863-08">August following</date>, <name type="person" key="xxx">Captain
+     Shillinglaw</name> was commissioned in the <name type="organization" key="109">Veteran Reserve
+     Corps</name>, in which organization he remained until <date type="servicedischarge"
+     when="1865-08-02">August 2, 1865</date>, when he was finally mustered out and pensioned. After
+    leaving the service he took up his residence in <name type="place" key="#Washington">Washington
+     City</name>, and obtained employment in the <name type="organization" key="xxx">U. S. Treasury
+     Department</name>. The photograph, represented in the annexed cut (<hi rend="initialcap"
+    >F</hi>IG. 152), was obtained in <date type="photo" when="1866-06">June, 1866</date>, when he
+    visited the <name type="hospital" key="431">Army Medical Museum</name>. At that time the injured
+    limb was shortened nearly three inches, but he could walk briskly and without a limp. He used no
+    cane and experienced little or no inconvenience from his wounds. <name type="person" key="xxx"
+     >Examiner J. Phillips</name> certified, <date type="pension" when="1869-02-06">February 6,
+     1869</date>: &#34;Gunshot wound of left thigh, left arm, right hand and arm, and right temple.
+    Compound comminuted fracture of thigh bone. The bone has united crookedly, and is about three
+    inches shorter than its fellow; the muscles are attenuated, and the nerves of the limb so
+    affected that he is constantly suffering. Gunshot wound of left elbow joint; ball lodged near
+    the joint, which is now so weakened as to be unserviceable for labor. Flesh wound of right hand
+    from piece of shell. The right arm was pierced by a piece of shell, scraping the bone. This
+    wound impairs the usefulness of the limb. A ball struck the right parietal bone. He suffers but
+    little from this wound.&#34; This pensioner died <date type="death" when="1870-04-14">April 14,
+     1870</date>, of consumption, superinduced by an attack of pleuro-pneumonia and gunshot wounds. </p>
+   <figure><graphic url="cww.001568.001"/><head><hi rend="initialcap">F</hi>IG. 152.&#8212;Shot fracture of middle third of left femur. [From
+    a photograph.]</head></figure>
+
+  </body>
+ </text>
+</TEI>

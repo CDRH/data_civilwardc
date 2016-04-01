@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d2e30771">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Contraman, J.</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+       <idno>med.d2e30771</idno>
+       <authority>Civil War Washington</authority>
+       <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor>
+       <name>Center for Digital Research in the Humanities</name>
+       <address><addrLine>319 Love Library</addrLine>
+       <addrLine>University of Nebraska–Lincoln</addrLine>
+       <addrLine>Lincoln, NE 68588-4100</addrLine>
+       <addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+    </distributor>
+    <date>2011</date>
+    <availability>
+        <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+         republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+         law, requires express written consent from the editors and advance notification of the
+         publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+ <persName xml:id="kmp">Kenneth M. Price</persName> 
+     <persName xml:id="el">Elizabeth Lorang</persName>
+         <persName xml:id="mb">Matthew Bosley</persName>         
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl>
+     <title level="j">The Medical and Surgical History of the War of the Rebellion. (1861-65.)</title>
+     <pubPlace>Washington, DC</pubPlace>
+     <publisher>Government Printing Office</publisher>
+     <biblScope type="part">Part 2</biblScope>
+     <biblScope type="volume">Volume 2</biblScope>
+     <date when="1876">1876</date>
+     <biblScope type="page">951</biblScope>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+       <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+      <keywords scheme="#medsurg">
+       <term>wounds and injuries of the upper extremities</term>
+       <term>wounds and operations of the forearm</term>
+       <term>shot wounds of the forearm</term>
+       <term>shot fractures of the forearm</term>
+       <term>excisions in the continuity of the bones of the forearm for shot injury</term> 
+       <term>primary excisions in the shaft of the ulna, of the radius, or of both bones</term>
+       <term>excisions in the shaft of the radius</term>
+       <term>fatal cases after primary excision in the forearm</term> 
+       <term>excision in continuity of forearm followed by amputation</term>
+       <term>gunshot fracture of forearm by mini&#233; ball</term>
+       <term>excision from shaft of radius performed on the field</term> 
+       <term>gangrene</term>
+       <term>forearm amputated at upper third</term>
+       <term>py&#230;mia</term>
+     </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+ <change who="#kmp" when="2014-05">blessed</change>
+   <change when="2014-04-16" who="#el">added figure encoding</change>
+   <change when="2014-01-24" who="#el">added vaule to @key on name for Fairfax Hospital</change>
+   <change who="#mb" when="2012-07-03">copied case from MSHWR, added proofing of transcription and encoding, identified keyword terms</change>   
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>   
+<p><hi rend="initialcap">C</hi>ASE 1898.&#8212;<name type="person" key="xxx">Private J. Contraman</name>, <name type="organization" key="xxx">Co. G, 142d Pennsylvania</name>, aged 20. was wounded at <name type="BATTLE" key="3"><choice><orig>Spottsylvania</orig><reg>Spotsylvania</reg></choice></name>, <date type="injury" when="1864-05-11">May 11, 1864</date>, and admitted to <name type="hospital" key="214">Fairfax Hospital</name>, from a Fifth Corps field hospital, on <date type="transfer" when="1864-05-16">the 16th</date>.  <name type="person" key="411">Surgeon D. P. Smith</name>, <name type="organization" key="132">U. S. V.</name>, noted:  &#34;Gunshot fracture of left forearm by a mini&#233; ball. Excision of three inches of radius performed on the field.&#34;  On <date type="operation" when="1864-05-18">May 18th</date>, the parts being in a gangrenous condition, <name type="person" key="411">Surgeon Smith</name> amputated the forearm at the upper third. The patient was extremely irritable. The treatment consisted in the application of pimple dressings, followed by a solution of bromine.  Death resulted, on <date type="death" when="1864-05-27">May 27, 1864</date>, from py&#230;mia following the amputation.  The specimen, represented in the accompanying wood-cut (<hi rend="initialcap">F</hi>IG. 690), was forwarded to <name type="hospital" key="431">the Museum</name> by <name type="person" key="411">Dr. Smith</name>. It consists of the lower two-thirds of the bones of the left forearm from which three inches of the radius were excised primarily. The age of the patient was probably overestimated.</p>
+   
+   <figure>
+    <graphic url="cww.001694.001"/>
+    <head><hi rend="initialcap">F</hi>IG. 690.&#8212;Excision in radius. <hi rend="italic">Spec</hi>. 3297.</head></figure>
+   
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e41539">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Evans, William</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+    <idno>med.d1e41539</idno>
+       <authority>Civil War Washington</authority>
+       <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor>
+       <name>Center for Digital Research in the Humanities</name>
+       <address><addrLine>319 Love Library</addrLine>
+       <addrLine>University of Nebraska–Lincoln</addrLine>
+       <addrLine>Lincoln, NE 68588-4100</addrLine>
+       <addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+    </distributor>
+    <date>2011</date>
+    <availability>
+        <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+         republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+         law, requires express written consent from the editors and advance notification of the
+         publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+     <persName xml:id="mb">Matthew Bosley</persName>     
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl>
+     <title level="j">The Medical and Surgical History of the War of the Rebellion. (1861-65.)</title>
+     <pubPlace>Washington, DC</pubPlace>
+     <publisher>Government Printing Office</publisher>
+     <biblScope type="part">Part 2</biblScope>
+     <biblScope type="volume">Volume 1</biblScope>
+     <date when="1879">1879</date>
+     <biblScope type="page">196</biblScope>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+       <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+      <keywords scheme="#medsurg">
+       <term>diarrh&#339;a and dysentery</term>
+       <term>fatal cases of diarrh&#339;a and dysentery, with accounts of the morbid appearances observed</term>
+       <term>from the Third Division of the Alexandria Hospital, Virginia</term>
+       <term>chronic diarrh&#339;a, eight months duration</term>
+       <term>severe cough</term>
+       <term>lower lobe of lung congested</term>
+       <term>thickening of stomach around pyloric orifice</term>
+       <term>mucous membrane of ileum softened, ulcerated near ileo-c&#230;cal valve</term>
+       <term>whole colon much contracted</term>       
+       <term>autopsy performed</term>       
+     </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change who="#mb" when="2013-01-02">copied case from MSHWR, added proofing of transcription and encoding, identified keyword terms and figures</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body> 
+   <p>Case from the case-book of the <name type="hospital" key="501"><hi rend="initialcap">T</hi>HIRD <hi rend="initialcap">D</hi>IVISION</name> of the <name type="place" key="#Alexandria"><hi rend="initialcap">A</hi>LEXANDRIA</name> <hi rend="initialcap">H</hi>OSPITAL, <name type="person" key="134">Surgeon Edwin Bentley</name>, <name type="organization" key="132">U. S. V.</name>, in charge:&#8432;</p>
+   <p><hi rend="initialcap">C</hi>ASE 490.&#8212;<name type="person" key="xxx">Private William Evans</name>, <name type="organization" key="xxx">company E, 152d New York volunteers</name>; admitted from regimental hospital <date type="admit" when="1863-10-17">October 17, 1863</date>.  Chronic diarrh&#339;a of eight months duration.  The patient was extremely debilitated, and had a severe cough.  Treatment: Tonics, alteratives, opiates, blisters to the abdomen.  Died, <date type="death" when="1863-11-02">November 2d</date>.  <hi rend="italic">Autopsy:</hi> Body greatly emaciated. The lower lobe of the left lung was congested; the rest of the left lung and the whole of the right were healthy. Some thickening of the stomach was observed around the pyloric orifice. The mucous membrane of the ileum was softened, and near the ileo-c&#230;cal valve it was ulcerated. The whole colon was very much contracted.</p> 
+   <p>&#8432; It is to be regretted that, in most instances, the records of this hospital do not show by whom the autopsies were made. It is known that many of them were made by <name type="person" key="134">Surgeon Bentley</name> himself, or under his immediate supervision, but it is only possible to distinguish these from the others in a few cases.</p>
+  </body>
+ </text>
+</TEI>

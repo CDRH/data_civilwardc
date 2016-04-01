@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e18379">
+                <teiHeader>
+                                <fileDesc>
+                                                <titleStmt>
+                                                                <title level="m" type="main">Hawkins, B. F.</title>
+                                                  <title level="m" type="sub">a machine readable
+                                                  transcription</title>
+                                                  <principal>Susan C. Lawrence</principal>
+                                                  <principal>Kenneth M. Price</principal>
+                                                  <principal>Kenneth J. Winkle</principal>
+                                                </titleStmt>
+                                                <editionStmt>
+                                                  <edition>
+                                                  <date>2011</date>
+                                                  </edition>
+                                                </editionStmt>
+                                                <publicationStmt>
+                                                  <idno>med.d1e18379</idno>
+                                                  <authority>Civil War Washington</authority>
+                                                  <publisher>University of
+                                                  Nebraska–Lincoln</publisher>
+                                                  <distributor>
+                                                  <name>Center for Digital Research in the
+                                                  Humanities</name>
+                                                  <address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+                                                  </distributor>
+                                                  <date>2011</date>
+                                                  <availability>
+                                                  <p>Copyright © 2011 by University of
+                                                  Nebraska–Lincoln, all rights reserved.
+                                                  Redistribution or republication in any medium,
+                                                  except as allowed under the Fair Use provisions of
+                                                  U.S. copyright law, requires express written
+                                                  consent from the editors and advance notification
+                                                  of the publisher, the University of
+                                                  Nebraska–Lincoln.</p>
+                                                  </availability>
+                                                </publicationStmt>
+                                                <notesStmt>
+                                                  <note type="project">The following are responsible
+                                                  for particular readings or for changes to this
+                                                  file, as noted: 
+                                                                  <persName xml:id="mb">Matthew Bosley</persName>
+                                                                  <persName xml:id="el">Elizabeth Lorang</persName>
+                                                  <persName xml:id="sb">Stacey Berry</persName>
+                                                  <persName xml:id="et">Elisabeth Tracey</persName>
+                                                  </note>
+                                                </notesStmt>
+                                                <sourceDesc>
+                                                  <bibl>
+                                                  <title>The Medical and Surgical History of the War
+                                                  of the Rebellion. (1861&#8211;65.)</title>
+                                                  <editor role="compiler">Surgeon General Joseph
+                                                  K. Barnes, United States Army</editor>
+                                                  <pubPlace>Washington, D.C.</pubPlace>
+                                                  <publisher>Government Printing Office</publisher>
+                                                  <biblScope type="part">Part 1</biblScope>
+                                                  <biblScope type="volume">Volume 2</biblScope>
+                                                  <date when="1870">1870</date>
+                                                  <biblScope type="page">403</biblScope>
+                                                  </bibl>
+                                                </sourceDesc>
+                                </fileDesc>
+                                <encodingDesc>
+                                                <classDecl>
+                                                  <taxonomy xml:id="medsurg">
+                                                  <bibl>Medical and Surgical History of the War of
+                                                  the Rebellion</bibl>
+                                                  </taxonomy>
+                                                </classDecl>
+                                </encodingDesc>
+                                <profileDesc>
+                                                <textClass>
+                                                  <keywords scheme="#medsurg">
+                                                                  <term>wounds and injuries of the neck</term> 
+                                                                  <term>gunshot wounds of the neck</term>
+                                                                  <term>gunshot wound of the lateral cervical region</term> 
+                                                                  <term>muscles which elevate arm cut across</term>
+                                                  </keywords>
+                                                </textClass>
+                                </profileDesc>
+                                <revisionDesc>
+                                                <change who="#mb" when="2011-11-18">additional proofing of transcription and encoding</change>                                                
+                                                <change who="#el" when="2011-05-11">case text extracted and transformed from larger file</change>
+                                                <change who="#sb" when="2011-02-09">enriched
+                                                  encoding</change>
+                                                <change who="#sb" when="2011-01-28">validated
+                                                  file</change>
+                                                <change who="#et" when="2009-08-01">encoded</change>
+                                                <change who="#sb" when="2008-09-22">initial checking
+                                                  of OCR text against PDF; encoded </change>
+                                </revisionDesc>
+                </teiHeader>
+                <text>
+                                <body>
+                                                
+                                                <p> <hi rend="initialcap">C</hi>ASE.&#8212;<name type="person">Private B. F. Hawkins</name>, <name type="organization">Co. D. 7th Ohio
+                                                                Volunteers</name>, received a gunshot wound of the neck
+                                                                at <name type="battle">Port Republic, Virginia</name>, <date type="injury" when="1862-06-09">June 9th, 1862</date>. The
+                                                  missile entered above the middle of the spine of
+                                                  the scapula on the right side, and emerged at the
+                                                  middle of the sterno-cleido-mastoid muscle,
+                                                  anterior border. He was admitted to <name type="hospital" key="94">Cliffburne Hospital</name>, Washington, <date type="admit" when="1862-06-15">June 15th, 1862</date>, and
+                                                                returned to duty on <date type="duty" when="1862-08-05">August 5th</date>. On <date type="admit" when="1862-08-12">August 12th</date>, he
+                                                                was admitted to the <name type="hospital" key="189">3d division hospital</name>, <name type="place">Alexandria</name>, and again returned to duty on <date type="duty" when="1863-03-02">March
+                                                                                2d, 1863</date>. <name type="person">Pension Examiner A. O'Brien</name> reports,
+                                                                <date type="pension" when="1866-09-06">September 6th, 1866</date>, that the muscles which
+                                                  elevate the arm were cut across. </p>
+                                                
+                                </body>
+                </text>
+</TEI>

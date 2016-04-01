@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="cww.02520">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Editorial Correspondence</title>
+                <title level="m" type="sub">a machine readable transcription</title>
+                <editor role="co-editor">R. J. Weir</editor>
+                <principal>Susan C. Lawrence</principal>
+                <principal>Elizabeth Lorang</principal>
+                <principal>Kenneth M. Price</principal>
+                <principal>Kenneth J. Winkle</principal>
+                <respStmt>
+                    <resp>transcription and encoding</resp>
+                    <persName xml:id="ak">Alex Kinnaman</persName>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2015</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <idno>cww.02520</idno>
+                <distributor>Civil War Washington</distributor>
+                <publisher>University of Nebraska Lincoln</publisher>
+                <address>
+                    <addrLine>Center for Digital Research in the Humanities</addrLine>
+                    <addrLine>319 Love Library</addrLine>
+                    <addrLine>University of Nebraska-Lincoln</addrLine>
+                    <addrLine>P.O. Box 884100</addrLine>
+                    <addrLine>Lincoln, NE 68588-4100</addrLine>
+                </address>
+                <address>
+                    <addrLine>
+                        <email>cdrh@unl.edu</email>
+                    </addrLine>
+                </address>
+                <date>2015</date>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+                        <p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License (http://creativecommons.org/licenses/by-nc-sa/3.0/). Derivatives must be credited to Civil War Washington and R. J. Weir, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct xml:id="letter">
+                    <analytic>
+                        <author ref="#unk">Unsigned</author>
+                        <title level="a">Our Washington Correspondence</title>
+                    </analytic>
+                    <monogr>
+                        <title xml:id="paper" level="j">The Anglo-African</title>
+                        <imprint>
+                            <date xml:id="issue_date" when="1864-01-30">30 January 1864</date>                    
+                        </imprint>
+                        <biblScope type="pp">[4]</biblScope>                    
+                    </monogr>           
+                </biblStruct>
+                
+                <biblStruct xml:id="issue">               
+                    <monogr>
+                        <title level="j" sameAs="#paper"/>
+                        <imprint>
+                            <date sameAs="#issue_date"/>                  
+                        </imprint>              
+                    </monogr>                   
+                </biblStruct>                        
+            </sourceDesc>       
+        </fileDesc>
+        <encodingDesc> 
+            <p>This electronic text is a semi-diplomatic transcription of the source text. Hyphenation, punctuation, variant spellings, and errors present in the source text have been retained. The transcription does not attempt to capture all aspects of the original formatting or layout.</p>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <persName xml:id="unk">Unknown</persName>
+                <persName xml:id="rh">Hamilton, Robert</persName>
+                <persName xml:id="th">Hamilton, Thomas</persName>
+                <date when="1863">1864</date>
+            </creation>
+            <langUsage>
+                <language ident="en-US">modern American English</language>
+            </langUsage>
+            <textClass>
+                <classCode scheme="http://authorities.loc.gov">
+                    <term xml:id="sh2004002512">African American schools</term>
+                    <term xml:id="sh2009114063">African Americans--Washington (D.C.)</term>
+                    <term xml:id="sh2007100463">Antislavery movements--United States--History--19th century</term>
+                    <term xml:id="n50015173">Garnet, Henry Highland, 1815-1882</term>
+                    <term xml:id="n88005737">Langston, John Mercer, 1829-1897</term>
+                    <term xml:id="n96046091">Metropolitan A.M.E. Church (Washington, D.C.)</term>
+                    <term xml:id="n87892836">Nineteenth Street Baptist Church (Washington, D.C.)</term>
+                    <term xml:id="n92006732">Remond, Charles Lenox, 1810-1873</term>
+                    <term xml:id="sh85140274">United States--History--Civil War, 1861-1865--Societies, etc</term>
+                </classCode>
+                <classCode scheme="http://civilwardc.org">
+                    <term>Alexander, Sandy, 1818-?</term>
+                    <term>Lyceums</term>
+                    <term>Madden, Samuel W.</term>
+                </classCode>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when="2015-04-07" who="#ak">corrected image names</change>
+            <change when="2015-04-02" who="#el">checked transcription and encoding and made necessary changes; updated TEI header, including keywords</change>
+            <change when="2015-03-30" who="#ak">added keywords</change>
+            <change when="2015-02-25" who="#ak">checked, updated xml:id</change>
+            <change when="2014-11-17" who="#ak">checked transcription, encoded</change>
+        </revisionDesc>
+    </teiHeader>
+    
+    <facsimile corresp="#issue">
+        <surface xml:id="pp1">
+            <graphic url="aa.18640130.pp1.jpg"/>
+        </surface>
+        <surface xml:id="pp2">
+            <graphic url="aa.18640130.pp2.jpg"/>
+        </surface>
+        <surface xml:id="pp3">
+            <graphic url="aa.18640130.pp3.jpg"/>
+        </surface>
+        <surface xml:id="pp4">
+            <graphic url="aa.18640130.pp4.jpg"/>
+            <zone xml:id="pp4_cropped" corresp="#letter">
+                <graphic url="aa.18640130.pp4_cropped.jpg"/>
+            </zone>
+        </surface>
+    </facsimile>
+    
+    <text corresp="#letter #pp4_cropped">
+        <body>
+            <head type="main" subtype="authorial" rend="center">Our Washington Correspondence.</head>
+            <milestone unit="undeclared" rend="medium-bar"/>
+            <p><emph rend="smallcaps">The</emph> great number of strangers now in Washington <lb/>makes it very lively.  Several of our great men from <lb/>North, East, and West have been with us.  Among <lb/>them are Rev. H. H. Garnet, C. L. Remond, and J. M. <lb/>Langston, Esq.  Each of these gentlemen lectured for <lb/>us: 1st, Mr. Garnet before the Ladies' Contraband <choice><orig>Re-<lb/>lief</orig><reg>Relief</reg></choice> Association; 2d, Mr. Remond before Israel Lyceum <lb/>on Friday evening, Jan. 15, at Union League Rooms <choice><orig>be-<lb/>fore</orig><reg>before</reg></choice> an audience of an equal number of white and <choice><orig>col-<lb/>ored</orig><reg>colored</reg></choice> persons, and at the 19th Street Baptist Church. <lb/>At each of these places Mr. Remond's remarks were <lb/>well received, but we feel sorry to say that our learned <lb/>friend showed a degree of unkindness in his remarks <lb/>at the close of Mr. Garnet's lecture at the 15th Street <lb/>Church, which created some hard feeling on the part <lb/>of our citizens who were so unfortunate as to hear <lb/>him.  The remarks which gave offense were in <choice><orig>sub-<lb/>stance</orig><reg>substance</reg></choice> as follows:
+                
+                <floatingText>
+                    <body>
+                        <p>"I am truly sorry to learn that among your people <lb/>here there exists such a degree of prejudice one to <choice><orig>an-<lb/>other</orig><reg>another</reg></choice>.  You speak of the white man's prejudice, but <lb/>you need not expect the white man to be true to you <lb/>unless you first learn to be true to your own people. <lb/>I know you do not like for me thus to expose your <lb/>wrongs in this particular before the white portion of <lb/>your audience, but a wrong is a wrong, and these <lb/>wrongs the white men know.  And I am also told that <lb/>if one among you should by his industry or energy rise <lb/>in position a little above another, he only lives in this <choice><orig>de-<lb/>gree</orig><reg>degree</reg></choice> to gain your prejudice.  This indeed is a <choice><orig>misera-<lb/>ble</orig><reg>miserable</reg></choice> state of things which should not be.  First be true <lb/>to yourselves then," etc.</p></body>
+                </floatingText>
+            </p>
+            
+            <p>These remarks were thought by many to be unkind, <lb/>addressed as they were to a social Southern people by <lb/>one coming, as did Mr. Remond, from the cold, reserved, <lb/>and ceremonious East; whose people have all the while <lb/>shown this very prejudice to a great degree to us from <lb/>the South whom chance might have thrown among <lb/>them, more especially in days gone by.  On many <choice><orig>oc-<lb/>casions</orig><reg>occasions</reg></choice> our people have been made objects of scorn, <lb/>and have been set aside as fools and as those "from <choice><orig>be-<lb/>hind</orig><reg>behind</reg></choice> the sun," and on other occasions we have seen <lb/>demonstrations of this prejudice in the East and North <lb/>that would startle us here in the hospitable South. <lb/>Then for this gentleman, who indeed was honored by <lb/>being called to speak after this great man, Rev. H. H. <lb/>Garnet, to get up with no more befitting subject than a <lb/>slanderous falsehood, and making it worse by saying it <lb/>had been told to him, is beyond endurance.  By whom <lb/>had he been told?  By some humbug who no doubt had <lb/>come here expecting to have people here gather him <lb/>up, fill his lean pockets, and worship him as a god.</p>
+            
+            <p>No such uncalled for, out of place remarks were <lb/>needed by that intelligent audience.  It would have been <lb/>better for that gentleman to have remained silent than <lb/>to have chilled this audience who had been so friendly <lb/>and kindly entertained by the Rev. Mr. Garnet.  We <lb/>are a peculiar people&#8212;we have our peculiar customs <lb/>which are very agreeable to us as a people.  It is true <lb/>these customs and ways may not please a Yankee at first <lb/>sight.  So it may be with us when we go in <emph rend="italic">Yankeedom</emph>. <lb/>They have their "H-o-w-s," and we have our "Whats." <lb/>But we should not fall out about this.  It may be true <lb/>that we are not as fast as some of our Northern or <lb/>Eastern Cities in building up our great institutions for <lb/>particular classes, but we are laboring day and night <lb/>to bring all our forsaken people here to the surface at <lb/>one time.  I rather think that more prejudice is shown <lb/>by our Northern and Eastern brethren than we show <lb/>one to another.  We are slandered in all our efforts put <lb/>forth for the good of our people.  For instance, your <lb/>people circulated such base reports as that our ladies <lb/>here, whose characters are unimpeachable, had deprived <lb/>those poor contrabands of the goods sent to them, and <lb/>sold the same.  What people but a prejudiced one <lb/>would have circulated such reports?  Remond and <lb/>Smith, who accompanies him, made some few side hits <lb/>at us here for our slow-coachism in not having free <lb/>schools, the right of franchise, etc., etc.  As a matter <lb/>of course, we have been free here so long, it is a <choice><orig>won-<lb/>der</orig><reg>wonder</reg></choice> that we have not got beside ourselves and rebelled <lb/>against the United States.  Men in big meetings when <lb/>before smiling anti-slavery audiences, can make use of <lb/>big words, but bring these men here, and put them to <lb/>work and they will be found wanting.</p>
+            
+            <p>We are sorry to be called on to speak so plain, but <lb/>we can't help it.  Our remarks may be received <choice><orig>un-<lb/>kindly</orig><reg>unkindly</reg></choice> by these gentlemen, but we are a sensitive <choice><orig>peo-<lb/>ple</orig><reg>people</reg></choice>, who have been unjustly treated and criticized by <lb/>persons who think when coming to Washington that <lb/>they are coming South among a lot of slow <choice><orig>ninny-<lb/>heads</orig><reg>ninny-heads</reg></choice>. But do not mistake yourselves, gentlemen, <lb/>though we may seem slow to you&#8212;yet we can assure <lb/>you we are wide awake and filling our places with as <lb/>much credit as any other people placed in like <choice><orig>situa-<lb/>tions</orig><reg>situations</reg></choice>.  Do not come among us with your hastily-formed <lb/>opinions, backed up by hearsay, but bring us light, <choice><orig>ex-<lb/>ample</orig><reg>example</reg></choice>, and wisdom, and not so much fault-finding.</p>
+            
+            <p>We have had already enough of politics and of <choice><orig>slave-<lb/>ry</orig><reg>slavery</reg></choice>&#8212;of the latter, we are nearly tired to death.  We <lb/>read it, we sing it, we pray it, we talk it, we speak it, <lb/>we lecture it, and the whole United States is in arms <lb/>against it.  You come to tell us it is dead.  Well, if that <lb/>is so, I thank God.  Don't bother its <choice><orig>carcase</orig><reg>carcase</reg></choice>.  Let us <lb/>improve the living who have been under slavery.  You <lb/>who come from your grand school districts and boast <lb/>of your equal collegiate privileges at the East, do give <lb/>us some token of your refined and cultivated talents in <lb/>lectures on Literature, Science, and Art.  Don't come <lb/>any more riding that old weather-beaten horse, <choice><orig>anti-<lb/>slavery</orig><reg>anti-slavery</reg></choice>.</p>
+            
+            <p>The small-pox is on the increase in this city.  The <lb/>police reported for the week ending Jan. 16, one <choice><orig>thou-<lb/>sand</orig><reg>thousand</reg></choice> six hundred cases other than in the hospital for <lb/>contagious diseases.</p>
+            
+            <p>The city is very gay at this season.  Many marriages <lb/>are taking place.  Among the number is that of Rev. <lb/>Sandy Alexander to Miss Smith of Fredericksburg, Va. <lb/>He was married at his own church by Rev. S. W. <choice><orig>Mad-<lb/>den</orig><reg>Madden</reg></choice>.  We wish this couple much happiness.</p>
+            
+            <p>The Ladies' Contraband Relief Association received <lb/>from New York Colored Grammar School, No. 1, the <lb/>sum of $88, which was brought on by the Rev. Mr. <lb/>Garnet.  This present was gladly received, and will be <lb/>hailed with great joy by the little motherless <choice><orig>contra-<lb/>band</orig><reg>contraband</reg></choice> children and the poor old <choice><sic>decrepid</sic><corr>decrepit</corr></choice>.  What makes <lb/>this more valued is that it is from the children of the <lb/>male and female department of a grammar school of <lb/>colored children.  We hope other schools will follow <lb/>their example.</p>
+            
+            <closer>
+                <dateline>Washington, D. C., Jan. 17, 1864.</dateline>
+            </closer>
+        </body>
+    </text>
+</TEI>

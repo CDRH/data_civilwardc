@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d2e31649">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Barnard, Henry B.</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+       <idno>med.d2e31649</idno>
+       <authority>Civil War Washington</authority>
+       <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor>
+       <name>Center for Digital Research in the Humanities</name>
+       <address><addrLine>319 Love Library</addrLine>
+       <addrLine>University of Nebraska–Lincoln</addrLine>
+       <addrLine>Lincoln, NE 68588-4100</addrLine>
+       <addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+    </distributor>
+    <date>2011</date>
+    <availability>
+        <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+         republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+         law, requires express written consent from the editors and advance notification of the
+         publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+     <persName xml:id="mb">Matthew Bosley</persName>
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl>
+     <title level="j">The Medical and Surgical History of the War of the Rebellion. (1861-65.)</title>
+     <pubPlace>Washington, DC</pubPlace>
+     <publisher>Government Printing Office</publisher>
+     <biblScope type="part">Part 2</biblScope>
+     <biblScope type="volume">Volume 2</biblScope>
+     <date when="1876">1876</date>
+     <biblScope type="page">96</biblScope>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+       <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+      <keywords scheme="#medsurg">
+       <term>injuries of the abdomen</term>
+       <term>penetrating wounds of the abdomen</term>
+       <term>wounds of the large intestines</term>
+       <term>gunshot wounds</term>
+       <term>cases of recovery</term> 
+       <term>ball entered anterior aspect of upper third thigh, came out at gluteal region</term>
+       <term>wounded sigmoid flexure of colon</term>
+       <term>f&#230;cal matter and urine escaped from wounds</term>
+       <term>ulcer of inner thigh with fistulous track possibly connecting with urethra or rectum</term>       
+       <term>wounded thigh measures in circumference one-half less than opposite</term>
+       <term>pain in back and lameness after protracted labor</term>
+     </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change who="#mb" when="2012-08-24">copied case from MSHWR, added proofing of transcription and encoding, identified keyword terms</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body> 
+   <p><hi rend="initialcap">C</hi>ASE 290.&#8212;<name type="person" key="xxx">Captain Henry B. Barnard</name>, <name type="organization" key="xxx">Co. L, 2d New York Mounted Rifles</name>, aged 27 years, was wounded at <name type="battle" key="xxx">Petersburg</name>, <date type="injury" when="1864-07-30">July 30, 1864</date>, by a conoidal ball, which entered the anterior aspect of the upper third of the left thigh and came out at the right gluteal region; in its passage, it wounded the sigmoid flexure of the colon.  He was taken to the field hospital, and, on <date type="transfer" when="1864-08-03">August 3d</date>, was transferred to <name type="place" key="#Washington">Washington</name> and admitted into <name type="hospital" key="171">Armory Square Hospital</name>, under the charge of <name type="person" key="123">Surgeon D. W. Bliss</name>, <name type="organization" key="132">U. S. V.</name>  F&#230;cal matter and urine escaped from the wounds. Tonics and good diet were ordered. The patient did well, and, on <date type="furlough" when="1864-09-08">September 8th</date>, was furloughed, at which time the wound was still open.  About <date type="duty" when="1864-11">two months afterward</date>, he returned to the hospital on his way to his regiment, and was &#34;perfectly well.&#34;  He is reported by the <name type="person" key="xxx">Adjutant General of the State of New York</name> as having been discharged from service <date type="servicedischarge" when="1865-01-20">January 20, 1865</date>.  <name type="person" key="xxx">Pension Examiner H. F. Montgomery</name> reports, <date type="pension" when="1965-03-22">March 22, 1865</date>: &#34;There is now, on the inside of the left thigh, one inch from the groin, an ulcer with a hard inflamed base and a fistulous track upward and downward, possibly connecting with the urethra or rectum.&#34;  <name type="person" key="xxx">Pension Examiners B. L. Hovey</name> and <name type="person" key="xxx">H. F. Montgomery</name>, of <name type="place">Rochester</name>, reported, <date type="pension" when="1871-11-24">November 24, 1871</date>, that &#34;the left thigh measures, in circumference, one-half less than the right at a corresponding point. He complains of pain in the back, and lameness after protracted labor.&#34;  He was last paid <date type="pension" when="1872-12-04">December 4, 1872</date>.</p>     
+  </body>
+ </text>
+</TEI>

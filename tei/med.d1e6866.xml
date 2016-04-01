@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e6866">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Hay, John W.</title>
+                <title level="m" type="sub">a machine readable transcription</title>
+                <principal>Susan C. Lawrence</principal>
+                <principal>Kenneth M. Price</principal>
+                <principal>Kenneth J. Winkle</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2011</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <idno>med.d1e6866</idno>
+                <authority>Civil War Washington</authority>
+                <publisher>University of Nebraska–Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+                </distributor>
+                <date>2011</date>
+                <availability>
+                    <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved.
+                        Redistribution or republication in any medium, except as allowed under the
+                        Fair Use provisions of U.S. copyright law, requires express written consent
+                        from the editors and advance notification of the publisher, the University
+                        of Nebraska–Lincoln.</p>
+                </availability>
+            </publicationStmt>
+            <notesStmt>
+                <note type="project">The following are responsible for particular readings or for changes to this file, as noted: 
+                    <persName xml:id="mb">Matthew Bosley</persName>
+                    <persName xml:id="el">Elizabeth Lorang</persName>
+                    <persName xml:id="sb">Stacey Berry</persName>
+                    <persName xml:id="et">Elisabeth Tracey</persName>
+                    <persName xml:id="ak">Alex Kinnaman</persName>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>The Medical and Surgical History of the War of the Rebellion. (1861&#8211;65.)</title>
+                    <editor role="compiler">Surgeon General Joseph K. Barnes, United States Army</editor>
+                    <pubPlace>Washington, D.C.</pubPlace>
+                    <publisher>Government Printing Office</publisher>
+                    <biblScope type="part">Part 1</biblScope>
+                    <biblScope type="volume">Volume 2</biblScope>
+                    <date when="1870">1870</date>
+                    <biblScope type="page">105-106, 106</biblScope>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <classDecl>
+                <taxonomy xml:id="medsurg">
+                    <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme="#medsurg">                    
+                    <term>on special wounds and injuries of the head</term>
+                    <term>wounds and injuries of the head</term>
+                    <term>gunshot wounds</term>
+                    <term>gunshot contusions of the cranial bones</term> 
+                    <term>contusion of the skull without fracture</term>
+                    <term>exfoliation</term>
+                    <term>conoidal ball struck obliquely about middle of forehead</term>
+                    <term>gunshot scalp wound near occipital protuberance, subsequently received</term>
+                    <term>dura mater detached from inner table of skull</term>
+                    <term>inner table of skull carious</term>
+                    <term>exfoliation of outer table of skull</term>
+                    <term>gangrene</term>
+                </keywords>
+            </textClass>
+        </profileDesc>        
+        <revisionDesc>
+            <change who="#ak" when="2014-10-08">added figure encoding</change>
+            <change who="#mb" when="2011-10-06">additional proofing of transcription and encoding</change>
+            <change who="#mb" when="2011-06-16">additional proofing of transcription and encoding</change>
+            <change who="#el" when="2011-11-05">case text extracted and transformed from larger file</change>
+            <change who="#sb" when="2011-02-09">enriched encoding</change>
+            <change who="#sb" when="2011-01-28">validated file</change>
+            <change who="#et" when="2009-08-01">encoded</change>
+            <change who="#sb" when="2008-09-22">initial checking of OCR text against PDF; encoded</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body xml:id="ch1.sc3.0084">            
+                <p><name type="person" key="358"><hi rend="initialcap">H</hi>AY, <hi
+                            rend="initialcap">J</hi>OHN <hi rend="initialcap">W</hi>.</name>,
+                    Private, <name type="organization" key="491">Co. D, 61st Pennsylvania
+                        Volunteers</name>, aged 29 years, was wounded, at the battle of <name type="BATTLE"
+                            key="3"><choice><orig>Spottsylvania</orig><reg>Spotsylvania</reg></choice>, Virginia</name>, <date type="injury" when="1864-05-11">May 11th, 1864</date>, by a conoidal ball, which struck
+                    obliquely about the middle of the forehead.  He was admitted to the hospital of
+                    the 2d division, Sixth Corps, but the injury must have been considered slight,
+                    as no record of the case was found until <date type="admit" when="1864-07-12">July 12th</date>, when the patient was admitted to <name type="hospital"
+                        key="165">Mount Pleasant Hospital</name>, on account of a gunshot scalp
+                    wound near the occipital protuberance, subsequently received in <name type="person" key="xxx">General Early</name>'s
+                    demonstration against the defences of <name type="place" key="WASHINGTON">Washington</name>, the day of the patient's
+                    admission.  Gangrene attacked this later wound. Bromine, nitric acid, yeast, and
+                    charcoal poultices were successively applied to the gangrenous wound. The
+                    sloughing was checked, and the wound soon assumed a healthy appearance. The
+                    wound on the forehead was not affected by gangrene, and was supposed to be
+                    trifling, and was treated with simple dressings.  <date type="injury" when="1864-08-06">A month after</date> his admission,
+                    the man complained of some pain in the forehead. Ice water was applied, and
+                    morphia was given internally.  Death occurred <date type="death" when="1864-08-06">a few hours afterwards</date>.  On August
+                    7th, 1864, at the <hi rend="italic">post mortem</hi> examination, the brain was
+                    found to be slightly congested, but no pus was observed between the skull and
+                    dura mater; yet the latter was detached from the inner table of the skull, which
+                    was carious over a surface nearly as large as the surface of the incipient
+                    exfoliation on the outer table. The scale of dead bone of the outer table
+                    remained <choice><orig>in siter</orig><reg>in situ</reg></choice>. The dura mater opposite the diseased inner table was
+                    thickened and had deposits of lymph on the surface next the cranium; otherwise,
+                    the encephalon was normal in appearance.  The specimen was contributed by <name
+                        type="person" key="339">Assistant Surgeon C. A. McCall</name>, <name
+                        type="organization" key="190">U.S.A.</name>, and is represented in the
+                    foregoing wood-cuts, <hi rend="initialcap">F</hi>IGS. 32 and 33. The notes of
+                    the case were furnished by <name type="person" key="359">Acting Assistant
+                    Surgeon F. J. Kern</name>.</p> 
+            
+            <figure>
+                <graphic url="cww.001841.001"/>
+                <head>
+                    <hi rend="initial cap">F</hi>IG. 32.&#8212;Segment of os frontis, showing necrosis following a gunshot contusion. <hi rend="italic">Spec</hi>. 2964, Sect. I, A. M. M.
+                </head>
+            </figure>                 
+            <figure>
+                <graphic url="cww.001842.001"/>
+                <head>
+                    <hi rend="initial cap">F</hi>IG. 33.&#8212;Internal view of the same specimen, showing the diseased dura mater and the ulceration of the inner table.
+                </head>
+            </figure>        
+        </body>
+    </text>
+</TEI>

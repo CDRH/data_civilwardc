@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d2e8833">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Friederick, J.</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+    <idno>med.d2e8833</idno>
+    <authority>Civil War Washington</authority>
+    <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor><name>Center for Digital Research in the
+     Humanities</name><address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address></distributor>
+    <date>2011</date>
+    <availability>
+     <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+      republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+      law, requires express written consent from the editors and advance notification of the
+      publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+ <persName xml:id="kmp">Kenneth M. Price</persName> <persName xml:id="ajh">AJ Howell</persName>
+     <persName xml:id="mb">Matthew Bosley</persName>
+     <persName xml:id="el">Elizabeth Lorang</persName>
+     <persName xml:id="sb">Stacey Berry</persName>
+     <persName xml:id="et">Elisabeth Tracey</persName>
+     <persName xml:id="ss">Sarah Synovec</persName>
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title level="j">The Medical and Surgical History of the War of the Rebellion.
+      (1861-65.)</title><pubPlace>Washington, DC</pubPlace><publisher>Government Printing
+      Office</publisher><biblScope type="part">Part 3</biblScope><biblScope type="volume">Volume
+      2</biblScope><date when="1883">1883</date><biblScope type="page">189-190</biblScope></bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+     <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <keywords scheme="#medsurg">
+     <term>wounds and injuries of the lower extremities</term>
+     <term>injuries of the shaft of the femur</term>
+     <term>shot fractures of the shaft of the femur</term>
+     <term>shot fractures of the shaft of the femur treated by conservation</term>
+     <term>shot fractures of the middle third of the femur treated by conservation</term>
+     <term>recovery after shot fractures of the middle third of the femur treated by
+      conservation</term>
+     <term>compound fracture of femur</term>
+     <term>ball entered inner thigh at middle third, fractured femur, and lodged</term>
+     <term>gangrene</term>
+     <term>leg withered and badly deformed</term>
+     <term>seven inches shortening of thigh</term>
+     <term>marked deformity, outward curvature of thigh</term>
+     <term>general anesthesia, chloroform</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+ <change who="#kmp" when="2014-05">blessed</change>
+   <change who="#ajh" when="2013-08-22">added figure encoding</change>
+   <change who="#mb" when="2012-04-27">additional proofing of transcription and encoding, identified
+    keyword terms</change>
+   <change who="#el" when="2011-05-11">case text extracted and transformed from larger file</change>
+   <change who="#sb" when="2011-06-04">Enrich Encoding, Edit and validate</change>
+   <change who="#sb" when="2011-01-28">Validated File</change>
+   <change who="#ss" when="2008-09-22">Sarah Synovec initial checking of OCR text; encoded P5
+    Encoding</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+
+   <p><hi rend="initialcap">C</hi>ASE 386.&#8212;<name type="person" key="1026">Private J.
+     Friederick</name>, <name type="organization" key="418">Co. F, 127th New York</name>, aged 19
+    years, was wounded in the right thigh at <name type="BATTLE" key="42">Honey Hill</name>, <date
+     type="injury" when="1864-11-30">November 30, 1864</date>. <name type="person" key="xx"
+     >Assistant Surgeon J. F. Huber</name>, <name type="organization" key="132">U. S. V.</name>,
+    reported his admission to hospital at <name type="place">Hilton Head</name>, on <date
+     type="admit" when="1864-12-01">the day following the injury</date>, with "compound fracture of
+    femur, treated with splints," and his transfer to <name type="place" key="#Washington"
+     >Washington</name>, <date type="transfer" when="1865-05-07">May 7, 1865</date>, but gave no
+    account of the progress of the case. The following notes were furnished by <name type="person"
+     key="424">Acting Assistant Surgeon G. K. Smith</name>, from <name type="hospital" key="171"
+     >Armory Square Hospital</name>, and by <name type="person" key="xx">Assistant Surgeon W.
+     Webster</name>, <name type="organization" key="190">U. S. A.</name>, in charge of DeCamp
+    Hospital, <name type="place">David's Island, New York</name>. The wound was caused by a round
+    ball, which entered the inner side of the thigh at its middle third, passing obliquely outward
+    and forward, fracturing the femur and lodging. An attempt to stand on the limb after receiving
+    the injury caused the thigh to bend to an obtuse angle at the seat of the fracture. The wounded
+    man was placed on a shelter tent and conveyed to a steamboat, about eight miles distant, no
+    examination of the wound having been made and no local support having been applied to the broken
+    bone. During <date type="operation" when="1864-12-01">the night following the injury</date> the
+    ball was removed through an incision on the external aspect of the thigh. Cold-water
+    applications were used, and a partial support was given by an arrangement of blankets around the
+    parts. On arriving at the <name type="hospital" key="xx">Hilton Head Hospital</name> a surgical
+    examination was made under chloroform, but with no operative result, the limb being exceedingly
+    tumefied. Smith's anterior suspensory apparatus was then applied, and the topical applications
+    of cold water were continued. This treatment was kept up until January 7th, when side splints,
+    extending below the foot, were substituted, and the limb was maintained in a straight position.
+    This apparatus was continued for nearly two months, and during this stage of the treatment the
+    swelling greatly subsided, and about a half dozen pieces of bone were removed by the attending
+    surgeon at various intervals. The largest of these is represented to have been about three
+    inches long, one-half inch wide, and one-eighth inch thick. An abscess also opened,
+    spontaneously, about two inches below Poupart's ligament. In the latter part of March the side
+    splints gave way to a fracture-box, the cold-water dressings being still persevered in. On May
+    1st all local supports by means of splints were cast aside, bandages and pillows being
+    sufficient from that period in consequence of the advanced stage of bony consolidation. On <date
+     type="transfer" when="1865-05-10">May 10th</date>, when the patient was admitted to <name
+     type="hospital" key="171">Armory Square Hospital</name>, the fractured femur had firmly united,
+    with seven inches shortening, a marked deformity by an outward curvature of the thigh, and very
+    limited motion of the knee joint. There was still a slight discharge, and the extremity of the
+    upper fragment lapping by the lower fragment presented itself on the outer aspect of the limb,
+    close to the external condyle, at which point the skin was ulcerated through, exposing the end
+    of the bone. By June 1st the patient's recovery was so far advanced as to enable him to walk
+    about the ward with the aid of crutches. About the last of June, however, he was compelled to
+    resume his bed in consequence of the appearance of an abscess on the outer side of the thigh,
+    which was opened and gave exit to about eight ounces of sanious and offensive pus. Up to this
+    time the purulent discharges from the wound had been moderate in quantity and healthy in
+    character. On July 5th, however, the several openings were attacked by gangrene, which rapidly
+    extended up the thigh and destroyed the skin and superficial and deep fascia nearly the whole
+    length of its external surface. This disease was, at length, arrested by the application of
+    bromine, and by August 15th the wound had become filled with granulations, and cicatrization was
+    progressive. On <date type="transfer" when="1865-08-17">August 17th</date> the patient was
+    transferred to <name type="hospital" key="162">Douglas Hospital</name>, where a subsequent
+    exploration of the limb resulted in the removal of six small sequestra from the external wound.
+    Simple dressings were now used, and no further operative interference was required in the case
+    until after the arrival of the patient at DeCamp Hospital, where he was transferred on <date
+     type="transfer" when="1865-10-23">October 23d</date>. At <date type="injury" when="1865-10-23"
+     >this date</date> he was strong enough to walk from the steamboat landing to his ward on
+    crutches, and his general health was excellent. There were three apertures, two on the external
+    and one on the posterior surface of the thigh, from which pus of a healthy appearance found exit
+    in small quantities. An examination of the wound by means of a probe revealed secondary
+    splinters, but not sufficiently approachable to warrant an attempt at their removal. The amount
+    of new osseous deposit was considerable, but unfortunately the sequestra were found so
+    intimately embedded in it as to cause their removal to be attended with great difficulty and
+    even impossibility, and involving the sacrifice of so much new growth as to endanger the limb.
+    On <date type="operation" when="1866-02-25">February 25, 1866</date>, however, the further
+    removal of necrotic pieces was induced by constitutional symptoms, which manifested themselves
+    and indicated local irritation. Portions of the involucrum were removed by the trephine and
+    chisel, where necessary for the purpose, and small masses of dead bone were extracted from each
+    of the orifices. One of the pieces, deeply situated, measured about two inches in length. As a
+    seeming consequence of the operation the unfavorable constitutional symptoms entirely
+    disappeared, and the condition of the patient and his wounds became highly satisfactory." In
+     <date type="injury" when="1866-06">June following</date> he was supplied with an apparatus for
+    the injured limb by <name type="person" key="xx">E. D. Hudson</name>, of <name type="place"
+     key="xx">New York City</name>, and <date type="hospitaldischarge" when="1866-10">four months
+     later</date> he left for his home, having been discharged from service <date
+     type="servicedischarge" when="1865-11-25">November 25, 1865</date>, but re-admitted to the
+    hospital <date type="admit" when="1866-11">one month afterwards</date>. The <name
+     type="organization" key="xx">Examining Board</name> of <name type="place">Augusta,
+    Maine</name>, certified, in <date type="pension" when="1873-05">May, 1873</date>, and in <date
+     type="pension" when="1876-12">December, 1876</date>: "The leg is withered and badly deformed,
+    and there are discharging ulcers all the time. He can perform no manual labor of any kind, and
+    is confined to his bed a large part of the time. The leg, from knee to foot, is nothing but skin
+    and bone." The pensioner was paid <date type="pension" when="1879-06-04">June 4, 1879</date>.
+    The wood-cut (<hi rend="initialcap">F</hi>IG. 151) represents a photograph of the patient, taken
+     <date type="photo" when="1865-08-15"/>August 15, 1865. (<hi rend="italic">Photo's of Surgical
+     Cases</hi>, Vol. 9, p. 16, and <hi rend="italic">Surg. Phot. Series</hi>, No. 90.) Card
+    photographs, taken at a subsequent date at the DeCamp Hospital, were contributed by <name
+     type="person" key="xx">Assistant Surgeon Webster</name>. (<hi rend="italic">Card Photo's</hi>,
+    Vol. 2, p. 22, A. M. M.)</p>
+   <figure>
+    <graphic url="cww.001567.001"/>
+    <head>
+     <hi rend="initialcap">F</hi>IG. 151.&#8212;Shot fracture of middle third of right femur. [From
+     a photograph.]</head>
+   </figure>
+
+  </body>
+ </text>
+</TEI>

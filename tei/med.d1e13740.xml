@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e13740">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Colson, Christopher C.</title>
+                <title level="m" type="sub">a machine readable transcription</title>
+                <principal>Susan C. Lawrence</principal>
+                <principal>Kenneth M. Price</principal>
+                <principal>Kenneth J. Winkle</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2011</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <idno>med.d1e13740</idno>
+                <authority>Civil War Washington</authority>
+                <publisher>University of Nebraska–Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+                </distributor>
+                <date>2011</date>
+                <availability>
+                    <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved.
+                        Redistribution or republication in any medium, except as allowed under the
+                        Fair Use provisions of U.S. copyright law, requires express written consent
+                        from the editors and advance notification of the publisher, the University
+                        of Nebraska–Lincoln.</p>
+                </availability>
+            </publicationStmt>
+            <notesStmt>
+                <note type="project">The following are responsible for particular readings or for changes to this file, as noted: 
+                    <persName xml:id="mb">Matthew Bosley</persName>
+                    <persName xml:id="el">Elizabeth Lorang</persName>
+                    <persName xml:id="sb">Stacey Berry</persName>
+                    <persName xml:id="et">Elisabeth Tracey</persName>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>The Medical and Surgical History of the War of the Rebellion. (1861&#8211;65.)</title>
+                    <editor role="compiler">Surgeon General Joseph K. Barnes, United States Army</editor>
+                    <pubPlace>Washington, D.C.</pubPlace>
+                    <publisher>Government Printing Office</publisher>
+                    <biblScope type="part">Part 1</biblScope>
+                    <biblScope type="volume">Volume 2</biblScope>
+                    <date when="1870">1870</date>
+                    <biblScope type="page">190</biblScope>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <classDecl>
+                <taxonomy xml:id="medsurg">
+                    <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme="#medsurg">
+                    <term>on special wounds and injuries of the head</term>
+                    <term>wounds and injuries of the head</term>
+                    <term>gunshot wounds</term>
+                    <term>gunshot fractures of the cranial bones</term> 
+                    <term>depressed gunshot fracture of cranial bones</term>
+                    <term>remote results of depressed fractures</term>
+                    <term>necrosis of portions of outer table or of both tables of cranium, frequent results of gunshot fracture</term>
+                    <term>fractures of skull followed by headache, vertigo, or persistent pain</term>
+                    <term>conoidal musket ball fractured left parietal bone</term>                    
+                    <term>persistent hemicrania of left side</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change who="#mb" when="2013-07-12">additional proofing of transcription and encoding, edited and added keyword terms</change>
+            <change who="#mb" when="2011-07-22">additional proofing of transcription and encoding</change>
+            <change who="#el" when="2011-11-05">case text extracted and transformed from larger file</change>
+            <change who="#sb" when="2011-02-09">enriched encoding</change>
+            <change who="#sb" when="2011-01-28">validated file</change>
+            <change who="#et" when="2009-08-01">encoded</change>
+            <change who="#sb" when="2008-09-22">initial checking of OCR text against PDF; encoded</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body xml:id="ch1.sc3.0252">            
+                <p><hi rend="initialcap">C</hi>ASE.&#8212;<name type="person" key="1577">Private
+                        Christopher C. Colson</name>, <name type="organization" key="164">Co. A,
+                            37th Massachusetts Volunteers</name>, aged 24 years, was wounded at the battle of 
+                    <name type="BATTLE" key="12">the Wilderness, Virginia</name>,
+                        <date type="injury" when="1864-05-06">May 6th, 1864</date>, by a conoidal
+                    musket ball, which fractured the left parietal bone.  He was admitted to the
+                    hospital of the 2d division, Sixth Corps; and thence, on <date
+                        type="transfer" when="1864-05-25">the 25th</date>, he was sent to the <name
+                        type="hospital" key="171">Armory Square Hospital</name> at Washington.  The
+                    case progressed well under ordinary treatment.  On <date type="transfer"
+                        when="1864-06-16">June 16th</date> he was transferred to the Knight
+                    Hospital, <name type="place">New Haven, Connecticut</name>; on <date type="transfer" when="1864-10-16">October 16th</date> to <name type="place">Readville, Massachusetts</name>;
+                    and on <date type="duty" when="1865-03-22">March 22d, 1865</date>, he was returned to duty from the Dale Hospital,
+                    <name type="place">Worcester, Massachusetts</name>.  Persistent hemicrania of the left side, however,
+                    rendered him unfit for duty, and, on <date type="admit" when="1865-05-23">May
+                        23d, 1865</date>, he entered the <name type="hospital" key="176">Lincoln
+                        Hospital</name>, at Washington, and was mustered out of service <date
+                        type="servicedischarge" when="1865-06-12">June 12th, 1865</date>.</p>            
+        </body>
+    </text>
+</TEI>

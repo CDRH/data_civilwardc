@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d2e35009">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Brink, Elias</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+    <idno>med.d2e35009</idno>
+       <authority>Civil War Washington</authority>
+       <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor>
+       <name>Center for Digital Research in the Humanities</name>
+       <address><addrLine>319 Love Library</addrLine>
+       <addrLine>University of Nebraska–Lincoln</addrLine>
+       <addrLine>Lincoln, NE 68588-4100</addrLine>
+       <addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+    </distributor>
+    <date>2011</date>
+    <availability>
+        <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+         republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+         law, requires express written consent from the editors and advance notification of the
+         publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+     <persName xml:id="ajh">AJ Howell</persName>   
+     <persName xml:id="el">Elizabeth Lorang</persName>
+     <persName xml:id="sb">Stacey Berry</persName>
+     <persName xml:id="et">Elisabeth Tracey</persName>
+     <persName xml:id="ss">Sarah Synovec</persName>
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl>
+     <title level="j">The Medical and Surgical History of the War of the Rebellion. (1861-65.)</title>
+     <pubPlace>Washington, DC</pubPlace><publisher>Government Printing Office</publisher>
+     <biblScope type="part">Part 3</biblScope>
+     <biblScope type="volume">Volume 1</biblScope>
+     <date when="1883">1883</date>
+     <biblScope type="page">344</biblScope>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+       <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+      <keywords scheme="#medsurg">
+       <term>post-mortem records</term>       
+       <term>the continued fevers</term>      
+       <term>ruptured by fall</term>
+       <term>pericarditis</term>
+       <term>eruption like typhoid fever</term>
+       <term>iliac tenderness</term>   
+       <term>involuntary evacuations</term>
+       <term>autopsy performed</term>
+       <term>lung full of blood</term>   
+       <term>ulcersi  lower two-thirds of ileum</term>
+       <term>mesenteric and mesocolic glands enlarged</term>          
+     </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change who="#ajh" when="2013-02-19">additional proofing of transcription and encoding, edited and added keyword terms, added figures</change>
+   <change who="#el" when="2011-05-11">case text extracted and transformed from larger file</change>
+   <change who="#sb" when="2011-06-04">Enrich Encoding, Edit and validate</change>
+   <change who="#sb" when="2011-01-28">Validated File</change>
+   <change who="#ss" when="2008-09-22">initial checking of OCR text; encoded P5 Encoding</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body> 
+   <p><hi rend="initialcap">C</hi>ASE 47.&#8212;<name type="person" key="624">Private Elias
+    Brink</name>, <name type="organization" key="326">Co. B, 137th N. Y.</name>; age 53; was admitted
+    <date type="admit" when="1863-01-18">Jan. 18, 1863</date>, having been sick two weeks. He spoke of
+    having hurt his back and ruptured himself by a fall while on the march, and complained of pain in
+    his back. Symptoms of what was supposed to be pericarditis made their appearance on February 7, and
+    next day veratrum viride was prescribed. On the 11th he was noticed to be very deaf; his pulse was
+    slow and weak, and vomiting had set in. The veratrum viride was discontinued. Next day he lapsed
+    into stupor and when aroused with difficulty from this state his answers were incoherent; his
+    breathing was rapid. On the 11th an eruption like that of typhoid fever made its appearance on his
+    body and extremities; he coughed much and muttered to himself; there appeared to be some iliac
+    tenderness; his urine required to be drawn off by catheter. Next day his evacuations became
+    involuntary. He died on the <date type="death" when="1863-02-19">19th</date>. <hi rend="italic"
+     >Post-mortem</hi> examination four hours after death: Body emaciated; rigor mortis marked. The brain
+    weighed forty-six ounces; it was light-colored, of firm consistence and contained much fluid in its
+    ventricles. The heart was healthy. The right lung weighed fifteen ounces, the left thirteen ounces;
+    the right was full of blood, the upper lobe being somewhat congested and the lower universally so;
+    the upper lobe of the left lung was congested; collapsed lobules were observed in the lower lobes of
+    both lungs; the bronchial tubes were congested and some of the smaller ones contained pus. The liver
+    weighed fifty-four ounces and was universally congested; the gall-bladder contained eleven drachms
+    of dark-green bile; the spleen weighed five ounces and a half and was of a dark-slate color
+    externally, dark-red internally and moderately firm in consistence; the kidneys weighed four ounces
+    and a half each and were of a rather dark color; the stomach was slightly congested. The mucous
+    membrane of the small intestine was softened, especially near the ileo-c&#230;cal valve; it was
+    slightly congested in the jejunum and upper third of the ileum, decidedly so in the lower two-thirds
+    of the ileum, where a number of ulcers were observed. The c&#230;cum was of a dark-slate color; the
+    rest of the large intestine was normal. The mesenteric and mesocolic glands were enlarged,
+    especially the latter.&#8212;<hi rend="italic"><name type="person" key="244">Ass't Surg. George M.
+     McGill</name>, <name type="organization" key="190">U. S. A.</name>, <name type="hospital" key="176">Lincoln Hospital</name>, <name type="place" key="#Washington">Washington, D. C.</name></hi>
+   </p>  
+  </body>
+ </text>
+</TEI>

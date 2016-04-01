@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e11671">
+        <teiHeader>
+                <fileDesc>
+                        <titleStmt>
+                                <title level="m" type="main">Simons, William H.</title>
+                                <title level="m" type="sub">a machine readable transcription</title>
+                                <principal>Susan C. Lawrence</principal>
+                                <principal>Kenneth M. Price</principal>
+                                <principal>Kenneth J. Winkle</principal>
+                        </titleStmt>
+                        <editionStmt>
+                                <edition>
+                                        <date>2011</date>
+                                </edition>
+                        </editionStmt>
+                        <publicationStmt>
+                                <idno>med.d1e11671</idno>
+                                <authority>Civil War Washington</authority>
+                                <publisher>University of Nebraska–Lincoln</publisher>
+                                <distributor>
+                                        <name>Center for Digital Research in the Humanities</name>
+                                        <address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+                                </distributor>
+                                <date>2011</date>
+                                <availability>
+                                        <p>Copyright © 2011 by University of Nebraska–Lincoln, all
+                                                rights reserved. Redistribution or republication in
+                                                any medium, except as allowed under the Fair Use
+                                                provisions of U.S. copyright law, requires express
+                                                written consent from the editors and advance
+                                                notification of the publisher, the University of
+                                                Nebraska–Lincoln.</p>
+                                </availability>
+                        </publicationStmt>
+                        <notesStmt>
+                                <note type="project">The following are responsible for particular readings or for changes to this file, as noted: 
+                                        <persName xml:id="mb">Matthew Bosley</persName>
+                                        <persName xml:id="el">Elizabeth Lorang</persName>
+                                        <persName xml:id="sb">Stacey Berry</persName>
+                                        <persName xml:id="et">Elisabeth Tracey</persName>
+                                </note>
+                        </notesStmt>
+                        <sourceDesc>
+                                <bibl>
+                                        <title level="j">The Medical and Surgical History of the War of the Rebellion</title>
+                                        <pubPlace>Washington, DC</pubPlace>
+                                        <publisher>Government Printing Office</publisher>
+                                        <biblScope type="part">Part 3</biblScope>
+                                        <biblScope type="volume">Volume 1</biblScope>
+                                        <date when="1888">1888</date>
+                                        <biblScope type="page">880</biblScope>
+                                </bibl>
+                        </sourceDesc>
+                </fileDesc>
+                <encodingDesc>
+                        <classDecl>
+                                <taxonomy xml:id="medsurg">
+                                        <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+                                </taxonomy>
+                        </classDecl>
+                </encodingDesc>
+                <profileDesc>
+                        <textClass>
+                                <keywords scheme="#medsurg">
+                                        <term>on certain local diseases</term>
+                                        <term>idiopathic peritonitis</term>
+                                        <term>internal abdominal ring with hernial sac</term>
+                                        <term>admitted with inguinal hernia</term>
+                                        <term>ileum distended with air</term>
+                                        <term>loop of ileum with adherent sides and darkened surface</term>
+                                        <term>lobar pneumonia</term>
+                                        <term>abdominal viscera interadherent by yellow lymph</term>
+                                        <term>internal abdominal ring open, hernial sac empty</term>
+                                </keywords>
+                        </textClass>
+                </profileDesc>
+                <revisionDesc>
+                        <change who="#mb" when="2011-07-15">additional proofing of transcription and encoding</change>
+                        <change who="#el" when="2011-05-11">case text extracted and transformed from larger file</change>
+                        <change who="#sb" when="2011-02-23">Encoding and Proofing</change>
+                        <change who="#et" when="2009-12-01">Initial Checking OCR Text to PDF file,</change>
+                </revisionDesc>
+        </teiHeader>
+        <text>
+                <body>                        
+                        <p> <hi rend="initialcap">C</hi>ASE 6.&#8212;<name type="person">Private William H. Simons</name>, <name type="organization">Co. H, 88th Pa.</name>;
+                                age 17; was admitted <date type="admit" when="1864-07-20">July 20, 1864</date>, with an inguinal hernia
+                                        on the right side. He was on duty as a nurse until <date type="injury" when="1865-01-14">Jan, 14,
+                                                1865</date>, when he had a slight chill with pain in the head and
+                                        loins, lassitude, anorexia, a moist, yellow, furred tongue,
+                                        dry and hot skin and slightly quickened pulse; his bowels
+                                        were regular and there was no abdominal tenderness.  On the
+                                        19th nausea and restlessness were developed, and the abdomen
+                                        became tympanitic and tender on the right side. Vomiting
+                                        followed next day, and delirium and death on <date type="death" when="1865-01-22">the 22d</date>.   <hi rend="italic">Post-mortem</hi> examination: The right ventricle of the heart
+                                        was dilated, the left contracted. There was some stasis of
+                                        blood in the upper lobes of the lungs, lobular pneumonia in
+                                        the lower lobes and recent adhesions on the right side. The
+                                        abdominal viscera were interadherent by yellow lymph. The
+                                        liver was yellow and granular; the spleen soft; the ileum
+                                        distended with air, injected of a rosy hue and presenting,
+                                        at about eight inches from the ileoc&#230;cal valve, a loop with
+                                        adherent sides and slightly darkened surface. The internal
+                                        abdominal ring was open and the hernial sac empty and
+                                        uninflamed.&#8212;<hi rend="italic"><name type="hospital" key="176">Lincoln Hospital</name>, Washington, D. C.</hi> </p>                        
+                </body>
+        </text>
+</TEI>

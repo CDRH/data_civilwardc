@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d2e12501">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Glassie, J.</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+    <idno>med.d2e12501</idno>
+    <authority>Civil War Washington</authority>
+    <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor><name>Center for Digital Research in the
+     Humanities</name><address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address></distributor>
+    <date>2011</date>
+    <availability>
+     <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+      republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+      law, requires express written consent from the editors and advance notification of the
+      publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+ <persName xml:id="kmp">Kenneth M. Price</persName> 
+     <persName xml:id="mb">Matthew Bosley</persName>
+     <persName xml:id="el">Elizabeth Lorang</persName>
+     <persName xml:id="sb">Stacey Berry</persName>
+     <persName xml:id="et">Elisabeth Tracey</persName>
+     <persName xml:id="ss">Sarah Synovec</persName>
+     <persName xml:id="kk">Kourtney Klein</persName>
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title level="j">The Medical and Surgical History of the War of the Rebellion.
+      (1861-65.)</title><pubPlace>Washington, DC</pubPlace><publisher>Government Printing
+      Office</publisher><biblScope type="part">Part 3</biblScope><biblScope type="volume">Volume
+      2</biblScope><date when="1883">1883</date><biblScope type="page">224, 288-289</biblScope></bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+     <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <keywords scheme="#medsurg">
+     <term>wounds and injuries of the lower extremities</term> 
+     <term>injuries of the shaft of the femur</term>
+     <term>amputations in the shaft of the femur</term> 
+     <term>intermediary amputations in the shaft of the femur for shot injury</term>
+     <term>intermediary amputations in the lower third of the thigh</term> 
+     <term>successful cases of intermediary amputations in the lower third of the thigh</term> 
+     <term>shot wound of leg, amputation at lower third</term>
+     <term>limb re-amputated above knee</term>
+     <term>sinuses leading to necrosed bone</term>     
+     <term>general anesthesia, chloroform</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+ <change who="#kmp" when="2014-05">blessed</change>
+   <change who="#kk" when="2014-01-29">added figure encoding</change>
+   <change who="#mb" when="2012-05-18">additional proofing of transcription and encoding, identified keyword terms</change>   
+   <change who="#el" when="2011-05-11">case text extracted and transformed from larger file</change>
+   <change who="#sb" when="2011-06-04">Enrich Encoding, Edit and validate</change>
+   <change who="#sb" when="2011-01-28">Validated File</change>
+   <change who="#ss" when="2008-09-22">initial checking of OCR text; encoded P5 Encoding</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>  
+  <body>
+   
+    <p><hi rend="initialcap">C</hi>ASE 467.&#8212;<name type="person" key="1090">Private J. Glassie</name>, <name type="organization" key="447">Co. B, 63d New York</name>, aged 22 years,
+     was wounded at <name type="BATTLE" key="16">Cold Harbor</name>, <date type="injury" when="1864-06-03">June 3, 1864</date>, and admitted to the field hospital of the 1st division, Second Corps. <name type="person" key="xx">Surgeon
+      W. S. Cooper</name>, <name type="organization" key="448">125th New York</name>, noted: "Shot wound of left leg; amputation at lower third by <name type="person" key="xx">Surgeon P. E. Hubon</name>, <name type="organization" key="420">28th Massachusetts</name>." <date type="transfer" when="1864-06-10">One week after the reception of the injury</date> the man was admitted to <name type="hospital" key="172">Emory
+       Hospital</name>, Washington, where <name type="person" key="884">Surgeon N. R. Moseley</name>, <name type="organization" key="132">U. S. V.</name>, recorded that the limb was re-amputated above the knee on <date type="operation" when="1864-06-20">June 20th</date>, also that abscesses formed subsequently, and that the stump of the femur became hypertrophied. On <date type="transfer" when="1865-03-10">March 10, 1865</date>, the patient was transferred to Central Park Hospital, <name type="place" key="xx">New York City</name>, whence <name type="person" key="xx">Surgeon B. A. Clements</name>, <name type="organization" key="190">U. S. A.</name>, reported the following: "When admitted, the end of the stump was red and inflamed, and there were three sinuses leading to necrosed bone. On <date type="operation" when="1865-03-19">March 19th</date>, chloroform was administered, and a sequestrum about eight inches long was removed by <name type="person" key="xx">Acting Assistant Surgeon S.
+      Teats</name>. The patient did well after the operation. By July 15th, the stump had entirely healed, and <date type="servicedischarge" when="1864-08-15">one month later</date> he was discharged from service." The man subsequently became a
+     pensioner. He died at <name type="place">Brooklyn, New York</name>, <date type="death" when="1867-11-12">November 12, 1867</date>. The removed fragment was contributed to <name type="hospital" key="431">the Museum</name> by <name type="person" key="xx">the operator</name>, and constitutes <hi rend="italic">Specimen</hi> 3100 of the Surgical Section. A representation of it appears in <hi rend="initialcap">F</hi>IG. 3 of <hi
+      rend="initialcap">P</hi>LATE <hi rend="initialcap">LXIX</hi>, opposite p. 224.</p>
+   
+   <figure>
+    <graphic url="cww.001811.001" />
+    <head>PLATE  LXIX. __ TUBULAR  SEQUESTRA  FROM  AMPUTATIONS  OF  THE  FEMUR.     3.  Spec. 3100.  Surgical Section,  Army Medical Museum.</head>
+   </figure>
+
+   
+  </body>
+ </text>
+</TEI>

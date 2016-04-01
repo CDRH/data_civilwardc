@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng" type="xml"?>
+
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="cww.01014">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>                
+                <title level="m" type="main">Petition of Ellen Harrison and William H. Y. Harrison, 13 August 1862</title>
+                <title level="m" type="main">Evidence Relating to the Petition of Ellen Harrison and William H. Y. Harrison, 13 August 1862</title>
+                <title level="m" type="sub">a machine readable transcription</title>
+                <principal>Susan C. Lawrence</principal>
+                <principal>Kenneth M. Price</principal>
+                <principal>Kenneth J. Winkle</principal>
+                <respStmt>
+                    <resp>transcription and encoding</resp>
+<name xml:id="kjw">Kenneth J. Winkle</name>
+                    <name xml:id="jc">Janel Cayer</name>
+                    <name xml:id="km">Kevin McMullen</name>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2012</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <idno>cww.01014</idno>
+                <distributor>Civil War Washington</distributor>
+                <publisher>University of Nebraska–Lincoln</publisher>
+                <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>P.O. Box 884100</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+            </address>
+                <date>2012</date>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+                        <p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License (http://creativecommons.org/licenses/by-nc-sa/3.0/). Derivatives must be credited to Civil War Washington, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl xml:id="rg21">
+                    <title>Petition of Ellen Harrison and William H. Y. Harrison, 13 August 1862</title>                    
+                    <date when="1862-08-13">August 13, 1862</date>
+                    <idno>Microcopy 433, Reel 3</idno>                
+                    <orgName>National Archives and Records Administration</orgName>
+                    <relatedItem type="original">
+                        <bibl>
+                            <title>Petition of Ellen Harrison and William H. Y. Harrison, 13 August 1862</title>                          
+                            <date when="1862-08-13">August 13, 1862</date>
+                            <idno type="rg">Record Group 21</idno>
+                            <orgName>Records of the District Courts of the United States, 1685&#8211;2004, National Archives and Records Administration</orgName>
+                            <orgName>Emancipation Records, compiled 1862&#8211;1863</orgName>
+                            <note type="project">Within the National Archives' Archival Description Catalog, see ARC Identifier 4314547 / MLR Number NC-2 33 (http://arcweb.archives.gov).</note>
+                        </bibl>
+                    </relatedItem>
+                    <note type="project">Our transcription is based on a digital image of a microfilm copy of the original.</note>
+                </bibl>
+                
+                <bibl xml:id="rg217">
+                    <title>Evidence Relating to the Petition of Ellen Harrison and William H. Y. Harrison, 13 August 1862</title>                   
+                    <date when="1862-08-13">August 13, 1862</date>
+                    <idno>Microcopy 520, Reel 6</idno>
+                    <orgName>National Archives and Records Administration</orgName>
+                    <relatedItem type="original">
+                        <bibl>
+                            <title>Evidence Relating to the Petition of Ellen Harrison and William H. Y. Harrison, 13 August 1862</title>                          
+                            <date when="1862-08-13">August 13, 1862</date>
+                            <idno type="rg">Record Group 217.6.5</idno>
+                            <orgName>Records of the Accounting Officers of the Department of the Treasury, 1775&#8211;1978, National Archives and Records Administration</orgName>
+                            <note type="project">Within the National Archives' Archival Description Catalog, see ARC Identifier 4644616 / MLR Number A1 347 (http://arcweb.archives.gov).</note>
+                        </bibl>
+                    </relatedItem>
+                    <note type="project">Our transcription is based on a digital image of a microfilm copy of the original.</note>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <particDesc>
+                <person role="owner">
+                    <persName>John Trook</persName>
+                </person>
+                <person role="petitioner-slave">
+                    <persName>Ellen Harrison</persName>
+                </person>
+                <person role="petitioner-slave">
+                    <persName>William H. Y. Harrison</persName>
+                </person>
+            </particDesc>
+        </profileDesc>
+        <revisionDesc>
+<change when="2013-03-21" who="#jc">blessed</change>
+<change when="2013-03-19" who="#kjw">blessed</change>
+            
+            <change when="2012-07-20" who="#">transcribed, encoded</change>
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            <!-- Begins with the text of the petition. -->
+            <pb xml:id="leaf001r" facs="cww.01014.001.jpg"/>
+            
+            
+            <div1 type="petition" subtype="mixed" corresp="#rg21">                
+                                
+                <div2 type="document" subtype="mixed">
+                    
+                    
+                    <opener>
+                        <salute>To <persName>John A. Smith</persName> <choice><abbr>Esq.</abbr><expan>Esquire</expan></choice>, Clerk of the Circuit Court of the <placeName>District of Columbia</placeName></salute>
+                        <salute>Sir:</salute>
+                    </opener>
+                    
+                    <p><seg type="handwritten">John N. Trook</seg> of <seg type="handwritten"><placeName>Washington D.C.</placeName></seg> having claim to the service or labor of the undersigned, and having refused or neglected to file in your office the statement in writing or schedule provided for in the 9th section of the Act of Congress, entitled "An act for the release of certain persons held to service or labor in said <placeName>District</placeName>," approved <date when="1862-04-16">April 16th, 1862</date>, you will please file the annexed schedule in lieu thereof, in pursuance of the provisions of an act supplementary to said act which said last mentioned act was approved <date when="1862-07-12">July 12th 1862</date>. This <del>petition</del> <seg type="handwritten">schedule</seg> further state<seg type="handwritten">s</seg> that the undersigned <seg type="handwritten">were residents of</seg> <del>resided in</del> said <placeName>District</placeName> <del>since the</del> <seg type="handwritten">on the</seg> <del>and ha resided therein since the</del> <seg type="handwritten"><date when="1862-04-16">16th</date></seg> day of <seg type="handwritten">April</seg> 1862, by and with the consent of <seg type="handwritten">their</seg> said <seg type="handwritten">master</seg></p>
+                    <table>
+                        <row>
+                            <cell>Name,</cell>
+                            <cell>Age,</cell>
+                            <cell>Sex,</cell>
+                            <cell>Remarks,</cell>
+                        </row>
+                        <row rend="handwritten">
+                            <cell><persName>Ellen Harrison</persName></cell>
+                            <cell>40 years</cell>
+                            <cell>female</cell>
+                            <cell>dark</cell>
+                        </row>
+                        <row rend="handwritten">
+                            <cell><persName>Wm H. Y. Harrison</persName></cell>
+                            <cell>12 "</cell>
+                            <cell>male</cell>
+                            <cell>"</cell>
+                        </row>
+                    </table>
+                    
+                    <closer>
+                        <signed><seg type="handwritten">her X mark <persName>Ellen Harrison</persName></seg></signed>
+                        <signed><seg type="handwritten">his X mark <persName><choice><abbr>Wm</abbr><expan>William</expan></choice> H. Y. Harrison</persName></seg></signed>
+                        <signed><seg type="handwritten">Witness <persName>W <unclear reason="illegible" cert="low" resp="#jc">McNaurer</unclear></persName></seg></signed>                        
+                    </closer>
+                </div2>
+                
+                
+                <pb xml:id="leaf001v" facs="cww.01014.002.jpg"/>
+                
+                <div2 type="cover" subtype="handwritten">
+                    <div3 type="section">
+                        <ab>paid</ab>
+                        <ab><persName>Ellen Harrison</persName></ab>
+                        <ab><persName>William H Harrison</persName></ab>
+                        <ab>Amended Act</ab>
+                        <ab>Recorded in Manumission Record No. 2 folios 77 &#38; 78</ab>
+                        <ab><choice><abbr>Certs</abbr><expan>Certificates</expan></choice> given to the within <choice><abbr>Idfd</abbr><expan>Identified</expan></choice> by <persName>Geo Mattingly</persName></ab>
+                        <ab>Filed <date when="1862-08-13">August 13th 1862</date></ab>
+                    </div3>
+                                        
+                    <div3 type="section">
+                        <p>The Commissioners, satisfied on the testimony of <persName>George Mattingly</persName> of the truth of the within statement, order the same to be so reported to the Clerk of the Circuit Court of the <placeName>District of Columbia</placeName></p>
+                        <closer>
+                        <dateline><date when="1862-08-13">Aug. 13, 1862</date></dateline>                        
+                            <signed><persName>Wm. R. Woodward</persName><lb/>
+                                Clerk to Commissioners</signed>
+                        </closer>
+                    </div3>
+                   
+                </div2>
+            </div1>
+            
+            <!-- Evidence pertaining to the case begins here. -->
+                        
+            <pb xml:id="leaf002r" facs="cww.01014.003.jpg"/>
+            <div1 type="evidence" corresp="#rg217" subtype="handwritten">
+                
+                <dateline><date when="1862-08-13">Aug 13</date>.</dateline>
+                <div2 type="procedural">
+                    <ab><persName>Ellen Harrison</persName><lb/>
+                        <persName>William H. Y. Harrison</persName></ab>
+                    <ab>servants <persName>John L. Trook</persName></ab>
+                </div2>
+                
+                <div2 type="testimony">                   
+                    <ab><persName>Geo Mattingly</persName> I know these servants I sold them to Mr <persName>Trook</persName>.</ab>
+                    <ab>They were in Mr <persName>Trook</persName>s house on <date when="1862-04-16">16 Apl</date> in this city and I have no doubt with Mr <persName>Trook</persName>s consent</ab>
+                </div2>
+                
+                                
+                <pb xml:id="leaf003v" facs="cww.01014.004.jpg"/>
+                <div2 type="cover">
+                    <ab><persName>Ellen Harrison</persName></ab>
+                    <ab><persName>Wm H. Y. Harrison</persName></ab>
+                    <ab><date when="1862-08-13">Aug 13</date></ab>
+                </div2>
+            </div1>            
+        </body>
+    </text>
+</TEI>
+                
+                
+                
+                
+                
+

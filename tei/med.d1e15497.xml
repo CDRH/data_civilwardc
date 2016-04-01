@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e15497">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Clark, L. E.</title>
+                <title level="m" type="sub">a machine readable transcription</title>
+                <principal>Susan C. Lawrence</principal>
+                <principal>Kenneth M. Price</principal>
+                <principal>Kenneth J. Winkle</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2011</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <idno>med.d1e15497</idno>
+                <authority>Civil War Washington</authority>
+                <publisher>University of Nebraska–Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+                </distributor>
+                <date>2011</date>
+                <availability>
+                    <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved.
+                        Redistribution or republication in any medium, except as allowed under the
+                        Fair Use provisions of U.S. copyright law, requires express written consent
+                        from the editors and advance notification of the publisher, the University
+                        of Nebraska–Lincoln.</p>
+                </availability>
+            </publicationStmt>
+            <notesStmt>
+                <note type="project">The following are responsible for particular readings or for changes to this file, as noted: 
+                    <persName xml:id="mb">Matthew Bosley</persName>
+                    <persName xml:id="el">Elizabeth Lorang</persName>
+                    <persName xml:id="sb">Stacey Berry</persName>
+                    <persName xml:id="et">Elisabeth Tracey</persName>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>The Medical and Surgical History of the War of the Rebellion. (1861&#8211;65.)</title>
+                    <editor role="compiler">Surgeon General Joseph K. Barnes, United States Army</editor>
+                    <pubPlace>Washington, D.C.</pubPlace>
+                    <publisher>Government Printing Office</publisher>
+                    <biblScope type="part">Part 1</biblScope>
+                    <biblScope type="volume">Volume 2</biblScope>
+                    <date when="1870">1870</date>
+                    <biblScope type="page">221</biblScope>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <classDecl>
+                <taxonomy xml:id="medsurg">
+                    <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme="#medsurg">
+                    <term>on special wounds and injuries of the head</term>
+                    <term>wounds and injuries of the head</term>
+                    <term>gunshot wounds</term>
+                    <term>gunshot fractures of the cranial bones</term> 
+                    <term>removal of fragments after gunshot fractures of the skull</term>
+                    <term>exfoliation and removal of necrosed or detached fragments of cranial bones after gunshot injuries</term>
+                    <term>operations for the removal of detached fragments of bone after depressed gunshot fractures of the skull</term>
+                    <term>conoidal ball fractured right temporal bone above ear and lodged</term>
+                    <term>left arm and leg paralyzed</term>                    
+                    <term>vision remained impaired</term>
+                    <term>left leg recovered, partial use of the arm</term>
+                    <term>loss of intellect</term>
+                    <term>recurring spasms, caused by compression of brain</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change who="#mb" when="2013-07-23">additional proofing of transcription and encoding, edited and added keyword terms</change>
+            <change who="#mb" when="2011-07-26">additional proofing of transcription and encoding</change>
+            <change who="#el" when="2011-11-05">case text extracted and transformed from larger file</change>
+            <change who="#sb" when="2011-02-09">enriched encoding</change>
+            <change who="#sb" when="2011-01-28">validated file</change>
+            <change who="#et" when="2009-08-01">encoded</change>
+            <change who="#sb" when="2008-09-22">initial checking of OCR text against PDF; encoded</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body xml:id="ch1.sc3.296">            
+                <p><hi rend="initialcap">C</hi>ASE.&#8212;<name type="person" key="1637">Sergeant L. E. Clark</name>, <name type="organization" key="210">Co. E,
+                    26th Michigan Volunteers</name>, aged 21 years, was wounded near <name type="BATTLE" key="7">Petersburg, Virginia</name>, <date type="admit" when="1864-06-17"><date type="injury" when="1864-06-17">June 17th, 1864</date></date>, by a
+                    conoidal ball, which fractured the right temporal bone, two inches above the
+                    ear, and lodged.  He was conveyed to the hospital of the 1st division, Second
+                        Corps, and remained insensible until <date type="operation" when="1864-06-18">the next day</date>, when the ball was extracted
+                    and several fragments of bone were removed. The operation gave great relief; but
+                    the left arm and leg remained paralyzed until <date type="injury" when="1864-07">the middle of July</date>, when the
+                    patient recovered the use of the leg, and partial use of the arm. For two or
+                    three days after the removal of the ball, he was almost totally blind; but, <date type="injury" when="1864-12">in
+                        December</date>, his vision was only slightly impaired.  He was, on <date
+                        type="transfer" when="1864-12-09">December 9th</date>, sent to <name
+                            type="hospital" key="218">Augur Hospital</name>, <name type="place" key="#Alexandria">Alexandria</name>; on <date
+                        type="transfer" when="1864-12-16">December 16th</date>, to <name
+                        type="hospital" key="171">Armory Square</name>, Washington, and on <date
+                        type="transfer" when="1865-02-20">February 20th, 1865</date>, to <name
+                        type="hospital" key="94">Cliffburne Barracks</name>, whence he was
+                    transferred to the <name type="organization" key="109">Veteran Reserve
+                        Corps</name> on <date type="duty" when="1865-03-25">March 25th,
+                        1865</date>.  He was discharged the service <date type="servicedischarge"
+                            when="1865-06-28">June 28th, 1865</date>, and pensioned.  In <date type="pension" when="1866-06">June, 1866</date>,
+                        <name type="person" key="1638">Pension Examiner R. C. Hutton</name> reported
+                    that the man needs constant watching on account of loss of intellect, and of
+                    frequently recurring spasms, caused by compression of the brain.</p>            
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d2e30315">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Leiblein, W.</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+    <idno>med.d2e30315</idno>
+    <authority>Civil War Washington</authority>
+    <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor>
+     <name>Center for Digital Research in the Humanities</name>
+     <address><addrLine>319 Love Library</addrLine>
+       <addrLine>University of Nebraska–Lincoln</addrLine>
+       <addrLine>Lincoln, NE 68588-4100</addrLine>
+       <addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+    </distributor>
+    <date>2011</date>
+    <availability>
+     <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+      republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+      law, requires express written consent from the editors and advance notification of the
+      publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+ <persName xml:id="kmp">Kenneth M. Price</persName> 
+     <persName xml:id="ajh">AJ Howell</persName>
+     <persName xml:id="mb">Matthew Bosley</persName>
+     <persName xml:id="no">Nathan Olson</persName>
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl>
+     <title level="j">The Medical and Surgical History of the War of the Rebellion.
+      (1861-65.)</title>
+     <pubPlace>Washington, DC</pubPlace>
+     <publisher>Government Printing Office</publisher>
+     <biblScope type="part">Part 2</biblScope>
+     <biblScope type="volume">Volume 2</biblScope>
+     <date when="1876">1876</date>
+     <biblScope type="page">783</biblScope>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+     <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <keywords scheme="#medsurg">
+     <term>wounds and injuries of the upper extremities</term>
+     <term>injuries of the shaft of the humerus</term>
+     <term>amputations of the arm for shot injury</term>
+     <term>amputations in the shaft of the humerus</term>
+     <term>secondary amputations in the arm</term>
+     <term>secondary amputations in the continuity</term>
+     <term>secondary amputation at the middle third of the arm</term>
+     <term>successful cases</term>
+     <term>fracture of arm, resection of upper third of ulna and radius</term>
+     <term>bones of elbow excised, olecranon and lower humerus</term>
+     <term>subsequent amputation of middle third of arm</term>
+     <term>irregular deposit of callus of humerus</term>
+     <term>furnished with artificial arm</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+ <change who="#kmp" when="2014-05">blessed</change>
+   <change who="#ajh" when="2013-08-23">added figure encoding</change>
+   <change who="#mb" when="2012-06-28">additional proofing of transcription and encoding, identified
+    keyword terms</change>
+   <change who="#no" when="2011-02-23">checked OCR; added minimal mark-up for personal names, place
+    names, and dates</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p><hi rend="initialcap">C</hi>ASE 1398.&#8212;<name type="person" key="xxx">Private W.
+     Leiblein</name>, <name type="organization" key="xxx">Co. C, 20th Massachusetts</name>, aged 32
+    years, was wounded at <name type="BATTLE" key="4">Fredericksburg</name>, <date type="injury"
+     when="1862-12-11">December 11, 1862</date>. He was admitted to the field hospital of the 2d
+    division, Second Corps, where <name type="person" key="xxx">Surgeon G. S. Palmer</name>, <name
+     type="organization" key="132">U. S. V.</name>, recorded: &#34;Fracture of arm; resection of
+    upper third of ulna and radius.&#34; On <date type="transfer" when="1862-12-25">December
+     25th</date>, the wounded man reached <name type="place" key="#Washington">Washington</name>,
+    where he was admitted to <name type="hospital" key="171">Armory Square Hospital</name>. In <date
+     type="transfer" when="1863-04">the following April</date> he was transferred to McDougall
+    Hospital, <name type="place">New York</name>, where the arm was amputated. <name type="person"
+     key="xxx">Assistant Surgeon R. Bartholow</name>, <name type="organization" key="190">U. S.
+     A.</name>, in charge of the latter hospital, forwarded the specimen (<hi rend="initialcap"
+     >F</hi>IG. 554) consisting of the bones of the right elbow, from which the olecranon and the
+    lowest two inches of the humerus have been excised; subsequently amputated in the middle third
+    of the arm. The bones of the forearm are anchylosed, and the extremity of the humerus presents
+    an irregular deposit of callus. <name type="person" key="xxx">Acting Assistant Surgeon W. F.
+     Cornick</name> reported the patient's admission to Lovell Hospital, <name type="place"
+     >Portsmouth Grove, R. I.</name>, on <date type="transfer" when="1863-11-04">November
+    4th</date>, by reason of &#34;amputation of right arm, performed before admission, <date
+     type="operation" when="1863-05-16">May 16, 1863</date>;&#34; also that &#34;<name type="person"
+     key="xxx">Surgeon N. Hayward</name>, <name type="organization" key="xxx">20th
+     Massachusetts</name>, performed the operation of excision.&#34; The patient was finally
+    discharged from Central Park Hospital, <name type="place">New York City</name>, on <date
+     type="servicedischarge" when="1864-08-01">August 1, 1864</date>, and pensioned. In the previous
+    month he was furnished with an artificial arm by <name type="person" key="xxx">Mr.
+     Lincoln</name>, of <name type="place">Boston</name>, who, in his statement, reported that the
+    amputation was performed by flap method. In the man's application for pension it is mentioned
+    that &#34;<name type="person" key="xxx">Assistant Surgeon R. Bartholow</name>, <name
+     type="organization" key="190">U. S. A.</name>, performed the amputation.&#34; This pensioner
+    died on <date type="death" when="1872-05-23">May 23, 1872</date>.</p>
+   <figure>
+    <graphic url="cww.001683.001"/>
+    <head><hi rend="initialcap">F</hi>IG. 554.&#8212;Bones of right elbow, amputated after excision
+     for shot injury. <hi rend="italic">Spec</hi>. 1664.</head>
+   </figure>
+
+  </body>
+ </text>
+</TEI>

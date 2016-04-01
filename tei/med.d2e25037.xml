@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d2e25037">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Ferguson, James</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+    <idno>med.d2e25037</idno>
+    <authority>Civil War Washington</authority>
+    <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor>
+     <name>Center for Digital Research in the Humanities</name>
+     <address><addrLine>319 Love Library</addrLine>
+       <addrLine>University of Nebraska–Lincoln</addrLine>
+       <addrLine>Lincoln, NE 68588-4100</addrLine>
+       <addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+    </distributor>
+    <date>2011</date>
+    <availability>
+     <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+      republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+      law, requires express written consent from the editors and advance notification of the
+      publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+ <persName xml:id="kmp">Kenneth M. Price</persName> <persName xml:id="ajh">AJ Howell</persName>
+     <persName xml:id="mb">Matthew Bosley</persName>
+     <persName xml:id="el">Elizabeth Lorang</persName>
+     <persName xml:id="sb">Stacey Berry</persName>
+     <persName xml:id="et">Elisabeth Tracey</persName>
+     <persName xml:id="ss">Sarah Synovec</persName>
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl>
+     <title level="j">The Medical and Surgical History of the War of the Rebellion.
+      (1861-65.)</title>
+     <pubPlace>Washington, DC</pubPlace><publisher>Government Printing Office</publisher>
+     <biblScope type="part">Part 3</biblScope>
+     <biblScope type="volume">Volume 2</biblScope>
+     <date when="1883">1883</date>
+     <biblScope type="page">718</biblScope>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+     <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <keywords scheme="#medsurg">
+     <term>wounds and complications</term>
+     <term>shot wounds</term>
+     <term>effect of missiles and projectiles on bony structure</term>
+     <term>contusions of bone</term>
+     <term>shot wound of forearm</term>
+     <term>ball entered below inner condyle of humerus, traversed forearm obliquely downward and
+      outward</term>
+     <term>ball split on radius, a portion emerged on either side</term>
+     <term>confluent small pox</term>
+     <term>no disposition to heal, strong gangrenous tendency</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+ <change who="#kmp" when="2014-05">blessed</change>
+   <change who="#ajh" when="2013-08-23">added figure encoding</change>
+   <change who="#mb" when="2013-02-08">additional proofing of transcription and encoding, edited and
+    added keyword terms, added figures</change>
+   <change who="#el" when="2011-05-11">case text extracted and transformed from larger file</change>
+   <change who="#sb" when="2011-06-04">Enrich Encoding, Edit and validate</change>
+   <change who="#sb" when="2011-01-28">Validated File</change>
+   <change who="#ss" when="2008-09-22">Sarah Synovec initial checking of OCR text; encoded P5
+    Encoding</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p><hi rend="initialcap">C</hi>ASE 1062.&#8212;<name type="person" key="1465">Captain James
+     Ferguson</name>, <name type="organization" key="128">Co. I, 4th Ohio</name>, was admitted into
+     <name type="hospital" key="156">Seminary Hospital</name>, Georgetown, <date type="admit"
+     when="1862-12-20">December 20, 1862</date>, with a shot wound of the left forearm, received at
+     <name type="BATTLE" key="251">Fredericksburg</name>. <name type="person" key="288">Surgeon J.
+     H. Brinton</name>, <name type="organization" key="132">U. S. V.</name>, who examined this
+    officer's injury, reported: "A conical ball entered below the inner condyle of the humerus,
+    traversed the forearm obliquely downward and outward and split on the radius, one portion
+    emerging on either side." Four and one-half inches of the left ulna were removed by <name
+     type="person" key="1366">A. A. Surgeon H. W. Ducachet</name>. <name type="person" key="1465"
+     >Captain Ferguson</name> was attacked with confluent small pox and removed to <name
+     type="hospital" key="179">Kalorama Hospital</name>, Washington, <date type="transfer"
+     when="1863-02-08">February 8, 1863</date>. <name type="person" key="1464">Acting Assistant
+     Surgeon R. J. Thomas</name>, <name type="organization" key="190">U. S. A.</name> reported: "The
+    condition of the arm when admitted was bad; no disposition to heal, with strong gangrenous
+    tendency. He died <date type="death" when="1863-02-15">February 15, 1863</date>." <name
+     type="person" key="288">Surgeon Brinton</name> furnished a drawing of the divided missile,
+    which is copied in the wood-cut (<hi rend="initialcap">F</hi>IG. 388).</p>
+   <figure>
+    <graphic url="cww.001663.001"/>
+    <head><hi rend="initialcap">F</hi>IG. 388&#8212;Conical ball broken upon the radius. [After <hi
+      rend="initialcap">B</hi>RINTON.]</head>
+   </figure>
+  </body>
+ </text>
+</TEI>

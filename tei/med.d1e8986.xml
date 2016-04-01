@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e8986">
+        <teiHeader>
+                <fileDesc>
+                        <titleStmt>
+                                <title level="m" type="main">Weir, Lewis</title>
+                                <title level="m" type="sub">a machine readable transcription</title>
+                                <principal>Susan C. Lawrence</principal>
+                                <principal>Kenneth M. Price</principal>
+                                <principal>Kenneth J. Winkle</principal>
+                        </titleStmt>
+                        <editionStmt>
+                                <edition>
+                                        <date>2011</date>
+                                </edition>
+                        </editionStmt>
+                        <publicationStmt>
+                                <idno>med.d1e8986</idno>
+                                <authority>Civil War Washington</authority>
+                                <publisher>University of Nebraska–Lincoln</publisher>
+                                <distributor>
+                                        <name>Center for Digital Research in the Humanities</name>
+                                        <address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+                                </distributor>
+                                <date>2011</date>
+                                <availability>
+                                        <p>Copyright © 2011 by University of Nebraska–Lincoln, all
+                                                rights reserved. Redistribution or republication in
+                                                any medium, except as allowed under the Fair Use
+                                                provisions of U.S. copyright law, requires express
+                                                written consent from the editors and advance
+                                                notification of the publisher, the University of
+                                                Nebraska–Lincoln.</p>
+                                </availability>
+                        </publicationStmt>
+                        <notesStmt>
+                                <note type="project">The following are responsible for particular
+                                        readings or for changes to this file, as noted: 
+                                        <persName xml:id="mb">Matthew Bosley</persName>
+                                        <persName xml:id="el">Elizabeth Lorang</persName>
+                                        <persName xml:id="sb">Stacey Berry</persName>
+                                        <persName xml:id="et">Elisabeth Tracey</persName>
+                                </note>
+                        </notesStmt>
+                        <sourceDesc>
+                                <bibl>
+                                        <title level="j">The Medical and Surgical History of the War of the Rebellion</title>
+                                        <pubPlace>Washington, DC</pubPlace>
+                                        <publisher>Government Printing Office</publisher>
+                                        <biblScope type="part">Part 3</biblScope>
+                                        <biblScope type="volume">Volume 1</biblScope>
+                                        <date when="1888">1888</date>
+                                        <biblScope type="page">383</biblScope>
+                                </bibl>
+                        </sourceDesc>
+                </fileDesc>
+                <encodingDesc>
+                        <classDecl>
+                                <taxonomy xml:id="medsurg">
+                                        <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+                                </taxonomy>
+                        </classDecl>
+                </encodingDesc>
+                <profileDesc>
+                        <textClass>
+                                <keywords scheme="#medsurg">
+                                        <term>the continued fevers</term>
+                                        <term>post-mortem records of continued fevers</term>                                       
+                                        <term>cases reported as typhoid fever, the clinical history insufficient or absent</term>
+                                        <term>Peyer's patches ulcerated and the large intestine also implicated</term> 
+                                        <term>typhoid fever</term>
+                                        <term>part of lung engorged, portions upper and middle lobes hepatized</term>
+                                        <term>Peyer's patches ulcerated in lower ileum</term>
+                                        <term>solitary follicles ulcerated in c&#230;cum and first part of colon</term>
+                                        <term>mesenteric glands adjacent to ulcerated intestinal glands enlarged and dark-colored</term>
+                                        <term>spleen enlarged</term>
+                                </keywords>
+                        </textClass>
+                </profileDesc>
+                <revisionDesc>
+                        <change who="#mb" when="2013-04-03">additional proofing of transcription and encoding, edited and added keyword terms</change>
+                        <change who="#mb" when="2011-10-04">additional proofing of transcription and encoding</change>
+                        <change who="#mb" when="2011-06-22">additional proofing of transcription and encoding</change>
+                        <change who="#el" when="2011-05-11">case text extracted and transformed from larger file</change>
+                        <change who="#sb" when="2011-02-23">Encoding and Proofing</change>
+                        <change who="#et" when="2009-12-01">Initial Checking OCR Text to PDF file,</change>
+                </revisionDesc>
+        </teiHeader>
+        <text>
+                <body xml:id="ch4.sc4.1.00168">                        
+                                <p><hi rend="initialcap">C</hi>ASE 168.&#8212;<name
+                                                type="person" key="703">Private Lewis Weir</name>,
+                                                <name type="organization" key="695">Co. A, 202d
+                                                Pa.</name>; age 18; admitted <date type="admit"
+                                                when="1864-11-02">Nov. 2, 1864</date>.  Typhoid
+                                        fever.  Died on <date type="death" when="1864-11-07">the 7th</date>.  <hi rend="italic">Post-mortem</hi>
+                                        examination <date type="autopsy" when="1864-11-08">forty hours after death</date>: Rigor mortis well
+                                        marked; suggillation posteriorly; no emaciation. On the
+                                        upper surface of the cerebral hemispheres, anteriorly along
+                                        the course of the large blood vessels, there was in several
+                                        places a gelatinous subarachnoid deposit; the subarachnoid
+                                        space contained one ounce and a half of serum. The right
+                                        pleural cavity contained two ounces and the left four ounces
+                                        of dark bloody serum; the posterior part of the right lung
+                                        was engorged and small portions of its upper and middle
+                                        lobes were hepatized; the left lung was congested
+                                        posteriorly. The intestines were distended with air; Peyer's
+                                        patches in the lower part of the ileum were ulcerated in
+                                        several places; the solitary follicles of the c&#230;cum
+                                        and of the first six inches of the colon were ulcerated; the
+                                        remainder of the large intestine was normal; the mesenteric
+                                        glands adjacent to the ulcerated intestinal glands were
+                                        enlarged and dark-colored. The spleen was enlarged and
+                                                softened.&#8212;<hi rend="italic"><name
+                                                  type="person" key="655">Act. Ass't Surg. Thomas
+                                                  Bowen</name>, <name type="hospital" key="187">Second Division Hospital</name>, Alexandria,
+                                                Va.</hi></p>                        
+                </body>
+        </text>
+</TEI>

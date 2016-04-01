@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e13638">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Tremain, Charles E.</title>
+                <title level="m" type="sub">a machine readable transcription</title>
+                <principal>Susan C. Lawrence</principal>
+                <principal>Kenneth M. Price</principal>
+                <principal>Kenneth J. Winkle</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2011</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <idno>med.d1e13638</idno>
+                <authority>Civil War Washington</authority>
+                <publisher>University of Nebraska–Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+                </distributor>
+                <date>2011</date>
+                <availability>
+                    <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved.
+                        Redistribution or republication in any medium, except as allowed under the
+                        Fair Use provisions of U.S. copyright law, requires express written consent
+                        from the editors and advance notification of the publisher, the University
+                        of Nebraska–Lincoln.</p>
+                </availability>
+            </publicationStmt>
+            <notesStmt>
+                <note type="project">The following are responsible for particular readings or for changes to this file, as noted: 
+                    <persName xml:id="mb">Matthew Bosley</persName>
+                    <persName xml:id="el">Elizabeth Lorang</persName>
+                    <persName xml:id="sb">Stacey Berry</persName>
+                    <persName xml:id="et">Elisabeth Tracey</persName>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>The Medical and Surgical History of the War of the Rebellion. (1861&#8211;65.)</title>
+                    <editor role="compiler">Surgeon General Joseph K. Barnes, United States Army</editor>
+                    <pubPlace>Washington, D.C.</pubPlace>
+                    <publisher>Government Printing Office</publisher>
+                    <biblScope type="part">Part 1</biblScope>
+                    <biblScope type="volume">Volume 2</biblScope>
+                    <date when="1870">1870</date>
+                    <biblScope type="page">189</biblScope>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <classDecl>
+                <taxonomy xml:id="medsurg">
+                    <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme="#medsurg">
+                    <term>on special wounds and injuries of the head</term>
+                    <term>wounds and injuries of the head</term>
+                    <term>gunshot wounds</term>
+                    <term>gunshot fractures of the cranial bones</term> 
+                    <term>depressed gunshot fracture of cranial bones</term>
+                    <term>exfoliations after depressed gunshot fractures of the skull</term>
+                    <term>necrosis of portions of outer table or of both tables of cranium, frequent results of gunshot fracture</term>
+                    <term>conoidal musket ball struck behind right ear, fractured occipital bone, afterward extracted from neck</term>
+                    <term>gunshot fractures of the bones of the foot</term>
+                    <term>ball struck right foot on outer edge near middle, passed inward and upward, emerged at instep</term>
+                    <term>previously, second toe of right foot carried away by rifle ball</term>
+                    <term>metatarsal bones necrosed</term>
+                    <term>head wound inflames and suppurated, dead pieces of bone exfoliate</term>
+                    <term>foot was anchylosed and cold</term>
+                    <term>memory greatly impaired</term>                    
+                    <term>disability total and permanent</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change who="#mb" when="2013-07-11">additional proofing of transcription and encoding, edited and added keyword terms</change>
+            <change who="#mb" when="2011-07-22">additional proofing of transcription and encoding</change>
+            <change who="#el" when="2011-11-05">case text extracted and transformed from larger file</change>
+            <change who="#sb" when="2011-02-09">enriched encoding</change>
+            <change who="#sb" when="2011-01-28">validated file</change>
+            <change who="#et" when="2009-08-01">encoded</change>
+            <change who="#sb" when="2008-09-22">initial checking of OCR text against PDF; encoded</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body xml:id="ch1.sc3.0249">            
+                <p><hi rend="initialcap">C</hi>ASE.&#8212;<name type="person" key="1574">Private
+                        Charles E. Tremain</name>, <name type="organization" key="353">Co. H, 45th
+                        Pennsylvania Volunteers</name>, aged 29 years, was wounded <name type="BATTLE" key="58">before Petersburg</name>, <date type="injury" when="1865-04-02">April 2d, 1865</date>, by a
+                    conoidal musket ball, which struck behind the right ear, fractured the occipital
+                    bone and was, afterward, extracted from the neck. In the same engagement, and
+                    while in a state of unconsciousness, a ball struck the right foot on its outer
+                    edge, near the middle, and, passing inward and upward, emerged at the instep;
+                    the second toe of the same foot had been carried away by a rifle ball at <name type="BATTLE" key="259">the Wilderness</name>, <date type="injury" when="1864-05-06">May 6th, 1864</date>.  He was treated at the depot field hospital of the Ninth Corps until <date type="transfer" when="1865-04-07">April 7th</date>, when he was sent to the <name type="hospital" key="207">Slough Hospital</name> at
+                    <name type="place">Alexandria</name>.  The metatarsal bones became necrosed.  He was mustered out <date
+                        type="servicedischarge" when="1865-07-17">July 17th, 1865</date>, and
+                    pensioned from that date.  On <date type="pension" when="1870-01-17">January 17th, 1870</date>, <name type="person" key="1573">Pension Examiner F. B. Wagner</name> reports that the wound in the head
+                    often inflames and suppurates, and that dead pieces of bone exfoliate. The
+                    patient was subject to pain in the head, and his memory was greatly impaired.
+                    The foot was anchylosed and cold. His disability is rated total and
+                    permanent.</p>            
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e10675">
+        <teiHeader>
+                <fileDesc>
+                        <titleStmt>
+                                <title level="m" type="main">Schlosser, William H.</title>
+                                <title level="m" type="sub">a machine readable transcription</title>
+                                <principal>Susan C. Lawrence</principal>
+                                <principal>Kenneth M. Price</principal>
+                                <principal>Kenneth J. Winkle</principal>
+                        </titleStmt>
+                        <editionStmt>
+                                <edition>
+                                        <date>2011</date>
+                                </edition>
+                        </editionStmt>
+                        <publicationStmt>
+                                <idno>med.d1e10675</idno>
+                                <authority>Civil War Washington</authority>
+                                <publisher>University of Nebraska–Lincoln</publisher>
+                                <distributor>
+                                        <name>Center for Digital Research in the Humanities</name>
+                                        <address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+                                </distributor>
+                                <date>2011</date>
+                                <availability>
+                                        <p>Copyright © 2011 by University of Nebraska–Lincoln, all
+                                                rights reserved. Redistribution or republication in
+                                                any medium, except as allowed under the Fair Use
+                                                provisions of U.S. copyright law, requires express
+                                                written consent from the editors and advance
+                                                notification of the publisher, the University of
+                                                Nebraska–Lincoln.</p>
+                                </availability>
+                        </publicationStmt>
+                        <notesStmt>
+                                <note type="project">The following are responsible for particular
+                                        readings or for changes to this file, as noted: 
+                                        <persName xml:id="mb">Matthew Bosley</persName>
+                                        <persName xml:id="el">Elizabeth Lorang</persName>
+                                        <persName xml:id="sb">Stacey Berry</persName>
+                                        <persName xml:id="et">Elisabeth Tracey</persName>
+                                </note>
+                        </notesStmt>
+                        <sourceDesc>
+                                <bibl>
+                                        <title level="j">The Medical and Surgical History of the War of the Rebellion</title>
+                                        <pubPlace>Washington, DC</pubPlace>
+                                        <publisher>Government Printing Office</publisher>
+                                        <biblScope type="part">Part 3</biblScope>
+                                        <biblScope type="volume">Volume 1</biblScope>
+                                        <date when="1888">1888</date>
+                                        <biblScope type="page">732</biblScope>
+                                </bibl>
+                        </sourceDesc>
+                </fileDesc>
+                <encodingDesc>
+                        <classDecl>
+                                <taxonomy xml:id="medsurg">
+                                        <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+                                </taxonomy>
+                        </classDecl>
+                </encodingDesc>
+                <profileDesc>
+                        <textClass>
+                                <keywords scheme="#medsurg">
+                                        <term>diseases attributed to non-miasmatic exposures</term>
+                                        <term>disease of the respiratory organs</term>
+                                        <term>inflammation of the larynx</term>
+                                        <term>glottis completely closed by &#339;dema of surrounding tissue</term>
+                                        <term>epiglottis &#339;dematous and thickened</term>
+                                        <term>laryngotomy through the crico-thyroid membrane and cricoid cartilage</term>  
+                                        <term>operation unsuccessful, delayed until nervous centres affected by depraved quality of blood</term>
+                                        <term>dyspn&#339;a, lips blue</term>
+                                        <term>uvula, epiglottis and glottis &#339;dematous</term>
+                                        <term>cervical glands swollen</term>
+                                        <term>chink of glottis completely closed by &#339;dema of surrounding tissue</term>
+                                        <term>small patch of pneumonia</term>
+                                        <term>trachea and bronchial tubes inflamed, mucous membrane thickened and reddened to minute subdivisions</term>
+                                </keywords>
+                        </textClass>
+                </profileDesc>
+                <revisionDesc>
+                        <change who="#mb" when="2013-03-01">additional proofing of transcription and encoding, edited and added keyword terms</change>
+                        <change who="#mb" when="2011-10-03">additional proofing of transcription and encoding</change>
+                        <change who="#mb" when="2011-06-28">additional proofing of transcription and encoding</change>
+                        <change who="#el" when="2011-05-11">case text extracted and transformed from larger file</change>
+                        <change who="#sb" when="2011-02-23">Encoding and Proofing</change>
+                        <change who="#et" when="2009-12-01">Initial Checking OCR Text to PDF file,</change>
+                </revisionDesc>
+        </teiHeader>
+        <text>
+                <body>                        
+                        <p> <hi rend="initialcap">C</hi>ASE 9.&#8212;<name type="person">Private William H. Schlosser</name>, <name type="organization">Co. F, 140th
+                                Ind.</name>; age 43; was admitted <date type="admit" when="1865-02-03">Feb. 3, 1865</date>, having been
+                                        affected for a week or two with cough. He had an abundant
+                                        expectoration and well-marked symptoms of bronchitis.  On the
+                                        12th his throat became slightly sore, the fauces somewhat
+                                        reddened, tonsils enlarged and cervical glands swollen. A
+                                        gargle was prescribed.  Two days later he had a little
+                                        diarrh&#339;a but the throat was better.  About noon of <date type="death" when="1865-02-17">the 17th</date>
+                                        he was suddenly seized with great dyspn&#339;a, his lips
+                                        becoming quite blue, when, on examination, the uvula,
+                                        epiglottis and glottis were found to be &#339;dematous.
+                                        Scarification gave some relief, but an emetic, which was
+                                        administered, was without effect. At 5 P. M. the patient
+                                        again became threatened with suffocation, which scarification and inhalation of hot vapor and of acetic acid and
+                                        ether failed to relieve.  Laryngotomy was performed <date type="operation" when="1865-02-17">at 7 P. M.</date> by <name type="person">Ass't Surgeon <hi rend="initialcap">W</hi>ILLIAM <hi rend="initialcap">N</hi>ORRIS</name>, <name type="organization" key="190">U. S. A.</name>, the incision passing in the mesial line through the crico-thyroid
+                                        membrane and cricoid cartilage. After the operation the
+                                        patient took two or three inspirations, coughed up a few
+                                        drops of blood, and died.  <hi rend="italic">Post-mortem</hi> examination: The
+                                        chink of the glottis was completely closed by &#339;dema of the
+                                        surrounding tissue.  [<hi rend="italic">Specimen</hi> 519, Med. Sec., <name type="hospital" key="431">Army Medical Museum</name>.]  The epiglottis was &#339;dematous and much thickened.
+                                        The trachea and bronchial tubes were inflamed, their mucous
+                                        membrane thickened and reddened to their minute subdivisions; no false membrane was found in any part of the
+                                        air-passages. A small patch of pneumonia was discovered in the lower part of the left lung. The other organs were
+                                        healthy.&#8212;<hi rend="italic"><name type="person">Act. Ass't Surgion David L. Haight</name>,
+                                                <name type="hospital" key="162">Douglas Hospital</name>, Washington, D. C.</hi>  </p>                        
+                </body>
+        </text>
+</TEI>

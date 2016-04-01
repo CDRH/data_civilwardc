@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e10796">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">L&#8212;&#8212;, Abram</title>
+                <title level="m" type="sub">a machine readable transcription</title>
+                <principal>Susan C. Lawrence</principal>
+                <principal>Kenneth M. Price</principal>
+                <principal>Kenneth J. Winkle</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2011</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <idno>med.d1e10796</idno>
+                <authority>Civil War Washington</authority>
+                <publisher>University of Nebraska–Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+                </distributor>
+                <date>2011</date>
+                <availability>
+                    <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved.
+                        Redistribution or republication in any medium, except as allowed under the
+                        Fair Use provisions of U.S. copyright law, requires express written consent
+                        from the editors and advance notification of the publisher, the University
+                        of Nebraska–Lincoln.</p>
+                </availability>
+            </publicationStmt>
+            <notesStmt>
+                <note type="project">The following are responsible for particular readings or for
+                    changes to this file, as noted: 
+ <persName xml:id="kmp">Kenneth M. Price</persName> 
+                    <persName xml:id="ajh">AJ Howell</persName>
+                    <persName xml:id="mb">Matthew Bosley</persName>
+                    <persName xml:id="el">Elizabeth Lorang</persName>
+                    <persName xml:id="sb">Stacey Berry</persName>
+                    <persName xml:id="et">Elisabeth Tracey</persName>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>The Medical and Surgical History of the War of the Rebellion.
+                        (1861&#8211;65.)</title>
+                    <editor role="compiler">Surgeon General Joseph K. Barnes, United States
+                        Army</editor>
+                    <pubPlace>Washington, D.C.</pubPlace>
+                    <publisher>Government Printing Office</publisher>
+                    <biblScope type="part">Part 1</biblScope>
+                    <biblScope type="volume">Volume 2</biblScope>
+                    <date when="1870">1870</date>
+                    <biblScope type="page">143</biblScope>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <classDecl>
+                <taxonomy xml:id="medsurg">
+                    <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme="#medsurg">
+                    <term>on special wounds and injuries of the head</term>
+                    <term>wounds and injuries of the head</term>
+                    <term>gunshot wounds</term>
+                    <term>gunshot contusions of the cranial bones</term>
+                    <term>gunshot fractures of the inner table of the skull</term>
+                    <term>fractures of the vitreous table of the skull without fracture or
+                        depression of the outer table</term>
+                    <term>fragment of vitreous plate of frontal bone completely detached and
+                        depressed upon dura mater, without apparent lesion of external table</term>
+                    <term>fragment of shell removed scalp below coronal suture, grazed bone to left
+                        of median line</term>
+                    <term>fragment of inner table completely detached</term>
+                    <term>meddlesome dissector chipped off bit of external table and
+                        dipl&#246;e</term>
+                    <term>erysipelas, wound in erysipelatous condition</term>
+                    <term>post-mortem examination performed</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+ <change who="#kmp" when="2014-05">blessed</change>
+            <change who="#ajh" when="2013-08-19">added figure encoding</change>
+            <change who="#mb" when="2013-07-01">additional proofing of transcription and encoding,
+                edited and added keyword terms</change>
+            <change who="#mb" when="2011-06-29">additional proofing of transcription and
+                encoding</change>
+            <change who="#el" when="2011-11-05">case text extracted and transformed from larger
+                file</change>
+            <change who="#sb" when="2011-02-09">enriched encoding</change>
+            <change who="#sb" when="2011-01-28">validated file</change>
+            <change who="#et" when="2009-08-01">encoded</change>
+            <change who="#sb" when="2008-09-22">initial checking of OCR text against PDF; encoded
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body xml:id="ch1.sc3.0182">
+            <p><hi rend="initialcap">C</hi>ASE 8.&#8212;<name type="person" key="1417">Private Abram
+                    L&#8212;&#8212;</name>, <name type="organization" key="415">Co. C, 77th New York
+                    Volunteers, 3d Brigade, 2d Division, Sixth Corps</name>, aged 23 years, was
+                wounded on <date type="injury" when="1864-05-06">May 6th, 1864</date>, at the battle
+                of <name type="BATTLE" key="12">the Wilderness</name>, by a fragment of shell, which
+                removed the scalp just below the coronal suture, and grazed the bone a little to the
+                left of the median line. It has been impracticable to learn anything of the
+                patient's condition for the next five days, during which he was in transit to the
+                depot for wounded at <name type="place">Belle Plain</name>; but, on <date
+                    type="transfer" when="1864-05-12">May 12th</date>, he was sent up the Potomac on
+                a hospital transport, and was admitted to <name type="hospital" key="171">Armory
+                    Square Hospital</name>, Washington, comatose and with his wound in an
+                erysipelatous condition. Diligent and repeated examinations of the records and
+                reports from <name type="hospital" key="171">Armory Square Hospital</name> have
+                failed to discover any account of the progress and treatment of the case. The
+                patient died on <date type="death" when="1864-05-24">May 24th, 1864</date>. A
+                segment of the frontal bone was removed and forwarded to the <name type="hospital"
+                    key="431">Army Medical Museum</name> by <name type="person" key="123">Surgeon D.
+                    W. Bliss</name>, <name type="organization" key="132">U. S. V.</name> Its
+                external and internal surfaces are perfectly represented in Figures I and II of the
+                foregoing plate. The outer table is not fractured; but is porous and softened where
+                the pericranium was scraped off by the projectile. A meddlesome dissector has
+                chipped off a bit of the external table and dipl&#246;e with a scalpel in the
+                endeavor to ascertain <hi rend="italic">post mortem</hi> the degree of softening of
+                the bone. A fragment of the inner table, one and one-fourth inches long, is
+                completely detached.</p>
+            <figure>
+                <graphic url="cww.001793.001"/>
+                <head><hi rend="initialcap">P</hi>LATE. GUNSHOT CONTUSION OF THE CRANIUM, WITH
+                    FRACTURE OF THE INNER TABLE. <hi rend="initialcap">F</hi>IG. I. Exterior View of
+                        <hi rend="initialcap">S</hi>PEC. 2343, A. M. M. <hi rend="initialcap"
+                    >F</hi>IG. II. Interior View of the same, exhibiting a detached Fragment of
+                    Lamina Vitrea.</head>
+            </figure>
+        </body>
+    </text>
+</TEI>

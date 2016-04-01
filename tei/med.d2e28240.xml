@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d2e28240">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Delano, A. M.</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+    <idno>med.d2e28240</idno>
+    <authority>Civil War Washington</authority>
+    <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor><name>Center for Digital Research in the
+     Humanities</name><address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address></distributor>
+    <date>2011</date>
+    <availability>
+     <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+      republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+      law, requires express written consent from the editors and advance notification of the
+      publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+     <persName xml:id="ajh">AJ Howell</persName>
+     <persName xml:id="el">Elizabeth Lorang</persName>
+     <persName xml:id="sb">Stacey Berry</persName>
+     <persName xml:id="et">Elisabeth Tracey</persName>
+     <persName xml:id="ss">Sarah Synovec</persName>
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title level="j">The Medical and Surgical History of the War of the Rebellion.
+      (1861-65.)</title><pubPlace>Washington, DC</pubPlace><publisher>Government Printing
+      Office</publisher><biblScope type="part">Part 3</biblScope><biblScope type="volume">Volume
+      2</biblScope><date when="1883">1883</date><biblScope type="page">817</biblScope></bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+     <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <keywords scheme="#medsurg">
+     <term>wounds and complications</term> 
+     <term>venous h&#230;morrhages</term>
+     <term>death ascribed to sudden entrance of air into veins</term> 
+     <term>ball entered just back of ear, fracturing mastoid process of temporal bone, lodged anterior to artery at angle of lower jaw</term> 
+     <term>h&#230;morrhage from internal jugular vein</term>
+     <term>air passed into vein</term> 
+     <term>jugular vein ulcerated</term>
+     <term>autopsy performed</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change who="#ajh" when="2012-06-11">additional proofing of transcription and encoding, identified keyword terms</change>
+   <change who="#el" when="2011-05-11">case text extracted and transformed from larger file</change>
+   <change who="#sb" when="2011-06-04">Enrich Encoding, Edit and validate</change>
+   <change who="#sb" when="2011-01-28">Validated File</change>
+   <change who="#ss" when="2008-09-22">initial checking of OCR text; encoded P5 Encoding</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+    <p><hi rend="initialcap">C</hi>ASE 1193.&#8212;<name type="person" key="1503">Corporal A. M.
+      Delano</name>, <name type="organization" key="423">Co. E, 1st Maine Heavy Artillery</name>,
+     aged 21 years, was wounded at <name type="BATTLE" key="3"><choice><orig>Spottsylvania</orig><reg>Spotsylvania</reg></choice></name>, <date type="injury" when="1864-05-12">May 12, 1864</date>, by a mini&#233; ball, which
+     entered just back of the left ear, fracturing the mastoid process of the left temporal bone,
+     passed downward and forward and lodged just anterior to the artery at the angle of the lower
+     jaw. On <date type="admit" when="1864-05-22">May 22d</date> he was admitted into <name
+      type="hospital" key="172">Emory Hospital</name>, Washington, where, on <date type="operation" when="1864-05-22">the same day</date>, the
+     missile and a fragment of the cranium were removed. On May 25th h&#230;morrhage to the extent
+     of twenty ounces occurred from the internal jugular vein. He died suddenly on <date
+      type="death" when="1864-05-25">May 25, 1864</date>. Air was supposed to have passed into the
+     vein. The autopsy revealed the jugular vein to be in process of ulceration two inches of its
+     length, with its tissues severed from before backward, except a few fibres on its posterior
+     surface. <name type="person" key="884">Surgeon N. E. Moseley</name>, <name type="organization"
+      key="132">U. S. V.</name>, reports the case. </p>
+  </body>
+ </text>
+</TEI>

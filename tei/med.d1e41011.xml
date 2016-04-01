@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e41011">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Wray, M. H.</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+       <idno>med.d1e41011</idno>
+       <authority>Civil War Washington</authority>
+       <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor>
+       <name>Center for Digital Research in the Humanities</name>
+       <address><addrLine>319 Love Library</addrLine>
+       <addrLine>University of Nebraska–Lincoln</addrLine>
+       <addrLine>Lincoln, NE 68588-4100</addrLine>
+       <addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+    </distributor>
+    <date>2011</date>
+    <availability>
+        <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+         republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+         law, requires express written consent from the editors and advance notification of the
+         publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+     <persName xml:id="mb">Matthew Bosley</persName>
+     <persName xml:id="el">Elizabeth Lorang</persName>
+     <persName xml:id="sb">Stacey Berry</persName>
+     <persName xml:id="ao">Alyssa Olson</persName>
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl>
+     <title level="j">The Medical and Surgical History of the War of the Rebellion. (1861-65.)</title>
+     <pubPlace>Washington, DC</pubPlace>
+     <publisher>Government Printing Office</publisher>
+     <biblScope type="part">Part 2</biblScope>
+     <biblScope type="volume">Volume 1</biblScope>
+     <date when="1879">1879</date>
+     <biblScope type="page">162</biblScope>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+       <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+      <keywords scheme="#medsurg">
+       <term>diarrh&#339;a and dysentery</term>
+       <term>fatal cases of diarrh&#339;a and dysentery, with accounts of the morbid appearances observed</term>
+       <term>from Lincoln Hospital, Washington, D. C.</term>
+       <term>diarrh&#339;a</term>
+       <term>&#339;dema of legs</term>
+       <term>measles</term>
+       <term>pericardium contained two ounces of fluid</term>
+       <term>valvul&#230; conniventes in duodenum and jejunum not well developed</term>
+       <term>solitary glands and glands of Peyer appeared normal in ileum</term>       
+       <term>autopsy performed</term>       
+     </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change who="#mb" when="2012-11-02">additional proofing of transcription and encoding, identified keyword terms</change>
+   <change who="#el" when="2010-11-05">case text extracted and transformed from larger file</change>
+   <change who="#sb" when="2010-05-01">enrich encoding, proof and edit</change>
+   <change who="#ao" when="2008-10-02">encoding and editing</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body> 
+   <p>Case from the case-book of <name type="hospital" key="176"><hi rend="initialcap">L</hi>INCOLN <hi rend="initialcap">H</hi>OSPITAL</name>, Washington, D. C.; <name type="person" key="241">Surgeon Henry Bryant</name>, <name type="organization" key="132">U. S. V.</name>, in charge to May, 1863.</p>
+   <p><hi rend="initialcap">C</hi>ASE 347.&#8212;<name type="person" key="xxx">Private M. H. Wray</name>, <name type="organization" key="xxx">company H, 136th Pennsylvania volunteers</name>; age 35; admitted <date type="admit" when="1863-02-19">February 19, 1863</date>.  Diarrh&#339;a.  This patient was sent to field hospital in <name type="place">Virginia</name> several months ago with &#339;dema of the legs; subsequently he had an attack of measles, and this was followed by diarrh&#339;a. When admitted he was extremely emaciated, complained of pain and tenderness over the abdomen; had frequent stools; pulse scarcely perceptible; skin cold and cadaverous; tongue moist and free from any fur; feet cold.  Died, <date type="death" when="1863-02-25">February 25th</date>.  Treatment: Blue mass and opium, Dover's powder, &#38;c.  Diet: Boiled milk, toast and tea, beef-tea, brandy.  <hi rend="italic">Autopsy</hi> <date type="autopsy" when="1863-02-26">nineteen hours after death</date>: Height five feet nine inches; no rigor mortis. The brain weighed fifty-five ounces and a half; it was full of blood, and the vessels of the pia mater were injected. The right lung weighed twelve ounces and a half, the left eleven ounces; both lungs contained an excess of black pigment, and were congested hypostatically. The heart weighed seven ounces and three-quarters, and contained mixed clots which weighed two ounces. The pericardium contained two ounces of fluid resembling mucilage of acacia. The liver weighed thirty-eight ounces, was full of blood, of a reddish coffee-color and firm consistence, the acini indistinct; the gall-bladder contained two drachms of a very viscid and dark-green bile. The spleen weighed two ounces and three-quarters, was of a dark-red color and normal <choice><sic>con-consistence</sic><corr>consistence</corr></choice>; it contained a small nodule of cheesy matter. The pancreas weighed two ounces and a half. The suprarenal capsules were very small and tough. The left kidney weighed four ounces and a quarter, the right four ounces; they were both very dark colored and tough. The stomach was slightly congested in the fundus and toward the pyloric orifice; its mucous lining was soft. The duodenal glands were slightly enlarged. The valvul&#230; conniventes in the duodenum and jejunum were not well developed; the upper part of the jejunum was congested, the lower part of a light slate-color; the solitary glands were enlarged; the mucous membrane of the ileum was soft, and deeply congested, but both the solitary glands and the glands of Peyer appeared to be normal. The mucous membrane of the c&#230;cum was soft and dark colored. Congested patches were noticed at the splenic and sigmoid flexures of the colon; in the latter the mucous membrane was brownish-red.   <name type="person" key="244">Assistant Surgeon George M. McGill</name>, <name type="organization" key="190">U. S. A.</name></p>
+  </body>
+ </text>
+</TEI>

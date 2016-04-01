@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e2438">
+        <teiHeader>
+                <fileDesc>
+                        <titleStmt>
+                                <title level="m" type="main">Schick, Andrew</title>
+                                <title level="m" type="sub">a machine readable transcription</title>
+                                <principal>Susan C. Lawrence</principal>
+                                <principal>Kenneth M. Price</principal>
+                                <principal>Kenneth J. Winkle</principal>
+                        </titleStmt>
+                        <editionStmt>
+                                <edition>
+                                        <date>2011</date>
+                                </edition>
+                        </editionStmt>
+                        <publicationStmt>
+                                <idno>med.d1e2438</idno>
+                                <authority>Civil War Washington</authority>
+                                <publisher>University of Nebraska–Lincoln</publisher>
+                                <distributor>
+                                        <name>Center for Digital Research in the Humanities</name>
+                                        <address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+                                </distributor>
+                                <date>2011</date>
+                                <availability>
+                                        <p>Copyright © 2011 by University of Nebraska–Lincoln, all
+                                                rights reserved. Redistribution or republication in
+                                                any medium, except as allowed under the Fair Use
+                                                provisions of U.S. copyright law, requires express
+                                                written consent from the editors and advance
+                                                notification of the publisher, the University of
+                                                Nebraska–Lincoln.</p>
+                                </availability>
+                        </publicationStmt>
+                        <notesStmt>
+                                <note type="project">The following are responsible for particular
+                                        readings or for changes to this file, as noted:
+                                        <persName xml:id="ajh">AJ Howell</persName>
+                                        <persName xml:id="mb">Matthew Bosley</persName>
+                                        <persName xml:id="el">Elizabeth Lorang</persName>
+                                        <persName xml:id="sb">Stacey Berry</persName>
+                                        <persName xml:id="et">Elisabeth Tracey</persName>
+                                </note>
+                        </notesStmt>
+                        <sourceDesc>
+                                <bibl>
+                                        <title level="j">The Medical and Surgical History of the War
+                                                of the Rebellion</title>
+                                        <pubPlace>Washington, DC</pubPlace>
+                                        <publisher>Government Printing Office</publisher>
+                                        <biblScope type="part">Part 3</biblScope>
+                                        <biblScope type="volume">Volume 1</biblScope>
+                                        <date when="1888">1888</date>
+                                        <biblScope type="page">223-224</biblScope>
+                                </bibl>
+                        </sourceDesc>
+                </fileDesc>
+                <encodingDesc>
+                        <classDecl>
+                                <taxonomy xml:id="medsurg">
+                                        <bibl>Medical and Surgical History of the War of the
+                                                Rebellion</bibl>
+                                </taxonomy>
+                        </classDecl>
+                </encodingDesc>
+                <profileDesc>
+                        <textClass>
+                                <keywords scheme="#medsurg">
+                                        <term>continued fevers</term>
+                                        <term>clinical records</term>
+                                        <term>typho-malarial and typhoid fevers</term>
+                                        <term>Seminary Hospital cases</term>
+                                        <term>delrium</term> 
+                                        <term>diarrh&#339;a</term> 
+                                        <term>rose-colored spots</term>
+                                        <term>severe pain in head</term>
+                                        <term>right iliac region tender</term>
+                                        <term>typhoid cases</term>
+                                        <term>typhoid fever</term>                                                                                
+                                </keywords>
+                        </textClass>
+                </profileDesc>
+                <revisionDesc>
+                        <change who="#ajh" when="2013-05-28">additional proofing of transcription and encoding, identified keyword terms</change>
+                        <change who="#mb" when="2011-10-14">additional proofing of transcription and encoding</change>
+                        <change who="#mb" when="2011-06-02">additional proofing of transcription and encoding</change>
+                        <change who="#el" when="2011-05-11">case text extracted and transformed from
+                                larger file</change>
+                        <change who="#sb" when="2011-02-23">Encoding and Proofing</change>
+                        <change who="#et" when="2009-12-01">Initial Checking OCR Text to PDF file,
+                        </change>
+                </revisionDesc>
+        </teiHeader>
+        <text>
+                <body xml:id="ch4.sc2.3.00030">
+                        
+                        <p><hi rend="initialcap">C</hi>ASE 30.&#8212;<hi rend="italic"
+                                                >Delirium, diarrh&#339;a and rose-colored spots;
+                                                improvement daily from the 38th day, when the tongue
+                                                became moist.</hi>&#8212;<name type="person"
+                                                key="490">Private Andrew Schick</name>, <name
+                                                type="organization" key="628">Co. E, 1st Pa.
+                                                        Art.</name>, was taken about <date type="injury" when="1860-08-20">Aug. 20, 1861</date>, with a
+                                        cold; he suffered for a week from diarrh&#339;a with severe pain in the head, and fever
+                                        which became aggravated in the middle of the day. He was
+                                        admitted <date type="admit" when="1861-09-19">Sept.
+                                                19</date> as a case of typhoid fever. The patient
+                                        was stupid, deaf and delirious; the stools thin; the right
+                                        iliac region so tender that he objected to having the
+                                        abdomen touched; the pulse 128, small and feeble; the skin
+                                        hot but soft and presenting an occasional rose-colored spot
+                                        with sudamina on the neck; the tongue red at the tip and
+                                        gray in the centre and at the base. A half-ounce of castor
+                                        oil was given. Next day three stools were passed, the skin
+                                        was hot and dry, and there was much thirst; otherwise little
+                                        change was presented. Quinine was given on the 27th. Next
+                                        day there was less fever; the pulse fell to 95 and was
+                                        stronger; the tongue was moist, but the skin continued dry;
+                                        the mind became clearer. The improvement progressed on the
+                                        29th. The pulse on the 30th was 106; the tongue clean;
+                                        appetite good; bowels quiet and natural. Whiskey-punch was
+                                        given. The patient was returned to duty <date type="duty"
+                                                when="1861-11-01">November 1</date>. </p>
+                        
+                </body>
+        </text>
+</TEI>

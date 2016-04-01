@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e5420">
+        <teiHeader>
+                <fileDesc>
+                        <titleStmt>
+                                <title level="m" type="main">Leonard, Gilbert</title>
+                                <title level="m" type="sub">a machine readable transcription</title>
+                                <principal>Susan C. Lawrence</principal>
+                                <principal>Kenneth M. Price</principal>
+                                <principal>Kenneth J. Winkle</principal>
+                        </titleStmt>
+                        <editionStmt>
+                                <edition>
+                                        <date>2011</date>
+                                </edition>
+                        </editionStmt>
+                        <publicationStmt>
+                                <idno>med.d1e5420</idno>
+                                <authority>Civil War Washington</authority>
+                                <publisher>University of Nebraska–Lincoln</publisher>
+                                <distributor>
+                                        <name>Center for Digital Research in the Humanities</name>
+                                        <address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+                                </distributor>
+                                <date>2011</date>
+                                <availability>
+                                        <p>Copyright © 2011 by University of Nebraska–Lincoln, all
+                                                rights reserved. Redistribution or republication in
+                                                any medium, except as allowed under the Fair Use
+                                                provisions of U.S. copyright law, requires express
+                                                written consent from the editors and advance
+                                                notification of the publisher, the University of
+                                                Nebraska–Lincoln.</p>
+                                </availability>
+                        </publicationStmt>
+                        <notesStmt>
+                                <note type="project">The following are responsible for particular
+                                        readings or for changes to this file, as noted: 
+                                        <persName xml:id="mb">Matthew Bosley</persName>
+                                        <persName xml:id="el">Elizabeth Lorang</persName>
+                                        <persName xml:id="sb">Stacey Berry</persName>
+                                        <persName xml:id="et">Elisabeth Tracey</persName>
+                                </note>
+                        </notesStmt>
+                        <sourceDesc>
+                                <bibl>
+                                        <title level="j">The Medical and Surgical History of the War
+                                                of the Rebellion</title>
+                                        <pubPlace>Washington, DC</pubPlace>
+                                        <publisher>Government Printing Office</publisher>
+                                        <biblScope type="part">Part 3</biblScope>
+                                        <biblScope type="volume">Volume 1</biblScope>
+                                        <date when="1888">1888</date>
+                                        <biblScope type="page">265</biblScope>
+                                </bibl>
+                        </sourceDesc>
+                </fileDesc>
+                <encodingDesc>
+                        <classDecl>
+                                <taxonomy xml:id="medsurg">
+                                        <bibl>Medical and Surgical History of the War of the
+                                                Rebellion</bibl>
+                                </taxonomy>
+                        </classDecl>
+                </encodingDesc>
+                <profileDesc>
+                        <textClass>
+                                <keywords scheme="#medsurg">
+                                        <term>clinical records</term>
+                                        <term>continued fevers</term>
+                                        <term>fever cases from various records</term>
+                                        <term>reported as typhoid, many modified by malarial influence</term>
+                                        <term>typhoid fever</term>
+                                        <term>injury to nervous system</term>
+                                        <term>hemiplegia</term>
+                                </keywords>
+                        </textClass>
+                </profileDesc>
+                <revisionDesc>
+                        <change who="#mb" when="2011-10-07">additional proofing of transcription and encoding</change>
+                        <change who="#mb" when="2011-06-13">additional proofing of transcription and encoding</change>
+                        <change who="#el" when="2011-05-11">case text extracted and transformed from
+                                larger file</change>
+                        <change who="#sb" when="2011-02-23">Encoding and Proofing</change>
+                        <change who="#et" when="2009-12-01">Initial Checking OCR Text to PDF file,
+                        </change>
+                </revisionDesc>
+        </teiHeader>
+        <text>
+                <body xml:id="ch4.sc2.4.00057">
+                        
+                                <p><hi rend="initialcap">C</hi>ASE 57.&#8212;<hi rend="italic"
+                                                >Hemiplegia.</hi>&#8212;<name type="person"
+                                                key="xxx">Private Gilbert Leonard</name>, <name
+                                                type="organization" key="xxx">Co. D, 27th
+                                                N.Y.</name>, was admitted <date type="admit"
+                                                when="1861-10-30">Oct. 30, 1861</date>, having been
+                                        sick for several weeks with typhoid fever. He had some
+                                        diarrh&#339;a and cough on admission, but the
+                                        respiration was natural. On the evening of November 4 the
+                                        respiration became increased to 26, the tongue dry, the
+                                        pulse accelerated, and crepitation was detected in the lower
+                                        part of the right lung. The sputa became streaked with blood
+                                        on the 5th and rusty on the 6th. On the 9th the patient was
+                                        very weak and swallowed with difficulty; he was scarcely
+                                        able to expectorate; he slept with his eyes half open and
+                                        was unable to speak. He was stronger on the 11th and his
+                                        bowels were quiet, but the right side of the body was
+                                        paralyzed. On the 12th he was much stronger and asked for
+                                        food; his countenance was bright, tongue nearly clean and
+                                        bowels regular. He gradually rallied from this low condition
+                                        but the paralysis continued. Strychnia was given on December
+                                        1. On Jan. 1, 1862, he was able to walk with a cane;
+                                        sensation in the arm was much improved but motion was
+                                        impossible. He was discharged for disability on <date
+                                                type="servicedischarge" when="1861-02-18">February
+                                                18</date>.&#8212;<hi rend="italic">Hospital,
+                                                Alexandria, Va.</hi>
+                                </p>
+                        
+                </body>
+        </text>
+</TEI>

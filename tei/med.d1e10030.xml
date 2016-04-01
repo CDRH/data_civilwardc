@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.1e10030">
+        <teiHeader>
+                <fileDesc>
+                        <titleStmt>
+                                <title level="m" type="main">A&#8212;&#8212;, Lieutenant</title>
+                                <title level="m" type="sub">a machine readable transcription</title>
+                                <principal>Susan C. Lawrence</principal>
+                                <principal>Kenneth M. Price</principal>
+                                <principal>Kenneth J. Winkle</principal>
+                        </titleStmt>
+                        <editionStmt>
+                                <edition>
+                                        <date>2011</date>
+                                </edition>
+                        </editionStmt>
+                        <publicationStmt>
+                                <idno>med.1e10030</idno>
+                                <authority>Civil War Washington</authority>
+                                <publisher>University of Nebraska–Lincoln</publisher>
+                                <distributor>
+                                        <name>Center for Digital Research in the Humanities</name>
+                                        <address>
+                                                <addrLine>319 Love Library</addrLine>
+                                                <addrLine>University of Nebraska–Lincoln</addrLine>
+                                                <addrLine>Lincoln, NE 68588-4100</addrLine>
+                                                <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                                        </address>
+                                </distributor>
+                                <date>2011</date>
+                                <availability>
+                                        <p>Copyright © 2011 by University of Nebraska–Lincoln, all
+                                                rights reserved. Redistribution or republication in
+                                                any medium, except as allowed under the Fair Use
+                                                provisions of U.S. copyright law, requires express
+                                                written consent from the editors and advance
+                                                notification of the publisher, the University of
+                                                Nebraska–Lincoln.</p>
+                                </availability>
+                        </publicationStmt>
+                        <notesStmt>
+                                <note type="project">The following are responsible for particular
+                                        readings or for changes to this file, as noted: 
+                                        <persName xml:id="mb">Matthew Bosley</persName>                                        
+                                        <persName xml:id="el">Elizabeth Lorang</persName>
+                                        <persName xml:id="kb">Karli Burt</persName>
+                                        <persName xml:id="ch">Constance Hamer</persName>
+                                </note>
+                        </notesStmt>
+                        <sourceDesc>
+                                <bibl>
+                                        <title level="j">The Medical and Surgical History of the War
+                                        of the Rebellion</title>
+                                        <editor role="compiler">Surgeon General Joseph
+                                                K. Barnes and George A. Otis</editor>
+                                        <pubPlace>Washington, DC</pubPlace>
+                                        <publisher>Government Printing Office</publisher>
+                                        <biblScope type="part">Part 2</biblScope>
+                                        <biblScope type="volume">Volume 2</biblScope>
+                                        <date when="1876">1876</date>
+                                        <biblScope type="page">164</biblScope>
+                                </bibl>
+                        </sourceDesc>
+                </fileDesc>
+                <encodingDesc>
+                        <classDecl>
+                                <taxonomy xml:id="medsurg">
+                                        <bibl>Medical and Surgical History of the War of the
+                                                Rebellion</bibl>
+                                </taxonomy>
+                        </classDecl>
+                </encodingDesc>
+                <profileDesc>
+                        <textClass>
+                                <keywords scheme="#medsurg">
+                                        <term>penetrating wounds of the abdomen</term>
+                                        <term>wounds of the kidney</term>
+                                </keywords>
+                        </textClass>
+                </profileDesc>
+                <revisionDesc>
+                        <change who="#mb" when="2011-06-24">additional proofing of transcription and encoding</change>
+                        <change when="2011-05-13" who="#el">added TEI header; proofread; added mark-up</change>
+                        <change when="2011-04" who="#kb #ch">checked OCR</change>
+                </revisionDesc>
+        </teiHeader>
+        <text>
+                <body>
+                        <p><hi rend="initialcap">C</hi>ASE 510. "The records of military surgery show that gunshot wounds of
+                                the kidney are almost always fatal, and being so considered, the
+                                unfortunate victim is too often left to his fate without proper
+                                attention. The following case presents several points of unusual
+                                novelty and interest, and teaches the important lesson that the
+                                surgeon should never abandon, as hopeless, any case of injury,
+                                however unpromising it may seem. Patients do occasionally recover
+                                from wounds of the kidney as well as from lumbar abscesses caused
+                                from renal calculi, and should therefore always be treated with
+                                proper care throughout. <name type="person">Lieutenant
+                                        A&#8212;&#8212;</name>, <name type="organization">2d
+                                        Tennessee Infantry</name>, in perfect health, of robust
+                                constitution and abstemious habits, was wounded in the battle of
+                                <name type="battle">Shiloh</name>, on <date when="1862-04-06">April 6, 1862</date>, by a mini&#233;
+                                ball, entering immediately below the heart, and passing out through
+                                the upper portion of the left kidney. There was considerable
+                                h&#230;morrhage, causing excessive prostration. In this condition he was
+                                captured by the enemy and removed to <name type="name">Pittsburg Landing</name>, on <name type="place">Tennessee
+                                        River</name>, several miles distant from the battle-field, where he
+                                remained for six days without any attention, not even the removal of
+                                his bloody clothing, or dressing of his wounds. He was then placed
+                                upon a transport and conveyed to <name type="place">Louisville, Kentucky</name>, and sent to
+                                hospital for treatment. During <date type="injury" when="1862-07">the month of July</date> following, while
+                                his wounds were still discharging profusely, he was attacked with
+                                typhoid fever, and a large abscess formed in the lower part of
+                                abdomen, about one inch to the left of the linea alba, which caused
+                                great pain. The <date  type="transfer" when="1862-08">second or third week in August</date> he was removed from
+                                Louisville to <name type="place">Camp Chase</name>, by way of Cincinnati. Several days after
+                                his arrival at Camp Chase, very much enervated from the prolonged
+                                attack of fever, the abscess above referred to opened outwardly and
+                                discharged an immense quantity of dark sanious fluid mixed with
+                                urine. This greatly alarmed him, and the extreme mental anxiety,
+                                added to his fearful nervous prostration, came near proving too
+                                formidable for the unfortunate victim; but all of these difficulties
+                                were <choice><orig>combatted</orig><reg>combated</reg></choice>  by a good constitution and the inflexible
+                                determination of a veteran soldier to such a degree that, when an
+                                exchange of prisoners was effected, he was able to proceed to
+                                <name type="place">Vicksburg, Mississippi</name>, where he was released <date type="release" when="1862-10-01">about the first of
+                                        October</date>. He commenced his journey homeward (<name type="place">Lynchburg, Virginia</name>),
+                                travelling only during the day, resting at night, suffering much
+                                from his wounds and abscess, which still continued to discharge an
+                                admixture of unhealthy pus and urine. In about two weeks he reached
+                                <name type="place">Knoxville, Tennessee</name>, at which place I was then on duty, manifesting
+                                symptoms of very great nervous prostration. The second day after his
+                                arrival at Knoxville I was called to see him, at the house of his
+                                sister, at nine o'clock A. M., and found him with a severe chill,
+                                followed by high febrile reaction. On examination, I found the
+                                anterior wound entirely healed and cicatrized; the posterior wound
+                                and abscess very irritable, manifesting no disposition to heal, and
+                                both discharging, though not profusely, a thin sanious fluid, mixed
+                                with urine. He complained of severe excruciating pains in lumbar
+                                region, passing but little urine through the urethra&#8212;secretions
+                                generally deranged. I ordered warm stimulating poultices to wound
+                                and abscess, and administered one grain of extract of hyoscyamus. I
+                                visited him again at four o'clock P. M.; found him restless, looking
+                                pale, anxious, and alarmed; pulse irritable and frequent;
+                                administered anodyne for the night. I saw him the succeeding morning
+                                at nine o'clock; rested rather comfortably during the night, still
+                                suffering from pains in lumbar region, but much more composed; pulse
+                                regular but frequent; continued warm applications to wound and
+                                abscess, and anodynes to relieve pain. For several days subsequent
+                                he was annoyed with rigors simulating intermittent fever, but which
+                                gradually subsided, leaving him much debilitated and troubled with
+                                night-sweats, which were overcome by the use of elixir vitriol,
+                                tannin, and sponging with stimulating lotions. I then placed him
+                                upon nutritious diet and tonics, such as iron, tincture of bark, and
+                                quinine. The discharge of urine and unhealthy pus continued for some
+                                sixteen or eighteen days, when the discharge of urine ceased and the
+                                pus became more laudable. Simple lint and sweet-oil dressings were
+                                then substituted for the warm applications. The <date type="injury" when="1862-11">second or third week
+                                        in November</date> the wound was almost entirely healed, with but slight
+                                discharge, and about <date type="transfer" when="1862-12-15">the 15th of December</date> he resumed his journey to
+                                <name type="place">Lynchburg</name>, and in a short time was entirely restored, with some
+                                little impairment of general health. I met <name type="person"
+                                        >Lieutenant A&#8212;&#8212;</name> in <date
+                                        when="1863-10">October, 1863</date>, in perfect health, with
+                                the exception that upon too frequent exercise or exposure he was
+                                annoyed with some uneasiness and pain in lumbar region."</p>
+                </body>
+        </text>
+</TEI>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d2e25058">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Hussey, Michael</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+    <idno>med.d2e25058</idno>
+       <authority>Civil War Washington</authority>
+       <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor>
+       <name>Center for Digital Research in the Humanities</name>
+       <address><addrLine>319 Love Library</addrLine>
+       <addrLine>University of Nebraska–Lincoln</addrLine>
+       <addrLine>Lincoln, NE 68588-4100</addrLine>
+       <addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+    </distributor>
+    <date>2011</date>
+    <availability>
+        <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+         republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+         law, requires express written consent from the editors and advance notification of the
+         publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+     <persName xml:id="mb">Matthew Bosley</persName>        
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl>
+     <title level="j">The Medical and Surgical History of the War of the Rebellion. (1861-65.)</title>
+     <pubPlace>Washington, DC</pubPlace><publisher>Government Printing Office</publisher>
+     <biblScope type="part">Part 3</biblScope>
+     <biblScope type="volume">Volume 2</biblScope>
+     <date when="1883">1883</date>
+     <biblScope type="page">751</biblScope>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+       <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+      <keywords scheme="#medsurg">
+       <term>wounds and complications</term>       
+       <term>shot wounds</term>      
+       <term>effects of missiles and projectiles on <choice><orig>blood-vessels</orig><reg>blood vessels</reg></choice></term>
+       <term>ball entered thigh, eluded or pushed aside femoral vessels, escaped posteriorly in gluteal furrow</term>       
+       <term>shot wound of forehead</term>          
+     </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change who="#mb" when="2013-02-14">copied case from MSHWR, added proofing of transcription and encoding, identified keyword terms and figures</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body> 
+   <p><hi rend="initialcap">C</hi>ASE 1094.&#8212;<name type="person" key="xxx">Private Michael Hussey</name>, <name type="organization" key="xxx">Co. D, 37th New York</name>, aged 32 years, was wounded, while on picket, at <name type="place"> Occoquan, Virginia</name>, <date type="injury" when="1862-02-24">February 24, 1862</date>.  <name type="person" key="xxx">Surgeon W. O'Meagher</name>, <name type="organization" key="xxx">37th New York</name>, reported:&#185; &#34;The ball entered the right thigh near the lower angle of Scarpa's space, eluded or pushed aside the femoral vessels, passed upward, and escaped posteriorly in the gluteal furrow. Very little h&#230;morrhage occurred, though he walked a considerable distance back to the picket station. A plug of scraped lint was inserted into each opening and a roller bandage applied, this being kept wet with an evaporating lotion. <date type="transfer" when="1862-02-25">Next day</date> he was removed to the regimental hospital, and for two weeks following little more was done except to apply a poultice. By this time he was able to walk about, no bad symptom having occurred to mar his speedy convalescence.&#34;  On <date type="transfer" when="1862-03-05">March 5, 1862</date>, he was transferred to the <name type="hospital" key="185">Mansion House Hospital</name>, <name type="place" key="#Alexandria">Alexandria</name>, whence he was returned to duty <date type="duty" when="1862-08-07">August 7, 1862</date>.  He continued in service until <date type="servicedischarge" when="1865-06-08">June 8, 1865</date>, receiving at <name type="BATTLE" key="xxx">Petersburg</name>, on <date type="injury" when="1864-05-09">May 9, 1864</date>, a shot wound of the forehead.  In <date type="pension" when="1882-02">February, 1882</date>, <name type="person" key="xxx">Hussey</name> was an applicant for pension.</p>   
+   <p>&#185; <hi rend="initialcap">O'M</hi>EAGHER (<hi rend="initialcap">W</hi>.), <hi rend="italic">Cases in Military Surgery; Gunshot Wound of Thigh, narrow escape of Femoral Vessels</hi>, in <hi rend="italic">American Medical Times</hi>, 1862, Vol. IV, p. 205.</p>
+  </body>
+ </text>
+</TEI>

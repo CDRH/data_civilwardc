@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d2e31149">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">F&#8212;&#8212;, Martin</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+       <idno>med.d2e31149</idno>
+       <authority>Civil War Washington</authority>
+       <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor>
+       <name>Center for Digital Research in the Humanities</name>
+       <address><addrLine>319 Love Library</addrLine>
+       <addrLine>University of Nebraska–Lincoln</addrLine>
+       <addrLine>Lincoln, NE 68588-4100</addrLine>
+       <addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+    </distributor>
+    <date>2011</date>
+    <availability>
+        <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+         republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+         law, requires express written consent from the editors and advance notification of the
+         publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+ <persName xml:id="kmp">Kenneth M. Price</persName> 
+     <persName xml:id="mb">Matthew Bosley</persName>
+     <persName xml:id="mv">Michael Vinci</persName> 
+     <persName xml:id="kk">Kourtney Klein</persName>
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl>
+     <title level="j">The Medical and Surgical History of the War of the Rebellion. (1861-65.)</title>
+     <pubPlace>Washington, DC</pubPlace>
+     <publisher>Government Printing Office</publisher>
+     <biblScope type="part">Part 2</biblScope>
+     <biblScope type="volume">Volume 2</biblScope>
+     <date when="1876">1876</date>
+     <biblScope type="page">551</biblScope>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+       <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+      <keywords scheme="#medsurg">
+       <term>wounds and injuries of the upper extremities</term>
+       <term>wounds of the shoulder joint</term>
+       <term>excisions at the shoulder</term> 
+       <term>excisions of the head and portions of the shaft of the humerus</term>
+       <term>primary excisions of the upper extremity of the humerus for shot injury</term> 
+       <term>successful operations</term>
+       <term>gunshot wound of shoulder</term>
+       <term>excised head of humerus and part of shaft</term> 
+       <term>humerus perforated through surgical neck</term>
+       <term>ball fractured head and neck of humerus, necessary to resect at shoulder joint</term>
+       <term>arm wholly useless for manual labor</term>
+       <term>arm shortened and incapable of use</term>
+       <term>shoulder discharged pus</term>        
+       <term>general anesthesia, chloroform</term>
+     </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+ <change who="#kmp" when="2014-05">blessed</change>
+   <change who="#kk" when="2014-01-22">added figure encoding</change>
+   <change who="#mb" when="2012-07-11">additional proofing of transcription and encoding, identified keyword terms</change>
+   <change who="#mv" when="2011-02-23">checked OCR; added minimal mark-up for personal names, place names, and dates</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>   
+   <p><hi rend="initialcap">C</hi>ASE 1528.&#8212;<name type="person" key="xxx">Private Martin F&#8212;&#8212;</name>, <name type="organization" key="xxx">Co. I, 8th Illinois Cavalry</name>, aged 20 years, was wounded at <name type="place">Jack's Shop</name>, near <name type="place">Rochelle, Virginia</name>, on <date type="injury" when="1863-09-22">September 22, 1863</date>. and was admitted into the hospital of the Cavalry Corps. <name type="person" key="xxx">Surgeon A. Hard</name>, <name type="organization" key="132">U. S. V.</name>, transmitted the following history:  &#34;F&#8212;&#8212; was shot in the shoulder by a mini&#233; ball; he was stooping forward in the act of firing when he received the wound, the regiment being dismounted as skirmishers. A wet cloth or lint only was applied to the wound on the field. He was brought to <name type="place">Culpeper</name>, some thirty miles, on <date type="admit" when="1863-09-23"><date type="operation" when="1863-09-23">the 23d</date></date>, and was examined in presence of <name type="person" key="72">Surgeons Pancoast</name>, medical director of the <name type="organization" key="xxx">Cavalry Corps</name>; <name type="person" key="xx">Beck</name>, surgeon-in-chief of the <name type="organization" key="xxx">1st Cavalry Brigade</name>; <name type="person" key="xx">Mitchell</name>, in charge of <name type="organization" key="xxx">Corps Hospital</name>, and <name type="person" key="xxx">Acting Assistant Surgeons Rogers</name> and <name type="person" key="xxx">Bliss</name>. There was a unanimous decision in favor of resection. In their presence I performed the operation, making a longitudinal incision through the deltoid muscle, opening the joint with the scalpel, turning out the head of the bone and sawing it off as near the injured portion as possible, as the specimen will show. Only one small arterial branch required ligating. The wound was closed by sutures and adhesive straps, and no lint was inserted; this, in my judgment, being the better plan to pursue. Chloroform was employed during the operation I have placed the ball in the specimen as nearly in the position in which it was found as could be arrived at.&#34;  The specimen (<hi rend="initialcap">F</hi>IG. 427) consists of the head and three inches of the shaft of the humerus, perforated through the surgical neck by a conoidal ball, and excised. The articular surface has sustained no loss of substance, but two fissures run through it, and another follows the line of the anatomical neck. The remainder of the specimen is much comminuted. <date type="transfer" when="1863-09-25">Two days after the operation</date>, the patient was transferred to <name type="hospital" key="175">Stanton Hospital</name>, Washington.  <name type="person" key="xxx">Acting Assistant Surgeon C. H. Osborne</name> noted: &#34;Condition of patient on admission was weak; wound suppurating freely; granulations healthy.  November 1st, wound healing finely; appetite good; passive motion to be diligently employed.  December 21st, wound entirely healed, with considerable mobility of the shoulder-joint; no fragments of bone were discharged during treatment; prospect flattering of recovery with a useful limb.&#34;  The patient was furloughed in <date type="furlough" when="1863-12">December</date>; was readmitted, and finally discharged from service <date type="servicedischarge" when="1864-04-06">April 6, 1864</date>, and pensioned.  <name type="person" key="xxx">Assistant Surgeon T. W. Stull</name>, <name type="organization" key="xxx">8th Illinois Cavalry</name>, certified that F&#8212;&#8212; was wounded &#34;by a musket ball which fractured the head and neck of the humerus of the right arm, rendering it necessary to resect at the shoulder joint.&#34;  <name type="person" key="xxx">Examiner N. E. Ballou</name>, of <name type="place">Illinois</name>, <date type="pension" when="1867-01-10">January 10, 1867</date>, reported:  &#34;Gunshot wound of the right shoulder, in which resection was had and four inches of the bone removed. The right arm is wholly useless for manual labor; there are issues on each side of the shoulder which discharge large quantities of pus.&#34;  In his biennial report, <date type="pension" when="1873-09-04">September 4, 1873</date>, <name type="person" key="xxx">Dr. Ballou</name> makes no mention of the issues, but states that &#34;the arm is shortened and is incapable of use.&#34;  This soldier received his pension on <date type="pension" when="1873-12-04">December 4, 1873</date>.</p>
+   
+   <figure>
+    <graphic url="cww.001714.001" />
+    <head><hi rend="initialcap">F</hi>IG. 427.&#8212;The head and three inches of the shaft of the humerus excised for shot fracture.    <hi rend="italic">Spec</hi>. 1715.</head>
+   </figure>
+   
+  </body>
+ </text>
+</TEI>

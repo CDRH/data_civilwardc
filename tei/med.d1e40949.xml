@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e40949">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Koppen, William</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+       <idno>med.d1e40949</idno>
+       <authority>Civil War Washington</authority>
+       <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor>
+       <name>Center for Digital Research in the Humanities</name>
+       <address><addrLine>319 Love Library</addrLine>
+       <addrLine>University of Nebraska–Lincoln</addrLine>
+       <addrLine>Lincoln, NE 68588-4100</addrLine>
+       <addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+    </distributor>
+    <date>2011</date>
+    <availability>
+        <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+         republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+         law, requires express written consent from the editors and advance notification of the
+         publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+     <persName xml:id="mb">Matthew Bosley</persName>
+     <persName xml:id="el">Elizabeth Lorang</persName>
+     <persName xml:id="sb">Stacey Berry</persName>
+     <persName xml:id="ao">Alyssa Olson</persName>
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl>
+     <title level="j">The Medical and Surgical History of the War of the Rebellion. (1861-65.)</title>
+     <pubPlace>Washington, DC</pubPlace>
+     <publisher>Government Printing Office</publisher>
+     <biblScope type="part">Part 2</biblScope>
+     <biblScope type="volume">Volume 1</biblScope>
+     <date when="1879">1879</date>
+     <biblScope type="page">155</biblScope>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+       <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+      <keywords scheme="#medsurg">
+       <term>diarrh&#339;a and dysentery</term>
+       <term>fatal cases of diarrh&#339;a and dysentery, with accounts of the morbid appearances observed</term>
+       <term>from the Douglas Hospital, Washington, D. C.</term>
+       <term>chronic diarrh&#339;a</term>
+       <term>severe onychia on fingers and toes</term>
+       <term>typhoid symptoms, stupor, loose bowels, sordes on teeth</term>
+       <term>delirium</term>       
+       <term>abscess of anterior thigh, below anterior superior spinous process of ileum</term>
+       <term>abscess extended to exterior capsule of hip-joint</term>
+       <term>Peyer's patches visible</term>
+       <term>rectum ulcerated, ulcers varied from size of pea to large almond</term>
+       <term>pleuritic adhesions</term>       
+       <term>liver fatty</term>
+       <term>autopsy performed</term>       
+     </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change who="#mb" when="2012-10-25">additional proofing of transcription and encoding, identified keyword terms</change>
+   <change who="#el" when="2010-11-05">case text extracted and transformed from larger file</change>
+   <change who="#sb" when="2010-05-01">enrich encoding, proof and edit</change>
+   <change who="#ao" when="2008-10-02">encoding and editing</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body> 
+   <p>Case from the case-book and medical descriptive lists of the <name type="hospital" key="162"><hi rend="initialcap">D</hi>OUGLAS <hi rend="initialcap">H</hi>OSPITAL</name>, Washington, D. C., <name type="person" key="201">Assistant Surgeon William F. Norris</name> in charge from October, 1864, to September, 1865:</p>
+   <p><hi rend="initialcap">C</hi>ASE 326.&#8212;<name type="person" key="237">Private William Koppen</name>, <name type="organization" key="240">company C, 7th New York volunteers</name>; age 20; admitted <date type="admit" when="1865-06-05">June 5, 1865</date>.  Chronic diarrh&#339;a.  This man was excessively emaciated, and had severe onychia on several of his fingers and toes. He had typhoid symptoms, such as stupor, loose bowels, and sordes on the teeth; very little fever.  Treatment: Tonics and nourishing food.  June 27th: Cod-liver oil in porter.  July 1st: Severe diarrh&#339;a set in. The former remedies were then discontinued, and two grains of quinine directed thrice daily, with tincture of the chloride of iron every four hours; also milk and lime-water ad libitum. Subsequently quarter of a grain of nitrate of silver and half a grain of opium every four hours. At times the patient complained of excessive pain in the upper third of the left thigh, but could move the hip-joint on the affected side without any pain or inconvenience.  July 11th: An abscess was detected in the anterior portion of the left thigh, about three inches below the anterior superior spinous process of the ileum.  <date type="operation" when="1865-07-15">July 15th</date>: <name type="person" key="201">Assistant Surgeon William F. Norris</name>, <name type="organization" key="190">U. S. A.</name>, opened the abscess, evacuating a quantity of thin fetid pus.  &#8478;. Citrate of iron and quinia, four grains, three times daily; an ounce of sherry wine every three hours. In the evening there was high fever and profuse perspiration.  July 16th: The discharge still continues; the fever and sweating have increased.  July 21st: &#8478;. Aromatic sulphuric acid, five drops, every three hours.  July 22d: The diarrh&#339;a is worse.  July 26th: Had eight stools in the last twenty-four hours, accompanied by dysenteric symptoms.  July 28th: Is losing strength; countenance sharp; profuse perspiration.  July 29th: Ten stools.  August 1st: Delirious.  Died, <date type="death" when="1865-08-03">August 3d</date>, at 3.30 A. M.  <hi rend="italic">Autopsy</hi> <date type="autopsy" when="1865-08-03">ten hours after death</date>: Body excessively emaciated. The abscess was found to extend to the exterior of the capsule of the left hip-joint. There were slight pleuritic adhesions on both sides, apparently of recent date. The lungs were healthy. The liver fatty. The spleen enlarged and softened. The kidneys normal. Peyer's patches were very visible. The rectum was ulcerated, the ulcerations varying from the size of a pea to that of a large almond. The mucous membrane was thickened.&#8212;<name type="person" key="208">Acting Assistant Surgeon Carlos Carvallo</name>.</p>
+  </body>
+ </text>
+</TEI>

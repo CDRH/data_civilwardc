@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d2e196">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Breckridge, T. H.</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+    <idno>med.d2e190</idno>
+    <authority>Civil War Washington</authority>
+    <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor><name>Center for Digital Research in the
+     Humanities</name><address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address></distributor>
+    <date>2011</date>
+    <availability>
+     <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+      republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+      law, requires express written consent from the editors and advance notification of the
+      publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+     <persName xml:id="mb">Matthew Bosley</persName>
+     <persName xml:id="el">Elizabeth Lorang</persName> 
+     <persName xml:id="sb">Stacey Berry</persName>
+     <persName xml:id="et">Elisabeth Tracey</persName>
+     <persName xml:id="ss">Sarah Synovec</persName>
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title level="j">The Medical and Surgical History of the War of the Rebellion.
+      (1861-65.)</title><pubPlace>Washington, DC</pubPlace><publisher>Government Printing
+      Office</publisher><biblScope type="part">Part 3</biblScope><biblScope type="volume">Volume
+      2</biblScope><date when="1883">1883</date><biblScope type="page">8</biblScope></bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+     <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <keywords scheme="#medsurg">
+     <term>wounds and injuries of the lower extremities</term>                                                                 
+     <term>flesh wounds of the lower extremities</term>
+     <term>punctured and incised wounds</term>
+     <term>other punctured and incised wounds</term>
+     <term>amputations</term>
+     <term>wound by axe</term>  
+     <term>wound involved tarsus and metatarsus</term>
+     <term>wound erysipelatous, then gangrene supervened</term>
+     <term>amputated at junction of middle and lower thirds of femur</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change who="#mb" when="2012-01-30">additional proofing of transcription and encoding</change>               
+   <change who="#el" when="2011-05-11">case text extracted and transformed from larger file</change>
+   <change who="#sb" when="2011-06-04">Enrich Encoding, Edit and validate</change>
+   <change who="#sb" when="2011-01-28">Validated File</change>
+   <change who="#ss" when="2008-09-22">Sarah Synovec initial checking of OCR text; encoded
+    P5 Encoding</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   
+   <p> <hi rend="initialcap">C</hi>ASE 9.&#8212;<name type="person" key="xxx">Private T. H. Breckridge</name>, <name type="organization" key="xxx">Co. C, 6th New York Artillery</name>, received a wound by an axe in <date type="injury" when="1864-03">March, 1864</date>, and was sent to <name type="hospital" key="171">Armory Square Hospital</name>. <name type="person" key="123">Surgeon D. W. Bliss</name>, <name type="organization" key="132">U. S. V.</name>, reported that the wound involved the right tarsus
+    and metatarsus, and presently became erysipelatous, and that gangrene then supervened. On this account, on <date type="operation" when="1864-05-27">May 27th</date>, <name type="person" key="123">Dr.
+    Bliss</name> amputated the limb, at the junction of the middle and lower thirds of the femur, by antero-posterior flaps formed by
+    transfixion. Recovery was satisfactory. On <date type="operation" when="1864-12-28">December 28, 1864</date>, he was supplied with an artificial limb at Ladies Home, <name type="place">New
+     York</name>, by <name type="person" key="xxx">Dr. E. D. Hudson</name>, at Government expense. The stump was then soundly healed, and &#34;creditable&#34; in shape. This
+    soldier was discharged <date type="servicedischarge" when="1865-07-12">July 12, 1865</date>, and pensioned. His pension was paid <date type="pension" when="1876-03-04">March 4, 1876</date>. </p>
+   
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d2e31265">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Harrington, M.</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+       <idno>med.d2e31265</idno>
+       <authority>Civil War Washington</authority>
+       <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor>
+       <name>Center for Digital Research in the Humanities</name>
+       <address><addrLine>319 Love Library</addrLine>
+       <addrLine>University of Nebraska–Lincoln</addrLine>
+       <addrLine>Lincoln, NE 68588-4100</addrLine>
+       <addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+    </distributor>
+    <date>2011</date>
+    <availability>
+        <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+         republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+         law, requires express written consent from the editors and advance notification of the
+         publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+     <persName xml:id="mb">Matthew Bosley</persName>
+     <persName xml:id="tw">Trevor Wilke</persName>       
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl>
+     <title level="j">The Medical and Surgical History of the War of the Rebellion. (1861-65.)</title>
+     <pubPlace>Washington, DC</pubPlace>
+     <publisher>Government Printing Office</publisher>
+     <biblScope type="part">Part 2</biblScope>
+     <biblScope type="volume">Volume 2</biblScope>
+     <date when="1876">1876</date>
+     <biblScope type="page">924</biblScope>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+       <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+      <keywords scheme="#medsurg">
+       <term>wounds and injuries of the upper extremities</term>
+       <term>wounds and operations in the forearm</term>
+       <term>shot wounds of the forearm</term> 
+       <term>shot fractures of the forearm</term>
+       <term>shot fractures of the forearm treated by expectation</term> 
+       <term>fractures involving both bones of the forearm</term>
+       <term>recoveries under expectant treatment</term>
+       <term>shot trying to escape from guard-house</term> 
+       <term>compound comminuted gunshot fracture of radius and ulna</term>
+       <term>ball entered about junction of middle and lower thirds, emerged middle third</term>
+       <term>gunshot fracture of both hones of forearm</term>       
+     </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change who="#mb" when="2012-07-16">additional proofing of transcription and encoding, identified keyword terms</change>
+   <change who="#tw" when="2011-02-22">checked OCR; added minimal mark-up for personal names, place names, and dates</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>   
+   <p><hi rend="initialcap">C</hi>ASE 1863.&#8212;<name type="person" key="xxx">Private M. Harrington</name>, <name type="organization" key="xxx">Co. K, 5th Cavalry</name>, aged 20 years, was shot by a guard while trying to escape from the guard-house in camp at <name type="place" key="#Washington">Washington</name>, <date type="injury" when="1865-11-17">November 17, 1865</date>. On <date type="admit" when="1865-11-18">the following day</date> he was admitted to <name type="hospital" key="173">Harewood Hospital</name>, whence <name type="person" key="158">Surgeon R. B. Bontecou</name>, <name type="organization" key="132">U. S. V.</name>, reported: &#34;Compound comminuted gunshot fracture of radius and ulna, a mini&#233; ball entering externally, about the junction of middle and lower thirds, passing through in an upward direction, and emerging on inner side, at middle third. Numerous pieces of bone were removed at different times, and on <date type="operation" when="1865-12-02">December 2d</date> one-half of the ball was taken away.  The treatment was supporting and the wound did well. Patient transferred to post hospital <date type="transfer" when="1866-05-01">May 1, 1866</date>.&#34;  <name type="person" key="200">Assistant Surgeon W. Thomson</name>, <name type="organization" key="190">U. S. A.</name>, reported the soldier's admission to the latter hospital with &#34;gunshot fracture of both hones of left forearm,&#34; and his return to his company for duty <date type="duty" when="1866-08-06">August 6, 1866</date>. This man is not a pensioner.</p>   
+  </body>
+ </text>
+</TEI>

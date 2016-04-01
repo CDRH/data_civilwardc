@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e11632">
+        <teiHeader>
+                <fileDesc>
+                        <titleStmt>
+                                <title level="m" type="main">McCall, Gideon</title>
+                                <title level="m" type="sub">a machine readable transcription</title>
+                                <principal>Susan C. Lawrence</principal>
+                                <principal>Kenneth M. Price</principal>
+                                <principal>Kenneth J. Winkle</principal>
+                        </titleStmt>
+                        <editionStmt>
+                                <edition>
+                                        <date>2011</date>
+                                </edition>
+                        </editionStmt>
+                        <publicationStmt>
+                                <idno>med.d1e11632</idno>
+                                <authority>Civil War Washington</authority>
+                                <publisher>University of Nebraska–Lincoln</publisher>
+                                <distributor>
+                                        <name>Center for Digital Research in the Humanities</name>
+                                        <address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+                                </distributor>
+                                <date>2011</date>
+                                <availability>
+                                        <p>Copyright © 2011 by University of Nebraska–Lincoln, all
+                                                rights reserved. Redistribution or republication in
+                                                any medium, except as allowed under the Fair Use
+                                                provisions of U.S. copyright law, requires express
+                                                written consent from the editors and advance
+                                                notification of the publisher, the University of
+                                                Nebraska–Lincoln.</p>
+                                </availability>
+                        </publicationStmt>
+                        <notesStmt>
+                                <note type="project">The following are responsible for particular readings or for changes to this file, as noted: 
+                                        <persName xml:id="mb">Matthew Bosley</persName>
+                                        <persName xml:id="el">Elizabeth Lorang</persName>
+                                        <persName xml:id="sb">Stacey Berry</persName>
+                                        <persName xml:id="et">Elisabeth Tracey</persName>
+                                </note>
+                        </notesStmt>
+                        <sourceDesc>
+                                <bibl>
+                                        <title level="j">The Medical and Surgical History of the War of the Rebellion</title>
+                                        <pubPlace>Washington, DC</pubPlace>
+                                        <publisher>Government Printing Office</publisher>
+                                        <biblScope type="part">Part 3</biblScope>
+                                        <biblScope type="volume">Volume 1</biblScope>
+                                        <date when="1888">1888</date>
+                                        <biblScope type="page">878-879</biblScope>
+                                </bibl>
+                        </sourceDesc>
+                </fileDesc>
+                <encodingDesc>
+                        <classDecl>
+                                <taxonomy xml:id="medsurg">
+                                        <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+                                </taxonomy>
+                        </classDecl>
+                </encodingDesc>
+                <profileDesc>
+                        <textClass>
+                                <keywords scheme="#medsurg">
+                                        <term>on certain local diseases</term>
+                                        <term>jaundice</term>
+                                        <term>acute inflammation of the liver</term>
+                                        <term>fatal cases probably terminated in suppuration</term> 
+                                        <term></term>
+                                        <term>admitted with gunshot wounds of the hand, side, and hip</term>
+                                        <term>liver contained multiple abscesses</term>
+                                        <term>mulatto of good character and steady habits</term>
+                                        <term>sunk into typhoid condition</term>
+                                        <term>chronic diarrh&#339;a, sometimes decomposed blood</term>
+                                        <term>post-mortem examination performed</term>
+                                        <term>liver contained thirteen large abscesses</term>
+                                </keywords>
+                        </textClass>
+                </profileDesc>
+                <revisionDesc>
+                        <change who="#mb" when="2013-05-09">additional proofing of transcription and encoding, edited and added keyword terms</change>
+                        <change who="#mb" when="2013-02-26">additional proofing of transcription and encoding, edited and added keyword terms</change>
+                        <change who="#mb" when="2011-07-15">additional proofing of transcription and encoding</change>
+                        <change who="#el" when="2011-05-11">case text extracted and transformed from larger file</change>
+                        <change who="#sb" when="2011-02-23">Encoding and Proofing</change>
+                        <change who="#et" when="2009-12-01">Initial Checking OCR Text to PDF file,</change>
+                </revisionDesc>
+        </teiHeader>
+        <text>
+                <body>                        
+                        <p> <hi rend="initialcap">C</hi>ASE 7.&#8212;<name type="person">Corp'l Gideon McCall</name>, <name type="organization">Co. C, 31st Colored
+                                Troops</name>; age 36; was admitted <date type="admit" when="1864-08-09">Aug. 9, 1864</date>, with gunshot
+                                        wounds of the left hand, side and hip.  The patient was a mulatto of good character and steady habits.  Shortly after
+                                        his enlistment, in <date type="injury" when="1864-01">January, 1864</date>, he was attacked with a
+                                        diarrh&#339;a of dark-colored stools, which continued with occasional intermissions until the date of his admission for
+                                        gunshot injury. His wounds healed kindly and his bowels, although sometimes loose, were easily controlled.  About <date type="injury" when="1864-09-20">September 20</date> the
+                                        intestinal discharges became frequent and thin and seemed to contain decomposed blood; but under treatment he
+                                        improved rapidly and appeared to be in a fair way to recovery. This favorable condition lasted only three or
+                                        four days. Troublesome hiccough supervened and the patient began to sink into a typhoid condition.  He died <date type="death" when="1864-10-08">October 8</date>.  <hi rend="italic">Post-mortem</hi> examination: The liver contained thirteen large abscesses,&#8212;[<hi rend="italic">Specimen</hi> 447, Med. Sec., <name type="hospital" key="431">Army Medical Museum</name>].  The large and small intestines were examined with care, but no ulceration was discovered nor was there any evidence that bony tissue was involved in the gunshot injury.&#8212;<hi rend="italic"><name type="person" key="134">Surgeon E. Bentley</name>, <name type="organization" key="132">U. S. Vols.</name>, <name type="hospital" key="210">L'Ouverture Hospital</name>, <name type="place">Alexandria, Va.</name></hi> </p>     
+                </body>
+        </text>
+</TEI>

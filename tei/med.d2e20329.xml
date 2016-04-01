@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d2e20329">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Vermilyea, L.</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+    <idno>med.d2e20329</idno>
+    <authority>Civil War Washington</authority>
+    <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor><name>Center for Digital Research in the
+     Humanities</name><address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address></distributor>
+    <date>2011</date>
+    <availability>
+     <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+      republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+      law, requires express written consent from the editors and advance notification of the
+      publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+ <persName xml:id="kw">Kenneth Winkle</persName> <persName xml:id="ajh">AJ Howell</persName>
+     <persName xml:id="mb">Matthew Bosley</persName>
+     <persName xml:id="el">Elizabeth Lorang</persName>
+     <persName xml:id="sb">Stacey Berry</persName>
+     <persName xml:id="et">Elisabeth Tracey</persName>
+     <persName xml:id="ss">Sarah Synovec</persName>
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title level="j">The Medical and Surgical History of the War of the Rebellion.
+      (1861-65.)</title><pubPlace>Washington, DC</pubPlace><publisher>Government Printing
+      Office</publisher><biblScope type="part">Part 3</biblScope><biblScope type="volume">Volume
+      2</biblScope><date when="1883">1883</date><biblScope type="page">528</biblScope></bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+     <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <keywords scheme="#medsurg">
+     <term>wounds and injuries of the lower extremities</term>
+     <term>wounds and operations in the leg</term>
+     <term>shot fractures of the bones of the leg</term>
+     <term>amputations in the continuity of the leg for shot fractures</term>
+     <term>intermediary amputations in the continuity of the leg for shot injury</term>
+     <term>intermediary amputations in the lower third of the leg for shot injury</term>
+     <term>recoveries after intermediary amputations in the lower third of the leg</term>
+     <term>bullet wound with fracture of ankle joint</term>
+     <term>ball entered lower extremity of tibia anteriorly, fracturing tibia into joint and
+      upwards</term>
+     <term>suppuration in foot and extended to muscle of calf</term>
+     <term>amputation of lower third of leg</term>
+     <term>tibia fractured by round ball, ball lodged just above ankle</term>
+     <term>abscesses on stump and posterior aspect of leg</term>
+     <term>neuralgic pains</term>
+     <term>furnished with artificial limb</term>
+     <term>general anesthesia, ether</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+ <change who="#kw" when="2014-05">blessed</change>
+   <change who="#ajh" when="2013-08-23">added figure encoding</change>
+   <change who="#mb" when="2012-06-11">additional proofing of transcription and encoding, identified
+    keyword terms</change>
+   <change who="#el" when="2011-05-11">case text extracted and transformed from larger file</change>
+   <change who="#sb" when="2011-06-04">Enrich Encoding, Edit and validate</change>
+   <change who="#sb" when="2011-01-28">Validated File</change>
+   <change who="#ss" when="2008-09-22">initial checking of OCR text; encoded P5 Encoding</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p><hi rend="initialcap">C</hi>ASE 772.&#8212;<name type="person" key="1307">Private L.
+     Vermilyea</name>, <name type="organization" key="501">Co. K, 91st New York</name>, aged 21
+    years, was wounded at <name type="BATTLE" key="43">Gravelly Run</name>, <date type="injury"
+     when="1865-03-31">March 31, 1865</date>. He was conveyed to the field hospital of the 3d
+    division, Fifth Corps, whence <name type="person" key="xx">Surgeon A. S. Coe</name>, <name
+     type="organization" key="88">147th New York</name>, reported "a bullet wound with fracture of
+    left ankle joint." <name type="person" key="74">Surgeon A. F.Sheldon</name>, <name
+     type="organization" key="132">U. S. V.</name>, reported the following description and result of
+    the injury: "A musket ball entered the lower extremity of the tibia anteriorly, fracturing it
+    into the joint and upwards for four inches. The wounded man was admitted to <name
+     type="hospital" key="174">Campbell Hospital</name> at Washington, <date type="admit"
+     when="1865-04-06">six days after the injury</date>. Suppuration set in about the wounded foot
+    and extended to the muscle of the calf and the patient suffered considerable fever and
+    irritation of the system. On <date type="operation" when="1865-04-11">April 11th</date>,
+    circular amputation of the lower third of the leg was performed by <name type="person"
+     key="1306">Assistant Surgeon A. Delany</name>, <name type="organization" key="132">U. S.
+     V.</name>, the operation being attended with the usual amount of h&#230;morrhage and three
+    ligatures being applied. An&#230;sthesia was produced by sulphuric ether. The patient did well
+    after the operation, and was discharged from service <date type="servicedischarge"
+     when="1865-06-19">June 19, 1865</date>." Several months later he was furnished with an
+    artificial limb by the <name type="organization" key="xx">Salem Leg Company</name>. The
+    amputated portions of the bones of the leg (<hi rend="italic">Spec</hi>. 4054) were contributed
+    to <name type="hospital" key="431">the Museum</name> by <name type="person" key="1306">the
+     operator</name> and are represented in the annexed wood-cut (<hi rend="initialcap">F</hi>IG.
+    305), showing the tibia to be fractured by a round ball, which is lodged just above the ankle,
+    fissuring into it. In his first application for commutation, dated <date type="pension"
+     when="1870">1870</date>, the pensioner represented the stump as being in a sound condition, but
+    in subsequent statements he reported it as troublesome. The <name type="organization" key="xx"
+     >Albany Examining Board</name>, on <date type="pension" when="1879-02-05">February 5th,
+     1879</date>. certified to the amputation, and stated that "the stump is tender and abscesses
+    occasionally form on the posterior aspect of the leg, more especially if an artificial limb is
+    worn for a few weeks at a time. The pensioner also states that he has neuralgic pains and is now
+    and then laid up for from one to three weeks." The pensioner was paid <date type="pension"
+     when="1880-06-04">June 4, 1880</date>. </p>
+   <figure>
+    <graphic url="cww.001641.001"/>
+    <head><hi rend="initialcap">F</hi>IG. 305&#8212;Lower extremities of bones of left leg; the ball
+     lodged in tibia. <hi rend="italic">Spec</hi>. 4054.</head>
+   </figure>
+  </body>
+ </text>
+</TEI>

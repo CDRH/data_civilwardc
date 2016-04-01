@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d2e31739">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">H&#8212;&#8212;, H. C.</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+       <idno>med.d2e31739</idno>
+       <authority>Civil War Washington</authority>
+       <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor>
+       <name>Center for Digital Research in the Humanities</name>
+       <address><addrLine>319 Love Library</addrLine>
+       <addrLine>University of Nebraska–Lincoln</addrLine>
+       <addrLine>Lincoln, NE 68588-4100</addrLine>
+       <addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+    </distributor>
+    <date>2011</date>
+    <availability>
+        <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+         republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+         law, requires express written consent from the editors and advance notification of the
+         publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+ <persName xml:id="kmp">Kenneth M. Price</persName> 
+     <persName xml:id="mb">Matthew Bosley</persName>
+     <persName xml:id="kk">Kourtney Klein</persName>
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl>
+     <title level="j">The Medical and Surgical History of the War of the Rebellion. (1861-65.)</title>
+     <pubPlace>Washington, DC</pubPlace>
+     <publisher>Government Printing Office</publisher>
+     <biblScope type="part">Part 2</biblScope>
+     <biblScope type="volume">Volume 2</biblScope>
+     <date when="1876">1876</date>
+     <biblScope type="page">173</biblScope>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+       <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+      <keywords scheme="#medsurg">
+       <term>injuries of the abdomen</term>
+       <term>penetrating wounds of the abdomen</term>
+       <term>wounds of the supra-renal capsules</term>
+       <term>ball wound below inferior angle of scapula, entered pleural cavity, no exit wound</term>
+       <term>py&#230;mia</term> 
+       <term>ball penetrated thoracic and abdominal cavities</term>
+       <term>central portion of ninth rib broken off and driven into substance of lung</term>
+       <term>ball penetrated lung and diaphragm, found encysted in supra-renal capsule over kidney</term>
+       <term>h&#230;mothorax</term>
+       <term>autopsy performed</term>       
+     </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+ <change who="#kmp" when="2014-05">blessed</change>
+   <change who="#kk" when="2014-01-17">added figure encoding</change>
+   <change who="#mb" when="2012-08-29">copied case from MSHWR, added proofing of transcription and encoding, identified keyword terms</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body> 
+   <p><hi rend="initialcap">C</hi>ASE 562.&#8212;<name type="person" key="xxx">Private H. C. H&#8212;&#8212;</name>, <name type="organization" key="xxx">Co. B. 1st Maine Heavy Artillery</name>, wounded at <name type="BATTLE" key="12">the Wilderness</name>, <date type="injury" when="1864-05-06">May 6, 1864</date>, was sent to <name type="place" key="#Washington">Washington</name>, and entered <name type="hospital" key="176">Lincoln Hospital</name> on <date type="admit" when="1864-05-26">May 26th</date>.  The symptoms are described only on the 30th and on June 2d:  &#34;A musket-ball wound, one inch below the inferior angle of the left scapula, enters the pleural cavity; there is no exit wound; the patient is very weak; the wound is unhealthy in appearance; a probe passes readily for a long distance through the wound; there is py&#230;mia; the respiration is hurried; there is considerable <choice><orig>dulness</orig><reg>dullness</reg></choice> on percussion over the left side; several sequestr&#230; were removed from the scapula.&#34;  On June 2d, there was &#34;bloody oozing from orifice of the wound; no h&#230;morrhage from the mouth or bowels.  Death, <date type="death" when="1864-06-03">June 3, 1864</date>, twenty-eight days after the reception of the wound.  At the autopsy &#34;a central portion of the ninth left rib, about two and three-fourths inches long (<hi rend="initialcap">F</hi>IG. 130), was found broken off and driven into the substance of the left lung, having become firmly adherent to the lung by fibrinous bands (<hi rend="initialcap">F</hi>IG. 131). The ball penetrated the left lung and diaphragm and was found flattened but concealed, because entirely encysted in the supra-renal capsule over the left kidney.&#34;  It is erroneously stated in the minute in the <hi rend="italic">First Surgical Volume</hi> that the ball penetrated both pleural cavities. The thoracic and abdominal were the two cavities penetrated. The lower lobe of the left lung was partly hepatized, partly carnified. The pulmonary and costal pleur&#230; were greatly thickened by profuse layers of lymph and false membrane. There had been h&#230;mothorax, and the level of the dark decomposing grumous fluid was mapped out by stains on the serous sac (<hi rend="initialcap">F</hi>IG. 131). The fragment of rib driven in upon the lung exactly supplies the loss of substance from the shaft of the bone.  The three specimens were forwarded to <name type="hospital" key="431">the Museum</name> by <name type="person" key="243">J. Cooper McKee</name>, with the following memorandum: "Specimen 2423 exhibits the two extreme portions of the fractured rib; 2424 shows the middle portion of the rib attached to the left lung, which it has penetrated; 2425 is the upper part of the kidney with the supra-renal capsule, containing the ball itself, yet undisturbed. The ball penetrated the left lung and diaphragm and was found flattened and concealed, because entirely encapsulated in the supra-renal body."</p>  
+   
+   <figure>
+    <graphic url="cww.001776.001" />
+    <head><hi rend="initialcap">F</hi>IG. 129.&#8212;Section of the left kidney, with a colloidal musket ball lodged in the supra-renal capsule.   <hi rend="italic">Spec</hi>. 2425, A. M. M.</head>
+   </figure>
+   
+   <figure>
+    <graphic url="cww.001780.001" />
+    <head><hi rend="initialcap">F</hi>IG. 130.&#8212;Section of ninth right rib, from which more than two inches of the body of the bone were driven into the left lung by a conoidal musket ball.    <hi rend="italic">Spec</hi>. 2423.    [Half-size.]</head>
+   </figure>  
+   
+   <figure>
+    <graphic url="cww.001781.001" />
+    <head><hi rend="initialcap">F</hi>IG. 131.&#8212;Left lung, with a portion of the ninth rib embedded in it. The thickened pleura is cut away to expose the cavity in which altered blood was effused.    <hi rend="italic">Spec</hi>. 2424.</head>
+   </figure>
+   
+  </body>
+ </text>
+</TEI>

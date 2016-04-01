@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e40919">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">McDonald, Daniel</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+       <idno>med.d1e40919</idno>
+       <authority>Civil War Washington</authority>
+       <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor>
+       <name>Center for Digital Research in the Humanities</name>
+       <address><addrLine>319 Love Library</addrLine>
+       <addrLine>University of Nebraska–Lincoln</addrLine>
+       <addrLine>Lincoln, NE 68588-4100</addrLine>
+       <addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+    </distributor>
+    <date>2011</date>
+    <availability>
+        <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+         republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+         law, requires express written consent from the editors and advance notification of the
+         publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+     <persName xml:id="mb">Matthew Bosley</persName>
+     <persName xml:id="el">Elizabeth Lorang</persName>
+     <persName xml:id="sb">Stacey Berry</persName>
+     <persName xml:id="ao">Alyssa Olson</persName>
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl>
+     <title level="j">The Medical and Surgical History of the War of the Rebellion. (1861-65.)</title>
+     <pubPlace>Washington, DC</pubPlace>
+     <publisher>Government Printing Office</publisher>
+     <biblScope type="part">Part 2</biblScope>
+     <biblScope type="volume">Volume 1</biblScope>
+     <date when="1879">1879</date>
+     <biblScope type="page">152-153</biblScope>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+       <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+      <keywords scheme="#medsurg">
+       <term>diarrh&#339;a and dysentery</term>
+       <term>fatal cases of diarrh&#339;a and dysentery, with accounts of the morbid appearances observed</term>
+       <term>from the Douglas Hospital, Washington, D. C.</term>
+       <term>abdomen tender over transverse and descending colon</term>
+       <term>chronic dysentery</term>
+       <term>bronchitis</term>
+       <term>peritoneum reddened</term>
+       <term>recto-vesical cul-de-sac filled with thin pus</term>
+       <term>colon presents follicular ulcers and somewhat extensive erosions</term>
+       <term>lung apices presented dense fibrinous bands resembling cicatrices and contained cretefied tubercles, some hard and others of more cheesy</term>
+       <term>cul-de-sac projected from ileum opposite mesenteric attachment above ileoc&#230;cal valve</term>
+       <term>large intestine presented follicular ulcers and extensive erosions, ulcers most extensive and numerous near rectum</term>
+       <term>conjunctiv&#230; tinged with yellow</term>       
+       <term>autopsy performed</term>       
+     </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change who="#mb" when="2012-10-24">additional proofing of transcription and encoding, identified keyword terms</change>
+   <change who="#el" when="2010-11-05">case text extracted and transformed from larger file</change>
+   <change who="#sb" when="2010-05-01">enrich encoding, proof and edit</change>
+   <change who="#ao" when="2008-10-02">encoding and editing</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body> 
+   <p>Case from the case-book and medical descriptive lists of the <name type="hospital" key="162"><hi rend="initialcap">D</hi>OUGLAS <hi rend="initialcap">H</hi>OSPITAL</name>, Washington, D. C., <name type="person" key="200">Assistant Surgeon William Thomson</name>, <name type="organization" key="190">U. S. A.</name>, in charge from February, 1863, to September, 1864, and after September, 1865:</p>                   
+   <p><hi rend="initialcap">C</hi>ASE 316.&#8212;<name type="person" key="225">Private Daniel McDonald</name>, <name type="organization" key="165">company F, 39th Massachusetts volunteers</name>; admitted from the <name type="organization" key="377">army of the Potomac</name> <date type="admit" when="1864-09-09">September 9, 1864</date>.  Chronic dysentery.  He stated that he had suffered from frequent attacks of diarrh&#339;a during the summer, and that for the last three weeks he had been in field hospital with a severe attack of dysentery. During the summer he also bad an attack of intermittent fever.  [This man appears on the register of the hospital of the 1st Division, 2d Corps, as admitted <date type="admit" when="1864-08-09">August 9th</date>&#8212;diarrh&#339;a; no disposition is recorded. He is borne on the register of the depot hospital of the same division, <name type="place">City Point, Virginia</name>, as admitted <date type="admit" when="1864-08-13">August 13th</date>&#8212;intermittent fever&#8212;sent to general hospital <date type="transfer" when="1864-09-08">September 8th</date>.]  He is now emaciated and feeble; conjunctiv&#230; tinged with yellow; tongue furred; pulse 80. The abdomen is flat and tender to the touch, especially over the transverse and descending colon; he has also a slight bronchitis. His dysentery was partially controlled by astringents and a proper diet, and he was apparently doing well until September 29th, when he was seized with nausea, vomiting, and increased tenderness in the abdomen. From this time he sank rapidly, his pulse became feeble, his skin cool, and he died <date type="death" when="1864-09-30">September 30th</date>, at 10 A. M.  <hi rend="italic">Autopsy</hi> <date type="autopsy" when="1864-09-30">four hours after death</date>: Rigor mortis well marked. Both lungs were firmly adherent to the sides of the thorax; their apices presented several dense fibrinous bands resembling cicatrices, and contained a number of cretefied tubercles, some of which were quite hard, others of a more cheesy consistence. The heart was healthy. The external surface of both large and small intestine was covered with a yellow croupous lymph, beneath which the peritoneum was slightly reddened. The recto-vesical cul-de-sac was filled with a thin yellowish-green pus, and there was a patch of lymph of considerable size on the fundus of the bladder. The small intestine was normal, except that a large cul-de-sac projected from the ileum, opposite its mesenteric attachment, about sixteen inches above the ileoc&#230;cal valve. The large intestine was much thickened, and presented both follicular ulcers and extensive ragged erosions; the ulcers were very irregular in size and shape, and were most extensive and numerous near the rectum. The liver, spleen, and kidneys were healthy.&#8212;<name type="person" key="201">Assistant Surgeon William F. Norris</name>, <name type="organization" key="190">U. S. A.</name>&#8212;[No. 400, Medical Section, <name type="hospital" key="431">Army Medical Museum</name>, is from this case. The specimen is a portion of the colon, which presents a few follicular ulcers and a number of somewhat extensive erosions.]</p>  
+  </body>
+ </text>
+</TEI>

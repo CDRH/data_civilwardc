@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e11762">
+        <teiHeader>
+                <fileDesc>
+                        <titleStmt>
+                                <title level="m" type="main">Fitzgerald, Walter</title>
+                                <title level="m" type="sub">a machine readable transcription</title>
+                                <principal>Susan C. Lawrence</principal>
+                                <principal>Kenneth M. Price</principal>
+                                <principal>Kenneth J. Winkle</principal>
+                        </titleStmt>
+                        <editionStmt>
+                                <edition>
+                                        <date>2011</date>
+                                </edition>
+                        </editionStmt>
+                        <publicationStmt>
+                                <idno>med.d1e11762</idno>
+                                <authority>Civil War Washington</authority>
+                                <publisher>University of Nebraska–Lincoln</publisher>
+                                <distributor>
+                                        <name>Center for Digital Research in the Humanities</name>
+                                        <address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+                                </distributor>
+                                <date>2011</date>
+                                <availability>
+                                        <p>Copyright © 2011 by University of Nebraska–Lincoln, all
+                                                rights reserved. Redistribution or republication in
+                                                any medium, except as allowed under the Fair Use
+                                                provisions of U.S. copyright law, requires express
+                                                written consent from the editors and advance
+                                                notification of the publisher, the University of
+                                                Nebraska–Lincoln.</p>
+                                </availability>
+                        </publicationStmt>
+                        <notesStmt>
+                                <note type="project">The following are responsible for particular readings or for changes to this file, as noted: 
+                                        <persName xml:id="mb">Matthew Bosley</persName>
+                                        <persName xml:id="el">Elizabeth Lorang</persName>
+                                        <persName xml:id="sb">Stacey Berry</persName>
+                                        <persName xml:id="et">Elisabeth Tracey</persName>
+                                </note>
+                        </notesStmt>
+                        <sourceDesc>
+                                <bibl>
+                                        <title level="j">The Medical and Surgical History of the War of the Rebellion</title>
+                                        <pubPlace>Washington, DC</pubPlace>
+                                        <publisher>Government Printing Office</publisher>
+                                        <biblScope type="part">Part 3</biblScope>
+                                        <biblScope type="volume">Volume 1</biblScope>
+                                        <date when="1888">1888</date>
+                                        <biblScope type="page">890</biblScope>
+                                </bibl>
+                        </sourceDesc>
+                </fileDesc>
+                <encodingDesc>
+                        <classDecl>
+                                <taxonomy xml:id="medsurg">
+                                        <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+                                </taxonomy>
+                        </classDecl>
+                </encodingDesc>
+                <profileDesc>
+                        <textClass>
+                                <keywords scheme="#medsurg">
+                                        <term>certain diseases not heretofore discussed</term>
+                                        <term>poisoning</term>
+                                        <term>poisoning by deadly drugs</term>
+                                        <term>fatal cases resulted apparently from opium taken by mistake or with suicidal intent</term> 
+                                        <term>miliary tubercles in upper lobe of lung</term>
+                                        <term>admitted with rheumatic affection</term>
+                                        <term>membranes of brain contained bloody serum</term>
+                                        <term>liver enlarged and fatty</term>
+                                        <term>kidneys fatty, one half usual size</term>
+                                        <term>aortic valves presented cartilaginous deposits</term>
+                                </keywords>
+                        </textClass>
+                </profileDesc>
+                <revisionDesc>
+                        <change who="#mb" when="2011-07-20">additional proofing of transcription and encoding</change>                        
+                        <change who="#el" when="2011-05-11">case text extracted and transformed from larger file</change>
+                        <change who="#sb" when="2011-02-23">Encoding and Proofing</change>
+                        <change who="#et" when="2009-12-01">Initial Checking OCR Text to PDF file,</change>
+                </revisionDesc>
+        </teiHeader>
+        <text>
+                <body>                        
+                        <p> <hi rend="initialcap">C</hi>ASE 1.&#8212;<name type="person">Private Walter Fitzgerald</name>, <name type="organization">Co. H., 4th V.R. Corps</name>; age 68; was admitted <date type="admit" when="1865-06-14">June 14, 1865</date>, with a rheumatic affection, from which he so far
+                                        recovered as to be able to evade the guard and keep himself
+                                        supplied with whiskey. On August 6 he had a slight attack
+                                        of delirium which confined him to bed for some days, and on
+                                        the 21st a more severe recurrence.  At 9.40 P. M. of <date type="injury" when="1865-08-22">the 22d</date>
+                                        it was found that one ounce of laudanum had been
+                                        administered by mistake: he was insensible, but could be
+                                        aroused by shaking; pupils much contracted, pulse 150;
+                                        respiration 10; skin pale and warm; hands like a
+                                        washerwoman's. Eight grains of extract of belladonna were at
+                                        once given and the patient was kept aroused by the galvanic
+                                        battery and friction. At 10.30 the pupils began to dilate;
+                                        pulse 144; respiration 10 when in repose, 14 when aroused; the skin seemed regaining its color and the face and hands
+                                        were nearly natural. Half an hour later four grains of the
+                                        extract of belladonna were administered, under the influence
+                                        of which the dilatation of the pupils continued and the
+                                        respiration became more frequent, 17; pulse 144; but the
+                                        drowsiness increased, and the skin became cooler and assumed
+                                        a blue color. Whiskey and carbonate of ammonia were given by
+                                        enema.  He lived until 5 P. M. of <date type="death" when="1865-08-23">the next day</date>.  Artificial
+                                        respiration was attempted.   <hi rend="italic">Post-mortem</hi> examination: Rigor
+                                        mortis slight. The membranes of the brain contained three
+                                        ounces and a half of bloody serum and the lateral ventricles
+                                        half an ounce, the choroid plexus of each being enlarged;
+                                        the cavernous portion of the right internal carotid
+                                        contained a long fibrinous clot; the superficial cerebral
+                                        veins were engorged. The lungs presented some old
+                                        adhesions,&#8212;the right was congested, the left had
+                                        a small vomica in its apex and miliary tubercles in its
+                                        upper lobe. The heart was flabby and contracted; it
+                                        contained fibrinous clots which extended into the great
+                                        vessels; one of the aortic valves presented a
+                                        cartilaginous deposit about the size of a small pea,
+                                        another showed a harder deposit, the third was healthy. The
+                                        &#339;sophagus was red; the stomach normal; the liver enlarged
+                                        and fatty; the gall-bladder distended; the spleen shrunken
+                                        and flabby; the kidneys fatty,&#8212;the left of
+                                        normal size, the right half the usual size and nodulated.&#8212;<hi rend="italic"><name type="hospital" key="162">Douglas Hospital</name>, Washington, D. C.</hi> </p>                        
+                </body>
+        </text>
+</TEI>

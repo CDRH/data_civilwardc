@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e40974">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Ames, Hiram H.</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+       <idno>med.d1e40974</idno>
+       <authority>Civil War Washington</authority>
+       <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor>
+       <name>Center for Digital Research in the Humanities</name>
+       <address><addrLine>319 Love Library</addrLine>
+       <addrLine>University of Nebraska–Lincoln</addrLine>
+       <addrLine>Lincoln, NE 68588-4100</addrLine>
+       <addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+    </distributor>
+    <date>2011</date>
+    <availability>
+        <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+         republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+         law, requires express written consent from the editors and advance notification of the
+         publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+     <persName xml:id="mb">Matthew Bosley</persName>
+     <persName xml:id="el">Elizabeth Lorang</persName>
+     <persName xml:id="sb">Stacey Berry</persName>
+     <persName xml:id="ao">Alyssa Olson</persName>
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl>
+     <title level="j">The Medical and Surgical History of the War of the Rebellion. (1861-65.)</title>
+     <pubPlace>Washington, DC</pubPlace>
+     <publisher>Government Printing Office</publisher>
+     <biblScope type="part">Part 2</biblScope>
+     <biblScope type="volume">Volume 1</biblScope>
+     <date when="1879">1879</date>
+     <biblScope type="page">157</biblScope>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+       <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+      <keywords scheme="#medsurg">
+       <term>diarrh&#339;a and dysentery</term>
+       <term>fatal cases of diarrh&#339;a and dysentery, with accounts of the morbid appearances observed</term>
+       <term>from Lincoln Hospital, Washington, D. C.</term>
+       <term>chronic diarrh&#339;a for six months</term>
+       <term>effusion in subarachnoid space, veins of pia mater full</term>
+       <term>circumscribed condensations of tissue, apparently result of inflammation, throughout lung</term>
+       <term>mesenteric glands large</term>
+       <term>large number of ulcers throughout large intestine</term>
+       <term>mucous surface of rectum with honeycombed appearance, coated with gray pseudomembrane</term>
+       <term>lower third of jejunum and ileum red, small intestine walls extremely thin; just .</term>
+       <term>redness more intense above ileoc&#230;cal valve, gray patches of pseudomembrane adhered to surface</term>
+       <term>mucous surface of colon had adherent patches of pseudomembrane and follicular ulcers</term>       
+       <term>autopsy performed</term>       
+     </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change who="#mb" when="2012-10-29">additional proofing of transcription and encoding, identified keyword terms</change>
+   <change who="#el" when="2010-11-05">case text extracted and transformed from larger file</change>
+   <change who="#sb" when="2010-05-01">enrich encoding, proof and edit</change>
+   <change who="#ao" when="2008-10-02">encoding and editing</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body> 
+   <p>Case from the case-book of <name type="hospital" key="176"><hi rend="initialcap">L</hi>INCOLN <hi rend="initialcap">H</hi>OSPITAL</name>, Washington, D. C.; <name type="person" key="241">Surgeon Henry Bryant</name>, <name type="organization" key="132">U. S. V.</name>, in charge to May, 1863.</p>
+   <p><hi rend="initialcap">C</hi>ASE 333.&#8212;<name type="person" key="xxx">Private Hiram H. Ames</name>, <name type="organization" key="xxx">company G, 78th New York volunteers</name>; age 37; admitted <date type="admit" when="1863-01-11">January 11, 1863</date>.  Chronic diarrh&#339;a of some six months standing.  The patient was very weak and much emaciated; he complained but little; the stools averaged about six daily.  Died, <date type="death" when="1863-01-20">January 20th</date>.  <hi rend="italic">Autopsy</hi> <date type="autopsy" when="1863-01-21">twenty-two hours after death</date>: There was slight effusion in the subarachnoid space; the veins of the pia mater were full. The brain weighed fifty-four ounces. The right auricle and ventricle of the heart contained large, firm, white fibrinous clots; the left ventricle a small clot of the same character. Throughout the right lung there were circumscribed condensations of tissue, apparently the result of inflammation, presenting the features of red and gray hepatization; these varied from the size of a pea to that of a large walnut; when excised they sank in water; the left lung contained only one area of condensation, which was found in its upper lobe; both lungs were full of blood; they weighed nineteen ounces each. The liver was full of blood; it was firm and had a granular appearance; the gall-bladder was small, the bile dark and viscid. The spleen weighed four ounces and a quarter; the pancreas three ounces and a half. The left kidney weighed six ounces and a quarter, the right six ounces. The mesenteric glands were large. The stomach was irregularly congested, its mucous membrane soft. The mucous membrane of the middle third of the jejunum was slate-colored; the valvul&#230; conniventes of the jejunum indistinct. The mucous membrane of the lower third of the jejunum and of the ileum was reddened and very soft; the intestinal walls were extremely thin; just above the ileoc&#230;cal valve the redness was more intense, attaining a brilliant purple color, and some gray patches of pseudomembrane adhered to the surface. Large numbers of ulcers were found throughout the large intestine, some of them rather indistinct, others with very sharp edges; they were of very irregular form. The mucous surface of the rectum presented a honeycombed appearance, and was coated with gray pseudomembrane. The whole large intestine was thickened.&#8212;<name type="person" key="244">Assistant Surgeon George M. McGill</name>, <name type="organization" key="xxx">U. S. A.</name>  [Nos. 154 and 155, Medical Section, <name type="hospital" key="431">Army Medical Museum</name>, are from this case. The specimens are two successive portions of the thickened colon, with adherent patches of pseudomembrane on the mucous surface and a number of follicular ulcers.]</p>
+  </body>
+ </text>
+</TEI>

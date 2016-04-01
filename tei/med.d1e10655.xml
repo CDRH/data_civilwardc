@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e10655">
+        <teiHeader>
+                <fileDesc>
+                        <titleStmt>
+                                <title level="m" type="main">Boren, Daniel</title>                                
+                                <title level="m" type="sub">a machine readable transcription</title>
+                                <principal>Susan C. Lawrence</principal>
+                                <principal>Kenneth M. Price</principal>
+                                <principal>Kenneth J. Winkle</principal>
+                        </titleStmt>
+                        <editionStmt>
+                                <edition>
+                                        <date>2011</date>
+                                </edition>
+                        </editionStmt>
+                        <publicationStmt>
+                                <idno>med.d1e10655</idno>
+                                <authority>Civil War Washington</authority>
+                                <publisher>University of Nebraska–Lincoln</publisher>
+                                <distributor>
+                                        <name>Center for Digital Research in the Humanities</name>
+                                        <address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+                                </distributor>
+                                <date>2011</date>
+                                <availability>
+                                        <p>Copyright © 2011 by University of Nebraska–Lincoln, all
+                                                rights reserved. Redistribution or republication in
+                                                any medium, except as allowed under the Fair Use
+                                                provisions of U.S. copyright law, requires express
+                                                written consent from the editors and advance
+                                                notification of the publisher, the University of
+                                                Nebraska–Lincoln.</p>
+                                </availability>
+                        </publicationStmt>
+                        <notesStmt>
+                                <note type="project">The following are responsible for particular
+                                        readings or for changes to this file, as noted: 
+                                        <persName xml:id="mb">Matthew Bosley</persName>
+                                        <persName xml:id="el">Elizabeth Lorang</persName>
+                                        <persName xml:id="sb">Stacey Berry</persName>
+                                        <persName xml:id="et">Elisabeth Tracey</persName>
+                                </note>
+                        </notesStmt>
+                        <sourceDesc>
+                                <bibl>
+                                        <title level="j">The Medical and Surgical History of the War of the Rebellion</title>
+                                        <pubPlace>Washington, DC</pubPlace>
+                                        <publisher>Government Printing Office</publisher>
+                                        <biblScope type="part">Part 3</biblScope>
+                                        <biblScope type="volume">Volume 1</biblScope>
+                                        <date when="1888">1888</date>
+                                        <biblScope type="page">727-728</biblScope>
+                                </bibl>
+                        </sourceDesc>
+                </fileDesc>
+                <encodingDesc>
+                        <classDecl>
+                                <taxonomy xml:id="medsurg">
+                                        <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+                                </taxonomy>
+                        </classDecl>
+                </encodingDesc>
+                <profileDesc>
+                        <textClass>
+                                <keywords scheme="#medsurg">
+                                        <term>diseases attributed to non-miasmatic exposures</term>
+                                        <term>disease of the respiratory organs</term>
+                                        <term>acute bronchitis</term>                                        
+                                        <term>post-mortem records</term>
+                                        <term>acute bronchitis, fatal by supervention of lobular inflammation</term>
+                                        <term>plastic bronchitis</term>
+                                        <term>hemiplegia</term>
+                                        <term>upper and middle lobes of right lung firmly adherent and consolidated</term>
+                                        <term>fibrinous plug filled lumen of large bronchus leading to consolidated lung</term>
+                                </keywords>
+                        </textClass>
+                </profileDesc>
+                <revisionDesc>
+                        <change who="#mb" when="2013-04-18">additional proofing of transcription and encoding, edited and added keyword terms</change>
+                        <change who="#mb" when="2011-10-03">additional proofing of transcription and encoding</change>
+                        <change who="#mb" when="2011-06-28">additional proofing of transcription and encoding</change>
+                        <change who="#el" when="2011-05-11">case text extracted and transformed from larger file</change>
+                        <change who="#sb" when="2011-02-23">Encoding and Proofing</change>
+                        <change who="#et" when="2009-12-01">Initial Checking OCR Text to PDF file,</change>
+                </revisionDesc>
+        </teiHeader>
+        <text>
+                <body>                        
+                        <p> <name type="person">Private Daniel Boren</name>, <name type="organization">Co. K, 96th Pa.</name>; admitted <date type="admit" when="1863-01-02">Jan. 2, 1863</date>.  Diagnosis: Hemiplegia.  Died <date type="death" when="1863-02-02">February 2</date>.  <hi rend="italic">Post-mortem</hi> 
+                                        examination: Rigor mortis well marked; emaciated; veins
+                                        full of blood. Brain, forty-nine ounces and a half, full of
+                                        blood; choroid plexus pale, but its largest vessels full and
+                                        tortuous; veins of pia mater injected; veins of pons and
+                                        medulla full of blood; gray matter apparently diminished in
+                                        amount; stria of pons marked. Right lung forty-two
+                                        ounces; pigment deposit on pleura in intercostal spaces;
+                                        coagulable lymph on upper and middle lobes, which
+                                        were firmly adherent and consolidated in the vicinity of the
+                                        adhesions; remainder of the lung much congested; in the
+                                        large bronchial tube leading to the consolidated mass was a
+                                        fibrinous plug one and a half inches long, filling the lumen; surface of tube mottled white
+                                        and red. Left lung healthy. Heart, seven and a half ounces,
+                                        firm; small clot in each ventricle. Liver, forty-nine
+                                        ounces, dark, friable; spleen, four and three-quarter
+                                        ounces, much congested, firm. Colon congested.&#8212;<hi rend="italic"><name type="hospital" key="176">Lincoln Hospital</name>, Washington, D. C.</hi> </p>                        
+                </body>
+        </text>
+</TEI>

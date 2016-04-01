@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e10201">
+        <teiHeader>
+                <fileDesc>
+                        <titleStmt>
+                                <title level="m" type="main">Slow, Sylvester</title>
+                                <title level="m" type="sub">a machine readable transcription</title>
+                                <principal>Susan C. Lawrence</principal>
+                                <principal>Kenneth M. Price</principal>
+                                <principal>Kenneth J. Winkle</principal>
+                        </titleStmt>
+                        <editionStmt>
+                                <edition>
+                                        <date>2011</date>
+                                </edition>
+                        </editionStmt>
+                        <publicationStmt>
+                                <idno>med.d1e10201</idno>
+                                <authority>Civil War Washington</authority>
+                                <publisher>University of Nebraska–Lincoln</publisher>
+                                <distributor>
+                                        <name>Center for Digital Research in the Humanities</name>
+                                        <address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+                                </distributor>
+                                <date>2011</date>
+                                <availability>
+                                        <p>Copyright © 2011 by University of Nebraska–Lincoln, all
+                                                rights reserved. Redistribution or republication in
+                                                any medium, except as allowed under the Fair Use
+                                                provisions of U.S. copyright law, requires express
+                                                written consent from the editors and advance
+                                                notification of the publisher, the University of
+                                                Nebraska–Lincoln.</p>
+                                </availability>
+                        </publicationStmt>
+                        <notesStmt>
+                                <note type="project">The following are responsible for particular
+                                        readings or for changes to this file, as noted: 
+                                        <persName xml:id="mb">Matthew Bosley</persName>
+                                        <persName xml:id="el">Elizabeth Lorang</persName>
+                                        <persName xml:id="sb">Stacey Berry</persName>
+                                        <persName xml:id="et">Elisabeth Tracey</persName>
+                                </note>
+                        </notesStmt>
+                        <sourceDesc>
+                                <bibl>
+                                        <title level="j">The Medical and Surgical History of the War
+                                                of the Rebellion</title>
+                                        <pubPlace>Washington, DC</pubPlace>
+                                        <publisher>Government Printing Office</publisher>
+                                        <biblScope type="part">Part 3</biblScope>
+                                        <biblScope type="volume">Volume 1</biblScope>
+                                        <date when="1888">1888</date>
+                                        <biblScope type="page">574-575</biblScope>
+                                </bibl>
+                        </sourceDesc>
+                </fileDesc>
+                <encodingDesc>
+                        <classDecl>
+                                <taxonomy xml:id="medsurg">
+                                        <bibl>Medical and Surgical History of the War of the
+                                                Rebellion</bibl>
+                                </taxonomy>
+                        </classDecl>
+                </encodingDesc>
+                <profileDesc>
+                        <textClass>
+                                <keywords scheme="#medsurg">
+                                        <term>diseases allied to or associated with</term>
+                                        <term>the paroxysmal and continued fevers</term>
+                                        <term>cerebro-spinal fever</term>
+                                        <term>clinical and post-mortem records</term>
+                                        <term>cases at the hospitals of Alexandria, Va.</term>   
+                                        <term>yellow exudation at base of brain and between cerebrum and cerebellum</term>
+                                        <term>turbid serum in lateral ventricles</term>
+                                        <term>lobular pneumonia</term>
+                                        <term>cirrhosis of liver</term>
+                                        <term>inflammation of solitary follicles of ileum and c&#230;cum</term>
+                                        <term>fit lasting short time, then delirious and incoherent</term>
+                                        <term>short harassing cough accompanied frothy, bloody expectoration</term>
+                                        <term>enlargement of spleen</term>    
+                                </keywords>                                     
+                        </textClass>
+                </profileDesc>
+                <revisionDesc>
+                        <change who="#mb" when="2013-04-12">additional proofing of transcription and encoding, edited and added keyword terms</change>
+                        <change who="#mb" when="2011-10-03">additional proofing of transcription and encoding</change>
+                        <change who="#mb" when="2011-06-27">additional proofing of transcription and encoding</change>
+                        <change who="#el" when="2011-05-11">case text extracted and transformed from larger file</change>
+                        <change who="#sb" when="2011-02-23">Encoding and Proofing</change>
+                        <change who="#et" when="2009-12-01">Initial Checking OCR Text to PDF file,
+                        </change>
+                </revisionDesc>
+        </teiHeader>
+        <text>
+                <body>                        
+                        <p><hi rend="italic">Case at the Hospitals of <name type="place">Alexandria, Va.</name></hi></p><p><hi rend="initialcap">C</hi>ASE 70.&#8212;<name type="person"
+                                                key="824">Private Sylvester Slow</name>, <name
+                                                type="organization" key="481">Co. K, 20th
+                                                Mass.</name>; age 24; was admitted <date
+                                                type="admit" when="1864-12-28">Dec. 28, 1864</date>,
+                                having walked from the <name type="hospital" key="209">Washington street prison</name>. He
+                                        complained of pain in the joints and insisted that there was
+                                        nothing else the matter with him; his tongue was somewhat
+                                        brown in the centre, but the edges were clean and moist;
+                                        skin dry and cool; eyes natural; bowels moved
+                                        during the previous night; breathing somewhat hurried;
+                                        slight <choice><orig>dulness</orig><reg>dullness</reg></choice> over both lungs; no headache.  During the
+                                        night he had a fit lasting but a short time, after which he
+                                        became delirious, muttering incoherently, and affected at
+                                        the same time with a short harassing cough accompanied with
+                                        frothy, bloody expectoration.  He died at 11 A. M. of <date type="death" when="1864-12-29"> the 29th</date>.   <hi rend="italic">Post-mortem</hi> examination:
+                                        Yellow exudation at the base of the brain and between the
+                                        cerebrum and cerebellum; some slightly turbid serum in the
+                                        lateral ventricles; a pigment deposit the size of a pea in
+                                        the lower part of the right optic thalamus, presumed to be
+                                        the result of a former extravasation of blood; slight
+                                        hardening of the brain-substance. Some lobular pneumonia;
+                                        cirrhosis of the liver; enlargement of the spleen;
+                                        inflammation of the solitary follicles of the ileum and
+                                        c&#230;cum.</p>                        
+                </body>
+        </text>
+</TEI>

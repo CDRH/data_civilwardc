@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d2e2660">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Brown, S.</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+    <idno>med.d2e2660</idno>
+    <authority>Civil War Washington</authority>
+    <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor><name>Center for Digital Research in the
+     Humanities</name><address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address></distributor>
+    <date>2011</date>
+    <availability>
+     <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+      republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+      law, requires express written consent from the editors and advance notification of the
+      publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+ <persName xml:id="kmp">Kenneth M. Price</persName> <persName xml:id="ajh">AJ Howell</persName>
+     <persName xml:id="mb">Matthew Bosley</persName>
+     <persName xml:id="el">Elizabeth Lorang</persName>
+     <persName xml:id="sb">Stacey Berry</persName>
+     <persName xml:id="et">Elisabeth Tracey</persName>
+     <persName xml:id="ss">Sarah Synovec</persName>
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title level="j">The Medical and Surgical History of the War of the Rebellion.
+      (1861-65.)</title><pubPlace>Washington, DC</pubPlace><publisher>Government Printing
+      Office</publisher><biblScope type="part">Part 3</biblScope><biblScope type="volume">Volume
+      2</biblScope><date when="1883">1883</date><biblScope type="page">44</biblScope></bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+     <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <keywords scheme="#medsurg">
+     <term>wounds and injuries of the lower extremities</term>
+     <term>flesh wounds of the lower extremities</term>
+     <term>complications of shot flesh wounds of the lower extremities</term>
+     <term>h&#230;morrhage</term>
+     <term>ligations of blood-vessels of the lower limbs after flesh wounds</term>
+     <term>ligation of the femoral artery</term>
+     <term>py&#230;mia</term>
+     <term>ball entered leg at posterior middle third, penetrated the posterior tibial muscle</term>
+     <term>h&#230;morrhage from posterior tibial artery</term>
+     <term>autopsy performed</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+ <change who="#kmp" when="2014-05">blessed</change>
+   <change who="#ajh" when="2013-08-21">added figure encoding</change>
+   <change who="#mb" when="2012-02-07">additional proofing of transcription and encoding</change>
+   <change who="#el" when="2011-05-11">case text extracted and transformed from larger file</change>
+   <change who="#sb" when="2011-06-04">Enrich Encoding, Edit and validate</change>
+   <change who="#sb" when="2011-01-28">Validated File</change>
+   <change who="#ss" when="2008-09-22">Sarah Synovec initial checking of OCR text; encoded P5
+    Encoding</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+
+   <p><hi rend="initialcap">C</hi>ASE 95.&#8212;<name type="person" key="xxx">Private S.
+     Brown</name>, <name type="organization" key="xxx">Co. G, 134th New York</name>, aged 16 years,
+    was accidentally wounded on <date type="injury" when="1862-08-30">August 30, 1862</date>, and
+    entered the <name type="hospital" key="192">Mansion House Hospital</name>, <name type="place"
+     >Alexandria</name>, <date type="admit" when="1862-09-05">six days afterwards</date>. <name
+     type="person" key="xxx">Assistant Surgeon W. A. Conover</name>, <name type="organization"
+     key="132">U. S. V.</name>, contributed the following report of the injury: &#34;The ball
+    entered the left leg at the posterior middle third, penetrated the tibialis <choice>
+     <orig>posticus</orig>
+     <reg>posterioris</reg>
+    </choice> muscle, and was extracted at the same opening. At first there was free discharge of
+    laudable pus, but suppuration increased rapidly, and by September 26th infiltration of the
+    tissues had nearly reached the popliteal space. Under a supporting treatment the patient seemed
+    to gain rapidly until <date type="injury" when="1862-11-14">November 14th</date>, when, during
+    his sleep, a profuse h&#230;morrhage occurred from the sloughing of the posterior tibial artery
+    and a great quantity of blood was lost before it was discovered. His condition not admitting an
+    operation, the wound was plugged with styptics and a bandage was applied from the toes to the
+    hip. This treatment controlled the h&#230;morrhage for eight days, stimulants being given freely
+    in the mean time in order to prepare the system for an operation, if necessary. On <date
+     type="operation" when="1862-11-28">November 28th</date> another attack of bleeding was promptly
+    controlled by the attendant, and, upon consultation, ligation of the femoral artery at the lower
+    third was agreed upon as giving the patient a chance for his life. The operation was performed
+    with some difficulty, owing to the abnormal structure of a branch artery which had to be
+    carefully avoided. The patient bore the operation very well considering his condition, and, on
+    the following day, his extremities were perfectly warm and remained so, showing that circulation
+    had been re-established. The discharge, however, continued excessive, and although stimulants
+    and tonics were used very freely, the patient sank steadily, and died of py&#230;mia on <date
+     type="death" when="1862-12-07">December 7, 1862</date>. The autopsy confirmed the extensive
+    disorganization from infiltration of pus, the artery being in an unhealthy condition up to
+    within an inch of the ligature. The tying of the artery was a success, the clot having been
+    perfectly formed and the circulation re-established by the profunda, which was sufficiently
+    enlarged for the purpose.&#34; The ligated artery was contributed by <name type="person"
+     key="xxx">Dr. Conover</name>, a wet preparation of which is shown in the cut (<hi
+     rend="initialcap">F</hi>IG. 16).</p>
+
+   <figure>
+    <graphic url="cww.001516.001"/>
+    <head><hi rend="initialcap">F</hi>IG. 16.&#8212;Ligation of femoral. <hi rend="italic"
+     >Spec</hi>. 1024.</head>
+   </figure>
+
+  </body>
+ </text>
+</TEI>

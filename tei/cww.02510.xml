@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="cww.02510">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Letters from "Ethiop." Number IV</title>
+                <title level="m" type="sub">a machine readable transcription</title>
+                <editor role="editor">R. J. Weir</editor>
+                <principal>Susan C. Lawrence</principal>
+                <principal>Elizabeth Lorang</principal>
+                <principal>Kenneth M. Price</principal>
+                <principal>Kenneth J. Winkle</principal>
+                <respStmt>
+                    <resp>transcription and encoding</resp>
+                    <persName xml:id="ak">Alex Kinnaman</persName>
+                    <persName xml:id="el">Elizabeth Lorang</persName>
+                    <persName xml:id="bw">R. J. Weir</persName>
+                    <persName xml:id="kk">Kourtney Klein</persName>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2015</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <idno>cww.02510</idno>
+                <distributor>Civil War Washington</distributor>
+                <publisher>University of Nebraska Lincoln</publisher>
+                <address>
+                    <addrLine>Center for Digital Research in the Humanities</addrLine>
+                    <addrLine>319 Love Library</addrLine>
+                    <addrLine>University of Nebraska-Lincoln</addrLine>
+                    <addrLine>P.O. Box 884100</addrLine>
+                    <addrLine>Lincoln, NE 68588-4100</addrLine>
+                </address>
+                <address>
+                    <addrLine>
+                        <email>cdrh@unl.edu</email>
+                    </addrLine>
+                </address>
+                <date>2015</date>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+                        <p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License (http://creativecommons.org/licenses/by-nc-sa/3.0/). Derivatives must be credited to Civil War Washington and R. J. Weir, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct xml:id="letter">
+                    <analytic>
+                        <author ref="#ethiop">Ethiop</author>
+                        <title type="main" level="a">Letters From "Ethiop"</title>
+                        <title type="sub" level="a">Number IV</title>
+                    </analytic>
+                    <monogr>
+                        <title xml:id="paper" level="j">The Anglo-African</title>
+                        <imprint>
+                            <date xml:id="issue_date" when="1863-09-26">26 September 1863</date>                    
+                        </imprint>
+                        <biblScope type="pp">[1]</biblScope>                    
+                    </monogr>           
+                </biblStruct>
+                
+                <biblStruct xml:id="issue">               
+                    <monogr>
+                        <title level="j" sameAs="#paper"/>
+                        <imprint>
+                            <date sameAs="#issue_date"/>                  
+                        </imprint>              
+                    </monogr>                   
+                </biblStruct>                        
+            </sourceDesc>       
+        </fileDesc>
+        <encodingDesc> 
+            <p>This electronic text is a semi-diplomatic transcription of the source text. Hyphenation, punctuation, variant spellings, and errors present in the source text have been retained. The transcription does not attempt to capture all aspects of the original formatting or layout.</p>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <persName xml:id="ethiop">Wilson, William J.</persName>
+                <persName xml:id="rh">Hamilton, Robert</persName>
+                <persName xml:id="th">Hamilton, Thomas</persName>
+                <date when="1863">1863</date>
+            </creation>
+            <langUsage>
+                <language ident="en-US">modern American English</language>
+            </langUsage>
+            <textClass>
+                <classCode scheme="http://authorities.loc.gov"> 
+                    <term xml:id="sh2009113992">African American soldiers--History--19th century</term>
+                    <term xml:id="sh2009114063">African Americans--Washington (D.C.)</term>
+                    <term xml:id="n98802468">Abbott, Anderson Ruffin, 1832-1913</term>
+                    <term xml:id="n79142790">Adams, Abigail, 1744-1818</term>
+                    <term xml:id="n79105675">Adams, John, 1735-1826</term>
+                    <term xml:id="n79140988">Adams, John Quincy, 1767-1848</term>
+                    <term xml:id="n86022545">Adams, Louisa Catherine, 1775-1852</term>
+                    <term xml:id="no94014581">Augusta, Alexander T., 1825-</term>
+                    <term xml:id="n79045540">Brown, John, 1800-1859</term>
+                    <term xml:id="n80013236">Douglass, Frederick, 1818-1895</term>
+                    <term xml:id="n95120116">Foster, Charles, 1828-1904</term>
+                    <term xml:id="no2004049648">Gloucester, James N.</term>
+                    <term xml:id="n97073432">Hamilton, Elizabeth Schuyler, 1757-1854</term>
+                    <term xml:id="n2010069307">Izard, Alice DeLancey, 1745-1832</term>
+                    <term xml:id="n79088888">Jackson, Andrew, 1767-1845</term>
+                    <term xml:id="n2004036382">Jay, Sarah Livingston</term>
+                    <term xml:id="n79089957">Jefferson, Thomas, 1743-1826</term>
+                    <term xml:id="n2001120333">Knox, Lucy Flucker, 1760-1824</term>
+                    <term xml:id="n82084637">Lewis, Nelly Custis, 1779-1852</term>
+                    <term xml:id="n79006779">Lincoln, Abraham, 1809-1865</term>
+                    <term xml:id="n50051490">Lincoln, Mary Todd, 1818-1882</term>
+                    <term xml:id="n50039293">Madison, Dolley, 1768-1849</term>
+                    <term xml:id="n80067022">Madison, James, 1751-1836</term>
+                     <term xml:id="n80072514">Martha Dandridge Custis Washington</term>
+                    <term xml:id="n50078822">Monroe, James, 1758-1831</term>
+                    <term xml:id="n90628815">Pierpont, John, 1785-1866</term>
+                    <term xml:id="nr93003067">Smith, James McCune, 1813-1865</term>
+                    <term xml:id="n50012972">Swisshelm, Jane Grey Cannon, 1815-1884</term>
+                    <term xml:id="dt">United States, Department of the Treasury</term>
+                    <term xml:id="sh2007100004">United States--History--Civil War, 1861-1865--Participation, African American</term>
+                    <term xml:id="n86140996">Washington, George, 1732-1799</term>
+                </classCode>
+                <classCode scheme="http://civilwardc.org">
+                    <term>Powell, William P., 1834-1915</term>
+                    <term>Slavery--United States--Personal narratives</term>
+                    <term target="http://civilwardc.org/data/places/view/655">Camp Barker</term>
+                </classCode>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when="2015-04-07" who="#ak">corrected</change>
+            <change when="2015-03-24" who="#el">checked and corrected transcription and encoding; updated TEI header, including keywords</change>
+            <change when="2015-03-03" who="#ak">updated keywords</change>
+            <change when="2015-02-18" who="#ak">checked, corrected</change>
+            <change when="2014-08-06" who="#el">checked transcription and encoding</change>
+            <change when="2014-04-14" who="#el">checked encoding; revised TEI header</change>
+            <change when="2014-04-30" who="#kk">encoded</change>
+            <change when="2014-04" who="#kk">checked transcription</change>
+            <change when="2014-04-01" who="#bw">checked transcription</change>
+            <change when="2014-03" who="#bw">transcribed</change>
+        </revisionDesc>
+    </teiHeader>
+    
+    <facsimile corresp="#issue">
+        <surface xml:id="pp1">
+            <graphic url="aa.18630926.pp1.jpg"/>
+            <zone xml:id="pp1_cropped" corresp="#letter">
+                <graphic url="aa.18630926.pp1_cropped.jpg"/>
+            </zone>
+        </surface>
+        <surface xml:id="pp2">
+            <graphic url="aa.18630926.pp2.jpg"/>
+        </surface>
+        <surface xml:id="pp3">
+            <graphic url="aa.18630926.pp3.jpg"/>
+        </surface>
+        <surface xml:id="pp4">
+            <graphic url="aa.18630926.pp4.jpg"/>
+        </surface>
+    </facsimile>
+    
+    <text corresp="#letter #pp1_cropped">
+        <body>
+            
+            <head type="main" subtype="authorial" rend="center"><emph rend="italic">LETTERS FROM &#8220;ETHIOP.&#8221;</emph></head>
+            
+            <milestone unit="undeclared" rend="short-bar"/>
+            
+            <head type="sub" subtype="authorial" rend="center">NUMBER IV.</head>
+            
+            <opener>
+                <salute><emph rend="smallcaps">Dear Doctor</emph>:</salute>
+            </opener>
+            
+            <p>Notwithstanding the liberal <lb/>employment of colored men in the various <choice><orig>De-<lb/>partments</orig><reg>Departments</reg></choice> here, our first visit early one <choice><orig>morn-<lb/>ing</orig><reg>morning</reg></choice> to one of these Departments created, both <lb/>among colored and white employees, no little <lb/>surprise I thought. Whether because so few <lb/>black strangers find it in their business to come <lb/>here, or whether it was thought since one black <lb/>Lion having just gone two others had come <lb/>(mistaken thought), or whether some of that <lb/>other feeling which sees you out of the corners <lb/>of the eyes alike pervaded all, I know not. <lb/>Certain it is, there was for the moment some <lb/>commotion, yet notwithstanding everybody <lb/>was civil and even courteous. We are under <lb/>obligation to many gentlemen, among whom I <lb/>cannot forego the name of the Hon. Judge Day, <lb/>for the many kind attentions shown us here. <lb/>But for him we should, in all probability, have <lb/>lost much. Among other places in which he <lb/>introduced us was the famous <emph rend="italic">Old White House</emph>, <lb/>the place where Abraham Lincoln holds court, <lb/>and where Washington and Jefferson, and <lb/>Madison and the Adamses, and Monroe and <lb/>Jackson (forgive me, but I must skip many of <lb/>the others) held court before him. This famous <lb/>mansion has been so often, and of course so <lb/>well described, that it were worse than useless <lb/>for me to trouble you with any impression of <lb/>mine; and I have but to say, that as I stood <lb/>within the great Reception Room, with its <choice><orig>gor-<lb/>geous</orig><reg>gorgeous</reg></choice> velvet linings, and massive hangings, <lb/>and antique but costly furniture, my mind <choice><orig>re-<lb/>verted</orig><reg>reverted</reg></choice> back to other days. It glanced back <lb/>from these days of Mrs. Abraham Lincoln to the <lb/>day when Mrs. Martha Washington swayed the <lb/>sceptre there; the days of the Republican <lb/>Court when Ladies Adams and Jay and <choice><orig>Hamil-<lb/>ton</orig><reg>Hamilton</reg></choice> guided the fashionable circle; when Lady <lb/>Knox moved her large and commanding figure <lb/>gracefully there; when Ladies Madison, Izard, <lb/>Custis, Clinton, and a host of others of the same <lb/>ilk led the van, and the beautiful Misses Chews <lb/>here exhibited their charms to the admiring <lb/>crowds of buckled and belted knights and <choice><orig>chi-<lb/>valrous</orig><reg>chivalrous</reg></choice> swains.</p>
+            
+            <p>Lost amid these scenes and these thoughts, <lb/>the voice of my friend G. crying out, "Your <choice><orig>pre-<lb/>sence</orig></choice>, sir, is required at the War Department," <lb/>recalled me to consciousness. I moved for the <lb/>door and followed him.</p>
+            
+            <p>It may be pleasant for you to know, well for <lb/>our people and for the country to know, that <lb/>the colored troops mustered into service are to <lb/>be manned by the best officers, in head and <lb/>heart, that the country possesses.</p>
+            
+            <p>During an interview at the War Department <lb/>with Capt. F&#8212;&#8212;, head of the bureau for Colored <lb/>Troops, or rather American troops of African <lb/>descent, he emphatically declared that none but <lb/>the very best qualified officers shall, by any <lb/>possible means, pass from this Bureau to the <lb/>command of colored troops. A valuable <choice><orig>decla-<lb/>ration</orig><reg>declaration</reg></choice>.</p>
+            
+            <p>Among the notables whom the strange events <lb/>of the hour have thrown here and to whom I <lb/>was introduced, I beg to mention one or two. <lb/>Did you or did you not, my dear sir, ever meet <lb/>anywhere a plain old man, tall, thin, well knit, <lb/>muscular, active; his countenance indicative <lb/>of all mildness, and all determination combined; <lb/>his head a model for a sculptor, his long <choice><orig>iron-<lb/>grey</orig><reg>iron-grey</reg></choice> hair combed back behind his ears, what of <lb/>it would not, in spite of himself, bristle up <lb/>erect; his beard longer and greyer even than <lb/>his hair; his eye blue and cold till lighted up <lb/>by kind words uttered with a voice at times as <lb/>it were a woman's; or that same cold, blue eye <lb/>gleam with the fierceness of a lion, or that same <lb/>voice thunder as it were in the storm as the <lb/>story of wronged humanity was by him being <lb/>told? Did you, I say, ever meet in your <choice><orig>life-<lb/>path</orig><reg>life-path</reg></choice> this plain old man, a real home-body, and <lb/>yet seemingly a homeless wanderer going about <lb/>and speaking of them that are bound in bonds <lb/>as bound with them? If you did, and should <lb/>you come here and just step into the Treasury <lb/>Department, behold not the man himself, for <lb/>time has thrown upon the surface but one John <lb/>Brown, he is gone&#8212;but a faint, very faint, <choice><orig>re-<lb/>semblance</orig><reg>resemblance</reg></choice> to him in the person of his brother <lb/>Mr. S. Brown. Yes, sir, a brother of the <choice><orig>im-<lb/>mortal</orig><reg>immortal</reg></choice> John Brown, of Harper's Ferry fame, is <lb/>an employee in the Treasury of these United <lb/>States to-day. Verily time moves on apace!</p>   
+                
+                <p>Now, sir, pass thence into the Auditor's <lb/>Department and you will be quite apt to meet <lb/>a man far, very far, advanced in years, and very <lb/>remarkable in appearance; so much so that in <lb/>an assemblage of fifty old men you would forget <lb/>all and notice only him. I have said he is very <lb/>old. How would you know that? Certainly <lb/>not by his tall and reed-like figure, nor by his <lb/>quick and boy-like movements, nor yet by his <lb/>flashing eye and energetic speech, but by the <lb/>majesty of a full head of hair, purely white and <lb/>long, every lock of which still bear him <choice><orig>com-<lb/>pany</orig><reg>company</reg></choice>. By this alone would you know that he <lb/>is old. Some 80 Winters, I think, have passed <lb/>over that white head. The presence of this <lb/>man is inspiration itself. With his soft, deep <lb/>blue eye&#8212;deeper and clearer than the sky <lb/>above you&#8212;to which they are directed, and his <lb/>flowing white hair, every spray of which is <choice><orig>kiss-<lb/>ing</orig><reg>kissing</reg></choice> the air about him; his every word music, <lb/>and gesture eloquence, he stands before you <lb/>the personification of all that is ideal and <choice><orig>beau-<lb/>tiful</orig><reg>beautiful</reg></choice>. Do you recognize the picture? It is <lb/>that of the scholar, Orator, Poet, Divine&#8212;Rev. <lb/>John Pierpont. He, too, is here a clerk in the <lb/>Treasury Department.</p>
+            
+            <p>Here, too, you will find the noted Mrs. <choice><orig>Swiss-<lb/>helm</orig><reg>Swisshelm</reg></choice>, whose pen, dipped into the ink of irony <lb/>and sarcasm (I have often desired to know <lb/>where she got such ink) has so often made the <lb/>villain of this Republic wince and scoundrelly <lb/>coward run skulking to their dens.</p> 
+                
+                <p>Among the good things here is the <choice><orig>appoint-<lb/>ment</orig><reg>appointment</reg></choice> of Dr. Augusta, of Canada, as Surgeon in <lb/>the Army. The Doctor wears his well-earned <lb/>honors with all becoming dignity and sports <lb/>his shoulder-straps, leaf, and double-breasted <lb/>coat with the ease of a Major whose rank he <lb/>takes. So also Drs. Powell and Abbot, his first <lb/>and second Assistants, who also take to the <lb/>shoulder straps, and minus the leaf and double <lb/>buttons. The three make as fine a trio of <lb/>American soldiers of African descent as you <lb/>would wish to see; of course I am writing of <lb/>them far away from the smell of Uncle Sam's <lb/>powder or the glitter of his steel. These <choice><orig>gen-<lb/>tlemen</orig><reg>gentlemen</reg></choice> have charge of the Freedmen's Camp <lb/>here, an interesting field, and one which they <lb/>occupy with credit to themselves and honor to <lb/>our people. They furnish a fine example to <lb/>our young men of talents which should lead <lb/>others to speedily follow. We are invited by <lb/>these gentlemen to the camp to dine and shall <lb/>avail ourselves of the pleasure and thus learn <lb/>something of life on the tented field; the sunny <lb/>side only, I think I hear you say.</p>
+            
+                <p>But it is late, and my friend G. is sick and <lb/>has taken possession of my bed. Though out <lb/>of deference, on coming here, I yielded what <lb/>was regarded the best bed to him, now that he <lb/>is ill he thinks mine the best (a good joke, by <lb/>the way) and is master of the situation, so I <lb/>shall go to the other to dream doubtless of <lb/>camp life in Dixie. More anon.</p>
+            
+            <closer><salute rend="center">Yours truly,</salute>    
+            <signed rend="right"><emph rend="smallcaps">Ethiop</emph>.</signed></closer>
+            
+            <note type="newspaper-editorial"><emph rend="italic">To James M'Cune Smith, M.D.</emph></note> 
+            
+        </body>
+    </text>
+    
+</TEI>
+

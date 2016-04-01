@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e40942">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Turner, Samuel B.</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+       <idno>med.d1e40942</idno>
+       <authority>Civil War Washington</authority>
+       <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor>
+       <name>Center for Digital Research in the Humanities</name>
+       <address><addrLine>319 Love Library</addrLine>
+       <addrLine>University of Nebraska–Lincoln</addrLine>
+       <addrLine>Lincoln, NE 68588-4100</addrLine>
+       <addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+    </distributor>
+    <date>2011</date>
+    <availability>
+        <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+         republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+         law, requires express written consent from the editors and advance notification of the
+         publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+     <persName xml:id="mb">Matthew Bosley</persName>
+     <persName xml:id="el">Elizabeth Lorang</persName>
+     <persName xml:id="sb">Stacey Berry</persName>
+     <persName xml:id="ao">Alyssa Olson</persName>
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl>
+     <title level="j">The Medical and Surgical History of the War of the Rebellion. (1861-65.)</title>
+     <pubPlace>Washington, DC</pubPlace>
+     <publisher>Government Printing Office</publisher>
+     <biblScope type="part">Part 2</biblScope>
+     <biblScope type="volume">Volume 1</biblScope>
+     <date when="1879">1879</date>
+     <biblScope type="page">154-155</biblScope>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+       <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+      <keywords scheme="#medsurg">
+       <term>diarrh&#339;a and dysentery</term>
+       <term>fatal cases of diarrh&#339;a and dysentery, with accounts of the morbid appearances observed</term>
+       <term>from the Douglas Hospital, Washington, D. C.</term>
+       <term>chronic diarrh&#339;a for ten months</term>
+       <term>consumption</term>
+       <term>cough and night-sweats</term>
+       <term>epistaxis, necessitated tamponing nostrils</term>
+       <term>both lungs filled with softened tubercles</term>
+       <term>upper lobes of both lungs honeycombed with small vomic&#230;, large vomica in apex</term>
+       <term>bronchial glands greatly enlarged</term>
+       <term>small masses of tuberculous matter near anterior liver</term>      
+       <term>extensive ulceration of intestines from duodenum to rectum</term>       
+       <term>Peyer's patches and solitary glands ulcerated, some not yet ulcerated appeared seat of tubercular deposits</term>       
+       <term>mesenteric glands excessively enlarged</term>
+       <term>autopsy performed</term>       
+     </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change who="#mb" when="2012-10-25">additional proofing of transcription and encoding, identified keyword terms</change>
+   <change who="#el" when="2010-11-05">case text extracted and transformed from larger file</change>
+   <change who="#sb" when="2010-05-01">enrich encoding, proof and edit</change>
+   <change who="#ao" when="2008-10-02">encoding and editing</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body> 
+   <p>Case from the case-book and medical descriptive lists of the <name type="hospital" key="162"><hi rend="initialcap">D</hi>OUGLAS <hi rend="initialcap">H</hi>OSPITAL</name>, Washington, D. C., <name type="person" key="201">Assistant Surgeon William F. Norris</name> in charge from October, 1864, to September, 1865:</p>
+   <p><hi rend="initialcap">C</hi>ASE 323.&#8212;<name type="person" key="234">Private Samuel B. Turner</name>, <name type="organization" key="244">company B, 124th Indiana volunteers</name>; age 20; admitted <date type="admit" when="1865-02-05">February 5, 1865</date>.  Chronic diarrh&#339;a and consumption.  This man had suffered from diarrh&#339;a for ten months; he had, when admitted, from four to six stools daily; was much emaciated; had cough and night-sweats. The number of stools was soon reduced to two in the twenty-four hours; but little change was noted in his general condition till about April 1st, when he had an attack of coryza, soon after which the other symptoms became more serious and he was obliged to go to bed. About the 15th of April epistaxis occurred of such a character as to necessitate tamponing the nostrils.  Died, <date type="death" when="1865-04-22">April 22d</date>.  <hi rend="italic">Autopsy:</hi> Body excessively emaciated. Both lungs were filled with softened tubercles; the upper lobe of the right lung was honeycombed with small vomic&#230;; in the apex of the left lung was a large vomica; there were strong pleuritic adhesions on both sides. The bronchial glands were greatly enlarged. The heart was normal; but the pericardium contained eight ounces of clear serum, and several small spots of ecchymosis were noticed beneath the serous membrane. The spleen and kidneys were normal. The liver was large, and near its anterior border there were two small masses of tuberculous matter. There was extensive ulceration of the intestines from the duodenum to the rectum. Peyer's patches and the solitary glands, especially, were ulcerated; some of them, not yet ulcerated, appeared to be the seat of tubercular deposits. The mesenteric glands were excessively enlarged, and of a light-yellow color.&#8212;<name type="person" key="214">Acting Assistant Surgeon Henry Gibbons, <choice><orig>jr.</orig><reg>Jr.</reg></choice></name></p> 
+  </body>
+ </text>
+</TEI>

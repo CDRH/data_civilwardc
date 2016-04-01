@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="cww.00435">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Petition of John L. Kidwell, 26 May 1862</title>
+                <title level="m" type="sub">a machine readable transcription</title>
+                <principal>Susan C. Lawrence</principal>
+                <principal>Kenneth M. Price</principal>
+                <principal>Kenneth J. Winkle</principal>
+                <respStmt>
+                    <resp>transcription and encoding</resp>
+                    <name xml:id="jc">Janel Cayer</name>
+                    <name xml:id="el">Elizabeth Lorang</name>
+                    <name xml:id="rr">Rhiannon Root</name>
+                    <name xml:id="bj">Brittany Jones</name>
+                    <name xml:id="rv">Robert Voss</name>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2013</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <idno>cww.00435</idno>
+                <distributor>Civil War Washington</distributor>
+                <publisher>University of Nebraska–Lincoln</publisher>
+                <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>P.O. Box 884100</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+            </address>
+                <date>2013</date>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+                        <p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike
+                            3.0 Unported License
+                            (http://creativecommons.org/licenses/by-nc-sa/3.0/). Derivatives must be
+                            credited to Civil War Washington, made available non-commercially, and
+                            distributed under the same terms. Requests for permission for commercial
+                            publication or other use should be emailed to the project team.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Petition of John L. Kidwell, 26 May 1862</title>
+                    <date when="1862-05-26">May 26, 1862</date>
+                    <idno>Microcopy 520, Reel 4</idno>
+                    <orgName>National Archives and Records Administration</orgName>
+                    <relatedItem type="original">
+                        <bibl>
+                            <title>Petition of John L. Kidwell, 26 May 1862</title>
+                            <date when="1862-05-26">May 26, 1862</date>
+                            <idno>Record Group 217.6.5</idno>
+                            <orgName>Records of the Accounting Officers of the Department of the
+                                Treasury, 1775–1978, National Archives and Records
+                                Administration</orgName>
+                            <note type="project">Within the National Archives' Archival Description
+                                Catalog, see ARC Identifier 4644616 / MLR Number A1 347
+                                (http://arcweb.archives.gov).</note>
+                        </bibl>
+                    </relatedItem>
+                    <note type="project">Our transcription is based on a digital image of a
+                        microfilm copy of the original.</note>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <particDesc>
+                <person role="petitioner">
+                    <persName>John L. Kidwell</persName>
+                </person>
+                <person role="jp">
+                    <persName>Jenkins Thomas</persName>
+                </person>
+            </particDesc>
+        </profileDesc>
+        <revisionDesc>
+            <change when="2013-01-20" who="#jc">revised schema declaration</change>
+            <change when="2012-10-12" who="#el">blessed</change>
+            <change when="2012-09-06" who="#jc">updated tei header; fixed values for @facs as
+                necessary; automated checking across files for extra spaces in elements and other
+                encoding inconsistencies and for regular transcription errors</change>
+            <change when="2011-05-09" who="#rr">checked</change>
+            <change when="2011-04-25" who="#rv">checked</change>
+            <change when="2010-11-15" who="#bj">transcribed, encoded</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb xml:id="leaf001r" facs="cww.00435.001.jpg"/>
+
+            <div1 type="petition" subtype="mixed">
+                <head type="main">PETITION.</head>
+                <p rend="bold">To the Commissioners under the act of Congress approved the <date
+                        when="1862-04-16">16th of April, 1862</date>, entitled "An act for the
+                    release of certain persons held to service or labor in the District of
+                    Columbia."</p>
+
+                <p>Your Petitioner, <seg type="handwritten"><persName>John L.
+                        Kidwell</persName></seg>
+                    <del>of</del>
+                    <seg type="handwritten">of <placeName>George Town</placeName> in the said
+                            <placeName>District</placeName></seg> by this <seg type="handwritten"
+                        >his</seg> petition in writing, represents and states, that <seg
+                        type="handwritten">he</seg> is a person loyal to the United States, who, at
+                    the time of the passage of the said act of Congress, held a claim to service or
+                    labor against <seg type="handwritten">three negroes or</seg> person<seg
+                        type="handwritten">s</seg> of African descent of the name<seg
+                        type="handwritten">s</seg> of <seg type="handwritten"><persName>James
+                            Somerville</persName>, <persName>Mary Somerville</persName> and
+                            <persName>Sarah Brooks</persName></seg> for and during the
+                        <del>life</del>
+                    <seg type="handwritten">lives</seg> of said <seg type="handwritten">persons or
+                        negroes</seg> and that by said act of Congress said <seg type="handwritten"
+                        >persons were</seg> discharged and freed of and from all claim of your
+                    petitioner to such service or labor; that at the time of said discharge said
+                        <seg type="handwritten">persons were</seg> of the age<seg type="handwritten"
+                        >s</seg>
+                    <del>of</del>
+                    <seg type="handwritten"><gap reason="illegible" extent="about one word"
+                            quantity="2" unit="chars"/></seg> and of the personal description
+                        following<del>:</del><seg type="handwritten">;</seg><note type="government"
+                        place="foot" xml:id="n1">Here describe the person, so as to identify him or
+                        her; and if there be more than one slave, describe each one
+                        separately.</note>
+                    <seg type="handwritten">viz: said <hi rend="underline"><persName>James
+                                Somerville</persName></hi> was of the age of twenty four
+                        years&#8212;a mulatto&#8212;five feet seven and three quarter inches high;
+                        the said <hi rend="underline"><persName>Mary Somerville</persName></hi> was
+                        three and a half years of age&#8212;also a mulatto, and a child 2 &#189;
+                        feet high; and said <hi rend="underline"><persName>Sarah
+                            Brooks</persName></hi> was twenty years of age&#8212;a dark mulatto,
+                        five feet and five inches high.</seg></p>
+
+                <pb xml:id="leaf001v" facs="cww.00435.002.jpg"/>
+
+                <p>That your petitioner acquired <seg type="handwritten">his</seg> claim to the
+                    aforesaid service or labor of said <seg type="handwritten">negroes or
+                        persons</seg> in manner following<del>:</del><seg type="handwritten"
+                        >;</seg><note type="government" place="foot" xml:id="n2">Here state how the
+                        claim was acquired, when, from whom, and for what price or consideration;
+                        and, if held under any written evidence of title, make exhibit thereof, or
+                        refer to the public record where the same may be found.</note>
+                    <seg type="handwritten">namely&#8212;he purchased said <hi rend="underline"
+                                ><persName>James Somerville</persName></hi> between ten and twelve
+                        years ago, (who was then a mere boy,) from <persName>Edward N.
+                            Roach</persName>, the late Register of Wills of this
+                            <placeName>District</placeName>, for five hundred dollars, and the day
+                        after was offered one thousand dollars for him by a trader; but petitioner
+                        did not buy him for any such purpose; and <persName>Mr. Roach</persName>
+                        sold him to petitioner at such a low price because he also was opposed to
+                        selling well-behaved negroes from their homes: your petitioner bought him
+                        for his domestic use, and has since kept him in his family. <hi
+                            rend="underline"><persName>Mary Somerville</persName></hi> petitioner
+                        purchased about 3 yrs &amp; 4 <choice>
+                            <abbr>mo</abbr>
+                            <expan>months</expan>
+                        </choice> years since, then a baby the supposed child of
+                            <persName>James</persName>, from <persName>William Yerby</persName> of
+                        said <placeName>George Town</placeName> for twenty five dollars; and <hi
+                            rend="underline"><persName>Sarah Brooks</persName></hi> he also
+                        purchased for Eight hundred and fifty dollars about eighteen months ago from
+                            <persName>Isaac Barrett</persName> of said <placeName>Town</placeName>,
+                        who had previously purchased the said woman from <persName>Wm.
+                            Busey</persName> of said place, in whose family she had been raised in
+                            <placeName>Montgomery County</placeName>,
+                            <placeName>Maryland</placeName>.</seg></p>
+
+                <p>That your petitioner's claim to the service or labor of said <seg
+                        type="handwritten">persons or negroes</seg> was, at the time of said
+                    discharge therefrom, of the value of <seg type="handwritten">two thousand and
+                        five hundred &amp; fifty</seg> dollars in money<del>.</del><seg
+                        type="handwritten">;</seg><note type="government" place="foot" xml:id="n3"
+                        >Here state such facts, if any there be, touching the value of the
+                        petitioner's claim to the service or labor of the person, as may enhance the
+                        same, and also such facts, if any, touching the moral, mental, and bodily
+                        infirmities or defects of said person, as impair the value of the
+                        petitioner's claim to such service or labor, and conclude such statement
+                        with an averment that the petitioner knows of no other infirmities or
+                        defects of said person which impair the value of petitioner's claim to such
+                        service or labor, and that he believes none other to exist. If the
+                        petitioner specify no such infirmity or defect, then his statement touching
+                        the value of his claim should conclude with an averment that he has no
+                        knowledge of any such infirmity or defect.</note>
+                    <seg type="handwritten">namely&#8212;for said <hi rend="underline"
+                                ><persName>James Somerville</persName></hi>, fifteen hundred
+                        dollars; for whom two years ago he could readily obtained two thousand
+                        dollars: he is a healthy, steady, useful man; obliging, diligent and honest;
+                        is a good gardener and florist&#8212;also a good cook; but his chief
+                        business is the charge of petitioner's garden and green-house, which are
+                        extensive: <hi rend="underline"><persName>Mary Brooks</persName></hi> is
+                        worth what petitioner gave for her&#8212;viz&#8212;eight hundred and fifty
+                        dollars; she is a good house-servant, and has been kept at home, and
+                        occupied in the duties of the family: the child, <hi rend="underline"
+                                ><persName>Mary Somerville</persName></hi> he considers worth one
+                        hundred and fifty dollars. He knows of no moral, mental, or bodily infirmity
+                        or defect in said persons, and believes none to exist</seg></p>
+
+                <p>Your petitioner hereby declares that <seg type="handwritten">he</seg> bears true
+                    and faithful allegiance to the Government of the United States, and that <seg
+                        type="handwritten">he</seg> has not borne arms against the United States in
+                    the present rebellion, nor in any way given aid or comfort thereto.</p>
+
+                <p>And your petitioner further states and alleges, that <seg type="handwritten"
+                        >he</seg> has not brought said <seg type="handwritten">persons or
+                        negroes</seg> into the District of Columbia since the passage of said act of
+                    Congress; and that, at the time of the passage thereof, said <seg
+                        type="handwritten">persons were</seg>
+                    <del>was</del> held to service or labor therein under and by virtue of your
+                    petitioner's claim to such service or labor.</p>
+
+                <p>Your petitioner further states and alleges, that <seg type="handwritten"
+                        >his</seg> said claim to the service or labor of said <seg
+                        type="handwritten">persons</seg> does not originate in or by virtue of any
+                    transfer heretofore made by any person who has in any manner aided or sustained
+                    the present rebellion against the Government of the United States.</p>
+
+                <p>And your petitioner prays the said Commissioners to investigate and determine the
+                    validity of <seg type="handwritten">his</seg> said claim to the service or labor
+                    of said <seg type="handwritten">persons</seg> herein above set forth; and if the
+                    same be found to be valid, that they appraise and apportion the value of said
+                    claim in money, and report the same to the Secretary of the Treasury of the
+                    United States, in conformity to the provisions of said act of Congress.</p>
+
+                <closer> (Signed by) <signed>
+                        <seg type="handwritten">
+                            <persName>Jno L Kidwell</persName>
+                        </seg>
+                    </signed>
+                </closer>
+            </div1>
+
+            <pb xml:id="leaf002r" facs="cww.00435.003.jpg"/>
+
+            <div1 type="oath" subtype="mixed">
+                <head type="main">[<hi rend="italic">Form of the Oath for the Verification of the
+                        Petition.</hi>]</head>
+
+                <dateline>
+                    <placeName>District of Columbia</placeName>,
+                    <lb/>
+                    <hi rend="italic"><placeName>Washington County</placeName>, ss.</hi>
+                </dateline>
+
+                <div2 type="section">
+                    <p>I, <seg type="handwritten">
+                            <persName>John L. Kidwell</persName>
+                        </seg> being duly sworn, do depose and say, that all the several matters and
+                        things which are set forth and stated in the foregoing petition, as of my
+                        own knowledge, are true in substance and in fact; and that all the several
+                        other matters and things therein set forth and stated, as from the
+                        information of others, I believe to be true in substance and in fact.</p>
+                    <closer> (Signed by) <signed>
+                            <seg type="handwritten">
+                                <persName>Jno L Kidwell</persName>
+                            </seg>
+                        </signed>
+                    </closer>
+                </div2>
+
+                <div2 type="section">
+                    <p>Sworn to and subscribed before me this <date when="1862-05-23">
+                            <seg type="handwritten">23</seg> day of <seg type="handwritten"
+                                >May</seg> A. D. 1862</date>. </p>
+                    <closer> (Signed by) <signed>
+                            <seg type="handwritten">
+                                <persName>Jenkins Thomas</persName> J Peace</seg>
+                        </signed>
+                    </closer>
+                </div2>
+            </div1>
+
+            <div1 type="cover" subtype="handwritten">
+                <note type="editorial">The following note, about the filing of the petition, has
+                    been imaged twice in the National Archives microfilm, but the note occurs in
+                    only one place in the petition: written horizontally on the final page, the Oath
+                    for the Verification.</note>
+                <ab>435</ab>
+                <ab>
+                    <persName>John L. Kidwell's</persName> Petition. </ab>
+                <ab>Filed <date when="1862-05-26">May 26, 1862</date>
+                </ab>
+            </div1>
+        </body>
+    </text>
+</TEI>

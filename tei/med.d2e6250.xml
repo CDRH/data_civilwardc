@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d2e6259">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Carroll, Lewis</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+    <idno>med.d2e6259</idno>
+    <authority>Civil War Washington</authority>
+    <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor><name>Center for Digital Research in the
+     Humanities</name><address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address></distributor>
+    <date>2011</date>
+    <availability>
+     <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+      republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+      law, requires express written consent from the editors and advance notification of the
+      publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+ <persName xml:id="kmp">Kenneth M. Price</persName> <persName xml:id="ajh">AJ Howell</persName>
+     <persName xml:id="mb">Matthew Bosley</persName>
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title level="j">The Medical and Surgical History of the War of the Rebellion.
+      (1861-65.)</title><pubPlace>Washington, DC</pubPlace><publisher>Government Printing
+      Office</publisher><biblScope type="part">Part 3</biblScope><biblScope type="volume">Volume
+      2</biblScope><date when="1883">1883</date><biblScope type="page">139</biblScope></bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+     <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <keywords scheme="#medsurg">
+     <term>wounds and injuries of the lower extremities</term>
+     <term>wounds and injuries of the hip joint</term>
+     <term>shot fractures at the hip joint</term>
+     <term>amputations at the hip joint</term>
+     <term>coxo-femoral amputations</term>
+     <term>intermediary amputations</term>
+     <term>ball entered thigh in front, striking femur at junction of upper thirds</term>
+     <term>longitudinal splintering of femur, extending below lesser trochanter downward, several
+      oblique fissures</term>
+     <term>pus in external iliac vein and lungs</term>
+     <term>gangrenous abscess in spleen</term>
+     <term>general anesthesia, ether</term>
+     <term>general anesthesia, chloroform</term>
+     <term>autopsy performed</term>
+     <term>h&#230;morrhage from small artery of thigh</term>
+     <term>soft tissues of thigh infiltrated with pus</term>
+     <term>amputation preceded by primary partial excision of shaft of femur</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+ <change who="#kmp" when="2014-05">blessed</change>
+   <change who="#ajh" when="2013-08-22">added figure encoding</change>
+   <change who="#mb" when="2012-02-22">additional case copied from MSHWR, performed proofing of copy
+    and XML encoding, and key terms identified</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+
+   <p>
+    <hi rend="initialcap">C</hi>ASE 298.&#8212;<name type="person" key="xxx">Sergeant Lewis
+     Carroll</name>, <name type="organization" key="xxx">Co. H, 1st Delaware</name>, aged 23 years,
+    was wounded on <date type="injury" when="1864-10-22">October 22, 1864</date>, near the <name
+     type="place">Weldon Railroad</name>.&#179; A conoidal musket ball entered the right thigh in
+    front, and, striking the femur at the junction of the upper thirds, produced a remarkable
+    longitudinal splintering of the bone, extending from an inch below the lesser trochanter
+    downward for ten inches, together with several oblique fissures. The wounded man was conveyed in
+    an ambulance to one of the field hospitals of the Fifth Corps, where the ball was extracted and
+    the sharp extremity of the upper fragment of the femur was sawn off. The fractured limb was then
+    dressed, and the patient sent to <name type="place">City Point</name>, and thence on a hospital
+    steamer to <name type="place">Alexandria</name>, where he was admitted to the <name
+     type="hospital" key="512">Third Division Hospital</name> on <date type="transfer"
+     when="1864-11-02">November 2d</date>. The thigh was swollen to three times the size of its
+    fellow. An incision six inches long on the outer side presented inflamed everted edges, between
+    which fasciculi of muscles protruded. There was much febrile irritation, but the patient's
+    strength was maintained to a remarkable degree. On <date type="operation" when="1864-11-11"
+     >November 11th</date>, there was quite free h&#230;morrhage from a small artery, and the
+    patient was etherized and the vessel secured, and afterward a thorough exploration of the wound
+    was made. The very extensive longitudinal splintering was recognized; the bone was found denuded
+    in several places; the soft tissues of the thigh were infiltrated with pus of a very offensive
+    character. In view of this condition of things, it was determined to remove the limb at the hip
+    joint. The patient was placed under the influence of chloroform, and the operation was performed
+    by <name type="person" key="134">Surgeon Edwin Bentley</name>, <name type="organization"
+     key="132">U. S. V.</name> An external flap was made by cutting from without inward; then the
+    head of the femur was disarticulated, and an internal flap was cut from within outward. The loss
+    of blood was slight and the patient reacted promptly. The progress of the case for two or three
+    days after the operation was very favorable. Then a chill occurred, followed by a cold clammy
+    sweat. The wound looked badly and the discharge was unhealthy; the stump was kept covered with
+    yeast poultices. Beef essence, stimulants, and anodynes were administered. Six days after the
+    operation there was yellowness of the surface and of the conjunctival membranes; then delirium
+    and coma, and death on <date type="death" when="1864-11-19">November 19th</date>, eight days
+    from the date of the operation. At the autopsy, pus was found in the external iliac vein,
+    metastatic foci in the lungs, and a gangrenous abscess in the enlarged spleen. The preparation
+    of the femur was sent to the <name type="hospital" key="431">Army Medical Museum</name>, and is
+    figured in the adjacent wood-cut (<hi rend="initialcap">F</hi>IG. 94). </p>
+
+   <p> &#179; See <hi rend="italic">Circ</hi>. No. 6, S. G. O., 1865, p. 50, <hi rend="initialcap"
+     >C</hi>ASE 18, and <hi rend="italic">Circ</hi>. 7, S. G. O., 1867, <hi rend="initialcap"
+    >C</hi>ASE XXXVI, pp. 38 and 62, and <hi rend="italic">Cat. of Surg. Sect.</hi>, of 1866, p.
+    247. </p>
+
+   <figure>
+    <graphic url="cww.001545.001"/>
+    <head>
+     <hi rend="initialcap">F</hi>IG. 94.&#8212;Right fem. fissured by a musket ball. <hi
+      rend="italic">Spec</hi>. 1020.</head>
+   </figure>
+
+  </body>
+ </text>
+</TEI>

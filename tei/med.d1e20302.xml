@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e20302">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title level="m" type="main">S&#8212;&#8212;, W.</title>
+        <title level="m" type="sub">a machine readable transcription</title>
+        <principal>Susan C. Lawrence</principal>
+        <principal>Kenneth M. Price</principal>
+        <principal>Kenneth J. Winkle</principal>
+      </titleStmt>
+      <editionStmt>
+        <edition><date>2011</date></edition>
+      </editionStmt>
+      <publicationStmt>
+        <idno>med.d1e20302</idno>
+        <authority>Civil War Washington</authority>
+        <publisher>University of Nebraska–Lincoln</publisher>
+        <distributor><name>Center for Digital Research in the
+          Humanities</name><address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address></distributor>
+        <date>2011</date>
+        <availability>
+          <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution
+            or republication in any medium, except as allowed under the Fair Use provisions of U.S.
+            copyright law, requires express written consent from the editors and advance
+            notification of the publisher, the University of Nebraska–Lincoln.</p>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="project">The following are responsible for particular readings or for changes to
+          this file, as noted: 
+ <persName xml:id="kw">Kenneth Winkle</persName> 
+          <persName xml:id="ajh">AJ Howell</persName>
+          <persName xml:id="mb">Matthew Bosley</persName>
+          <persName xml:id="el">Elizabeth Lorang</persName>
+          <persName xml:id="sb">Stacey Berry</persName>
+          <persName xml:id="et">Elisabeth Tracey</persName>
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl><title>The Medical and Surgical History of the War of the Rebellion.
+            (1861&#8211;65.)</title><editor role="compiler">Surgeon General Joseph K. Barnes, United
+            States Army</editor><pubPlace>Washington, D.C.</pubPlace><publisher>Government Printing
+            Office</publisher><biblScope type="part">Part 1</biblScope>
+          <biblScope type="volume">Volume 2</biblScope><date when="1870">1870</date><biblScope
+            type="page">587</biblScope></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <classDecl>
+        <taxonomy xml:id="medsurg">
+          <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="#medsurg">
+          <term>wounds and injuries of the chest</term>
+          <term>operations on the chest</term>
+          <term>excisions</term>
+          <term>balls and foreign bodies lodged</term>
+          <term>comminuted fracture of second rib</term>
+          <term>gunshot penetrating wound of chest</term>
+          <term>ball lodged in posterior lower lobe of lung</term>
+          <term>encysted foreign body</term>
+          <term>ball fractured sternum, injured pericardium</term>
+          <term>necropsy performed</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+ <change who="#kw" when="2014-05">blessed</change>
+      <change who="#ajh" when="2013-08-21">added figure encoding</change>
+      <change who="#mb" when="2012-01-25">additional proofing of transcription and encoding</change>
+      <change who="#el" when="2011-05-11">case text extracted and transformed from larger
+        file</change>
+      <change who="#sb" when="2011-02-09">enriched encoding</change>
+      <change who="#sb" when="2011-01-28">validated file</change>
+      <change who="#et" when="2009-08-01">encoded</change>
+      <change who="#sb" when="2008-09-22">initial checking of OCR text against PDF; encoded
+      </change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+
+      <p>
+        <hi rend="initialcap">C</hi>ASE 15.&#8212;<name type="person" key="xxx">Corporal W.
+          S&#8212;&#8212;</name>, <name type="organization" key="xxx">Co. H, 151st New York
+          Volunteers</name>, aged 26 years, was admitted to the <name type="hospital" key="189">3d
+          division hospital</name>, <name type="place">Alexandria</name>, <date type="admit"
+          when="1863-12-04">December 4th, 1863</date>, with a gunshot penetrating wound of the left
+        chest, received at <name type="battle" key="xxx">Locust Grove, Virginia</name>, <date
+          type="injury" when="1863-11-27">November 27th</date>. A conical ball entered two inches
+        below the coracoid process, passed inward and downward and lodged in the posterior portion
+        of the lower lobe of the left lung. When admitted, there was slight constitutional
+        disturbance, diminished respiration of apex of left lung, slight cough, and white frothy
+        expectorations. Sedatives, anodynes, and stimulants were administered, with nourishing diet.
+        On the next day, the patient was able to walk about the ward and seemed quite comfortable.
+        Nothing occurred to attract particular attention until <date type="injury" when="1864-01-03"
+          >January 3d</date>, when the expectoration was noticed to be very offensive; respiration
+        scarcely perceptible in the left lung; pulse very weak. January 8th, 1864, breathing
+        labored, complete <choice>
+          <orig>dulness</orig>
+          <reg>dullness</reg>
+        </choice> of left side extending to right of sternum. He gradually sank, and died on <date
+          type="death" when="1864-01-10">January 10th, 1864</date>. Necropsy: Left pleural cavity
+        filled with serum; lung compressed in small space. Pericardium was much distended with
+        fluid, amounting to twelve ounces, and the second rib comminuted. The ball had struck the
+        sternum at the articulation of the second rib, which was denuded and rough. The whole
+        surface of the pericardium was covered with coagulated lymph having the appearance of tripe.
+        The ball was found in the posterior portion of the lower lobe of the right lung; the liver
+        was enlarged and soft. A preparation of a portion of the left lung, with the missile lodged
+        just beneath its surface, is represented in the wood-cut (<hi rend="initialcap">F</hi>IG.
+        285). The lung has been laid open to display the lodgement of the ball. Even the rings on
+        the base of the projectile are imprinted on the cheesy tissue. The specimen was contributed,
+        with a history of the case, by <name type="person">Acting Assistant Surgeon W. G.
+          Elliott</name>. </p>
+
+      <figure><graphic url="cww.001491.001"/><head>
+        <hi rend="initialcap">F</hi>IG. 285.&#8212;Conoidal ball encysted near the free edge of the
+        lower lobe of the left lung. The segment of the lobe is laid open to show the lodgement of
+        the missile. <hi rend="italic">Spec</hi>. 2014, Sect. I, A. M. M.</head></figure>
+
+    </body>
+  </text>
+</TEI>

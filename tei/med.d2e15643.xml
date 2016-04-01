@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d2e15643">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Kisner, S.</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+    <idno>med.d2e15643</idno>
+    <authority>Civil War Washington</authority>
+    <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor><name>Center for Digital Research in the
+     Humanities</name><address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address></distributor>
+    <date>2011</date>
+    <availability>
+     <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+      republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+      law, requires express written consent from the editors and advance notification of the
+      publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+ <persName xml:id="kmp">Kenneth M. Price</persName> 
+     <persName xml:id="ajh">AJ Howell</persName>
+     <persName xml:id="mb">Matthew Bosley</persName>
+     <persName xml:id="el">Elizabeth Lorang</persName>
+     <persName xml:id="sb">Stacey Berry</persName>
+     <persName xml:id="et">Elisabeth Tracey</persName>
+     <persName xml:id="ss">Sarah Synovec</persName>
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title level="j">The Medical and Surgical History of the War of the Rebellion.
+      (1861-65.)</title><pubPlace>Washington, DC</pubPlace><publisher>Government Printing
+      Office</publisher><biblScope type="part">Part 3</biblScope><biblScope type="volume">Volume
+      2</biblScope><date when="1883">1883</date><biblScope type="page">380</biblScope></bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+     <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <keywords scheme="#medsurg">
+     <term>wounds and injuries of the lower extremities</term>
+     <term>wounds and injuries of the knee joint</term>
+     <term>shot injuries of the knee joint</term>
+     <term>shot fractures of the knee joint</term>
+     <term>shot fractures of the bones of the knee joint treated by conservation</term>
+     <term>fatal cases of shot fractures of the bones of the knee joint treated by
+      conservation</term>
+     <term>carbine shot entered thigh anteriorly at its middle, passed downward and inward, lodged
+      beneath integument on inner side of knee joint</term>
+     <term>erysipelas</term>
+     <term>diarrh&#339;a</term>
+     <term>bullet lacerated sartorius muscle, splintered internal condyle of femur</term>
+     <term>articular surfaces of femur and tibia denuded of cartilage</term>
+     <term>joint and cellular tissues of thigh filled with pus</term>
+     <term>autopsy performed</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+ <change who="#kmp" when="2014-05">blessed</change>
+   <change who="#ajh" when="2013-08-23">added figure encoding</change>
+   <change who="#mb" when="2012-05-25">additional proofing of transcription and encoding, identified
+    keyword terms</change>
+   <change who="#el" when="2011-05-11">case text extracted and transformed from larger file</change>
+   <change who="#sb" when="2011-06-04">Enrich Encoding, Edit and validate</change>
+   <change who="#sb" when="2011-01-28">Validated File</change>
+   <change who="#ss" when="2008-09-22">initial checking of OCR text; encoded P5 Encoding</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+
+   <p><hi rend="initialcap">C</hi>ASE 569.&#8212;<name type="person" key="1164">Private S.
+     Kisner</name>, <name type="organization" key="160">Co. E, 7th Michigan</name>,&#185; aged 29
+    years, was wounded on picket near <name type="place">Chantilly</name>, <date type="injury"
+     when="1863-06-19">June 19, 1863</date>, by a carbine shot, which entered the left thigh
+    anteriorly at about its middle, passed downward and inward, and lodged beneath the integument on
+    the inner side of the knee joint. He was brought to <name type="place" key="#Washington"
+     >Washington</name> and admitted to <name type="hospital" key="175">Stanton Hospital</name>
+    <date type="admit" when="1863-06-25">six days after being wounded</date>. On <date
+     type="operation" when="1863-06-27">June 27th</date>, a conical ball was readily extracted
+    through an incision, its situation being superficial. The joint at this time was neither swollen
+    nor tender and did not appear to be involved in any way. On July 2d, some pain and swelling was
+    noticed for the first time, when an ice-bag was applied to the knee. <date type="injury"
+     when="1863-07-04">Two days later</date> the swelling had extended up the thigh, and by July 6th
+    there was well-marked erysipelas as well as effusion in the knee joint. Tincture of iodine was
+    applied and tincture of muriate of iron was administered; stimulants were given freely. By July
+    8th, the erysipelas had extended clear up to the groin. On July 12th, the discharge of pus was
+    free, and in consequence the tension and swelling of the thigh were sensibly diminished. The
+    patient, however, was manifestly failing. On <date type="death" when="1863-07-18">July
+     18th</date>, he was seized with diarrh&#339;a, and death supervened in the evening. The autopsy
+    showed that the bullet had lacerated the sartorius muscle extensively and splintered the
+    internal condyle of the femur. The joint and the cellular tissues of the thigh were filled with
+    dark colored and very offensive pus, and the articular surfaces of the femur and tibia were
+    denuded of cartilage. <name type="person" key="70">Surgeon J. A. Lidell</name>, <name
+     type="organization" key="132">U. S. V.</name>, who furnished the history, with the pathological
+    specimen (<hi rend="initialcap">F</hi>IG. 232) and the missile (<hi rend="italic">Specimen</hi>
+    3074, <hi rend="italic">Surgical Section</hi>, A. M. M.), remarks: "The case interested me
+    greatly, because when the bullet was extracted there was not the slightest evidence of injury to
+    the inner condyle, nor indeed to any other bone whatever. The bullet was located quite
+    superficially and not in relation with the injured condyle. During the eight days which elapsed
+    between the receipt of the wound and the extraction of the missile said bullet must have slipped
+    away from the bone into a new position. When, therefore, on July 2d, some inflammatory trouble
+    in the knee appeared, we thought it was not due to an injury of the bone, but that the
+    involvement of the joint originated from the soft parts. The case also affords a good
+    illustration of the obscurity of the symptoms and the difficulty of diagnosis which may attend a
+    serious gunshot injury of an articulation so thinly covered with soft parts and so easy of
+    examination from every side as the knee joint." </p>
+   <p>&#185; A brief abstract of this case was published in <hi rend="italic">Circular</hi> No. 6,
+    War Department, S. G. O., Washington, 1865, p. 36.</p>
+   <figure>
+    <graphic url="cww.001608.001"/>
+    <head><hi rend="initialcap">F</hi>IG. 232.&#8212;The bones of the left knee; the posterior
+     portion of the internal condyle is split off. <hi rend="italic">Spec</hi>. 1399.</head>
+   </figure>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e41267">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Smith, Robert</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+    <idno>med.d1e41267</idno>
+       <authority>Civil War Washington</authority>
+       <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor>
+       <name>Center for Digital Research in the Humanities</name>
+       <address><addrLine>319 Love Library</addrLine>
+       <addrLine>University of Nebraska–Lincoln</addrLine>
+       <addrLine>Lincoln, NE 68588-4100</addrLine>
+       <addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+    </distributor>
+    <date>2011</date>
+    <availability>
+        <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+         republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+         law, requires express written consent from the editors and advance notification of the
+         publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+     <persName xml:id="mb">Matthew Bosley</persName>
+     <persName xml:id="el">Elizabeth Lorang</persName>
+     <persName xml:id="sb">Stacey Berry</persName>
+     <persName xml:id="ao">Alyssa Olson</persName>
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl>
+     <title level="j">The Medical and Surgical History of the War of the Rebellion. (1861-65.)</title>
+     <pubPlace>Washington, DC</pubPlace>
+     <publisher>Government Printing Office</publisher>
+     <biblScope type="part">Part 2</biblScope>
+     <biblScope type="volume">Volume 1</biblScope>
+     <date when="1879">1879</date>
+     <biblScope type="page">183</biblScope>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+       <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+      <keywords scheme="#medsurg">
+       <term>diarrh&#339;a and dysentery</term>
+       <term>fatal cases of diarrh&#339;a and dysentery, with accounts of the morbid appearances observed</term>
+       <term>from Lincoln Hospital, Washington, D. C.</term>
+       <term>chronic diarrh&#339;a</term>
+       <term>both lungs considerably congested</term>
+       <term>mucous membrane of intestine dark-red color, no ulcers</term>       
+       <term>autopsy performed</term>       
+     </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change who="#mb" when="2012-11-21">additional proofing of transcription and encoding, identified keyword terms</change>
+   <change who="#el" when="2010-11-05">case text extracted and transformed from larger file</change>
+   <change who="#sb" when="2010-05-01">enrich encoding, proof and edit</change>
+   <change who="#ao" when="2008-10-02">encoding and editing</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body> 
+   <p>Case from the case-book of <name type="hospital" key="176"><hi rend="initialcap">L</hi>INCOLN <hi rend="initialcap">H</hi>OSPITAL</name>, Washington, D. C.; <name type="person" key="243">Surgeon J. Cooper McKee</name>, <name type="organization" key="190">U. S. A.</name>, in charge.</p>
+   <p><hi rend="initialcap">C</hi>ASE 419.&#8212;<name type="person" key="xxx">Sergeant Robert Smith</name>, <name type="organization" key="xxx">company C, 8th Maryland volunteers</name>; age 23; admitted from the depot hospital of the 5th Corps, <name type="place">City Point, Virginia</name>, <date type="admit" when="1865-01-18">January 18, 1865</date>.  Chronic diarrh&#339;a.  Died, <date type="death" when="1865-01-26">January 26th</date>.  <hi rend="italic">Autopsy</hi> <date type="autopsy" when="1865-01-26">the same day</date>: Height five feet ten inches; rigor mortis well marked; body much emaciated. The brain weighed fifty-one ounces. The mucous membrane of the trachea and bronchial tubes was much congested, and of a dull-pink hue. Both lungs were considerably congested; the right lung weighed thirteen ounces, the left nineteen ounces. The heart weighed eight ounces. The spleen was normal, and weighed eight ounces. The liver was congested, quite a large amount of black blood exuding on section; it weighed fifty three ounces. The kidneys appeared to be normal; the right weighed six ounces and a half, the left seven and a half. The &#339;sophagus, stomach and duodenum appeared to be normal. The mucous membrane of the rest of the intestine was of a dark-red color, but no ulcers were observed.&#8212;<name type="person" key="246">Acting Assistant Surgeon H. M. Dean</name>.</p>
+  </body>
+ </text>
+</TEI>

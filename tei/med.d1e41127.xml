@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e41127">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Ryckman, Samuel</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+    <idno>med.d1e41127</idno>
+       <authority>Civil War Washington</authority>
+       <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor>
+       <name>Center for Digital Research in the Humanities</name>
+       <address><addrLine>319 Love Library</addrLine>
+       <addrLine>University of Nebraska–Lincoln</addrLine>
+       <addrLine>Lincoln, NE 68588-4100</addrLine>
+       <addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+    </distributor>
+    <date>2011</date>
+    <availability>
+        <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+         republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+         law, requires express written consent from the editors and advance notification of the
+         publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+     <persName xml:id="mb">Matthew Bosley</persName>
+     <persName xml:id="el">Elizabeth Lorang</persName>
+     <persName xml:id="sb">Stacey Berry</persName>
+     <persName xml:id="ao">Alyssa Olson</persName>
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl>
+     <title level="j">The Medical and Surgical History of the War of the Rebellion. (1861-65.)</title>
+     <pubPlace>Washington, DC</pubPlace>
+     <publisher>Government Printing Office</publisher>
+     <biblScope type="part">Part 2</biblScope>
+     <biblScope type="volume">Volume 1</biblScope>
+     <date when="1879">1879</date>
+     <biblScope type="page">173</biblScope>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+       <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+      <keywords scheme="#medsurg">
+       <term>diarrh&#339;a and dysentery</term>
+       <term>fatal cases of diarrh&#339;a and dysentery, with accounts of the morbid appearances observed</term>
+       <term>from Lincoln Hospital, Washington, D. C.</term>
+       <term>chronic diarrh&#339;a</term>
+       <term>left lung apex was mass of tubercle the size of walnut</term>
+       <term>pericardium contained fluid</term>
+       <term>liver firm and fatty</term>
+       <term>mucous membrane of lower ileum thin and congested, valvul&#230; conniventes almost obliterated, Peyer's patches dull-slate color but not prominent or ulcerated</term>       
+       <term>large intestine extensively ulcerated from c&#230;cum to anus, some deep ulcers with irregular outlines and dark blue-stone colored bases</term>
+       <term>transverse colon ulceration very superficial</term>
+       <term>autopsy performed</term>       
+     </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change who="#mb" when="2012-11-14">additional proofing of transcription and encoding, identified keyword terms</change>
+   <change who="#el" when="2010-11-05">case text extracted and transformed from larger file</change>
+   <change who="#sb" when="2010-05-01">enrich encoding, proof and edit</change>
+   <change who="#ao" when="2008-10-02">encoding and editing</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body> 
+   <p>Case from the case-book of <name type="hospital" key="176"><hi rend="initialcap">L</hi>INCOLN <hi rend="initialcap">H</hi>OSPITAL</name>, Washington, D. C.; <name type="person" key="242">Assistant Surgeon Roberts Bartholow</name>, <name type="organization" key="190">U. S. A.</name>, in charge from August 21st to December, 1863.</p>
+   <p><hi rend="initialcap">C</hi>ASE 380.&#8212;<name type="person" key="xxx">Private Samuel Ryckman</name>, <name type="organization" key="xxx">company C, 6th Michigan cavalry</name>; admitted <date type="admit" when="1863-07-30">July 30, 1863</date>.  Chronic diarrh&#339;a.  Died, <date type="death" when="1863-10-27">October 27th</date>.  <hi rend="italic">Autopsy</hi> <date type="autopsy" when="1863-10-28">sixteen hours after death</date>: Height five feet ten inches; no rigor mortis; emaciation extreme. The brain was somewhat soft; it weighed forty-seven ounces and a half. The mucous membrane of the trachea was pale. The right lung weighed fifteen ounces and three-quarters; its upper lobes were healthy, the lower lobe somewhat congested, and a tenacious mucus exuded from the bronchial tubes on pressure. The left lung weighed fourteen ounces and a half; in its apex was a mass of tubercle the size of a walnut, which was just beginning to soften; the lower lobe was in a state of venous congestion, the mucous membrane of its bronchial tubes inflamed; the bronchial glands were large, soft and black. The pericardium contained two drachms of fluid. The heart was healthy; it weighed seven ounces and a quarter. The liver was of firm consistence, pale-yellow color, and fatty; it weighed fifty-seven ounces and three-quarters; the gall-bladder contained ten drachms of bile. The spleen was firm, of a dark-mulberry color on section, and weighed ten ounces and a half. The pancreas weighed two ounces and three-quarters. The kidneys were slightly congested; the right weighed five ounces and a quarter, the left three and three-quarters. The upper portion of the small intestine was healthy; in the lower part of the ileum the mucous membrane was thin, soft, and congested; the valvul&#230; conniventes were almost obliterated; Peyer's patches were of a dull-slate color, but not prominent or ulcerated. The large intestine was extensively ulcerated from the c&#230;cum to the anus; some of the ulcers were very deep, their outlines exceedingly irregular, their bases of a dark blue-stone color; no solitary glands were visible, and no diphtheritic membrane was present. In the transverse colon the ulceration was very superficial.&#8212;<name type="person" key="245">Assistant Surgeon Harrison Allen</name>, <name type="organization" key="190">U. S. A.</name>&#8432; </p>
+   <p>&#8432; September 14, 1864, <name type="person" key="245">Dr. Allen</name> presented to the Pathological Society of Philadelphia a brief &#34;<hi rend="italic">Synopsis of Autopsies made at <name type="hospital" key="176">Lincoln General Hospital</name></hi>,&#34; to which the reader is referred.&#8212;(Proceedings of the Pathological Society of Philadelphia, in the American Journal of the Medical Sciences, January, 1865, page 133.)  In this paper he analyzes the appearances observed in forty-one cases of diarrh&#339;a and dysentery, thirty-five of fever, twenty-one of pneumonia, and five of diphtheria. The notes of <name type="person" key="245">Dr. Allen</name>'s autopsies, from which the accounts here presented have been condensed, were not contained in the case-books of <name type="hospital" key="176">Lincoln hospital</name> turned in to the <name type="organization" key="xxx">Surgeon General's Office</name> at the close of the war, but have since been copied into them from the originals, loaned for the purpose.</p>
+  </body>
+ </text>
+</TEI>

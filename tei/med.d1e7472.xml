@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e7472">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Smith, William</title>
+                <title level="m" type="sub">a machine readable transcription</title>
+                <principal>Susan C. Lawrence</principal>
+                <principal>Kenneth M. Price</principal>
+                <principal>Kenneth J. Winkle</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2011</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <idno>med.d1e7472</idno>
+                <authority>Civil War Washington</authority>
+                <publisher>University of Nebraska–Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+                </distributor>
+                <date>2011</date>
+                <availability>
+                    <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved.
+                        Redistribution or republication in any medium, except as allowed under the
+                        Fair Use provisions of U.S. copyright law, requires express written consent
+                        from the editors and advance notification of the publisher, the University
+                        of Nebraska–Lincoln.</p>
+                </availability>
+            </publicationStmt>
+            <notesStmt>
+                <note type="project">The following are responsible for particular readings or for changes to this file, as noted:
+                    <persName xml:id="mb">Matthew Bosley</persName>
+                    <persName xml:id="el">Elizabeth Lorang</persName>
+                    <persName xml:id="sb">Stacey Berry</persName>
+                    <persName xml:id="et">Elisabeth Tracey</persName>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>The Medical and Surgical History of the War of the Rebellion. (1861&#8211;65.)</title>
+                    <editor role="compiler">Surgeon General Joseph K. Barnes, United States Army</editor>
+                    <pubPlace>Washington, D.C.</pubPlace>
+                    <publisher>Government Printing Office</publisher>
+                    <biblScope type="part">Part 1</biblScope>
+                    <biblScope type="volume">Volume 2</biblScope>
+                    <date when="1870">1870</date>
+                    <biblScope type="page">112</biblScope>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <classDecl>
+                <taxonomy xml:id="medsurg">
+                    <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme="#medsurg">                   
+                    <term>on special wounds and injuries of the head</term>
+                    <term>wounds and injuries of the head</term>
+                    <term>gunshot wounds</term>
+                    <term>gunshot contusions of the cranial bones</term> 
+                    <term>contusion of the skull without fracture</term>
+                    <term>intracranial abscess</term>
+                    <term>suppuration following gunshot contusions of the cranium</term>
+                    <term>conoidal ball caused contusion of parietal bone</term>
+                    <term>convulsive paroxysms, soporose condition, delirium, and coma</term>
+                    <term>plate of bone separated by exfoliation from inner table and adherent to dura mater immediately beneath position of original wound</term>                   
+                    <term>brain substance softened beneath position of wound, contained small abscess</term>
+                    <term>arachnoid acutely inflamed</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change who="#mb" when="2013-06-05">additional proofing of transcription and encoding, edited and added keyword terms</change>
+            <change who="#mb" when="2011-10-05">additional proofing of transcription and encoding</change>
+            <change who="#mb" when="2011-06-17">additional proofing of transcription and encoding</change>            
+            <change who="#el" when="2011-11-05">case text extracted and transformed from larger file</change>
+            <change who="#sb" when="2011-02-09">enriched encoding</change>
+            <change who="#sb" when="2011-01-28">validated file</change>
+            <change who="#et" when="2009-08-01">encoded</change>
+            <change who="#sb" when="2008-09-22">initial checking of OCR text against PDF; encoded</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body xml:id="ch1.sc3.0096">            
+                <p><name type="person" key="375"><hi rend="initialcap">S</hi>MITH, <hi
+                            rend="initialcap">W</hi>ILLIAM</name>, Private, <name
+                        type="organization" key="593">Co. G, 4th New York Heavy Artillery</name>,
+                    aged 18 years, was wounded, at the battle of <name type="BATTLE" key="255">Hatcher's Run, Virginia</name>, <date type="injury" when="1865-03-31">March
+                        31st, 1865</date>, by a conoidal ball, which caused a contusion of the left
+                    parietal bone.  He was, on <date type="admit" when="1865-04-01">the following day</date>, admitted to the hospital of the
+                        Second Corps. On <date type="transfer" when="1865-04-05">April 5th</date>, he
+                    was transferred to the <name type="hospital" key="172">Emory Hospital</name>,
+                    Washington, D. C., and on <date type="transfer" when="1865-04-09">April
+                        9th</date>, sent to the <name type="hospital">Cuyler Hospital, Philadelphia</name>, Pennsylvania.  On
+                    admittance no osseous lesion could be detected. The case progressed favorably
+                    until <date type="injury" when="1865-04-16">April 16th</date>, when the patient had two or three slight convulsive paroxysms,
+                    lying in a somewhat soporose condition during the intervals. He afterwards
+                    became delirious, and finally almost completely comatose. The muscles of the
+                    left side of the body were observed to be in a state of spasmodic contraction,
+                    and a large collection of pus formed beneath the left side of the scalp,
+                    anterior to the wound, and was opened on <date type="operation" when="1865-04-29">April 29th</date>. The pathological condition
+                    was supposed to be, that an abscess, resulting from the original shock to the
+                    brain substance, was exciting irritation, and would probably eventually burst
+                    into one of the lateral ventricles. Mercurials, tartarized antimony, and the
+                    fluid extract of veratrum viride were exhibited internally, while the head was
+                    kept somewhat elevated.  Death ensued on the night of <date type="death"
+                        when="1865-04-30">April 30th, 1865</date>, one month from the reception of
+                    injury.  An autopsy was made <date type="death" when="1865-05-01">about fourteen hours after death</date>, with the following
+                    results: there was no fracture of the skull to be detected when the scalp was
+                    removed, and the bone was not bared beneath the abscess, which has been
+                    described as having formed a few hours before death, but was manifestly necrosed
+                    just below the original wound. On removing the skull cap it was found that a
+                    plate of bone, about one inch long and three-quarters of an inch broad, had been
+                    separated by exfoliation from the inner table, and was adherent to the dura
+                    mater immediately beneath the position of the original scalp wound. The brain
+                    was removed with the membranes entire, but a moderate quantity of blood and
+                    serum being found beneath the dura mater and the skull. On reflecting the dura
+                    mater of the <hi rend="italic">right</hi> hemisphere, the arachnoid over the middle lobe of the
+                    cerebrum was found to be acutely inflamed, presenting an abundant deposit of
+                    soft coagulable lymph. The membranes of the left side presented merely a slight
+                    pearliness, and the adhesion of the dura mater to the sequestrum, already
+                    referred to. The brain substance on the right side was healthy; on the left side, it was softened beneath the position of the wound, and, at the depth of
+                    about three-quarters of an inch, was a small abscess, not larger than a small
+                    hickory-nut. All other parts of the body examined appeared normal. The muscular
+                    contraction on the same side of the body as the wound was now accounted for by
+                    the existence of intracranial disease upon the opposite side.   The case is
+                    reported by <name type="person" key="374">Henry S. Schell, Assistant Surgeon</name> <name type="organization" key="190">U. S. Army</name>. </p>            
+        </body>
+    </text>
+</TEI>

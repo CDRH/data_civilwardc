@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d2e23996">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Jennings, C. E.</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+    <idno>med.d2e23996</idno>
+    <authority>Civil War Washington</authority>
+    <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor><name>Center for Digital Research in the
+     Humanities</name><address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address></distributor>
+    <date>2011</date>
+    <availability>
+     <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+      republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+      law, requires express written consent from the editors and advance notification of the
+      publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+     <persName xml:id="mb">Matthew Bosley</persName>
+     <persName xml:id="el">Elizabeth Lorang</persName>
+     <persName xml:id="sb">Stacey Berry</persName>
+     <persName xml:id="et">Elisabeth Tracey</persName>
+     <persName xml:id="ss">Sarah Synovec</persName>
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title level="j">The Medical and Surgical History of the War of the Rebellion.
+      (1861-65.)</title><pubPlace>Washington, DC</pubPlace><publisher>Government Printing
+      Office</publisher><biblScope type="part">Part 3</biblScope><biblScope type="volume">Volume
+      2</biblScope><date when="1883">1883</date><biblScope type="page">622</biblScope></bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+     <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <keywords scheme="#medsurg">
+     <term>wounds and injuries of the lower extremities</term> 
+     <term>wounds and operations in the foot</term>
+     <term>shot wounds of the bones of the foot</term>
+     <term>shot fractures of the bones of the foot</term> 
+     <term>shot fractures of the bones of the foot treated by conservation</term> 
+     <term>ball entered inner side of foot, passed through three cuneiform bones and cuboid, exit wound on external and upper surface of foot</term> 
+     <term>erysipelas</term>
+     <term>wounds discharging unhealthy sanious pus</term>     
+    </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change who="#mb" when="2012-06-18">additional proofing of transcription and encoding, identified keyword terms</change>
+   <change who="#el" when="2011-05-11">case text extracted and transformed from larger file</change>
+   <change who="#sb" when="2011-06-04">Enrich Encoding, Edit and validate</change>
+   <change who="#sb" when="2011-01-28">Validated File</change>
+   <change who="#ss" when="2008-09-22">initial checking of OCR text; encoded P5 Encoding</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>   
+    <p><hi rend="initialcap">C</hi>ASE 906.&#8212;<hi rend="italic">Shot fracture of tarsal bones; death.</hi>&#8212;<name type="person" key="1400">Captain C. E. Jennings</name>, <name
+      type="organization" key="528">Co. G, 26th New York</name>, was wounded in the foot, at <name
+      type="BATTLE" key="127">Bull Run</name>, <date type="injury" when="1862-08-30">August 30,
+       1862</date>, and was conveyed to <name type="place" key="#Washington">Washington</name>.  <name type="person" key="938">Surgeon C. L.
+      Allen</name>, <name type="organization" key="132">U. S. V.</name>, reported:  "The patient was
+     a man about thirty years of age, of a sanguine temperament, and apparently of good constitution
+     and fair health previous to being wounded; while he was at <name type="place" key="#Alexandria">Alexandria</name>, on his way to
+     <name type="place" key="#Washington">Washington</name>, a surgeon had declared the necessity of amputation; but before the operation could be performed the patient was taken to <name type="place" key="#Washington">Washington</name>. The
+     ball had entered on the inner side of the foot and passed through the three cuneiform bones and
+     the cuboid, the wound of exit being upon the external and upper surface of the foot. On
+     September 27th the foot was enormously swollen, and there were five or six openings besides the
+     original wounds discharging large quantities of unhealthy sanious pus. The leg and even the
+     thigh were very much swollen and &#339;dematous, and the lower third of the leg was marked by
+     several long cicatrices, said to be the results of incisions made early in the case for
+     erysipelatous inflammation. His general condition was that of marked hectic and his emaciation
+     was great. He had also considerable dyspn&#339;a and complained of pain in his chest, for which
+     sinapisms were being applied. Compound tincture of cinchona and tincture of cantharides, with
+     brandy and liberal allowance of beef-essence, etc., were now immediately ordered for the
+     patient, hoping but not expecting to raise him to a condition to sustain amputation of the leg.
+     Although crowding the nourishment and stimulants to the utmost he continued to sink, and died
+     on <date type="death" when="1862-10-01">October 1, 1862</date>.  No <hi rend="italic">post-mortem</hi> examination was held."</p>   
+  </body>
+ </text>
+</TEI>

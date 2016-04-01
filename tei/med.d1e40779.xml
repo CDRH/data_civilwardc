@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e40779">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Fehle, Charles</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+       <idno>med.d1e40779</idno>
+       <authority>Civil War Washington</authority>
+       <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor>
+       <name>Center for Digital Research in the Humanities</name>
+       <address><addrLine>319 Love Library</addrLine>
+       <addrLine>University of Nebraska–Lincoln</addrLine>
+       <addrLine>Lincoln, NE 68588-4100</addrLine>
+       <addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+    </distributor>
+    <date>2011</date>
+    <availability>
+        <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+         republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+         law, requires express written consent from the editors and advance notification of the
+         publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+     <persName xml:id="mb">Matthew Bosley</persName>
+     <persName xml:id="el">Elizabeth Lorang</persName>
+     <persName xml:id="sb">Stacey Berry</persName>
+     <persName xml:id="ao">Alyssa Olson</persName>   
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl>
+     <title level="j">The Medical and Surgical History of the War of the Rebellion. (1861-65.)</title>
+     <pubPlace>Washington, DC</pubPlace>
+     <publisher>Government Printing Office</publisher>
+     <biblScope type="part">Part 2</biblScope>
+     <biblScope type="volume">Volume 1</biblScope>
+     <date when="1879">1879</date>
+     <biblScope type="page">142</biblScope>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+       <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+      <keywords scheme="#medsurg">
+       <term>diarrh&#339;a and dysentery</term>
+       <term>fatal cases of diarrh&#339;a and dysentery, with accounts of the morbid appearances observed</term>
+       <term>from the Judiciary Square Hospital, Washington, D. C.</term>
+       <term>chronic diarrh&#339;a</term>
+       <term>typhoid fever</term>
+       <term>lung compressed by moderately thick pus</term>
+       <term>mucous membrane of descending colon and sigmoid flexure presented numerous follicular ulcers</term>       
+       <term>numerous follicular ulcers of colon, coalesced into excavating ulcers of considerable size</term>
+       <term>autopsy performed</term>
+     </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change who="#mb" when="2012-10-12">additional proofing of transcription and encoding, identified keyword terms</change>
+   <change who="#el" when="2010-11-05">case text extracted and transformed from larger file</change>
+   <change who="#sb" when="2010-05-01">enrich encoding, proof and edit</change>
+   <change who="#ao" when="2008-10-02">encoding and editing</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body> 
+   <p>Case was forwarded, with specimens, to the <name type="hospital" key="431">Army Medical Museum</name> from the <name type="hospital" key="428"><hi rend="initialcap">J</hi>UDICIARY <hi rend="initialcap">S</hi>QUARE <hi rend="initialcap">H</hi>OSPITAL</name>, Washington, D. C., <name type="person" key="147">Assistant Surgeon Elias J. Marsh</name>, <name type="organization" key="190">U. S. A.</name>, in charge.</p>
+   <p><hi rend="initialcap">C</hi>ASE 263.&#8212;<name type="person" key="151">Private Charles Fehle</name>, <name type="organization" key="191">company B, 1st New Jersey volunteers</name>; admitted <date type="admit" when="1863-02-15">February 15, 1863</date>, with chronic diarrh&#339;a.  [It appears from the register of the hospital of the 1st Division, 6th Corps, that this man was admitted to that hospital <date type="admit" when="1863-01-20">January 20th</date>, and sent to <name type="place" key="#Washington">Washington</name> <date type="transfer" when="1863-02-13">February 13th</date>; the diagnosis recorded is typhoid fever.]  He had been taken sick in the <name type="organization" key="xxx">army of the Potomac</name>.  Died, <date type="death" when="1863-02-16">February 16th</date>.  <hi rend="italic">Autopsy</hi> <date type="autopsy" when="1863-02-17">twelve hours after death</date>: Body much emaciated. The brain and spinal marrow were not examined. The left lung was healthy; the right lung was very thin, and compressed against the anterior and upper part of the thorax by about two quarts of moderately thick not offensive pus. The pleura costalis was covered by a thick pseudomembrane. The heart was healthy. The liver and kidneys were also healthy. The spleen was very small. The stomach and small intestine were healthy. The mucous membrane of the descending colon and sigmoid flexure was thickened, softened, and presented numerous follicular ulcers from an eighth to half an inch in diameter.&#8212;<name type="person" key="147">Assistant Surgeon E. J. Marsh</name>, <name type="organization" key="190">U. S. A.</name>  [Nos. 218 and 219, Medical Section, <name type="hospital" key="xxx">Army Medical Museum</name>, are from this case. The specimens are successive portions of the colon, presenting numerous follicular ulcers, some of which, in No. 219, have coalesced into an irregular excavating ulcer of considerable size.]</p>    
+  </body>
+ </text>
+</TEI>

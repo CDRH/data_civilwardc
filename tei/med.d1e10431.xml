@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e10431">
+                <teiHeader>
+                                <fileDesc>
+                                                <titleStmt>
+                                                                <title level="m" type="main">McGauhey, David</title>
+                                                  <title level="m" type="sub">a machine readable
+                                                  transcription</title>
+                                                  <principal>Susan C. Lawrence</principal>
+                                                  <principal>Kenneth M. Price</principal>
+                                                  <principal>Kenneth J. Winkle</principal>
+                                                </titleStmt>
+                                                <editionStmt>
+                                                  <edition>
+                                                  <date>2011</date>
+                                                  </edition>
+                                                </editionStmt>
+                                                <publicationStmt>
+                                                  <idno>med.d1e10431</idno>
+                                                  <authority>Civil War Washington</authority>
+                                                  <publisher>University of
+                                                  Nebraska–Lincoln</publisher>
+                                                  <distributor>
+                                                  <name>Center for Digital Research in the
+                                                  Humanities</name>
+                                                  <address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+                                                  </distributor>
+                                                  <date>2011</date>
+                                                  <availability>
+                                                  <p>Copyright © 2011 by University of
+                                                  Nebraska–Lincoln, all rights reserved.
+                                                  Redistribution or republication in any medium,
+                                                  except as allowed under the Fair Use provisions of
+                                                  U.S. copyright law, requires express written
+                                                  consent from the editors and advance notification
+                                                  of the publisher, the University of
+                                                  Nebraska–Lincoln.</p>
+                                                  </availability>
+                                                </publicationStmt>
+                                                <notesStmt>
+                                                  <note type="project">The following are responsible for particular readings or for changes to this file, as noted: 
+                                                                  <persName xml:id="mb">Matthew Bosley</persName>           
+                                                                  <persName xml:id="el">Elizabeth Lorang</persName>
+                                                                  <persName xml:id="sb">Stacey Berry</persName>
+                                                                  <persName xml:id="et">Elisabeth Tracey</persName>
+                                                  </note>
+                                                </notesStmt>
+                                                <sourceDesc>
+                                                  <bibl>
+                                                  <title>The Medical and Surgical History of the War of the Rebellion. (1861&#8211;65.)</title>
+                                                  <editor role="compiler">Surgeon General Joseph K. Barnes, United States Army</editor>
+                                                  <pubPlace>Washington, D.C.</pubPlace>
+                                                  <publisher>Government Printing Office</publisher>
+                                                  <biblScope type="part">Part 1</biblScope>
+                                                  <biblScope type="volume">Volume 2</biblScope>
+                                                  <date when="1870">1870</date>
+                                                  <biblScope type="page">138</biblScope>
+                                                  </bibl>
+                                                </sourceDesc>
+                                </fileDesc>
+                                <encodingDesc>
+                                                <classDecl>
+                                                  <taxonomy xml:id="medsurg">
+                                                  <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+                                                  </taxonomy>
+                                                </classDecl>
+                                </encodingDesc>
+                                <profileDesc>
+                                                <textClass>
+                                                  <keywords scheme="#medsurg">
+                                                    <term>on special wounds and injuries of the head</term>
+                                                    <term>wounds and injuries of the head</term>
+                                                    <term>gunshot wounds</term>
+                                                    <term>gunshot contusions of the cranial bones</term> 
+                                                    <term>gunshot fractures of the external table of the cranium alone</term>
+                                                    <term>appearances and symptoms of skull fracture not defined with sufficient precision to permit accurate diagnosis</term>
+                                                    <term>alleged fractures of outer table of parietal bones</term>
+                                                    <term></term>             
+                                                  </keywords>
+                                                </textClass>
+                                </profileDesc>
+                                <revisionDesc>
+                                                <change who="#mb" when="2013-06-28">additional proofing of transcription and encoding, edited and added keyword terms</change>
+                                                <change who="#mb" when="2011-06-27">additional proofing of transcription and encoding</change>
+                                                <change who="#el" when="2011-11-05">case text extracted and transformed from larger file</change>
+                                                <change who="#sb" when="2011-02-09">enriched encoding</change>
+                                                <change who="#sb" when="2011-01-28">validated file</change>
+                                                <change who="#et" when="2009-08-01">encoded</change>
+                                                <change who="#sb" when="2008-09-22">initial checking of OCR text against PDF; encoded</change>
+                                </revisionDesc>
+                </teiHeader>
+                <text>
+                                <body xml:id="ch1.sc3.0170">                                              
+                                                  <p><hi rend="initialcap">C</hi>ASE.&#8212;<name type="person"
+                                                  key="1346">Captain David McGauhey</name>, <name
+                                                  type="organization" key="351">5th Pennsylvania
+                                                    Reserves</name>.  <name type="BATTLE" key="3"><choice><orig>Spottsylvania</orig><reg>Spotsylvania</reg></choice></name>, <date type="injury"
+                                                  when="1864-05-09">May 9th, 1864</date>.  Treated at
+                                                  corps and <name type="hospital" key="83">Officers'
+                                                                  hospital</name>s, Washington.  Mustered out of
+                                                  service <date type="servicedischarge" when="1864-07-13">July 13th, 1864</date>.  Not on Pension List.</p>                                                
+                                </body>
+                </text>
+</TEI>

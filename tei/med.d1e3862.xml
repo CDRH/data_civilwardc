@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e3862">
+        <teiHeader>
+                <fileDesc>
+                        <titleStmt>
+                                <title level="m" type="main">Hitchcock, Mason</title>
+                                <title level="m" type="sub">a machine readable transcription</title>
+                                <principal>Susan C. Lawrence</principal>
+                                <principal>Kenneth M. Price</principal>
+                                <principal>Kenneth J. Winkle</principal>
+                        </titleStmt>
+                        <editionStmt>
+                                <edition>
+                                        <date>2011</date>
+                                </edition>
+                        </editionStmt>
+                        <publicationStmt>
+                                <idno>med.d1e3862</idno>
+                                <authority>Civil War Washington</authority>
+                                <publisher>University of Nebraska–Lincoln</publisher>
+                                <distributor>
+                                        <name>Center for Digital Research in the Humanities</name>
+                                        <address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+                                </distributor>
+                                <date>2011</date>
+                                <availability>
+                                        <p>Copyright © 2011 by University of Nebraska–Lincoln, all
+                                                rights reserved. Redistribution or republication in
+                                                any medium, except as allowed under the Fair Use
+                                                provisions of U.S. copyright law, requires express
+                                                written consent from the editors and advance
+                                                notification of the publisher, the University of
+                                                Nebraska–Lincoln.</p>
+                                </availability>
+                        </publicationStmt>
+                        <notesStmt>
+                                <note type="project">The following are responsible for particular
+                                        readings or for changes to this file, as noted:
+                                        <persName xml:id="ajh">AJ Howell</persName>
+                                        <persName xml:id="mb">Matthew Bosley</persName>
+                                        <persName xml:id="el">Elizabeth Lorang</persName>
+                                        <persName xml:id="sb">Stacey Berry</persName>
+                                        <persName xml:id="et">Elisabeth Tracey</persName>
+                                </note>
+                        </notesStmt>
+                        <sourceDesc>
+                                <bibl>
+                                        <title level="j">The Medical and Surgical History of the War
+                                                of the Rebellion</title>
+                                        <pubPlace>Washington, DC</pubPlace>
+                                        <publisher>Government Printing Office</publisher>
+                                        <biblScope type="part">Part 3</biblScope>
+                                        <biblScope type="volume">Volume 1</biblScope>
+                                        <date when="1888">1888</date>
+                                        <biblScope type="page">238</biblScope>
+                                </bibl>
+                        </sourceDesc>
+                </fileDesc>
+                <encodingDesc>
+                        <classDecl>
+                                <taxonomy xml:id="medsurg">
+                                        <bibl>Medical and Surgical History of the War of the
+                                                Rebellion</bibl>
+                                </taxonomy>
+                        </classDecl>
+                </encodingDesc>
+                <profileDesc>
+                        <textClass>
+                                <keywords scheme="#medsurg">
+                                        <term>clinical records</term>
+                                        <term>continued fevers</term>
+                                        <term>evidence of malarial affection</term>
+                                        <term>typhoid fever</term>
+                                        <term>typho-malarial and typhoid fevers</term>
+                                        <term>remittent fever</term> 
+                                        <term>relaxation and tenderness of the bowels</term>
+                                        <term>pain in the bones, back and calves of the legs</term> 
+                                        <term>acute tenderness in the epigastrium</term> 
+                                        <term>tenderness in the right iliac region</term>
+                                        <term>Seminary Hospital cases</term>
+                                        <term>peritonitis</term>
+                                        <term>symptoms of typhoid fever not distinctly manifested</term>
+                                </keywords>
+                        </textClass>
+                </profileDesc>
+                <revisionDesc>
+                        <change who="#ajh" when="2013-06-06">additional proofing of transcription and encoding, identified keyword terms</change>
+                        <change who="#mb" when="2011-10-10">additional proofing of transcription and encoding</change>
+                        <change who="#mb" when="2011-06-08">additional proofing of transcription and encoding</change>
+                        <change who="#el" when="2011-05-11">case text extracted and transformed from
+                                larger file</change>
+                        <change who="#sb" when="2011-02-23">Encoding and Proofing</change>
+                        <change who="#et" when="2009-12-01">Initial Checking OCR Text to PDF file,
+                        </change>
+                </revisionDesc>
+        </teiHeader>
+        <text>
+                <body xml:id="ch4.sc2.3.00085">
+                        
+                                <p><hi rend="initialcap">C</hi>ASE 85.&#8212;<hi rend="italic"
+                                                >Remittent fever; symptoms of typhoid fever not
+                                                distinctly manifested; fatal by peritonitis on the
+                                                25th day.</hi>&#8212;<name type="person"
+                                                key="543">Private Mason Hitchcock</name>, <name
+                                                type="organization" key="586">Co. A, 19th Ind.
+                                                        Vols.</name>; age 33; had a chill <date type="injury" when="1861-08-28">Aug. 28, 1861</date>,
+                                        with pain in the bones, back and calves of the legs,
+                                        relaxation and tenderness of the bowels, and fever which was
+                                        worse in the evening. He was admitted on the morning of
+                                                <date type="admit" when="1861-09-05">September
+                                                5</date>, when his pulse was 80, skin warm and
+                                        moist, tongue pale and coated and colon tender on pressure.
+                                        Quinine was given. He had a chill at 2 P. M., and in the
+                                        evening the skin was hot and dry and the tongue very red,
+                                        flabby and coated. On the 6th, 7th and 8th he had no fever
+                                        at the morning visit; but in the evening the skin was hot
+                                        and dry and the bowels somewhat relaxed and tender; his
+                                        complexion was sallow and his mind rather dull. He was
+                                        treated with Dover's powder and small doses of blue-pill.
+                                        After the 9th there was slight fever at the morning visit,
+                                        but the patient was able to be up and walk around a little
+                                        until the 12th; the tongue was dry, brown, yellow and white
+                                        by turns, but usually red at the tip; the pulse was weak, 80
+                                        when lying, 100 when standing; the bowels were moved from
+                                        one to three times daily, and there was always some
+                                        tenderness along the track of the colon. On the 15th two
+                                        bloody stools were passed and the patient was much
+                                        depressed, the colon tender, the tongue thickly coated
+                                        yellow, the skin hot and sweating, pulse 86. A blister was
+                                        applied over the colon and opium and tannin prescribed. The
+                                        bowels remained quiet until the 17th, when an enema of soap
+                                        was administered. At this time there was some tenderness in
+                                        the right iliac region. On th 18th the stomach was irritable
+                                        and the pulse ran up to 120. Vomiting continued next day and
+                                        was accompanied with acute tenderness in the epigastrium;
+                                        the patient lay on his back with his legs drawn up. On 
+                                        <date type="death" when="1861-09-21">the 21st</date> the
+                                        pulse was 140, tongue nearly clean but very dry, skin hot,
+                                        abdomen tender. In the evening the body became covered with
+                                        a profuse sweat, the extremities cold, the features pinched,
+                                        the pulse imperceptible, the heart's action irregular,
+                                        speedily ending in stupor and death. No rose-colored spots
+                                        were discovered in this case although specially looked for.
+                                </p>
+                        
+                </body>
+        </text>
+</TEI>

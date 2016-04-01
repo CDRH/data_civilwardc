@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d2e29239">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Buzhardt, A. M.</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+       <idno>med.d2e29239</idno>
+       <authority>Civil War Washington</authority>
+       <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor>
+       <name>Center for Digital Research in the Humanities</name>
+       <address><addrLine>319 Love Library</addrLine>
+       <addrLine>University of Nebraska–Lincoln</addrLine>
+       <addrLine>Lincoln, NE 68588-4100</addrLine>
+       <addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+    </distributor>
+    <date>2011</date>
+    <availability>
+        <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+         republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+         law, requires express written consent from the editors and advance notification of the
+         publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+         <persName xml:id="mb">Matthew Bosley</persName>         
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl>
+        <title level="j">The Medical and Surgical History of the War of the Rebellion. (1861-65.)</title>
+        <pubPlace>Washington, DC</pubPlace>
+        <publisher>Government Printing Office</publisher>
+        <biblScope type="part">Part 3</biblScope>
+        <biblScope type="volume">Volume 2</biblScope>
+        <date when="1883">1883</date>
+        <biblScope type="page">807</biblScope>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+       <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+      <keywords scheme="#medsurg">
+       <term>wounds and  complications</term>
+       <term>h&#230;morrhages and ligations</term>
+       <term>arteries</term>
+       <term>general remarks on h&#230;morrhages and ligations</term> 
+       <term>slight "warning bleeding" preceded actual h&#230;morrhage</term>
+       <term>h&#230;morrhage from branches of profunda artery</term>
+       <term>shot fracture of upper third of femur</term> 
+       <term>fracture high up, femur much shattered</term>
+       <term>pus in body of sternum</term>        
+     </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+       <change who="#mb" when="2012-06-27">additional case copied from MSHWR, performed proofing of copy and XML encoding, and key terms identified</change>  
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>   
+   <p><hi rend="initialcap">C</hi>ASE 1179.&#8212;<name type="person" key="xxx">Private <hi rend="italic">A. M. Buzhardt</hi></name>, <name type="organization" key="xxx">Co. K, 14th South Carolina</name>, aged 23 years, received a shot fracture of the upper
+    third of the right femur at the battle of <name type="battle" key="xxx">Malvern Hill</name>, <date type="injury" when="1864-07-28">July 28, 1864</date>. He was captured and conveyed to hospital at <name type="place">City Point</name>,
+    whence he was transferred to hospital at <name type="place" key="#Alexandria">Alexandria</name> on <date type="transfer" when="1864-08-10">August 10th</date>.  <name type="person" key="134">Surgeon E. Bentley</name>, <name type="organization" key="132">U. S. V.</name>, recorded the following result of the injury:  &#34;The fracture was very high up and the femur was much shattered. The limb was placed upon a double-inclined plane and the fragments were placed in apposition as nearly as possible. The patient was worn out with exposure and anxiety and had some diarrh&#339;a. Slight h&#230;morrhages occurred on September 4th and 7th, which readily yielded to pressure.  On <date type="injury" when="1864-09-08">September 8th</date> a severe h&#230;morrhage took place, exhausting in amount, from which the patient sank rapidly, and died <date type="death" when="1864-09-08">the same day</date>.  The <hi rend="italic">post-mortem</hi> examination showed the heart to be exsanguineous and without clot; pus in body of the sternum; lungs sound; liver pale and an&#230;mic; other organs sound. Evidences of h&#230;morrhage from branches of the profunda artery were found.&#34;</p>      
+  </body>
+ </text>
+</TEI>

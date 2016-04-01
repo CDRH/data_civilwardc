@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e187">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Flemming, Samuel W.</title>
+<title level="m" type="sub">a machine readable transcription</title>
+<principal>Susan C. Lawrence</principal>
+<principal>Kenneth M. Price</principal>
+<principal>Kenneth J. Winkle</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>med.d1e187</idno>
+<authority>Civil War Washington</authority>
+<publisher>University of Nebraska–Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright © 2011 by University of Nebraska–Lincoln, all
+rights reserved. Redistribution or republication in
+any medium, except as allowed under the Fair Use
+provisions of U.S. copyright law, requires express
+written consent from the editors and advance
+notification of the publisher, the University of
+Nebraska–Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">The following are responsible for particular readings or for changes to this file, as noted: 
+    <persName xml:id="mb">Matthew Bosley</persName>  
+<persName xml:id="el">Elizabeth Lorang</persName>
+<persName xml:id="sb">Stacey Berry</persName>
+<persName xml:id="et">Elisabeth Tracey</persName>
+</note>
+</notesStmt>
+<sourceDesc>
+<bibl>
+<title level="j">The Medical and Surgical History of the War
+of the Rebellion</title>
+<pubPlace>Washington, DC</pubPlace>
+<publisher>Government Printing Office</publisher>
+<biblScope type="part">Part 3</biblScope>
+<biblScope type="volume">Volume 1</biblScope>
+<date when="1888">1888</date>
+<biblScope type="page">115</biblScope>
+</bibl>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<classDecl>
+<taxonomy xml:id="medsurg">
+<bibl>Medical and Surgical History of the War of the
+Rebellion</bibl>
+</taxonomy>
+</classDecl>
+</encodingDesc>
+<profileDesc>
+<textClass>
+<keywords scheme="#medsurg">
+<term>clinical records</term>
+<term>malarial disease</term>
+    <term>remittent fever</term>
+    <term>scurvy</term>
+</keywords>
+</textClass>
+</profileDesc>
+<revisionDesc>
+    <change who="#mb" when="2011-10-20">additional proofing of transcription and encoding</change>  
+<change when="2011-05-24" who="#el">encoding and transcription further revised</change>
+<change who="#el" when="2011-05-11">case text extracted and transformed from larger file; hand clean-up of transcription and encoding</change>
+<change who="#sb" when="2010-02-23">encoded and proofed</change>
+<change who="#et" when="2009-12-01">initial checking of OCR text;against page images;  encoded</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body xml:id="ch3.sc2.0030">
+<p><hi rend="italic">Remittent with scurvy.</hi>&#8212;<hi rend="initialcap">C</hi>ASE 30.&#8212;<name type="person" key="843">Private Samuel W. Flemming</name>, <name type="organization" key="736">Co. I, 201st Pa. Vols.</name>; age 23; was admitted <date type="admit" when="1864-11-04">November 4, 1864</date>, with remittent fever from which he had been suffering for some time. He was quite prostrated, being unable to speak above a whisper; his tongue was pale, gums spongy and bowels moved with great frequency; he was an&#230;mic and had some cough. On <date when="1864-11-06">the 6th</date> he was delirious; the tongue black; the teeth covered with sordes; the bowels were moved less frequently, but there was great tenderness in the right iliac region. Turpentine was prescribed. On <date when="1864-11-10">the 10th</date> the patient was much improved. He was returned to duty <date type="duty" when="1865-01-14">January 14, 1865</date>.&#8212;<hi rend="italic"><name type="place">Hospital, Alexandria, Va.</name></hi></p>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e10834">
+        <teiHeader>
+                <fileDesc>
+                        <titleStmt>
+                                <title level="m" type="main">Kellers, George</title>
+                                <title level="m" type="sub">a machine readable transcription</title>
+                                <principal>Susan C. Lawrence</principal>
+                                <principal>Kenneth M. Price</principal>
+                                <principal>Kenneth J. Winkle</principal>
+                        </titleStmt>
+                        <editionStmt>
+                                <edition>
+                                        <date>2011</date>
+                                </edition>
+                        </editionStmt>
+                        <publicationStmt>
+                                <idno>med.d1e10834</idno>
+                                <authority>Civil War Washington</authority>
+                                <publisher>University of Nebraska–Lincoln</publisher>
+                                <distributor>
+                                        <name>Center for Digital Research in the Humanities</name>
+                                        <address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+                                </distributor>
+                                <date>2011</date>
+                                <availability>
+                                        <p>Copyright © 2011 by University of Nebraska–Lincoln, all
+                                                rights reserved. Redistribution or republication in
+                                                any medium, except as allowed under the Fair Use
+                                                provisions of U.S. copyright law, requires express
+                                                written consent from the editors and advance
+                                                notification of the publisher, the University of
+                                                Nebraska–Lincoln.</p>
+                                </availability>
+                        </publicationStmt>
+                        <notesStmt>
+                                <note type="project">The following are responsible for particular
+                                        readings or for changes to this file, as noted: 
+                                        <persName xml:id="mb">Matthew Bosley</persName>
+                                        <persName xml:id="el">Elizabeth Lorang</persName>
+                                        <persName xml:id="sb">Stacey Berry</persName>
+                                        <persName xml:id="et">Elisabeth Tracey</persName>
+                                </note>
+                        </notesStmt>
+                        <sourceDesc>
+                                <bibl>
+                                        <title level="j">The Medical and Surgical History of the War of the Rebellion</title>
+                                        <pubPlace>Washington, DC</pubPlace>
+                                        <publisher>Government Printing Office</publisher>
+                                        <biblScope type="part">Part 3</biblScope>
+                                        <biblScope type="volume">Volume 1</biblScope>
+                                        <date when="1888">1888</date>
+                                        <biblScope type="page">754</biblScope>
+                                </bibl>
+                        </sourceDesc>
+                </fileDesc>
+                <encodingDesc>
+                        <classDecl>
+                                <taxonomy xml:id="medsurg">
+                                        <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+                                </taxonomy>
+                        </classDecl>
+                </encodingDesc>
+                <profileDesc>
+                        <textClass>
+                                <keywords scheme="#medsurg">
+                                        <term>diseases attributed to non-miasmatic exposures</term>
+                                        <term>diseases of the respiratory organs</term>
+                                        <term>pneumonia</term>
+                                        <term>clinical records</term>                                         
+                                        <term>catarrhal case, venesection gave only slight passing relief</term> 	
+                                        <term>acute bronchitis with high fever</term>
+                                        <term>dull pain on inspiration, viscid and bloody sputa</term>
+                                        <term>lips blue, nostrils dilated</term>
+                                        <term>no respiratory murmur, little expansion</term>
+                                        <term>dyspn&#339;a, anxiety of countenance</term>
+                                        <term>dyspn&#339;a somewhat relieved by removal of blood by venesection</term>
+                                </keywords>
+                        </textClass>
+                </profileDesc>
+                <revisionDesc>
+                        <change who="#mb" when="2013-03-05">additional proofing of transcription and encoding, edited and added keyword terms</change>
+                        <change who="#mb" when="2011-06-30">additional proofing of transcription and encoding</change>
+                        <change who="#el" when="2011-05-11">case text extracted and transformed from larger file</change>
+                        <change who="#sb" when="2011-02-23">Encoding and Proofing</change>
+                        <change who="#et" when="2009-12-01">Initial Checking OCR Text to PDF file,</change>
+                </revisionDesc>
+        </teiHeader>
+        <text>
+                <body>                        
+                        <p> <hi rend="initialcap">C</hi>ASE 15.&#8212;<name type="person">Private George Kellers</name>, <name type="organization">Co. B, 5th Mich.</name>,
+                                was admitted <date type="admit" when="1861-11-07">Nov. 7, 1861</date>, having had acute bronchitis with
+                                high fever for <date type="injury" when="1861-10-25">twelve days prior</date> to admission: Pulse 106;
+                                        face flushed; respiration 32; tongue dry and brown in
+                                        centre; cough frequent; uneasiness in lower part of the
+                                        chest, amounting to dull pain on full inspiration; viscid
+                                        and bloody sputa. Applied blister and gave Dover's powder
+                                        eight grains, calomel one grain.  8th: Pulse 120, quick;
+                                        respiration 32; tongue dry and brown; skin hot; countenance
+                                        anxious; expectoration scanty, viscid and slightly tinged
+                                        with blood; lips blue and nostrils dilated on inspiration.
+                                        Gave small doses of quinine, calomel, turpentine and
+                                        chlorate of potash, whiskey occasionally and milk as
+                                        desired; applied dry cups to back. In the evening gave
+                                        veratrum viride and ipecacuanha.  9th: Pulse 106, feeble;
+                                        respiration 44, labored; lips dark-purple; countenance
+                                        anxious; nostrils widely distended on inspiration; thick
+                                        mucous expectoration. Applied dry cups to back; gave brandy;
+                                        half a grain of calomel every hour; dressed blister with
+                                        mercurial ointment.  10th: Pulse 84, full and soft;
+                                        respiration 43, short; no respiratory murmur in right lung;
+                                <choice><orig>dulness</orig><reg>dullness</reg></choice> with but little expansion. Continued calomel and
+                                        stimulants.  11th: Pulse 84; dyspn&#339;a urgent, somewhat
+                                        relieved by the removal of ten ounces of blood by venesection.  12th: Dyspn&#339;a increased. Gave quinine eight grains
+                                        daily; brandy punch. Removed a few ounces of blood by
+                                        venesection.  16th; Some expectoration; respiration 30;
+                                        countenance less anxious; tongue cleaning; pulse 120, soft.  17th: Pulse 120; respiration 32; tongue clean; free purulent
+                                        expectoration.  2 P. M.: Much pain in right side; great
+                                        dyspn&#339;a and much anxiety of countenance; profuse sweating.  <date type="death" when="1861-11-18">18th</date>: Died.&#8212;<hi rend="italic">Hospital, <name type="place">Alexandria, Va.</name></hi> </p>                        
+                </body>
+        </text>
+</TEI>

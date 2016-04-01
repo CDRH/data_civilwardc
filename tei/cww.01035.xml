@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="cww.01035">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Petition of Elizabeth Herbert, 25 July 1862</title>
+                <title level="m" type="main">Evidence Relating to the Petition of Elizabeth Herbert,
+                    29 July&#8211;1 August 1862</title>
+                <title level="m" type="sub">a machine readable transcription</title>
+                <principal>Susan C. Lawrence</principal>
+                <principal>Kenneth M. Price</principal>
+                <principal>Kenneth J. Winkle</principal>
+                <respStmt>
+                    <resp>transcription and encoding</resp>
+                    <name xml:id="jc">Janel Cayer</name>
+                    <name xml:id="el">Elizabeth Lorang</name>
+                    <name xml:id="kjw">Kenneth J. Winkle</name>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2012</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <idno>cww.01035</idno>
+                <distributor>Civil War Washington</distributor>
+                <publisher>University of Nebraska–Lincoln</publisher>
+                <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>P.O. Box 884100</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+            </address>
+                <date>2012</date>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+                        <p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike
+                            3.0 Unported License
+                            (http://creativecommons.org/licenses/by-nc-sa/3.0/). Derivatives must be
+                            credited to Civil War Washington, made available non-commercially, and
+                            distributed under the same terms. Requests for permission for commercial
+                            publication or other use should be emailed to the project team.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl xml:id="rg21">
+                    <title>Petition of Elizabeth Herbert, 25 July 1862</title>
+                    <date when="1862-07-25">July 25, 1862</date>
+                    <idno>Microcopy 433, Reel 3</idno>
+                    <orgName>National Archives and Records Administration</orgName>
+                    <relatedItem type="original">
+                        <bibl>
+                            <title>Petition of Elizabeth Herbert, 25 July 1862</title>
+                            <date when="1862-07-25">July 25, 1862</date>
+                            <idno type="rg">Record Group 21</idno>
+                            <orgName>Records of the District Courts of the United States,
+                                1685&#8211;2004, National Archives and Records
+                                Administration</orgName>
+                            <orgName>Emancipation Records, compiled 1862&#8211;1863</orgName>
+                            <note type="project">Within the National Archives' Archival Description
+                                Catalog, see ARC Identifier 4314547 / MLR Number NC-2 33
+                                (http://arcweb.archives.gov).</note>
+                        </bibl>
+                    </relatedItem>
+                    <note type="project">Our transcription is based on a digital image of a
+                        microfilm copy of the original.</note>
+                </bibl>
+
+                <bibl xml:id="rg217">
+                    <title>Evidence Relating to the Petition of Elizabeth Herbert, 29 July&#8211;1
+                        August 1862</title>
+                    <date when="1862-07-29">July 29&#8211;August 1, 1862</date>
+                    <idno>Microcopy 520, Reel 6</idno>
+                    <orgName>National Archives and Records Administration</orgName>
+                    <relatedItem type="original">
+                        <bibl>
+                            <title>Evidence Relating to the Petition of Elizabeth Herbert, 29
+                                July&#8211;1 August 1862</title>
+                            <date when="1862-07-29">July 29&#8211;August 1, 1862</date>
+                            <idno type="rg">Record Group 217.6.5</idno>
+                            <orgName>Records of the Accounting Officers of the Department of the
+                                Treasury, 1775&#8211;1978, National Archives and Records
+                                Administration</orgName>
+                            <note type="project">Within the National Archives' Archival Description
+                                Catalog, see ARC Identifier 4644616 / MLR Number A1 347
+                                (http://arcweb.archives.gov).</note>
+                        </bibl>
+                    </relatedItem>
+                    <note type="project">Our transcription is based on a digital image of a
+                        microfilm copy of the original.</note>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <particDesc>
+                <person role="owner">
+                    <persName>Sarah B. Bronaugh</persName>
+                </person>
+                <person role="petitioner-slave">
+                    <persName>Elizabeth Herbert</persName>
+                </person>
+            </particDesc>
+        </profileDesc>
+        <revisionDesc>
+            <change when="2013-08-14" who="#jc">revised code for handwritten table</change>
+            <change when="2013-07-10" who="#jc">blessed</change>
+            <change when="2013-07-08" who="#kjw">blessed</change>
+            <change when="2013-06-17" who="#el">checked</change>
+            <change when="2012-07-13" who="#jc">transcribed and encoded</change>
+        </revisionDesc>
+    </teiHeader>
+
+    <text>
+        <body>
+
+            <pb xml:id="leaf001r" facs="cww.01035.001.jpg"/>
+
+            <div1 type="petition" subtype="mixed" corresp="#rg21">
+
+                <div2 type="document">
+                    <opener>
+                        <salute>To <persName>John A. Smith</persName>
+                            <choice>
+                                <abbr>Esq</abbr>
+                                <expan>Esquire</expan>
+                            </choice>. Clerk of the Circuit Court of the <placeName>District of
+                                Columbia</placeName>.</salute>
+                        <salute>Sir:</salute>
+                    </opener>
+
+                    <p><seg type="handwritten"><persName>Sarah B. Bronaugh</persName></seg> of <seg
+                            type="handwritten"><placeName>Washington City</placeName></seg> having
+                        claim to the service of labor of the undersigned, and having refused or
+                        neglected to file in your office the statement in writing or schedule
+                        provided for in the 9th Section of the Act of Congress, entitled "An act for
+                        the release of certain persons held to service or labor in said
+                            <placeName>District</placeName>," approved <date when="1862-04-16">April
+                            16, 1862</date>, you will please file this petition or schedule in lieu
+                        thereof, in pursuance of the provisions of an act supplementary to said act
+                        which said last mentioned act was approved <date when="1862-07-12">July 12,
+                            1862</date>. This petitioner further state that the undersigned <seg
+                            type="handwritten">has</seg> resided in said
+                            <placeName>District</placeName> since the <seg type="handwritten"><date
+                                when="1862-04-16">16th day of April</date></seg> and ha<space
+                            atLeast="1"/> resided therein since the <date when="1862-04-14"><seg
+                                type="handwritten">14</seg> day of <seg type="handwritten"
+                                >April</seg> 1862</date>, by and with the consent of <seg
+                            type="handwritten">the</seg> said <seg type="handwritten"
+                                ><persName>Sarah B Bronaugh</persName></seg>.</p>
+                    <table>
+                        <row>
+                            <cell>Name,</cell>
+                            <cell>Age,</cell>
+                            <cell>Sex,</cell>
+                            <cell>Remarks,</cell>
+                        </row>
+                        <row rend="handwritten">
+                            <cell><persName>Elizabeth Herbert</persName></cell>
+                            <cell>24</cell>
+                            <cell>female</cell>
+                            <cell>Dark Mulatto 5 ft 7 inches high</cell>
+                        </row>
+                    </table>
+
+                    <closer>
+                        <signed><seg type="handwritten">her X mark <persName>Elizabeth
+                                    Hubbard</persName></seg></signed><lb/>
+                        <seg type="handwritten">In presence of</seg>
+                        <signed><seg type="handwritten"><persName>Geo E H
+                            Day</persName></seg></signed>
+                    </closer>
+                </div2>
+
+                <pb xml:id="leaf001v" facs="cww.01035.002.jpg"/>
+
+                <div2 type="cover" subtype="handwritten">
+                    <div3 type="section">
+                        <ab>paid</ab>
+                        <ab><persName>Elizabeth Herbert</persName> Petition</ab>
+                    </div3>
+                    <div3 type="section">
+                        <ab>Recorded in Manumission Record No. 2 folio 76</ab>
+                    </div3>
+                    <div3 type="section">
+                        <ab>Filed <date when="1862-07-25">July 25, 1862</date>.</ab>
+                    </div3>
+
+                    <div3 type="section">
+                        <ab><persName>Mrs Dr Gibbs</persName>
+                            <gap reason="illegible" extent="about four words" quantity="17"
+                                unit="chars"/>
+                            <unclear reason="illegible" cert="low" resp="#jc">2 pm
+                            friday</unclear></ab>
+                    </div3>
+
+                    <div3 type="section">
+                        <p>The Commissioners, satisfied on the testimony of <persName>Stephen
+                                Smith</persName>, <persName>Ellen Dorr</persName>, and
+                                <persName>Joseph F. Kelly</persName>, of the truth of the within
+                            statement, order the same to be so reported to the Clerk of the Circuit
+                            Court of the <placeName>District of Columbia</placeName>.</p>
+                        <closer>
+                            <signed><persName>Wm. R. Woodward</persName><lb/> Clk</signed>
+                            <dateline><date when="1862-08-01">Aug 1, 1862</date>.</dateline>
+                        </closer>
+                    </div3>
+                </div2>
+            </div1>
+
+            <!-- Evidence pertaining to the case begins here. -->
+
+            <pb xml:id="leaf002r" facs="cww.01035.003.jpg"/>
+            <div1 type="evidence" corresp="#rg217" subtype="handwritten">
+
+                <div2 type="section">
+                    <dateline><date when="1862-07-30">Jul 30</date></dateline>
+
+                    <div3 type="procedural">
+                        <ab><persName>Elizabeth Herbert</persName></ab>
+                        <ab>Servant of <persName>Sarah B. Bronaugh</persName></ab>
+                    </div3>
+
+                    <div3 type="testimony">
+                        <p><persName>Stephen Smith</persName> (colored). I know <persName>Elizabeth
+                                Herbert</persName> this is her&#8212;for 6 years&#8212;formerly
+                            belonged to <persName>Mr Sheets</persName> sold her to <persName>Mr
+                                Bronaugh</persName>&#8212;who has gone away&#8212;she belonged to
+                                <persName>Mrs Bronaugh</persName> on <date when="1862-04-16">16
+                                Apl</date>&#8212;has been hiring herself out.</p>
+                    </div3>
+
+                    <div3 type="testimony">
+                        <ab><persName>Ann Dodson</persName> (<choice>
+                                <abbr>cold</abbr>
+                                <expan>colored</expan>
+                            </choice>) know servant ever since she was a child belonged to
+                                <persName>Mr Bronaugh</persName> last winter lived at same place as
+                            I did <date when="1862-04-16">16 Apl</date>
+                            <persName>Mr William <unclear>More</unclear></persName>
+                            <address><addrLine>K. Street</addrLine></address>. <persName>Mrs E. Dr
+                                Gibbs</persName> near <gap reason="illegible"
+                                extent="about one word" quantity="8" unit="chars"/> knows</ab>
+                    </div3>
+
+                    <pb xml:id="leaf002v" facs="cww.01035.004.jpg"/>
+
+                    <div3 type="cover">
+                        <ab><persName>Elizabeth Herbert</persName></ab>
+                        <ab><date when="1862-07-30">July 30</date>.</ab>
+                    </div3>
+                </div2>
+
+
+                <pb xml:id="leaf003r" facs="cww.01035.005.jpg"/>
+                <div2 type="section">
+                    <dateline><date when="1862-07-29">July 29</date>.</dateline>
+
+                    <div3 type="procedural">
+                        <ab><persName>Elizabeth Hubbard</persName></ab>
+                        <ab>Servant of <persName>Sarah Bronaugh</persName></ab>
+                    </div3>
+
+                    <div3 type="testimony">
+                        <ab><persName>Stephen Smith</persName> know servant belonged to Mrs
+                                <persName>Sally Bronaugh</persName>. Mr <persName>John C.
+                                Bronaugh</persName> went south. here <date when="1862-04-16">16 Apl
+                                1862</date></ab>
+                    </div3>
+                </div2>
+
+                <div2 type="section">
+                    <dateline><date when="1862-08-01">Aug 1</date>.</dateline>
+                    <div3 type="testimony">
+                        <ab><persName>Ellen Dorr</persName>. I know servant I was living at
+                                <persName>Mr Shultz</persName> house when <persName>Mr
+                                Bronaugh</persName> came and bought her of <persName>Mr
+                                Shultz</persName>
+                            <date when="1862-03">last March</date> a year she was here</ab>
+                    </div3>
+
+                    <div3 type="testimony">
+                        <ab><persName>Joseph F. Kelly</persName>. I saw this servant about
+                                <persName>Mr Moores</persName>
+                            <address><addrLine><choice><abbr>Cor</abbr><expan>Corner</expan></choice> H &#38; <gap reason="illegible" extent="about one word" quantity="7" unit="chars"/></addrLine></address>
+                            northern liberty market about <date when="1862-04-16">16 April
+                                1862</date></ab>
+                    </div3>
+
+                    <div3 type="procedural">
+                        <ab><choice>
+                                <abbr>cert</abbr>
+                                <expan>certificate</expan>
+                            </choice> ordered</ab>
+                    </div3>
+
+                    <pb xml:id="leaf003v" facs="cww.01035.006.jpg"/>
+
+                    <div3 type="cover">
+                        <ab><persName>Elizabeth Hubbard</persName> or
+                            <persName>Herbert</persName></ab>
+                        <ab><date when="1862-08-01">August 1</date>.</ab>
+                    </div3>
+                </div2>
+            </div1>
+
+        </body>
+    </text>
+</TEI>

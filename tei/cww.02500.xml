@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="cww.02500">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Domestic Correspondence</title>
+                <title level="m" type="sub">a machine readable transcription</title>
+                <editor role="co-editor">R. J. Weir</editor>
+                <principal>Susan C. Lawrence</principal>
+                <principal>Elizabeth Lorang</principal>
+                <principal>Kenneth M. Price</principal>
+                <principal>Kenneth J. Winkle</principal>
+                <respStmt>
+                    <resp>transcription and encoding</resp>
+                    <persName xml:id="ak">Alex Kinnaman</persName>
+                    <persName xml:id="el">Elizabeth Lorang</persName>
+                    <persName xml:id="bw">Becca Weir</persName>
+                    <persName xml:id="kk">Kourtney Klein</persName>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2015</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <idno>cww.02500</idno>
+                <distributor>Civil War Washington</distributor>
+                <publisher>University of Nebraska Lincoln</publisher>
+                <address>
+                    <addrLine>Center for Digital Research in the Humanities</addrLine>
+                    <addrLine>319 Love Library</addrLine>
+                    <addrLine>University of Nebraska-Lincoln</addrLine>
+                    <addrLine>P.O. Box 884100</addrLine>
+                    <addrLine>Lincoln, NE 68588-4100</addrLine>
+                </address>
+                <address>
+                    <addrLine>
+                        <email>cdrh@unl.edu</email>
+                    </addrLine>
+                </address>
+                <date>2015</date>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+                        <p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License (http://creativecommons.org/licenses/by-nc-sa/3.0/). Derivatives must be credited to Civil War Washington and R. J. Weir, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct xml:id="letter">
+                    <analytic>
+                        <author ref="#logic">Bob Logic</author>
+                        <title level="a">Domestic Correspondence</title>
+                    </analytic>
+                    <monogr>
+                        <title xml:id="paper" level="j">The Anglo-African</title>
+                        <imprint>
+                            <date xml:id="issue_date" when="1863-06-20">20 June 1863</date>                    
+                        </imprint>
+                        <biblScope type="pp">[1-2]</biblScope>                    
+                    </monogr>           
+                </biblStruct>
+                
+                <biblStruct xml:id="issue">               
+                    <monogr>
+                        <title level="j" sameAs="#paper"/>
+                        <imprint>
+                            <date sameAs="#issue_date"/>                  
+                        </imprint>              
+                    </monogr>                   
+                </biblStruct>                        
+            </sourceDesc>       
+        </fileDesc>
+        <encodingDesc> 
+            <p>This electronic text is a semi-diplomatic transcription of the source text. Hyphenation, punctuation, variant spellings, and errors present in the source text have been retained. The transcription does not attempt to capture all aspects of the original formatting or layout.</p>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <persName xml:id="logic">Unknown</persName>
+                <persName xml:id="rh">Hamilton, Robert</persName>
+                <persName xml:id="th">Hamilton, Thomas</persName>
+                <date when="1863">1863</date>
+            </creation>
+            <langUsage>
+                <language ident="en-US">modern American English</language>
+            </langUsage>
+            <textClass>
+                <classCode scheme="http://authorities.loc.gov">
+                    <term xml:id="sh2009113992">African American soldiers--History--19th century</term>
+                    <term xml:id="sh2009114063">African Americans--Washington (D.C.)</term>
+                    <term xml:id="no94014581">Augusta, Alexander T., 1825-</term>
+                    <term xml:id="sh85051692">Freedmen</term>
+                    <term xml:id="n85055360">Keckley, Elizabeth, approximately 1818-1907</term>
+                    <term xml:id="nr98019148">Martindale, J. H. (John Henry), 1815-1881</term>
+                    <term xml:id="n79032930">Scott, Dred. 1809-1858</term>
+                    <term xml:id="sh85123327">Slaves--Emancipation--United States</term>
+                    <term xml:id="n93053256">United States. Colored Troops</term>
+                    <term xml:id="sh85140239">United States--History--Civil War, 1861-1865--Hospitals</term>
+                    <term xml:id="sh2007100004">United States--History--Civil War, 1861-1865--Participation, African American</term>
+                    <term xml:id="sh85140274">United States--History--Civil War, 1861-1865--Societies, etc</term>    
+                </classCode>
+                <classCode scheme="http://civilwardc.org">
+                    <term>Powell, William P., 1834-1915</term>
+                </classCode>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when="2015-04-07" who="#ak">corrected format, spelling</change>
+            <change when="2015-03-24" who="#el">checked transcription and encoding and made necessary changes; updated TEI header, including keywords</change>
+            <change when="2015-03-02" who="#ak">added keywords</change>
+            <change when="2015-02-16" who="#ak">checked, updated xml:id</change>
+            <change when="2014-11-04" who="#ak">checked transcription and encoding</change>
+            <change when="2014-04-14" who="#el">checked encoding; revised TEI header</change>
+            <change when="2014-04-14" who="#kk">transcribed, encoded</change>
+        </revisionDesc>
+    </teiHeader>
+    
+    <facsimile corresp="#issue">
+        <surface xml:id="pp1">
+            <graphic url="aa.18630620.pp1.jpg"/>
+            <zone xml:id="pp1_cropped" corresp="#letter">
+                <graphic url="aa.18630620.pp1_cropped.jpg"/>
+            </zone>
+        </surface>
+        <surface xml:id="pp2">
+                <graphic url="aa.18630620.pp2.jpg"/>
+            <zone xml:id="pp2_cropped" corresp="#letter">
+                <graphic url="aa.18630620.pp2_cropped.jpg"/>
+            </zone>
+            </surface>
+        <surface xml:id="pp3">
+            <graphic url="aa.18630620.pp3.jpg"/>
+        </surface>
+        <surface xml:id="pp4">
+            <graphic url="aa.18630620.pp4.jpg"/>
+        </surface>
+    </facsimile>
+    
+    
+    <text corresp="#letter #pp1_cropped">
+       
+        <body>
+            <head type="main" subtype="newspaper-editorial" rend="center">Domestic Correspondence.</head>
+            <milestone unit="undeclared" rend="medium-bar"/>
+            <head type="main" subtype="authorial" rend="center">Letter from Washington.</head>
+            <milestone unit="undeclared" rend="short-bar"/>
+            
+            <opener>
+                <dateline rend="right">Washington, D.C., June 5th, 1863.</dateline>
+                <salute>M. Editor,</salute>
+            </opener> 
+           
+            <p>Not having seen a letter from your most worthy <lb/>correspondent "Box," for sometime, at the <choice><orig>sug-<lb/>gestion</orig><reg>suggestion</reg></choice> of some of my friends as well as your <lb/>friends, I thought I would drop you a letter <choice><orig>oc-<lb/>casionally</orig><reg>occasionally</reg></choice> for your most excellent paper; for I <lb/>feel at this time that at this point, the capital of <lb/>the nation, where all eyes are turned, there are <lb/>matters of very great importance that would <choice><orig>cer-<lb/>tainly</orig><reg>certainly</reg></choice> interest the great multitude of readers that <lb/>enjoy the perusal of the <title level="j" rend="italic">Anglo-African</title>.</p>
+            
+            <p>Washington at this time presents features of a <lb/>miscellaneous character.  Previous to the <choice><orig>emanci-<lb/> pation</orig><reg>emancipation</reg></choice> act, prejudice here was like a sleeping <lb/>volcano, its pro-slavery inhabitants smothered <lb/>their prejudices because they knew full well that <lb/>the laws of the District were sufficiently <choice><orig>oppres-<lb/> sive</orig><reg>oppressive</reg></choice> against the colored man, that they could say <lb/>or do to him just as they pleased, as according <lb/>to their beloved Dred Scott decision, colored men <lb/>had no rights that white men were bound to <choice><orig>re-<lb/> spect</orig><reg>respect</reg></choice>.  Thus they would lay the flattering <choice><orig>unc-<lb/> tion</orig><reg>unction</reg></choice> to their souls, or roll it under their tongues <lb/>as a sweet morsel.  But the scenes are shifted. <lb/>The District is free; and those oppressive laws, <lb/>bolstered up by that hateful decision, have <choice><orig>pass-<lb/> ed</orig><reg>passed</reg></choice>, or are passing, away; and as they pass away, <lb/> that hydra-headed monster, prejudice, opens his <lb/>volcanic jaws and emits his hellish lava.  I can <lb/>not enumerate the outrages that the colored <lb/>people have been subjected to since that glorious <lb/>act was passed.  Again, their hatred to the <choice><orig>col-<lb/> ored</orig><reg>colored</reg></choice> people has been increased from the <choice><orig>govern-<lb/> ment</orig><reg>government</reg></choice> having (in their estimation) committed an <lb/>unpardonable crime by permitting the <choice><orig>enlist-<lb/> ment</orig><reg>enlistment</reg></choice> of colored men for the war.  Their anger <lb/>has not arrived at its highest pitch as yet: for <lb/>there is too much truth in that old adage, "whom <lb/>the gods would destroy they first make mad."</p>
+            
+            <p>An incident occurred yesterday (Wednesday, <lb/>the 4th of June) that was disgraceful in the <choice><orig>ex-<lb/> treme</orig><reg>extreme</reg></choice>.  A soldier, whose name I could not learn, <lb/>belonging to company A, First Colored Regiment <lb/>District Volunteers, which is encamped on an <lb/>island opposite Georgetown, got a pass to come <lb/>over to the city; and, having his uniform on, of <lb/>course attracted much attention, especially among <lb/>the secesh.  Three United States soldiers, or <lb/>rather, three white men with secesh hearts, <choice><orig>cov-<lb/> ered</orig><reg>covered</reg></choice> over with United States uniforms, approached <lb/>him, to know what he was doing with that <choice><orig>uni-<lb/> form</orig><reg>uniform</reg></choice> on.  He very properly asked them, "what <lb/>is it your business?"  All three of them, assisted <lb/>by a secesh civilian, assaulted him, and he was <lb/>considerably bruised.  In the mean time, a <choice><orig>po-<lb/> liceman</orig><reg>policeman</reg></choice> came up and, of course, arrested the <choice><orig>sol-<lb/> dier</orig><reg>soldier</reg></choice> and carried him off to the magistrate's office. <lb/> The civilian, or villian, alluded to above, <choice><orig>follow-<lb/> ed</orig><reg>followed</reg></choice> the arrested party to the office, for the <choice><orig>pur-<lb/> pose</orig><reg>purpose</reg></choice>, I suppose, of adducing some hatched-up <lb/>evidence, so that the colored soldier should be <lb/>put in durance vile.  But while at the office, a <lb/>colonel of a Massachusetts regiment, who <choice><orig>hap-<lb/> pened</orig><reg>happened</reg></choice> to see the whole affair, made a statement <lb/>of the circumstances just as they occurred, and <lb/>the result was, the colored soldier was dismissed <lb/>and the white civilian or villian was sent to jail <lb/>much to the gratification of our colored friends <lb/>who surrounded the door of the office.</p>
+            
+            <p>As a specimen of these outrages, please insert <lb/>the following notice cut from the <title level="j" rend="italic">Morning <lb/>Chronicle</title>&#8212;</p>
+            
+            <floatingText>
+                
+                <body>
+                    
+                    <head type="main" subtype="authorial"><emph rend="smallcaps">THE GOVERNMENT TEAMSTERS AND THE <choice><orig>CONTRA-<lb/>BANDS</orig><reg>CONTRABANDS</reg></choice></emph>&#8212;</head>
+                    
+                    <p>We have forborne <choice><sic>mentioniong</sic><corr>mentioning</corr></choice> until the <lb/>present time the uncalled-for enmity of the <choice><orig>Gov-<lb/> ernment</orig><reg>Government</reg></choice> teamsters in the wagon parks to the <lb/>denizens of the contraband camp, and the <choice><orig>repea-<lb/> ted</orig><reg>repeated</reg></choice> violent assaults which the former have made <lb/>on the latter.  There is no cause alleged for <lb/>these deadly assaults upon these people but the <lb/>fact that they have black skins.  On Monday <lb/>night an attack was made on the contraband camp <lb/>which resulted in the severe if not fatal wounding <lb/>
+                
+                        <pb corresp="#letter #pp2"/>
+                
+                of two negroes.  On Tuesday morning a party <lb/>of colored men were sent out <choice><sic>aftr</sic><corr>after</corr></choice> forage, and <lb/>were followed and cruelly beaten by a number <lb/>of drivers of the ambulance corps.  During that <lb/>day, information was received at the headquarters <lb/>of General Martindale that a plot had been <choice><orig>ar-<lb/> ranged</orig><reg>arranged</reg></choice> by the teamsters by which an attack was <lb/>to be made at a given signal.  Guns, pistols, <lb/> and <choice><orig>slung</orig><reg>sling</reg></choice> shots had been collected for this <choice><orig>oc-<lb/> casion</orig><reg>occasion</reg></choice>.</p>
+            
+            <p>Capt. Johnson, of the 10th New Jersey, was <lb/>placed in command of an adequate number of <lb/>cavalry and infantry, and they spent the night in <lb/>the vicinity.  At 12 o'clock about 20 teamsters <lb/>congregated on Twenty-third street between L <lb/>and M streets, and kindled a bon-fire.  This was <lb/>understood to be the signal for a general assault <lb/>on the contrabands.  The mob at once <choice><orig>com-<lb/> menced</orig><reg>commenced</reg></choice> stoning the colored gentry, and <choice><orig>commit-<lb/> ting</orig><reg>committing</reg></choice> other acts of violence, but the military soon <lb/>arrested a number of the ringleaders.  <choice><orig>Lieute-<lb/> nant</orig><reg>Lieutenant</reg></choice> Brannin followed five of the teamsters into <lb/>a shanty, when one of the latter drew a shoe <lb/>knife and made for the Lieutenant.  Lieutenant <lb/>Franklin deliberately drew his revolver and <choice><orig>pre-<lb/> sented</orig><reg>presented</reg></choice> it at the head of the intended murderer. <lb/> The knife was dropped instantly, and the entire <lb/>party arrested.  Five shots were fired at <choice><orig>Ser-<lb/> geant</orig><reg>Sergeant</reg></choice> Hurley and some of the patrolmen by a <lb/>crowd of the rioters.  We learn that their hatred <lb/>of the police is <choice><sic>litle</sic><corr>little</corr></choice> less than their hatred of the <lb/>contrabands.  This arises from the fact that the <lb/>police have detected them in many of their acts <lb/>of villainy.</p>
+            
+            <p>It may not be out of place here to remark that <lb/>these teamsters, as a class, are of the most <choice><orig>des-<lb/> perate</orig><reg>desperate</reg></choice> and unprincipled character.  We learn, <lb/>on good authority, that a large per centage of <lb/>them are deserters from either the Federal or <choice><orig>re-<lb/> bel</orig><reg>rebel</reg></choice> armies.  Some time since nearly two hundred <lb/>of them, at the Railroad park, refused to take the <lb/>oath of allegiance, and were discharged.  Some <lb/>of these men will commit almost any outrage <lb/>for a trifle.  They seem to be under no effective <lb/><choice><sic>discipline</sic><corr>discipline.</corr></choice>  A change should be made, as at <choice><orig>pre-<lb/> sent</orig><reg>present</reg></choice> they are a nuisance in the army and to <choice><orig>so-<lb/> ciety</orig><reg>society</reg></choice>.  From the first battle of Bull Run to the <lb/>present time they have contributed largely to <lb/>every reverse which has met our arms.</p>
+                
+           
+            <postscript>
+                <label>P.S.&#8212;</label>
+                <p>The above was written for yesterday <lb/>morning's paper, but was crowded out.  The <choice><orig>de-<lb/> termination</orig><reg>determination</reg></choice> of the military, together with the <choice><orig>ar-<lb/> rests</orig><reg>arrests</reg></choice> which were made by them, has awed the <lb/>teamsters into good conduct, and doubtless <choice><orig>caus-<lb/> ed</orig><reg>caused</reg></choice> them to abandon their contemplated <choice><orig>annihi-<lb/> lation</orig><reg>annihilation</reg></choice> of colored people, simply because they are <lb/>colored.  Had not General Mortindale, through <lb/>his officers, manifested a determination to punish <lb/>these offenders, <choice><orig>tho</orig><reg>though</reg></choice> conspiracy might have <choice><orig>re-<lb/> sulted</orig><reg>resulted</reg></choice> in a most disastrous manner. <lb/></p>
+                
+                <p>These white-livered teamsters have a great <lb/>hatred for the contrabands.  They dread to have <lb/>such competitors in the field of labor.  They <lb/>are mostly drunkards, profane babblers, insolent, <lb/> dirty, and lazy; the colored teamsters are the <lb/>very opposite: hence they dread their <choice><orig>competi-<lb/> tion</orig><reg>competition</reg></choice>.</p>
+            </postscript>
+                </body>
+            </floatingText>
+                
+                <p>The Contraband Barracks, or rather the <choice><orig>me-<lb/>dical</orig><reg>medical</reg></choice> department of it, is presenting a better <choice><orig>pic-<lb/>ture</orig><reg>picture</reg></choice>, especially its sanitary condition, since Dr. <lb/>Augusta and his assistant, Dr. Powell, have taken <lb/>charge.  These gentlemen found it in a very <lb/>deplorable condition; so much so, that they <lb/>have had to revolutionize everything out there, <lb/>that they might be able to save the lives of those <lb/>that are left behind to tell of the abuses they <lb/>received at the hands of those who were placed <lb/>at the head of affairs, and have been very <choice><orig>prop-<lb/>erly</orig><reg>properly</reg></choice> discharged.  Ever since these barracks were <lb/>established, it has been my heart's desire to have <lb/>colored men placed in every department of trust <lb/>and responsibility, and there is a great victory <lb/>gained in having Dr. A. placed over the medical <lb/>department.  I am in hopes, by the time you <lb/>get another letter from me, I may be able to <choice><orig>an-<lb/>nounce</orig><reg>announce</reg></choice> to you that a colored man has been <choice><orig>ap-<lb/>pointed</orig><reg>appointed</reg></choice> superintendent of the whole camp. <lb/>I was much pleased with the proceedings of the <lb/>Contraband Relief Association, of which Mrs . <lb/>Keckley is president.  They appropriated one <lb/>hundred dollars for the care and comfort of <hi rend="italic"><choice><orig>en-<lb/>ceinte</orig><reg>enceinte</reg></choice></hi> females, and what is better, the medical <lb/>director has promised to build them a hospital <lb/>for that purpose alone.</p>
+                
+                <p>The colored regiment is progressing finely; <lb/>the third company is nearly ready to be <choice><orig>muster-<lb/>ed</orig><reg>mustered</reg></choice> in.  This regiment would have been raised <lb/>long since, but there has been some <choice><orig>misunder-<lb/>standing</orig><reg>misunderstanding</reg></choice> between Col. Turner and the War <choice><orig>De-<lb/>partment</orig><reg>Department</reg></choice>.  I have not been able to gather the <lb/>facts in the case, but hope to be able to give <lb/>them in my next.</p>
+                
+                    <p>I have no war news.  "All is quiet on the <lb/>Potomac," or rather the Rappahannock.  There <lb/>are various rumors of a contemplated secesh raid <lb/>on this city&#8212;but I can't see the point.</p>
+            
+            <closer><signed rend="right">BOB LOGIC.</signed></closer>
+            
+        </body>
+    </text>
+</TEI>

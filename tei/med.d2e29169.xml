@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d2e29169">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Donnelly, Reuben</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+    <idno>med.d2e29169</idno>
+    <authority>Civil War Washington</authority>
+    <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor>
+     <name>Center for Digital Research in the Humanities</name>
+     <address><addrLine>319 Love Library</addrLine>
+       <addrLine>University of Nebraska–Lincoln</addrLine>
+       <addrLine>Lincoln, NE 68588-4100</addrLine>
+       <addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+    </distributor>
+    <date>2011</date>
+    <availability>
+     <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+      republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+      law, requires express written consent from the editors and advance notification of the
+      publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+ <persName xml:id="kmp">Kenneth M. Price</persName> <persName xml:id="ajh">AJ Howell</persName>
+     <persName xml:id="mb">Matthew Bosley</persName>
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl>
+     <title level="j">The Medical and Surgical History of the War of the Rebellion.
+      (1861-65.)</title>
+     <pubPlace>Washington, DC</pubPlace>
+     <publisher>Government Printing Office</publisher>
+     <biblScope type="part">Part 3</biblScope>
+     <biblScope type="volume">Volume 2</biblScope>
+     <date when="1883">1883</date>
+     <biblScope type="page">721</biblScope>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+     <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <keywords scheme="#medsurg">
+     <term>wounds and complications</term>
+     <term>shot wounds</term>
+     <term>effect of missiles and projectiles on bony structure</term>
+     <term>perforations of bone</term>
+     <term>shaft of femur perforated in centre</term>
+     <term>longitudinal fissure on anterior surface of femur extends into joint and also upward,
+      ends in transverse fissure</term>
+     <term>oblique fracture on posterior surface of femur runs upward</term>
+     <term>wound of thigh</term>
+     <term>ball entered front of thigh above patella, passed directly through limb front to rear,
+      divided condyles and split bone up the shaft</term>
+     <term>amputation of thigh at junction of lower and middle thirds</term>
+     <term>suppuration in medullary canal of bone</term>
+     <term>femoral shaft split longitudinally in anterior surface and posteriorly obliquely</term>
+     <term>femoral condyles separated by fissure</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+ <change who="#kmp" when="2014-05">blessed</change>
+   <change who="#ajh" when="2013-08-23">added figure encoding</change>
+   <change who="#mb" when="2012-06-26">additional case copied from MSHWR, performed proofing of copy
+    and XML encoding, and key terms identified</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p><hi rend="initialcap">C</hi>ASE 1067.&#8212;<name type="person" key="xxx">Private Reuben
+     Donnelly</name>, <name type="organization" key="xxx">Co. A, 25th Ohio</name>, was wounded at
+     <name type="BATTLE" key="127">Bull Run</name>, <date type="injury" when="1862-08-30">August 30,
+     1862</date>. <name type="person" key="xxx">Acting Assistant Surgeon Thomas C. Barker</name>
+    reported: &#34;He entered <name type="hospital" key="193">King Street Hospital</name>, <name
+     type="place" key="#Alexandria">Alexandria</name>, on <date type="admit" when="1862-09-03"
+     >September 3d</date>, suffering with a wound of the right thigh. A round ball entered the front
+    part of the thigh just above the patella and passed directly through the limb from front to
+    rear, dividing the condyles and splitting the bone up the shaft several inches. On <date
+     type="operation" when="1862-09-05">September 5th</date>
+    <name type="person" key="xxx">Surgeon J. E. Summers</name>, <name type="organization" key="190"
+     >U. S. A.</name>, amputated the thigh at the junction of the lower and middle thirds by the
+    antero-posterior flap operation. The case progressed favorably. Union had taken place throughout
+    the whole of the flaps, with the exception of one point, about one-eighth of an inch in
+    diameter, over the end of the bone, which lay at a depth of three-fourths of an inch below the
+    orifice of the aperture. Patient's health, appetite, and general vigor had been good up to the
+    night of October 3d, when, during a cold rain, he was attacked with a severe chill. The next
+    day, in the afternoon, he had another chill, and although tonics and stimulants were sedulously
+    used with him, he sank in general vigor and his appetite failed. Absorption of the new
+    granulations took place around the aperture which had remained ununited, and the opening
+    increased to nearly an inch in diameter, the integuments retracting and leaving the end of the
+    bone nearly on a level with the external surface. Suppuration occurred in the medullary canal of
+    the bone. Emaciation was extreme; debility was rapidly increasing, with indisposition and
+    incapacity of taking and retaining food, or even stimulants to any appreciable amount; and the
+    patient gradually sank, and died of exhaustion and debility <date type="death" when="1862-10-20"
+     >October 20, 1862</date>.&#34; The specimen, consisting of the lowest third of the right femur,
+    perforated by a round ball directly through the centre of the shaft, just below the upper margin
+    of the patella, was forwarded to <name type="hospital" key="431">the Museum</name> by <name
+     type="person" key="xxx">Dr. Barker</name>, and is represented in the wood-cuts (<hi
+     rend="initialcap">F</hi>IGS. 403, 404). The shaft is split longitudinally in its anterior
+    surface for four inches, and posteriorly obliquely for the same distance. The condyles are also
+    separated by a fissure.</p>
+   <figure>
+    <graphic url="cww.001676.001"/>
+    <head><hi rend="initialcap">F</hi>IG. 403.&#8212;Shot perforation of right femur; anterior view.
+      <hi rend="italic">Sp</hi>. 319.</head>
+   </figure>
+   <figure>
+    <graphic url="cww.001677.001"/>
+    <head><hi rend="initialcap">F</hi>IG. 404.&#8212;Posterior view of the same specimen.</head>
+   </figure>
+  </body>
+ </text>
+</TEI>

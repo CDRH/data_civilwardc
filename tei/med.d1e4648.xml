@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e4648">
+        <teiHeader>
+                <fileDesc>
+                        <titleStmt>
+                                <title level="m" type="main">White, Edwin</title>
+                                <title level="m" type="sub">a machine readable transcription</title>
+                                <principal>Susan C. Lawrence</principal>
+                                <principal>Kenneth M. Price</principal>
+                                <principal>Kenneth J. Winkle</principal>
+                        </titleStmt>
+                        <editionStmt>
+                                <edition>
+                                        <date>2011</date>
+                                </edition>
+                        </editionStmt>
+                        <publicationStmt>
+                                <idno>med.d1e4648</idno>
+                                <authority>Civil War Washington</authority>
+                                <publisher>University of Nebraska–Lincoln</publisher>
+                                <distributor>
+                                        <name>Center for Digital Research in the Humanities</name>
+                                        <address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+                                </distributor>
+                                <date>2011</date>
+                                <availability>
+                                        <p>Copyright © 2011 by University of Nebraska–Lincoln, all
+                                                rights reserved. Redistribution or republication in
+                                                any medium, except as allowed under the Fair Use
+                                                provisions of U.S. copyright law, requires express
+                                                written consent from the editors and advance
+                                                notification of the publisher, the University of
+                                                Nebraska–Lincoln.</p>
+                                </availability>
+                        </publicationStmt>
+                        <notesStmt>
+                                <note type="project">The following are responsible for particular
+                                        readings or for changes to this file, as noted: 
+                                        <persName xml:id="mb">Matthew Bosley</persName>
+                                        <persName xml:id="el">Elizabeth Lorang</persName>
+                                        <persName xml:id="sb">Stacey Berry</persName>
+                                        <persName xml:id="et">Elisabeth Tracey</persName>
+                                </note>
+                        </notesStmt>
+                        <sourceDesc>
+                                <bibl>
+                                        <title level="j">The Medical and Surgical History of the War
+                                                of the Rebellion</title>
+                                        <pubPlace>Washington, DC</pubPlace>
+                                        <publisher>Government Printing Office</publisher>
+                                        <biblScope type="part">Part 3</biblScope>
+                                        <biblScope type="volume">Volume 1</biblScope>
+                                        <date when="1888">1888</date>
+                                        <biblScope type="page">246</biblScope>
+                                </bibl>
+                        </sourceDesc>
+                </fileDesc>
+                <encodingDesc>
+                        <classDecl>
+                                <taxonomy xml:id="medsurg">
+                                        <bibl>Medical and Surgical History of the War of the
+                                                Rebellion</bibl>
+                                </taxonomy>
+                        </classDecl>
+                </encodingDesc>
+                <profileDesc>
+                        <textClass>
+                                <keywords scheme="#medsurg">
+                                        <term>clinical records</term>
+                                        <term>continued fevers</term>
+                                        <term>typho-malarial and typhoid fevers</term>
+                                        <term>Seminary Hospital cases</term>
+                                        <term>remittent fever</term>
+                                        <term>evidence of co-existence of typhoid fever</term>
+                                        <term>diarrh&#339;a and abdominal pain</term>
+                                </keywords>
+                        </textClass>
+                </profileDesc>
+                <revisionDesc>
+                        <change who="#mb" when="2011-10-10">additional proofing of transcription and encoding</change>
+                        <change who="#mb" when="2011-06-10">additional proofing of transcription and encoding</change>
+                        <change who="#el" when="2011-05-11">case text extracted and transformed from
+                                larger file</change>
+                        <change who="#sb" when="2011-02-23">Encoding and Proofing</change>
+                        <change who="#et" when="2009-12-01">Initial Checking OCR Text to PDF file,
+                        </change>
+                </revisionDesc>
+        </teiHeader>
+        <text>
+                <body xml:id="ch4.sc2.3.00114">
+                        
+                                <p><hi rend="initialcap">C</hi>ASE 114.&#8212;<hi rend="italic"
+                                                >Diagnosis&#8212;remittent fever.
+                                                Diarrh&#339;a and abdominal pain; deafness,
+                                                delirium and prostration; record
+                                                incomplete.</hi>&#8212;<name type="person"
+                                                key="572">Private Edwin White</name>, <name
+                                                type="organization" key="329">Co. H, 86th N. Y.
+                                                Vols.</name>; age 18; was admitted <date
+                                                type="admit" when="1862-03-02">March 2, 1862</date>,
+                                        with remitting fever, headache, giddiness, nausea and
+                                        constipation. The record is silent as to his condition until
+                                        the 13th, when he was dull and dejected and talked much in
+                                        his sleep, having a hot and dry skin, a dry tongue, rough
+                                        and coated but clean and moist at the edges, some pain in
+                                        swallowing, diarrh&#339;a, abdominal pain and slight
+                                        iliac tenderness, with headache and flushed cheeks, rapid
+                                        pulse and occasional epistaxis. The fever increased towards
+                                        evening and was followed by a chill. From the 14th to the
+                                        18th he had delirium at night but was rational during the
+                                        day; his bowels were slightly relaxed, the stools thin and
+                                        watery, and there was much abdominal tenderness. Quinine was
+                                        ordered on the 14th, tincture of iron and turpentine
+                                        emulsion on the 15th; epistaxis was noted on the 16th and
+                                        deafness on the 17th. On the 18th delirium gave place to
+                                        <choice><orig>dulness</orig><reg>dullness</reg></choice>
+                                        and stupidity, which increased until on the 21st the
+                                        patient was unable to protrude his tongue well and swallowed
+                                        with difficulty; there was epistaxis; cough became
+                                        troublesome and the expectoration was tinged with blood,
+                                        which was conceived to be owing to the epistaxis. From this
+                                        time to the 30th, when the daily record ends, there was
+                                        little change in the symptoms. The patient was discharged
+                                        for debility <date type="servicedischarge" when="1862-05-10">May 10</date>. </p>
+                        
+                </body>
+        </text>
+</TEI>

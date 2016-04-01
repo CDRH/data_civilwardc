@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e1038">
+        <teiHeader>
+                <fileDesc>
+                        <titleStmt>
+                                <title level="m" type="main">McLaughlin, Stephen</title>
+                                <title level="m" type="sub">a machine readable transcription</title>
+                                <principal>Susan C. Lawrence</principal>
+                                <principal>Kenneth M. Price</principal>
+                                <principal>Kenneth J. Winkle</principal>
+                        </titleStmt>
+                        <editionStmt>
+                                <edition>
+                                        <date>2011</date>
+                                </edition>
+                        </editionStmt>
+                        <publicationStmt>
+                                <idno>med.d1e1038</idno>
+                                <authority>Civil War Washington</authority>
+                                <publisher>University of Nebraska–Lincoln</publisher>
+                                <distributor>
+                                        <name>Center for Digital Research in the Humanities</name>
+                                        <address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+                                </distributor>
+                                <date>2011</date>
+                                <availability>
+                                        <p>Copyright © 2011 by University of Nebraska–Lincoln, all
+                                                rights reserved. Redistribution or republication in
+                                                any medium, except as allowed under the Fair Use
+                                                provisions of U.S. copyright law, requires express
+                                                written consent from the editors and advance
+                                                notification of the publisher, the University of
+                                                Nebraska–Lincoln.</p>
+                                </availability>
+                        </publicationStmt>
+                        <notesStmt>
+                                <note type="project">The following are responsible for particular
+                                        readings or for changes to this file, as noted: 
+                                        <persName xml:id="mb">Matthew Bosley</persName>
+                                        
+                                        <persName xml:id="el">Elizabeth Lorang</persName>
+                                        <persName xml:id="sb">Stacey Berry</persName>
+                                        <persName xml:id="et">Elisabeth Tracey</persName>
+                                </note>
+                        </notesStmt>
+                        <sourceDesc>
+                                <bibl>
+                                        <title level="j">The Medical and Surgical History of the War
+                                                of the Rebellion</title>
+                                        <pubPlace>Washington, DC</pubPlace>
+                                        <publisher>Government Printing Office</publisher>
+                                        <biblScope type="part">Part 3</biblScope>
+                                        <biblScope type="volume">Volume 1</biblScope>
+                                        <date when="1888">1888</date>
+                                        <biblScope type="page">136</biblScope>
+                                </bibl>
+                        </sourceDesc>
+                </fileDesc>
+                <encodingDesc>
+                        <classDecl>
+                                <taxonomy xml:id="medsurg">
+                                        <bibl>Medical and Surgical History of the War of the
+                                                Rebellion</bibl>
+                                </taxonomy>
+                        </classDecl>
+                </encodingDesc>
+                <profileDesc>
+                        <textClass>
+                                <keywords scheme="#medsurg">
+                                        <term>post-mortem records</term>
+                                        <term>pathology of malarial disease</term>
+                                        <term>congestive chills</term>
+                                        <term>premature old age, asthma, and debility</term>
+                                        <term>&#339;dema and congestion of abdominal viscera regarded as malarial influence</term>
+                                        <term>abdomen full, tense and fluctuating</term>
+                                        <term>absolute <choice><orig>dulness</orig><reg>dullness</reg></choice> from below nipple to midway between that point and crest of ileum</term>
+                                        <term>heart ventricle hypertrophied, middle valve thickened, margins of pulmonary and aortic valves hardened</term>
+                                        <term>liver enlarged and softened</term>
+                                </keywords>
+                        </textClass>
+                </profileDesc>
+                <revisionDesc>
+                        <change who="#mb" when="2013-02-22">additional proofing of transcription and encoding, edited and added keyword terms</change>
+                        <change who="#mb" when="2011-10-18">additional proofing of transcription and encoding</change>
+                        <change who="#mb" when="2011-05-26">additional proofing of transcription and encoding</change> 
+                        <change who="#el" when="2011-05-11">case text extracted and transformed from
+                                larger file</change>
+                        <change who="#sb" when="2011-02-23">Encoding and Proofing</change>
+                        <change who="#et" when="2009-12-01">Initial Checking OCR Text to PDF file,
+                        </change>
+                </revisionDesc>
+        </teiHeader>
+        <text>
+                <body xml:id="ch3.sc4.0093">
+                        
+                                <p><hi rend="initialcap">C</hi>ASE 93.&#8212;<name type="person"
+                                                key="xxx">Stephen McLaughlin</name>, who was
+                                        discharged from <name type="organization" key="xx">2d U. S.
+                                                Art'y</name>
+                                        <date type="servicedischarge" when="1865-08-17">August 17,
+                                                1865</date>, on account of premature old age, asthma
+                                        and general debility from twenty years' service, was
+                                        admitted <date type="admit" when="1865-09-11">September
+                                                11</date>, confused in mind and with tremors of the
+                                        limbs and voice; pulse 136; he appeared to have been
+                                        drinking to excess. His legs were &#339;dematous; abdomen full,
+                                        tense and fluctuating; auscultation disclosed roughness of
+                                        the heart-sounds with increased impulse, the sounds being
+                                        heard all over the left side; there was absolute <choice><orig>dulness</orig><reg>dullness</reg></choice>
+                                        from a little below the nipple to midway between that point
+                                        and the crest of the ileum; the respiratory murmur was
+                                        absent at the base of the left lung, puerile at its summit
+                                        and on the right side; the left side of the chest was
+                                        contracted, the right side enlarged.  At 2 P. M. on the day of
+                                        admission he experienced a severe chill, for which brandy
+                                        and quinine were given and mustard applied. He recovered,
+                                        but the chill recurred at 2.30 P. M. on the <date
+                                                type="death" when="1865-09-12">following day</date>
+                                        and he died at 7 P. M.  <hi rend="italic">Post-mortem</hi>
+                                        examination <date type="autopsy" when="1865-09-13">seventeen hours after death</date>: Body bloated; skin
+                                        of the head dark and livid; a thick greenish liquid flowing
+                                        from the mouth. The brain was normal. The right lung was
+                                        healthy. The left pleural cavity was partly obliterated by
+                                        adhesions, but contained in its sacculi serum and lymph; the
+                                        lung was diminished to half its size, the lower lobe being
+                                        very friable and having its air-cells filled with a
+                                        prune-juice liquid. The pericardium contained four ounces of
+                                        serum. The heart weighed fourteen ounces and a half; the
+                                        ventricle was hypertrophied, the middle valve somewhat
+                                        thickened and the curved margins of the pulmonary and aortic
+                                        valves hardened. The liver was enlarged and softened; the
+                                        spleen, weighing twenty-two ounces and a half, was pulpy.
+                                        The peritoneum was darkly injected and contained ten ounces
+                                        of serum. The stomach and intestines, which were much
+                                        distended with gas, had their mucous lining congested. The
+                                        kidneys were nodulated on the surface and contained several
+                                        cysts somewhat larger than a pea.&#8212;<hi
+                                                rend="italic"><name type="hospital" key="162">Douglas Hospital</name>, Washington, D.
+                                        C.</hi></p>
+                        
+                </body>
+        </text>
+</TEI>

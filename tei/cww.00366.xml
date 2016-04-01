@@ -1,0 +1,803 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="cww.00366">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Petition of Margaret C. Barber, 22 May 1862</title>
+                <title level="m" type="sub">a machine readable transcription</title>
+                <principal>Susan C. Lawrence</principal>
+                <principal>Kenneth M. Price</principal>
+                <principal>Kenneth J. Winkle</principal>
+                <respStmt>
+                    <resp>transcription and encoding</resp>
+                    <name xml:id="jc">Janel Cayer</name>
+                    <name xml:id="kk">Kathryn Kruger</name>
+                    <name xml:id="kp">Kenneth M. Price</name>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2013</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <idno>cww.00366</idno>
+                <distributor>Civil War Washington</distributor>
+                <publisher>University of Nebraska–Lincoln</publisher>
+                <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>P.O. Box 884100</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+            </address>
+                <date>2013</date>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+                        <p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike
+                            3.0 Unported License
+                            (http://creativecommons.org/licenses/by-nc-sa/3.0/). Derivatives must be
+                            credited to Civil War Washington, made available non-commercially, and
+                            distributed under the same terms. Requests for permission for commercial
+                            publication or other use should be emailed to the project team.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Petition of Margaret C. Barber, 22 May 1862</title>
+                    <date when="1862-05-22">May 22, 1862</date>
+                    <idno>Microcopy 520, Reel 3</idno>
+                    <orgName>National Archives and Records Administration</orgName>
+                    <relatedItem type="original">
+                        <bibl>
+                            <title>Petition of Margaret C. Barber, 22 May 1862</title>
+                            <date when="1862-05-22">May 22, 1862</date>
+                            <idno>Record Group 217.6.5</idno>
+                            <orgName>Records of the Accounting Officers of the Department of the
+                                Treasury, 1775–1978, National Archives and Records
+                                Administration</orgName>
+                            <note type="project">Within the National Archives' Archival Description
+                                Catalog, see ARC Identifier 4644616 / MLR Number A1 347
+                                (http://arcweb.archives.gov).</note>
+                        </bibl>
+                    </relatedItem>
+                    <note type="project">Our transcription is based on a digital image of a
+                        microfilm copy of the original.</note>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <particDesc>
+                <person role="petitioner">
+                    <persName>Margaret C. Barber</persName>
+                </person>
+                <person role="jp">
+                    <persName>Hamilton Loughborough</persName>
+                </person>
+            </particDesc>
+        </profileDesc>
+        <revisionDesc>
+            <change when="2013-04-12" who="#jc">blessed</change>
+            <change when="2013-04-11" who="#kp">blessed</change>
+            <change when="2013-01-29" who="#jc">updated tei header; fixed values @ facs as
+                necessary; automated checking across files for extra spaces in elements and other
+                encoding inconsistencies and transcription errors</change>
+            <change when="2013-01-14" who="#kk">checked</change>
+            <change when="2012-09-11" who="#jc">transcribed, encoded</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+
+            <pb xml:id="leaf001r" facs="cww.00366.001.jpg"/>
+
+            <div1 type="petition" subtype="mixed">
+                <head type="main">PETITION.</head>
+                <p rend="bold">To the Commissioners under the act of Congress approved the <date
+                        when="1862-04-16">16th of April, 1862</date>, entitled "An act for the
+                    release of certain persons held to service or labor in the District of
+                    Columbia."</p>
+
+                <p>Your Petitioner, <seg type="handwritten">
+                        <persName>Margaret C. Barber</persName>
+                    </seg> of <seg type="handwritten">
+                        <placeName>Washington County</placeName> in said
+                            <placeName>District</placeName>
+                    </seg> by this <seg type="handwritten">her</seg> petition in writing, represents
+                    and states, that <seg type="handwritten">she</seg> is a person loyal to the
+                    United States, who, at the time of the passage of the said act of Congress, held
+                    a claim to service or labor against <seg type="handwritten">thirty three</seg>
+                        person<seg type="handwritten">s</seg> of African descent of the name<seg
+                        type="handwritten">s</seg> of <seg type="handwritten">
+                        <persName>Peter Jenkins</persName>, <persName>Mary Jenkins</persName>,
+                            <persName>Ellen Jenkins</persName>, <persName>Susan Carroll</persName>,
+                            <persName>Dennis Carroll</persName>, <persName>Anmaria
+                            Carroll</persName>, <persName>Wm. Carroll</persName>, <persName>Richd.
+                            Williams</persName>, <persName>Chapman Toyer</persName>, <persName>Sarah
+                            Toyer</persName>, <persName>Mary Young</persName>, <persName>Kitty
+                            Silass</persName>, <persName>Gilbert Silass</persName>, <persName>Wm.
+                            Silass</persName>, <persName>Philip Silass</persName>, <persName>Saml.
+                            Yates</persName>, <persName>Judah Yates</persName>, <persName>John
+                            Thomas</persName>, <persName>Henry Toyer</persName>, <persName>Josh.
+                            Toyer</persName>, <persName>Louisa Toyer</persName>, <persName>Danl.
+                            Toyer</persName>, <persName>Eliza Toyer</persName>, <persName>Jane
+                            Yates</persName>, <persName>Mary Brown</persName>, <persName>Betty
+                            Briscoe</persName>, <persName>Milly Briscoe</persName>, <persName>Margt.
+                            Briscoe</persName>, <persName>John Chapman</persName>,
+                            <persName>Mortimer Briscoe</persName>, <persName>Townley
+                            Yates</persName>, <persName>Resin Yates</persName> and <persName>Andrew
+                            Yates</persName>
+                    </seg> for and during the <seg type="handwritten">lives</seg>
+                    <del>life</del> of said <seg type="handwritten">persons, except as to
+                            <persName>Susan Carroll</persName>, who was to serve for a term of
+                        years, viz&#8212;until she should attain forty four years of age, eight
+                        years of which she had to serve at the passage of said act, she being then
+                        thirty six years of age</seg> and that by said act of Congress said <seg
+                        type="handwritten">persons were</seg> discharged and freed of and from all
+                    claim of your petitioner to such service or labor; that at the time of said
+                    discharge said <seg type="handwritten">persons were</seg> of the age<seg
+                        type="handwritten">s</seg>
+                    <del>of</del> and of the personal description following<seg type="handwritten"
+                        >;</seg>
+                    <note type="government" place="foot" xml:id="n1">Here describe the person, so as
+                        to identify him or her; and if there be more than one slave, describe each
+                        one separately.</note>
+                    <seg type="handwritten">as specified in the statement or schedule hereto
+                        annexed, and marked with her initials <persName>M. C. B.</persName>, being a
+                        copy, with the values added thereto, of the statement or schedule filed by
+                        her in the Clerk's office of this <placeName>District</placeName>, pursuant
+                        to the ninth section of said act, to wit:</seg>
+                </p>
+
+                <pb xml:id="leaf002r" facs="cww.00366.002.jpg"/>
+                <table rend="handwritten">
+                    <head type="main">Statement or Schedule <persName>M. C. B.</persName>
+                    </head>
+                    <row>
+                        <cell>No.</cell>
+                        <cell>Name</cell>
+                        <cell>Sex</cell>
+                        <cell>Age</cell>
+                        <cell>Color</cell>
+                        <cell>Height</cell>
+                        <cell>Value</cell>
+                        <cell>Particular description.</cell>
+                    </row>
+                    <row>
+                        <cell>1.</cell>
+                        <cell>
+                            <persName>Peter Jenkins</persName>
+                        </cell>
+                        <cell>Male</cell>
+                        <cell>65</cell>
+                        <cell>Black</cell>
+                        <cell>5.8 &#189;</cell>
+                        <cell>$250.</cell>
+                        <cell>Slave for life. A number one farm hand. Hired for 70$ a year.</cell>
+                    </row>
+                    <row>
+                        <cell>2.</cell>
+                        <cell>
+                            <persName>Mary Jenkins</persName>
+                        </cell>
+                        <cell>Female</cell>
+                        <cell>58.</cell>
+                        <cell>"</cell>
+                        <cell>5.2</cell>
+                        <cell>200.</cell>
+                        <cell>No. 1 Cook. For life. Wages 72$ a year.</cell>
+                    </row>
+                    <row>
+                        <cell>3.</cell>
+                        <cell>
+                            <persName>Ellen Jenkins</persName>
+                        </cell>
+                        <cell>"</cell>
+                        <cell>60</cell>
+                        <cell>"</cell>
+                        <cell>5.7</cell>
+                        <cell>250.</cell>
+                        <cell>For life. Wages 82$ a year. Good Cook</cell>
+                    </row>
+                    <row>
+                        <cell>4</cell>
+                        <cell>
+                            <persName>Susan Carroll</persName>
+                        </cell>
+                        <cell>"</cell>
+                        <cell>36.</cell>
+                        <cell>dark mulatto</cell>
+                        <cell>4.11 ⅞</cell>
+                        <cell>400.</cell>
+                        <cell>At home. Seamstress and house <choice>
+                                <abbr>servt</abbr>
+                                <expan>servant</expan>
+                            </choice>. To serve till 44 years of age. 8 years to serve.</cell>
+                    </row>
+                    <row>
+                        <cell>5.</cell>
+                        <cell>
+                            <persName>Dennis Carroll</persName>
+                        </cell>
+                        <cell>Male</cell>
+                        <cell>7</cell>
+                        <cell>light mulatto</cell>
+                        <cell>3.10</cell>
+                        <cell>300.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>6.</cell>
+                        <cell>
+                            <persName>Ann Maria Carroll</persName>
+                        </cell>
+                        <cell>Female</cell>
+                        <cell>3.</cell>
+                        <cell>"</cell>
+                        <cell/>
+                        <cell>150</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>7</cell>
+                        <cell>
+                            <persName>Wm. Carroll</persName>
+                        </cell>
+                        <cell>Male</cell>
+                        <cell>2</cell>
+                        <cell>"</cell>
+                        <cell/>
+                        <cell>100.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>8</cell>
+                        <cell>
+                            <persName>Richd. Williams</persName>
+                        </cell>
+                        <cell>"</cell>
+                        <cell>25</cell>
+                        <cell>dark mulatto</cell>
+                        <cell>5.10 &#189;</cell>
+                        <cell>1500.</cell>
+                        <cell>For life. Shoemaker. Carpenter and a first rate farm hand. At
+                            home.</cell>
+                    </row>
+                    <row>
+                        <cell>9.</cell>
+                        <cell>
+                            <persName>Chapn. Toyer</persName>
+                        </cell>
+                        <cell>Male</cell>
+                        <cell>45.</cell>
+                        <cell>Black</cell>
+                        <cell>6&#8212;</cell>
+                        <cell>1000.</cell>
+                        <cell>" A good farm hand. Wages $100 a year.</cell>
+                    </row>
+                    <row>
+                        <cell>10.</cell>
+                        <cell>
+                            <persName>Sarah Toyer</persName>
+                        </cell>
+                        <cell>Female</cell>
+                        <cell>51</cell>
+                        <cell>"</cell>
+                        <cell>5.1</cell>
+                        <cell>600.</cell>
+                        <cell>" Good Laundress. Wages 72$ a year</cell>
+                    </row>
+                    <row>
+                        <cell>11.</cell>
+                        <cell>
+                            <persName>Mary Young</persName>
+                        </cell>
+                        <cell>"</cell>
+                        <cell>59</cell>
+                        <cell>"</cell>
+                        <cell>5.&#8212;</cell>
+                        <cell>400.</cell>
+                        <cell>" Good Cook. 60$ a year</cell>
+                    </row>
+                    <row>
+                        <cell>12.</cell>
+                        <cell>
+                            <persName>Kitty Silass</persName>
+                        </cell>
+                        <cell>"</cell>
+                        <cell>37</cell>
+                        <cell>light mulatto</cell>
+                        <cell>5.2 &#189;</cell>
+                        <cell>1200.</cell>
+                        <cell>" At Home. a No. 1 Cook &#38; Laundress.</cell>
+                    </row>
+                    <row>
+                        <cell>13</cell>
+                        <cell>
+                            <persName>Gilbert Silass</persName>
+                        </cell>
+                        <cell>Male</cell>
+                        <cell>8.</cell>
+                        <cell>"</cell>
+                        <cell>4.2 &#189;</cell>
+                        <cell>300.</cell>
+                        <cell>" At home.</cell>
+                    </row>
+                    <row>
+                        <cell>14.</cell>
+                        <cell>
+                            <persName>Wm. Silass</persName>
+                        </cell>
+                        <cell>"</cell>
+                        <cell>5.</cell>
+                        <cell>"</cell>
+                        <cell>3.10</cell>
+                        <cell>300.</cell>
+                        <cell>" "</cell>
+                    </row>
+                    <row>
+                        <cell>15</cell>
+                        <cell>
+                            <persName>Philip Silass</persName>
+                        </cell>
+                        <cell>"</cell>
+                        <cell>8 <choice>
+                                <abbr>mos</abbr>
+                                <expan>months</expan>
+                            </choice>
+                        </cell>
+                        <cell/>
+                        <cell/>
+                        <cell>25.</cell>
+                        <cell>" "</cell>
+                    </row>
+                    <row>
+                        <cell>16</cell>
+                        <cell>
+                            <persName>Saml Yates</persName>
+                        </cell>
+                        <cell>"</cell>
+                        <cell>24</cell>
+                        <cell>dark <choice>
+                                <abbr>mulo</abbr>
+                                <expan>mulatto</expan>
+                            </choice>
+                        </cell>
+                        <cell>5.2 &#189;</cell>
+                        <cell>100.</cell>
+                        <cell>" House servant</cell>
+                    </row>
+                    <row>
+                        <cell>17</cell>
+                        <cell>
+                            <persName>Judah Yates</persName>
+                        </cell>
+                        <cell>Female</cell>
+                        <cell>31</cell>
+                        <cell>"</cell>
+                        <cell>5.3 &#189;</cell>
+                        <cell>600.</cell>
+                        <cell>" House servant Wages 72$</cell>
+                    </row>
+                    <row>
+                        <cell>18</cell>
+                        <cell>
+                            <persName>John Thomas</persName>
+                        </cell>
+                        <cell>Male</cell>
+                        <cell>41</cell>
+                        <cell>Black</cell>
+                        <cell>5.8 &#190;</cell>
+                        <cell>1200.</cell>
+                        <cell>" Wages 120$ Coach-man.</cell>
+                    </row>
+                    <row>
+                        <cell>19</cell>
+                        <cell>
+                            <persName>Henry Toyer</persName>
+                        </cell>
+                        <cell>"</cell>
+                        <cell>25.</cell>
+                        <cell>dark <choice>
+                                <abbr>mulo</abbr>
+                                <expan>mulatto</expan>
+                            </choice>
+                        </cell>
+                        <cell>5.10 &#189;</cell>
+                        <cell>1400.</cell>
+                        <cell>" Farm hand: $120. wages</cell>
+                    </row>
+                    <row>
+                        <cell>20</cell>
+                        <cell>
+                            <persName>Jos. Toyer</persName>
+                        </cell>
+                        <cell>"</cell>
+                        <cell>24</cell>
+                        <cell>Black</cell>
+                        <cell>5.8 &#189;</cell>
+                        <cell>1400.</cell>
+                        <cell>" " Wages 120$.</cell>
+                    </row>
+                    <row>
+                        <cell>21.</cell>
+                        <cell>
+                            <persName>Louisa Toyer</persName>
+                        </cell>
+                        <cell>Female</cell>
+                        <cell>23</cell>
+                        <cell>"</cell>
+                        <cell>5.7</cell>
+                        <cell>1200.</cell>
+                        <cell>" Good Cook. Wages 72$</cell>
+                    </row>
+                    <row>
+                        <cell>22</cell>
+                        <cell>
+                            <persName>Danl Toyer</persName>
+                        </cell>
+                        <cell>Male</cell>
+                        <cell>4 <choice>
+                                <abbr>mos</abbr>
+                                <expan>months</expan>
+                            </choice>
+                        </cell>
+                        <cell/>
+                        <cell/>
+                        <cell>25.</cell>
+                        <cell>"</cell>
+                    </row>
+                    <row>
+                        <cell>23</cell>
+                        <cell>
+                            <persName>Eliza Toyer</persName>
+                        </cell>
+                        <cell>Female</cell>
+                        <cell>18.</cell>
+                        <cell>dark <choice>
+                                <abbr>mulo</abbr>
+                                <expan>mulatto</expan>
+                            </choice>
+                        </cell>
+                        <cell>5.1</cell>
+                        <cell>1000&#8212;</cell>
+                        <cell>" Good house servant. Wages</cell>
+                    </row>
+                    <row>
+                        <cell>24</cell>
+                        <cell>
+                            <persName>Jane Yates</persName>
+                        </cell>
+                        <cell>"</cell>
+                        <cell>36.</cell>
+                        <cell>"</cell>
+                        <cell>5.1 &#188;</cell>
+                        <cell>1200.</cell>
+                        <cell>A number one Cook.</cell>
+                    </row>
+                    <row>
+                        <cell>25</cell>
+                        <cell>
+                            <persName>Mary Brown</persName>
+                        </cell>
+                        <cell>"</cell>
+                        <cell>20.</cell>
+                        <cell>light <choice>
+                                <abbr>mulo</abbr>
+                                <expan>mulatto</expan>
+                            </choice>
+                        </cell>
+                        <cell>5.7 &#8539;</cell>
+                        <cell>800.</cell>
+                        <cell>" At home house servant</cell>
+                    </row>
+                    <row>
+                        <cell>26</cell>
+                        <cell>
+                            <persName>Betty Briscoe</persName>
+                        </cell>
+                        <cell>"</cell>
+                        <cell>16.</cell>
+                        <cell>dark <choice>
+                                <abbr>mulo</abbr>
+                                <expan>mulatto</expan>
+                            </choice>
+                        </cell>
+                        <cell>5.2</cell>
+                        <cell>1000.</cell>
+                        <cell>" House servant</cell>
+                    </row>
+                    <row>
+                        <cell>27</cell>
+                        <cell>
+                            <persName>Milly Briscoe</persName>
+                        </cell>
+                        <cell>"</cell>
+                        <cell>11.</cell>
+                        <cell>"</cell>
+                        <cell>4.6</cell>
+                        <cell>400.</cell>
+                        <cell>" "</cell>
+                    </row>
+                    <row>
+                        <cell>28</cell>
+                        <cell>
+                            <persName>Margt Briscoe</persName>
+                        </cell>
+                        <cell>"</cell>
+                        <cell>2</cell>
+                        <cell>Black</cell>
+                        <cell/>
+                        <cell>100.</cell>
+                        <cell>"</cell>
+                    </row>
+
+                    <pb xml:id="leaf002v" facs="cww.00366.003.jpg"/>
+
+                    <row>
+                        <cell/>
+                        <cell>Name</cell>
+                        <cell>Age</cell>
+                        <cell>Sex</cell>
+                        <cell>Color</cell>
+                        <cell>Height</cell>
+                        <cell>Value</cell>
+                        <cell>Particular description</cell>
+                    </row>
+                    <row>
+                        <cell>29.</cell>
+                        <cell>
+                            <persName>Jno. Chapman</persName>
+                        </cell>
+                        <cell>34</cell>
+                        <cell>Male</cell>
+                        <cell>Black</cell>
+                        <cell>5.9 &#189;</cell>
+                        <cell>1200&#8212;</cell>
+                        <cell>First rate farm hand. A slave for life. Wages 120$</cell>
+                    </row>
+                    <row>
+                        <cell>30.</cell>
+                        <cell>
+                            <persName>Mortm. Briscoe</persName>
+                        </cell>
+                        <cell>39.</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>5.10</cell>
+                        <cell>1000.&#8212;</cell>
+                        <cell>For life. Good farm hand Wages 120$</cell>
+                    </row>
+                    <row>
+                        <cell>31.</cell>
+                        <cell>
+                            <persName>Townley Yates</persName>
+                        </cell>
+                        <cell>24</cell>
+                        <cell>"</cell>
+                        <cell>dark <choice>
+                                <abbr>mulo</abbr>
+                                <expan>mulatto</expan>
+                            </choice>
+                        </cell>
+                        <cell>6.</cell>
+                        <cell>1400.&#8212;</cell>
+                        <cell>" Good farm hand. Wages 120$</cell>
+                    </row>
+                    <row>
+                        <cell>32.</cell>
+                        <cell>
+                            <persName>Resin Yates</persName>
+                        </cell>
+                        <cell>33</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>5.9</cell>
+                        <cell>1200&#8212;</cell>
+                        <cell>" Good hostler &#38; farm hand. 120$ wages</cell>
+                    </row>
+                    <row>
+                        <cell>33</cell>
+                        <cell>
+                            <persName>Andw Yates</persName>
+                        </cell>
+                        <cell>20</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>5.8 &#190;</cell>
+                        <cell>1200&#8212;</cell>
+                        <cell>" Good Currier</cell>
+                    </row>
+                    <row>
+                        <cell>34</cell>
+                        <cell>
+                            <persName>Wm. Cyrass</persName>
+                        </cell>
+                        <cell>14</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                </table>
+
+
+                <pb xml:id="leaf003r" facs="cww.00366.004.jpg"/>
+
+                <p>That your petitioner acquired <seg type="handwritten">her</seg> claim to the
+                    aforesaid service or labor of said <seg type="handwritten">persons</seg> in
+                    manner following<seg type="handwritten">;</seg>
+                    <note type="government" place="foot" xml:id="n2">Here state how the claim was
+                        acquired, when, from whom, and for what price or consideration; and, if held
+                        under any written evidence of title, make exhibit thereof, or refer to the
+                        public record where the same may be found.</note>
+                    <seg type="handwritten">to wit: said <persName>Peter Jenkins</persName>,
+                            <persName>Mary Jenkins</persName>
+                        <persName>Ellen Jenkins</persName>, <persName>Susan Carroll</persName>,
+                            <persName>Dennis Carroll</persName>, <persName>Anmaria
+                            Carroll</persName>, <persName>Wm. Carroll</persName> and
+                            <persName>Richard Williams</persName>, the eight negroes first entered
+                        on said statement or schedule, from her late Father, Major <persName>John
+                            Adlum</persName>, and her mother, <persName>Margaret Adlum</persName>,
+                        both deceased, under their respective Wills, dated the <date
+                            when="1836-02-29">29th February 1836</date> and <date when="1850-08-14"
+                            >14th August 1850</date>, and on the settlement and distribution of
+                        their estates; and all the other persons mentioned in said schedule from her
+                        late husband, <persName>Cornelius Barber</persName>, by his Will, dated
+                            <date when="1853-08-23">23d August 1853</date>; all which Wills are
+                        recorded in the Orphan's Court of this County, where all said parties
+                        resided and died. Said persons were always held by, and in the possession of
+                        her said father, mother and husband respectively in their lives, and have
+                        been held by your petitioner, and been in her possession since their
+                        respective deaths as slaves as above stated.</seg>
+                </p>
+
+                <p>That your petitioner's claim to the service or labor of said <seg
+                        type="handwritten">persons</seg> was, at the time of said discharge
+                    therefrom, of the value of <seg type="handwritten">twenty three thousand &#38;
+                        four hundred</seg> dollars in money<seg type="handwritten">,</seg>
+                    <note type="government" place="foot" xml:id="n3">Here state such facts, if any
+                        there be, touching the value of the petitioner's claim to the service or
+                        labor of the person, as may enhance the same, and also such facts, if any,
+                        touching the moral, mental, and bodily infirmities or defects of said
+                        person, as impair the value of the petitioner's claim to such service or
+                        labor, and conclude such statement with an averment that the petitioner
+                        knows of no other infirmities or defects of said person which impair the
+                        value of petitioner's claim to such service or labor, and that he believes
+                        none other to exist. If the petitioner specify no such infirmity or defect,
+                        then his statement touching the value of his claim should conclude with an
+                        averment that he has no knowledge of any such infirmity or defect.</note>
+                    <seg type="handwritten">or thereabouts, according to the prices which had been
+                        paid in cash for similar negroes by those dealing in them, as she is
+                        informed and believes; but as many of them were old family servants, or the
+                        descendants of such, and had been brought up in her and her husband's and
+                        parent's families, and her own since their deaths, and were well-behaved and
+                        orderly servants, she was averse to making such a disposition of them. The
+                        value of each, according to her estimate and belief, is stated in said
+                        schedule hereto annexed. Leaving out for the present those on said list,
+                        marked Nos. 4, 9, 12, 16, 18, 21, 25 and 30, to be spoken of hereafter, all
+                        the others, named in said list, are strong, healthy, and honest negroes, and
+                        free from any moral, mental or bodily infirmity or defect. As to the others,
+                        and their infirmities and defects, she states, that <persName>Susan
+                            Carroll</persName> (No. 4) and <persName>Mary Brown</persName> (No. 25)
+                        are delicate and cannot bear outdoor work and exposure. <persName>Chapman
+                            Toyer</persName> (No. 9) broke his leg, but is entirely recovered, and
+                        can work as well as before the accident. <persName>Kitty Silass</persName>
+                        (No. 12) is rather deaf. <persName>Saml Yates</persName> (No. 16) is
+                        deformed, having a curved spine. <persName>John Thomas</persName> (No. 18)
+                        had three fingers of his left hand injured by a corn sheller, and lost two
+                        joints of his little finger, one joint of his third finger, and his second
+                        finger stiffened; but he can drive the Carriage and work as well as before.
+                            <persName>Louisa Toyer</persName> (No. 21) was sickly about nine months
+                        ago, but is well and healthy now. <persName>Mortimer Briscoe</persName> (No.
+                        30) had one of his toes frost bitten, but is otherwise sound.
+                            <persName>Richd. Williams</persName> (No. 8) <persName>John
+                            Thomas</persName> (No. 18) and <persName>Resin Yates</persName> (No. 32)
+                        on two occasions were concerned in taking some meat from the meat house and
+                        some chickens. These three are remarkably strong healthy, and capable
+                        negroes. And as to them, and all the others, your petitioner knows of no
+                        other infirmity or defect, moral, mental or bodily, except such as are
+                        named, and believes no other to exist. Some of these defects are slight, and
+                        do not materially impair the value or usefulness of the negro. Some of them
+                        have been employed in her own family as servants, as marked on the list, and
+                        for these wages could not be stated. The others have been hired out, and
+                        have usually stayed at their places, and have brought good wages, the rate
+                        being stated in said list. They were valuable servants. The occurrence as to
+                        the meat and chickens was about nine years ago. Since then they have been
+                        quite correct; but she deemed it right to name every thing.</seg>
+                </p>
+
+                <p>Your petitioner hereby declares that <seg type="handwritten">she</seg> bears true
+                    and faithful allegiance to the Government of the United States, and that <seg
+                        type="handwritten">she</seg> has not borne arms against the United States in
+                    the present rebellion, nor in any way given aid or comfort thereto.</p>
+
+                <p>And your petitioner further states and alleges, that <seg type="handwritten"
+                        >she</seg> has not brought said <seg type="handwritten">persons</seg> into
+                    the District of Columbia since the passage of said act of Congress; and that, at
+                    the time of the passage thereof, said <seg type="handwritten">persons were</seg>
+                    <del>was</del> held to service or labor therein under and by virtue of your
+                    petitioner's claim to such service or labor.</p>
+
+                <p>Your petitioner further states and alleges, that <seg type="handwritten"
+                        >her</seg> said claim to the service or labor of said <seg
+                        type="handwritten">persons</seg> does not originate in or by virtue of any
+                    transfer heretofore made by any person who has in any manner aided or sustained
+                    the present rebellion against the Government of the United States.</p>
+
+                <p>And your petitioner prays the said Commissioners to investigate and determine the
+                    validity of <seg type="handwritten">her</seg> said claim to the service or labor
+                    of said <seg type="handwritten">persons</seg> herein above set forth; and if the
+                    same be found to be valid, that they appraise and apportion the value of said
+                    claim in money, and report the same to the Secretary of the Treasury of the
+                    United States, in conformity to the provisions of said act of Congress.</p>
+
+                <closer> (Signed by) <signed>
+                        <seg type="handwritten">
+                            <persName>M C Barber</persName>
+                        </seg>
+                    </signed>
+                </closer>
+            </div1>
+
+            <pb xml:id="leaf003v" facs="cww.00366.005.jpg"/>
+            <div1 type="oath" subtype="mixed">
+                <head type="main">[<hi rend="italic">Form of the Oath for the Verification of the
+                        Petition.</hi>]</head>
+
+                <dateline>
+                    <placeName>District of Columbia</placeName>,
+                    <lb/>
+                    <hi rend="italic"><placeName>Washington County</placeName>, ss.</hi>
+                </dateline>
+
+                <div2 type="section">
+                    <p>I, <seg type="handwritten">
+                            <persName>Margaret C. Barber</persName>
+                        </seg> being duly sworn, do depose and say, that all the several matters and
+                        things which are set forth and stated in the foregoing petition, as of my
+                        own knowledge, are true in substance and in fact; and that all the several
+                        other matters and things therein set forth and stated, as from the
+                        information of others, I believe to be true in substance and in fact.</p>
+                    <closer> (Signed by) <signed>
+                            <seg type="handwritten">
+                                <persName>M. C. Barber</persName>
+                            </seg>
+                        </signed>
+                    </closer>
+                </div2>
+
+                <div2 type="section">
+                    <p>Sworn to and subscribed before me this <date when="1862-05-21">
+                            <seg type="handwritten">21st</seg> day of <seg type="handwritten">May,
+                                1862</seg> A. D. 1862</date>.</p>
+                    <closer> (Signed by) <signed>
+                            <seg type="handwritten">
+                                <persName>Hamilton Loughborough</persName>
+                                <lb/> Justice of the Peace in &#38; for said
+                                    <placeName>District</placeName> &#38; County</seg>
+                        </signed>
+                    </closer>
+                </div2>
+            </div1>
+
+            <div1 type="cover" subtype="handwritten">
+                <ab>366<lb/> Petition of <persName>Margt. C. Barber</persName>.</ab>
+                <ab>Filed <date when="1862-05-22">May 22, 1862</date>
+                </ab>
+                <ab>
+                    <persName>Oceola Green</persName>
+                    <lb/>
+                    <persName>George Green</persName>
+                    <lb/>
+                    <persName>Dennis Lyles</persName>
+                    <lb/>
+                    <persName>James Nourse</persName>
+                </ab>
+            </div1>
+        </body>
+    </text>
+</TEI>

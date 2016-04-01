@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d2e18273">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">McLeer, J.</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+    <idno>med.d2e18273</idno>
+    <authority>Civil War Washington</authority>
+    <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor><name>Center for Digital Research in the
+     Humanities</name><address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address></distributor>
+    <date>2011</date>
+    <availability>
+     <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+      republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+      law, requires express written consent from the editors and advance notification of the
+      publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+     <persName xml:id="mb">Matthew Bosley</persName>
+     <persName xml:id="el">Elizabeth Lorang</persName>
+     <persName xml:id="sb">Stacey Berry</persName>
+     <persName xml:id="et">Elisabeth Tracey</persName>
+     <persName xml:id="ss">Sarah Synovec</persName>
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title level="j">The Medical and Surgical History of the War of the Rebellion.
+      (1861-65.)</title><pubPlace>Washington, DC</pubPlace><publisher>Government Printing
+      Office</publisher><biblScope type="part">Part 3</biblScope><biblScope type="volume">Volume
+      2</biblScope><date when="1883">1883</date><biblScope type="page">441</biblScope></bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+     <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <keywords scheme="#medsurg">
+     <term>wounds and injuries of the lower extremities</term> 
+     <term>wounds and operations in the leg</term>
+     <term>shot fractures of the bones of the leg</term>
+     <term>shot fractures of the bones of the leg treated by conservation</term> 
+     <term>shot fractures involving both bones of the leg treated by conservation</term> 
+     <term>recovery after shot fractures involving both bones of the leg treated by conservation</term>
+     <term>forearm fractured, amputated at middle third</term> 
+     <term>compound comminuted fractures of radius, ulna, and elbow joint</term> 
+     <term>fractures of tibia and fibula, lower third</term>
+     <term>no special operation on leg, yet excision of broken bone fragments</term>
+     <term>leg bowed outward to marked degree, fibula prominent and thickened</term>
+     <term>shortening of leg one inch</term>     
+    </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change who="#mb" when="2012-06-04">additional proofing of transcription and encoding, identified keyword terms</change>
+   <change who="#el" when="2011-05-11">case text extracted and transformed from larger file</change>
+   <change who="#sb" when="2011-06-04">Enrich Encoding, Edit and validate</change>
+   <change who="#sb" when="2011-01-28">Validated File</change>
+   <change who="#ss" when="2008-09-22">initial checking of OCR text; encoded P5 Encoding</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>   
+    <p><hi rend="initialcap">C</hi>ASE 694.&#8212;<name type="person" key="1252">Sergeant J.
+      McLeer</name>, <name type="organization" key="493">Co. C, 84th New York</name>, aged 23 years,
+     was wounded by a shell in the left arm and left leg, at <name type="BATTLE" key="127">Bull
+      Run</name>, <date type="injury" when="1862-08-29">August 29, 1862</date>. He entered <name
+       type="hospital" key="165">Mount Pleasant Hospital</name>, Washington, <date type="admit" when="1862-09">several days afterwards</date>.
+      <name type="person" key="339">Assistant Surgeon C. A. McCall</name>, <name type="organization"
+      key="190">U. S. A.</name>, in charge, describes the injury of the arm as a compound comminuted
+     fracture of the radius, ulna, and elbow joint, and that of the leg as a fracture of the tibia
+     and fibula, lower third, and reports: "On or about <date type="operation" when="1862-09-02">the 2d of September</date> I amputated the arm at
+     the middle third (<hi rend="italic">Second Surgical Volume</hi>, <hi rend="initialcap">T</hi>ABLE <hi rend="initialcap">LXXVIII</hi>, p. 765, No. 167), and would have also amputated the leg, but that the
+     utter prostration of the patient threatened death upon further surgical procedure. Operating on
+     the leg was therefore left to a future time; but as symptoms of promise developed themselves
+     afterwards, an effort was made to save the leg, which, after long and critical treatment, was
+     successful, although the limb was left somewhat shortened and to a considerable extent unfit
+     for useful progression. The case was one of singular interest to myself and staff, proving as
+     it did the wonderful endurance of the human system and the almost strained limit to which
+     conservative surgery may trust nature. It had been looked upon and classed by me as an excision
+     of the lower portion of both bones of the leg: for though no special operation was performed,
+     yet I know I was over half an hour cleaning out the broken fragments and adjusting loosened
+     spicul&#230; before trusting it to the fracture-box." In a published account of the case&#185; it is mentioned that, under a
+     tonic and stimulant treatment and the application of simple absorbent dressings to the parts,
+     the stump of the arm healed rapidly. The patient was discharged from service <date
+      type="servicedischarge" when="1863-07-27">July 27, 1863</date>, and pensioned. On <date type="pension" when="1880-09-22">September 22, 1880</date>,
+     he was examined by the <name type="organization" key="xx">Brooklyn Pension Board</name>, who
+     certified to the loss of his left arm and added: "There is evidence of a compound comminuted
+     fracture of the tibia and fibula of the left leg in the lower third. Portions of both bones
+     were removed. The cicatrices of entrance and exit of the missile are found upon the internal
+     and anterior aspects of the part. In the latter situation, over the tibia, a firmly adherent
+     cicatrix, three inches long by one inch wide, is present. The leg is bowed outward to a very
+     marked degree, the fibula being very prominent and thickened. There is shortening of the limb
+     of about one inch. The extensor tendons are not full in their movements, being partially bound
+     down by cicatricial tissue, and the ankle is somewhat stiffened and restricted in its motion.
+     The great toe is not supple, since the plantar tendons are somewhat contracted. Altogether the
+     objective signs show that the original wound was of the most severe character. In manual labor,
+     walking, standing, etc., the member would speedily become the seat of great swelling and pain,
+     as is the case after any unusual exercise." </p>
+   <p>&#185; <hi rend="initialcap">C</hi>OUES (<hi rend="initialcap">E</hi>LLIOTT), <hi rend="italic">Report of some Cases of Amputations and Resections from Gunshot Wounds, performed at the Mount Pleasant U. S. General
+    Hospital by</hi> <hi rend="initialcap">C. A.</hi> <hi rend="initialcap">M</hi>c<hi rend="initialcap">C</hi>ALL, <hi rend="initialcap">M. D.</hi>, <hi rend="initialcap">U. S. A.</hi>, in <hi rend="italic">Medical and Surgical Reporter</hi>, New York, 1862-3, Vol. IX, p. 229.</p>   
+  </body>
+ </text>
+</TEI>

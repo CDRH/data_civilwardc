@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e9289">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Mills, George</title>
+                <title level="m" type="sub">a machine readable transcription</title>
+                <principal>Susan C. Lawrence</principal>
+                <principal>Kenneth M. Price</principal>
+                <principal>Kenneth J. Winkle</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2011</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <idno>med.d1e9289</idno>
+                <authority>Civil War Washington</authority>
+                <publisher>University of Nebraska–Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+                </distributor>
+                <date>2011</date>
+                <availability>
+                    <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved.
+                        Redistribution or republication in any medium, except as allowed under the
+                        Fair Use provisions of U.S. copyright law, requires express written consent
+                        from the editors and advance notification of the publisher, the University
+                        of Nebraska–Lincoln.</p>
+                </availability>
+            </publicationStmt>
+            <notesStmt>
+                <note type="project">The following are responsible for particular readings or for changes to this file, as noted: 
+                    <persName xml:id="mb">Matthew Bosley</persName>
+                    <persName xml:id="el">Elizabeth Lorang</persName>
+                    <persName xml:id="sb">Stacey Berry</persName>
+                    <persName xml:id="et">Elisabeth Tracey</persName>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>The Medical and Surgical History of the War of the Rebellion. (1861&#8211;65.)</title>
+                    <editor role="compiler">Surgeon General Joseph K. Barnes, United States Army</editor>
+                    <pubPlace>Washington, D.C.</pubPlace>
+                    <publisher>Government Printing Office</publisher>
+                    <biblScope type="part">Part 1</biblScope>
+                    <biblScope type="volume">Volume 2</biblScope>
+                    <date when="1870">1870</date>
+                    <biblScope type="page">129</biblScope>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <classDecl>
+                <taxonomy xml:id="medsurg">
+                    <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme="#medsurg">
+                    <term>on special wounds and injuries of the head</term>
+                    <term>wounds and injuries of the head</term>
+                    <term>gunshot wounds</term>
+                    <term>gunshot contusions of the cranial bones</term> 
+                    <term>gunshot fractures of the external table of the cranium alone</term>
+                    <term>fractures of the external wall of the frontal sinus</term>
+                    <term>carbine ball fractured outer table of frontal bone over eye near external angle</term>
+                    <term>severe pain and vomiting</term>                    
+                    <term>permanent enlargement of pupil, immobility of the iris</term>
+                    <term>functions of retina permanently impaired</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change who="#mb" when="2013-06-17">additional proofing of transcription and encoding, edited and added keyword terms</change>
+            <change who="#mb" when="2011-10-04">additional proofing of transcription and encoding</change>
+            <change who="#mb" when="2011-06-23">additional proofing of transcription and encoding</change>
+            <change who="#el" when="2011-05-11">case text extracted and transformed from larger file</change>
+            <change who="#sb" when="2011-02-09">enriched encoding</change>
+            <change who="#sb" when="2011-01-28">validated file</change>
+            <change who="#et" when="2009-08-01">encoded</change>
+            <change who="#sb" when="2008-09-22">initial checking of OCR text against PDF; encoded</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body xml:id="ch1.sc3.0137">            
+                <p><hi rend="initialcap">C</hi>ASE.&#8212;<name type="person" key="414">Private
+                        George Mills</name>, <name type="organization" key="507">Co. M, 8th Illinois
+                        Cavalry</name>, aged 33 years, at <name type="BATTLE" key="109">Beverly
+                            Ford, Virginia</name>, <date type="injury" when="1863-06-09">June 9th,
+                        1863</date>, was struck in the forehead by a carbine ball which, passing
+                    from left to right, fractured the outer table of the frontal bone over the left
+                    eye, near the external angle. He was conveyed to Washington and admitted into
+                    the <name type="hospital" key="176">Lincoln Hospital</name> on <date
+                        type="admit" when="1863-06-10">the following day</date>, suffering, from time to
+                    time, severe pain and vomiting. Ice water dressings were applied to the head,
+                    and a restricted diet ordered; anodynes being employed to relieve the pain.  In a
+                    few days the severity of the pain subsided. He improved rapidly, and was
+                    returned to duty on <date type="duty" when="1863-08-06">August 6th, 1863</date>.  The case is reported by <name type="person" key="415">Acting Assistant Surgeon
+                        Wm. Canniff</name>.  In <date type="pension" when="1867-05">May, 1867</date>,
+                        <name type="person" key="441">Pension Examining Surgeon J. B. Lyman</name>
+                    reported, that this pensioner had a permanent enlargement of the pupil of the
+                    left eye, and immobility of the iris, and that he considered the functions of
+                    the retina permanently impaired. </p>            
+        </body>
+    </text>
+</TEI>

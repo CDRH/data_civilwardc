@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d2e28110">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Denton, F. M.</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+    <idno>med.d2e28110</idno>
+    <authority>Civil War Washington</authority>
+    <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor><name>Center for Digital Research in the
+     Humanities</name><address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address></distributor>
+    <date>2011</date>
+    <availability>
+     <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+      republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+      law, requires express written consent from the editors and advance notification of the
+      publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+ <persName xml:id="kmp">Kenneth M. Price</persName> 
+     <persName xml:id="ajh">AJ Howell</persName>
+     <persName xml:id="el">Elizabeth Lorang</persName>
+     <persName xml:id="sb">Stacey Berry</persName>
+     <persName xml:id="et">Elisabeth Tracey</persName>
+     <persName xml:id="ss">Sarah Synovec</persName>
+     <persName xml:id="kk">Kourtney Klein</persName>
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title level="j">The Medical and Surgical History of the War of the Rebellion.
+      (1861-65.)</title><pubPlace>Washington, DC</pubPlace><publisher>Government Printing
+      Office</publisher><biblScope type="part">Part 3</biblScope><biblScope type="volume">Volume
+      2</biblScope><date when="1883">1883</date><biblScope type="page">809</biblScope></bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+     <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <keywords scheme="#medsurg">
+     <term>wounds and complications</term>
+     <term>h&#230;morrhages and ligations</term>
+     <term>causes of h&#230;morrhage</term> 
+     <term>gunshot wounds of abdomen and arm</term>
+     <term>ball entered below shoulder joint, passed through axilla under scapula, emerged to right of vertebral margin</term> 
+     <term>ligation of subclavian artery</term>      
+     <term><choice><orig>aneurismal</orig><reg>aneurysmal</reg></choice> tumor</term>
+     <term>general anesthesia, chloroform</term>     
+     <term>amputation at shoulder joint</term>     
+    </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+ <change who="#kmp" when="2014-05">blessed</change>
+   <change who="#kk" when="2014-01-31">added figure encoding</change>
+   <change who="#ajh" when="2012-06-11">additional proofing of transcription and encoding, identified keyword terms</change>
+   <change who="#el" when="2011-05-11">case text extracted and transformed from larger file</change>
+   <change who="#sb" when="2011-06-04">Enrich Encoding, Edit and validate</change>
+   <change who="#sb" when="2011-01-28">Validated File</change>
+   <change who="#ss" when="2008-09-22">initial checking of OCR text; encoded P5 Encoding</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+    <p><hi rend="initialcap">C</hi>ASE 1181.&#8212;<name type="person" key="1501">Private <hi
+       rend="italic">F. M. Denton</hi></name>, <name type="organization" key="559">Co. H, 4th South
+      Carolina Cavalry</name>, aged 34 years, was wounded at <name type="place">Hanovertown</name>, <date type="injury" when="1864-05-28">May 28, 1864</date>. <name
+      type="person" key="xx">Surgeon L. W. Read</name>, <name type="organization" key="132">U. S.
+      V.</name>, reported the patient's admission into the field
+      hospital of the 3d division, Fifth Corps, with "gunshot wounds of abdomen and arm; sent
+     to general hospital."  On <date type="transfer" when="1864-06-05">June 5th</date> he was admitted
+     into <name type="hospital" key="176">Lincoln Hospital</name>, Washington. <name type="person"
+      key="243">Assistant Surgeon J. C. McKee</name>, <name type="organization" key="190">U. S. A.</name>, reported: "Mini&#233; ball entered three inches below left shoulder joint anteriorly,
+     passed through the axilla under the scapula, and emerged one inch to the right of the vertebral
+     margin.  July 1st, suffers much pain in the hand and region of the wound.  July 4th, arm easy;
+     hand very painful. The daily use of hypodermic injections of morphia, etc., relieved the pain a
+     little.  August 28th, swelling in region of wound, extending over pectoral and axillary regions,
+     to vertebral border of scapula, left side, continuing to increase from day to day. Upon
+     consultation it was determined to be an <choice><orig>aneurismal</orig><reg>aneurysmal</reg></choice> tumor, and pressure by spiral bandage
+     advised, which was continued until <date type="operation" when="1864-09-01">September 1st</date>, when the tumor increased very rapidly. The
+     patient was quite irritable and weak. Chloroform was administered and ligation of the
+     subclavian artery was performed. On opening the sac the tissues were found so diffused with
+     blood and disorganized that amputation at the shoulder joint was advised and performed. Two
+     ligatures were placed on the external jugular vein and three at the shoulder. About eighty
+     ounces of blood, mostly coagulated, were removed from the aneurism. After the operation the
+     patient rallied considerably. He died <date type="death" when="1864-09-02">September 2,
+      1864</date>, at 10 o'clock A. M., from exhaustion."  The operator, <name type="person"
+      key="243">Dr. McKee</name>, contributed to the <name type="hospital" key="431">Army Medical
+      Museum</name> photographs of the anterior and posterior appearances of the aneurismal
+     swelling, which have been accurately copied in <hi rend="initialcap">P</hi>LATE <hi rend="initialcap">LXXVII</hi>.</p>    
+   
+   <figure>
+    <graphic url="cww.001825.001" />
+    <head>PLATE  LXXVII.     TRAUMATIC  ANEURISM     Case of <name type="person" key="1501">Private Francis M. Denton</name>.  <name type="organization" key="559">H,  4th  South  Carolina  Cavalry</name>.</head>
+   </figure>
+   
+  </body>
+ </text>
+</TEI>

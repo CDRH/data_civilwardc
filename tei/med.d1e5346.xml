@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e5346">
+        <teiHeader>
+                <fileDesc>
+                        <titleStmt>
+                                <title level="m" type="main">Pearl, Abram W.</title>
+                                <title level="m" type="sub">a machine readable transcription</title>
+                                <principal>Susan C. Lawrence</principal>
+                                <principal>Kenneth M. Price</principal>
+                                <principal>Kenneth J. Winkle</principal>
+                        </titleStmt>
+                        <editionStmt>
+                                <edition>
+                                        <date>2011</date>
+                                </edition>
+                        </editionStmt>
+                        <publicationStmt>
+                                <idno>med.d1e5346</idno>
+                                <authority>Civil War Washington</authority>
+                                <publisher>University of Nebraska–Lincoln</publisher>
+                                <distributor>
+                                        <name>Center for Digital Research in the Humanities</name>
+                                        <address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+                                </distributor>
+                                <date>2011</date>
+                                <availability>
+                                        <p>Copyright © 2011 by University of Nebraska–Lincoln, all
+                                                rights reserved. Redistribution or republication in
+                                                any medium, except as allowed under the Fair Use
+                                                provisions of U.S. copyright law, requires express
+                                                written consent from the editors and advance
+                                                notification of the publisher, the University of
+                                                Nebraska–Lincoln.</p>
+                                </availability>
+                        </publicationStmt>
+                        <notesStmt>
+                                <note type="project">The following are responsible for particular
+                                        readings or for changes to this file, as noted: 
+                                        <persName xml:id="mb">Matthew Bosley</persName>
+                                        <persName xml:id="el">Elizabeth Lorang</persName>
+                                        <persName xml:id="sb">Stacey Berry</persName>
+                                        <persName xml:id="et">Elisabeth Tracey</persName>
+                                </note>
+                        </notesStmt>
+                        <sourceDesc>
+                                <bibl>
+                                        <title level="j">The Medical and Surgical History of the War
+                                                of the Rebellion</title>
+                                        <pubPlace>Washington, DC</pubPlace>
+                                        <publisher>Government Printing Office</publisher>
+                                        <biblScope type="part">Part 3</biblScope>
+                                        <biblScope type="volume">Volume 1</biblScope>
+                                        <date when="1888">1888</date>
+                                        <biblScope type="page">264</biblScope>
+                                </bibl>
+                        </sourceDesc>
+                </fileDesc>
+                <encodingDesc>
+                        <classDecl>
+                                <taxonomy xml:id="medsurg">
+                                        <bibl>Medical and Surgical History of the War of the
+                                                Rebellion</bibl>
+                                </taxonomy>
+                        </classDecl>
+                </encodingDesc>
+                <profileDesc>
+                        <textClass>
+                                <keywords scheme="#medsurg">
+                                        <term>clinical records</term>
+                                        <term>parotitis</term>
+                                        <term>continued fevers</term>
+                                        <term>typhoid fever</term>   
+                                        <term>fever cases from various records</term>
+                                        <term>reported as typhoid, many modified by malarial influence</term>
+                                </keywords>
+                        </textClass>
+                </profileDesc>
+                <revisionDesc>
+                        <change who="#mb" when="2011-10-07">additional proofing of transcription and encoding</change>
+                        <change who="#mb" when="2011-06-13">additional proofing of transcription and encoding</change>
+                        <change who="#el" when="2011-05-11">case text extracted and transformed from
+                                larger file</change>
+                        <change who="#sb" when="2011-02-23">Encoding and Proofing</change>
+                        <change who="#et" when="2009-12-01">Initial Checking OCR Text to PDF file,
+                        </change>
+                </revisionDesc>
+        </teiHeader>
+        <text>
+                <body xml:id="ch4.sc2.4.00047">
+                        
+                                <p><hi rend="initialcap">C</hi>ASE 47.&#8212;<name type="person"
+                                                key="604">Private Abram W. Pearl</name>, <name
+                                                type="organization" key="401">Co. H, 9th N.
+                                                H.</name>; age 45; was admitted <date
+                                                type="transfer" when="1862-12-10">Dec. 11,
+                                                1862</date>, from <name type="hospital" key="167"
+                                                >Carver hospital</name>, Washington, D. C, where he
+                                        had been treated for typhoid fever since <date type="admit"
+                                                when="1862-10">October</date>. He had parotitis
+                                        of the right side. Simple cerate was applied. On Jan. 30,
+                                        1863, he had some diarrh&#339;a. He was placed on guard
+                                        duty February 7, but three days later returned to the ward
+                                        on account of severe pain in his feet. On the 13th he had
+                                        some vertigo and on the 16th a recurrence of
+                                        diarrh&#339;a, which was not checked until the 26th. The
+                                        pain in the feet continued until April 10. Shortly after
+                                        this he was placed on duty in the kitchen and was not
+                                        returned for field service until <date type="duty"
+                                                when="1863-09-26">September 26</date>.&#8212;<hi
+                                                rend="italic"><name type="place">Satterlee Hospital, Philadelphia,
+                                                        Pa.</name></hi>
+                                </p>
+                        
+                </body>
+        </text>
+</TEI>

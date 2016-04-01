@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d2e11761">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Maxwell, George R.</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+    <idno>med.d2e11761</idno>
+    <authority>Civil War Washington</authority>
+    <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor><name>Center for Digital Research in the
+     Humanities</name><address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address></distributor>
+    <date>2011</date>
+    <availability>
+     <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+      republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+      law, requires express written consent from the editors and advance notification of the
+      publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+ <persName xml:id="kw">Kenneth Winkle</persName> <persName xml:id="ajh">AJ Howell</persName>
+     <persName xml:id="mb">Matthew Bosley</persName>
+     <persName xml:id="el">Elizabeth Lorang</persName>
+     <persName xml:id="sb">Stacey Berry</persName>
+     <persName xml:id="et">Elisabeth Tracey</persName>
+     <persName xml:id="ss">Sarah Synovec</persName>
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title level="j">The Medical and Surgical History of the War of the Rebellion.
+      (1861-65.)</title><pubPlace>Washington, DC</pubPlace><publisher>Government Printing
+      Office</publisher><biblScope type="part">Part 3</biblScope><biblScope type="volume">Volume
+      2</biblScope><date when="1883">1883</date><biblScope type="page">278</biblScope></bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+     <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <keywords scheme="#medsurg">
+     <term>wounds and injuries of the lower extremities</term>
+     <term>injuries of the shaft of the femur</term>
+     <term>amputations in the shaft of the femur</term>
+     <term>intermediary amputations in the shaft of the femur for shot injury</term>
+     <term>intermediary amputations in the middle third of the thigh</term>
+     <term>successful cases of intermediary amputations in the middle third of the femur</term>
+     <term>knee joint was opened by a conoidal ball</term>
+     <term>ball entered opposite head of fibula and extracted at point of entrance</term>
+     <term>knee joint filled with pus</term>
+     <term>muscles of thigh separated by abscesses</term>
+     <term>h&#230;morrhage continued</term>
+     <term><term>general anesthesia, ether</term></term>
+     <term>h&#230;morrhagic diathesis</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+ <change who="#kw" when="2014-05">blessed</change>
+   <change who="#ajh" when="2013-08-22">added figure encoding</change>
+   <change who="#mb" when="2012-05-17">additional proofing of transcription and encoding, identified
+    keyword terms</change>
+   <change who="#el" when="2011-05-11">case text extracted and transformed from larger file</change>
+   <change who="#sb" when="2011-06-04">Enrich Encoding, Edit and validate</change>
+   <change who="#sb" when="2011-01-28">Validated File</change>
+   <change who="#ss" when="2008-09-22">initial checking of OCR text; encoded P5 Encoding</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+
+   <p><hi rend="initialcap">C</hi>ASE 459.&#8212;<name type="person" key="1083"><choice>
+      <orig>Lieutenant-Colonel</orig>
+      <reg>Lieutenant Colonel</reg>
+     </choice> George R. Maxwell</name>, <name type="organization" key="101">1st Michigan
+     Cavalry</name>, aged <choice>
+     <sic>22 years</sic>
+     <corr>24 years</corr>
+    </choice>, was wounded at <name type="BATTLE" key="58">Five Forks, Virginia</name>, <date
+     type="injury" when="1865-04-01">April 1, 1865</date>. He was taken to the field hospital of the
+    Cavalry Corps and remained there until <date type="transfer" when="1865-04-15">April
+    15th</date>, when he was sent to <name type="place" key="#Washington">Washington</name> on the
+     <name type="hospital" key="xxx">hospital steamer Connecticut</name>, and admitted to the <name
+     type="hospital" key="171">Armory Square Hospital</name> on <date type="admit" when="1865-04-16"
+     >the 16th</date>. <name type="person" key="290">Acting Assistant Surgeon C. A.
+    Leale</name>,&#185; in a special report of the case, furnishes the following particulars: "The
+    left knee joint was opened by a conoidal ball, which had entered opposite the head of the fibula
+    and was extracted at point of entrance. He was very an&#230;mic and in a generally unfavorable
+    condition; extensive suppuration had taken place, the leg had become infiltrated with serum, the
+    knee joint was filled with pus, and the muscles of the thigh had been separated by extensive
+    abscesses extending as high as the apex of Scarpa's triangle. <date type="operation"
+     when="1865-04-17">April 17th</date>, no change in his condition; he was placed under the
+    influence of ether, and the thigh amputated by the circular operation, at the middle third, by
+     <name type="person" key="123">Surgeon D. W. Bliss</name>, <name type="organization" key="132"
+     >U. S. V.</name>; the stump was dressed with water, and the patient placed in bed. April 18th,
+    although twelve ligatures had been applied, h&#230;morrhage continued to take place (he being
+    apparently of a h&#230;morrhagic diathesis), and altogether about eight ounces of blood was
+    lost. Applied liquor ferri persulphas by a camel's hair brush to the whole of the surface of the
+    wound, which had been left open and exposed to the air for about fifteen minutes; this, with the
+    styptic, entirely checked all oozing. April 20th, the granulations had become healthy; about two
+    drachms of pus discharged daily. On the 30th the stump had nearly closed. <date type="operation"
+     when="1865-06-23">June 23d</date>, a piece of necrosed femur of a conical shape, and about four
+    inches in length, was removed. <date type="servicedischarge" when="1865-08-08">August
+    8th</date>, he was mustered out of service; his stump (<hi rend="initialcap">F</hi>IG. 192) was
+    solid and in good condition." The pensioner was paid <date type="pension" when="1879-06-04">June
+     4, 1879</date>.</p>
+   <p>&#185; <hi rend="initialcap">L</hi>EALE (<hi rend="initialcap">C. A.</hi>), <hi rend="italic"
+     >Intermediary H&#230;morrhage, Parenchymatous in Character, following Secondary Amputation of
+     Thigh; Recovery</hi>, in <hi rend="italic">United States Sanitary Commission Memoirs</hi>,
+    Surgical Volume 1, p. 176.</p>
+   <figure>
+    <graphic url="cww.1592.001"/>
+    <head><hi rend="initialcap">F</hi>IG. 192.&#8212;Amputation of left thigh at middle third. [From
+     a photograph.]</head>
+   </figure>
+
+  </body>
+ </text>
+</TEI>

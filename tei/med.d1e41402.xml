@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e41402">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Martin, Thomas W.</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+    <idno>med.d1e41402</idno>
+       <authority>Civil War Washington</authority>
+       <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor>
+       <name>Center for Digital Research in the Humanities</name>
+       <address><addrLine>319 Love Library</addrLine>
+       <addrLine>University of Nebraska–Lincoln</addrLine>
+       <addrLine>Lincoln, NE 68588-4100</addrLine>
+       <addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+    </distributor>
+    <date>2011</date>
+    <availability>
+        <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+         republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+         law, requires express written consent from the editors and advance notification of the
+         publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+     <persName xml:id="mb">Matthew Bosley</persName>
+     <persName xml:id="el">Elizabeth Lorang</persName>
+     <persName xml:id="sb">Stacey Berry</persName>
+     <persName xml:id="ao">Alyssa Olson</persName>
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl>
+     <title level="j">The Medical and Surgical History of the War of the Rebellion. (1861-65.)</title>
+     <pubPlace>Washington, DC</pubPlace>
+     <publisher>Government Printing Office</publisher>
+     <biblScope type="part">Part 2</biblScope>
+     <biblScope type="volume">Volume 1</biblScope>
+     <date when="1879">1879</date>
+     <biblScope type="page">191</biblScope>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+       <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+      <keywords scheme="#medsurg">
+       <term>diarrh&#339;a and dysentery</term>
+       <term>fatal cases of diarrh&#339;a and dysentery, with accounts of the morbid appearances observed</term>
+       <term>from the Second Division of the Alexandria Hospital, Virginia</term>
+       <term>chronic diarrh&#339;a</term>
+       <term>catarrh</term>
+       <term>old pleuritic adhesions on both sides</term>
+       <term>lungs contained deposits of tubercle in all parts, most abundantly in upper lobes</term>
+       <term>deposit of miliary tubercles on surface of costal pleura</term>
+       <term>bronchial glands much enlarged</term>
+       <term>great omentum adherent to small intestine and parietal peritoneum, contained deposits supposed tubercular</term>
+       <term>black pigment on parietal peritoneum and outer surface of intestines</term>
+       <term>black pigment on surface of intestines associated with small tubercles</term>
+       <term>liver under microscope appeared fatty</term>
+       <term>knuckles of small intestine interadherent</term>
+       <term>mesenteric glands enlarged and tuberculous</term>
+       <term>ulcers scattered through jejunum, ileum, and colon</term>
+       <term>ulcers most abundant in lower ileum</term>       
+       <term>autopsy performed</term>       
+     </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change who="#mb" when="2012-12-13">additional proofing of transcription and encoding, identified keyword terms</change>
+   <change who="#el" when="2010-11-05">case text extracted and transformed from larger file</change>
+   <change who="#sb" when="2010-05-01">enrich encoding, proof and edit</change>
+   <change who="#ao" when="2008-10-02">encoding and editing</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body> 
+   <p>Case from the case-book of the <name type="hospital" key="501"><hi rend="initialcap">S</hi>ECOND <hi rend="initialcap">D</hi>IVISION</name> of the <name type="place" key="#Alexandria"><hi rend="initialcap">A</hi>LEXANDRIA</name> <hi rend="initialcap">H</hi>OSPITAL, Virginia, <name type="person" key="134">Surgeon Edwin Bentley</name>, <name type="organization" key="132">U. S. V.</name>, in charge.  Autopsy was made and recorded in the case-book by <name type="person" key="655">Acting Assistant Surgeon Thomas Bowen</name>:</p>
+   <p><hi rend="initialcap">C</hi>ASE 455.&#8212;<name type="person" key="xxx">Private Thomas W. Martin</name>, <name type="organization" key="xxx">company I, 67th Pennsylvania volunteers</name>; age 23; admitted from the field <date type="admit" when="1864-08-10">August 10, 1864</date>.  Chronic diarrh&#339;a.  [This man appears on the register of the regimental hospital of the 67th Pennsylvania volunteers, admitted <date type="admit" when="1864-04-07">April 7, 1864</date>&#8212;catarrh&#8212;sent to general hospital <date type="transfer" when="1864-04-20">April 20th</date>. He is borne on the register of the <name type="hospital" key="176">Lincoln hospital</name>, Washington, D. C., admitted <date type="admit" when="1864-04-21">April 21st</date>&#8212;chronic diarrh&#339;a&#8212;sent to Philadelphia <date type="transfer" when="1864-05-03">May 3d</date>. The register of the <name type="hospital" key="xxx">Mower hospital, Philadelphia, Pennsylvania</name>, reports him admitted <date type="admit" when="1864-05-04">May 4th</date>&#8212;chronic diarrh&#339;a&#8212;returned to duty <date type="duty" when="1864-06-24">June 24th</date>.  He next appears on the register of the depot hospital of the 6th Corps, <name type="place">City Point, Virginia</name>, admitted <date type="admit" when="1864-07-06"> July 6th</date>&#8212;chronic diarrh&#339;a&#8212;sent to general hospital <date type="transfer" when="1864-08-09">August 9th</date>.]  Died, <date type="death" when="1864-11-16">November 16th</date>.  <hi rend="italic">Autopsy</hi> <date type="autopsy" when="1864-11-17">twenty-four hours after death</date>: Rigor mortis very great; body very much emaciated; slight suggillation posteriorly. Head, neck, and spinal column not examined. There were firm, old pleuritic adhesions on both sides. Both lungs contained extensive deposits of tubercle, which were found in all parts, but most abundantly in the upper lobes, in which there were also two or three cavities the size of small nutmegs. An extensive deposit of miliary tubercles was observed on the surface of the left costal pleura. The bronchial glands were very much enlarged. The pericardium contained about two drachms of serum. The heart and its valves were normal; both auricles were filled with black blood. The great omentum was thickened, contained deposits supposed to be tubercular, and was adherent to the small intestine and parietal peritoneum. Deposits of black pigment were observed on the parietal peritoneum and on the outer surface of the intestines; in the latter case they were associated with a deposit of small tubercles; the knuckles of small intestine were interadherent. The anterior portion of the liver was coated with recent lymph; the organ was normal in size but pale, and under the microscope appeared to be fatty; the gall-bladder was nearly empty. The spleen and pancreas were normal. Both kidneys were slightly congested. The mesenteric glands were enlarged and tuberculous. The mucous membrane of the stomach and duodenum was healthy. Large ulcers were scattered through the whole extent of the jejunum, ileum, and colon; they were most abundant in the lower part of the ileum, were of oval form, and had thickened, ragged, indurated edges; some of them were apparently healing, and the mucous coat around these was puckered up in small folds radiating from the ulcers.&#8212;<name type="person" key="655">Acting Assistant Surgeon Thomas Bowen</name>.</p>      
+  </body>
+ </text>
+</TEI>

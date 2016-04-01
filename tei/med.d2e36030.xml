@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d2e30000">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">P&#8212;&#8212;, H. C.</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+    <idno>med.d2e36030</idno>
+    <authority>Civil War Washington</authority>
+    <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor>
+     <name>Center for Digital Research in the Humanities</name>
+     <address><addrLine>319 Love Library</addrLine>
+       <addrLine>University of Nebraska–Lincoln</addrLine>
+       <addrLine>Lincoln, NE 68588-4100</addrLine>
+       <addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+    </distributor>
+    <date>2011</date>
+    <availability>
+     <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+      republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+      law, requires express written consent from the editors and advance notification of the
+      publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+     <persName xml:id="mb">Matthew Bosley</persName>
+     <persName xml:id="ajh">AJ Howell</persName>
+     <persName xml:id="at">Alex Thomas</persName>
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl>
+     <title level="j">The Medical and Surgical History of the War of the Rebellion.
+      (1861-65.)</title>
+     <pubPlace>Washington, DC</pubPlace>
+     <publisher>Government Printing Office</publisher>
+     <biblScope type="part">Part 2</biblScope>
+     <biblScope type="volume">Volume 2</biblScope>
+     <date when="1876">1876</date>
+     <biblScope type="page">354</biblScope>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+     <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <keywords scheme="#medsurg">
+     <term>injuries of parts contained in the pelvis</term>
+     <term>injuries of pelvis</term>
+     <term>wounds of the urethra</term> 
+     <term>supervention of stricture</term>
+     <term>flesh wound of thigh</term> 
+     <term>gunshot flesh wound of scrotum and thigh</term> 
+     <term>sciatic nerve injured</term>
+     <term>abscess formed in scrotum</term>
+     <term>evacuation by trocar</term>
+     <term>scalding on micturition and diminution in size of stream of urine</term>
+     <term>stricture corresponding with exit of ball</term>
+     <term>stricture of tramatic origin</term>
+     <term>gradual dilatation by bongies, steady improvement took place</term>
+   </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change who="#mb" when="2012-09-24">additional proofing of transcription and encoding, identified keyword terms</change>
+   <change who="#ajh" when="2012-08-23">additional proofing of transcription and encoding, identified keyword terms</change>
+   <change who="#at" when="2011-02-25">checked OCR; added minimal mark-up for personal names, place names, and dates</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p><hi rend="initialcap">C</hi>ASE 1017.&#8212;<name type="person">Lieutenant H. C. P&#8212;&#8212;</name>, <name type="organization">Co. H, 21st Pennsylvania Cavalry</name>, was wounded at the engagement at <name type="battle" key="8">Hactcher's Run</name>, <date type="injury" when="1864-10-27">October 27, 1864</date>, and sent to the Second Division Hospital, Cavalry Corps.  <name type="person" key="xxx">Assistant Surgeon E. J. Marsh</name>, <name type="organization" key="190">U.S.A.</name>, recorded a "flesh wound of the left thigh."  The patient was transferred to hospital at <name type="place" key="xxx">City Point</name>, and furloughed <date type="furlough" when="1864-11-07">November 7th</date>. On <date when="1864-12-05">December 5, 1864</date>, he was registered with wounded volunteer officers at <name type="place" key="#Washington">Washington</name>.  <name type="person" key="xxx">Acting Assistant Surgeon F. S.  Barbarin</name> notes the injury as "a gunshot flesh wound of the scrotum and left thigh;" and adds that this officer was "discharged <date type="hospitaldischarge" when="1865-02-08">February 8, 1865</date>, readmitted <date type="admit" when="1865-03-04">March 4th</date>, and discharged the service <date type="servicedischarge" when="1865-04-09">April 9, 1865</date>."&#8212;S. O. 62, &#167;  19, A. G. O.  <name type="person">Dr.  H. W. Sawtelle</name>, of the <name type="organization" key="xxx">Revenue Marine Service</name>, states that in this case the sciatic nerve was injured, and that there was for a long time pain and sensitiveness in the course of this nerve. He adds that during the treatment an abscess formed in the scrotum, requiring evacuation by a trocar, and that after retirement from service this officer experienced no inconvenience from the injury until the spring of <date when="1870">1870</date>, when scalding on micturition, and a diminution in the size of the stream of urine was observed. Catheterization thrice weekly was employed for nearly a twelve-month, with great benefit.  In <date type="pension" when="1873-01">January, 1873</date>, <name type="person" key="xxx">Dr. Sawtelle</name> examined this pensioner, and detected "a slight stricture corresponding with the exit of the ball. A system of gradual dilatation by bougies was advised, and under this treatment steady improvement took place."  <name type="person" key="xxx">Dr. W. P. Johnson</name> and <name type="person" key="xxx">Examiner J. O. Stanton</name>, of <name type="place" key="#Washington">Washington</name>, certified that the stricture was, in their opinions, of tramatic orgin.</p>
+  </body>
+ </text>
+</TEI>

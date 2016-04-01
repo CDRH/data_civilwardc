@@ -1,0 +1,564 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="cww.00291">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="m" type="main">Petition of Ann Coseene, Ann Weeden, and William B.
+                    Lacy, 19 May 1862</title>
+            <title level="m" type="sub">a machine readable transcription</title>
+            <principal>Susan C. Lawrence</principal>
+            <principal>Kenneth M. Price</principal>
+            <principal>Kenneth J. Winkle</principal>
+            <respStmt>
+               <resp>transcription and encoding</resp>
+                <name xml:id="kk">Kathryn Kruger</name>
+                <name xml:id="jc">Janel Cayer</name>
+            <name xml:id="kp">Kenneth M. Price</name>
+</respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2013</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <idno>cww.00291</idno>
+            <distributor>Civil War Washington</distributor>
+            <publisher>University of Nebraska–Lincoln</publisher>
+            <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>P.O. Box 884100</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+            </address>
+            <date>2013</date>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+                  <p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License (http://creativecommons.org/licenses/by-nc-sa/3.0/). Derivatives must be credited to Civil War Washington, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+               </licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Petition of Ann Coseene, Ann Weeden, and William B. Lacy, 19 May
+                        1862</title>
+               <date when="1862-05-19">May 19, 1862</date>
+               <idno>Microcopy 520, Reel 3</idno>
+               <orgName>National Archives and Records Administration</orgName>
+               <relatedItem type="original">
+                  <bibl>
+                     <title>Petition of Ann Coseene, Ann Weeden, and William B. Lacy, 19 May
+                                1862</title>
+                     <date when="1862-05-19">May 19, 1862</date>
+                     <idno>Record Group 217.6.5</idno>
+                     <orgName>Records of the Accounting Officers of the Department of the Treasury, 1775–1978, National Archives and Records Administration</orgName>
+                     <note type="project">Within the National Archives' Archival Description Catalog, see ARC Identifier 4644616 / MLR Number A1 347 (http://arcweb.archives.gov).</note>
+                  </bibl>
+               </relatedItem>
+               <note type="project">Our transcription is based on a digital image of a microfilm copy of the original.</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <particDesc>
+            <person role="petitioner">
+               <persName>Ann Coseene</persName>
+            </person>
+             <person role="petitioner">
+                <persName>Ann Weeden</persName>
+             </person>
+             <person role="petitioner">
+                <persName>William B. Lacy</persName>
+            </person>
+            <person role="jp">
+               <persName>John D. Clark</persName>
+            </person>
+         </particDesc>
+      </profileDesc>
+      <revisionDesc>
+          <change when="2013-08-14" who="#jc">revised person coding in header, coding for handwritten signature blocks, and values @facs</change>
+<change when="2013-04-12" who="#jc">blessed</change>
+<change when="2013-04-11" who="#kp">blessed</change>
+<change when="2013-01-29" who="#jc">updated tei header; fixed values @ facs as necessary; automated checking across files for extra spaces in elements and other encoding inconsistencies and transcription errors</change>
+         <change when="2013-01-14" who="#kk">checked</change>
+         <change when="2013-01-02" who="#jc">transcribed, encoded</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+        <body>
+            <pb xml:id="leaf001r" facs="cww.00291.001.jpg"/>
+
+            <div1 type="petition" subtype="mixed">
+                <head type="main">PETITION.</head>
+                <p rend="bold">To the Commissioners under the act of Congress approved the <date when="1862-04-16">16th of April, 1862</date>, entitled "An act for the
+                    release of certain persons held to service or labor in the <placeName>District
+                        of Columbia</placeName>."</p>
+
+                <p>Your Petitioner<seg type="handwritten">s</seg>, <seg type="handwritten">
+                  <persName>Ann Coseene</persName>, <choice>
+                            <abbr>Adminx.</abbr>
+                            <expan>Administratrix</expan>
+                        </choice> and <persName>Ann Weeden</persName> and <persName>W. B.
+                            Lacy</persName>, heirs at law of <persName>John Coseene</persName>,
+                        late</seg> of <seg type="handwritten">
+                  <placeName>Alexandria County,
+                            Virginia</placeName>
+              </seg> by this <seg type="handwritten">our</seg>
+                    petition in writing, represent<del>s</del> and state<del>s</del>, that <seg type="handwritten">we are</seg>
+                    <del>is a</del> person<seg type="handwritten">s</seg> loyal to the
+                        <placeName>United States</placeName>, who, at the time of the passage of the
+                    said act of Congress, held a claim to service or labor against <seg type="handwritten">the following named</seg> person<seg type="handwritten">s</seg> of African descent of the name<seg type="handwritten">s</seg> of
+                        <seg type="handwritten">
+                  <persName>Elizabeth</persName>,
+                            <persName>Lucy</persName>, <persName>Hanson</persName> and
+                            <persName>Eliza</persName>&#8212;</seg> for and during the life of said
+                        <seg type="handwritten">persons</seg> and that by said act of Congress said
+                        <seg type="handwritten">persons were</seg> discharged and freed of and from
+                    all claim of your petitioner to such service or labor; that at the time of said
+                    discharge said <seg type="handwritten">
+                  <persName>
+                     <hi rend="underline">Elizabeth</hi>
+                 </persName> was of the age of thirty one (31) years
+                                <persName>
+                     <hi rend="underline">Lucy</hi>
+                 </persName> was of the age
+                        of fifteen (15) years&#8212;<persName>
+                     <hi rend="underline">Hanson</hi>
+                 </persName> was of the age of three years and <persName>
+                     <hi rend="underline">Eliza</hi>
+                 </persName> was</seg> of the age of <seg type="handwritten">fifteen (15) years</seg> and of the personal description
+                        following:<note type="government" place="foot" xml:id="n1">Here describe the
+                        person, so as to identify him or her; and if there be more than one slave,
+                        describe each one separately.</note>
+                    <seg type="handwritten">That is to say:</seg>
+                    <list type="handwritten">
+                        <item>
+                     <persName>
+                        <hi rend="underline">Elizabeth</hi>
+                    </persName> was a bright
+                            Mulatto, and five feet two inches in height.</item>
+                        <item>
+                     <persName>
+                        <hi rend="underline">Lucy</hi>
+                    </persName> was a very bright
+                            Mulatto and four feet ten inches in height.</item>
+                        <item>
+                     <persName>
+                        <hi rend="underline">Hanson</hi>
+                    </persName> was of yellow
+                            complexion.</item>
+                        <item>
+                     <persName>
+                        <hi rend="underline">Eliza</hi>
+                    </persName> was a very bright
+                            Mulatto and about five feet high, with a mark on her left cheek, caused
+                            by a burn when quite young.</item>
+                    </list>
+                </p>
+
+                <pb xml:id="leaf001v" facs="cww.00291.002.jpg"/>
+
+                <p>That your petitioner<seg type="handwritten">s</seg> acquired <seg type="handwritten">their</seg> claim to the aforesaid service or labor of
+                    said <seg type="handwritten">Persons&#8212;</seg> in manner following:<note type="government" place="foot" xml:id="n2">Here state how the claim was
+                        acquired, when, from whom, and for what price or consideration; and, if held
+                        under any written evidence of title, make exhibit thereof, or refer to the
+                        public record where the same may be found.</note>
+                    <seg type="handwritten">That is to say: <persName>
+                     <hi rend="underline">Elizabeth</hi>
+                 </persName> was bequeathed to <persName>Ann
+                            Coseene</persName>&#8212;<persName>Ann Weeden</persName>, and
+                            <persName>W. B. Lacy</persName>, heirs at law, by the late
+                            <persName>John Coseene</persName>, late of <placeName>Alexandria County
+                            Va.</placeName> by his last will and testament&#8212;a copy of which is
+                        hereunto appended &#8212;<persName>
+                     <hi rend="underline">Lucy</hi>
+                 </persName>
+                        and <persName>
+                     <hi rend="underline">Hanson</hi>
+                 </persName> are the children
+                        of <persName>Elizabeth</persName> and were born since the said
+                            <persName>Elizabeth</persName> came into the possession of your
+                                petitioners&#8212;<persName>
+                     <hi rend="underline">Eliza</hi>
+                 </persName> is the daughter of <persName>Susan</persName>
+                        named in the will above mentioned and bequeathed as therein stated, and was
+                        born since the death of <persName>John Coseene</persName>&#8212;</seg>
+            </p>
+
+                <p>That your petitioner's claim to the service or labor of said <seg type="handwritten">persons</seg> was, at the time of said discharge
+                    therefrom, of the value of <seg type="handwritten">two thousand seven
+                        hundred</seg> dollars in money.<note type="government" place="foot" xml:id="n3">Here state such facts, if any there be, touching the value of
+                        the petitioner's claim to the service or labor of the person, as may enhance
+                        the same, and also such facts, if any, touching the moral, mental, and
+                        bodily infirmities or defects of said person, as impair the value of the
+                        petitioner's claim to such service or labor, and conclude such statement
+                        with an averment that the petitioner knows of no other infirmities or
+                        defects of said person which impair the value of petitioner's claim to such
+                        service or labor, and that he believes none other to exist. If the
+                        petitioner specify no such infirmity or defect, then his statement touching
+                        the value of his claim should conclude with an averment that he has no
+                        knowledge of any such infirmity or defect.</note>
+               <seg type="handwritten">That is to say:</seg>
+                    <list type="handwritten">
+                        <item>
+                     <persName>
+                        <hi rend="underline">Elizabeth</hi>
+                    </persName> is valued at
+                            one thousand dollars&#8212;</item>
+                        <item>
+                     <persName>
+                        <hi rend="underline">Lucy</hi>
+                    </persName> is valued at six
+                            hundred dollars&#8212;</item>
+                        <item>
+                     <persName>
+                        <hi rend="underline">Hanson</hi>
+                    </persName> is valued at
+                            four hundred dollars&#8212;and</item>
+                        <item>
+                     <persName>
+                        <hi rend="underline">Eliza</hi>
+                    </persName> is valued at
+                            seven hundred dollars.</item>
+                    </list>
+                    <list type="handwritten">
+                        <item>
+                     <persName>
+                        <hi rend="underline">Elizabeth</hi>
+                    </persName> has no marks
+                            of any description is a stout, hearty healthy cook&#8212;with an
+                            excellent character.</item>
+                        <item>
+                     <persName>
+                        <hi rend="underline">Lucy</hi>
+                    </persName> is a superior
+                            house servant, and chambermaid very good, honest and intelligent
+                            girl.</item>
+                        <item>
+                     <persName>
+                        <hi rend="underline">Hanson</hi>
+                    </persName> is a stout
+                            hearty and healthy boy and very promising.</item>
+                        <item>
+                     <persName>
+                        <hi rend="underline">Eliza</hi>
+                    </persName> is a valuable
+                            house servant and chamber maid&#8212;is a stout and healthy girl;
+                            honest, trustworthy, and altogether reliable.&#8212;</item>
+                    </list>
+                    <seg type="handwritten">There are no moral, mental or bodily defects known to
+                        your petitioners in either of the above named persons</seg>
+                </p>
+
+                <p>Your petitioner<seg type="handwritten">s</seg> hereby declare<del>s</del> that
+                        <seg type="handwritten">they</seg> bear<del>s</del> true and faithful
+                    allegiance to the Government of the <placeName>United States</placeName>, and
+                    that <seg type="handwritten">they</seg> ha<seg type="handwritten">ve</seg>
+               <del>s</del> not borne arms against the <placeName>United
+                        States</placeName> in the present rebellion, nor in any way given aid or
+                    comfort thereto.</p>
+
+                <p>And your petitioner<seg type="handwritten">s</seg> further state<del>s</del> and
+                        allege<del>s</del>, that <seg type="handwritten">they</seg> ha<seg type="handwritten">ve</seg>
+               <del>s</del> not brought said <seg type="handwritten">persons&#8212;</seg> into the <placeName>District of
+                        Columbia</placeName> since the passage of said act of Congress; and that, at
+                    the time of the passage thereof, said <seg type="handwritten">persons&#8212;</seg> w<seg type="handwritten">ere</seg>
+               <del>as</del> held
+                    to service or labor therein under and by virtue of your petitioner's claim to
+                    such service or labor.</p>
+
+                <p>Your petitioner<seg type="handwritten">s</seg> further state<del>s</del> and
+                        allege<del>s</del>, that <seg type="handwritten">their</seg> said claim to
+                    the service or labor of said <seg type="handwritten">persons&#8212;</seg> does
+                    not originate in or by virtue of any transfer heretofore made by any person who
+                    has in any manner aided or sustained the present rebellion against the
+                    Government of the <placeName>United States</placeName>.</p>
+
+                <p>And your petitioner<seg type="handwritten">s</seg> pray<del>s</del> the said
+                    Commissioners to investigate and determine the validity of <seg type="handwritten">their</seg> said claim to the service or labor of said
+                        <seg type="handwritten">persons&#8212;</seg> herein above set forth; and if
+                    the same be found to be valid, that they appraise and apportion the value of
+                    said claim in money, and report the same to the Secretary of the Treasury of the
+                        <placeName>United States</placeName>, in conformity to the provisions of
+                    said act of Congress.</p>
+
+                <closer> (Signed by)
+                    <signed><seg type="handwritten">her X mark <persName>Ann Coseene</persName>&#8212;</seg></signed>
+                    <signed><seg type="handwritten"><persName>Ann Weeden</persName></seg></signed>
+                    <signed><seg type="handwritten"><persName>W. B. Lacy</persName></seg></signed>
+                </closer>
+               <closer><seg type="handwritten">Witness&#8212;</seg>
+                    <signed><seg type="handwritten"><persName>Fred. D. Stuart</persName></seg></signed>
+                </closer>
+            </div1>
+
+            <div1 type="will" subtype="handwritten">
+                <pb xml:id="leaf002r" facs="cww.00291.006.jpg"/>
+                <div2 type="section" subtype="handwritten">
+                    <p>In the name of God, amen, I, <persName>John Coseen</persName> of
+                            <placeName>Alexandria County</placeName> in the <placeName>District of
+                            Columbia</placeName>, being weak in body, but sound in mind and memory,
+                        &#38;c make this and ordain the same, to be my last Will and Testament
+                        revoking all others heretofore made by me.</p>
+                    <p>First My will and desire is that my just debts be paid, if any, also my
+                        funeral expenses.</p>
+                    <p>Item. I give and bequeath to my beloved wife <persName>Ann</persName>, the
+                        farm I now live on, <unclear reason="illegible" cert="low" resp="#jc">binding</unclear> on the <placeName>Washington Turnpike
+                            road</placeName>, also all the household and kitchen <gap reason="illegible" extent="one or two words" quantity="12" unit="chars"/> and also all horses, <choice>
+                            <sic>cattles</sic>
+                            <corr>cattle</corr>
+                        </choice>, hogs, poultry, farming utensils, and every article and thing
+                        relating thereto, with all the crop that is now on said farm and also I will
+                        until my said beloved wife, four negroes, namely&#8212;<persName>Charles Coffe</persName>,
+                            <persName>Lucy</persName>, and her children <persName>Susan</persName>
+                        and <persName>Betsey</persName> and their increase, to have and to hold the
+                        same during her natural life. And after her death the same, and all the
+                        property heretofore willed by me to my said wife, to be equally divided
+                        between my two youngest daughters, namely, <persName>Ann</persName> and
+                            <persName>Mary Jane</persName> to them and their heirs forever. But it
+                        is to be particularly understood that as much of the above property herein
+                        before left to my wife <persName>Ann</persName>, as will amount to the sum
+                        of Three hundred dollars lawful money of the <placeName>United
+                            States</placeName>, is to be sold, if not otherwise paid by my wife <persName>Ann</persName> unto my daughter <persName>Julia
+                            Skidmore</persName>, which said sum of three hundred dollars is to be
+                        paid, annually Fifty Dollars until the whole sum of Three Hundred Dollars is
+                        paid off by my said wife <persName>Ann</persName> or out of the property
+                        aforesaid unto my daughter <persName>Julia Skidmore</persName> to her and
+                        her heirs forever.</p>
+                    <p>Item. I give and bequeath to my son <persName>Samuel</persName>, the farm on
+                        which he now resides, bounded with <persName>Curtis</persName>' and <pb xml:id="leaf002v" facs="cww.00291.005.jpg"/>
+                        <persName>Chapman</persName>'s lines to him and his heirs forever.</p>
+                    <p>Lastly I constitute and appoint my friend Colonel <persName>William
+                            Minor</persName> of the said <placeName>County of Alexandria</placeName>
+                        in the <placeName>District of Columbia</placeName>, the sole Executor to
+                        this my last will and testament.</p>
+                    <p>In witness whereof I have hereunto set my hand and affixed my seal this <date when="1833-08-29">twenty ninth day of August in the year of our Lord One
+                            thousand eight hundred and thirty three.</date>
+               </p>
+                    <closer>
+                        <signed>his X mark <persName>John Coseen</persName> seal</signed>
+                    </closer>
+                    <closer>Signed in presence of
+                        <signed><persName>Wm Minor</persName></signed>
+                        <signed><persName>Robt. Ball</persName></signed>
+                        <signed><persName>Wm Ball</persName></signed>
+                    </closer>
+                </div2>
+            </div1>
+
+            <div1 type="statement" subtype="handwritten">
+                <div2 type="section" subtype="handwritten">
+                    <p>I, <persName>William Minor</persName>, the Executor named in the will of
+                            <persName>John Coseen</persName>
+                        <choice>
+                            <abbr>decd</abbr>
+                            <expan>deceased</expan>
+                        </choice> do hereby renounce my appointment as such. Given under my hand and
+                        seal this <date when="1837-05-01">first day of May 1837</date>.</p>
+                    <closer>
+                        <signed>
+                     <persName>Wm Minor</persName> seal</signed>
+                    </closer>
+                </div2>
+
+                <div2 type="section" subtype="handwritten">
+                    <p>At a session of the Orphan's Court for the <placeName>County of
+                            Alexandria</placeName> in the <placeName>District of
+                            Columbia</placeName> the <date when="1837-07-05">5th day of July
+                            1837</date>, this last Will and Testament of <persName>John
+                            Coseen</persName>, <choice>
+                            <abbr>dec.</abbr>
+                            <expan>deceased</expan>
+                        </choice> was proved in due form of law, by the witnesses thereto, and was
+                        to be recorded. and Letters of administration, with the Will annexed, were
+                        granted to <persName>Ann Coseen</persName>, who gave Bond and approved
+                        Security.</p>
+                    <closer>Test. <signed>
+                     <persName>A. Moore</persName>
+                     <lb/>
+                            <choice>
+                                <abbr>Regr</abbr>
+                                <expan>Register</expan>
+                            </choice>. of Wills</signed>
+                    </closer>
+                </div2>
+
+                <pb xml:id="leaf003r" facs="cww.00291.004.jpg"/>
+                <div2 type="section" subtype="handwritten">
+                    <p>The undersigned who intermarried with <persName>Ann Coseen</persName>, one of the
+                        daughters of <persName>John Coseen</persName>, deceased, and, by virtue of
+                        such intermarriage, a Legatee under the last will and testament of said
+                            <persName>John Coseen</persName>, do hereby agree and request that the
+                        Judge of the Orphan's Court of <placeName>Alexandria County</placeName> will
+                        grant administration with the Will <unclear reason="illegible" cert="low" resp="#kk">annexed</unclear> of said <persName>John Coseen</persName>
+                        <choice>
+                            <abbr>decd</abbr>
+                            <expan>deceased</expan>
+                        </choice> to his widow <persName>Ann Coseen</persName>, [Col.
+                            <persName>William Minor</persName> the <choice>
+                            <abbr>Exr</abbr>
+                            <expan>Executor</expan>
+                        </choice> therein named, having renounced his right thereto] taking for
+                        security in said <unclear reason="illegible" cert="medium" resp="#jc">administrative</unclear> Bond, the personal responsibility of
+                            <persName>Elija Taylor</persName>, of <placeName>Alexandria
+                            County</placeName>, as good and sufficient security under existing
+                        circumstances. Given <unclear reason="illegible" cert="medium" resp="#kp"><hi rend="underline">for</hi>ce under</unclear> my hand and seal
+                        this the <date when="1837-07-05">5th July 1837</date>.</p>
+                    <closer>
+                        <signed>
+                     <persName>Harry A. Wheden</persName>
+                  </signed> <unclear reason="torn page" cert="low" resp="#kk">seal</unclear><lb/>
+                        Signed, sealed and acknowledged in Open Court this <date when="1837-07-05">5th July 1837</date>
+                    </closer>
+                </div2>
+
+                <div2 type="section" subtype="handwritten">
+                    <p>
+                  <persName>Ann Coseen</persName> made oath in open Court, that, at the death
+                        of her husband <persName>John Coseen</persName>, he had the following
+                        personal Estate, and none other, viz Two stacks of hay, about Two and half
+                        tons&#8212;Two beds and one Bedstead&#8212;one Cot&#8212;some old hay and
+                        straw, sold for $10&#8212;two <choice>
+                            <sic>negroe</sic>
+                            <corr>negro</corr>
+                        </choice> girls, one seven, and the other five years of age,&#8212;one horse
+                        and Cart, sold by him to his son for $60&#8212;Twenty Dollars in Cash.</p>
+                </div2>
+
+                <pb xml:id="leaf003v" facs="cww.00291.003.jpg"/>
+                <div2 type="section" subtype="handwritten">
+                    <dateline>
+                  <placeName>District of Columbia</placeName>
+                  <lb/>
+                        <placeName>Alexandria County</placeName> Sct <date when="1843-07-15">July
+                            15th 1843</date>
+               </dateline>
+                    <p>I <persName>Bernard Hood</persName>, Register of Wills for the
+                            <placeName>County of Alexandria</placeName> in the
+                            <placeName>District</placeName> aforesaid, do hereby certify, that the
+                        copy of the will of <persName>John Coseen</persName> deceased, a copy of
+                        which is hereto attached is truly made from the original paper recorded and
+                        on file in my said office and that the papers hereto annexed are truly
+                        copied from the records of the Orphan's Court, and also in my said
+                        office.</p>
+                    <closer>
+                        <signed>
+                     <persName>B. Hood</persName>
+                     <lb/>
+                            <choice>
+                                <abbr>Regr.</abbr>
+                                <expan>Register</expan>
+                            </choice> of Wills</signed>
+                    </closer>
+                </div2>
+
+                <div2 type="section" subtype="handwritten">
+                    <ab>Copy<lb/>
+                        <persName>John Coseen's</persName>
+                  <lb/> Will</ab>
+                </div2>
+            </div1>
+
+            <pb xml:id="leaf004r" facs="cww.00291.008.jpg"/>
+
+            <div1 type="oath" subtype="mixed">
+                <head type="main">[<hi rend="italic">Form of the Oath for the Verification of the
+                        Petition.</hi>]</head>
+
+                <dateline>
+               <placeName>District of Columbia</placeName>,
+               <lb/>
+                    <hi rend="italic">
+                  <placeName>Washington County</placeName>, ss.</hi>
+            </dateline>
+
+                <div2 type="section">
+                    <p>
+                  <seg type="handwritten">We</seg>
+                        <del>I</del>, <seg type="handwritten">
+                     <persName>Ann Coseene</persName>
+                            <persName>Ann Weeden</persName> and <persName>W. B.
+                            Lacy</persName>
+                 </seg> being duly sworn, do depose and say, that all the
+                        several matters and things which are set forth and stated in the foregoing
+                        petition, as of <seg type="handwritten">our</seg>
+                        <del>my</del> own knowledge, are true in substance and in fact; and that all
+                        the several other matters and things therein set forth and stated, as from
+                        the information of others, <seg type="handwritten">We</seg>
+                        <del>I</del> believe to be true in substance and in fact.</p>
+                    <closer> (Signed by) <signed>
+                     <seg type="handwritten">her X mark <persName>Ann
+                                    Coseene</persName>
+                    </seg>
+                  </signed>
+                        <signed>
+                     <seg type="handwritten">
+                        <persName>Ann
+                            Weeden</persName>
+                    </seg>
+                  </signed>
+                        <signed>
+                     <seg type="handwritten">
+                        <persName>W. B.
+                            Lacy</persName>
+                    </seg>
+                  </signed>
+                  <lb/>
+                        <seg type="handwritten">Witness</seg>
+                        <signed>
+                     <seg type="handwritten">
+                        <persName>Fred. D.
+                            Stuart</persName>.</seg>
+                  </signed>
+                    </closer>
+                </div2>
+
+                <div2 type="section">
+                    <p>Sworn to and subscribed before me this <date when="1862-05-17">
+                     <seg type="handwritten">17th</seg> day of <seg type="handwritten">May</seg> A. D. 1862</date>.</p>
+                    <closer> (Signed by) <signed>
+                     <seg type="handwritten">
+                        <persName>John D.
+                                    Clark</persName> J. P</seg>
+                  </signed>
+                    </closer>
+                </div2>
+            </div1>
+
+            <div1 type="cover" subtype="handwritten">
+                <note type="editorial">The following note, about the filing of the petition, has
+                    been imaged twice in the National Archives microfilm, but the note occurs in
+                    only one place in the petition: written horizontally on the final page, the Oath
+                    for the Verification.</note>
+                <ab>291</ab>
+                <ab>
+               <persName>Ann Coseene</persName>, <persName>Ann Weeden</persName>
+               <lb/> &#38;
+                        <persName>Wm. B. Lacy</persName> heirs at law<lb/> of <persName>John
+                        Coseene</persName>
+            </ab>
+                <ab>Filed <date when="1862-05-19">May 19, 1862</date>
+            </ab>
+                <ab>
+               <persName>Fred. D. Stuart</persName>
+               <lb/> for Mrs.
+                    <persName>Coseene</persName>
+            </ab>
+                <ab>
+               <hi rend="underline">Witnesses</hi>&#8212;<lb/>
+                    <persName>Fred. Butler</persName>
+               <lb/>
+                    <persName>Abm Butler</persName>
+               <lb/>
+                    <persName>Jo. Sessford</persName>
+               <lb/>
+                    <persName>F. D. Stuart</persName>
+               <lb/>
+                    <persName>Jno. M. Young</persName>
+            </ab>
+            </div1>
+        </body>
+    </text>
+</TEI>

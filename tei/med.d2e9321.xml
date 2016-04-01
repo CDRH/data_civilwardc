@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d2e9321">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Durst, J.</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+    <idno>med.d2e9321</idno>
+    <authority>Civil War Washington</authority>
+    <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor><name>Center for Digital Research in the
+     Humanities</name><address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address></distributor>
+    <date>2011</date>
+    <availability>
+     <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+      republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+      law, requires express written consent from the editors and advance notification of the
+      publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+ <persName xml:id="kmp">Kenneth M. Price</persName> 
+     <persName xml:id="mb">Matthew Bosley</persName>
+     <persName xml:id="el">Elizabeth Lorang</persName>
+     <persName xml:id="sb">Stacey Berry</persName>
+     <persName xml:id="et">Elisabeth Tracey</persName>
+     <persName xml:id="ss">Sarah Synovec</persName>
+     <persName xml:id="kk">Kourtney Klein</persName>
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title level="j">The Medical and Surgical History of the War of the Rebellion.
+      (1861-65.)</title><pubPlace>Washington, DC</pubPlace><publisher>Government Printing
+      Office</publisher><biblScope type="part">Part 3</biblScope><biblScope type="volume">Volume
+      2</biblScope><date when="1883">1883</date><biblScope type="page">194-196</biblScope></bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+     <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <keywords scheme="#medsurg">
+     <term>wounds and injuries of the lower extremities</term> 
+     <term>injuries of the shaft of the femur</term> 
+     <term>shot fractures of the shaft of the femur</term>
+     <term>shot fractures of the shaft of the femur treated by conservation</term> 
+     <term>shot fractures of the lower third of the femur treated by conservation</term> 
+     <term>successful cases of shot fractures of the lower third of the femur treated by conservation</term> 
+     <term>disability ceased, injured limb as well nourished as other</term>
+     <term>ball entered anterior aspect of thigh at junction of middle and lower thirds, fracturing femur, exit opposite wound of entrance</term> 
+     <term>bone united with one and one-fourth inches shortening</term>
+     <term>lameness and debility of limb</term>     
+    </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+ <change who="#kmp" when="2014-05">blessed</change>
+   <change who="#kk" when="2014-01-29">added figure encoding</change>
+   <change who="#mb" when="2012-05-07">additional proofing of transcription and encoding, identified keyword terms</change>
+   <change who="#el" when="2011-05-11">case text extracted and transformed from larger file</change>
+   <change who="#sb" when="2011-06-04">Enrich Encoding, Edit and validate</change>
+   <change who="#sb" when="2011-01-28">Validated File</change>
+   <change who="#ss" when="2008-09-22">Sarah Synovec initial checking of OCR text; encoded P5 Encoding</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   
+    <p><hi rend="initialcap">C</hi>ASE 398.&#8212;<name type="person" key="1030">Private J.
+      Durst</name>, <name type="organization" key="176">Co. D, 69th New York</name>, aged 21 years,
+     was wounded at <name type="BATTLE" key="79">Hatcher's Run</name>, <date type="injury"
+      when="1865-03-25">March 25, 1865</date>. On <date type="admit" when="1865-03-26">the following day</date> he was admitted to the Depot Hospital of the Second Corps, at <name type="place">City Point</name>, and, on
+     <date type="transfer" when="1865-03-30">March 30th</date>, he reached <name type="place" key="#Washington">Washington</name>, where he
+     entered <name type="hospital" key="171">Armory Square Hospital</name>. <name type="person" key="424">Acting Assistant Surgeon G. K. Smith</name>
+     contributed the following history: "A mini&#233; ball entered the anterior aspect of the right thigh
+     at the junction of the middle and lower thirds, passing backward and fracturing the femur, and
+     made its exit opposite the wound of entrance. The injury produced very little constitutional
+     disturbance, and the discharge from the wound did not exceed two drachms in twenty-four hours
+     at any time. The limb was treated in Hodgen's splint, without extension, until April 14th, when
+     it was placed on a mattress with a sand bag on each side
+     to keep it in position, and extension was applied by Buck's method. On June 9th the extension
+     was removed and the bone was found to be firmly united, with one and one-fourth inches
+     shortening. The patient was now walking on crutches. The anterior wound had healed for about a
+     week, but the posterior wound was still discharging very slightly. By June 23d he had good
+     movement of the knee and could bend the leg to a right angle with the direction of the thigh.
+     The discharge from the wound at this time did not amount to over one drachm in a week. No
+     fragments of bone were ever removed, and the limb healed almost as kindly as a simple fracture,
+     showing no deformity except the shortening." The patient was subsequently transferred to DeCamp Hospital, <name type="place">David's Island, New York</name>,
+     and, on <date type="servicedischarge" when="1865-08-19">August 19, 1865</date>, he was discharged and
+     pensioned. <name type="person" key="xx">Examiner W. M. Chamberlain</name>, on <date type="pension" when="1866-08-22">August 22, 1866</date>,
+     certified to a "well united fracture of the right femur, with only one inch shortening, and
+     some lameness and debility of the limb." Substantially the same was reported at subsequent
+     examinations until <date type="pension" when="1876-01-19">January 19, 1876</date>, when the <name type="organization" key="xx">New York
+      Board</name> certified to the injured thigh being as well nourished as the other, and to the
+     disability as having ceased, in accordance with which the pensioner was dropped from the
+     Pension Rolls. A photograph of the patient, taken at the <name type="hospital" key="431">Army
+      Medical Museum</name> in <date type="photo" when="1865-06">June, 1865</date> (<hi rend="italic">Surg. Phot. Series</hi>, No. 46, A. M. M.), is represented in <hi rend="initialcap">P</hi>LATE LXIII, opp. p. 196.</p>
+    
+   <figure>
+    <graphic url="cww.001809.001" />
+    <head>PLATE  LXIII. &#8212; CONSOLIDATED  GUNSHOT  FRACTURES  OF  THE  FEMUR.   Fig 1.  Case of <name type="person" key="1030">Private J. Durst</name>  <name type="organization" key="176">69th New York</name></head>  
+   </figure>
+
+   
+  </body>
+ </text>
+</TEI>

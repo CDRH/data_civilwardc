@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d2e17100">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Rall, Henry</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+    <idno>med.d2e17100</idno>
+    <authority>Civil War Washington</authority>
+    <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor><name>Center for Digital Research in the
+     Humanities</name><address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address></distributor>
+    <date>2011</date>
+    <availability>
+     <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+      republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+      law, requires express written consent from the editors and advance notification of the
+      publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+ <persName xml:id="kw">Kenneth Winkle</persName> 
+     <persName xml:id="mb">Matthew Bosley</persName>
+     <persName xml:id="el">Elizabeth Lorang</persName>
+     <persName xml:id="sb">Stacey Berry</persName>
+     <persName xml:id="et">Elisabeth Tracey</persName>
+     <persName xml:id="ss">Sarah Synovec</persName>
+     <persName xml:id="kk">Kourtney Klein</persName>
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title level="j">The Medical and Surgical History of the War of the Rebellion.
+      (1861-65.)</title><pubPlace>Washington, DC</pubPlace><publisher>Government Printing
+      Office</publisher><biblScope type="part">Part 3</biblScope><biblScope type="volume">Volume
+      2</biblScope><date when="1883">1883</date><biblScope type="page">428-429</biblScope></bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+     <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <keywords scheme="#medsurg">
+     <term>wounds and injuries of the lower extremities</term> 
+     <term>wounds and operations in the leg</term>
+     <term>shot contusions of the bones of the leg</term>
+     <term>shot contusions of the tibia and fibula</term> 
+     <term>shot contusions of the bones of the leg treated by conservation</term> 
+     <term>recoveries after shot contusions of the bones of the leg treated by conservation</term>
+     <term>shot contusions of the tibia and fibula</term> 
+     <term>shot wound of leg</term> 
+     <term>ball passed across spine of tibia, bruised and denuded periosteum</term>
+     <term>shot fracture of tibia with union and loss of bone substance</term>     
+     <term>inflamed cicatrix</term>
+     <term>usefulness of limb well nigh destroyed</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+ <change who="#kw" when="2014-05">blessed</change>
+   <change who="#kk" when="2014-01-31">added figure encoding</change>
+   <change who="#mb" when="2012-05-31">additional proofing of transcription and encoding, identified keyword terms</change>
+   <change who="#el" when="2011-05-11">case text extracted and transformed from larger file</change>
+   <change who="#sb" when="2011-06-04">Enrich Encoding, Edit and validate</change>
+   <change who="#sb" when="2011-01-28">Validated File</change>
+   <change who="#ss" when="2008-09-22">initial checking of OCR text; encoded P5 Encoding</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>   
+    <p><hi rend="initialcap">C</hi>ASE 657.&#8212;<name type="person" key="1223">Corporal H. Rall</name>, <name type="organization" key="370">Co. D, 15th New York Heavy Artillery</name>,
+     aged 22 years, was wounded at the battle of <name type="BATTLE" key="96">Old Church</name>, <date type="injury" when="1864-05-30">May 30, 1864</date>. <name type="person" key="xx">Surgeon L. W. Read</name>, <name type="organization" key="132">U. S. V.</name>, reported his entrance into the field hospital of the 3d division, Fifth Corps, with "shot wound of left leg." <name type="person" key="1225">Surgeon B. B.
+      Wilson</name>, <name type="organization" key="132">U. S. V.</name>, in charge of <name
+      type="hospital" key="175">Stanton Hospital</name>, Washington, contributed the pathological specimen (No. 4337 of the <hi rend="italic">Surgical Section</hi>, A. M. M.), with
+     the following history: "This young man was admitted to this hospital on <date type="transfer" when="1864-06-04">June 4th</date>. He had been wounded by a mini&#233; ball, which passed across
+     the spine of the tibia about four inches from the head of the bone, bruising it and denuding it
+     of periosteum along the track of the ball. He was somewhat debilitated when admitted, but being
+     young and of good constitution, his general condition was not unfavorable. He was treated with
+     applications of cold water and ice dressings to the wounded limb, and stimulating and
+     supporting constitutional remedies. During the month of June and the beginning of July the limb
+     was highly inflamed, and there was profuse suppuration and some sloughing in the vicinity of
+     the wound; with considerable sympathy of the general system as manifested by chills, great
+     debility, loss of appetite, and general febrile action. In <date type="operation" when="1864-07">the month of July</date>, deep-seated
+     fluctuation having been observed in the course of the shaft of the tibia, the pus was evacuated
+     by free incisions in the direction of the length of the limb, with great relief to the patient.
+     The periosteum was found to be extensively separated and the shaft of the bone necrosed. During
+     the months of September, October, November, and December his condition gradually improved as
+     the process of formation of the involucrum and the separation of the necrosed portion went on.
+     A number of cloac&#230; formed in the line of the incisions for liberating pus, through which the
+     necrosed bone could be felt gradually becoming detached from the living portion. The limb was,
+     during this time, for the most part treated with emollient poultices. About the first of
+     January the upper part of the shaft of the tibia could be distinguished at the position of the
+     original wound, and about March 1st, upon seizing it with a forceps the whole dead mass could
+     be moved within the sheath of the investing new bone. The operation for the removal of necrosed bone was performed by <name
+      type="person" key="1224">Surgeon A. N. Dougherty</name>, <name type="organization" key="132">U. S. V.</name>, on <date type="operation" when="1865-03-14">March 14, 1865</date>, by turning back the soft parts on each side from an
+     incision through the centre of the cloac&#230;, and cutting away with the mallet and chisel
+     sufficient of the new growth to permit the sequestrum to be lifted directly from its bed. It
+     was found to consist of the entire shaft of the tibia from one epiphysis to the other, except
+     small portions eroded by the absorbents. The after-treatment consisted of simple water dressings
+     with slightly stimulating applications, and was unmarked with any noteworthy complication. On
+      <date type="servicedischarge" when="1865-06-06">June 6, 1865</date>, the patient was discharged on
+     certificate of disability, being able to walk with ease and comfort, though the wound was not
+     entirely healed. In <date type="photo" when="1865-07">July</date> a photograph was taken, of which the adjoining wood-cut (<hi rend="initialcap">F</hi>IG. 257) is a copy. He left the hospital in <date type="hospitaldischarge" when="1865-07">July</date> and returned in <date type="pension" when="1865-08">the following month</date>, asking to be employed under contract. Since that date he has been doing duty
+     as chief nurse of one of the wards of this hospital, being in robust health, though his limb
+     was not yet entirely healed." The specimen, consisting of a sequestrum nine inches long and eleven smaller pieces of necrosed
+     bone, is shown somewhat reduced in <hi rend="initialcap">F</hi>IG. 1 of <hi rend="initialcap">P</hi>LATE <hi rend="initialcap">LXXI</hi>, opposite page 428.  <name type="person" key="xx">Examiner T. F. Smith</name>,
+     of <name type="place" key="xx">New York City</name>, <date type="pension" when="1873-09-22">September 22, 1873</date>, certified: "Shot fracture of left tibia, with union and great loss of bone substance, leaving a
+     cicatrix over the anterior surface of the bone nine inches in length, red, unhealthy, and
+     ulcerating," etc. The <name type="organization" key="xx">Brooklyn Examining Board
+     </name>reported, <date type="pension" when="1877-09-08">September 8, 1877</date>: "We find an adherent, chronically inflamed cicatrix
+     extending along the anterior face of the left tibia from below its head to within three inches
+     of the ankle. There is tenderness on pressure. He requires the application of a bandage, and
+     complains of pain in damp or cold weather. The usefulness of the limb is well nigh destroyed."
+     The pensioner was paid <date type="pension" when="1880-03-04">March 4, 1880</date>.</p>
+   <p><hi rend="initialcap">F</hi>IG. 257.&#8212;Appearance of limb fourteen months after injury.    [From a photograph.]</p>
+   
+   <figure>
+    <graphic url="cww.001822.001" />
+    <head>PLATE  LXXI. __ TUBULAR  SEQUESTRA  AND  PIECES  OF  NECROSED  BONE  FROM  TIBIA.    Fig. 1._<name type="person" key="1223">Corporal Henry Rall</name>, <name type="organization" key="370">D. 15 New York H. A.</name>,   Spec. 4337,  A. M. M.</head>
+   </figure> 
+   
+  </body>
+ </text>
+</TEI>

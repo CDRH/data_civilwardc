@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e1865">
+        <teiHeader>
+                <fileDesc>
+                        <titleStmt>
+                                <title level="m" type="main">Gale, B. F.</title>
+                                <title level="m" type="sub">a machine readable transcription</title>
+                                <principal>Susan C. Lawrence</principal>
+                                <principal>Kenneth M. Price</principal>
+                                <principal>Kenneth J. Winkle</principal>
+                        </titleStmt>
+                        <editionStmt>
+                                <edition>
+                                        <date>2011</date>
+                                </edition>
+                        </editionStmt>
+                        <publicationStmt>
+                                <idno>med.d1e1865</idno>
+                                <authority>Civil War Washington</authority>
+                                <publisher>University of Nebraska–Lincoln</publisher>
+                                <distributor>
+                                        <name>Center for Digital Research in the Humanities</name>
+                                        <address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+                                </distributor>
+                                <date>2011</date>
+                                <availability>
+                                        <p>Copyright © 2011 by University of Nebraska–Lincoln, all
+                                                rights reserved. Redistribution or republication in
+                                                any medium, except as allowed under the Fair Use
+                                                provisions of U.S. copyright law, requires express
+                                                written consent from the editors and advance
+                                                notification of the publisher, the University of
+                                                Nebraska–Lincoln.</p>
+                                </availability>
+                        </publicationStmt>
+                        <notesStmt>
+                                <note type="project">The following are responsible for particular
+                                        readings or for changes to this file, as noted: 
+                                        <persName xml:id="ajh">AJ Howell</persName>
+                                        <persName xml:id="mb">Matthew Bosley</persName>
+                                        <persName xml:id="el">Elizabeth Lorang</persName>
+                                        <persName xml:id="sb">Stacey Berry</persName>
+                                        <persName xml:id="et">Elisabeth Tracey</persName>
+                                </note>
+                        </notesStmt>
+                        <sourceDesc>
+                                <bibl>
+                                        <title level="j">The Medical and Surgical History of the War
+                                                of the Rebellion</title>
+                                        <pubPlace>Washington, DC</pubPlace>
+                                        <publisher>Government Printing Office</publisher>
+                                        <biblScope type="part">Part 3</biblScope>
+                                        <biblScope type="volume">Volume 1</biblScope>
+                                        <date when="1888">1888</date>
+                                        <biblScope type="page">218</biblScope>
+                                </bibl>
+                        </sourceDesc>
+                </fileDesc>
+                <encodingDesc>
+                        <classDecl>
+                                <taxonomy xml:id="medsurg">
+                                        <bibl>Medical and Surgical History of the War of the
+                                                Rebellion</bibl>
+                                </taxonomy>
+                        </classDecl>
+                </encodingDesc>
+                <profileDesc>
+                        <textClass>
+                                <keywords scheme="#medsurg">
+                                        <term>clinical records</term>
+                                        <term>continued fevers</term>
+                                        <term>typho-malarial and typhoid fevers</term>
+                                        <term>headache</term> 
+                                        <term>dizziness</term>
+                                        <term>bowels quiet notwithstanding purgative medicines</term> 
+                                        <term>rose-colored spots appeared</term> 
+                                        <term>Seminary Hospital cases</term>
+                                        <term>typhoid cases</term>
+                                        <term>typhoid fever</term>
+                                </keywords>
+                        </textClass>
+                </profileDesc>
+                <revisionDesc>
+                        <change who="#ajh" when="2013-05-23">additional proofing of transcription and encoding, identified keyword terms</change>
+                        <change who="#mb" when="2011-10-17">additional proofing of transcription and
+                                encoding</change>
+                        <change who="#mb" when="2011-05-31">additional proofing of transcription and
+                                encoding</change>
+                        <change who="#el" when="2011-05-11">case text extracted and transformed from
+                                larger file</change>
+                        <change who="#sb" when="2011-02-23">Encoding and Proofing</change>
+                        <change who="#et" when="2009-12-01">Initial Checking OCR Text to PDF
+                                file,</change>
+                </revisionDesc>
+        </teiHeader>
+        <text>
+                <body xml:id="ch4.sc2.3.00008">
+
+                        <p><hi rend="initialcap">C</hi>ASE 8.&#8212;<hi rend="italic">Headache and
+                                        dizziness; bowels quiet notwithstanding purgative medicines,
+                                        but right iliac region tender; rose-spots on the 14th day,
+                                        with convalescence succeeding.</hi>&#8212;<name
+                                        type="person" key="467">Corporal B. F. Gale</name>, <name
+                                        type="organization" key="622">Co. A, 4th Mich.</name>; age
+                                20; was seized about <date type="admit" when="1861-09-09">Sept. 9,
+                                        1861</date>, with weakness, pain in the head and back and
+                                fever, and was admitted as a case of typhoid fever. In the evening
+                                his pulse was found to be 92, quick and strong, skin natural, tongue
+                                red at tip but coated slightly in the middle, bowels quiet and
+                                appetite poor. Ten grains each of calomel and jalap were given. Next
+                                day the pulse was 74, the skin natural and moist, the tongue white
+                                in the centre and red at the edges, and the bowels quiet. Quinine
+                                was ordered. In the evening the pulse was 66 and the skin and tongue
+                                unchanged. One stool was passed in the morning; no tenderness. The
+                                patient had slight headache and dizziness. The bowels remained quiet
+                                during the following days, but some tenderness was manifested in the
+                                right iliac region. The skin continued warm and moist and the tongue
+                                unchanged, although the patient developed some appetite. On the 20th he was sitting up. On the
+                                21st he had tinnitus aurium and some thirst, but the pulse was 64,
+                                tongue clean and appetite good. On the 22th a few rose-colored spots appeared, the patient's
+                                condition otherwise remaining unaltered. He was improving generally
+                                when, on <date type="transfer" when="1861-10-01">October 1</date>,
+                                he was transferred to hospital at <name type="place">Annapolis,
+                                        Md.</name>
+                        </p>
+
+                </body>
+        </text>
+</TEI>

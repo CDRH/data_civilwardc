@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e20257">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title level="m" type="main">Clark, Thomas</title>
+        <title level="m" type="sub">a machine readable transcription</title>
+        <principal>Susan C. Lawrence</principal>
+        <principal>Kenneth M. Price</principal>
+        <principal>Kenneth J. Winkle</principal>
+      </titleStmt>
+      <editionStmt>
+        <edition><date>2011</date></edition>
+      </editionStmt>
+      <publicationStmt>
+        <idno>med.d1e20257</idno>
+        <authority>Civil War Washington</authority>
+        <publisher>University of Nebraska–Lincoln</publisher>
+        <distributor><name>Center for Digital Research in the
+          Humanities</name><address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address></distributor>
+        <date>2011</date>
+        <availability>
+          <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution
+            or republication in any medium, except as allowed under the Fair Use provisions of U.S.
+            copyright law, requires express written consent from the editors and advance
+            notification of the publisher, the University of Nebraska–Lincoln.</p>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="project">The following are responsible for particular readings or for changes to
+          this file, as noted: 
+ <persName xml:id="kmp">Kenneth M. Price</persName> 
+          <persName xml:id="ajh">AJ Howell</persName>
+          <persName xml:id="mb">Matthew Bosley</persName>
+          <persName xml:id="el">Elizabeth Lorang</persName>
+          <persName xml:id="sb">Stacey Berry</persName>
+          <persName xml:id="et">Elisabeth Tracey</persName>
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl><title>The Medical and Surgical History of the War of the Rebellion.
+            (1861&#8211;65.)</title><editor role="compiler">Surgeon General Joseph K. Barnes, United
+            States Army</editor><pubPlace>Washington, D.C.</pubPlace><publisher>Government Printing
+            Office</publisher><biblScope type="part">Part 1</biblScope>
+          <biblScope type="volume">Volume 2</biblScope><date when="1870">1870</date><biblScope
+            type="page">583</biblScope></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <classDecl>
+        <taxonomy xml:id="medsurg">
+          <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="#medsurg">
+          <term>wounds and injuries of the chest</term>
+          <term>operations on the chest</term>
+          <term>excisions</term>
+          <term>balls and foreign bodies lodged</term>
+          <term>traumatic pleuritis</term>
+          <term>comminuted third rib fracture</term>
+          <term>penetrating wound of thoracic cavity, upper lobe of lung</term>
+          <term>h&#230;moptysis</term>
+          <term>traumatic pleuritis, consequent effusion</term>
+          <term>hydrothorax following penetration of lung</term>
+          <term>autopsy performed</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+ <change who="#kmp" when="2014-05">blessed</change>
+      <change who="#ajh" when="2013-08-21">added figure encoding</change>
+      <change who="#mb" when="2012-01-24">additional proofing of transcription and encoding</change>
+      <change who="#el" when="2011-05-11">case text extracted and transformed from larger
+        file</change>
+      <change who="#sb" when="2011-02-09">enriched encoding</change>
+      <change who="#sb" when="2011-01-28">validated file</change>
+      <change who="#et" when="2009-08-01">encoded</change>
+      <change who="#sb" when="2008-09-22">initial checking of OCR text against PDF; encoded
+      </change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+
+      <p>
+        <hi rend="initialcap">C</hi>ASE 6.&#8212;<name type="person" key="xxx">Sergeant Thomas
+          Clark</name>, <name type="organization" key="xxx">Co. I, 1st United States Cavalry</name>,
+        was struck by a carbine ball in the cavalry fight near <name type="BATTLE" key="107">Brandy
+          Station, Virginia</name>, <date type="injury" when="1863-08-01">August 1st, 1863</date>.
+        On <date type="admit" when="1863-08-02">the next day</date> he was admitted to <name
+          type="hospital" key="162">Douglas Hospital</name>, Washington. <date type="operation"
+          when="1863-08-02">When admitted</date>, the bullet was discovered beneath the integument,
+        below the inferior angle of the left scapula, whence it was removed by <name type="person"
+          key="616">Acting Assistant Surgeon J. E. Smith</name>. The wound of entrance was found
+        anteriorly over the third rib, which had been fractured. This case was diagnosed as a
+        penetrating wound of the left thoracic cavity, involving the upper lobe of the lung. There
+        had been h&#230;moptysis and dyspn&#339;a, and there was when admitted great prostration.
+        The clinical history of the case is very imperfect. On <date type="death" when="1863-08-07"
+          >the 7th</date>, the patient was found almost <hi rend="italic">in articulo mortis</hi>,
+        and fully comprehended the situation; but after a consultation it was concluded that no
+        operation at that period would be of avail. The effusion had almost filled the left side,
+        and was causing dyspn&#339;a and profound depression, and at 11 A. M. death took place.
+        Previous to the autopsy, a <choice>
+          <orig>trocar</orig>
+          <reg>trochar</reg>
+        </choice> was introduced below the angle of the scapula, between the eleventh and twelfth
+        ribs, and evacuated half a gallon of bloody serum. On examining the lungs, the track of the
+        bullet was found lined with spicul&#230; of bone from the comminuted rib. There was local
+        pneumonia of the upper lobe, with the usual evidence of pleuritis; copious effusion of
+        serum, and extensive exudations of lymph. No other lesions were discovered, and death
+        occurred from the traumatic pleuritis and its consequent effusion. The accompanying wood cut
+          (<hi rend="initialcap">F</hi>IG. 279) gives some idea of the course of the ball. It was
+        drawn from a wet preparation forwarded to <name type="hospital" key="431">the Museum</name>
+        by <name type="person" key="200">Assistant Surgeon W. Thomson</name>, <name
+          type="organization" key="190">U. S. A.</name>, then in charge of <name type="hospital"
+          key="162">Douglas Hospital</name>. </p>
+
+      <figure><graphic url="cww.001489.001"/><head>
+        <hi rend="initialcap">F</hi>IG. 279.&#8212;Preparation of portion of the upper lobe of the
+        left lung, showing the track of a conoidal musket ball, which is attached. <hi rend="italic"
+          >Spec</hi>. 1678, Sect. I, A. M. M.</head></figure>
+
+    </body>
+  </text>
+</TEI>

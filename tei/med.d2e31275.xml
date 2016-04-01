@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d2e31275">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">O'Leary, D.</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+       <idno>med.d2e31275</idno>
+       <authority>Civil War Washington</authority>
+       <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor>
+       <name>Center for Digital Research in the Humanities</name>
+       <address><addrLine>319 Love Library</addrLine>
+       <addrLine>University of Nebraska–Lincoln</addrLine>
+       <addrLine>Lincoln, NE 68588-4100</addrLine>
+       <addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+    </distributor>
+    <date>2011</date>
+    <availability>
+        <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+         republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+         law, requires express written consent from the editors and advance notification of the
+         publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+ <persName xml:id="kw">Kenneth Winkle</persName> 
+     <persName xml:id="mb">Matthew Bosley</persName>
+     <persName xml:id="tw">Trevor Wilke</persName>
+     <persName xml:id="kk">Kourtney Klein</persName>
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl>
+     <title level="j">The Medical and Surgical History of the War of the Rebellion. (1861-65.)</title>
+     <pubPlace>Washington, DC</pubPlace>
+     <publisher>Government Printing Office</publisher>
+     <biblScope type="part">Part 2</biblScope>
+     <biblScope type="volume">Volume 2</biblScope>
+     <date when="1876">1876</date>
+     <biblScope type="page">924</biblScope>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+       <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+      <keywords scheme="#medsurg">
+       <term>wounds and injuries of the upper extremities</term>
+       <term>wounds and operations in the forearm</term>
+       <term>shot wounds of the forearm</term> 
+       <term>shot fractures of the forearm</term>
+       <term>shot fractures of the forearm treated by expectation</term> 
+       <term>fractures involving both bones of the forearm</term>
+       <term>fatal cases of shot fracture of the ulna and radius</term>
+       <term>ball entered middle third of forearm, comminuted radius and ulna, passed up arm to elbow, arrested at bifurcation of brachial artery</term> 
+       <term>hand and lower third of the forearm were cold, no pulse at wrist</term>
+       <term>elbow to chest dark-red mottled color</term>
+       <term>bones of forearm extensively comminuted</term>
+       <term>bullet compressed bifurcation of brachial artery and accompanying veins</term>
+       <term>extravasated blood in subcutaneous tissue</term> 
+       <term>longitudinal fracture of ulna extending along entire length</term>       
+       <term>erysipelas</term>    
+       <term>autopsy performed</term>
+     </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+ <change who="#kw" when="2014-05">blessed</change>
+   <change who="#kk" when="2014-01-17">added figure encoding</change>
+   <change who="#mb" when="2012-07-16">additional proofing of transcription and encoding, identified keyword terms</change>
+   <change who="#tw" when="2011-02-22">checked OCR; added minimal mark-up for personal names, place names, and dates</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>   
+   <p><hi rend="initialcap">C</hi>ASE 1864.&#8212;<name type="person" key="xxx">Private D. O'Leary</name>, <name type="organization" key="xxx">Co. K, 15th New Jersey</name>, aged 29 years, was wounded at <name type="BATTLE" key="10">Chancellorsville</name>, <date type="injury" when="1863-05-03">May 3, 1863</date>.  <date type="admit" when="1863-05-08">Five days afterward</date> he was admitted to <name type="hospital" key="162">Douglas Hospital</name>, Washington, where he was attended by <name type="person">Assistant Surgeon C. C. Lee</name>, <name type="organization" key="190">U. S. A.</name>, who made the following report of the case:  &#34;A conoidal ball entered the middle third of the right forearm, comminuted the radius and ulna, and, passing up the arm to the elbow, was arrested at the bifurcation of the brachial artery, upon which it was found lying when admitted to <name type="hospital" key="162">this hospital</name>. The patient was in a state of collapse, with dry tongue and fluttering pulse; the right arm was immensely swollen, and from the elbow to the chest was of a dark-red mottled color, somewhat resembling diffused erysipelas; the hand and lower third of the forearm were cold, puffy, and &#339;dematous, but not discolored to the same extent. No pulse was perceptible at the wrist. A wineglass of brandy, with small quantities of morphia, was given every three hours. On the day after his admission, the erysipelatous redness had spread from the arm to the chest and down the right side as far as the ilium; and on the anterior surface of both thighs, along the lines of the lymphatics, a similar discoloration was observed. It also began to assume a darker color, more closely resembling the eruption of scurvy than the light-red hue of erysipelas. A wineglass of milk-punch and of beef essence was administered on this day every alternate hour.  May 10th, eggnog was substituted for the milk-punch. The patient, in spite of all the stimulants he could take, was beginning to sink. In addition to his prostration, singultus and vomiting came on, for which two drops of creasote was given in emulsion every hour.  He sank exhausted, on <date type="death" when="1863-05-11">May 11th</date>, the third day after entering the hospital. He had no fever from the first, and complained of very little pain when the arm or chest was handled.  At an autopsy, made <date type="autopsy" when="1863-05-11">ten hours after death</date>, the bones of the forearm were found extensively comminuted, as already stated, and the bullet, which was much bent and distorted, was compressing the bifurcation of the brachial artery and the accompanying veins. This pressure was undoubtedly the cause of the &#339;dematous and semi-gangrenous condition of the hand, but it offered no clue to the remarkable change of color of the skin. The latter was mainly due to extravasated blood in the subcutaneous tissue, which was tough and brawny; no phlebitis could be detected, and all the viscera were sound.&#34;  <name type="person" key="200">Assistant Surgeon W. Thomson</name>, <name type="organization" key="190">U. S. A.</name>, in charge of the hospital, who contributed the specimen (<hi rend="initialcap">F</hi>IG. 665), remarked, in addition to the above: &#34;There was no evidence of py&#230;mia or phlebitis, and indeed nothing to account for the singular and very extensive discoloration of the skin. The most remarkable fact was this livid hue of so great an extent of the surface, not erysipelatous, entirely unaffected by pressure and hence petechial in its character, and resembling an effusion into or beneath the skin of the coloring matter of the blood.&#34;  The specimen consists of the upper half of the right ulna and superior extremity of the radius, and the lowest third of the humerus, with the battered ball lodging in the ulna just below the coronoid process. The ulna presents a longitudinal fracture extending along the entire length of the specimen.</p> 
+   
+   <figure>
+    <graphic url="cww.001727.001" />
+    <head><hi rend="initialcap">F</hi>IG. 665.&#8212;Ulna and radius comminuted by a conical ball.    <hi rend="italic">Spec</hi>. 1252.</head>
+   </figure>
+   
+  </body>
+ </text>
+</TEI>

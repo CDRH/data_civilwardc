@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d2e35008">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Zilch, George</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+    <idno>med.d2e35008</idno>
+    <authority>Civil War Washington</authority>
+    <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor>
+     <name>Center for Digital Research in the Humanities</name>
+     <address><addrLine>319 Love Library</addrLine>
+       <addrLine>University of Nebraska–Lincoln</addrLine>
+       <addrLine>Lincoln, NE 68588-4100</addrLine>
+       <addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+    </distributor>
+    <date>2011</date>
+    <availability>
+     <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+      republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+      law, requires express written consent from the editors and advance notification of the
+      publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: <persName xml:id="ajh">AJ Howell</persName>
+     <persName xml:id="el">Elizabeth Lorang</persName>
+     <persName xml:id="sb">Stacey Berry</persName>
+     <persName xml:id="et">Elisabeth Tracey</persName>
+     <persName xml:id="ss">Sarah Synovec</persName>
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl>
+     <title level="j">The Medical and Surgical History of the War of the Rebellion.
+      (1861-65.)</title>
+     <pubPlace>Washington, DC</pubPlace><publisher>Government Printing Office</publisher>
+     <biblScope type="part">Part 3</biblScope>
+     <biblScope type="volume">Volume 2</biblScope>
+     <date when="1883">1883</date>
+     <biblScope type="page">840-841</biblScope>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+     <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <keywords scheme="#medsurg">
+     <term>wounds and complications</term>
+     <term>hospital gangrene</term>
+     <term>leg amputated at upper third</term>
+     <term>bullet wound</term>
+     <term>stumped slowly closed by granulation</term>
+     <term>ulcer on face of stump</term>
+     <term>feverish, inclined to nausea</term>
+     <term>tendency to diarrh&#339;a and perspiration</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change who="#ajh" when="2013-02-18">additional proofing of transcription and encoding, edited
+    and added keyword terms, added figures</change>
+   <change who="#el" when="2011-05-11">case text extracted and transformed from larger file</change>
+   <change who="#sb" when="2011-06-04">Enrich Encoding, Edit and validate</change>
+   <change who="#sb" when="2011-01-28">Validated File</change>
+   <change who="#ss" when="2008-09-22">initial checking of OCR text; encoded P5 Encoding</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>In <date type="injury" when="1863-02">February, 1863</date>, a number of cases of hospital
+    gangrene occurred at the <name type="hospital" key="162">Douglas Hospital</name>, Washington, D.
+    C., and were observed by <name type="person" key="200">Assistant Surgeon William Thomson</name>,
+     <name type="organization" key="190">U. S. A.</name>, who, in a special report to the Surgeon
+    General, gives the following interesting account of the pathology and treatment of the cases. In
+    several instances later information has been added to the cases cited by <name type="person"
+     key="200">Dr. Thomson</name>: <!--<ref xml:id="n01" target="#n48" n="1" /> --></p>
+
+   <p>"On the 26th of December, 1862, about two hundred wounded from the battle of <name
+     type="BATTLE" key="251">Fredericksburg</name> were received into the <name type="hospital"
+     key="162">Douglas Hospital</name>.</p>
+   <p>CASE IX.&#8212;<name type="person" key="xxx">George Zilch (Zuelch)</name>. Sergeant, <name
+     type="organization" key="xxx">Co. K, 7th New York</name>, aged 25 years, had his left leg
+    amputated at its upper third for a bullet wound received at <name type="battle" key="251"
+     >Fredericksburg</name>, <date type="injury" when="1862-12-13">December 13, 1862</date>. He was
+    admitted to <name type="hospital" key="162">Douglas Hospital</name>
+    <date type="admit" when="1862-12-26">December 26th</date>, and placed in ward No. 5. The stump
+    had closed slowly by granulation until there remained an ulcer as large as a half dime on its
+    face. April 14, 1863, this ulcer was inflamed around its edges and covered with a white
+    pultaceous slough; there was no constitutional disturbance, and the patient was allowed to
+    remain on his crutches. The ulcer was cauterized with nitric acid and dressed with solution
+    sodre chlorinatse. 18th : The ulceration and areola are both enlarged, and the slough, yet very
+    tough, is thicker. Acid was again used locally. 21st: He is feverish and inclined to nausea; his
+    pulse 120, skin hot. and tongue thickly coated. The ulcer is extending in depth, and he was
+    removed to the gangrene ward. 22d: The solution of bromine was applied to the sore after
+    cleansing the surface as much as possible of the tenacious slough. His general condition was
+    unfavorable, and there was a tendency to diarrh&#339;a and perspiration. Internally he took
+    muriatic acid, with extra diet and stimulants. 24th: Bromine was again applied to the surface
+    and used in the form of vapor. The ulcer was now three inches in diameter, irregularly circular
+    in form, with ragged, everted, and thickened edges, and surrounded by a purple areola. The
+    slough was one inch in thickness, and resisted the action of the bromine. 26th: The sore is
+    looking better; it has been disinfected since the first application of bromine, and the
+    constitutional symptoms are better. 27th : A pointing in oil was made to-day by <name type="person" key="xxx">Surgeon
+     Brinton's</name> direction, which would be pronounced a good representation of hospital gangrene. 28th:
+    The slough is much thinner to-day, and the granulations are showing the thin gray covering.
+    29th: The sore is much better, is becoming covered with granulations, and has lost almost
+    entirely its specific appearance. There is no constitutional disturbance, no fever, no headache,
+    the tongue is cleaning oft , and there is a return of the appetite. The bromine vapor was
+    discontinued, and sol. sod. chlorinat. substituted. 30th : The livid areola has been changing
+    daily in hue under the bromine treatment, has now entirely disappeared, and the sore is
+    perfectly healthy. May 6th: He is still improving, and is taking tonics and nutrients. 20th:
+    The sore is reduced to half its original size and is now cicatrizing rapidly. 24th: There is
+    now a surface as large as a penny unhealed; health is very good; he is about the ward on
+    crutches, and is no longer considered an interesting case. This man steadily improved; recovered
+    with a good stump, and was finally sent to <name type="place">New York</name> to be mustered out of service. He was
+    discharged <date type="servicedischarge" when="1863-05-08">May 8, 1863</date>, and died <date
+     type="death" when="1878-07-02">July 2, 1878</date>, of valvular disease of the heart and
+    cardiac asthma.</p>
+
+   <p>We have in this case another instance in which the acid, locally used, proved useless, and in
+    which the solution of bromine caused an immediate improvement. It was found necessary to apply
+    the caustic solution to the ulcer three times, owing to the thickness of the slough, which was
+    too closely attached to be removed by spatula or forceps. Its action here seemed to correct the
+    fetor at once, to check the molecular death, and to change the hue of the areola, by causing a
+    more healthy action in the capillaries. The gnawing burning pain was relieved, and the patient
+    was able to sleep in comfort. The absorption of the virus produced in the ulcer was prevented by
+    its destruction, and the nervous system quickly regained its tone.</p>
+
+  </body>
+ </text>
+</TEI>

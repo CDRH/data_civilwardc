@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e11422">
+        <teiHeader>
+                <fileDesc>
+                        <titleStmt>
+                                <title level="m" type="main">Johnson, Luman A.</title>
+                                <title level="m" type="sub">a machine readable transcription</title>
+                                <principal>Susan C. Lawrence</principal>
+                                <principal>Kenneth M. Price</principal>
+                                <principal>Kenneth J. Winkle</principal>
+                        </titleStmt>
+                        <editionStmt>
+                                <edition>
+                                        <date>2011</date>
+                                </edition>
+                        </editionStmt>
+                        <publicationStmt>
+                                <idno>med.d1e11428</idno>
+                                <authority>Civil War Washington</authority>
+                                <publisher>University of Nebraska–Lincoln</publisher>
+                                <distributor>
+                                        <name>Center for Digital Research in the Humanities</name>
+                                        <address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+                                </distributor>
+                                <date>2011</date>
+                                <availability>
+                                        <p>Copyright © 2011 by University of Nebraska–Lincoln, all
+                                                rights reserved. Redistribution or republication in
+                                                any medium, except as allowed under the Fair Use
+                                                provisions of U.S. copyright law, requires express
+                                                written consent from the editors and advance
+                                                notification of the publisher, the University of
+                                                Nebraska–Lincoln.</p>
+                                </availability>
+                        </publicationStmt>
+                        <notesStmt>
+                                <note type="project">The following are responsible for particular readings or for changes to this file, as noted: 
+                                        <persName xml:id="mb">Matthew Bosley</persName>
+                                        <persName xml:id="el">Elizabeth Lorang</persName>
+                                        <persName xml:id="sb">Stacey Berry</persName>
+                                        <persName xml:id="et">Elisabeth Tracey</persName>
+                                </note>
+                        </notesStmt>
+                        <sourceDesc>
+                                <bibl>
+                                        <title level="j">The Medical and Surgical History of the War of the Rebellion</title>
+                                        <pubPlace>Washington, DC</pubPlace>
+                                        <publisher>Government Printing Office</publisher>
+                                        <biblScope type="part">Part 3</biblScope>
+                                        <biblScope type="volume">Volume 1</biblScope>
+                                        <date when="1888">1888</date>
+                                        <biblScope type="page">813</biblScope>
+                                </bibl>
+                        </sourceDesc>
+                </fileDesc>
+                <encodingDesc>
+                        <classDecl>
+                                <taxonomy xml:id="medsurg">
+                                        <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+                                </taxonomy>
+                        </classDecl>
+                </encodingDesc>
+                <profileDesc>
+                        <textClass>
+                                <keywords scheme="#medsurg">
+                                        <term>diseases attributed to non-miasmatic exposures</term>
+                                        <term>diseases of the respiratory organs</term>
+                                        <term>pleurisy</term><term>diseases attributed to non-miasmatic exposures</term>
+                                        <term>diseases of the respiratory organs</term>
+                                        <term>pleurisy</term>
+                                        <term>pleurisies of the right side</term> 
+                                        <term>effused serum or adhesion from plastic exudation was mainly confined to the right side</term>                                        
+                                        <term>post-mortem examination</term>
+                                        <term>admitted with typhoid pneumonia</term>
+                                        <term>pleural sac contained bloody serum</term>
+                                        <term>both lungs studded with tubercles</term>  
+                                        <term>surfaces of pericardium firmly adherent</term>
+                                        <term>heart studded with granulations resembling tubercle immediately beneath pericardium</term>
+                                        <term>tubercles appeared in or beneath pericardium</term>
+                                        <term>spleen contained tubercle-like bodies</term>
+                                </keywords>
+                        </textClass>
+                </profileDesc>
+                <revisionDesc>
+                        <change who="#mb" when="2013-03-13">additional proofing of transcription and encoding, edited and added keyword terms</change>
+                        <change who="#mb" when="2011-07-12">additional proofing of transcription and encoding</change>
+                        <change who="#el" when="2011-05-11">case text extracted and transformed from larger file</change>
+                        <change who="#sb" when="2011-02-23">Encoding and Proofing</change>
+                        <change who="#et" when="2009-12-01">Initial Checking OCR Text to PDF file,</change>
+                </revisionDesc>
+        </teiHeader>
+        <text>
+                <body>                        
+                        <p> <hi rend="initialcap">C</hi>ASE 19.&#8212;<name type="person">Private Luman A. Johnson</name>, <name type="organization">Co. H, 4th N. Y.
+                                Heavy Art'y</name>; age 22; was admitted from the <name type="organization" key="377">Army of the
+                                        Potomac</name> <date type="admit" when="1864-11-07">Nov. 7, 1864</date>, with typhoid pneumonia, and died
+                                <date type="death" when="1864-12-08">December 8</date>.  <hi rend="italic">Post-mortem</hi> examination: Body much emaciated.
+                                        The left pleural sac contained a few ounces of bloody serum,
+                                        the membrane being firm, opaque and thickened by deposits
+                                        of lymph; the right cavity was obliterated by firm fibrinous
+                                        adhesions; both lungs were studded with tubercles. The
+                                        opposed surfaces of the pericardium were so firmly adherent
+                                        that it was almost impossible to separate them;
+                                        the external surface of the heart was studded with minute
+                                        granulations resembling tubercle, which did not penetrate
+                                        the cardiac substance, but appeared to be in or
+                                        immediately beneath the pericardium. The spleen, ten
+                                        ounces, contained minute yellowish-white tubercle-like
+                                        bodies. The liver, forty-eight ounces, was very light in
+                                        color; the kidneys appeared to be normal. The mucous
+                                        membrane of the intestines was much congested.&#8212;<hi rend="italic"><name type="person" key="246">Act. Ass't Surgeon H. M. Dean</name>, <name type="hospital" key="176">Lincoln Hospital</name>, Washington, D. C.</hi> </p>                        
+                </body>
+        </text>
+</TEI>

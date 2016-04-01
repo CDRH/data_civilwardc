@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e2181">
+        <teiHeader>
+                <fileDesc>
+                        <titleStmt>
+                                <title level="m" type="main">Snuley, D. P.</title>
+                                <title level="m" type="sub">a machine readable transcription</title>
+                                <principal>Susan C. Lawrence</principal>
+                                <principal>Kenneth M. Price</principal>
+                                <principal>Kenneth J. Winkle</principal>
+                        </titleStmt>
+                        <editionStmt>
+                                <edition>
+                                        <date>2011</date>
+                                </edition>
+                        </editionStmt>
+                        <publicationStmt>
+                                <idno>med.d1e2181</idno>
+                                <authority>Civil War Washington</authority>
+                                <publisher>University of Nebraska–Lincoln</publisher>
+                                <distributor>
+                                        <name>Center for Digital Research in the Humanities</name>
+                                        <address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+                                </distributor>
+                                <date>2011</date>
+                                <availability>
+                                        <p>Copyright © 2011 by University of Nebraska–Lincoln, all
+                                                rights reserved. Redistribution or republication in
+                                                any medium, except as allowed under the Fair Use
+                                                provisions of U.S. copyright law, requires express
+                                                written consent from the editors and advance
+                                                notification of the publisher, the University of
+                                                Nebraska–Lincoln.</p>
+                                </availability>
+                        </publicationStmt>
+                        <notesStmt>
+                                <note type="project">The following are responsible for particular
+                                        readings or for changes to this file, as noted:
+                                        <persName xml:id="ajh">AJ Howell</persName>
+                                        <persName xml:id="mb">Matthew Bosley</persName>
+                                        <persName xml:id="el">Elizabeth Lorang</persName>
+                                        <persName xml:id="sb">Stacey Berry</persName>
+                                        <persName xml:id="et">Elisabeth Tracey</persName>
+                                </note>
+                        </notesStmt>
+                        <sourceDesc>
+                                <bibl>
+                                        <title level="j">The Medical and Surgical History of the War
+                                                of the Rebellion</title>
+                                        <pubPlace>Washington, DC</pubPlace>
+                                        <publisher>Government Printing Office</publisher>
+                                        <biblScope type="part">Part 3</biblScope>
+                                        <biblScope type="volume">Volume 1</biblScope>
+                                        <date when="1888">1888</date>
+                                        <biblScope type="page">221</biblScope>
+                                </bibl>
+                        </sourceDesc>
+                </fileDesc>
+                <encodingDesc>
+                        <classDecl>
+                                <taxonomy xml:id="medsurg">
+                                        <bibl>Medical and Surgical History of the War of the
+                                                Rebellion</bibl>
+                                </taxonomy>
+                        </classDecl>
+                </encodingDesc>
+                <profileDesc>
+                        <textClass>
+                                <keywords scheme="#medsurg">
+                                        <term>clinical records</term>
+                                        <term>continued fevers</term>
+                                        <term>perspirations</term> 
+                                        <term>tenderness in iliac region</term>
+                                        <term> tympanites</term> 
+                                        <term>nocturnal delirium</term> 
+                                        <term>typhoid fever</term>
+                                        <term>typho-malarial and typhoid fevers</term>
+                                        <term>Seminary Hospital cases</term>
+                                        <term>typhoid cases</term>
+                                 </keywords>
+                        </textClass>
+                </profileDesc>
+                <revisionDesc>
+                        <change who="#ajh" when="2013-05-24">additional proofing of transcription and encoding, identified keyword terms</change>
+                        <change who="#mb" when="2011-10-17">additional proofing of transcription and encoding</change>
+                        <change who="#mb" when="2011-06-01">additional proofing of transcription and encoding</change>
+                        <change who="#el" when="2011-05-11">case text extracted and transformed from
+                                larger file</change>
+                        <change who="#sb" when="2011-02-23">Encoding and Proofing</change>
+                        <change who="#et" when="2009-12-01">Initial Checking OCR Text to PDF file,
+                        </change>
+                </revisionDesc>
+        </teiHeader>
+        <text>
+                <body xml:id="ch4.sc2.3.00020">
+                        
+                        <p><hi rend="initialcap">C</hi>ASE 20.&#8212;<hi rend="italic"
+                                                >Record commencing about third week; perspirations
+                                                accompanying subsidence of the
+                                                fever.</hi>&#8212;<name type="person" key="479"
+                                                >Private D. P. Snuley</name>, <name
+                                                type="organization" key="625">Co. F. 11th Pa.
+                                                Cav.</name>; age 19; was said to have contracted
+                                        diarrh&#339;a on <date type="injury" when="1861-09-09">Sept. 9, 1861</date>, and was admitted on <date type="admit" when="1861-09-30">the 30th</date>.
+                                        Diagnosis&#8212;typhoid fever. He was weak, had a slight
+                                        cough, a diarrh&#339;a yielding two stools daily and but
+                                        little appetite; pulse 100 and quick; skin natural; tongue
+                                        moist, but coated in the centre. Next day he was dull; had
+                                        some headache and tenderness in the right iliac region. On
+                                        October 2d the tongue was dry, brown and fissured in the
+                                        centre. No change was noted on the 3d, but on the 4th his
+                                        pupils were dilated; he was delirious and had a wild look.
+                                        The delirium abated somewhat on the 6th; the tongue became
+                                        dry, red and fissured by the 10th, but the appetite improved
+                                        and the bowels continued unmoved for several days, the pulse
+                                        beating 75 to 80 per minute, although there was some
+                                        abdominal tenderness and tympanites, with flushed cheeks,
+                                        injected eyes and nocturnal delirium. The patient perspired
+                                        during the night, and next morning the tongue was red at the
+                                        tip and edges and coated white in the centre; there was less
+                                        delirium and the appetite was good. On the 12th the tongue
+                                        was moist and clean but for a yellowish streak on each side
+                                        of the centre. One stool was obtained on the 14th, after the
+                                        administration of two compound cathartic pills. The tongue
+                                        on the 17th was moist and clean but for some white patches.
+                                        The patient steadily improved and was returned to duty <date
+                                                type="duty" when="1861-11-13">November 13</date>.
+                                </p>
+                        
+                </body>
+        </text>
+</TEI>

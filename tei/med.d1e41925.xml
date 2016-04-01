@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e41925">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Leonard, Jacob</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+    <idno>med.d1e41925</idno>
+    <authority>Civil War Washington</authority>
+    <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor>
+     <name>Center for Digital Research in the Humanities</name>
+     <address><addrLine>319 Love Library</addrLine>
+       <addrLine>University of Nebraska–Lincoln</addrLine>
+       <addrLine>Lincoln, NE 68588-4100</addrLine>
+       <addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+    </distributor>
+    <date>2011</date>
+    <availability>
+     <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+      republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+      law, requires express written consent from the editors and advance notification of the
+      publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+ <persName xml:id="kmp">Kenneth M. Price</persName> <persName xml:id="ajh">AJ Howell</persName>
+     <persName xml:id="mb">Matthew Bosley</persName>
+     <persName xml:id="el">Elizabeth Lorang</persName>
+     <persName xml:id="sb">Stacey Berry</persName>
+     <persName xml:id="ao">Alyssa Olson</persName>
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl>
+     <title level="j">The Medical and Surgical History of the War of the Rebellion.
+      (1861-65.)</title>
+     <pubPlace>Washington, DC</pubPlace>
+     <publisher>Government Printing Office</publisher>
+     <biblScope type="part">Part 2</biblScope>
+     <biblScope type="volume">Volume 1</biblScope>
+     <date when="1879">1879</date>
+     <biblScope type="page">517</biblScope>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+     <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <keywords scheme="#medsurg">
+     <term>diarrh&#339;a and dysentery</term>
+     <term>remarks on the pathology and treatment of diarrh&#339;a and dysentery</term>
+     <term>chronic dysentery</term>
+     <term>post mortem appearances in chronic dysentery</term>
+     <term>morbid anatomy</term>
+     <term>chronic inflammation of the intestines accompanied by follicular or other ulcers</term>
+     <term>autopsy performed</term>
+     <term>chronic diarrh&#339;a</term>
+     <term>dropsy</term>
+     <term>ascites and anasarca</term>
+     <term>scorbutic diarrh&#339;a</term>
+     <term>mucous surface of colon has numerous ulcers, mere points to tenth of an inch
+      diameter</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+ <change who="#kmp" when="2014-05">blessed</change>
+   <change who="#ajh" when="2013-08-21">added figure encoding</change>
+   <change who="#mb" when="2013-02-01">additional proofing of transcription and encoding, identified
+    keyword terms</change>
+   <change who="#el" when="2010-11-05">case text extracted and transformed from larger file</change>
+   <change who="#sb" when="2010-05-01">enrich encoding, proof and edit</change>
+   <change who="#ao" when="2008-10-02">encoding and editing</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>The chromo plate facing page 518 represents a thickened an&#230;mic-looking portion of colon,
+    on the surface of which there are a great number of small follicular ulcers. The following is a
+    memorandum of the case from which the specimen was taken:</p>
+   <p><hi rend="initialcap">C</hi>ASE 901.&#8212;<name type="person" key="xxx">Private Jacob
+     Leonard</name>, <name type="organization" key="xxx">27th New York battery</name>, while doing
+    duty with his regiment in the <name type="organization" key="377">army of the Potomac</name>,
+    was attacked with chronic diarrh&#339;a, which was treated with variable success for several
+    months. He finally broke down, and was admitted, <date type="admit" when="1864-08-28">August 28,
+     1864</date>, to the field hospital of the first division, 9th army corps, where the diagnosis
+    recorded was "dropsy," which had by this time become a prominent feature of the case, for, when
+    the patient was transferred, <date type="transfer" when="1864-08-31">August 31st</date>, to the
+    depot hospital of the 9th corps, <name type="place">City Point, Virginia</name>, the diagnosis
+    there entered on the register was "ascites and anasarca." <date type="transfer"
+     when="1864-09-08">September 8th</date>, <name type="person" key="xxx">Leonard</name> was sent
+    north, and <date type="admit" when="1864-09-09">next day</date> was admitted to <name
+     type="hospital" key="162">Douglas hospital</name>, Washington, D. C., where the diagnosis
+    recorded was "scorbutic diarrh&#339;a." He died <date type="death" when="1864-09-16">September
+     16th</date>. No further details of the case, or of the appearances observed during the autopsy,
+    have been recorded.</p>
+   <p>The plate is a reproduction of a water-color drawing made at the <name type="hospital"
+     key="xxx">Museum</name> by <name type="person" key="xxx">Mr. H. Faber</name> immediately after
+    the autopsy. The mucous surface of the colon is of a pale cream color, with pale-bluish and
+    reddish patches. The ulcers are numerous, and vary in size from mere points to the tenth of an
+    inch in diameter. Nearly the whole of the colon was brought to <name type="hospital" key="431"
+     >the Museum</name>, and the piece fairly represents the condition of all parts of it.</p>
+   <figure>
+    <graphic url="cww.001507.001"/>
+    <head><hi rend="initialcap">P</hi>LATE XXIX. FOLLICULAR ULCERS OF THE COLON.&#8212;CHRONIC
+     DYSENTERY. No. 206. Medical Section. The colon is thickened and an&#230;mic.</head>
+   </figure>
+  </body>
+ </text>
+</TEI>

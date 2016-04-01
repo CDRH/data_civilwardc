@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e11300">
+        <teiHeader>
+                <fileDesc>
+                        <titleStmt>
+                                <title level="m" type="main">Little, William</title>
+                                <title level="m" type="sub">a machine readable transcription</title>
+                                <principal>Susan C. Lawrence</principal>
+                                <principal>Kenneth M. Price</principal>
+                                <principal>Kenneth J. Winkle</principal>
+                        </titleStmt>
+                        <editionStmt>
+                                <edition>
+                                        <date>2011</date>
+                                </edition>
+                        </editionStmt>
+                        <publicationStmt>
+                                <idno>med.d1e11300</idno>
+                                <authority>Civil War Washington</authority>
+                                <publisher>University of Nebraska–Lincoln</publisher>
+                                <distributor>
+                                        <name>Center for Digital Research in the Humanities</name>
+                                        <address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+                                </distributor>
+                                <date>2011</date>
+                                <availability>
+                                        <p>Copyright © 2011 by University of Nebraska–Lincoln, all
+                                                rights reserved. Redistribution or republication in
+                                                any medium, except as allowed under the Fair Use
+                                                provisions of U.S. copyright law, requires express
+                                                written consent from the editors and advance
+                                                notification of the publisher, the University of
+                                                Nebraska–Lincoln.</p>
+                                </availability>
+                        </publicationStmt>
+                        <notesStmt>
+                                <note type="project">The following are responsible for particular readings or for changes to this file, as noted: 
+                                        <persName xml:id="mb">Matthew Bosley</persName>
+                                        <persName xml:id="el">Elizabeth Lorang</persName>
+                                        <persName xml:id="sb">Stacey Berry</persName>
+                                        <persName xml:id="et">Elisabeth Tracey</persName>
+                                </note>
+                        </notesStmt>
+                        <sourceDesc>
+                                <bibl>
+                                        <title level="j">The Medical and Surgical History of the War of the Rebellion</title>
+                                        <pubPlace>Washington, DC</pubPlace>
+                                        <publisher>Government Printing Office</publisher>
+                                        <biblScope type="part">Part 3</biblScope>
+                                        <biblScope type="volume">Volume 1</biblScope>
+                                        <date when="1888">1888</date>
+                                        <biblScope type="page">790</biblScope>
+                                </bibl>
+                        </sourceDesc>
+                </fileDesc>
+                <encodingDesc>
+                        <classDecl>
+                                <taxonomy xml:id="medsurg">
+                                        <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+                                </taxonomy>
+                        </classDecl>
+                </encodingDesc>
+                <profileDesc>
+                        <textClass>
+                                <keywords scheme="#medsurg">
+                                        <term>diseases attributed to non-miasmatic exposures</term>
+                                        <term>diseases of the respiratory organs</term>
+                                        <term>pneumonia</term>
+                                        <term>post-mortem records of catarrhal cases</term> 
+                                        <term>lobar pneumonias</term>
+                                        <term>secondary pneumonias</term>
+                                        <term>cases associated with the specific poison of measles, presenting little of interest beyond a specification of the appearance and locality of the affected parts of the lung</term>
+                                        <term>admitted with measles</term>
+                                        <term>transferred with pleuro-pneumonia</term>
+                                        <term>teeth covered with sordes</term>
+                                        <term>expectoration of dark muco-purulent matter</term>
+                                        <term>dyspn&#339;a, surface of body bluish</term>
+                                        <term>pleural cavity contained serum mixed with lymph</term>
+                                        <term>both lungs congested posteriorly, abscess in lower lobe of one</term>                                        
+                                </keywords>
+                        </textClass>
+                </profileDesc>
+                <revisionDesc>
+                        <change who="#mb" when="2013-05-02">additional proofing of transcription and encoding, edited and added keyword terms</change>
+                        <change who="#mb" when="2013-03-11">additional proofing of transcription and encoding, edited and added keyword terms</change>
+                        <change who="#mb" when="2011-07-11">additional proofing of transcription and encoding</change>
+                        <change who="#el" when="2011-05-11">case text extracted and transformed from larger file</change>
+                        <change who="#sb" when="2011-02-23">Encoding and Proofing</change>
+                        <change who="#et" when="2009-12-01">Initial Checking OCR Text to PDF file,</change>
+                </revisionDesc>
+        </teiHeader>
+        <text>
+                <body>                        
+                        <p> <hi rend="initialcap">C</hi>ASE 56.&#8212;<name type="person">Corp'l William Little</name>, <name type="organization">Co. E, 31st Me.</name>; age 18; was admitted <date type="transfer" when="1864-05-07">May 7, 1864</date>, with pleuro-pneumonia.  He had been treated in the <name type="hospital" key="199">Wolfe street hospital</name>, <name type="place" key="#Alexandria">Alexandria, Va.</name>, from <date type="admit" when="1864-04-27">April 27</date> as a case of measles.  On admission he was delirious and very restless; his skin hot and dry, tongue dry and covered with a brownish coat; teeth covered with sordes; he had cough, dyspn&#339;a and a profuse expectoration
+                                         of dark-colored muco-purulent matter. The dyspn&#339;a increased
+                                        and the surface of the body became bluish.  Death occurred on
+                                <date type="death" when="1864-05-08">the 8th</date>.   <hi rend="italic">Post-mortem</hi> examination: Suggillation
+                                        posteriorly and discoloration in each iliac fossa. The left
+                                        pleural cavity contained twenty ounces of serum mixed with
+                                        lymph; the lungs were much congested posteriorly, portions
+                                        of their tissue being heavier than water; there was a small
+                                        abscess in the lower lobe of the left lung. The heart,
+                                        liver, kidneys and intestines were apparently healthy.&#8212;<hi rend="italic"><name type="person" key="xx">Act. Ass't Surgeon Charles Carter</name>, <name type="hospital" key="xx">Turner's
+                                                Lane Hospital, Philadelphia</name>, Pa.</hi> </p>                        
+                </body>
+        </text>
+</TEI>

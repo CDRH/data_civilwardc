@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="cww.01067">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>                
+                <title level="m" type="main">Petition of Dennis Thomas, 22 July 1862</title>
+                <title level="m" type="main">Evidence Relating to the Petition of Dennis Thomas, 22 July 1862</title>
+                <title level="m" type="sub">a machine readable transcription</title>
+                <principal>Susan C. Lawrence</principal>
+                <principal>Kenneth M. Price</principal>
+                <principal>Kenneth J. Winkle</principal>
+                <respStmt>
+                    <resp>transcription and encoding</resp>
+<name xml:id="kp">Kenneth M. Price</name>
+                    <name xml:id="jc">Janel Cayer</name>                   
+                    <name xml:id="km">Kevin McMullen</name>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2012</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <idno>cww.01067</idno>
+                <distributor>Civil War Washington</distributor>
+                <publisher>University of Nebraska–Lincoln</publisher>
+                <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>P.O. Box 884100</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+            </address>
+                <date>2012</date>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+                        <p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License (http://creativecommons.org/licenses/by-nc-sa/3.0/). Derivatives must be credited to Civil War Washington, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl xml:id="rg21">
+                    <title>Petition of Dennis Thomas, 22 July 1862</title>                   
+                    <date when="1862-07-22">July 22, 1862</date>
+                    <idno>Microcopy 433, Reel 3</idno>                
+                    <orgName>National Archives and Records Administration</orgName>
+                    <relatedItem type="original">
+                        <bibl>
+                            <title>Petition of Dennis Thomas, 22 July 1862</title>                            
+                            <date when="1862-07-22">July 22, 1862</date>
+                            <idno type="rg">Record Group 21</idno>
+                            <orgName>Records of the District Courts of the United States, 1685&#8211;2004, National Archives and Records Administration</orgName>
+                            <orgName>Emancipation Records, compiled 1862&#8211;1863</orgName>
+                            <note type="project">Within the National Archives' Archival Description Catalog, see ARC Identifier 4314547 / MLR Number NC-2 33 (http://arcweb.archives.gov).</note>
+                        </bibl>
+                    </relatedItem>
+                    <note type="project">Our transcription is based on a digital image of a microfilm copy of the original.</note>
+                </bibl>
+                
+                <bibl xml:id="rg217">
+                    <title>Evidence Relating to the Petition of Dennis Thomas, 22 July 1862</title>                   
+                    <date when="1862-07-22">July 22, 1862</date>
+                    <idno>Microcopy 520, Reel 6</idno>
+                    <orgName>National Archives and Records Administration</orgName>
+                    <relatedItem type="original">
+                        <bibl>
+                            <title>Evidence Relating to the Petition of Dennis Thomas, 22 July 1862</title>                            
+                            <date when="1862-07-22">July 22, 1862</date>
+                            <idno type="rg">Record Group 217.6.5</idno>
+                            <orgName>Records of the Accounting Officers of the Department of the Treasury, 1775&#8211;1978, National Archives and Records Administration</orgName>
+                            <note type="project">Within the National Archives' Archival Description Catalog, see ARC Identifier 4644616 / MLR Number A1 347 (http://arcweb.archives.gov).</note>
+                        </bibl>
+                    </relatedItem>
+                    <note type="project">Our transcription is based on a digital image of a microfilm copy of the original.</note>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <particDesc>
+                <person role="owner">
+                    <persName>Franilla Turner</persName>
+                </person>
+                <person role="petitioner-slave">
+                    <persName>Dennis Thomas</persName>
+                </person>
+            </particDesc>
+        </profileDesc>
+        <revisionDesc>
+<change when="2013-02-28" who="#jc">blessed</change>
+<change when="2013-02-13" who="#kp">blessed</change>
+            <change when="2012-10-04" who="#jc">checked</change>
+            <change when="2012-07-27" who="#km">transcribed, encoded</change>
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            <!-- Begins with the text of the petition. -->
+            <pb xml:id="leaf001r" facs="cww.01067.001.jpg"/>            
+            
+            <div1 type="petition" subtype="mixed" corresp="#rg21">                
+                <fw>[Sold by W. H. &#38; O. H. Morrison, Booksellers.</fw>                
+                <div2 type="document" subtype="mixed">
+                   
+                    <opener>
+                        <salute><hi rend="smallcaps">To <persName>John A. Smith</persName></hi>, <choice><abbr><hi rend="smallcaps">Esq.</hi></abbr><expan>Esquire</expan></choice>, <hi rend="italic">Clerk of the Circuit Court of the <placeName>District of Columbia</placeName></hi></salute>
+                        <salute><hi rend="smallcaps">Sir</hi>:</salute>
+                    </opener>
+                    
+                    <p>You will please file and record in your office the annexed statement and schedule, under the provisions of an act of Congress, entitled "An act for the relief of certain persons held to service or labor in the <placeName>District of Columbia</placeName>," approved <date when="1862-04-16">April 16th, 1862</date> <seg type="handwritten">and also under an act amendatory thereto approved <date when="1862-07-12">July 12, 1862</date></seg></p>
+                    <table>
+                        <row>
+                            <cell>Name.</cell>
+                            <cell>Age.</cell>
+                            <cell>Sex.</cell>
+                            <cell>Particular Description.</cell>
+                        </row>
+                        <row rend="handwritten">
+                            <cell><persName>Dennis Thomas</persName></cell>
+                            <cell>30</cell>
+                            <cell>Male</cell>
+                            <cell>Dark Copper Color or black about five feet &amp; 5 &amp; &#189; inches in <choice><sic>hight</sic><corr>height</corr></choice> Formerly &amp; until the <date when="1862-04-16">16th of April</date> held to service or labor by Mrs <persName><unclear reason="illegible" cert="low" resp="#km">Franilla</unclear> Turner</persName></cell>
+                        </row>
+                    </table>
+                    
+                    <p>The persons mentioned in the foregoing schedule <del>were</del> <seg type="handwritten">was</seg>, by reason of African descent and acquired title, <seg type="handwritten">the</seg> property, <del>and by</del> <seg type="handwritten">of &amp;</seg> held to service and labor in the <placeName>District of Columbia</placeName> <seg type="handwritten">by Mrs <persName>F Turner</persName></seg> at the time the act of Congress above cited was approved, the benefit of which is hereby claimed. <seg type="handwritten">by the deponent or Petitioner who has resided in the said <placeName>District of Columbia</placeName> during the last ten years &amp; more &amp; still resides therein&#8212;that during the time aforesaid he has been employed by <persName>John A. Smith</persName> <choice><abbr>Esq.</abbr><expan>Esquire</expan></choice> above named upon his farm&#8212;that this applicant was held to service or labor by Mrs <persName><unclear reason="illegible" cert="low" resp="#km">Franilla</unclear> Turner</persName> who neglected to file her schedule as provided in said act &amp; the undersigned files this schedule in lieu thereof under said act &amp; in accordance with an act amendatory thereto approved <date when="1862-07-12">July 12, 1862</date></seg></p>
+                    
+                    <closer rend="handwritten">
+                        <signed>his X mark <persName>Dennis Thomas</persName></signed>
+                        <signed>In presence of<lb/>
+                            <persName>Geo E H Day</persName></signed>
+                    </closer>
+                </div2>
+                
+                <pb xml:id="leaf001v" facs="cww.01067.002.jpg"/>
+                
+                <div2 type="cover" subtype="handwritten">
+                    <div3 type="section">
+                        <ab><choice><abbr>pd</abbr><expan>paid</expan></choice></ab>
+                        <ab><persName>Dennis Thomas</persName></ab>
+                        <ab>Petition</ab>
+                        <ab>Filed <date when="1862-07-22">22nd July 1862</date>.</ab>
+                        <ab>Recorded in Manumission Record No. 2 folios 117 &amp; 118</ab>
+                    </div3>
+                    
+                    <div3 type="section">                        
+                        <ab>Certificate issued to <persName>Dennis Thomas</persName> <date when="1862-07-22">July 22d 1862</date> <choice><abbr>Idfd</abbr><expan>Identified</expan></choice> <persName>Day</persName>.</ab>
+                    </div3>                       
+                    
+                    <pb sameAs="leaf001v" facs="cww.01067.003.jpg"/>
+                    <div3 type="section">
+                        <dateline><placeName>Washington City</placeName> <date when="1862-07-22">July 22 <choice><sic>1860</sic><corr>1862</corr></choice></date></dateline>
+                        <p>The Commissioners being satisfied on the testimony of <persName>John B. King</persName> and <persName>John A. Smith</persName> of the truth of the statement in the within schedule, order that the same be returned to the clerk of the Circuit Court of the <placeName>District of Columbia</placeName></p>
+                        <closer>
+                            <signed><persName>Wm. R. Woodward</persName><lb/>
+                                Clerk</signed>
+                        </closer>
+                    </div3>                   
+                </div2>
+            </div1>
+            
+            <!-- Evidence pertaining to the case begins here. -->
+                        
+            <pb xml:id="leaf002r" facs="cww.01067.004.jpg"/>
+            <div1 type="evidence" corresp="#rg217" subtype="handwritten">
+                
+                
+                <div2 type="procedural">
+                    <ab><persName>Dennis Thomas</persName></ab>
+                    <ab>Servant of <persName><unclear reason="illegible" cert="medium" resp="#km">Franilla</unclear> Turner</persName></ab>
+                </div2>
+                
+                <div2 type="testimony">
+                    <ab><persName>John B. King</persName></ab>
+                    <ab>Have had servant in my possession working for Mr <persName>John A. Smith</persName> on his farm since last March. understood him as servant of Mrs <persName>Turner</persName> of near Bellsville. have known him here for at least 10 years.</ab>
+                </div2>
+                
+                <div2 type="testimony">
+                    <ab><persName>John A. Smith</persName> known servant for last ten years paid wages to different masters. paid last wages to Mrs. <persName>Turner</persName>.</ab>
+                </div2>
+                
+                <pb xml:id="leaf003v" facs="cww.01067.005.jpg"/>
+                <div2 type="cover">
+                    <ab><persName>Dennis Thomas</persName></ab>
+                    <ab><date when="1862-07-22">July 22d 1862</date></ab>
+                </div2>
+            </div1>            
+        </body>
+    </text>
+</TEI>
+                
+                
+                
+                
+                
+

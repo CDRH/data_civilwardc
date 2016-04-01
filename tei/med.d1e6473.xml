@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e6473">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Duryea, William</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     <date>2011</date>
+    </edition>
+   </editionStmt>
+   <publicationStmt>
+    <idno>med.d1e6473</idno>
+    <authority>Civil War Washington</authority>
+    <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor>
+     <name>Center for Digital Research in the Humanities</name>
+     <address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+    </distributor>
+    <date>2011</date>
+    <availability>
+     <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+      republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+      law, requires express written consent from the editors and advance notification of the
+      publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+     <persName xml:id="mb">Matthew Bosley</persName>
+     <persName xml:id="el">Elizabeth Lorang</persName>
+     <persName xml:id="sb">Stacey Berry</persName>
+     <persName xml:id="et">Elisabeth Tracey</persName></note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl>
+     <title level="j">The Medical and Surgical History of the War of the Rebellion</title>
+     <pubPlace>Washington, DC</pubPlace>
+     <publisher>Government Printing Office</publisher>
+     <biblScope type="part">Part 3</biblScope>
+     <biblScope type="volume">Volume 1</biblScope>
+     <date when="1888">1888</date>
+     <biblScope type="page">344</biblScope>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+     <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <keywords scheme="#medsurg">
+     <term>post-mortem records</term>
+     <term>continued fevers</term>
+     <term>typhoid fever</term>
+     <term>condition of Peyer's patches not stated, ileum or small intestine ulcerated and large intestine affected</term>
+     <term>injuries of the upper extremities</term>
+     <term>gunshot flesh wound of forearm</term>
+     <term>large ulcers of lower ileum</term>
+     <term>large ulcers surrounded by red areol&#230; and penetrating to the muscular coat near ileo-c&#230;cal valve</term>
+     <term>solitary follicles slightly enlarged in mucous membrane of large intestine</term>
+     <term>mesenteric glands enlarged</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change who="#mb" when="2013-02-15">additional proofing of transcription and encoding, edited and added keyword terms</change>
+   <change who="#mb" when="2011-10-06">additional proofing of transcription and encoding</change>
+   <change who="#mb" when="2011-06-15">additional proofing of transcription and encoding</change>
+   <change who="#el" when="2011-05-11">case text extracted and transformed from larger file</change>
+   <change who="#sb" when="2011-02-23">Encoding and Proofing</change>
+   <change who="#et" when="2009-12-01">Initial Checking OCR Text to PDF file, </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body xml:id="ch4.sc4.1.00048">
+   <p><hi rend="initialcap">C</hi>ASE 48.&#8212;<name type="person" key="xxx">Private William Duryea</name>, <name type="organization" key="89">Co. I, 109th N. Y.</name>; age 21; was admitted <date type="admit" when="1864-05-14">May 14, 1864</date>, with a gunshot flesh wound of the left forearm, which healed kindly.  On <date type="furlough" when="1864-05-18">the 18th</date> he was furloughed for thirty days, and on his return, June 18, he was placed on light hospital duty, his wound unfitting him as yet for active service.  On <date type="injury" when="1864-07-28">July 28</date> he was taken with headache and
+    nocturnal delirium; his pulse 100 and his tongue coated with a dark fur. A few days later some
+    difficulty of breathing was noted, with slight diarrh&#339;a and twitchings of the tendons, the
+    delirium having meanwhile become constant.  His condition remained unchanged, but for progressive
+    weakness, until <date type="death" when="1864-08-07">August 7</date>, when he died.  <hi
+     rend="italic">Post-mortem</hi> examination <date type="autopsy" when="1864-08-07">six hours after death</date>: The lungs were congested. The
+    heart was pale and contained no clots. The liver was of normal size but congested; the gall
+    bladder filled with viscid bile; the spleen dark-colored, slightly enlarged and congested; the
+    kidneys normal. The mucous membrane of the stomach was light-colored, thickened and softened.
+    The lining membrane of the small intestine was soft and somewhat thickened down to the lower
+    portion of the ileum, in which there were large ulcers at different points some distance from
+    each other; near the ileo-c&#230;cal valve it was greatly thickened and congested, and presented very
+    large ulcers surrounded by red areol&#230; and penetrating to the muscular coat. The mucous membrane
+    of the large intestine was greatly congested and its solitary follicles slightly enlarged. The
+    mesenteric glands were enlarged.  [<hi rend="italic">Specimen</hi> 352, Med. Sect., <name
+     type="hospital" key="431">Army Medical Museum</name>, ulceration of ileum, was obtained from
+    this case.]&#8212;<hi rend="italic"><name type="person" key="589">Act. Ass't Surg. O. P. Sweet</name>,
+      <name type="hospital" key="167">Carver Hospital</name>, Washington, D. C.</hi></p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e41078">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Walker, David</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+    <idno>med.d1e41078</idno>
+       <authority>Civil War Washington</authority>
+       <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor>
+       <name>Center for Digital Research in the Humanities</name>
+       <address><addrLine>319 Love Library</addrLine>
+       <addrLine>University of Nebraska–Lincoln</addrLine>
+       <addrLine>Lincoln, NE 68588-4100</addrLine>
+       <addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+    </distributor>
+    <date>2011</date>
+    <availability>
+        <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+         republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+         law, requires express written consent from the editors and advance notification of the
+         publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+     <persName xml:id="mb">Matthew Bosley</persName>
+     <persName xml:id="el">Elizabeth Lorang</persName>
+     <persName xml:id="sb">Stacey Berry</persName>
+     <persName xml:id="ao">Alyssa Olson</persName>
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl>
+     <title level="j">The Medical and Surgical History of the War of the Rebellion. (1861-65.)</title>
+     <pubPlace>Washington, DC</pubPlace>
+     <publisher>Government Printing Office</publisher>
+     <biblScope type="part">Part 2</biblScope>
+     <biblScope type="volume">Volume 1</biblScope>
+     <date when="1879">1879</date>
+     <biblScope type="page">169</biblScope>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+       <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+      <keywords scheme="#medsurg">
+       <term>diarrh&#339;a and dysentery</term>
+       <term>fatal cases of diarrh&#339;a and dysentery, with accounts of the morbid appearances observed</term>
+       <term>from Lincoln Hospital, Washington, D. C.</term>
+       <term>chronic diarrh&#339;a</term>
+       <term>high fever, sordes on teeth, half unconscious</term>
+       <term>lymphatic glands at bifurcation of trachea large, soft, greenish, and contained calcareous matter</term>
+       <term>upper lobe of lung congested at apex, lower lobe &#339;dematous</term>
+       <term>Peyer's patches not swollen but dingy stone color, central dots of pigment in follicles composing patches</term>       
+       <term>autopsy performed</term>       
+     </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change who="#mb" when="2012-11-12">additional proofing of transcription and encoding, identified keyword terms</change>
+   <change who="#el" when="2010-11-05">case text extracted and transformed from larger file</change>
+   <change who="#sb" when="2010-05-01">enrich encoding, proof and edit</change>
+   <change who="#ao" when="2008-10-02">encoding and editing</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body> 
+   <p><hi rend="initialcap">C</hi>ASE 366.&#8212;<name type="person" key="xxx">Private David Walker</name>, <name type="organization" key="xxx">company D, 49th Pennsylvania volunteers</name>; admitted <date type="admit" when="1863-07-30">July 30, 1863</date>.  Chronic diarrh&#339;a.  Had suffered from this disease since <date type="injury" when="1863-04-12">April 12th</date>. When admitted he was very much emaciated, and had considerable fever; tongue flabby and furred; pulse 64; bowels loose; stools thin, and varying from four to twelve daily; appetite poor.  August 7th: Is very restless; has no appetite; suffers much from thirst; tongue parched; has high fever, and some sordes on the teeth; lies in a half unconscious state.  August 8th: The stools are involuntary, quite watery, and produce green stains on linen.  Died, <date type="death" when="1863-08-09">August 9th</date>.  <hi rend="italic">Autopsy</hi> <date type="autopsy" when="1863-08-10">twenty-three hours after death</date>: Body emaciated; rigor mortis well marked; apparent age 23; height five feet nine inches. The brain was moderately firm, and weighed forty-nine ounces and a half. The mucous membrane of the trachea was of a greenish color, probably due to post mortem change. The lymphatic glands at the bifurcation of the trachea were very large, soft, greenish, and contained some calcareous matter. The right lung weighed seventeen ounces and a half; the posterior portion of its upper and middle lobes and the whole of the lower lobe were engorged with venous blood; the left lung weighed fourteen ounces; its upper lobe was congested at the apex, healthy elsewhere; the lower lobe was &#339;dematous, purplish exteriorly; on section a large quantity of thin watery fluid poured out. The heart weighed six ounces and a half; its valves were healthy; it contained no clots; the endocardium was purplish. The liver was very flabby; it weighed forty-three ounces; the gall-bladder contained four drachms of bile. The spleen was firm and of a mahogany color; it weighed six ounces. The pancreas was healthy, and weighed three ounces. The cortical substance of the kidneys was pale, the pyramids purple, the pelves bluish; the kidneys weighed five ounces and a half each. The walls of the small intestine were quite thin; its mucous membrane presented a dark-purple congested appearance; Peyer's patches, which were not swollen, were of a dingy stone color, with central dots of pigment in the follicles composing the patches. The large intestine presented nothing remarkable except in its lower portion, where the mucous membrane was of a deep crimson color; there was no ulceration or exudation of lymph on its surface.&#8212;<name type="person" key="245">Assistant Surgeon Harrison Allen</name>, <name type="organization" key="190">U. S. A.</name>&#8432;</p>
+   <p>&#8432; September 14, 1864, <name type="person" key="245">Dr. Allen</name> presented to the Pathological Society of Philadelphia a brief &#34;<hi rend="italic">Synopsis of Autopsies made at <name type="hospital" key="176">Lincoln General Hospital</name></hi>,&#34; to which the reader is referred.&#8212;(Proceedings of the Pathological Society of Philadelphia, in the American Journal of the Medical Sciences, January, 1865, page 133.)  In this paper he analyzes the appearances observed in forty-one cases of diarrh&#339;a and dysentery, thirty-five of fever, twenty-one of pneumonia, and five of diphtheria. The notes of <name type="person" key="245">Dr. Allen</name>'s autopsies, from which the accounts here presented have been condensed, were not contained in the case-books of <name type="hospital" key="176">Lincoln hospital</name> turned in to the <name type="organization" key="xxx">Surgeon General's Office</name> at the close of the war, but have since been copied into them from the originals, loaned for the purpose.</p>
+  </body>
+ </text>
+</TEI>

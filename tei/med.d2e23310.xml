@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d2e23310">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Boynton, H. E.</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+    <idno>med.d2e23310</idno>
+    <authority>Civil War Washington</authority>
+    <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor><name>Center for Digital Research in the
+     Humanities</name><address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address></distributor>
+    <date>2011</date>
+    <availability>
+     <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+      republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+      law, requires express written consent from the editors and advance notification of the
+      publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+     <persName xml:id="mb">Matthew Bosley</persName>
+     <persName xml:id="el">Elizabeth Lorang</persName>
+     <persName xml:id="sb">Stacey Berry</persName>
+     <persName xml:id="et">Elisabeth Tracey</persName>
+     <persName xml:id="ss">Sarah Synovec</persName>
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title level="j">The Medical and Surgical History of the War of the Rebellion.
+      (1861-65.)</title><pubPlace>Washington, DC</pubPlace><publisher>Government Printing
+      Office</publisher><biblScope type="part">Part 3</biblScope><biblScope type="volume">Volume
+      2</biblScope><date when="1883">1883</date><biblScope type="page">598-599</biblScope></bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+     <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <keywords scheme="#medsurg">
+     <term>wounds and injuries of the lower extremities</term> 
+     <term>wounds and operations at the ankle joint</term>
+     <term>shot fractures of the bones of the ankle joint</term>
+     <term>amputations at the ankle joint</term> 
+     <term>primary amputations at the ankle joint</term> 
+     <term>fatal primary amputations at the ankle joint</term> 
+     <term>shot fracture of left foot and right arm</term>
+     <term>amputated foot by Syme's method</term>
+     <term>excised middle third of fractured humerus</term>     
+    </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change who="#mb" when="2012-06-14">additional proofing of transcription and encoding, identified keyword terms</change>
+   <change who="#el" when="2011-05-11">case text extracted and transformed from larger file</change>
+   <change who="#sb" when="2011-06-04">Enrich Encoding, Edit and validate</change>
+   <change who="#sb" when="2011-01-28">Validated File</change>
+   <change who="#ss" when="2008-09-22">initial checking of OCR text; encoded P5 Encoding</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>   
+    <p><hi rend="initialcap">C</hi>ASE 876.&#8212;<name type="person" key="1388">Private H. E.
+      Boynton</name>, <name type="organization" key="150">Co. L, 1st Massachusetts Heavy
+      Artillery</name>, aged 18 years, received a shot fracture of the left foot and of the right
+     arm, at <name type="BATTLE" key="3"><choice><orig>Spottsylvania</orig><reg>Spotsylvania</reg></choice></name>, <date type="injury" when="1864-05-19">May 19, 1864</date>, and was admitted to the
+     field hospital of the 1st division, Second Corps. <name type="person" key="1389">Surgeon J. W. Wishart</name>, <name type="organization" key="230">140th Pennsylvania</name>, reported that he amputated the foot by Syme's method on <date type="operation" when="1864-05-19">the day of the injury</date>. <date type="transfer" when="1864-05-22">Three days afterwards</date> the wounded man entered <name type="hospital" key="172">Emory
+      Hospital</name> at Washington, where <name type="person" key="884">Surgeon N. R.
+      Moseley</name>, <name type="organization" key="132">U. S. V.</name>, excised two inches of the middle third of
+     the fractured humerus. The case resulted fatally on <date type="death" when="1864-06-22">June
+      22, 1864</date>.  The excised portion of the humerus (<hi rend="italic">Spec</hi>. 2322) and
+     most of the bone of the amputated foot (<hi rend="italic">Spec</hi>. 828) have been contributed
+     to <name type="hospital" key="431">the Museum</name> by the respective operators. The latter
+     specimen consists of the metatarsus, scaphoid, cuboid, and outer two cuneiform bones, and shows a large, battered, conoidal bullet occupying the place of the inner
+     cuneiform, the bones adjacent to it being fractured.</p>
+   
+  </body>
+ </text>
+</TEI>

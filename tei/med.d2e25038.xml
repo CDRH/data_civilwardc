@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d2e25038">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Gleason, J.</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+    <idno>med.d2e25038</idno>
+    <authority>Civil War Washington</authority>
+    <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor>
+     <name>Center for Digital Research in the Humanities</name>
+     <address><addrLine>319 Love Library</addrLine>
+       <addrLine>University of Nebraska–Lincoln</addrLine>
+       <addrLine>Lincoln, NE 68588-4100</addrLine>
+       <addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+    </distributor>
+    <date>2011</date>
+    <availability>
+     <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+      republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+      law, requires express written consent from the editors and advance notification of the
+      publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+ <persName xml:id="kmp">Kenneth M. Price</persName> <persName xml:id="ajh">AJ Howell</persName>
+     <persName xml:id="mb">Matthew Bosley</persName>
+     <persName xml:id="el">Elizabeth Lorang</persName>
+     <persName xml:id="sb">Stacey Berry</persName>
+     <persName xml:id="et">Elisabeth Tracey</persName>
+     <persName xml:id="ss">Sarah Synovec</persName>
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl>
+     <title level="j">The Medical and Surgical History of the War of the Rebellion.
+      (1861-65.)</title>
+     <pubPlace>Washington, DC</pubPlace><publisher>Government Printing Office</publisher>
+     <biblScope type="part">Part 3</biblScope>
+     <biblScope type="volume">Volume 2</biblScope>
+     <date when="1883">1883</date>
+     <biblScope type="page">720</biblScope>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+     <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <keywords scheme="#medsurg">
+     <term>wounds and complications</term>
+     <term>shot wounds</term>
+     <term>effect of missiles and projectiles on bony structure</term>
+     <term>penetrations of bone</term>
+     <term>accidentally wounded</term>
+     <term>ball entered upper third of thigh anteriorly</term>
+     <term>py&#230;mia</term>
+     <term>marked icterus</term>
+     <term>secondary h&#230;morrhage from femoral artery</term>
+     <term>whole body deeply tinged with bile</term>
+     <term>wandering delirium for days icteroid hue</term>
+     <term>knee and hip joints disorganized</term>
+     <term>immense abscess of thigh</term>
+     <term>impacted pistol ball penetrated base of neck of femur and lodged in cancellated
+      portion</term>
+     <term>missile lodged in cancellated structure of femur, no fissuring or splintering
+      observed</term>
+     <term>autopsy performed</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+ <change who="#kmp" when="2014-05">blessed</change>
+   <change who="#ajh" when="2013-08-23">added figure encoding</change>
+   <change who="#mb" when="2013-02-11">additional proofing of transcription and encoding, edited and
+    added keyword terms, added figures</change>
+   <change who="#el" when="2011-05-11">case text extracted and transformed from larger file</change>
+   <change who="#sb" when="2011-06-04">Enrich Encoding, Edit and validate</change>
+   <change who="#sb" when="2011-01-28">Validated File</change>
+   <change who="#ss" when="2008-09-22">Sarah Synovec initial checking of OCR text; encoded P5
+    Encoding</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p><hi rend="initialcap">C</hi>ASE 1065.&#8212;<name type="person" key="1466">Private J.
+     Gleason</name>, <name type="organization" key="552">Co. B, 2d New Hampshire Heavy
+     Artillery</name>, aged 18 years, was accidentally wounded at <name type="place"
+     key="#Washington">Washington</name>, <date type="injury" when="1864-05-10">May 10, 1864</date>,
+    by a pistol ball, which entered the upper third of the left thigh anteriorly. He was conveyed to
+     <name type="hospital" key="162">Douglas Hospital</name>, where py&#230;mia subsequently
+    appeared, the first chill occurring on May 26th, and being preceded by marked icterus. The ball
+    could not be discovered. Secondary h&#230;morrhage from the femoral artery to the amount of
+    fourteen ounces occurred on May 31st, and to the amount of fifteen ounces on the next day, still
+    further adding to the patient's depression. His death occurred on <date type="death"
+     when="1864-06-01">June 1, 1864</date>. At the autopsy the whole body was found to be deeply
+    tinged with bile. No metastatic abscesses were discovered. The knee joint was found to be
+    disorganized, as was also the hip joint on the wounded side, and a large dark-colored cavity
+    existed in the injured thigh, which had been an immense abscess. No secondary deposits were seen
+    in the lungs. On dividing the femur longitudinally, the medullary canal and cancellated portion
+    of the bone were found in a diseased condition. The medulla was softened, of a dark red color,
+    and in the early stage of that change which is seen in well-marked cases of py&#230;mia after
+    amputation, when this material is found of a dark green color and in a state of advanced
+    decomposition. Before death the patient had wandering delirium for days, profuse perspiration,
+    chills, a rapid feeble pulse, and icteroid hue. The upper third of the injured thigh,
+    longitudinally bisected, and showing an impacted pistol ball, which penetrated the base of the
+    neck and lodged in the cancellated portion, constitutes specimen 3540 of the <hi rend="italic"
+     >Surgical Section</hi> of the <name type="hospital" key="431">Museum</name> (<hi
+     rend="initialcap">F</hi>IGS. 393, 394), and were contributed, with the history of the case, by
+     <name type="person" key="200">Assistant Surgeon W. Thomson</name>, <name type="organization"
+     key="190">U. S. A.</name></p>
+   <figure>
+    <graphic url="cww.001664.001"/>
+    <head><hi rend="initialcap">F</hi>IG. 393.&#8212;Outer view of upper third of left femur. <hi
+      rend="italic">Spec</hi>. 3540.</head>
+   </figure>
+   <figure>
+    <graphic url="cww.001665.001"/>
+    <head><hi rend="initialcap">F</hi>IG. 394.&#8212;View of <hi rend="italic">Spec</hi>. 3540,
+     after bisection.</head>
+   </figure>
+  </body>
+ </text>
+</TEI>

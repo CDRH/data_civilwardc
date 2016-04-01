@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e41674">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Clements, Calvin</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+    <idno>med.d1e41674</idno>
+       <authority>Civil War Washington</authority>
+       <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor>
+       <name>Center for Digital Research in the Humanities</name>
+       <address><addrLine>319 Love Library</addrLine>
+       <addrLine>University of Nebraska–Lincoln</addrLine>
+       <addrLine>Lincoln, NE 68588-4100</addrLine>
+       <addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+    </distributor>
+    <date>2011</date>
+    <availability>
+        <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+         republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+         law, requires express written consent from the editors and advance notification of the
+         publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+     <persName xml:id="mb">Matthew Bosley</persName>     
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl>
+     <title level="j">The Medical and Surgical History of the War of the Rebellion. (1861-65.)</title>
+     <pubPlace>Washington, DC</pubPlace>
+     <publisher>Government Printing Office</publisher>
+     <biblScope type="part">Part 2</biblScope>
+     <biblScope type="volume">Volume 1</biblScope>
+     <date when="1879">1879</date>
+     <biblScope type="page">200-201</biblScope>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+       <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+      <keywords scheme="#medsurg">
+       <term>diarrh&#339;a and dysentery</term>
+       <term>fatal cases of diarrh&#339;a and dysentery, with accounts of the morbid appearances observed</term>
+       <term>from the Third Division of the Alexandria Hospital, Virginia</term>
+       <term>chronic diarrh&#339;a</term>
+       <term>fever, accompanied by cough and pain in right lung</term>
+       <term>sordes on teeth and lips</term>
+       <term>congestion of lungs, with difficulty breathing, dry hoarse cough, and pain across upper chest and over most of the right lung</term>
+       <term>middle commissure of brain absent</term>
+       <term>effusion beneath arachnoid over cerebral hemispheres</term>
+       <term>posterior cricoid cartilage necrosed and surrounded by pus</term>
+       <term>right bronchial glands greatly enlarged, one at root of right lung contained pus and calcareous matter</term>
+       <term>early stage of pneumonia</term>
+       <term>lower lobe of right lung infiltrated with miliary tubercles</term>
+       <term>enlarged Malpighian bodies</term>
+       <term>mesenteric glands enlarged</term>
+       <term>ileum slightly injected, pigmentary deposits in colon</term>
+       <term>enlarged bronchial glands</term>       
+       <term>autopsy performed</term>       
+     </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change who="#mb" when="2013-01-10">copied case from MSHWR, added proofing of transcription and encoding, identified keyword terms and figures</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body> 
+   <p>Case from the case-book of the <name type="hospital" key="501"><hi rend="initialcap">T</hi>HIRD <hi rend="initialcap">D</hi>IVISION</name> of the <name type="place" key="#Alexandria"><hi rend="initialcap">A</hi>LEXANDRIA</name> <hi rend="initialcap">H</hi>OSPITAL, <name type="person" key="134">Surgeon Edwin Bentley</name>, <name type="organization" key="132">U. S. V.</name>, in charge:</p>
+   <p><hi rend="initialcap">C</hi>ASE 525.&#8212;<name type="person" key="xxx">Private Calvin Clements</name>, <name type="organization" key="xxx">company C, 5th Pennsylvania heavy artillery</name>; age 19; admitted <date type="admit" when="1864-10-10">October 10, 1864</date>.  Chronic diarrh&#339;a.  He so far recovered as to be able to do the duties of an orderly in the office of the hospital. About <date type="injury" when="1864-11-01">the first of November</date> he was attacked by fever, accompanied by cough, and pain in the right lung. This was treated by a combination of alteratives, expectorants and opium, and a blister was applied to the chest. The fever assumed a low character, and sordes accumulated on the teeth and lips. A number of small superficial abscesses made the;r appearance on the chest and abdomen. Twenty-five or thirty of these were opened and discharged a thick white pus, after which convalescence set in, and he got well enough to be about the ward.  About <date type="injury" when="1864-12-10">December 10th</date> he was seized with sudden congestion of the lungs, the symptoms being difficulty in breathing, dry hoarse cough, pain across the upper portion of the chest and over most of the right lung. Stimulating expectorants and alteratives were administered, and counter-irritants applied, without benefit.  Died, <date type="death" when="1864-12-24">December 24th</date>, at 5 P. M.  <hi rend="italic">Autopsy:</hi> Body emaciated; mark of a blister on the right side. The brain was normal, except that the middle commissure was absent; some effusion was observed beneath the arachnoid over the cerebral hemispheres. Firm white clots were found in both sides of the heart. The posterior part of the cricoid cartilage was necrosed and surrounded by a collection of pus; this abscess had no apparent opening. The bronchial glands on the right side were greatly enlarged, and one of them, at the root of the right lung, contained pus and calcareous matter. The lower lobe of the right lung was infiltrated with miliary tubercles; the intervening lung-tissue was in the early stage of pneumonia, and its posterior surface coated with a little coagulable lymph; the rest of the right lung and the whole of the left lung appeared to be free from disease. The liver was large and pale. The spleen was small, and showed on section numerous white spots, supposed to be enlarged Malpighian bodies, but was otherwise of normal appearance. The mesenteric glands were enlarged. The ileum was slightly injected, and there were pigmentary deposits in the colon. The kidneys small, quite granular, their cortical substance yellow.&#8212;Acting Assistant Surgeon W. C. Miner.   [No. 467, Medical Section, <name type="hospital" key="431">Army Medical Museum</name>, is from this case.  The specimen consists of the larynx and trachea with the enlarged bronchial glands attached; the air passages are laid open posteriorly, the section passing through an abscess surrounding the cricoid cartilage, which is necrosed and lies free in the abscess-cavity.]</p>   
+  </body>
+ </text>
+</TEI>

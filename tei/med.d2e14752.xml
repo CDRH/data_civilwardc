@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d2e14752">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Reams, O. F.</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+       <idno>med.d2e14752</idno>
+       <authority>Civil War Washington</authority>
+       <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor>
+       <name>Center for Digital Research in the Humanities</name>
+       <address><addrLine>319 Love Library</addrLine>
+       <addrLine>University of Nebraska–Lincoln</addrLine>
+       <addrLine>Lincoln, NE 68588-4100</addrLine>
+       <addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+    </distributor>
+    <date>2011</date>
+    <availability>
+        <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+         republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+         law, requires express written consent from the editors and advance notification of the
+         publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+         <persName xml:id="mb">Matthew Bosley</persName>         
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl>
+        <title level="j">The Medical and Surgical History of the War of the Rebellion. (1861-65.)</title>
+        <pubPlace>Washington, DC</pubPlace>
+        <publisher>Government Printing Office</publisher>
+        <biblScope type="part">Part 3</biblScope>
+        <biblScope type="volume">Volume 2</biblScope>
+        <date when="1883">1883</date>
+        <biblScope type="page">363</biblScope>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+       <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+      <keywords scheme="#medsurg">
+       <term>wounds and injuries of the lower extremities</term> 
+       <term>wounds and injuries of the knee joint</term>
+       <term>punctured and incised wounds of the knee joint</term> 
+       <term>incised wounds of the knee joint</term>
+       <term>amputations in the thigh after incised wounds of the knee joint</term> 
+       <term>cut knee joint open with axe, chopping down tree in camp</term> 
+       <term>secondary h&#230;morrhage, femoral artery ligated</term>
+       <term>py&#230;mic chills</term>      
+       <term>autopsy performed</term>       
+     </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+       <change who="#mb" when="2012-05-24">additional case copied from MSHWR, performed proofing of copy and XML encoding, and key terms identified</change>  
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+
+   <p><hi rend="initialcap">C</hi>ASE 529.&#8212;<name type="person" key="xxx">Private O. F. Reams</name>, <name type="organization" key="xxx">Co. B, United States Engineers</name>, aged 23 years, accidentally cut his right knee joint
+    open with an axe while in the act of chopping down a tree in camp, on <date type="injury" when="1864-03-12">March 12, 1864</date>. He was admitted to hospital in <name type="place">Alexandria</name>, <date type="admit" when="1864-03-21">March 21st</date>. at which time there was but little suppuration, the external wound having partly healed by first intention,
+    so that a probe could not be made to enter the joint. The patient was doing very well and had a good appetite, and hopes were
+    entertained that the joint might be saved.  On April 12th, the limb was somewhat swollen and painful, and his appetite began to
+    fail.  On <date type="operation" when="1864-04-22">April 22d</date>, fluctuation was distinctly detected, when an opening was made and two ounces of pus escaped.  On <date type="operation" when="1864-04-24">April 24th</date>, the thigh was amputated in the upper third by lateral flaps, by <name type="person" key="134">Surgeon E. Bentley</name>, <name type="organization" key="132">U. S. V.</name>  The tissues below the point of amputation were found to be infiltrated with pus and badly disorganized. The patient reacted well, though not very promptly.  Py&#230;mic chills began <date type="injury" when="1864-04-26">two days afterwards</date>, and secondary h&#230;morrhage set in on <date type="operation" when="1864-04-28">April 28th</date>, when the femoral artery was ligated just below Poupart's ligament. The patient died from the effects of py&#230;mia, <date type="death" when="1864-05-01">May 1, 1864</date>. At the autopsy large quantities of serous fluid were found in the pleural cavities and a number of py&#230;mic abscesses in the left lung. One abscess was also discovered in the spleen. The latter organ, together with the bones of the amputated knee, were contributed to <name type="hospital" key="431">the Museum</name>, with the history, by <name type="person" key="134">the operator</name>, and constitute specimens 2253 and 2234 of the Surgical Section.</p>
+   
+  </body>
+ </text>
+</TEI>

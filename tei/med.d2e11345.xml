@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d2e11375">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Briot, C.</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+    <idno>med.d2e11375</idno>
+    <authority>Civil War Washington</authority>
+    <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor>
+     <name>Center for Digital Research in the Humanities</name>
+     <address><addrLine>319 Love Library</addrLine>
+       <addrLine>University of Nebraska–Lincoln</addrLine>
+       <addrLine>Lincoln, NE 68588-4100</addrLine>
+       <addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+    </distributor>
+    <date>2011</date>
+    <availability>
+     <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+      republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+      law, requires express written consent from the editors and advance notification of the
+      publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+ <persName xml:id="kmp">Kenneth M. Price</persName> <persName xml:id="ajh">AJ Howell</persName>
+     <persName xml:id="mb">Matthew Bosley</persName>
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl>
+     <title level="j">The Medical and Surgical History of the War of the Rebellion.
+      (1861-65.)</title>
+     <pubPlace>Washington, DC</pubPlace>
+     <publisher>Government Printing Office</publisher>
+     <biblScope type="part">Part 3</biblScope>
+     <biblScope type="volume">Volume 2</biblScope>
+     <date when="1883">1883</date>
+     <biblScope type="page">243-244</biblScope>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+     <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <keywords scheme="#medsurg">
+     <term>wounds and injuries of the lower extremities</term>
+     <term>injuries of the shaft of the femur</term>
+     <term>amputations in the shaft of the femur</term>
+     <term>primary amputations in the shaft of the femur for shot injury</term>
+     <term>primary amputations in the lower third of the femur</term>
+     <term>recoveries after primary amputations in the lower third of the femur</term>
+     <term>ball entered external aspect of knee, passed through joint, and lodged</term>
+     <term>missile extracted from internal aspect of leg on the field</term>
+     <term>limb amputated at lower third of thigh</term>
+     <term>bone protruded from stump over an inch</term>
+     <term>sequestrum removed</term>
+     <term>tetanic pains, relieved by opium</term>
+     <term>unable to wear artificial limb, consequence of tenderness of stump</term>
+     <term>died of phthisis pulmonalis 14 years later</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+ <change who="#kmp" when="2014-05">blessed</change>
+   <change who="#ajh" when="2013-08-22">added figure encoding</change>
+   <change who="#mb" when="2012-05-16">additional case copied from MSHWR, performed proofing of copy
+    and XML encoding, and key terms identified</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+
+   <p><hi rend="initialcap">C</hi>ASE 450.&#8212;<name type="person" key="xxx">Private C.
+     Briot</name>, <name type="organization" key="xxx">Co. C, 39th New York</name>, aged 26 years,
+    was wounded in the left knee, at <name type="BATTLE" key="26">Bristoe Station</name>, <date
+     type="injury" when="1863-10-14">October 14, 1863</date>. He was conveyed to <name type="place"
+     >Alexandria</name> on <date type="admit" when="1863-10-15">the following day</date>, and
+    admitted to the <name type="hospital" key="186">First Division Hospital</name>, whence <name
+     type="person" key="xxx">Acting Assistant Surgeon C. W. Koechling</name> transmitted the
+    pathological specimen (<hi rend="initialcap">F</hi>IG. 185), with the following history:
+    &#34;The wound was caused by a mini&#233; ball entering the external aspect of the knee, passing
+    through the joint, and lodging. The missile was extracted from the internal aspect of the leg,
+    on the field, by <name type="person" key="xxx">the regimental surgeon</name>, and the limb was
+    amputated at the lower third of the thigh, by the circular method, on <date type="operation"
+     when="1863-10-16">October 16th</date>, by <name type="person" key="xxx">Acting Assistant
+     Surgeon N. Barnes</name>. The patient came under my care on October 26th, at which time the
+    bone protruded from the stump over an inch. For this gentle attraction of the integuments was
+    made by adhesive strips and kept up for a week, when, the patient suffering too much pain, it
+    was continued no longer, and a roller was applied from above downward and kept on until the bone
+    was nearly covered. The patient improved every day, there being but very little discharge, but
+    occasionally very severe pain in the stump. On <date type="operation" when="1864-02-08">February
+     8, 1864</date>, the accompanying sequestrum was removed. On <date type="injury"
+     when="1864-02-20">February 20th</date>, the patient was seized with tetanic pains, which,
+    though relieved by the free administration of opium, recurred every other day for a month. After
+    that period the patient did well, and was able to take exercise on crutches, the stump having
+    healed. On <date type="furlough" when="1864-05-09">May 9th</date>, the patient left the hospital
+    on furlough.&#34; He subsequently passed through different hospitals, and lastly entered De
+    Camp, <name type="place">David's Island, New York Harbor</name>. On <date
+     type="servicedischarge" when="1865-09-19">September 19, 1865</date>, the man was discharged
+    from service and pensioned. The upper portion of the bones of the leg of the amputated limb were
+    forwarded to <name type="hospital" key="431">the Museum</name> by <name type="person" key="xxx"
+     >the operator</name>, and are represented in <hi rend="initialcap">F</hi>IGURE 184, and a cast
+    of the stump was contributed by <name type="person" key="xxx">Acting Assistant Surgeon G. F.
+     Shrady</name>. (<hi rend="italic">Cat. Surg. Sect.</hi>, 1866, p. 548, <hi rend="italic"
+     >Spec</hi>. 1787.) The <name type="organization" key="xxx">New York City Examining Board</name>
+    certified, <date type="pension" when="1874-03-11">March 11, 1874</date>: &#34;The pensioner is
+    unable to wear an artificial limb in consequence of excessive tenderness of the stump, rendering
+    him unable to stand the pressure upon it. He has tried one several times, but it was so painful
+    that he could not wear it more than a few hours.&#34; This pensioner died November 12, 1877, of
+    phthisis pulmonalis. </p>
+   <figure>
+    <graphic url="cww.001587.001"/>
+    <head><hi rend="initialcap">F</hi>IG. 184.&#8212;Upper parts of bones of left leg; tuberosity of
+     tibia split off obliquely. <hi rend="italic">Spec</hi>. 2344.</head>
+   </figure>
+   <figure>
+    <graphic url="cww.001588.001"/>
+    <head><hi rend="initialcap">F</hi>IG. 185.&#8212;Sequestrum from stump of left femur. <hi
+      rend="italic">Spec</hi>. 3027.</head>
+   </figure>
+  </body>
+ </text>
+</TEI>

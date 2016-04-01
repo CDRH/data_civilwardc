@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e41197">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Foster, Greenleaf P.</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+    <idno>med.d1e41197</idno>
+       <authority>Civil War Washington</authority>
+       <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor>
+       <name>Center for Digital Research in the Humanities</name>
+       <address><addrLine>319 Love Library</addrLine>
+       <addrLine>University of Nebraska–Lincoln</addrLine>
+       <addrLine>Lincoln, NE 68588-4100</addrLine>
+       <addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+    </distributor>
+    <date>2011</date>
+    <availability>
+        <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+         republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+         law, requires express written consent from the editors and advance notification of the
+         publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+     <persName xml:id="mb">Matthew Bosley</persName>
+     <persName xml:id="el">Elizabeth Lorang</persName>
+     <persName xml:id="sb">Stacey Berry</persName>
+     <persName xml:id="ao">Alyssa Olson</persName>
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl>
+     <title level="j">The Medical and Surgical History of the War of the Rebellion. (1861-65.)</title>
+     <pubPlace>Washington, DC</pubPlace>
+     <publisher>Government Printing Office</publisher>
+     <biblScope type="part">Part 2</biblScope>
+     <biblScope type="volume">Volume 1</biblScope>
+     <date when="1879">1879</date>
+     <biblScope type="page">178</biblScope>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+       <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+      <keywords scheme="#medsurg">
+       <term>diarrh&#339;a and dysentery</term>
+       <term>fatal cases of diarrh&#339;a and dysentery, with accounts of the morbid appearances observed</term>
+       <term>from Lincoln Hospital, Washington, D. C.</term>
+       <term>chronic diarrh&#339;a</term>
+       <term>delirium tremens</term>      
+       <term>firm adhesions at apex of lung</term>
+       <term>pleural sac contained forty-eight ounces of serum</term>
+       <term>pericardium contained fluid</term>
+       <term>mucous membrane of large intestine of dirty light-bluish color</term>
+       <term>liver friable and capsule readily separated</term>      
+       <term>autopsy performed</term>       
+     </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change who="#mb" when="2012-11-19">additional proofing of transcription and encoding, identified keyword terms</change>
+   <change who="#el" when="2010-11-05">case text extracted and transformed from larger file</change>
+   <change who="#sb" when="2010-05-01">enrich encoding, proof and edit</change>
+   <change who="#ao" when="2008-10-02">encoding and editing</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body> 
+   <p>Case from the case-book of <name type="hospital" key="176"><hi rend="initialcap">L</hi>INCOLN <hi rend="initialcap">H</hi>OSPITAL</name>, Washington, D. C.; <name type="person" key="243">Surgeon J. Cooper McKee</name>, <name type="organization" key="190">U. S. A.</name>, in charge.</p>
+   <p><hi rend="initialcap">C</hi>ASE 399.&#8212;<name type="person" key="xxx">Private Greenleaf P. Foster</name>, <name type="organization" key="xxx">company K, 18th Massachusetts volunteers</name>; age 36; admitted from the field <date type="admit" when="1864-02-03">February 3, 1864</date>.  Chronic diarrh&#339;a.  Died, <date type="death" when="1864-03-04">March 4th</date>, of delirium tremens.  <hi rend="italic">Autopsy</hi> <date type="autopsy" when="1864-03-05">eighteen hours after death</date>: Height five feet six inches; rigor mortis well marked; body not much emaciated. The brain weighed forty-five ounces, and was apparently healthy; very little fluid was found in the ventricles. The lining membrane of the trachea was very much congested. There were numerous firm adhesions at the apex of the right lung; the lung weighed twenty-one ounces; it was very much congested throughout; in the posterior portion of its upper lobe there was a circumscribed patch about the size of a walnut, which was of a dark-mulberry color and sank in water; the left lung weighed twenty-one ounces; nearly the whole of its surface was coated by recent lymph, and the pleural sac contained forty-eight ounces of serum; the upper lobe of the left lung was congested, purple on section, and exuded a large amount of frothy fluid; the lower lobe was carnified. The pericardium contained an ounce and a half of fluid. The heart was apparently healthy, weight nine ounces; a large fibrinous clot was found in the right ventricle, and a very small venous clot in the left ventricle. The mucous membrane of the &#339;sophagus was very pale. The stomach was well distended; its mucous membrane very soft and of a dusky-brown color. The intestines were much distended with gas; the mucous membrane of the duodenum and jejunum was of a very light color, nearly white; for about a foot of the upper part of the ileum, and about two feet of the lower portion, the mucous membrane was of a pinkish hue; the mucous membrane of the large intestine was of a dirty light-bluish color. The liver weighed seventy-one ounces; it was very friable; its capsule readily separated; its color a little lighter than natural. The pancreas was healthy, weight three ounces. The spleen weighed five ounces, was very firm, and of a light color. Both kidneys were healthy; the right weighed six ounces, the left seven ounces.&#8212;<name type="person" key="246">Acting Assistant Surgeon H. M. Dean</name>.</p>
+  </body>
+ </text>
+</TEI>

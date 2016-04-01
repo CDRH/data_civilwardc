@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e8591">
+        <teiHeader>
+                <fileDesc>
+                        <titleStmt>
+                                <title level="m" type="main">Morrow, J. C.</title>
+                                <title level="m" type="sub">a machine readable transcription</title>
+                                <principal>Susan C. Lawrence</principal>
+                                <principal>Kenneth M. Price</principal>
+                                <principal>Kenneth J. Winkle</principal>
+                        </titleStmt>
+                        <editionStmt>
+                                <edition>
+                                        <date>2011</date>
+                                </edition>
+                        </editionStmt>
+                        <publicationStmt>
+                                <idno>med.d1e8591</idno>
+                                <authority>Civil War Washington</authority>
+                                <publisher>University of Nebraska–Lincoln</publisher>
+                                <distributor>
+                                        <name>Center for Digital Research in the Humanities</name>
+                                        <address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+                                </distributor>
+                                <date>2011</date>
+                                <availability>
+                                        <p>Copyright © 2011 by University of Nebraska–Lincoln, all
+                                                rights reserved. Redistribution or republication in
+                                                any medium, except as allowed under the Fair Use
+                                                provisions of U.S. copyright law, requires express
+                                                written consent from the editors and advance
+                                                notification of the publisher, the University of
+                                                Nebraska–Lincoln.</p>
+                                </availability>
+                        </publicationStmt>
+                        <notesStmt>
+                                <note type="project">The following are responsible for particular
+                                        readings or for changes to this file, as noted: 
+                                        <persName xml:id="mb">Matthew Bosley</persName>
+                                        <persName xml:id="el">Elizabeth Lorang</persName>
+                                        <persName xml:id="sb">Stacey Berry</persName>
+                                        <persName xml:id="et">Elisabeth Tracey</persName>
+                                </note>
+                        </notesStmt>
+                        <sourceDesc>
+                                <bibl>
+                                        <title level="j">The Medical and Surgical History of the War of the Rebellion</title>
+                                        <pubPlace>Washington, DC</pubPlace>
+                                        <publisher>Government Printing Office</publisher>
+                                        <biblScope type="part">Part 3</biblScope>
+                                        <biblScope type="volume">Volume 1</biblScope>
+                                        <date when="1888">1888</date>
+                                        <biblScope type="page">381</biblScope>
+                                </bibl>
+                        </sourceDesc>
+                </fileDesc>
+                <encodingDesc>
+                        <classDecl>
+                                <taxonomy xml:id="medsurg">
+                                        <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+                                </taxonomy>
+                        </classDecl>
+                </encodingDesc>
+                <profileDesc>
+                        <textClass>
+                                <keywords scheme="#medsurg">
+                                        <term>the continued fevers</term>
+                                        <term>post-mortem records of continued fevers</term>                                       
+                                        <term>cases reported as typhoid fever, the clinical history insufficient or absent</term>
+                                        <term>Peyer's patches ulcerated and the ileum or small intestine only affected</term>                                           
+                                        <term>ileum extensively ulcerated</term>
+                                        <term>Peyer's patch above the ileo-c&#230;cal valve presented distinct ulcers</term>
+                                        <term>perforation with exudation of lymph onto peritoneal coat</term>
+                                </keywords>
+                        </textClass>
+                </profileDesc>
+                <revisionDesc>
+                        <change who="#mb" when="2013-03-29">additional proofing of transcription and encoding, edited and added keyword terms</change>
+                        <change who="#mb" when="2011-10-04">additional proofing of transcription and encoding</change>
+                        <change who="#mb" when="2011-06-22">additional proofing of transcription and encoding</change>
+                        <change who="#el" when="2011-05-11">case text extracted and transformed from larger file</change>
+                        <change who="#sb" when="2011-02-23">Encoding and Proofing</change>
+                        <change who="#et" when="2009-12-01">Initial Checking OCR Text to PDF file,</change>
+                </revisionDesc>
+        </teiHeader>
+        <text>
+                <body xml:id="ch4.sc4.1.00154">                        
+                                <p><hi rend="initialcap">C</hi>ASE 154.&#8212;<name
+                                                type="person" key="689">Private J. C. Morrow</name>,
+                                                <name type="organization" key="686">Co. E, 110th
+                                                Ohio</name>; admitted <date type="admit"
+                                                when="1863-11-23">Nov. 23, 1863</date>.  Died <date
+                                                type="death" when="1863-11-28">28th</date>.  <hi
+                                                rend="italic">Post-mortem</hi> examination
+                                        <date type="autopsy" when="1863-11-30">thirty-nine hours after death</date>: The brain was healthy. The
+                                        lungs were somewhat engorged posteriorly. The heart was
+                                        flabby and contained a small clot in both sides, larger in
+                                        the right than in the left. The liver was firm and somewhat
+                                        congested, its surface of an intense bluish-slate color,
+                                        which coloration extended two lines into the parenchyma; the
+                                        gall-bladder contained an ounce of dark-brown bile; the
+                                        spleen was of a purple color with an admixture of brown and
+                                        was extremely firm; the pancreas was white and not very
+                                        firm. The ileum, in its six lower feet, was extensively
+                                        ulcerated; about two feet above the ileo-c&#230;cal
+                                        valve was a Peyer's patch of an irregular circular shape,
+                                        presenting three distinct ulcers with high blackish walls
+                                        and stone-gray bases, in one of which was a small
+                                        perforation which had caused some exudation of lymph on the
+                                        peritoneal coat. The kidneys were healthy.&#8212;<hi
+                                                rend="italic"><name type="person" key="245">Ass't
+                                                  Surg. H. Allen</name>, <name type="organization"
+                                                  key="190">U. S. A.</name>, <name type="hospital"
+                                                  key="176">Lincoln Hospital</name>, Washington, D. C.</hi></p>                        
+                </body>
+        </text>
+</TEI>

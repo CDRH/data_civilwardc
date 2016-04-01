@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e11145">
+        <teiHeader>
+                <fileDesc>
+                        <titleStmt>
+                                <title level="m" type="main">Kemper, John</title>
+                                <title level="m" type="sub">a machine readable transcription</title>
+                                <principal>Susan C. Lawrence</principal>
+                                <principal>Kenneth M. Price</principal>
+                                <principal>Kenneth J. Winkle</principal>
+                        </titleStmt>
+                        <editionStmt>
+                                <edition>
+                                        <date>2011</date>
+                                </edition>
+                        </editionStmt>
+                        <publicationStmt>
+                                <idno>med.d1e11145</idno>
+                                <authority>Civil War Washington</authority>
+                                <publisher>University of Nebraska–Lincoln</publisher>
+                                <distributor>
+                                        <name>Center for Digital Research in the Humanities</name>
+                                        <address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+                                </distributor>
+                                <date>2011</date>
+                                <availability>
+                                        <p>Copyright © 2011 by University of Nebraska–Lincoln, all
+                                                rights reserved. Redistribution or republication in
+                                                any medium, except as allowed under the Fair Use
+                                                provisions of U.S. copyright law, requires express
+                                                written consent from the editors and advance
+                                                notification of the publisher, the University of
+                                                Nebraska–Lincoln.</p>
+                                </availability>
+                        </publicationStmt>
+                        <notesStmt>
+                                <note type="project">The following are responsible for particular readings or for changes to this file, as noted: 
+                                        <persName xml:id="mb">Matthew Bosley</persName>
+                                        <persName xml:id="el">Elizabeth Lorang</persName>
+                                        <persName xml:id="sb">Stacey Berry</persName>
+                                        <persName xml:id="et">Elisabeth Tracey</persName>
+                                </note>
+                        </notesStmt>
+                        <sourceDesc>
+                                <bibl>
+                                        <title level="j">The Medical and Surgical History of the War of the Rebellion</title>
+                                        <pubPlace>Washington, DC</pubPlace>
+                                        <publisher>Government Printing Office</publisher>
+                                        <biblScope type="part">Part 3</biblScope>
+                                        <biblScope type="volume">Volume 1</biblScope>
+                                        <date when="1888">1888</date>
+                                        <biblScope type="page">777-778</biblScope>
+                                </bibl>
+                        </sourceDesc>
+                </fileDesc>
+                <encodingDesc>
+                        <classDecl>
+                                <taxonomy xml:id="medsurg">
+                                        <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+                                </taxonomy>
+                        </classDecl>
+                </encodingDesc>
+                <profileDesc>
+                        <textClass>
+                                <keywords scheme="#medsurg">
+                                        <term>diseases attributed to non-miasmatic exposures</term>
+                                        <term>diseases of the respiratory organs</term>
+                                        <term>pneumonia</term>
+                                        <term>post-mortem records</term> 
+                                        <term>lobar pneumonias</term>
+                                        <term>cases of coexisting tubercle</term>
+                                        <term><choice><orig>dulness</orig><reg>dullness</reg></choice> over apex of right lung and lower part of left lung</term>
+                                        <term>left lung compressed and heart rolled to right side by effused pleural liquid</term>
+                                        <term>right lung compressed anteriorly and adherent to parietal pleura</term>
+                                        <term>apex of right lung contained walled abscess, remainder darkened by black deposits</term>
+                                        <term>right middle and lower lobes crepitant and dark-red posteriorly</term>
+                                        <term>left lung speckled with scattered tubercular deposits</term>
+                                        <term>heart enlarged</term>
+                                        <term>liver large, smooth on surface, granular, dotted clay-yellow</term>
+                                </keywords>
+                        </textClass>
+                </profileDesc>
+                <revisionDesc>
+                        <change who="#mb" when="2011-07-06">additional proofing of transcription and encoding</change>
+                        <change who="#el" when="2011-05-11">case text extracted and transformed from larger file</change>
+                        <change who="#sb" when="2011-02-23">Encoding and Proofing</change>
+                        <change who="#et" when="2009-12-01">Initial Checking OCR Text to PDF file,</change>
+                </revisionDesc>
+        </teiHeader>
+        <text>
+                <body>                        
+                        <p> <hi rend="initialcap">C</hi>ASE 143.&#8212;<name type="person">John Kemper</name>, substitute, age 44;
+                                admitted <date type="admit" when="1864-07-20">July 20, 1864</date>.  He caught cold about <date type="injury" when="1864-07-13">a week before
+                                        admission</date>, while en route to his regiment. His countenance
+                                was pale and he suffered from cough, dyspn&#339;a and acute
+                                diarrh&#339;a. There was <choice><orig>dulness</orig><reg>dullness</reg></choice> over the apex of the right and
+                                        lower part of the left lung. The heart-sounds were muffled
+                                        and indistinct, but a clear metallic sound was heard over
+                                        the apex during the first beat. The diarrh&#339;a was checked,
+                                        but the cough and dyspn&#339;a became so distressing that the
+                                        patient had to sit up constantly.  From August 15 till death,
+                                        on <date type="death" when="1864-08-30">the 30th</date>, the heart-sounds could not be heard or the
+                                pulsation felt.   <hi rend="italic">Post-mortem</hi> examination: The upper anterior
+                                        edge of the left lung adhered to the right costal
+                                        cartilages, the outer inferior edge to the left costal wall,
+                                        the inner inferior edge to the diaphragm; a long membranous
+                                        band stretched outward, forward and slightly upward from the
+                                        anterior surface of the upper lobe to the parietal pleura
+                                        about the third rib; the lung was compressed by two pints
+                                        of liquid, but a space of half-gallon capacity remained
+                                        anterior to the effused liquid. The heart was rolled over to
+                                        the right side so that the outer side of the left ventricle
+                                        presented forward under the anterior edge of the left lung,
+                                        and the anterior surface of the right ventricle was pushed
+                                        under the adherent inner edge of the right middle lobe. The
+                                        right lung was compressed anteriorly and adherent by its
+                                        entire outer surface to the parietal pleura; its apex
+                                        contained a cartilaginous-walled abscess the size of a
+                                        small orange, and its remaining parts were darkened by
+                                        close, black, mottling deposits; the middle lobe and lower
+                                        lobe posteriorly were crepitant and dark-red. The substance
+                                        of the left lung was speckled with scattered tubercular
+                                        deposits of the size of raisins and also with dark deposits
+                                        as on the right side; the anterior edge of the lower lobe
+                                        contained two abscesses of the size, respectively, of a
+                                        walnut and of a raisin. The heart was enlarged, pale and
+                                        softened; a large black coagulum, tipped with fibrin, filled its right
+                                        side. The liver was large, smooth on its surface, granular,
+                                        dotted clay-yellow; the spleen of normal size,
+                                        light-colored, bloodless, softened; kidneys small; intestines healthy. &#8212;<hi rend="italic"><name type="hospital" key="189">Third Division Hospital</name>, <name type="place">Alexandria, Va.</name></hi> </p>                        
+                </body>
+        </text>
+</TEI>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d2e17460">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Dicey, J.</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+    <idno>med.d2e17460</idno>
+    <authority>Civil War Washington</authority>
+    <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor><name>Center for Digital Research in the
+     Humanities</name><address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address></distributor>
+    <date>2011</date>
+    <availability>
+     <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+      republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+      law, requires express written consent from the editors and advance notification of the
+      publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+     <persName xml:id="mb">Matthew Bosley</persName>
+     <persName xml:id="el">Elizabeth Lorang</persName>
+     <persName xml:id="sb">Stacey Berry</persName>
+     <persName xml:id="et">Elisabeth Tracey</persName>
+     <persName xml:id="ss">Sarah Synovec</persName>
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title level="j">The Medical and Surgical History of the War of the Rebellion.
+      (1861-65.)</title><pubPlace>Washington, DC</pubPlace><publisher>Government Printing
+      Office</publisher><biblScope type="part">Part 3</biblScope><biblScope type="volume">Volume
+      2</biblScope><date when="1883">1883</date><biblScope type="page">431</biblScope></bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+     <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <keywords scheme="#medsurg">
+     <term>wounds and injuries of the lower extremities</term> 
+     <term>wounds and operations in the leg</term>
+     <term>shot contusions of the bones of the leg</term>
+     <term>shot contusions of the tibia and fibula</term> 
+     <term>shot contusions of the bones of the leg followed by amputations</term> 
+     <term>fatal terminations of cases of amputation in the leg for shot contusions of the tibia or fibula</term>
+     <term>flesh wound of left thigh</term> 
+     <term>contused wound by shell on fore part of middle of right leg</term> 
+     <term>gangrene</term>
+     <term>tibia denuded of periosteum</term>     
+    </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change who="#mb" when="2012-05-31">additional proofing of transcription and encoding, identified keyword terms</change>
+   <change who="#el" when="2011-05-11">case text extracted and transformed from larger file</change>
+   <change who="#sb" when="2011-06-04">Enrich Encoding, Edit and validate</change>
+   <change who="#sb" when="2011-01-28">Validated File</change>
+   <change who="#ss" when="2008-09-22">initial checking of OCR text; encoded P5 Encoding</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>   
+    <p><hi rend="initialcap">C</hi>ASE 668.&#8212;<name type="person" key="1230">Private J. Dicey</name>, <name type="organization" key="489">Co. F, 17th Michigan</name>, received a
+     flesh wound of the left thigh and a contused wound by a shell on the fore part of the middle of the right leg, at <name type="BATTLE" key="33">Antietam</name>, <date type="injury"
+      when="1862-09-17">September 17, 1862</date>. He entered <name type="hospital" key="xx">Casparis Hotel Hospital</name>, Washington, <date type="admit" when="1862-10-13">October
+      13th</date>, with the latter wound in a gangrenous condition and the tibia denuded of
+     periosteum for four or five inches. The best antiseptic remedies failing to check the spreading
+     of the disease, the limb was amputated on <date type="operation" when="1862-10-21">October 21st</date>, by <name type="person" key="910">Acting Assistant Surgeon L. Heard</name>, some five or six inches below the knee. The patient was
+     very feeble and failed to rally. He died <date type="death" when="1862-10-24">October 24, 1862</date>. The amputated bones of the leg were contributed to <name type="hospital" key="431">the Museum</name> by <name type="person" key="910">the operator</name>, and constitute specimen 212 of the <hi rend="italic">Surgical Section</hi>, A. M. M. </p>   
+  </body>
+ </text>
+</TEI>

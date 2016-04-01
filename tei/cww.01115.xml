@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="cww.01115">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>                
+                <title level="m" type="main">Petition of Kitty Francis, 31 July 1862</title>
+                <title level="m" type="sub">a machine readable transcription</title>
+                <principal>Susan C. Lawrence</principal>
+                <principal>Kenneth M. Price</principal>
+                <principal>Kenneth J. Winkle</principal>
+                <respStmt>
+                    <resp>transcription and encoding</resp>
+                    <name xml:id="jc">Janel Cayer</name>
+                    <name xml:id="el">Elizabeth Lorang</name>
+                <name xml:id="kjw">Kenneth J. Winkle</name>
+</respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2012</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <idno>cww.01115</idno>
+                <distributor>Civil War Washington</distributor>
+                <publisher>University of Nebraska–Lincoln</publisher>
+                <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>P.O. Box 884100</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+            </address>
+                <date>2012</date>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+                        <p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License (http://creativecommons.org/licenses/by-nc-sa/3.0/). Derivatives must be credited to Civil War Washington, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl xml:id="rg21">
+                    <title>Petition of Kitty Francis, 31 July 1862</title>
+                    <date when="1862-07-31">July 31, 1862</date>
+                    <idno>Microcopy 433, Reel 3</idno>                
+                    <orgName>National Archives and Records Administration</orgName>
+                    <relatedItem type="original">
+                        <bibl>
+                            <title>Petition of Kitty Francis, 31 July 1862</title>
+                            <date when="1862-07-31">July 31, 1862</date>
+                            <idno type="rg">Record Group 21</idno>
+                            <orgName>Records of the District Courts of the United States, 1685&#8211;2004, National Archives and Records Administration</orgName>
+                            <orgName>Emancipation Records, compiled 1862&#8211;1863</orgName>
+                            <note type="project">Within the National Archives' Archival Description Catalog, see ARC Identifier 4314547 / MLR Number NC-2 33 (http://arcweb.archives.gov).</note>
+                        </bibl>
+                    </relatedItem>
+                    <note type="project">Our transcription is based on a digital image of a microfilm copy of the original.</note>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <particDesc>
+                <person role="owner">
+                    <persName>John Wilson</persName>
+                </person>
+                <person role="petitioner-slave">
+                    <persName>Kitty Francis</persName>
+                </person>
+            </particDesc>
+        </profileDesc>
+        <revisionDesc>
+<change when="2013-07-10" who="#jc">blessed</change>
+<change when="2013-07-08" who="#kjw">blessed</change>
+            <change when="2013-07-01" who="#el">checked</change>
+            <change when="2013-02-27" who="#jc">transcribed, encoded</change>
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            <pb xml:id="leaf001r" facs="cww.01115.001.jpg"/>
+            <div1 type="petition" subtype="mixed">                
+                
+                <div2 type="document" subtype="mixed">
+                    <opener>
+                        <salute>To <persName>John A. Smith</persName> <choice><abbr>Esq.</abbr><expan>Esquire</expan></choice>, Clerk of the Circuit Court of the <placeName>District of Columbia</placeName></salute>
+                        <salute>Sir:</salute>
+                    </opener>
+                    
+                    <p><seg type="handwritten"><persName>John Wilson</persName></seg> of <seg type="handwritten"><placeName>Washington, District of Columbia</placeName></seg> having claim to the service or labor of the undersigned, and having refused or neglected to file in your office the statement in writing or schedule provided for in the 9th section of the Act of Congress, entitled "An act for the release of certain persons held to service or labor in said <placeName>District</placeName>," approved <date when="1862-04-16">April 16, 1862</date>, you will please file this petition or schedule in lieu thereof, in pursuance of the provisions of an act supplementary to said act which said last mentioned act was approved <date when="1862-07-12">July 12, 1862</date>. This petitioner further state<seg type="handwritten">s</seg> that the undersigned <seg type="handwritten">has</seg> resided in said <placeName>District</placeName> since the <seg type="handwritten">year <date when="1824">1824</date> or thereabout</seg> and ha<seg type="handwritten">s</seg> resided therein since the <space atLeast="1"/> day of <space atLeast="1"/> <date when="1862">1862</date>, by and with the consent of <space atLeast="1"/> said <space atLeast="1"/> Name, <seg type="handwritten"><persName>Kitty Francis</persName></seg> Age, <seg type="handwritten">about 38 years</seg> Sex, <seg type="handwritten">Female</seg> Remarks, <seg type="handwritten">Your Petitioner was purchased by said <persName>John Wilson</persName> of &#38; from <persName>John <unclear reason="illegible" cert="low" resp="#jc">Hilton</unclear></persName> of this City, &#38; she has been a house servant with <persName>Mr Wilson</persName> since the said purchase&#8212;</seg></p>
+                    
+                    <closer>
+                        <signed><seg type="handwritten">her X mark. <persName>Kitty Francis</persName></seg></signed>
+                        <signed><seg type="handwritten">Witness <persName>John Carroll Brent</persName><lb/>
+                        Attorney for Petitioner</seg></signed>
+                    </closer>
+                </div2>
+                
+                <pb xml:id="leaf001v" facs="cww.01115.002.jpg"/>
+                
+                <div2 type="cover" subtype="handwritten">
+                    <div3 type="section">
+                        <ab>paid</ab>
+                        <ab>Schedule of <persName>Kitty Francis</persName><lb/>
+                        under Act of <date when="1862-07-12">July 12 1862</date></ab>
+                    </div3>
+                    <div3 type="section">
+                        <ab>Filed <date when="1862-07-31">July 31st 1862</date></ab>
+                    </div3>
+                    
+                    <div3 type="section">
+                        <ab><persName>John Carroll Brent</persName><lb/>
+                        Attorney for <gap reason="illegible" extent="less than one word" quantity="4" unit="chars"/></ab>
+                    </div3>
+                    <div3 type="section">
+                           <ab><hi rend="underline">papers paid</hi></ab>
+                    </div3>
+                    
+                    <div3 type="section">   
+                        <ab>Recorded in Manumission Record No 2 folios 68 &#38; 69</ab>
+                    </div3>
+                    
+                    <div3 type="section">
+                        <ab><choice><abbr>Cert</abbr><expan>Certificate</expan></choice> given <choice><abbr>Idfd</abbr><expan>Identified</expan></choice> by <persName>J. C. Brent</persName> <choice><abbr>Esqr</abbr><expan>Esquire</expan></choice>.</ab>
+                    </div3>
+                </div2>
+            </div1>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d2e2222">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Brittin, L.</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+    <idno>med.d2e2222</idno>
+    <authority>Civil War Washington</authority>
+    <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor><name>Center for Digital Research in the
+     Humanities</name><address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address></distributor>
+    <date>2011</date>
+    <availability>
+     <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+      republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+      law, requires express written consent from the editors and advance notification of the
+      publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+     <persName xml:id="mb">Matthew Bosley</persName>
+     <persName xml:id="el">Elizabeth Lorang</persName>
+     <persName xml:id="sb">Stacey Berry</persName>
+     <persName xml:id="et">Elisabeth Tracey</persName>
+     <persName xml:id="ss">Sarah Synovec</persName>
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title level="j">The Medical and Surgical History of the War of the Rebellion.
+      (1861-65.)</title><pubPlace>Washington, DC</pubPlace><publisher>Government Printing
+      Office</publisher><biblScope type="part">Part 3</biblScope><biblScope type="volume">Volume
+      2</biblScope><date when="1883">1883</date><biblScope type="page">37</biblScope></bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+     <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <keywords scheme="#medsurg">
+     <term>wounds and injuries of the lower extremities</term>                                                                 
+     <term>flesh wounds of the lower extremities</term>
+     <term>shot flesh wounds</term>
+     <term>shot wounds of lower extremities not attended by lesions of bones, joints, great vessels or nerves</term>
+     <term>complications of shot flesh wounds of the lower extremities</term>
+     <term>erysipelas</term>
+     <term>gangrene</term> 
+     <term>ball passing transversely, producing flesh wound of upper third of leg</term>
+     <term>py&#230;mia</term>      
+    </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change who="#mb" when="2012-02-06">additional proofing of transcription and encoding</change>
+   <change who="#el" when="2011-05-11">case text extracted and transformed from larger file</change>
+   <change who="#sb" when="2011-06-04">Enrich Encoding, Edit and validate</change>
+   <change who="#sb" when="2011-01-28">Validated File</change>
+   <change who="#ss" when="2008-09-22">Sarah Synovec initial checking of OCR text; encoded P5 Encoding</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   
+    <p>  <hi rend="initialcap">C</hi>ASE 79.&#8212;<name type="person" key="903">Private L.
+      Brittin</name>, <name type="organization" key="344">Co. M, 1st Pennsylvania Cavalry</name>,
+     aged 35 years, was wounded at <name type="BATTLE" key="266">Hanoverton</name>, <date type="injury" when="1864-05-28">May 28, 1864</date>, and admitted to the field hospital of the 3d division, Fifth Corps, where <name
+      type="person" key="xx">Surgeon L. W. Read</name>, <name type="organization" key="132">U. S.
+       V.</name>, noted &#34;a shot wound of leg. &#34; From the field hospital the patient passed to
+     <name type="place" key="#Washington">Washington</name> and thence to <name type="place">Philadelphia</name>, entering the <name type="hospital" key="xx">Summit
+      House</name> <date type="transfer" when="1864-06-28">June 28th</date>, and subsequently the <name
+      type="hospital" key="xx">Satterlee Hospital</name>. <name type="person" key="137">Surgeon I.
+      I. Hayes</name>, <name type="organization" key="132">U. S. V.</name>, recorded the following
+     history:  &#34;The injury was caused by a mini&#233; ball passing transversely and producing a slight
+     flesh wound of the upper third of the right leg. The wound healed, when it was attacked by
+     gangrene, and after again becoming healthy the whole limb was seized with erysipelas. On March 24, 1865, the whole external lateral surface of the knee presented two
+     sloughing wounds, one on a line with the head of the tibia, the other just above the tendon of
+     the muscle. The whole limb was swollen, red, and painful. General condition poor, with
+     headache, fever, dry tongue, and dry hot skin. On <date type="operation" when="1865-03-26">March 26th</date>, a large collection of pus,
+     amounting to about six ounces, was evacuated immediately below the patella. The patient's bed
+     was moved, the old splint removed and a Smith's anterior applied. On rinsing the limb a
+     sloughing wound involving nearly the whole popliteal space was found. On the following day the
+     patient was slightly more comfortable, but there was not much change in his general condition.
+     On March 31st, there was no change in the appearance of the wound, but the patient's strength
+     was evidently becoming exhausted. There were symptoms of py&#230;mia, and he was delirious
+     during the afternoon, but better toward evening. His pulse was 120 and very small; countenance
+     sunken, with hectic spots on the cheeks. He complained of no pain, but was evidently partially
+     unconscious. He died <date type="death" when="1865-04-06">April 6, 1865</date>. &#34;   </p>
+   
+  </body>
+ </text>
+</TEI>

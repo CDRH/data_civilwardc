@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d2e22917">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Covell, E. R.</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+    <idno>med.d2e22917</idno>
+    <authority>Civil War Washington</authority>
+    <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor><name>Center for Digital Research in the
+     Humanities</name><address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address></distributor>
+    <date>2011</date>
+    <availability>
+     <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+      republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+      law, requires express written consent from the editors and advance notification of the
+      publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+ <persName xml:id="kmp">Kenneth M. Price</persName> 
+     <persName xml:id="ajh">AJ Howell</persName>
+     <persName xml:id="mb">Matthew Bosley</persName>
+     <persName xml:id="el">Elizabeth Lorang</persName>
+     <persName xml:id="sb">Stacey Berry</persName>
+     <persName xml:id="et">Elisabeth Tracey</persName>
+     <persName xml:id="ss">Sarah Synovec</persName>
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title level="j">The Medical and Surgical History of the War of the Rebellion.
+      (1861-65.)</title><pubPlace>Washington, DC</pubPlace><publisher>Government Printing
+      Office</publisher><biblScope type="part">Part 3</biblScope><biblScope type="volume">Volume
+      2</biblScope><date when="1883">1883</date><biblScope type="page">597</biblScope></bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+     <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <keywords scheme="#medsurg">
+     <term>wounds and injuries of the lower extremities</term>
+     <term>wounds and operations at the ankle joint</term>
+     <term>shot fractures of the bones of the ankle joint</term>
+     <term>amputations at the ankle joint</term>
+     <term>primary amputations at the ankle joint</term>
+     <term>successful primary amputations at the ankle joint</term>
+     <term>wounded in foot</term>
+     <term>shell wound of tarsal and metatarsal bones</term>
+     <term>Syme's amputation at ankle joint, ends of tibia and fibula removed</term>
+     <term>h&#230;morrhage at time of injury</term>
+     <term>diarrh&#339;a</term>
+     <term>stump re-amputated at lower third of leg</term>
+     <term>furnished with artificial foot</term>
+     <term>general anesthesia, chloroform</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+ <change who="#kmp" when="2014-05">blessed</change>
+   <change who="#ajh" when="2013-08-23">added figure encoding</change>
+   <change who="#mb" when="2012-06-14">additional proofing of transcription and encoding, identified
+    keyword terms</change>
+   <change who="#el" when="2011-05-11">case text extracted and transformed from larger file</change>
+   <change who="#sb" when="2011-06-04">Enrich Encoding, Edit and validate</change>
+   <change who="#sb" when="2011-01-28">Validated File</change>
+   <change who="#ss" when="2008-09-22">initial checking of OCR text; encoded P5 Encoding</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p><hi rend="initialcap">C</hi>ASE 872.&#8212;<name type="person" key="1384">Private E. R.
+     Covell</name>, <name type="organization" key="487">Co. C, 52d New York</name>, aged 38 years,
+    was wounded in the left foot, at <name type="BATTLE" key="250"><choice>
+      <orig>Spottsylvania</orig>
+      <reg>Spotsylvania</reg>
+     </choice></name>, <date type="injury" when="1864-05-18">May 18, 1864</date>, and admitted to
+    the field hospital of the 1st division, Second Corps. <name type="person" key="xx">Surgeon J. W.
+     Wishart</name>, <name type="organization" key="230">140th Pennsylvania</name>, described the
+    injury as a "shell wound of the tarsal and metatarsal bones," for which he performed "Syme's
+    amputation at the ankle joint." <date type="transfer" when="1864-05-28">Ten days after being
+     wounded</date> the patient entered <name type="hospital" key="172">Emory Hospital</name> at
+    Washington, and subsequently he was transferred to Central Park Hospital, <name type="place"
+     key="xx">New York City</name>. <name type="person" key="xx">Surgeon B. A. Clements</name>,
+     <name type="organization" key="190">U. S. A.</name>, in charge of the latter, reported the
+    following history of the case: "Considerable h&#230;morrhage took place at the time of the
+    injury, and the man's general condition was not very good in consequence of his suffering from
+    diarrh&#339;a. Amputation at the ankle joint was performed under chloroform <date
+     type="operqation" when="1864-05-18">six hours after the reception of the injury</date>, the
+    ends of the tibia and fibula also being removed. Sutures, adhesive strips, and cold-water
+    dressings were applied. The parts did not unite by first intention, though there was no
+    sloughing nor necrosis. When the patient was admitted to Central Park Hospital, <date
+     type="transfer" when="1864-08-17">August 17th</date>, the stump had healed with the exception
+    of a small ulcer in the cicatrix near the external angle of the flaps, and his general condition
+    was pretty good, though he still had diarrh&#339;a. By October 2d the stump was entirely healed
+    and the diarrh&#339;a was much improved." The patient was discharged from service <date
+     type="servicedischarge" when="1864-11-03">November 3, 1864</date>, and pensioned, having been
+    previously furnished with an artificial foot. A cast of the stump (<hi rend="italic">Spec</hi>.
+    4369) was contributed to <name type="hospital" key="431">the Museum</name> by <name
+     type="person" key="1385">Surgeon J. J. Milhan</name>, <name type="organization" key="190">U. S.
+     A.</name>, and is represented in the adjoining wood-cut (<hi rend="initialcap">F</hi>IG. 345).
+    After leaving the service the stump was re-amputated at the lower third of the leg on <date
+     type="operation" when="1869-05-05">May 5, 1869</date>. In his subsequent applications for
+    commutation the pensioner described the condition of the stump as "sound and healthy." His
+    pension was paid <date type="pension" when="1881-09-04">September 4, 1881</date>.&#185;</p>
+   <p>&#185; <hi rend="initialcap">S</hi>MITH (<hi rend="initialcap">S.</hi>), <hi rend="italic"
+     >Amputations at the Ankle Joint in Military Surgery</hi>, in <hi rend="italic">U. S. San. Com.
+     Memoirs</hi>, New York, 1871, Surgical Volume II, p. 136.</p>
+   <figure>
+    <graphic url="cww.001651.001"/>
+    <head><hi rend="initialcap">F</hi>IG. 345.&#8212;Stump after <hi rend="initialcap">S</hi>YME'S
+     amputation at ankle joint. <hi rend="italic">Spec</hi>. 4369. [From a cast.]</head>
+   </figure>
+  </body>
+ </text>
+</TEI>

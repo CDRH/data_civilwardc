@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e17886">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title level="m" type="main">F&#8212;&#8212;, R. J.</title>
+        <title level="m" type="sub">a machine readable transcription</title>
+        <principal>Susan C. Lawrence</principal>
+        <principal>Kenneth M. Price</principal>
+        <principal>Kenneth J. Winkle</principal>
+      </titleStmt>
+      <editionStmt>
+        <edition><date>2011</date></edition>
+      </editionStmt>
+      <publicationStmt>
+        <idno>med.d1e17886</idno>
+        <authority>Civil War Washington</authority>
+        <publisher>University of Nebraska–Lincoln</publisher>
+        <distributor><name>Center for Digital Research in the
+          Humanities</name><address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address></distributor>
+        <date>2011</date>
+        <availability>
+          <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution
+            or republication in any medium, except as allowed under the Fair Use provisions of U.S.
+            copyright law, requires express written consent from the editors and advance
+            notification of the publisher, the University of Nebraska–Lincoln.</p>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="project">The following are responsible for particular readings or for changes to
+          this file, as noted: 
+ <persName xml:id="kmp">Kenneth M. Price</persName> 
+          <persName xml:id="ajh">AJ Howell</persName>
+          <persName xml:id="mb">Matthew Bosley</persName>
+          <persName xml:id="el">Elizabeth Lorang</persName>
+          <persName xml:id="sb">Stacey Berry</persName>
+          <persName xml:id="et">Elisabeth Tracey</persName>
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl><title>The Medical and Surgical History of the War of the Rebellion.
+            (1861&#8211;65.)</title><editor role="compiler">Surgeon General Joseph K. Barnes, United
+            States Army</editor><pubPlace>Washington, D.C.</pubPlace><publisher>Government Printing
+            Office</publisher><biblScope type="part">Part 1</biblScope>
+          <biblScope type="volume">Volume 2</biblScope><date when="1870">1870</date><biblScope
+            type="page">349</biblScope></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <classDecl>
+        <taxonomy xml:id="medsurg">
+          <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="#medsurg">
+          <term>wounds and injuries of the face</term>
+          <term>gunshot wounds of the face</term>
+          <term>gunshot fractures of the facial bones</term>
+          <term>fractures involving upper and lower maxill&#230;</term>
+          <term>secondary h&#230;morrhage</term>
+          <term>h&#230;morrhage from trunk of internal maxillary artery</term>
+          <term>fractures of both the upper and lower jaws</term>
+          <term>fracture of upper maxilla</term>
+          <term>fracture of lower maxilla</term>
+          <term>autopsy</term>
+          <term>ball entered ala of nostril, split ramus of inferior maxilla, emerged in front of
+            and below pinna of ear</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+ <change who="#kmp" when="2014-05">blessed</change>
+      <change who="#ajh" when="2013-08-20">added figure encoding</change>
+      <change who="#mb" when="2011-11-02">additional proofing of transcription and encoding</change>
+      <change who="#el" when="2011-05-11">case text extracted and transformed from larger
+        file</change>
+      <change who="#sb" when="2011-02-09">enriched encoding</change>
+      <change who="#sb" when="2011-01-28">validated file</change>
+      <change who="#et" when="2009-08-01">encoded</change>
+      <change who="#sb" when="2008-09-22">initial checking of OCR text against PDF; encoded</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+
+      <p><hi rend="initialcap">C</hi>ASE.&#8212;><name type="person">Corporal R. J.
+          F&#8212;&#8212;</name>, <name type="organization">Co. F, 60th New York Volunteers</name>,
+        aged 22 years, was wounded at the battle of <name type="BATTLE" key="251"
+          >Fredericksburg</name>, <date type="injury" when="1863-05-03">May 3d, 1863</date>, by a
+        conoidal ball, which fractured the superior and inferior maxilla. The ball entered the ala
+        of the nostril, and passed downward and backward, splitting the ramus of the inferior
+        maxilla, and emerged by two openings in front and below the pinna of the right ear. The
+        superior maxilla of right side was destroyed, and the right portion of the inferior
+        fractured and comminuted, and fissures running into the orbital process. He was, on <date
+          type="admit" when="1863-05-07">May 7th</date>, admitted to <name type="hospital" key="167"
+          >Carver Hospital</name>, Washington. Cold water dressings and bandages were applied.
+        Slight h&#230;morrhage from the internal maxillary artery occurred at ten and eleven o'clock
+        P. M., <date type="injury" when="1863-05-09">May 9th</date>, which yielded to compression;
+        it again recurred profusely at twelve o'clock, amounting to about fifty fluid ounces of
+        blood; attempts at compression of the carotid artery were unsuccessful, the patient being
+        unmanageable from fear; during the remainder of the night and the day following, he was kept
+        in a sitting posture, and ice retained in his mouth, and strictly forbidden to speak. At two
+        o'clock P. M. on <date type="injury" when="1863-05-11">the 11th</date>, his pulse being on
+        the increase, six drops of the tincture of aconite was ordered. The h&#230;morrhage returned
+        in the evening, the patient became frantic with alarm, and prevented all attempts at
+        compression. He died <date type="death" when="1863-05-11">immediately</date>. The autopsy
+        revealed great comminution of the superior and inferior maxilla, and that the
+        h&#230;morrhage proceeded from the trunk of the internal maxillary artery. The specimen is
+        figured in the wood-cut. The case is reported by <name type="person">Acting Assistant
+          Surgeon E. F. Bates</name>.</p>
+      <figure><graphic url="cww.001433.001"/><head>
+        <hi rend="initialcap">F</hi>IG. 159.&#8212;Gunshot fracture of the inferior maxilla. <hi
+          rend="italic">Spec</hi>. 1216, Sect. I, A. M. M.</head></figure>
+
+    </body>
+  </text>
+</TEI>

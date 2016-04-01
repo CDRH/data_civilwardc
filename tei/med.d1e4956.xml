@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e4956">
+        <teiHeader>
+                <fileDesc>
+                        <titleStmt>
+                                <title level="m" type="main">Austin, Daniel</title>
+                                <title level="m" type="sub">a machine readable transcription</title>
+                                <principal>Susan C. Lawrence</principal>
+                                <principal>Kenneth M. Price</principal>
+                                <principal>Kenneth J. Winkle</principal>
+                        </titleStmt>
+                        <editionStmt>
+                                <edition>
+                                        <date>2011</date>
+                                </edition>
+                        </editionStmt>
+                        <publicationStmt>
+                                <idno>med.d1e4956</idno>
+                                <authority>Civil War Washington</authority>
+                                <publisher>University of Nebraska–Lincoln</publisher>
+                                <distributor>
+                                        <name>Center for Digital Research in the Humanities</name>
+                                        <address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+                                </distributor>
+                                <date>2011</date>
+                                <availability>
+                                        <p>Copyright © 2011 by University of Nebraska–Lincoln, all
+                                                rights reserved. Redistribution or republication in
+                                                any medium, except as allowed under the Fair Use
+                                                provisions of U.S. copyright law, requires express
+                                                written consent from the editors and advance
+                                                notification of the publisher, the University of
+                                                Nebraska–Lincoln.</p>
+                                </availability>
+                        </publicationStmt>
+                        <notesStmt>
+                                <note type="project">The following are responsible for particular
+                                        readings or for changes to this file, as noted: 
+                                        <persName xml:id="mb">Matthew Bosley</persName>
+                                        <persName xml:id="el">Elizabeth Lorang</persName>
+                                        <persName xml:id="sb">Stacey Berry</persName>
+                                        <persName xml:id="et">Elisabeth Tracey</persName>
+                                </note>
+                        </notesStmt>
+                        <sourceDesc>
+                                <bibl>
+                                        <title level="j">The Medical and Surgical History of the War
+                                                of the Rebellion</title>
+                                        <pubPlace>Washington, DC</pubPlace>
+                                        <publisher>Government Printing Office</publisher>
+                                        <biblScope type="part">Part 3</biblScope>
+                                        <biblScope type="volume">Volume 1</biblScope>
+                                        <date when="1888">1888</date>
+                                        <biblScope type="page">259</biblScope>
+                                </bibl>
+                        </sourceDesc>
+                </fileDesc>
+                <encodingDesc>
+                        <classDecl>
+                                <taxonomy xml:id="medsurg">
+                                        <bibl>Medical and Surgical History of the War of the
+                                                Rebellion</bibl>
+                                </taxonomy>
+                        </classDecl>
+                </encodingDesc>
+                <profileDesc>
+                        <textClass>
+                                <keywords scheme="#medsurg">
+                                        <term>clinical records</term>
+                                        <term>continued fevers</term>
+                                        <term>fever cases from various records</term>
+                                        <term>reported as typhoid, many modified by malarial influence</term>
+                                        <term>gastro-enteritis</term>
+                                        <term>typhoid fever</term>                                        
+                                        <term>erysipelas</term>                                        
+                                </keywords>
+                        </textClass>
+                </profileDesc>
+                <revisionDesc>
+                        <change who="#mb" when="2011-10-07">additional proofing of transcription and encoding</change>
+                        <change who="#mb" when="2011-06-10">additional proofing of transcription and encoding</change>
+                        <change who="#el" when="2011-05-11">case text extracted and transformed from
+                                larger file</change>
+                        <change who="#sb" when="2011-02-23">Encoding and Proofing</change>
+                        <change who="#et" when="2009-12-01">Initial Checking OCR Text to PDF file,
+                        </change>
+                </revisionDesc>
+        </teiHeader>
+        <text>
+                <body xml:id="ch4.sc2.4.00012">
+                        
+                                <p><hi rend="initialcap">C</hi>ASE 12.&#8212;<hi rend="italic">Intercurrent erysipelas.</hi>&#8212;<name
+                                                type="person" key="583">Corp'l Daniel Austin</name>,
+                                                <name type="organization" key="445">Co. G, 16th N. Y.</name>; age 25; was taken about <date type="injury" when="1861-08-07">Aug. 7, 1861</date>,
+                                        with diarrh&#339;a, which became worse and was
+                                        accompanied by pain in the head, back and abdomen. He was
+                                        admitted on <date type="admit" when="1861-08-22">the 22d</date> as a case of gastro-enteritis. Next day
+                                        his tongue was heavily coated in the centre but bright-red
+                                        at the sides, teeth black with sordes, pulse 100, quick,
+                                        bowels tympanitic but not tender, yielding frequent watery
+                                        stools. In the evening the fever increased and the patient
+                                        was at times delirious. On the 24th the eruption appeared on
+                                        the face and abdomen; the tongue became dry and brown; the
+                                        stools continued frequent. He was restless at night, and
+                                        next day the tongue was fissured, abdomen prominent and mind
+                                        disturbed. The eyes were fixed, the expression vacant on the
+                                        20th and the patient raved about Mount Vernon on the 27th,
+                                        but became rational again on the 28th. On <date type="injury" when="1861-09-01">September 1</date> an
+                                        erysipelatous blush appeared on the nose and extended over
+                                        the cheek. Tincture of iron was given every three hours and
+                                        the face painted with tincture of iodine. The swelling
+                                        increased and by the 6th affected the hairy scalp; at this
+                                        time there was some cerebral excitement. Wine and
+                                        nourishment were given and the iodine reapplied. He was
+                                        improved on the 13th and able to sit up on the 15th.
+                                        Bed-sores were present on the right hip and on the sacrum.
+                                        This patient was discharged <date type="servicedischarge"
+                                                when="1862-05-31">May 31</date> because of
+                                        disability from typhoid fever.&#8212;<hi rend="italic">
+                                                <name type="PLACE" key="#Alexandria">Hospital,
+                                                  Alexandria, Va.</name></hi>. </p>
+                        
+                </body>
+        </text>
+</TEI>

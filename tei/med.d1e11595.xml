@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e11595">
+        <teiHeader>
+                <fileDesc>
+                        <titleStmt>
+                                <title level="m" type="main">Bailey, William</title>
+                                <title level="m" type="sub">a machine readable transcription</title>
+                                <principal>Susan C. Lawrence</principal>
+                                <principal>Kenneth M. Price</principal>
+                                <principal>Kenneth J. Winkle</principal>
+                        </titleStmt>
+                        <editionStmt>
+                                <edition>
+                                        <date>2011</date>
+                                </edition>
+                        </editionStmt>
+                        <publicationStmt>
+                                <idno>med.d1e11595</idno>
+                                <authority>Civil War Washington</authority>
+                                <publisher>University of Nebraska–Lincoln</publisher>
+                                <distributor>
+                                        <name>Center for Digital Research in the Humanities</name>
+                                        <address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+                                </distributor>
+                                <date>2011</date>
+                                <availability>
+                                        <p>Copyright © 2011 by University of Nebraska–Lincoln, all
+                                                rights reserved. Redistribution or republication in
+                                                any medium, except as allowed under the Fair Use
+                                                provisions of U.S. copyright law, requires express
+                                                written consent from the editors and advance
+                                                notification of the publisher, the University of
+                                                Nebraska–Lincoln.</p>
+                                </availability>
+                        </publicationStmt>
+                        <notesStmt>
+                                <note type="project">The following are responsible for particular readings or for changes to this file, as noted: 
+                                        <persName xml:id="mb">Matthew Bosley</persName>
+                                        <persName xml:id="el">Elizabeth Lorang</persName>
+                                        <persName xml:id="sb">Stacey Berry</persName>
+                                        <persName xml:id="et">Elisabeth Tracey</persName>
+                                </note>
+                        </notesStmt>
+                        <sourceDesc>
+                                <bibl>
+                                        <title level="j">The Medical and Surgical History of the War of the Rebellion</title>
+                                        <pubPlace>Washington, DC</pubPlace>
+                                        <publisher>Government Printing Office</publisher>
+                                        <biblScope type="part">Part 3</biblScope>
+                                        <biblScope type="volume">Volume 1</biblScope>
+                                        <date when="1888">1888</date>
+                                        <biblScope type="page">865-866</biblScope>
+                                </bibl>
+                        </sourceDesc>
+                </fileDesc>
+                <encodingDesc>
+                        <classDecl>
+                                <taxonomy xml:id="medsurg">
+                                        <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+                                </taxonomy>
+                        </classDecl>
+                </encodingDesc>
+                <profileDesc>
+                        <textClass>
+                                <keywords scheme="#medsurg">
+                                        <term>on certain local diseases</term>
+                                        <term>cardiac diseases</term>
+                                        <term>functional disturbances</term>
+                                        <term>functional disease of the heart</term>
+                                        <term>irritable heart disease</term>
+                                        <term>cardiac muscular exhaustion</term>                                        
+                                        <term>injury of abdominal wall, jolted mounting unruly horse</term>
+                                        <term>on digitalis for increased pulse</term>
+                                 </keywords>
+                        </textClass>
+                </profileDesc>
+                <revisionDesc>
+                        <change who="#mb" when="2013-05-09">additional proofing of transcription and encoding, edited and added keyword terms</change>
+                        <change who="#mb" when="2011-07-14">additional proofing of transcription and encoding</change>
+                        <change who="#el" when="2011-05-11">case text extracted and transformed from larger file</change>
+                        <change who="#sb" when="2011-02-23">Encoding and Proofing</change>
+                        <change who="#et" when="2009-12-01">Initial Checking OCR Text to PDF file,</change>
+                </revisionDesc>
+        </teiHeader>
+        <text>
+                <body>                        
+                        <p><hi rend="initialcap">C</hi>ASE 8.&#8212;<name type=" person">Private William Bailey</name>, <name type="organization">6th N. Y. Cav.</name>; age
+                                29; enlisted <date type="enlisted" when="1862-08-01">Aug. 1, 1862</date>, and was sent to <name type="place">Camp Convalescent</name>, near <name type="place">Alexandria, Va.</name> Here he took cold by sleeping on the ground with insufficient covering, and was so ill as
+                                        to be for a time under treatment in one of the general
+                                        hospitals.  In <date type="injury" when="1862-10">October</date>, having joined a portion of his regiment which was then in Washington, he was severely jolted in
+                                        trying to mount an unruly horse. The injury seemed to him to
+                                        be somewhere in the abdominal walls.  <date type="transfer" when="1862-11">About a month afterward</date> he was sent to <name type="place">Philadelphia</name> to this hospital. On admission, <date type="admit" when="1862-11-12">November 12</date>, he was a good deal debilitated;
+                                        pulse rapid; tongue coated; expression of pain on his face;
+                                        great tenderness with marked tympanites of the abdomen, and
+                                        diarrh&#339;a recurring every few days; appetite fair. He was
+                                        treated with tonics, cod-liver oil, anodynes and nourishing
+                                        diet.  In January, 1863, he was put on digitalis as his pulse
+                                continued to range above 130.  On <date type="servicedischarge" when="1863-02-20">February 20</date>, when he was
+                                        ordered to be discharged, his abdominal symptoms had left
+                                        him and he was in good condition otherwise, except that his
+                                        pulse remained over 120, rising to 174 when he walked to the
+                                        end of the ward and back. I was unable to define accurately
+                                        the source of the mischief in this case. The patient had
+                                        not, according to his own account, had a distinctly <choice><orig>malarious</orig><reg>malarial</reg></choice> fever, nor had he while under my care a fully
+                                        developed peritonitis. His heart was in no respect abnormal
+                                        except in its irritability, which did not seem to arise from
+                                        the state of the blood, nor was there any evidence of disease in any other organ.&#8212;<hi rend="italic"><name type="person" key="xx">Act. Ass't Surgeon John H. Packard</name>, <name type="hospital">Satterlee Hospital, Philadelphia</name>, Pa.</hi> </p>                        
+                </body>
+        </text>
+</TEI>

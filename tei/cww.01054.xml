@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="cww.01054">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>                
+                <title level="m" type="main">Petition of Henry Sanders, 29 July 1862</title>
+                <title level="m" type="main">Evidence Relating to the Petition of Henry Sanders, 29 July 1862</title>
+                <title level="m" type="sub">a machine readable transcription</title>
+                <principal>Susan C. Lawrence</principal>
+                <principal>Kenneth M. Price</principal>
+                <principal>Kenneth J. Winkle</principal>
+                <respStmt>
+                    <resp>transcription and encoding</resp>
+                    <name xml:id="jc">Janel Cayer</name>
+                    <name xml:id="el">Elizabeth Lorang</name>
+                <name xml:id="kjw">Kenneth J. Winkle</name>
+</respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2012</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <idno>cww.01054</idno>
+                <distributor>Civil War Washington</distributor>
+                <publisher>University of Nebraska–Lincoln</publisher>
+                <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>P.O. Box 884100</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+            </address>
+                <date>2012</date>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+                        <p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License (http://creativecommons.org/licenses/by-nc-sa/3.0/). Derivatives must be credited to Civil War Washington, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl xml:id="rg21">
+                    <title>Petition of Henry Sanders, 29 July 1862</title>
+                    <date when="1862-07-29">July 29, 1862</date>
+                    <idno>Microcopy 433, Reel 3</idno>                
+                    <orgName>National Archives and Records Administration</orgName>
+                    <relatedItem type="original">
+                        <bibl>
+                            <title>Petition of Henry Sanders, 29 July 1862</title>
+                            <date when="1862-07-29">July 29, 1862</date>
+                            <idno type="rg">Record Group 21</idno>
+                            <orgName>Records of the District Courts of the United States, 1685&#8211;2004, National Archives and Records Administration</orgName>
+                            <orgName>Emancipation Records, compiled 1862&#8211;1863</orgName>
+                            <note type="project">Within the National Archives' Archival Description Catalog, see ARC Identifier 4314547 / MLR Number NC-2 33 (http://arcweb.archives.gov).</note>
+                        </bibl>
+                    </relatedItem>
+                    <note type="project">Our transcription is based on a digital image of a microfilm copy of the original.</note>
+                </bibl>
+                
+                <bibl xml:id="rg217">
+                    <title>Evidence Relating to the Petition of Henry Sanders, 29 July 1862</title>
+                    <date when="1862-07-29">July 29, 1862</date>
+                    <idno>Microcopy 520, Reel 6</idno>
+                    <orgName>National Archives and Records Administration</orgName>
+                    <relatedItem type="original">
+                        <bibl>
+                            <title>Evidence Relating to the Petition of Henry Sanders, 29 July 1862</title>
+                            <date when="1862-07-29">July 29, 1862</date>
+                            <idno type="rg">Record Group 217.6.5</idno>
+                            <orgName>Records of the Accounting Officers of the Department of the Treasury, 1775&#8211;1978, National Archives and Records Administration</orgName>
+                            <note type="project">Within the National Archives' Archival Description Catalog, see ARC Identifier 4644616 / MLR Number A1 347 (http://arcweb.archives.gov).</note>
+                        </bibl>
+                    </relatedItem>
+                    <note type="project">Our transcription is based on a digital image of a microfilm copy of the original.</note>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <particDesc>
+                <person role="owner">
+                    <persName>Samuel Pumphrey</persName>
+                </person>
+                <person role="petitioner-slave">
+                    <persName>Henry Sanders</persName>
+                </person>
+            </particDesc>
+        </profileDesc>
+        <revisionDesc>
+<change when="2013-07-10" who="#jc">blessed</change>
+<change when="2013-07-08" who="#kjw">blessed</change>
+            <change when="2013-06-17" who="#el">checked</change>
+            <change when="2012-07-29" who="#jc">transcribed and encoded</change>
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            <!-- Begins with the text of the petition. -->
+           
+            <pb xml:id="leaf001r" facs="cww.01054.001.jpg"/>
+            
+            <div1 type="petition" subtype="handwritten" corresp="#rg21">            
+                                
+                <div2 type="document">
+                  
+                    <opener>
+                        <salute>To <persName>John A. Smith</persName>
+                            Clerk of the Circuit Court for the <placeName>District of Columbia</placeName></salute>
+                        <salute>Sir:</salute>
+                    </opener>                    
+                    <p><persName>Samuel Pumphrey</persName> of <placeName>Washington D.C.</placeName> having claim to the service or labor of the undersigned, and having refused or neglected to file in your Office the statement in writing or schedule provided for in the 9th section of the Act of Congress, entitled, An act for the release of certain persons held to service or labor in the <placeName>District of Columbia</placeName> Approved <date when="1862-04-16">April 16th 1862</date></p>
+                    <p>You will please file the annexed schedule in pursuance of an act supplementary to the above recited act, Approved <date when="1862-07-12">July, 12th 1862</date>. The undersigned was a resident of said <placeName>District</placeName> on the <date when="1862-04-16">16th April 1862</date>, &#38; for fifteen years previous by and with the consent of said <persName>Samuel Pumphrey</persName>.</p>
+                    <table>
+                        <row>
+                            <cell>Name</cell>
+                            <cell>Age</cell>
+                            <cell>Sex</cell>
+                            <cell>Remarks</cell>
+                        </row>
+                        <row>
+                            <cell><persName>Henry Sanders</persName></cell>
+                            <cell><choice><abbr>abt</abbr><expan>about</expan></choice> 29</cell>
+                            <cell>Male</cell>
+                            <cell>Black color height 5 feet 6 1/2 inches</cell>
+                        </row>
+                    </table>
+                    
+                    <closer>
+                        <signed>his X mark <persName>Henry Sanders</persName></signed><lb/>
+                        Witness
+                        <signed><persName>Z B Brooke</persName></signed>
+                    </closer>
+                </div2>
+                                
+                <pb xml:id="leaf001v" facs="cww.01054.002.jpg"/>
+                
+                <div2 type="cover">
+                    <div3 type="section">
+                        <ab>paid</ab>
+                        <ab><persName>Henry Sanders</persName></ab>
+                    </div3>
+                    <div3 type="section">
+                        <ab>Recorded in Manumission Record No. 2 folios 82 &#38; 83</ab>
+                    </div3>
+                    <div3 type="section">
+                        <ab>Filed <date when="1862-07-29">July 29th 1862</date></ab>
+                    </div3>
+                    
+                    <div3 type="section">
+                        <p>The commissioners, satisfied on the testimony of <persName>Wm C. Harper</persName> of the truth of the within statement, order the same to be so reported to the Clerk of the Circuit Court of the <placeName>District of Columbia</placeName>.</p>
+                        <closer>
+                            <signed><persName>Wm. R. Woodward</persName><lb/>
+                            Clerk <choice><abbr>Emn</abbr><expan>Emancipation</expan></choice> <choice><abbr>Comn</abbr><expan>Commissioners</expan></choice></signed>
+                            
+                        </closer>
+                    </div3>
+                    
+                    <div3 type="section">
+                        <ab><choice><abbr>Cert</abbr><expan>Certificate</expan></choice> given <choice><abbr>Idfd</abbr><expan>Identified</expan></choice> by <persName>Geo H Day</persName>,</ab>
+                        <dateline><date when="1862-07-29">29 July 1862</date></dateline>
+                    </div3>
+                </div2>
+            </div1>
+            
+            <!-- Evidence pertaining to the case begins here. -->
+                        
+            <pb xml:id="leaf002r" facs="cww.01054.003.jpg"/>
+            
+            <div1 type="evidence" corresp="#rg217" subtype="handwritten">
+                <dateline><date when="1862-07-29">July 29, 1862</date></dateline>
+                
+                <div2 type="procedural">
+                    <ab><persName>Henry Sanders</persName></ab>
+                    <ab>Servant of <persName>Samuel Pumphrey</persName> of <placeName>Washington City DC</placeName></ab>
+                </div2>
+                
+                <div2 type="testimony">
+                    <p><persName>William C. Harper</persName>. I know this boy <choice><sic>her</sic><corr>here</corr></choice> by name of <persName>Henry</persName>. He belonged to Mr <persName>Samuel Pumphrey</persName>. Dont know that servant lived here on <date when="1862-04-16">16th April 1862</date>. has lived <choice><sic>her</sic><corr>here</corr></choice> since that time was in employ of Mr <persName>Saml Pumphrey</persName> for 10 or 12 years. <persName>Mr Pumphrey</persName> called him his servant and slave recognised him as master. <persName>Mr P</persName> lives on <placeName>Island</placeName></p>
+                </div2>
+                
+                <div2 type="procedural">
+                    <ab>Certificate ordered</ab>
+                </div2>
+                
+                <pb xml:id="leaf002v" facs="cww.01054.004.jpg"/>
+                <div2 type="cover">
+                    <ab><persName>Henry Sanders</persName></ab>
+                    <ab><date when="1862-07-29">July 29</date></ab>
+                </div2>
+            </div1>            
+        </body>
+    </text>
+</TEI>
+                
+                
+                
+                
+                
+

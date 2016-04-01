@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e16656">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title level="m" type="main">H&#8212;&#8212;, P.</title>
+        <title level="m" type="sub">a machine readable transcription</title>
+        <principal>Susan C. Lawrence</principal>
+        <principal>Kenneth M. Price</principal>
+        <principal>Kenneth J. Winkle</principal>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <date>2011</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <idno>med.d1e16656</idno>
+        <authority>Civil War Washington</authority>
+        <publisher>University of Nebraska–Lincoln</publisher>
+        <distributor>
+          <name>Center for Digital Research in the Humanities</name>
+          <address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+        </distributor>
+        <date>2011</date>
+        <availability>
+          <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution
+            or republication in any medium, except as allowed under the Fair Use provisions of U.S.
+            copyright law, requires express written consent from the editors and advance
+            notification of the publisher, the University of Nebraska–Lincoln.</p>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="project">The following are responsible for particular readings or for changes to
+          this file, as noted: 
+ <persName xml:id="kmp">Kenneth M. Price</persName> <persName xml:id="ajh">AJ Howell</persName>
+          <persName xml:id="mb">Matthew Bosley</persName>
+          <persName xml:id="el">Elizabeth Lorang</persName>
+          <persName xml:id="sb">Stacey Berry</persName>
+          <persName xml:id="et">Elisabeth Tracey</persName>
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>
+          <title>The Medical and Surgical History of the War of the Rebellion.
+            (1861&#8211;65.)</title>
+          <editor role="compiler">Surgeon General Joseph K. Barnes, United States Army</editor>
+          <pubPlace>Washington, D.C.</pubPlace>
+          <publisher>Government Printing Office</publisher>
+          <biblScope type="part">Part 1</biblScope>
+          <biblScope type="volume">Volume 2</biblScope>
+          <date when="1870">1870</date>
+          <biblScope type="page">263</biblScope>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <classDecl>
+        <taxonomy xml:id="medsurg">
+          <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="#medsurg">
+          <term>on special wounds and injuries of the head</term>
+          <term>wounds and injuries of the head</term>
+          <term>gunshot wounds</term>
+          <term>gunshot fractures of the cranial bones</term>
+          <term>trephining after gunshot fractures of the skull</term>
+          <term>trephining practiced, fatal termination</term>
+          <term>conoidal ball fractured and depressed posterior portion of left parietal bone</term>
+          <term>convulsions</term>
+          <term>deglutition lost, tongue turned to left side</term>
+          <term>fragment of bone perforated dura mater, removal followed by discharge of
+            disorganized brain substance</term>
+          <term>loss of speech</term>
+          <term>paralysis of right side</term>
+          <term>general anesthesia, ether</term>
+          <term>pus between dura mater and brain</term>
+          <term>red softening and disorganization of brain under seat of injury</term>
+          <term><choice>
+              <orig>sero-sanguinolent</orig>
+              <reg>serosanguinous</reg>
+            </choice> effusion at base of brain</term>
+          <term>dura mater showed marks of inflammatory action, brown color in neighborhood of
+            fracture</term>
+
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+ <change who="#kmp" when="2014-05">blessed</change>
+      <change who="#ajh" when="2013-08-19">added figure encoding</change>
+      <change who="#mb" when="2013-08-14">additional proofing of transcription and encoding, edited
+        and added keyword terms</change>
+      <change who="#mb" when="2011-08-08">additional proofing of transcription and encoding</change>
+      <change who="#el" when="2011-11-05">case text extracted and transformed from larger
+        file</change>
+      <change who="#sb" when="2011-02-09">enriched encoding</change>
+      <change who="#sb" when="2011-01-28">validated file</change>
+      <change who="#et" when="2009-08-01">encoded</change>
+      <change who="#sb" when="2008-09-22">initial checking of OCR text against PDF; encoded</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p><hi rend="initialcap">C</hi>ASE.&#8212;<name type="person">Private P.
+          H&#8212;&#8212;</name>, <name type="organization">Co. E, 9th Pennsylvania Reserves</name>,
+        aged 28 years, was wounded at the battle of <name type="BATTLE" key="4">Fredericksburg,
+          Virginia</name>, <date type="injury" when="1862-12-13">December 13th, 1862</date>, by a
+        conoidal ball, which fractured and depressed the posterior portion of the left parietal
+        bone. He was unconscious for some time after the reception of the injury. On <date
+          type="admit" when="1862-12-15">December 15th</date>, he was admitted into the <name
+          type="hospital" key="175">Stanton Hospital</name>, Washington. D. C. A wound of scalp was
+        discovered through which could be felt a portion of depressed bone; through another wound,
+        two inches anteriorly, the patient stated that a portion of the ball had been extracted. No
+        symptoms of brain lesion were manifest, the patient being perfectly conscious and answering
+        all questions correctly and intelligently. Ice was applied to the head, but, toward evening,
+        convulsions ensued followed by others at intervals during the night. The next morning a
+        semi-comatose condition supervened, continuing until the 17th, when it deepened. The power
+        of deglutition was lost, and the tongue turned to the left side of the month. On <date
+          type="operation" when="1862-12-18">the 18th</date>, the condition being unimproved, an
+        operation was decided upon. Accordingly the patient was etherized, and <name type="person"
+          key="70">Surgeon John A. Lidell</name>, <name type="organization" key="132">U. S.
+          V.</name>, applied the trephine to the anterior edge of the opening in the cranium and
+        removed a disc of bone. The depressed portion, about an inch long and three-fourths of an
+        inch wide, and six fragments of bone were easily detached. One of the latter had evidently
+        perforated the dura mater, its removal being followed by a discharge of disorganized brain
+        substance. After the operation, the coma lightened somewhat and power of deglutition and
+        consciousness were restored; the loss of speech, however, continued. The improvement was of
+        short duration, for on the next day coma and paralysis of the right side again supervened,
+        with effused blood, which was very dark, amounted, in all, to three ounces, and came from
+        the longitudinal sinus. These symptoms increased in gravity continuously, the patient
+        becoming more and more exhausted until <date type="death" when="1862-12-23">the 23d</date>,
+        when he died. At the <hi rend="italic">post-mortem</hi> examination, a thick brown-colored
+        pus, to the amount of an ounce and a halt, escaped from between the dura mater and the
+        brain. Under the seat of injury was found red softening and disorganization of the brain
+        extending to the depth of an inch and a half. There was also considerable effusion of clear
+        serum in the ventricles, and a <choice>
+          <orig>sero-sanguinolent</orig>
+          <reg>serosanguinous</reg>
+        </choice> effusion at the base of the brain. The cerebrum generally, including both right
+        and left hemispheres, was congested, the punctiform spots being unusually distinct. The dura
+        mater, covering the convexity of the left hemisphere, showed marks of recent inflammatory
+        action, being injected, reddened, roughened, and of a brown color in the neighborhood of the
+        fracture. It was also lined by a thick layer of false membrane. The specimen is figured in
+        the wood-cut. The fractured portion of the inner table of the cranium measures three-fourths
+        by one inch, and is partly included in the disk removed by the trephine. The outer table is
+        injured to a less extent. The specimen and history were contributed by <name type="person"
+          key="70">Surgeon J. A. Lidell</name>, <name type="organization" key="132">U. S.
+        V.</name></p>
+      <figure>
+        <graphic url="cww.001413.001"/>
+        <head><hi rend="initialcap">F</hi>IG. 126.&#8212;Segment of left parietal, from a patient
+          trephined for depressed gunshot fracture. <hi rend="italic">Spec</hi>. 534, Sect. I, A. M.
+          M.</head>
+      </figure>
+
+    </body>
+  </text>
+</TEI>

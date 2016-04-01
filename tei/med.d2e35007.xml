@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d2e35007">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Jordan, John</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+    <idno>med.d2e35007</idno>
+    <authority>Civil War Washington</authority>
+    <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor>
+     <name>Center for Digital Research in the Humanities</name>
+     <address><addrLine>319 Love Library</addrLine>
+       <addrLine>University of Nebraska–Lincoln</addrLine>
+       <addrLine>Lincoln, NE 68588-4100</addrLine>
+       <addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+    </distributor>
+    <date>2011</date>
+    <availability>
+     <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+      republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+      law, requires express written consent from the editors and advance notification of the
+      publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: <persName xml:id="ajh">AJ Howell</persName>
+     <persName xml:id="el">Elizabeth Lorang</persName>
+     <persName xml:id="sb">Stacey Berry</persName>
+     <persName xml:id="et">Elisabeth Tracey</persName>
+     <persName xml:id="ss">Sarah Synovec</persName>
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl>
+     <title level="j">The Medical and Surgical History of the War of the Rebellion.
+      (1861-65.)</title>
+     <pubPlace>Washington, DC</pubPlace><publisher>Government Printing Office</publisher>
+     <biblScope type="part">Part 3</biblScope>
+     <biblScope type="volume">Volume 2</biblScope>
+     <date when="1883">1883</date>
+     <biblScope type="page">839-840</biblScope>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+     <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <keywords scheme="#medsurg">
+     <term>wounds and complications</term>
+     <term>hospital gangrene</term>
+     <term>struck by fragment of shell</term>
+     <term>shell passed across right thigh below Pouparts ligament, through scrotum, destroying right testicle, behind left thigh</term>
+     <term>febrile disturbance, anorexia</term>
+     <term>yellow fured tongue</term>
+     <term>burning pain in thigh</term>
+     <term>restless expression of countenance</term>
+     <term>ulcer covered with ashy gray slough, discharging a
+      thin fetid serum mixed with debris</term>
+     <term>severe pain in region of cicatrix of thigh</term>
+     <term> gangrene attacked granulating surface of thigh</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change who="#ajh" when="2013-02-18">additional proofing of transcription and encoding, edited
+    and added keyword terms, added figures</change>
+   <change who="#el" when="2011-05-11">case text extracted and transformed from larger file</change>
+   <change who="#sb" when="2011-06-04">Enrich Encoding, Edit and validate</change>
+   <change who="#sb" when="2011-01-28">Validated File</change>
+   <change who="#ss" when="2008-09-22">initial checking of OCR text; encoded P5 Encoding</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>In <date type="injury" when="1863-02">February, 1863</date>, a number of cases of hospital
+    gangrene occurred at the <name type="hospital" key="162">Douglas Hospital</name>, Washington, D.
+    C., and were observed by <name type="person" key="200">Assistant Surgeon William Thomson</name>,
+     <name type="organization" key="190">U. S. A.</name>, who, in a special report to the Surgeon
+    General, gives the following interesting account of the pathology and treatment of the cases. In
+    several instances later information has been added to the cases cited by <name type="person"
+     key="200">Dr. Thomson</name>: <!--<ref xml:id="n01" target="#n48" n="1" /> --></p>
+
+   <p>"On the 26th of December, 1862, about two hundred wounded from the battle of <name
+     type="BATTLE" key="251">Fredericksburg</name> were received into the <name type="hospital"
+     key="162">Douglas Hospital</name>.</p>
+
+   <p>&quot; CASE VIII.&#8212;<name type="person" key="xxx">John Jordan</name>, Private, <name
+     type="organization" key="xxx">Co. H, 2d Maine</name>, aged 20 years, was struck at <name
+     type="battle" key="251">Fredericksburg</name>, <date type="injury" when="1862-12-13">December
+     13, 1862</date>, by a fragment of shell, which passed across the right thigh below Poupart s
+    ligament, through the scrotum, destroying the right testicle, and behind the left thigh,
+    producing in its course very extensive but superficial wounds of the anterior portion of right
+    and posterior portion of left thigh. He was admitted <date type="admit" when="1864-12-26">December 26, 1862</date>, and placed in ward No.
+    5. February 27, 1863, he had febrile disturbance and anorexia, a yellow, furred tongue,
+    an anxious, restless expression of countenance, and a burning pain in his left thigh. There was
+    on the right thigh a granulating surface three by two inches in dimensions, level with the
+    integument, and cicatrizing rapidly. A smaller, equally healthy surface remained unheuled on the
+    scrotum, while on the posterior portion of the upper part of the left thigh an ulcer three by
+    two inches in extent was found, oval in shape, covered with an ashy gray slough, with its margin
+    thickened and everted, surrounded by a livid areola, and, instead of normal pus, discharging a
+    thin fetid serum mixed with debris. He was at once removed to the house; the whole diseased
+    surface was touched with pure nitric acid and dressed with the creasote lotion; stimulants and
+    the best extra diet, with beef essence and milk punch at short intervals, and citrate of iron
+    and quinine three times daily, were ordered. March 5th: The attempt to push the
+    nutrients and stimulants produced, as it generally does, anorexia, nausea, vomiting, and
+    diarrh&#339;a. The tongue became thickly coated with a yellow fur and dry and red at the tip; and so
+    great was the gastric disturbance that all medicines were discontinued and the stomach allowed
+    to recover its tone by rest, no longer being teased either by drugs or excessive and undesired
+    nutriment. No benefit followed the local application, and the ulceration had extended in every
+    direction. There was the characteristic margin, preceded by the areoln of livid stasis,
+    preparing the tissues for their rapid destruction. The connective tissue beneath the skin had
+    been destroyed, so that the skin for one inch from its margin was perfectly movable. The muscles
+    separated from each other by the death of their connective tissue lay in the wound bathed in its
+    discharge, but rosy and florid, and resisting the advance of the disease. This sore was so
+    unmistakably hospital gangrene that several pictures of it were taken by direction of <name type="person" key="xxx">Surgeon
+     Brinton</name>, which represent well the surface of the ulcer dripping with its thin serous discharge,
+    mingled with threads of dead connective tissue, its piled-up, thickened, and everted margin
+    surmounted by a thin line of vivid redness, and its broad zone of purple congestion shading away
+    into a bronze hue, the depth of color in the areola indicating the engorgement of the small
+    vessels and its line the feebleness and slowness of the movement of the blood. It was determined
+    to try the opium treatment, with hydrochloric acid as a tonic, and this mixture was given in the
+    proportion of 16 drops of tincture of opium with four drops hydrochloric acid every three hours.
+    The sore was dressed with a stimulating poultice composed of flaxseed, cinchona, and ginger
+    mixed with porter. Under the use of the acid internally the tongue has become clean and moist,
+    the tone of the digestive apparatus improved, and a fair quantity of food had been taken.
+    Porter and ale had been given as the stomach would retain them. But little change had taken
+    place in the character of the ulcer, which was eight inches in length by seven in breadth,
+    extending to the perineum, and irregularly oval in shape. The muscles exposed (the
+    semi-membranosus and biceps) had yielded and were now almost divided. The sores on the right
+    thigh and scrotum had not been in the least affected, but were cicatrizing rapidly. The entire
+    surface of the gangrenous sore was now thoroughly cleaned, all sloughs and shreds removed with
+    forceps and scissors, was well dried with lint and carefully painted with pure nitric acid. The
+    brush, charged with acid, was passed beneath the excavated margin in some places more than an
+    inch. The patient was etherized, and this acid application was made most carefully and
+    completely. This was considered a dernier resort, for although the capacity for taking and
+    assimilating food seemed to have been increased by the acid treatment internally, yet his
+    strength was daily diminishing from the exhausting discharge and from the absorption of the
+    products of the gangrene. On the succeeding day an entire change in the sore was observed; there
+    had been no extension of the gangrene, the fetid odor was gone, and the discharge was more
+    consistent and less serous. In a few days more all the shreds of dead fascia were removed, and
+    the surface was found to be perfectly healthy. The contrast between the ragged, offensive,
+    yellow-colored ulcer before the last application of acid, and the florid, perfectly normal
+    granulating surface which replaced it, was as gratifying as it was surprising. With the local
+    there was also a constitutional improvement. The appetite became voracious, the patient slept
+    well; there was no pain, and the process of repair was very rapid. The acid was continued
+    internally. April 1st: The sore was now two by three inches in extent and cicatrizing rapidly;
+    but a small surface yet remained annealed. The patient was in perfect health, had gained flesh
+    very rapidly, and was now on crutches. There was some contraction of the flexors, as the biceps
+    and semi-membranoeus were both involved in the destruction. [Jordan was discharged <date type="servicedischarge" when="1863-06-09">June 9, 1863</date>,
+    and pensioned. <name type="person" key="xxx">Examiner J. C. Weston</name> reported, September 11, 1869: &quot;At the biennial
+    examination in 1865 atrophy and increased weakness of right thigh and leg had occurred. His gait
+    is always affected; he has severe pain in region of cicatrix of left thigh; this cicatrix is
+    six by three inches, is depressed, indurated, adherent to muscles, and sensitive on account of
+    rigidity and emaciation; he cannot fully extend the leg.&quot; His condition had not improved
+    when examined in 1873.] </p>
+
+   <p>&quot;The most remarkable circumstance in this typical case is the fact that when the gangrene
+    attacked the granulating surface of the left thigh the equally large granulating surface of the
+    right thigh was unaffected; and that while the gangrene was ravaging the left thigh the rapid
+    cicatriza tion of the right proceeded uninterruptedly. The discharge from the left thigh was so
+    profuse that no precaution would have prevented the virus from coming in contact with the
+    excoriated surfaces of the scrotum and right thigh. If, therefore, the disease be propagated by
+    inoculation, all the circumstances were favorable; since the proximity of the thighs at their
+    upper part, and a denuded surface on the scrotum, that might act as a link, render it certain
+    that a portion of the great discharge from the left must frequently have been placed in contact
+    with both of the other sores. If, on the other hand, the gangrene be not a local but a
+    constitutional disease, why should it spend itself on one granulating surface when there were
+    two others equally obnoxious ? The con trast between these sores was marked ; for while the
+    tissues of the left thigh were melting away under one s very gaze, the process of repair in the
+    scrotum and right thigh was progressing as rapidly as under the most favorable circumstances. In
+    its earlier stages this case was twice treated with nitric acid, and perhaps imperfectly, from
+    its not having been carried into the recesses of the ulcer. The system of urging nutrients,
+    stimulants, and tonics irrespective of the natural desires of the patient is, I am satisfied,
+    pernicious. The vital energy being depressed, the digestive organs are enfeebled; and the
+    introduction of milk punch, beef essence, eggnog, and with stimu lants porter, ale, etc., into
+    an unwilling stomach, simply produces anorexia, nausea, vomiting, and diarrh&#339;a. The tongue
+    became furred and dry, and there was a perfect disgust for all food. The hydrochloric acid was
+    given to correct this condition ; and whether its action was confined to the stomach in
+    rendering soluble the aliment given in very small quantities, or whether its action was
+    catalytic or eliminative, I shall not pretend to state, but under its influence the tongue
+    became moist and clean and tlie patient made known his desire for food. Nutrients were then
+    given more freely as his appetite returned. The recovery of this man is due, firstly, to the
+    thorough application of nitrid acid to every portion of the ulcer, which changed its specific
+    nature immediately; and, secondly, to the combined effect of acid and opium internally. After
+    the last complete application of acid the sore was changed in character, the areola
+    disappeared, the surface became clean, the margins lost their elevated appearance, the serous
+    discharge became purulent, and the offensive odor was entirely destroyed. An equally marked
+    improvement occurred in his general condition. </p>
+  </body>
+ </text>
+</TEI>

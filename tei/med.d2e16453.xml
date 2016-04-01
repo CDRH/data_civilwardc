@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d2e16453">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Gould, Charles F.</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+    <idno>med.d2e16453</idno>
+    <authority>Civil War Washington</authority>
+    <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor>
+     <name>Center for Digital Research in the Humanities</name>
+     <address><addrLine>319 Love Library</addrLine>
+       <addrLine>University of Nebraska–Lincoln</addrLine>
+       <addrLine>Lincoln, NE 68588-4100</addrLine>
+       <addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+    </distributor>
+    <date>2011</date>
+    <availability>
+     <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+      republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+      law, requires express written consent from the editors and advance notification of the
+      publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+ <persName xml:id="kmp">Kenneth M. Price</persName> <persName xml:id="ajh">AJ Howell</persName>
+     <persName xml:id="mb">Matthew Bosley</persName>
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl>
+     <title level="j">The Medical and Surgical History of the War of the Rebellion.
+      (1861-65.)</title>
+     <pubPlace>Washington, DC</pubPlace>
+     <publisher>Government Printing Office</publisher>
+     <biblScope type="part">Part 3</biblScope>
+     <biblScope type="volume">Volume 2</biblScope>
+     <date when="1883">1883</date>
+     <biblScope type="page">392</biblScope>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+     <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <keywords scheme="#medsurg">
+     <term>wounds and injuries of the lower extremities</term>
+     <term>wounds and injuries of the knee joint</term>
+     <term>excisions at the knee joint for shot injury</term>
+     <term>intermediary excisions at the knee joint</term>
+     <term>fatal instances of intermediary excision at the knee joint</term>
+     <term>ball entered outer side of joint near head of tibia</term>
+     <term>condyles of femur, patella, and heads of tibia and fibula removed</term>
+     <term>py&#230;mia</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+ <change who="#kmp" when="2014-05">blessed</change>
+   <change who="#ajh" when="2013-08-23">added figure encoding</change>
+   <change who="#mb" when="2012-05-29">additional case copied from MSHWR, performed proofing of copy
+    and XML encoding, and key terms identified</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p><hi rend="initialcap">C</hi>ASE 618.&#8212;<name type="person" key="xxx">Private Charles F.
+     Gould</name>, <name type="organization" key="xxx">Co. I, 1st Pennsylvania Reserves</name>, was
+    wounded at the <name type="battle" key="127">second battle of Bull Run</name>, <date
+     type="injury" when="1862-08-30">August 30, 1862</date>. A musket ball appeared to have entered
+    the outer side of the joint near the head of the tibia. The patient was sent to <name
+     type="hospital" key="214">Fairfax Seminary Hospital</name>, near <name type="place"
+     >Alexandria</name>, <date type="admit" when="1862-09-09">September 9, 1862</date>. On <date
+     type="operation" when="1862-09-15">September 15th</date>, an excision of the knee joint was
+    performed. The condyles of the femur, the patella, and the heads of the tibia and fibula were
+    removed through an H-shaped incision. The wound united, and there seemed every prospect of a
+    satisfactory result, when, on October 8th, symptoms of py&#230;mia were developed, and death
+    ensued <date type="death" when="1862-10-12">October 12, 1862</date>. The pathological
+    preparation was forwarded to the <name type="hospital" key="431">Army Medical Museum</name> by
+     <name type="person" key="xxx">Acting Assistant Surgeon T. O. Bannister</name>. The specimen
+    represented in the left-hand wood-cut (<hi rend="initialcap">F</hi>IG. 242) shows the osseous
+    portion, while the appearance of the soft parts are shown in the right-hand wood-cut (<hi
+     rend="initialcap">F</hi>IG. 243). (See <hi rend="italic">Cat. Surg. Sect.</hi>, 1866, pp. 336,
+    500.)&#178;</p>
+   <p>&#178; <hi rend="italic">Circular</hi> No. 6, War Department, S. G. O., Washington, 1865, p.
+    60; <hi rend="initialcap">C</hi>ULBERTSON (<hi rend="initialcap">H</hi>.), <hi rend="italic"
+     >Excision of the Larger Joints of the Extremities</hi>. Prize Essay, in <hi rend="italic"
+     >Trans. Am. Ned. Assoc.</hi>, 1876, p. 182, Case 8.</p>
+   <figure>
+    <graphic url="cww.001613.001"/>
+    <head><hi rend="initialcap">F</hi>IG. 242.&#8212;Left knee after excision. <hi rend="italic"
+      >Spec</hi>. 629, A. M. M.</head>
+   </figure>
+   <figure>
+    <graphic url="cww.001614.001"/>
+    <head><hi rend="initialcap">F</hi>IG. 243.&#8212;Soft parts from same excision. <hi
+      rend="italic">Spec</hi>. 600.</head>
+   </figure>
+  </body>
+ </text>
+</TEI>

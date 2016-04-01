@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e41049">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Hull, James C.</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+    <idno>med.d1e41049</idno>
+       <authority>Civil War Washington</authority>
+       <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor>
+       <name>Center for Digital Research in the Humanities</name>
+       <address><addrLine>319 Love Library</addrLine>
+       <addrLine>University of Nebraska–Lincoln</addrLine>
+       <addrLine>Lincoln, NE 68588-4100</addrLine>
+       <addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+    </distributor>
+    <date>2011</date>
+    <availability>
+        <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+         republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+         law, requires express written consent from the editors and advance notification of the
+         publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+     <persName xml:id="mb">Matthew Bosley</persName>
+     <persName xml:id="el">Elizabeth Lorang</persName>
+     <persName xml:id="sb">Stacey Berry</persName>
+     <persName xml:id="ao">Alyssa Olson</persName>
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl>
+     <title level="j">The Medical and Surgical History of the War of the Rebellion. (1861-65.)</title>
+     <pubPlace>Washington, DC</pubPlace>
+     <publisher>Government Printing Office</publisher>
+     <biblScope type="part">Part 2</biblScope>
+     <biblScope type="volume">Volume 1</biblScope>
+     <date when="1879">1879</date>
+     <biblScope type="page">165-166</biblScope>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+       <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+      <keywords scheme="#medsurg">
+       <term>diarrh&#339;a and dysentery</term>
+       <term>fatal cases of diarrh&#339;a and dysentery, with accounts of the morbid appearances observed</term>
+       <term>from Lincoln Hospital, Washington, D. C.</term>
+       <term>diarrh&#339;a and debility</term>
+       <term>rectum ulcerated extensively and superficially, ulcers covered with grayish-yellow pseudomembrane</term>
+       <term>intestine laid aside but accidentally lost</term>       
+       <term>autopsy performed</term>       
+     </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change who="#mb" when="2012-11-06">additional proofing of transcription and encoding, identified keyword terms</change>
+   <change who="#el" when="2010-11-05">case text extracted and transformed from larger file</change>
+   <change who="#sb" when="2010-05-01">enrich encoding, proof and edit</change>
+   <change who="#ao" when="2008-10-02">encoding and editing</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body> 
+   <p>Case from the case-book of <name type="hospital" key="176"><hi rend="initialcap">L</hi>INCOLN <hi rend="initialcap">H</hi>OSPITAL</name>, Washington, D. C.; <name type="person" key="241">Surgeon Henry Bryant</name>, <name type="organization" key="132">U. S. V.</name>, in charge to May, 1863.</p>
+   <p><hi rend="initialcap">C</hi>ASE 357.&#8212;<name type="person" key="xxx">Private James C. Hull</name>, <name type="organization" key="xxx">company H, 15th Connecticut volunteers</name>; admitted <date type="admit" when="1863-02-08">February 8, 1863</date>.  Diarrh&#339;a and debility.  Died, <date type="death" when="1863-03-26">March 26th</date>.  <hi rend="italic">Autopsy</hi> <date type="autopsy" when="1863-03-26">eight hours after death</date>: Height five feet five inches and a half; body very much emaciated; rigor mortis slight. The brain was quite firm, and weighed forty-six ounces and a half. The right lung weighed thirteen ounces, the left eight ounces; the posterior portion of the right lung was very much congested, the left healthy. The heart weighed seven ounces; its structure was firm; a mixed clot was found in the right side, none in the left. The liver weighed thirty-three ounces and a quarter; its color was darker than usual; the gall-bladder contained from four and a half to five ounces of bile. The spleen was very firm, and weighed two ounces and a half. The pancreas weighed one ounce and a half. The right kidney weighed five ounces and a half, the left seven ounces and a quarter; both were of firm consistence. The rectum was ulcerated extensively and superficially, the ulcers being covered with a grayish-yellow pseudomembrane. The rest of the intestine was laid aside for examination, but was accidentally lost.&#8212;<name type="person" key="244">Assistant Surgeon George M. McGill</name>, <name type="organization" key="190">U. S. A.</name></p>
+  </body>
+ </text>
+</TEI>

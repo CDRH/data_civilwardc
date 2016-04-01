@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d2e23471">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Elderkin, W. A.</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+    <idno>med.d2e23471</idno>
+    <authority>Civil War Washington</authority>
+    <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor><name>Center for Digital Research in the
+     Humanities</name><address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address></distributor>
+    <date>2011</date>
+    <availability>
+     <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+      republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+      law, requires express written consent from the editors and advance notification of the
+      publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+ <persName xml:id="kmp">Kenneth M. Price</persName> <persName xml:id="ajh">AJ Howell</persName>
+     <persName xml:id="mb">Matthew Bosley</persName>
+     <persName xml:id="el">Elizabeth Lorang</persName>
+     <persName xml:id="sb">Stacey Berry</persName>
+     <persName xml:id="et">Elisabeth Tracey</persName>
+     <persName xml:id="ss">Sarah Synovec</persName>
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title level="j">The Medical and Surgical History of the War of the Rebellion.
+      (1861-65.)</title><pubPlace>Washington, DC</pubPlace><publisher>Government Printing
+      Office</publisher><biblScope type="part">Part 3</biblScope><biblScope type="volume">Volume
+      2</biblScope><date when="1883">1883</date><biblScope type="page">603</biblScope></bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+     <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <keywords scheme="#medsurg">
+     <term>wounds and injuries of the lower extremities</term>
+     <term>wounds and operations at the ankle joint</term>
+     <term>shot fractures of the bones of the ankle joint</term>
+     <term>amputations at the ankle joint</term>
+     <term>intermediary amputations at the ankle joint</term>
+     <term>recoveries after intermediary amputations at the ankle joint</term>
+     <term>ball entered dorsum of foot, fractured metatarsal bones, exited at plantar surface</term>
+     <term>gangrene</term>
+     <term>Pirogoff's amputation</term>
+     <term>erysipelas</term>
+     <term>consumption</term>
+     <term>supplied with artificial foot</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+ <change who="#kmp" when="2014-05">blessed</change>
+   <change who="#ajh" when="2013-08-23">added figure encoding</change>
+   <change who="#mb" when="2012-06-14">additional proofing of transcription and encoding, identified
+    keyword terms</change>
+   <change who="#el" when="2011-05-11">case text extracted and transformed from larger file</change>
+   <change who="#sb" when="2011-06-04">Enrich Encoding, Edit and validate</change>
+   <change who="#sb" when="2011-01-28">Validated File</change>
+   <change who="#ss" when="2008-09-22">initial checking of OCR text; encoded P5 Encoding</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p><hi rend="initialcap">C</hi>ASE 881.&#8212;<name type="person" key="1391">Private W. A.
+     Elderkin</name>, <name type="organization" key="96">Co. C, 6th Maine</name>, aged 24 years, was
+    wounded at <name type="BATTLE" key="15">Rappahannock Station</name>, <date type="injury"
+     when="1863-11-07">November 7, 1863</date>, by a mini&#233; ball, which entered the dorsum of
+    the right foot, fracturing the metatarsal bones, and making its exit at the plantar surface.
+     <date type="admit" when="1863-11-09">Two days afterwards</date> he was admitted to <name
+     type="hospital" key="173">Harewood Hospital</name> at Washington, where the wound became
+    gangrenous about November 23d. For this a local treatment of nitric acid and oakum dressing was
+    applied and a constitutional treatment of tonics, stimulants, and beef tea diet was
+    administered. The disease, however, not being arrested and the patient growing weaker, operative
+    interference became necessary, and Pirogoff's amputation was performed on <date type="operation"
+     when="1863-12-06">December 6th</date> by <name type="person" key="158">Surgeon R. B.
+     Bontecou</name>, <name type="organization" key="132">U. S. V.</name> After the operation the
+    parts were kept properly adjusted and the supporting treatment was continued. About January 4,
+    1864, the progress of the case was interrupted by erysipelas making its appearance, followed by
+    sloughing of the soft parts to some extent. Tincture of chloride of iron was then prescribed and
+    wheat flour was applied locally. The inflammation was arrested in about two weeks, after which
+    the patient's health improved daily and the wound healed rapidly. He was discharged from service
+    with a useful stump <date type="servicedischarge" when="1864-04-23">April 23, 1864</date>, and
+    pensioned. The amputated part of the foot (<hi rend="italic">Spec</hi>. 2028), contributed with
+    the history by <name type="person" key="158">the operator</name>, is represented in the annexed
+    cut (<hi rend="initialcap">F</hi>IG. 349), and shows the metatarsus to have been badly
+    shattered, some of the fragments being necrosed and a slight effusion of callus having occurred
+    in the neighboring parts. After receiving his discharge the patient was supplied with a "Palmer"
+    artificial foot, which, however, did not prove satisfactory, and is reported to have become
+    entirely useless in about two months. The pensioner died <date type="death" when="1866-12-14"
+     >December 14, 1866</date>, his physician, <name type="person" key="xx">Dr. A. G.
+    Peabody</name>, of <name type="place" key="xx">Machias, Maine</name>, certifying that "death was
+    caused by consumption arising from hardship, exposure, and the loss of the foot, the amputated
+    foot leaving a stump which never thoroughly healed, but remained a constant drain upon the vital
+    powers of the man's constitution."</p>
+   <figure>
+    <graphic url="cww.001653.001"/>
+    <head><hi rend="initialcap">F</hi>IG. 349.&#8212;Portion of right foot, metatarsus
+      shattered.&#8212;<hi rend="italic">Spec</hi>. 2028.</head>
+   </figure>
+  </body>
+ </text>
+</TEI>

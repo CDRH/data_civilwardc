@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d2e9622">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">O'Conner, J.</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+    <idno>med.d2e9622</idno>
+    <authority>Civil War Washington</authority>
+    <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor><name>Center for Digital Research in the
+     Humanities</name><address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address></distributor>
+    <date>2011</date>
+    <availability>
+     <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+      republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+      law, requires express written consent from the editors and advance notification of the
+      publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+ <persName xml:id="kw">Kenneth Winkle</persName> 
+     <persName xml:id="mb">Matthew Bosley</persName>
+     <persName xml:id="el">Elizabeth Lorang</persName>
+     <persName xml:id="sb">Stacey Berry</persName>
+     <persName xml:id="et">Elisabeth Tracey</persName>
+     <persName xml:id="ss">Sarah Synovec</persName>
+     <persName xml:id="kk">Kourtney Klein</persName>
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title level="j">The Medical and Surgical History of the War of the Rebellion.
+      (1861-65.)</title><pubPlace>Washington, DC</pubPlace><publisher>Government Printing
+      Office</publisher><biblScope type="part">Part 3</biblScope><biblScope type="volume">Volume
+      2</biblScope><date when="1883">1883</date><biblScope type="page">196, 198</biblScope></bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+     <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <keywords scheme="#medsurg">
+     <term>wounds and injuries of the lower extremities</term> 
+     <term>injuries of the shaft of the femur</term> 
+     <term>shot fractures of the shaft of the femur</term>
+     <term>shot fractures of the shaft of the femur treated by conservation</term> 
+     <term>shot fractures of the lower third of the femur treated by conservation</term> 
+     <term>successful cases of shot fractures of the lower third of the femur treated by conservation</term> 
+     <term>necrosis of bone</term>
+     <term>sciatic nerve injured</term> 
+     <term>veins in varicose condition</term>
+     <term>ball entered external thigh three inches above patella, fractured shaft of femur through upper end of lower third, exit posteriorly</term>        
+    </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+ <change who="#kw" when="2014-05">blessed</change>
+   <change who="#kk" when="2014-01-29">added figure encoding</change>
+   <change who="#mb" when="2012-05-08">additional proofing of transcription and encoding, identified keyword terms</change>
+   <change who="#el" when="2011-05-11">case text extracted and transformed from larger file</change>
+   <change who="#sb" when="2011-06-04">Enrich Encoding, Edit and validate</change>
+   <change who="#sb" when="2011-01-28">Validated File</change>
+   <change who="#ss" when="2008-09-22">Sarah Synovec initial checking of OCR text; encoded P5 Encoding</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   
+    <p><hi rend="initialcap">C</hi>ASE 403.&#8212;<name type="person" key="1056">Private J.
+      O'Conner</name>, <name type="organization" key="357">Co. F, 16th Michigan</name>, aged 16
+     years, was wounded at <name type="BATTLE" key="16">Cold Harbor</name>, <date type="injury"
+      when="1864-06-02">June 2, 1864</date>. He reached the Fifth Corps Hospital at <name type="place">White House</name> <date type="admit" when="1864-06-05">three days after the injury</date>, and was thence conveyed to
+     <name type="place" key="#Washington">Washington</name>, where he entered the <name type="hospital" key="171">Armory Square Hospital</name>
+     <date type="transfer" when="1864-06-10">June 10th</date>. <name type="person" key="424">Acting Assistant Surgeon G. K. Smith</name> made the following report of the case: "A mini&#233; ball
+     entered the external aspect of the left thigh three inches above the patella, and, passing
+     obliquely inward and upward, fractured the shaft of the femur through the upper end of the
+     lower third, making its exit posteriorly. The patient was treated by <name type="person"
+      key="271">Acting Assistant Surgeon T. O. Bannister</name>. Hodgen's splint was used, and no extension
+     was applied other than the tying of the foot to the foot-board with a bandage. During the
+     treatment eight small fragments of bone were removed. On <date type="duty" when="1864-12-27">December 27th</date> the patient, though his
+     wound had not entirely healed, was transferred to the <name type="organization" key="109">Veteran Reserve Corps</name> and placed on guard duty; but being unable to perform it, he was
+     readmitted to the hospital for treatment several weeks afterwards. He came under my care on
+     June 22, 1865, at which time he was in good health, but slightly lame and able to walk without
+     a cane. There was still a slight discharge of sero-purulent fluid from the wound. The limb was
+     shortened one and one-fourth inches, and, at the seat of the fracture, it was a little larger
+     than normal but not otherwise deformed. On <date type="servicedischarge" when="1865-07-18">July 18,
+      1865</date>, the patient was mustered out of service, with his wound still open." <name
+       type="person" key="xx">Examiner W. G. Wilkinson</name>, of <name type="place" key="xx">Farwell, Michigan</name>, <date type="pension" when="1876-05-16">May 16, 1876</date>, certified to the wound, and stated: "The fracture has
+     been followed by necrosis of bone, several pieces having been removed during the year 1875. The
+     sciatic nerve was injured, and the veins are in a varicose condition. The wound has continued
+     open." The pensioner was paid June 4, 1879. His photograph, taken at the <name type="hospital"
+      key="431">Army Medical Museum</name> in June, 1865 (<hi rend="italic">Surg. Phot. Series</hi>,
+     No. 49, A. M. M.), is copied in <hi rend="initialcap">P</hi>LATE LXIV, <hi rend="initialcap">F</hi>IG. 2, opp. p. 198.</p>
+    
+   <figure> 
+    <graphic url="cww.001810.001" />
+    <head>PLATE  LXIV. &#8212; CONSOLIDATED  GUNSHOT  FRACTURES  OF  THE  FEMUR.   Fig 2.  Case of <name type="person" key="1056">Private J. O'Connor</name>  <name type="organization" key="357">16th Michigan</name></head> 
+   </figure>
+   
+  </body>
+ </text>
+</TEI>

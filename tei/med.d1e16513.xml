@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e16513">
+                <teiHeader>
+                                <fileDesc>
+                                                <titleStmt>
+                                                                <title level="m" type="main">P&#8212;&#8212;, Dominick</title>
+                                                  <title level="m" type="sub">a machine readable
+                                                  transcription</title>
+                                                  <principal>Susan C. Lawrence</principal>
+                                                  <principal>Kenneth M. Price</principal>
+                                                  <principal>Kenneth J. Winkle</principal>
+                                                </titleStmt>
+                                                <editionStmt>
+                                                  <edition>
+                                                  <date>2011</date>
+                                                  </edition>
+                                                </editionStmt>
+                                                <publicationStmt>
+                                                  <idno>med.d1e16513</idno>
+                                                  <authority>Civil War Washington</authority>
+                                                  <publisher>University of
+                                                  Nebraska–Lincoln</publisher>
+                                                  <distributor>
+                                                  <name>Center for Digital Research in the
+                                                  Humanities</name>
+                                                  <address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+                                                  </distributor>
+                                                  <date>2011</date>
+                                                  <availability>
+                                                  <p>Copyright © 2011 by University of
+                                                  Nebraska–Lincoln, all rights reserved.
+                                                  Redistribution or republication in any medium,
+                                                  except as allowed under the Fair Use provisions of
+                                                  U.S. copyright law, requires express written
+                                                  consent from the editors and advance notification
+                                                  of the publisher, the University of
+                                                  Nebraska–Lincoln.</p>
+                                                  </availability>
+                                                </publicationStmt>
+                                                <notesStmt>
+                                                  <note type="project">The following are responsible for particular readings or for changes to this file, as noted: 
+                                                                  <persName xml:id="mb">Matthew Bosley</persName>
+                                                                  <persName xml:id="el">Elizabeth Lorang</persName>
+                                                  <persName xml:id="sb">Stacey Berry</persName>
+                                                  <persName xml:id="et">Elisabeth Tracey</persName>
+                                                  </note>
+                                                </notesStmt>
+                                                <sourceDesc>
+                                                  <bibl>
+                                                  <title>The Medical and Surgical History of the War of the Rebellion. (1861&#8211;65.)</title>
+                                                  <editor role="compiler">Surgeon General Joseph K. Barnes, United States Army</editor>
+                                                  <pubPlace>Washington, D.C.</pubPlace>
+                                                  <publisher>Government Printing Office</publisher>
+                                                  <biblScope type="part">Part 1</biblScope>
+                                                  <biblScope type="volume">Volume 2</biblScope>
+                                                  <date when="1870">1870</date>
+                                                  <biblScope type="page">257</biblScope>
+                                                  </bibl>
+                                                </sourceDesc>
+                                </fileDesc>
+                                <encodingDesc>
+                                                <classDecl>
+                                                  <taxonomy xml:id="medsurg">
+                                                  <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+                                                  </taxonomy>
+                                                </classDecl>
+                                </encodingDesc>
+                                <profileDesc>
+                                                <textClass>
+                                                  <keywords scheme="#medsurg">
+                                                    <term>on special wounds and injuries of the head</term>
+                                                    <term>wounds and injuries of the head</term>
+                                                    <term>gunshot wounds</term>
+                                                    <term>gunshot fractures of the cranial bones</term> 
+                                                    <term>removal of fragments after gunshot fractures of the skull</term>
+                                                    <term>abscess</term>
+                                                    <term>formations of pus between skull and membranes and within brain tissue</term>
+                                                    <term>depressed fracture of occipital bone by conoidal ball</term>
+                                                    <term>subarachnoid effusion of blood, softening of posterior lobe of brain</term>
+                                                    <term>autopsy performed</term>                                                    
+                                                  </keywords>
+                                                </textClass>
+                                </profileDesc>
+                                <revisionDesc>
+                                                <change who="#mb" when="2013-08-12">additional proofing of transcription and encoding, edited and added keyword terms</change>
+                                                <change who="#mb" when="2011-08-05">additional proofing of transcription and encoding</change>                                                
+                                                <change who="#el" when="2011-11-05">case text extracted and transformed from larger file</change>
+                                                <change who="#sb" when="2011-02-09">enriched encoding</change>
+                                                <change who="#sb" when="2011-01-28">validated file</change>
+                                                <change who="#et" when="2009-08-01">encoded</change>
+                                                <change who="#sb" when="2008-09-22">initial checking of OCR text against PDF; encoded</change>
+                                </revisionDesc>
+                </teiHeader>
+                <text>
+                                <body>                                                
+                                                <p> <name type="person"><hi rend="initialcap">P</hi>&#8212;&#8212;, <hi rend="initialcap">D</hi>OMINICK</name>, Private, <name type="organization" key="xx">Co. K, 10th New York</name>.  
+                                                                <name type="BATTLE" key="4">Fredericksburg</name>, <date type="injury" when="1862-12-13">December 13th, 1862</date>.  Depressed
+                                                  fracture of occipital by conoidal ball.  Field and
+                                                                <name type="place" key="#Washington">Georgetown</name> hospitals.  Several fragments of bone
+                                                                removed.  Death, <date type="death" when="1862-12-13">December 13th, 1862</date>.  Autopsy
+                                                  revealed subarachnoid effusion of blood and
+                                                  softening of posterior lobe of brain.  Viscera
+                                                  inflamed.  The pathological specimen is No. 865,
+                                                  Sect. I, A. M. M., a segment of cranium, with
+                                                  depression of fragments.   Contributed by <name type="person" key="xx">Brigade
+                                                                  Surgeon John L. Le Conte</name>, <name type="organization" key="132">U. S. V.</name> </p>                                                
+                                </body>
+                </text>
+</TEI>

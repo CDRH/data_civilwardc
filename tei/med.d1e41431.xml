@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e41431">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Roberts, George</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+    <idno>med.d1e41431</idno>
+       <authority>Civil War Washington</authority>
+       <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor>
+       <name>Center for Digital Research in the Humanities</name>
+       <address><addrLine>319 Love Library</addrLine>
+       <addrLine>University of Nebraska–Lincoln</addrLine>
+       <addrLine>Lincoln, NE 68588-4100</addrLine>
+       <addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+    </distributor>
+    <date>2011</date>
+    <availability>
+        <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+         republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+         law, requires express written consent from the editors and advance notification of the
+         publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+     <persName xml:id="mb">Matthew Bosley</persName>     
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl>
+     <title level="j">The Medical and Surgical History of the War of the Rebellion. (1861-65.)</title>
+     <pubPlace>Washington, DC</pubPlace>
+     <publisher>Government Printing Office</publisher>
+     <biblScope type="part">Part 2</biblScope>
+     <biblScope type="volume">Volume 1</biblScope>
+     <date when="1879">1879</date>
+     <biblScope type="page">193</biblScope>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+       <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+      <keywords scheme="#medsurg">
+       <term>diarrh&#339;a and dysentery</term>
+       <term>fatal cases of diarrh&#339;a and dysentery, with accounts of the morbid appearances observed</term>
+       <term>from the Second Division of the Alexandria Hospital, Virginia</term>
+       <term>chronic diarrh&#339;a</term>
+       <term>extensive deposits of tubercle in upper lobes of both lungs, </term>
+       <term>two large cavities in right upper lobe, small cavity in left lower lobe</term>
+       <term>bronchial glands enlarged, black, and softened</term>
+       <term>pericardium contained serum</term>
+       <term>liver in state of fatty degeneration</term>
+       <term>mesenteric glands enlarged, filled with softened tubercle</term>
+       <term>mucous membrane of small intestine thickened and rough, several small ulcers in Peyer's glands</term>
+       <term>kidneys in state of fatty degeneration on examination with microscope</term>       
+       <term>autopsy performed</term>       
+     </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change who="#mb" when="2012-12-18">copied case from MSHWR, added proofing of transcription and encoding, identified keyword terms and figures</change>   
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body> 
+   <p>Case from the case-book of the <name type="hospital" key="501"><hi rend="initialcap">S</hi>ECOND <hi rend="initialcap">D</hi>IVISION</name> of the <name type="place" key="#Alexandria"><hi rend="initialcap">A</hi>LEXANDRIA</name> <hi rend="initialcap">H</hi>OSPITAL, Virginia, <name type="person" key="134">Surgeon Edwin Bentley</name>, <name type="organization" key="132">U. S. V.</name>, in charge.  Autopsy was made and recorded in the case-book by <name type="person" key="655">Acting Assistant Surgeon Thomas Bowen</name>:</p>
+   <p><hi rend="initialcap">C</hi>ASE 463.&#8212;<name type="person" key="xxx">Private George Roberts</name>, <name type="organization" key="xxx">company H, 59th Massachusetts volunteers</name>; age 46; admitted from the depot hospital of the 9th Corps, <name type="place">City Point, Virginia</name>, <date type="admit" when="1864-10-22">October 22, 1864</date>.  Chronic diarrh&#339;a.  Died, <date type="death" when="1865-02-07">February 7, 1865</date>.  <hi rend="italic">Autopsy</hi> <date type="autopsy" when="1865-02-08">seventeen hours after death</date>: Rigor mortis very great; body greatly emaciated; slight suggillation posteriorly. Head, neck, and spinal column not examined. Both pleur&#230; were coated with recently deposited lymph. There were old adhesions of the lower lobe of the left lung, slight adhesions of the upper lobe of the right; extensive deposits of tubercle in the upper lobes of both lungs, and two large cavities in the upper lobe of the right; the middle and lower lobes of this lung were congested; there was also a small cavity in the lower lobe of the left lung. The bronchial glands were enlarged, black and softened. The pericardium contained an ounce of serum. The heart was normal. The omentum was congested. The liver was pale and flabby, apparently in a state of fatty degeneration; the gall-bladder contained half an ounce of bile. The spleen was normal in size, but softened. The mesenteric glands were enlarged and filled with softened tubercle. The mucous membrane of the small intestine was thickened and rough. [&#63;] There were several small ulcers in Peyer's glands. The colon was normal. The kidneys were pale and soft; on examination with the microscope they were found to be in a state of fatty degeneration; the bladder contained six ounces of urine.</p> 
+  </body>
+ </text>
+</TEI>

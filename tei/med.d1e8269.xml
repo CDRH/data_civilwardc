@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e8269">
+        <teiHeader>
+                <fileDesc>
+                        <titleStmt>
+                                <title level="m" type="main">Cornwright, Stephen</title>
+                                <title level="m" type="sub">a machine readable transcription</title>
+                                <principal>Susan C. Lawrence</principal>
+                                <principal>Kenneth M. Price</principal>
+                                <principal>Kenneth J. Winkle</principal>
+                        </titleStmt>
+                        <editionStmt>
+                                <edition>
+                                        <date>2011</date>
+                                </edition>
+                        </editionStmt>
+                        <publicationStmt>
+                                <idno>med.d1e8269</idno>
+                                <authority>Civil War Washington</authority>
+                                <publisher>University of Nebraska–Lincoln</publisher>
+                                <distributor>
+                                        <name>Center for Digital Research in the Humanities</name>
+                                        <address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+                                </distributor>
+                                <date>2011</date>
+                                <availability>
+                                        <p>Copyright © 2011 by University of Nebraska–Lincoln, all
+                                                rights reserved. Redistribution or republication in
+                                                any medium, except as allowed under the Fair Use
+                                                provisions of U.S. copyright law, requires express
+                                                written consent from the editors and advance
+                                                notification of the publisher, the University of
+                                                Nebraska–Lincoln.</p>
+                                </availability>
+                        </publicationStmt>
+                        <notesStmt>
+                                <note type="project">The following are responsible for particular
+                                        readings or for changes to this file, as noted:
+                                        <persName xml:id="mb">Matthew Bosley</persName>
+                                        <persName xml:id="el">Elizabeth Lorang</persName>
+                                        <persName xml:id="sb">Stacey Berry</persName>
+                                        <persName xml:id="et">Elisabeth Tracey</persName>
+                                </note>
+                        </notesStmt>
+                        <sourceDesc>
+                                <bibl>
+                                        <title level="j">The Medical and Surgical History of the War of the Rebellion</title>
+                                        <pubPlace>Washington, DC</pubPlace>
+                                        <publisher>Government Printing Office</publisher>
+                                        <biblScope type="part">Part 3</biblScope>
+                                        <biblScope type="volume">Volume 1</biblScope>
+                                        <date when="1888">1888</date>
+                                        <biblScope type="page">379</biblScope>
+                                </bibl>
+                        </sourceDesc>
+                </fileDesc>
+                <encodingDesc>
+                        <classDecl>
+                                <taxonomy xml:id="medsurg">
+                                        <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+                                </taxonomy>
+                        </classDecl>
+                </encodingDesc>
+                <profileDesc>
+                        <textClass>
+                                <keywords scheme="#medsurg">
+                                        <term>the continued fevers</term>
+                                        <term>post-mortem records of continued fevers</term>                                       
+                                        <term>cases reported as typhoid fever, the clinical history insufficient or absent</term>
+                                        <term>Peyer's patches ulcerated and the ileum or small intestine only affected</term>   
+                                        <term>frost-bite</term>
+                                        <term>gangrene of feet</term>
+                                        <term>both lungs solidified and had small abscesses</term>
+                                        <term>Peyer's patches ulcerated</term>
+                                        <term>typhoid fever</term>                                        
+                                </keywords>
+                        </textClass>
+                </profileDesc>
+                <revisionDesc> 
+                        <change who="#mb" when="2013-03-29">additional proofing of transcription and encoding, edited and added keyword terms</change>
+                        <change who="#mb" when="2011-10-04">additional proofing of transcription and encoding</change>
+                        <change who="#mb" when="2011-06-21">additional proofing of transcription and encoding</change>
+                        <change who="#el" when="2011-05-11">case text extracted and transformed from larger file</change>
+                        <change who="#sb" when="2011-02-23">Encoding and Proofing</change>
+                        <change who="#et" when="2009-12-01">Initial Checking OCR Text to PDF file,</change>
+                </revisionDesc>
+        </teiHeader>
+        <text>
+                <body xml:id="ch4.sc4.1.00138">                        
+                                <p><hi rend="initialcap">C</hi>ASE 138.&#8212;<name
+                                                type="person" key="678">Private Stephen
+                                                Cornwright</name>, <name type="organization"
+                                                key="684">18th N. Y.</name>; age 23; was admitted
+                                                <date type="admit" when="1864-11-30">Nov. 30,
+                                                1864</date>, with fever and feet gangrenous from
+                                        frost-bite.  He died <date type="death" when="1864-12-20">December 20</date>.  <hi rend="italic">Post-mortem</hi> examination <date type="autopsy" when="1864-12-20">two hours after death</date>: Body much emaciated. The larynx, trachea, &#339;sophagus
+                                        and heart were normal. The right lung weighed twenty-two
+                                        ounces and the left thirty ounces; the lower and middle
+                                        lobes of the right lung and the lower lobe and lower portion
+                                        of the upper lobe of the left lung were solidified and
+                                        studded with small abscesses. The liver weighed seventy-one
+                                        ounces and a half and the spleen seven ounces and a half;
+                                        Peyer's patches were ulcerated; the kidneys appeared to be
+                                        normal. [The attending physician remarks: &#34;This man was
+                                        admitted with both feet in a gangrenous condition. According
+                                        to his own statement he had them frozen; but my opinion is
+                                        that their condition was a result of his fever.&#34; This
+                                        opinion is supported by the register of the hospital at
+                                        <name type="place">Giesboro Point, Md.</name>, in which the patient appears as
+                                        admitted <date type="admit" when="1864-11-23">November 23</date> with typhoid fever, and as sent to
+                                        General hospital on <date type="transfer" when="1864-11-29">the 29th</date>. No reference is made to
+                                                frostbite.]&#8212;<hi rend="italic"><name
+                                                  type="hospital" key="176">Lincoln Hospital</name>,
+                                                Washington, D. C.</hi></p>                        
+                </body>
+        </text>
+</TEI>

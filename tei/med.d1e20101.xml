@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e20111">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title level="m" type="main">C&#8212;&#8212;, Thomas P. C.</title>
+        <title level="m" type="sub">a machine readable transcription</title>
+        <principal>Susan C. Lawrence</principal>
+        <principal>Kenneth M. Price</principal>
+        <principal>Kenneth J. Winkle</principal>
+      </titleStmt>
+      <editionStmt>
+        <edition><date>2011</date></edition>
+      </editionStmt>
+      <publicationStmt>
+        <idno>med.d1e20111</idno>
+        <authority>Civil War Washington</authority>
+        <publisher>University of Nebraska–Lincoln</publisher>
+        <distributor><name>Center for Digital Research in the
+          Humanities</name><address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address></distributor>
+        <date>2011</date>
+        <availability>
+          <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution
+            or republication in any medium, except as allowed under the Fair Use provisions of U.S.
+            copyright law, requires express written consent from the editors and advance
+            notification of the publisher, the University of Nebraska–Lincoln.</p>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="project">The following are responsible for particular readings or for changes to
+          this file, as noted: 
+ <persName xml:id="kmp">Kenneth M. Price</persName> 
+          <persName xml:id="ajh">AJ Howell</persName>
+          <persName xml:id="mb">Matthew Bosley</persName>
+          <persName xml:id="el">Elizabeth Lorang</persName>
+          <persName xml:id="sb">Stacey Berry</persName>
+          <persName xml:id="et">Elisabeth Tracey</persName>
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl><title>The Medical and Surgical History of the War of the Rebellion.
+            (1861&#8211;65.)</title><editor role="compiler">Surgeon General Joseph K. Barnes, United
+            States Army</editor><pubPlace>Washington, D.C.</pubPlace><publisher>Government Printing
+            Office</publisher><biblScope type="part">Part 1</biblScope>
+          <biblScope type="volume">Volume 2</biblScope><date when="1870">1870</date><biblScope
+            type="page">568</biblScope></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <classDecl>
+        <taxonomy xml:id="medsurg">
+          <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="#medsurg">
+          <term>wounds and injuries of the chest</term>
+          <term>operations on the chest</term>
+          <term>excisions</term>
+          <term>excisions of portions of the ribs</term>
+          <term>excision or removal of portions of the ribs</term>
+          <term>fracture of eleventh rib</term>
+          <term>fracture of transverse process of eleventh dorsal vertebra</term>
+          <term>ball entered posterior thorax</term>
+          <term>lower lobe of lung collapsed</term>
+          <term>h&#230;morrhage from posterior thorax wound, spat blood, difficulty breathing</term>
+          <term>succumbed from dysentery</term>
+          <term>autopsy performed</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+ <change who="#kmp" when="2014-05">blessed</change>
+      <change who="#ajh" when="2013-08-21">added figure encoding</change>
+      <change who="#mb" when="2012-01-18">additional proofing of transcription and encoding</change>
+      <change who="#el" when="2011-05-11">case text extracted and transformed from larger
+        file</change>
+      <change who="#sb" when="2011-02-09">enriched encoding</change>
+      <change who="#sb" when="2011-01-28">validated file</change>
+      <change who="#et" when="2009-08-01">encoded</change>
+      <change who="#sb" when="2008-09-22">initial checking of OCR text against PDF; encoded
+      </change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+
+      <p>
+        <hi rend="initialcap">C</hi>ASE.&#8212;<name type="person" key="xxx">Private <hi
+            rend="italic">Thomas P. C. C</hi>&#8212;&#8212;</name>, <name type="organization"
+          key="xxx">Co. A, 9th Mississippi Regiment</name>, aged 19 years, was wounded near <name
+          type="BATTLE" key="xxx">Petersburg, Virginia</name>, <date type="injury" when="1864-11-05"
+          >November 5th, 1864</date>, by a conoidal ball, which entered the posterior portion of the
+        left thorax, passed between the tenth and eleventh ribs, fracturing the latter, as well as
+        the transverse process of the eleventh dorsal vertebra. He was treated in a Confederate
+        hospital at <name type="place">Richmond</name>, and, on <date type="transfer"
+          when="1865-05-06">May 6th, 1865</date>, was admitted into the hospital at <name
+          type="place">Point Lookout, Maryland</name>. On <date type="transfer" when="1865-07-24"
+          >July 24th</date>, he was transferred to <name type="hospital" key="171">Armory Square
+          Hospital</name>, Washington, and, on <date type="transfer" when="1865-08-17">August
+          17th</date>, to <name type="hospital" key="162">Douglas Hospital</name>. The patient
+        stated that on the reception of the injury he had a free h&#230;morrhage from the wound,
+        spat blood, and had great difficulty of breathing, but that he was doing well until about
+        the middle of June, when he was attacked with diarrh&#339;a. On his admission to <name
+          type="hospital" key="162">Douglas Hospital</name> he was terribly emaciated&#8212;almost a
+        living skeleton. On <date type="operation" when="1865-08-18">the 18th</date>, the ball,
+        which had lodged behind the tenth rib about one and a half inches from the wound of
+        entrance, was removed by <name type="person" key="xxx">Assistant Surgeon William F.
+          Morris</name>, <name type="organization" key="190">U. S. A.</name> In spite of the free
+        administration of beef tea and stimulants, with astringents and injections of nitrate of
+        silver for his dysentery, the patient sank rapidly, and died <date type="death"
+          when="1865-08-20">August 20th, 1865</date>. An autopsy was made thirteen hours after
+        death. There were strong pleuritic adhesions between both lungs and the walls of the thorax.
+        The lungs were healthy except the lower lobe of the left lung, which was collapsed and
+        firmly adherent to the walls of the chest near the seat of injury, in such a manner as to
+        form a cavity of considerable dimensions between the wall of the chest and the lung
+        substance. The liver and kidneys were fatty, the spleen healthy, the intestines shrunken and
+        pallid, but everywhere healthy except the descending colon and rectum, where the solitary
+        glands were much enlarged and had ulcerated. They presented the appearance of small cysts,
+        the size of a pea, with minute circular openings at the summit, and contained a transparent
+        gelatinous mass. The pathological specimen is represented in the accompanying wood-cut (<hi
+          rend="initialcap">F</hi>IG. 271). The wound of entrance in the fractured rib is well
+        rounded, and the two are firmly agglutinated by osseous deposit. The preparation was
+        contributed, with a history of the case, by the operator, <name type="person" key="xxx"
+          >Assistant Surgeon W. F. Norris</name>, <name type="organization" key="190">U. S.
+          A.</name>
+      </p>
+
+      <figure><graphic url="cww.001486.001"/><head>
+        <hi rend="initialcap">F</hi>IG. 271.&#8212;Posterior halves of tenth and eleventh left ribs,
+        showing a consolidated fracture by a conoidal ball, which is attached. <hi rend="italic"
+          >Spec</hi>. 1561, Sect. I, A. M. M.</head></figure>
+
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e41018">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Bowley, Addison</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+       <idno>med.d1e41018</idno>
+       <authority>Civil War Washington</authority>
+       <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor>
+       <name>Center for Digital Research in the Humanities</name>
+       <address><addrLine>319 Love Library</addrLine>
+       <addrLine>University of Nebraska–Lincoln</addrLine>
+       <addrLine>Lincoln, NE 68588-4100</addrLine>
+       <addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+    </distributor>
+    <date>2011</date>
+    <availability>
+        <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+         republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+         law, requires express written consent from the editors and advance notification of the
+         publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+     <persName xml:id="mb">Matthew Bosley</persName>
+     <persName xml:id="el">Elizabeth Lorang</persName>
+     <persName xml:id="sb">Stacey Berry</persName>
+     <persName xml:id="ao">Alyssa Olson</persName>
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl>
+     <title level="j">The Medical and Surgical History of the War of the Rebellion. (1861-65.)</title>
+     <pubPlace>Washington, DC</pubPlace>
+     <publisher>Government Printing Office</publisher>
+     <biblScope type="part">Part 2</biblScope>
+     <biblScope type="volume">Volume 1</biblScope>
+     <date when="1879">1879</date>
+     <biblScope type="page">162-163</biblScope>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+       <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+      <keywords scheme="#medsurg">
+       <term>diarrh&#339;a and dysentery</term>
+       <term>fatal cases of diarrh&#339;a and dysentery, with accounts of the morbid appearances observed</term>
+       <term>from Lincoln Hospital, Washington, D. C.</term>
+       <term>chronic diarrh&#339;a three months</term>
+       <term>scrofulous diathesis</term>
+       <term>sense of oppression in pr&#230;cordia, suggesting hypertrophy of heart</term>
+       <term>countenance cadaveric</term>
+       <term>quantity of serum in subarachnoid space and ventricles</term>
+       <term>quantity of serum from pleural cavities</term>
+       <term>all lobes of lungs contained miliary tubercles</term>
+       <term>bronchial glands tuberculous</term>
+       <term>heart surrounded by moderate quantity of adipose tissue</term>
+       <term>liver with distinct acini and miliary tubercles on its surface</term>
+       <term>spleen had miliary tubercles both on its surface and internally</term>
+       <term>in lower jejunum and whole of ileum congestion alternated with slate-colored patches, valvul&#230; conniventes indistinct, and solitary follicles enlarged</term>
+       <term>large intestine dilated, mucous membrane bluish and softened, several ulcers in colon and rectum</term>       
+       <term>miliary tubercles on peritoneal surface of intestines, conspicuous in positions corresponding to patches of Peyer</term>
+       <term>autopsy performed</term>       
+     </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change who="#mb" when="2012-11-05">additional proofing of transcription and encoding, identified keyword terms</change>
+   <change who="#el" when="2010-11-05">case text extracted and transformed from larger file</change>
+   <change who="#sb" when="2010-05-01">enrich encoding, proof and edit</change>
+   <change who="#ao" when="2008-10-02">encoding and editing</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body> 
+   <p>Case from the case-book of <name type="hospital" key="176"><hi rend="initialcap">L</hi>INCOLN <hi rend="initialcap">H</hi>OSPITAL</name>, Washington, D. C.; <name type="person" key="241">Surgeon Henry Bryant</name>, <name type="organization" key="132">U. S. V.</name>, in charge to May, 1863.</p>                 
+   <p><hi rend="initialcap">C</hi>ASE 349.&#8212;<name type="person" key="xxx">Private Addison Bowley</name>, <name type="organization" key="xxx">company C, 3d Vermont volunteers</name>; admitted <date type="admit" when="1863-01-02">January 2, 1863</date>.  Chronic diarrh&#339;a.  [This man appears on the register of the regimental hospital of the 3d Vermont volunteers, excused from drill on account of diarrh&#339;a, November 12, 1862, and again December 1st; in hospital with diarrh&#339;a <date type="admit" when="1862-12-10">December 10th</date>&#8212;sent to general hospital <date type="transfer" when="1863-01-02">January 2d</date>.]  This patient had been suffering from diarrh&#339;a three months. He was of scrofulous diathesis; about 30 years old; had large prominent blue eyes and dark hair. The action of his heart was violent, suggesting hypertrophy of that organ, and he complained of a sense of oppression in the pr&#230;cordia. Pulse small, at times almost imperceptible; countenance cadaveric.  Died, <date type="death" when="1863-02-27">February 27th</date>, at 7 P. M.&#8212;<name type="person" key="xxx">Acting Assistant Surgeon Henry F. Condict</name>.  <hi rend="italic">Autopsy</hi> <date type="autopsy" when="1863-02-28">twenty hours after death</date>: Height six feet; body very rigid; no emaciation. The brain weighed fifty-four ounces and a half; it was light colored and firm; there was an unusual quantity of serum in the subarachnoid space and in the ventricles. The right lung weighed twenty-five ounces, the left twenty-one; six pints of serum were taken from the pleural cavities; all the lobes of both lungs contained miliary tubercles, which were most abundant in their posterior portions; the lower lobes were hypostatically congested. The bronchial glands were tuberculous. The heart was soft, flabby, and weighed ten ounces; it was surrounded by a moderate quantity of adipose tissue; the heart-clots weighed one ounce and a quarter. The pericardium contained eight ounces of serum. The liver weighed eighty-seven ounces; it was of a brownish-purple color, mottled, its acini distinct, and had miliary tubercles on its surface; the gall-bladder was empty. The spleen weighed twelve ounces and a half; it was of a dark-purple color, and had miliary tubercles both on its surface and internally. The pancreas weighed three ounces and a quarter. The suprarenal capsules were large, soft, and coffee-colored. The right kidney weighed nine ounces and three quarters, the left eleven ounces and a half; both of them were light colored, friable, and slightly congested inferiorly. The stomach was large, its rug&#230; prominent. The mucous membrane of the duodenum was congested and softened. There was irregular congestion of the lower fourth of the jejunum, and the whole of the ileum, alternating with slate-colored patches. The valvul&#230; conniventes were indistinct; the mucous membrane thin; the solitary follicles enlarged. The large intestine was dilated, its walls thin, its mucous membrane bluish and softened. There were several ulcers, each about the size of a three-cent piece, in the colon and rectum. On the peritoneal surface of the intestines were numerous miliary tubercles, which were particularly conspicuous in positions corresponding to the patches of Peyer.&#8212;<name type="person" key="244">Assistant Surgeon George M. McGill</name>, <name type="organization" key="190">U. S. A.</name></p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e5211">
+        <teiHeader>
+                <fileDesc>
+                        <titleStmt>
+                                <title level="m" type="main">Humes, James A.</title>
+                                <title level="m" type="sub">a machine readable transcription</title>
+                                <principal>Susan C. Lawrence</principal>
+                                <principal>Kenneth M. Price</principal>
+                                <principal>Kenneth J. Winkle</principal>
+                        </titleStmt>
+                        <editionStmt>
+                                <edition>
+                                        <date>2011</date>
+                                </edition>
+                        </editionStmt>
+                        <publicationStmt>
+                                <idno>med.d1e5211</idno>
+                                <authority>Civil War Washington</authority>
+                                <publisher>University of Nebraska–Lincoln</publisher>
+                                <distributor>
+                                        <name>Center for Digital Research in the Humanities</name>
+                                        <address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+                                </distributor>
+                                <date>2011</date>
+                                <availability>
+                                        <p>Copyright © 2011 by University of Nebraska–Lincoln, all
+                                                rights reserved. Redistribution or republication in
+                                                any medium, except as allowed under the Fair Use
+                                                provisions of U.S. copyright law, requires express
+                                                written consent from the editors and advance
+                                                notification of the publisher, the University of
+                                                Nebraska–Lincoln.</p>
+                                </availability>
+                        </publicationStmt>
+                        <notesStmt>
+                                <note type="project">The following are responsible for particular
+                                        readings or for changes to this file, as noted: 
+                                        <persName xml:id="mb">Matthew Bosley</persName>
+                                        <persName xml:id="el">Elizabeth Lorang</persName>
+                                        <persName xml:id="sb">Stacey Berry</persName>
+                                        <persName xml:id="et">Elisabeth Tracey</persName>
+                                </note>
+                        </notesStmt>
+                        <sourceDesc>
+                                <bibl>
+                                        <title level="j">The Medical and Surgical History of the War
+                                                of the Rebellion</title>
+                                        <pubPlace>Washington, DC</pubPlace>
+                                        <publisher>Government Printing Office</publisher>
+                                        <biblScope type="part">Part 3</biblScope>
+                                        <biblScope type="volume">Volume 1</biblScope>
+                                        <date when="1888">1888</date>
+                                        <biblScope type="page">263</biblScope>
+                                </bibl>
+                        </sourceDesc>
+                </fileDesc>
+                <encodingDesc>
+                        <classDecl>
+                                <taxonomy xml:id="medsurg">
+                                        <bibl>Medical and Surgical History of the War of the
+                                                Rebellion</bibl>
+                                </taxonomy>
+                        </classDecl>
+                </encodingDesc>
+                <profileDesc>
+                        <textClass>
+                                <keywords scheme="#medsurg">
+                                        <term>clinical records</term>
+                                        <term>continued fevers</term>
+                                        <term>ulceration of leg</term>  
+                                        <term>typhoid fever</term>
+                                        <term>fever cases from various records</term>
+                                        <term>reported as typhoid, many modified by malarial influence</term>
+                                </keywords>
+                        </textClass>
+                </profileDesc>
+                <revisionDesc>
+                        <change who="#mb" when="2011-10-07">additional proofing of transcription and encoding</change>
+                        <change who="#mb" when="2011-06-13">additional proofing of transcription and encoding</change>
+                        <change who="#el" when="2011-05-11">case text extracted and transformed from
+                                larger file</change>
+                        <change who="#sb" when="2011-02-23">Encoding and Proofing</change>
+                        <change who="#et" when="2009-12-01">Initial Checking OCR Text to PDF file,
+                        </change>
+                </revisionDesc>
+        </teiHeader>
+        <text>
+                <body xml:id="ch4.sc2.4.00038">
+                        
+                                <p><hi rend="initialcap">C</hi>ASE 38.&#8212;<hi rend="italic"
+                                                >Ulceration of leg.</hi>&#8212;<name
+                                                type="person" key="598">Private James A.
+                                                Humes</name>, <name type="organization" key="642"
+                                                >Co. H, 150th Pa.</name>; age 20; was admitted <date
+                                                type="transfer" when="1862-12-12">Dec. 12,
+                                                1862</date>, from <name type="hospital" key="167"
+                                                >Carver hospital</name>, Washington, D. C., as a
+                                        convalescent from typhoid fever. He was weak and emaciated
+                                        and had slight tenderness in the right iliac region. Nux
+                                        vomica in compound tincture of gentian was ordered. On Feb.
+                                        10, 1863, he had fever-sores on the leg, which were treated
+                                        first with flaxseed poultice and afterwards with oakum
+                                        dressing. On the 27th the patient's hair was falling out. On
+                                        March 1 the nux vomica was omitted. A lotion of sulphate of
+                                        zinc was applied on the 20th and pills of carbonate of iron
+                                        and quinine were given three times a day, under which
+                                        treatment the ulcers healed. On April 17 all medication was
+                                        omitted and the patient was put on light duty. He was
+                                        returned to his command <date type="duty" when="1863-06-28"
+                                                >June 28</date>.&#8212;<hi rend="italic"
+                                                        ><name type="hospital">Satterlee Hospital, Philadelphia, Pa.</name></hi>
+                                </p>
+                        
+                </body>
+        </text>
+</TEI>

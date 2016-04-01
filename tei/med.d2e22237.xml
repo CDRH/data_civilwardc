@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d2e22237">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Davis, J.</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+    <idno>med.d2e22237</idno>
+    <authority>Civil War Washington</authority>
+    <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor><name>Center for Digital Research in the
+     Humanities</name><address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address></distributor>
+    <date>2011</date>
+    <availability>
+     <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+      republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+      law, requires express written consent from the editors and advance notification of the
+      publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+     <persName xml:id="mb">Matthew Bosley</persName>
+     <persName xml:id="el">Elizabeth Lorang</persName>
+     <persName xml:id="sb">Stacey Berry</persName>
+     <persName xml:id="et">Elisabeth Tracey</persName>
+     <persName xml:id="ss">Sarah Synovec</persName>
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title level="j">The Medical and Surgical History of the War of the Rebellion.
+      (1861-65.)</title><pubPlace>Washington, DC</pubPlace><publisher>Government Printing
+      Office</publisher><biblScope type="part">Part 3</biblScope><biblScope type="volume">Volume
+      2</biblScope><date when="1883">1883</date><biblScope type="page">590</biblScope></bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+     <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <keywords scheme="#medsurg">
+     <term>wounds and injuries of the lower extremities</term> 
+     <term>wounds and operations at the ankle joint</term>
+     <term>shot fractures of the bones of the ankle joint</term>
+     <term>excisions at the ankle joint for shot injury</term> 
+     <term>intermediary excisions at the ankle joint</term> 
+     <term>fatal intermediary excisions at the ankle joint</term>
+     <term>shot wound of foot and hip</term>
+     <term>gunshot wound of tarsus</term> 
+     <term> ball struck below external malleolus, passed through tarsus horizontally, escaping below and behind internal malleolus</term> 
+     <term>resection of anterior extremity and part of external <choice><orig>calcaneum</orig><reg>calcaneus</reg></choice></term>
+     <term>py&#230;mia</term>
+     <term>ankle joint contained pus, bones partially denuded of cartilage, muscles of leg infiltrated with pus</term> 
+     <term>lungs contained several abscesses and lobular pneumonia</term>
+     <term>thrombi in femoral vein</term> 
+     <term>diarrh&#339;a</term> 
+     <term>pneumonic symptoms, blood mingled with sputa</term>
+     <term><choice><orig>calcaneum</orig><reg>calcaneus</reg></choice> fractured entirely through, its cancellous structure gangrenous</term>
+     <term>osteomyelitis, shown by gangrene of cancellous tissue</term>     
+     <term>breath bovine</term> 
+     <term>autopsy performed</term>
+     <term>general anesthesia, ether</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change who="#mb" when="2012-06-13">additional proofing of transcription and encoding, identified keyword terms</change>
+   <change who="#el" when="2011-05-11">case text extracted and transformed from larger file</change>
+   <change who="#sb" when="2011-06-04">Enrich Encoding, Edit and validate</change>
+   <change who="#sb" when="2011-01-28">Validated File</change>
+   <change who="#ss" when="2008-09-22">initial checking of OCR text; encoded P5 Encoding</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>   
+    <p><hi rend="initialcap">C</hi>ASE 851.&#8212;<name type="person" key="1373">Private J.
+      Davis</name>, <name type="organization" key="101">Co. L, 1st Michigan Cavalry</name>, aged 18
+     years, was wounded at <name type="BATTLE" key="83">Salem Church</name>, <date type="injury" when="1864-05-28">May 28,1864</date>. <name type="person" key="xx">Surgeon W. H.
+      Rulison</name>, <name type="organization" key="474">9th New York Cavalry</name>, reported his
+     admission to the field hospital of the 1st division, Cavalry Corps, "with shot wound of left foot and hip."  <name type="person" key="70">Surgeon J.
+      A. Lidell</name>, <name type="organization" key="132">U. S. V.</name>, who operated in the
+     case, made the following report:  "The patient was admitted to <name type="hospital" key="175">Stanton Hospital</name>, Washington, <date type="admit" when="1864-06-04">June 4th</date>,
+     with a gunshot wound of the left tarsus, inflicted by a mini&#233; ball, which struck the foot a
+     little below the external malleolus and passed through the tarsus horizontally inward and
+     somewhat backward, escaping a little below and behind the internal malleolus. It occasioned
+     compound comminuted fracture of the <choice><orig>calcaneum</orig><reg>calcaneus</reg></choice>, <choice><orig>astragalus</orig><reg>talus</reg></choice>, and posterior edge of the external malleolus. At the
+     time of the operation, <date type="operation" when="1864-06-10">June 10th</date>, the ankle and foot were much swollen, inflamed, and very
+     painful; the leg was also swollen. The edges of the orifices of both entrance and exit were
+     pouting and exhibited no tendency to close; discharge thin and scanty. Since the patient came
+     to <name type="hospital" key="175">Stanton Hospital</name> the wound had been treated with ice
+     dressings, but was manifestly growing worse. He now had a good deal of constitutional
+     disturbance; pulse quick and ranging from 110 to 120; skin dry and too warm; countenance
+     pinched and anxious; tongue coated, and appetite poor. He was also restless, got but little
+     sleep, and his general condition was daily getting worse. Wishing to avoid secondary amputation
+     of the leg if possible on account of the great fatality which had lately attended it, resection
+     was performed of the anterior extremity and part of the external side of the <choice><orig>calcaneum</orig><reg>calcaneus</reg></choice>. Some
+     fragments of the <choice><orig>astragalus</orig><reg>talus</reg></choice> were also extracted, and a splinter from the posterior edge of the
+     external malleolus. The incisions were made on the external side of the foot, from the orifice
+     of entrance, first, to the base of the metatarsal bone of the little toe; second, to the base
+     of the external malleolus; third, to the point of the heel; and fourth, to the dorsum of the
+     foot, two and a half inches. Sulphuric ether constituted the an&#230;sthetic. There was no
+     shock. Ice-water dressings were continued. On June 11th the patient was cheerful and free from
+     pain and the swelling and irritative fever had abated.  He died of py&#230;mia on <date
+      type="death" when="1864-06-20">June 20, 1864</date>.  Autopsy: The ankle joint contained pus;
+     the bones were partially denuded of their cartilage; muscles of leg infiltrated with pus. The
+     left pleural cavity contained a large quantity of dark-colored effusion, and the left lung was
+     compressed against the vertebral column; the inferior lobe contained an abscess about the size
+     of an egg, which was filled with dark-colored and offensive pus. The right lung contained several superficial abscesses and some patches of
+     lobular pneumonia. Thrombi existed in the femoral vein."  In his publication&#185; of the operation <name type="person" key="70">the operator</name> furnished the
+     following supplementary details of the patient's progress, as well as of the autopsy, in
+     addition to his comments on the case:  After the operation "the limb was placed upon a wire
+     splint (Smith's) bent to a right angle, which was well padded and applied to the posterior part
+     of the leg and sole of the foot, where it was properly secured by roller bandages for the
+     purpose of keeping the ankle joint in a fixed position. The wound was plugged with lint and a
+     full opiate was given. The constitutional treatment consisted in the administration of
+     nutrients, tonics, and stimulants. On June 12th the patient had a severe py&#230;mic chill and
+     sweat, and quinine in full doses was added to the treatment. On the next day he was much worse;
+     wound discharging a thin dark-colored pus; chills and sweats increasing in frequency and
+     severity; complexion assumed a bronzed hue; breath bovine; body exhaling a sweet mawkish smell;
+     anorexia; debility; diarrh&#339;a set in. Pneumonic symptoms also appeared, and a large
+     proportion of blood was mingled with the sputa. He sank rapidly. At the autopsy the <choice><orig>calcaneum</orig><reg>calcaneus</reg></choice>
+     was found to be fractured entirely through and its cancellous structure was gangrenous. The <choice><orig>astragalo-scaphoid</orig><reg>tarso-scaphoid</reg></choice> articulation contained pus and the articulating surface of its bones was
+     entirely denuded of its cartilage. The connective tissue on the front of the leg was
+     infiltrated with pus from the ankle joint upward to the extent of three inches, and the tibia
+     and fibula were denuded of periosteum to the extent of two inches. The liver and spleen were
+     both enlarged and softened, but the kidneys presented a normal appearance. There were clots in
+     both ventricles of the heart.  Comments: In this case also osteomyelitis supervened, which was
+     conclusively shown by the gangrenous condition of the cancellous tissue belonging to the <choice><orig>calcaneum</orig><reg>calcaneus</reg></choice>, or, rather, the gangrenous condition of the
+     medullary tissue which filled the cancelli of that bone. Besides, it is probable that if the
+     interior of the tibia and fibula had been examined the marrow would have been found inflamed at
+     and above the place where those bones were seen to be denuded of periosteum at the <hi
+      rend="italic">post-mortem</hi> examination. It is also probable that the medullary tissue of
+     the denuded portion of the tibia contained collections of purulent matter which were produced
+     by the suppurative character of the inflammatory process involving that tissue. Furthermore, it
+     is probable that the inflammatory process had extended to the medullary tissue of the tibia
+     prior to the performance of the resection of the tarsus, and if its presence there had then been recognized, it would have
+     contra-indicated that operation and called for amputation far up the limb. The thrombosis of
+     the femoral vein was of recent occurrence. The coagulated blood which filled that vein
+     presented a fresh appearance and had not yet undergone the puriform transformation, nor even
+     become at all softened. It was therefore obvious that the thrombosis had not occasioned the
+     visceral abscesses nor the inflammation of the lungs, since the morbid process in those organs
+     was considerably older than the thrombus of the femoral vein. The thrombosis was a more recent
+     event than the py&#230;mia. This circumstance is important, because it shows that the
+     py&#230;mic process in this case could not have had its origin in the thrombosis, and that if
+     any relationship or necessary connection existed between them, the py&#230;mic process induced
+     the formation of the thrombi. The symptoms of irritative fever (or, speaking properly, the
+     surgical fever of an irritative type), which where so strikingly relieved by the operation, had
+     been produced entirely by local causes, namely, the inflammation of the various structures
+     bordering upon and connected with the gunshot wound, such as the connective, the fibrous, the osseous, and the medullary tissues. The symptoms of the purulent
+     infection did not make their appearance till two days after the operation. They presented a marked contrast to those of the
+     surgical fever which preceded the operation. They denoted the occurrence of a poisoned
+     condition of the blood and the whole system, under which the patient sank rapidly, and died on
+     the eighth day after its advent."</p>
+   <p>&#185; <hi rend="initialcap">L</hi>IDELL (<hi rend="initialcap">JOHN A.</hi>), in <hi rend="italic">U. S. Sanitary Commission Memoirs</hi>, Surgical Volume I, pp. 524-6, and <hi rend="initialcap">C</hi>ULBERTSON (<hi rend="initialcap">H.</hi>), <hi rend="italic">Excision of the Larger Joints of the Extremities</hi>, in <hi rend="italic">Transactions of the American Med. Association</hi>, Philadelphia, 1876, Supplement to Vol. XXVII, p. 314.</p>   
+  </body>
+ </text>
+</TEI>

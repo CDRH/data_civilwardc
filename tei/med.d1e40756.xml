@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e40756">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Everett, William H.</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+       <idno>med.d1e40756</idno>
+       <authority>Civil War Washington</authority>
+       <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor>
+       <name>Center for Digital Research in the Humanities</name>
+       <address><addrLine>319 Love Library</addrLine>
+       <addrLine>University of Nebraska–Lincoln</addrLine>
+       <addrLine>Lincoln, NE 68588-4100</addrLine>
+       <addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+    </distributor>
+    <date>2011</date>
+    <availability>
+        <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+         republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+         law, requires express written consent from the editors and advance notification of the
+         publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+     <persName xml:id="mb">Matthew Bosley</persName>
+     <persName xml:id="el">Elizabeth Lorang</persName>
+     <persName xml:id="sb">Stacey Berry</persName>
+     <persName xml:id="ao">Alyssa Olson</persName>   
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl>
+     <title level="j">The Medical and Surgical History of the War of the Rebellion. (1861-65.)</title>
+     <pubPlace>Washington, DC</pubPlace>
+     <publisher>Government Printing Office</publisher>
+     <biblScope type="part">Part 2</biblScope>
+     <biblScope type="volume">Volume 1</biblScope>
+     <date when="1879">1879</date>
+     <biblScope type="page">122</biblScope>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+       <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+      <keywords scheme="#medsurg">
+       <term>diarrh&#339;a and dysentery</term>
+       <term>fatal cases of diarrh&#339;a and dysentery, with accounts of the morbid appearances observed</term>
+       <term>from Cuyler Hospital, Philadelphia, Pennsylvania</term>
+       <term>chronic diarrh&#339;a</term>
+       <term>lung contained black pigment, and white cheesy mass in upper middle lobe</term>
+       <term>some Peyer's patches quite large, none ulcerated</term>   
+       <term>autopsy performed</term>
+     </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change who="#mb" when="2012-10-10">additional proofing of transcription and encoding, identified keyword terms</change>
+   <change who="#el" when="2010-11-05">case text extracted and transformed from larger file</change>
+   <change who="#sb" when="2010-05-01">enrich encoding, proof and edit</change>
+   <change who="#ao" when="2008-10-02">encoding and editing</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body> 
+   <p>Case from the case-book of the <hi rend="initialcap">C</hi>UYLER <hi rend="initialcap">H</hi>OSPITAL, <name type="place">Philadelphia, Pennsylvania</name>, <name type="person" key="xxx">Surgeon Josiah Curtis</name>, <name type="organization" key="132">U. S. V.</name>, in charge at the date of the case:</p>                    
+   <p><hi rend="initialcap">C</hi>ASE 182.&#8212;<name type="person" key="89">Corporal William H. Everett</name>, <name type="organization" key="99">company C, 5th Maine volunteers</name>; age 29; admitted <date type="admit" when="1863-05-13">May 13, 1863</date>.  Chronic diarrh&#339;a.  [He appears on the register of the regimental hospital of the 5th Maine, admitted <date type="admit" when="1863-03-20">March 20, 1863</date>&#8212;chronic diarrh&#339;a&#8212;sent to general hospital <date type="transfer" when="1863-04-18">April 18th</date>.  The register of the hospital of the 1st Division, 6th Army Corps, records him admitted <date type="admit" when="1863-04-18">April 18th</date>&#8212;chronic diarrh&#339;a&#8212;sent to <name type="place" key="#Washington">Washington, D. C.</name>, <date type="transfer" when="1863-04-21">April 21st</date>.  He is borne on the register of <name type="hospital" key="173">Harewood hospital</name>, Washington, admitted <date type="admit" when="1863-04-21">April 21st</date>&#8212;chronic diarrh&#339;a&#8212;sent to Philadelphia <date type="transfer" when="1863-05-09">May 9th</date>.]  This man stated that he was taken sick with diarrh&#339;a in <date type="injury" when="1863-01">January last</date>. He was treated in the Broad and Prime streets hospital for several days, and his diarrh&#339;a was temporarily checked. He was brought to this hospital on a stretcher. When admitted he was much emaciated; his voice was very feeble; pulse small and feeble; eyes sunken; the temperature of his surface low.  Treatment: Acetate of lead and opium, quinia, brandy, &#38;c.  Died, <date type="death" when="1863-05-14">May 14th</date>.  <hi rend="italic">Autopsy</hi> <date type="death" when="1863-05-15">eleven hours after death</date>: Brain not examined. There were no pleuritic adhesions; the left lung was somewhat congested; the right lung contained an unusual quantity of black pigment, and had a white cheesy mass in the upper part of its middle lobe. The heart was normal in size and appearance; the gall-bladder was distended with normal looking bile. Some of Peyer's patches were quite large, but none of them were ulcerated.  [The condition of the large intestine was not recorded.]&#8212;<name type="person" key="xxx">Acting Assistant Surgeon William Darrach, <choice><orig>jr.</orig><reg>Jr.</reg></choice></name></p>      
+  </body>
+ </text>
+</TEI>

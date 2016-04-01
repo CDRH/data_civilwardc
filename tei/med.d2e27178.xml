@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d2e27178">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Johnson, S.</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+    <idno>med.d2e27178</idno>
+    <authority>Civil War Washington</authority>
+    <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor><name>Center for Digital Research in the
+     Humanities</name><address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address></distributor>
+    <date>2011</date>
+    <availability>
+     <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+      republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+      law, requires express written consent from the editors and advance notification of the
+      publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+     <persName xml:id="mb">Matthew Bosley</persName>
+     <persName xml:id="ajh">AJ Howell</persName>
+     <persName xml:id="el">Elizabeth Lorang</persName>
+     <persName xml:id="sb">Stacey Berry</persName>
+     <persName xml:id="et">Elisabeth Tracey</persName>
+     <persName xml:id="ss">Sarah Synovec</persName>
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title level="j">The Medical and Surgical History of the War of the Rebellion.
+      (1861-65.)</title><pubPlace>Washington, DC</pubPlace><publisher>Government Printing
+      Office</publisher><biblScope type="part">Part 3</biblScope><biblScope type="volume">Volume
+      2</biblScope><date when="1883">1883</date><biblScope type="page">727-728</biblScope></bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+     <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <keywords scheme="#medsurg">
+     <term>wounds and complications</term> 
+     <term>effects of missiles on nerves</term>
+     <term>shot wounds</term>      
+     <term>wounded by ball in cheek</term> 
+     <term>ball entered middle of ramus of jaw below teeth, lodged in spinal column</term>      
+     <term>initial total motor paralysis of arms and legs</term>
+     <term>shuffling walk, use of limbs except left hand and forearm</term>     
+     <term>false anchylosis of joints of upper limbs</term>
+     <term>wounds of brachial nerves</term>
+     <term>appearance simulates subacute rheumatism</term>   
+     <term>more wretched spectacle than this man presents can hardly be imagined</term>
+     <term>pain in leg, worse with movement</term>
+     <term>general anesthesia, ether</term>
+     <term>typhoid fever</term>
+     <term>fever, malarious character</term>     
+     <term>progressive nerve trouble from ball lodged near cervical spine</term>
+     <term>muscular hyper&#230;sthesia of upper members, none in legs</term>
+     <term>total paralysis of one leg, atrophy of arm, forearm, and leg</term>     
+    </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change who="#mb" when="2013-02-11">additional proofing of transcription and encoding, edited and added keyword terms</change>
+   <change who="#ajh" when="2012-06-18">additional proofing of transcription and encoding, identified keyword terms</change>
+   <change who="#el" when="2011-05-11">case text extracted and transformed from larger file</change>
+   <change who="#sb" when="2011-06-04">Enrich Encoding, Edit and validate</change>
+   <change who="#sb" when="2011-01-28">Validated File</change>
+   <change who="#ss" when="2008-09-22">initial checking of OCR text; encoded P5 Encoding</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>In the next case&#185; it is supposed that the spine was wounded or that the missile lodged within the vertebral column in such close proximity to the nerve centres as to cause compression of the anterior branches:</p>
+   <p><hi rend="initialcap">C</hi>ASE 1075.&#8212;"<name type="person" key="1471">Private S. Johnson</name>, <name type="organization" key="365">Co. I, 8th Pennsylvania Cavalry</name>, aged 18 years, enlisted in <date type="enlist" when="1861-08">August, 1861</date>. Health good previous to enlistment, except a typhoid fever four years before. Six months after enlisting he had a fever, probably of a malarious character. Three weeks before he was wounded he suffered with pain in the right leg, made worse by movement, but unaccompanied with any rheumatic swelling of the joints.  <date type="injury" when="1863-05-03">May 3, 1863</date>, he was wounded by a small ball in the left cheek while riding at a trot. It entered at the middle of the ramus of the jaw a little below the level of the teeth. From his position as well as the after evidence, it seems that the ball passed backward and inward and finally lodged in the spinal column. The edge of the jaw was somewhat injured, and probably was the source of the small fragments of bone which afterward escaped from the neck. When shot the man fell forward on his horse's neck; says he was confused though conscious, and felt as if he had been struck in the ear and then lifted up in the air. He also felt instant pain in the back of his neck and in all of his limbs. There were no spasms. He was removed from his horse and carried to a house near by. The motion increased his pain, especially any movement of the neck. He now became aware of the total motor paralysis of the arms and legs. He is not sure whether sensibility was also extinct or not.  <date type="admit" when="1863-05-05">Two days after being wounded</date> he became delirious, but gradually recovered his senses after three or four days. He was finally sent to <name type="hospital" key="162">Douglas Hospital</name>, Washington, then under charge of <name type="person" key="200">Assistant Surgeon W. Thomson</name>, <name type="organization" key="190">U. S. A.</name>, and was transferred to our own wards <date type="transfer" when="1863-07-19">July 19, 1863</date>. The wound healed in nine weeks, after the discharge of a few small fragments of the jaw. Meanwhile his left leg improved slightly.  July 19, 1863; present state: A more wretched spectacle than this man presents can hardly be imagined, he lies in bed motionless, emaciated to the last degree, and with bedsores on both elbows and both hips. His hands he crossed on his chest, perfectly rigid, the fingers extended, the skin congested and thin, the nails curved, false anchylosis of all the joints of the upper limbs, the head and neck rigid, with acute pain in these parts on movement. The right leg has motion of a feeble nature in all of the joints; the left only very slight voluntary movement. The hands, the appearance of which has been already alluded to, present certain characteristics which belong usually to cases in which there have been wounds of the brachial nerves. In the present instance, as in many others, these peculiarities have been modified by the long continued rest of the limbs in one posture. The results of the nerve injury and its consequent effects on the nutrition of the part may, however, be partially discriminated, so that what is due to them and what is due to mere rest may be discerned to some extent. Thus, the shining palm, the slight eczema, the burning pain, the atrophy, and the swollen joints, whose appearance simulates subacute rheumatism, these, with the contraction of certain muscles, are all owing to the nerve lesion; while the anchylosis and the peculiar flattening of the hand are perhaps owing to this and to the long rest and disuse, the arms meanwhile lying crossed on the chest, the fingers in extension. The disuse alone would have caused anchylosis, but never to such a degree as occurs when the joints have been subacutely inflamed at the same time. The loss of the lateral palmar arch is owing to both causes, and the monkey-like appearance of the hand, the thumb rotated outward, and its nail looking upward and even toward the forefinger, is caused first by the subluxation of the metacarpo-phalangeal articulation, and secondly by the weakening and atrophy of the adductor and short flexors of the thumb. The nerve lesion, affecting the muscles and the general nutrition of the part, has so relaxed the unused tissues of the limb as to make the pressure of its own weight an effective aid in thus altering its form. Specimen 6693 of the <name type="hospital" key="431">Army Medical Museum</name> represents casts of both arms, and exhibits admirably their condition soon after they began to improve.   <hi rend="italic">Sensation</hi>: Tactile sense enfeebled equally in both arms, worse in the left. Feeble in both legs, worse in the left. Confused power of localizing sensation in the legs. Mistakes right for left, but not left for right. There is muscular hyper&#230;sthesia of the upper members, shoulders, and neck; none in the legs. The left brachial plexus is sensitive to pressure and this causes pain in the left arm and hand. The palms prickle and burn a little, the feet not at all. Every attempt at passive motion causes exquisite pain in the arms, hands, and shoulders; but most of all the back of the neck, about the first and second vertebr&#230;. This is due, first, to the hyper&#230;sthesia of the muscles, and secondly, to the state of false anchylosis, owing to rest in one fixed posture. He either is too weak to move the body or is really paralyzed in the spinal muscles. The biceps flexors and wrist muscles are very rigid as well as the trapezius, and the atrophy of the muscles throughout the upper limbs is singularly well marked. His condition was too grave to allow of an electric examination. There was no inflammatory swelling about the neck, and it was therefore resolved to treat him with free passive motion, breaking the adhesion and forcing him to exert himself as far as he could. Tonics, porter, and liberal diet were ordered, and the shampooing and passive movement was vigorously carried out, despite his pain and most earnest supplications to be let alone. The bedsores were treated with alternate applications of iced water for ten minutes, followed by a poultice as hot as could be borne. This local means, recommended by Brown-S&#233;quard, succeeded marvelously, as it always does, the bedsores healing easily within ten days.  August 25th, still losing flesh; great pain in the neck; moves head and legs a little better; no change in the arms. Despite his prayers and protestations the shampooing was continued, and on October 15th he was greatly improved. He is fatter; the legs can be voluntarily crossed; appetite voracious.  December 7th, great gain; can move right arm freely; can raise his head, bend and turn the neck; sits up daily.  December 29th, motion returning in right hand; no gain in left; but in both the malpositions have been relieved and the hyper&#230;sthesia reduced. From this time the improvement was manifest and rapid.   On January 7, 1864, the case was carefully reviewed with the following results:  <hi rend="italic">Nutrition</hi>: Much fatter; atrophy lessened. The hands have lost their smooth, shining look, so expressive to us of a nerve lesion. The nails are less curved. The temperature is better.  <hi rend="italic">Sensation</hi>: Right arm and hand, tactility and localizing sense good; left arm rather less perfect; tactility and localizing sense in legs normal or nearly so. Sense of pain more perfect than at first, but even now a pinch causes a feeling of prickling only, rather than the usual sensation. There has been some burning of the right face, neck, and arm within the past week.  <hi rend="italic">Voluntary motion</hi>: Left leg normal in extent of action, but still feeble; right leg healthy. The right arm has regained all the shoulder and elbow motions except that, owing to a remnant of contraction in the biceps, extension is not quite entire. Flexion, pronation, and supination are perfect. Extension of wrist incomplete, owing to contracted state of flexors. Flexion of wrist perfect. The thumb has lost abduction, owing to contraction of the abductor. Fingers, extension perfect, as also flexion of first phalanges; the joints being still stiff and swollen, the second and third joints possess but two-thirds of their healthy extent of flexion.  <hi rend="italic">Left arm</hi>: For ten days past the shoulder has begun to exhibit voluntary power; elbow, no movement; pronation and supination slight; flexion and extension of wrist also slight; fingers, feeble, tremulous movements. For the first time we now examined the electric state of the muscles. The electro-muscular contractility was good in the right biceps, feeble in the left; good in the right supinator longus, feeble in the left; good in the extensors of both hands; good in the flexors of the right hand, feeble in the left. The interossei on both sides showed great loss of this property. The abductor policis on the left had no electro-muscular contractility. As a rule, this property was lessened in the left arm and shoulder, while the electro-muscular sensibility was scarcely altered in the two members, except, perhaps, some diminution in the thumb muscles of the left hand and in the flexor group of the left forearm. The whole left arm was still very stiff. Ordered the patient to be etherized daily, and the adhesions to be forcibly broken. Passive motion to be continued, and the limbs to be faradized daily. The future progress was inconceivably rapid.  On January 20th he could rise to his feet, and by February 20th could walk a few steps.  March 20th, walks well without a cane or any aid; the left hand alone has not gained to any great extent, although the malposition of the hand has been much relieved.  The patient was discharged in <date type="servicedischarge" when="1864-03">March</date>, slightly shuffling in his walk, but with nearly entire use of all his limbs except the left hand and forearm."  <name type="person" key="1471">Johnson</name> was pensioned. The <name type="organization" key="xx">Philadelphia Board of Pension Examiners</name> reported, <date type="pension" when="1873-10-23">October 23, 1873</date>:  "Total paralysis of left leg so as to cause foot to trip at times."  In <date type="pension" when="1877-11">November, 1877</date>, the <name type="organization" key="xx">same board</name> reported:  "Suffers no pain in arm, but has to move arm in different positions. Is anchylosed at shoulder and partially so at elbow. Toes are drawn up and use impaired; paralyzed. Has evidently progressive nerve trouble from ball, no doubt, lodged near spine in cervical region. Has weakness of hand, right side, and is cold almost all the time. There is atrophy of arm, forearm, and leg, left side."</p>
+   <p>&#185; <hi rend="initialcap">M</hi>ITCHELL, <hi rend="initialcap">M</hi>OREHOU8E, and <hi rend="initialcap">K</hi>EEN, <hi rend="italic">Gunshot Wounds and Other Injuries of Nerves</hi>, Philadelphia, 1864, p. 22 <hi rend="italic">et seq.</hi></p>
+  </body>
+ </text>
+</TEI>

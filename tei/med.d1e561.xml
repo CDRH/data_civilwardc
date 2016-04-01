@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e561">
+        <teiHeader>
+                <fileDesc>
+                        <titleStmt>
+                                <title level="m" type="main">Crossman, Owen</title>
+                                <title level="m" type="sub">a machine readable transcription</title>
+                                <principal>Susan C. Lawrence</principal>
+                                <principal>Kenneth M. Price</principal>
+                                <principal>Kenneth J. Winkle</principal>
+                        </titleStmt>
+                        <editionStmt>
+                                <edition>
+                                        <date>2011</date>
+                                </edition>
+                        </editionStmt>
+                        <publicationStmt>
+                                <idno>med.d1e561</idno>
+                                <authority>Civil War Washington</authority>
+                                <publisher>University of Nebraska–Lincoln</publisher>
+                                <distributor>
+                                        <name>Center for Digital Research in the Humanities</name>
+                                        <address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+                                </distributor>
+                                <date>2011</date>
+                                <availability>
+                                        <p>Copyright © 2011 by University of Nebraska–Lincoln, all
+                                                rights reserved. Redistribution or republication in
+                                                any medium, except as allowed under the Fair Use
+                                                provisions of U.S. copyright law, requires express
+                                                written consent from the editors and advance
+                                                notification of the publisher, the University of
+                                                Nebraska–Lincoln.</p>
+                                </availability>
+                        </publicationStmt>
+                        <notesStmt>
+                                <note type="project">The following are responsible for particular
+                                        readings or for changes to this file, as noted: 
+                                        <persName xml:id="mb">Matthew Bosley</persName>
+                                        <persName xml:id="el">Elizabeth Lorang</persName>
+                                        <persName xml:id="sb">Stacey Berry</persName>
+                                        <persName xml:id="et">Elisabeth Tracey</persName>
+                                </note>
+                        </notesStmt>
+                        <sourceDesc>
+                                <bibl>
+                                        <title level="j">The Medical and Surgical History of the War
+                                                of the Rebellion</title>
+                                        <pubPlace>Washington, DC</pubPlace>
+                                        <publisher>Government Printing Office</publisher>
+                                        <biblScope type="part">Part 3</biblScope>
+                                        <biblScope type="volume">Volume 1</biblScope>
+                                        <date when="1888">1888</date>
+                                        <biblScope type="page">133</biblScope>
+                                </bibl>
+                        </sourceDesc>
+                </fileDesc>
+                <encodingDesc>
+                        <classDecl>
+                                <taxonomy xml:id="medsurg">
+                                        <bibl>Medical and Surgical History of the War of the
+                                                Rebellion</bibl>
+                                </taxonomy>
+                        </classDecl>
+                </encodingDesc>
+                <profileDesc>
+                        <textClass>
+                                <keywords scheme="#medsurg">
+                                        <term>pathology of malarial disease</term>
+                                        <term>post-mortem records</term>
+                                        <term>quotidian intermittent fever</term>
+                                        <term>typhoid fever</term>
+                                </keywords>
+                        </textClass>
+                </profileDesc>
+                <revisionDesc>
+                        <change who="#mb" when="2011-10-20">additional proofing of transcription and encoding</change>
+                        <change who="#mb" when="2011-05-26">additional proofing of transcription and encoding</change>                        
+                        <change who="#el" when="2011-05-11">case text extracted and transformed from
+                                larger file</change>
+                        <change who="#sb" when="2011-02-23">Encoding and Proofing</change>
+                        <change who="#et" when="2009-12-01">Initial Checking OCR Text to PDF file,
+                        </change>
+                </revisionDesc>
+        </teiHeader>
+        <text>
+                <body xml:id="ch3.sc4.0063">
+                        
+                                <p><hi rend="initialcap">C</hi>ASE 63.&#8212;<name type="person"
+                                                key="853">Sergeant Owen Crossman</name>, <name
+                                                type="organization" key="662">Co. H, 28th Mich.
+                                                Vols.</name>; age 45; was admitted <date
+                                                type="admit" when="1865-02-05">February 5,
+                                                1865</date>. Diagnosis&#8212;quotidian
+                                        intermittent fever, changed on <date when="1865-02-08">the 8th</date> to typhoid fever. He
+                                        had suffered from chills every night for two weeks, but had
+                                        none after his admission. He was much emaciated and
+                                        depressed in mind; had a slight dry cough but with easy and
+                                        natural breathing; uneasy feelings in the upper part of the
+                                        abdomen; darting pains in the abdomen and thorax; anorexia;
+                                        thirst; his skin was dry but covered at times with a clammy
+                                        sweat; bowels regular. On <date when="1865-02-14">the 14th</date> he had profuse
+                                        perspiration, delirium and involuntary passages. He died
+                                                <date type="death" when="1865-02-15">next
+                                        day</date>. <hi rend="italic">Post-mortem</hi> examination
+                                        twenty-two hours after death: Skin jaundiced. Much effusion
+                                        under arachnoid at vertex; brain-substance quite hard, most
+                                        of the vessels having yellow spaces between tracks of black
+                                        liquid blood; lateral ventricles full of liquid; choroid
+                                        plexus showing bulbs of yellow liquid about the size of peas
+                                        along its posterior lower edge; locus niger very dark and
+                                        broad. A little high-colored but clear serum in the
+                                        pericardium; small yellow fibrinous clots in the heart.
+                                        Right lung so congested posteriorly by hypostasis as to sink
+                                        in water, soft, gray-colored and adherent to walls of chest
+                                        by many white bands; left lung dark but crepitant
+                                        posteriorly, firmly adherent. Liver pale and fatty;
+                                        gall-bladder the size of a butternut; spleen very large and
+                                        soft, an&#230;mic; kidneys pale.&#8212;<hi
+                                                rend="italic"><name type="hospital" key="189">Third
+                                                        Division Hospital</name>, <name type="place">Alexandria, Va.</name></hi></p>
+                        
+                </body>
+        </text>
+</TEI>

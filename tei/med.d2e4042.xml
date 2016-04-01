@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d2e4042">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Vanderbeck, James</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+    <idno>med.d2e4042</idno>
+    <authority>Civil War Washington</authority>
+    <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor><name>Center for Digital Research in the
+     Humanities</name><address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address></distributor>
+    <date>2011</date>
+    <availability>
+     <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+      republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+      law, requires express written consent from the editors and advance notification of the
+      publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+     <persName xml:id="mb">Matthew Bosley</persName>     
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title level="j">The Medical and Surgical History of the War of the Rebellion.
+      (1861-65.)</title><pubPlace>Washington, DC</pubPlace><publisher>Government Printing
+      Office</publisher><biblScope type="part">Part 3</biblScope><biblScope type="volume">Volume
+      2</biblScope><date when="1883">1883</date><biblScope type="page">72</biblScope></bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+     <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <keywords scheme="#medsurg">
+     <term>wounds and injuries of the lower extremities</term>                                                                 
+     <term>wounds and injuries of the hip joint</term>
+     <term>shot fractures at the hip joint</term>
+     <term>shot fractures at the hip treated by conservation</term>
+     <term>shot wounds at the hip with fracture of the articular surfaces</term>
+     <term>treated on expectant plan</term> 
+     <term>incisions and removals of fragments or foreign bodies consistent with true conservative treatment</term> 
+     <term>anchylosis of knee joint supervened years after injury</term>
+     <term>ball entered thigh above and behind the trochanter major, passed forward and inward</term> 
+     <term>fractured neck of femur</term>
+     <term>leg useless for purposes of labor</term>
+     <term>disability total</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change who="#mb" when="2012-02-13">additional case copied from MSHWR, performed proofing of copy and XML encoding, and key terms identified</change>  
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   
+   <p> <hi rend="initialcap">C</hi>ASE 142.&#8212;<name type="person" key="xxx">Private James Vanderbeck</name>, <name type="organization" key="xxx">Co. F, 145th New York</name>, aged 21 years, was wounded at the battle of <name type="BATTLE" key="257">Chancellorsville</name>, <date type="injury" when="1863-05-03">May 3d, 1863</date>, by a conoidal musket ball, which entered the left thigh above and behind the trochanter major, passed forward
+    and inward, fractured the neck of the femur, and made its exit at the groin. He was made a prisoner and remained in the hands
+    of the enemy eleven days. He was then exchanged and conveyed to the Twelfth Corps Hospital, at <name type="place">Aquia Creek</name>. The injured
+    limb was simply placed in a comfortable position without any attempt at extension. On <date type="transfer" when="1863-06-14">June 14th</date> the patient was removed on
+    a hospital transport to <name type="place">Alexandria</name> and placed in the <name type="hospital" key="186">First Division Hospital</name>. He was in good condition. The suppuration was
+    comparatively slight, and no bone splinters were found loose and none had come away. <date type="transfer" when="1863-06-17">Three days subsequently</date> he was transferred to <name type="place">Philadelphia</name>, and thence, on <date type="transfer" when="1863-10-12">October 12th</date>, to <name type="place">New York</name>, where he was admitted to the Ladies Home Hospital. The
+    wounds were closed at this date. The patient was discharged from the hospital and from the service of the United States on
+    <date type="servicedischarge" when="1863-11-19">November 19, 1863</date>. On that date he walked with crutches. His limb was shortened two inches, with eversion. He was allowed
+    a pension. On <date type="pension" when="1866-08-02">August 2, 1866</date>, <name type="person" key="xxx">Dr. E. Bradley</name>, Examining Surgeon of the <name type="organization" key="xxx">Pension Bureau</name>, reported that Vanderbeck's general
+    health was good, but that there was much lameness. The fracture was firmly consolidated. <name type="person" key="xxx">Commissioner C. C. Cox</name> reports
+    that Vanderbeck received his pension at the agency in <name type="place">New York City</name> on <date type="pension" when="1868-03-04">March 4, 1868</date>, and that his disability was then rated
+    by the examining surgeon as total. On <date type="pension" when="1873-09-09">September 9, 1873</date>, <name type="person" key="xxx">Examining Surgeon T. F. Smith</name>, of <name type="place">New York City</name>, states: &#34;Ball
+    entered left nates and emerged beneath left popliteal ligament, fracturing the femur; there is union with deformity and three inches
+    shortening.&#34; On <date type="pension" when="1875-09-07">September 7, 1875</date>, the <name type="organization" key="xxx">New York Examining Board</name>, <name type="person" key="xxx">Surgeons T. F. Smith</name>, <name type="person" key="xxx">J. F. Ferguson</name>, and <name type="person" key="xxx">M. K. Hogan</name>, report &#34;that the knee is anchylosed and the patient is obliged to wear a sole on his shoe three inches thick, and to walk with a
+    cane; the leg is useless for purposes of labor.&#34; </p>
+   
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e5277">
+        <teiHeader>
+                <fileDesc>
+                        <titleStmt>
+                                <title level="m" type="main">Wollcott, William</title>
+                                <title level="m" type="sub">a machine readable transcription</title>
+                                <principal>Susan C. Lawrence</principal>
+                                <principal>Kenneth M. Price</principal>
+                                <principal>Kenneth J. Winkle</principal>
+                        </titleStmt>
+                        <editionStmt>
+                                <edition>
+                                        <date>2011</date>
+                                </edition>
+                        </editionStmt>
+                        <publicationStmt>
+                                <idno>med.d1e5277</idno>
+                                <authority>Civil War Washington</authority>
+                                <publisher>University of Nebraska–Lincoln</publisher>
+                                <distributor>
+                                        <name>Center for Digital Research in the Humanities</name>
+                                        <address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+                                </distributor>
+                                <date>2011</date>
+                                <availability>
+                                        <p>Copyright © 2011 by University of Nebraska–Lincoln, all
+                                                rights reserved. Redistribution or republication in
+                                                any medium, except as allowed under the Fair Use
+                                                provisions of U.S. copyright law, requires express
+                                                written consent from the editors and advance
+                                                notification of the publisher, the University of
+                                                Nebraska–Lincoln.</p>
+                                </availability>
+                        </publicationStmt>
+                        <notesStmt>
+                                <note type="project">The following are responsible for particular
+                                        readings or for changes to this file, as noted: 
+                                        <persName xml:id="mb">Matthew Bosley</persName>
+                                        <persName xml:id="el">Elizabeth Lorang</persName>
+                                        <persName xml:id="sb">Stacey Berry</persName>
+                                        <persName xml:id="et">Elisabeth Tracey</persName>
+                                </note>
+                        </notesStmt>
+                        <sourceDesc>
+                                <bibl>
+                                        <title level="j">The Medical and Surgical History of the War
+                                                of the Rebellion</title>
+                                        <pubPlace>Washington, DC</pubPlace>
+                                        <publisher>Government Printing Office</publisher>
+                                        <biblScope type="part">Part 3</biblScope>
+                                        <biblScope type="volume">Volume 1</biblScope>
+                                        <date when="1888">1888</date>
+                                        <biblScope type="page">263</biblScope>
+                                </bibl>
+                        </sourceDesc>
+                </fileDesc>
+                <encodingDesc>
+                        <classDecl>
+                                <taxonomy xml:id="medsurg">
+                                        <bibl>Medical and Surgical History of the War of the
+                                                Rebellion</bibl>
+                                </taxonomy>
+                        </classDecl>
+                </encodingDesc>
+                <profileDesc>
+                        <textClass>
+                                <keywords scheme="#medsurg">
+                                        <term>clinical records</term>
+                                        <term>continued fevers</term>
+                                        <term>typhoid fever</term>
+                                        <term>gangrene, involving toes</term>
+                                        <term>frostbite</term>
+                                        <term>toes removed by operation</term>
+                                        <term>fever cases from various records</term>
+                                        <term>reported as typhoid, many modified by malarial influence</term>
+                                </keywords>
+                        </textClass>
+                </profileDesc>
+                <revisionDesc>
+                        <change who="#mb" when="2011-10-07">additional proofing of transcription and encoding</change>
+                        <change who="#mb" when="2011-06-13">additional proofing of transcription and encoding</change>
+                        <change who="#el" when="2011-05-11">case text extracted and transformed from
+                                larger file</change>
+                        <change who="#sb" when="2011-02-23">Encoding and Proofing</change>
+                        <change who="#et" when="2009-12-01">Initial Checking OCR Text to PDF file,
+                        </change>
+                </revisionDesc>
+        </teiHeader>
+        <text>
+                <body xml:id="ch4.sc2.4.00041">
+                        
+                                <p><hi rend="initialcap">C</hi>ASE 41.&#8212;<hi rend="italic"
+                                                >Gangrene of toes.</hi>&#8212;<name
+                                                type="person" key="600">Private William
+                                                Wollcott</name>, <name type="organization" key="645"
+                                                >Co. H, 12th N. Y.</name>; age 53; was admitted
+                                                <date type="transfer" when="1863-06-22">June 23,
+                                                1863</date>, from <name type="hospital" key="173"
+                                                >Harewood hospital</name>, Washington, D. C. [The
+                                        records show that this man had typhoid fever at <name type="place">White Oak
+                                                Church, Va.</name>, in <date type="injury" when="1863-03">March</date>, and that he was received into
+                                        Harewood hospital, <date type="admit" when="1863-04-21"
+                                                >April 21</date>, whence he was transferred to
+                                        <name type="hospital">Satterlee hospital, Philadelphia, Pa.</name>, as stated.] On
+                                        admission he was found to have a diarrh&#339;a causing
+                                        four or five stools daily, and a gangrene, attributed to
+                                        frost-bite while on picket, involving four of the smaller
+                                        toes of the right foot and two of those of the left foot; he
+                                        had also an ulceration of the left buttock which was
+                                        supposed to have resulted from riding in ambulance wagons.
+                                        On the 27th the sphacelated parts of the right toes
+                                        separated leaving clean ulcers, and on July 4 the first
+                                        joints of the second and third toes of the left foot were
+                                        removed by operation. Water dressing was applied. On <date type="furlough" when="1863-07-29">the 29th</date>
+                                        the patient was furloughed. On <date type="regimenttransfer"
+                                                when="1863-09-04">September 4</date> he was
+                                        transferred to the <name type="organization" key="644"
+                                                >Invalid Corps</name>.&#8212;<hi rend="italic"
+                                                >Satterlee Hospital, Philadelphia, Pa.</hi>
+                                </p>
+                        
+                </body>
+        </text>
+</TEI>

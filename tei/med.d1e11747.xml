@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e11747">
+        <teiHeader>
+                <fileDesc>
+                        <titleStmt>
+                                <title level="m" type="main">Montague, George</title>
+                                <title level="m" type="sub">a machine readable transcription</title>
+                                <principal>Susan C. Lawrence</principal>
+                                <principal>Kenneth M. Price</principal>
+                                <principal>Kenneth J. Winkle</principal>
+                        </titleStmt>
+                        <editionStmt>
+                                <edition>
+                                        <date>2011</date>
+                                </edition>
+                        </editionStmt>
+                        <publicationStmt>
+                                <idno>med.d1e11747</idno>
+                                <authority>Civil War Washington</authority>
+                                <publisher>University of Nebraska–Lincoln</publisher>
+                                <distributor>
+                                        <name>Center for Digital Research in the Humanities</name>
+                                        <address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+                                </distributor>
+                                <date>2011</date>
+                                <availability>
+                                        <p>Copyright © 2011 by University of Nebraska–Lincoln, all
+                                                rights reserved. Redistribution or republication in
+                                                any medium, except as allowed under the Fair Use
+                                                provisions of U.S. copyright law, requires express
+                                                written consent from the editors and advance
+                                                notification of the publisher, the University of
+                                                Nebraska–Lincoln.</p>
+                                </availability>
+                        </publicationStmt>
+                        <notesStmt>
+                                <note type="project">The following are responsible for particular readings or for changes to this file, as noted: 
+                                        <persName xml:id="mb">Matthew Bosley</persName>
+                                        <persName xml:id="el">Elizabeth Lorang</persName>
+                                        <persName xml:id="sb">Stacey Berry</persName>
+                                        <persName xml:id="et">Elisabeth Tracey</persName>
+                                </note>
+                        </notesStmt>
+                        <sourceDesc>
+                                <bibl>
+                                        <title level="j">The Medical and Surgical History of the War of the Rebellion</title>
+                                        <pubPlace>Washington, DC</pubPlace>
+                                        <publisher>Government Printing Office</publisher>
+                                        <biblScope type="part">Part 3</biblScope>
+                                        <biblScope type="volume">Volume 1</biblScope>
+                                        <date when="1888">1888</date>
+                                        <biblScope type="page">883-884</biblScope>
+                                </bibl>
+                        </sourceDesc>
+                </fileDesc>
+                <encodingDesc>
+                        <classDecl>
+                                <taxonomy xml:id="medsurg">
+                                        <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+                                </taxonomy>
+                        </classDecl>
+                </encodingDesc>
+                <profileDesc>
+                        <textClass>
+                                <keywords scheme="#medsurg">
+                                        <term>on certain local diseases</term>
+                                        <term>diseases of the kidneys</term>
+                                        <term>admitted with acute rheumatism</term>
+                                        <term>thigh, knee-joint, leg, ankle and foot swollen</term>
+                                        <term>abdomen tympanitic</term>
+                                        <term>old adhesions in lung, middle lobe in part hepatized</term>
+                                        <term>epithelium of the tubuli granular, contained free oil-drops</term>
+                                        <term>post-mortem examination performed</term>
+                                </keywords>
+                        </textClass>
+                </profileDesc>
+                <revisionDesc>
+                        <change who="#mb" when="2013-05-13">additional proofing of transcription and encoding, edited and added keyword terms</change>
+                        <change who="#mb" when="2011-07-18">additional proofing of transcription and encoding</change>
+                        <change who="#el" when="2011-05-11">case text extracted and transformed from larger file</change>
+                        <change who="#sb" when="2011-02-23">Encoding and Proofing</change>
+                        <change who="#et" when="2009-12-01">Initial Checking OCR Text to PDF file,</change>
+                </revisionDesc>
+        </teiHeader>
+        <text>
+                <body>                        
+                        <p> <hi rend="initialcap">C</hi>ASE 11.&#8212;<name type="person">Corp'l George Montague</name>, <name type="organization">Co. K, 195th Ohio</name>;
+                                age 29; was admitted <date type="transfer" when="1865-12-08">Dec. 8, 1865</date>, with acute rheumatism.
+                                He had been treated at regimental hospital for <date type="admit" when="1865-11-30">eight days</date>
+                                        and had been intoxicated for two weeks previous to the
+                                        attack.  On admission the left thigh, knee-joint, leg, ankle
+                                        and foot were much swollen and very painful, and the left
+                                        elbow and wrist tender and painful; the tongue was dry and
+                                        dark-brown, the stomach irritable, the abdomen tympanitic,
+                                        the stools frequent, light-colored and watery, the pulse
+                                        100 and weak, the skin dry and the mental faculties dull.
+                                        Colchicum, morphine and effervescing draughts were
+                                        prescribed.  Next day, as the patient had passed no urine
+                                        since admission, the catheter was employed, but only a
+                                        tablespoonful of ropy liquid was obtained. Small and
+                                        repeated doses of calomel, opium and ipecacuanha were
+                                        prescribed, and subsequently dry cups to the loins, with
+                                        buchu and spirit of nitre, and barley-water as a drink.  No
+                                        urine was passed, and the patient died comatose on <date type="death" when="1865-12-11">the 11th</date>.   <hi rend="italic">Post-mortem</hi> examination: Body not emaciated; complexion sallow. The brain was congested, and a small clot was found
+                                        in the fissure of Sylvius, near the island of Reil. There
+                                        were old adhesions on the posterior aspect and apex of
+                                        the right lung; its middle lobe was in part hepatized and
+                                        presented old cicatrices on its anterior surface. The heart
+                                        was large but otherwise normal. The liver was fawn-colored
+                                        and enlarged; the spleen very large and firm. The kidneys
+                                        were large, fawn-colored and mottled on the surface with
+                                        streaks and spots of congestion; the epithelium of the tubuli was granular and contained free
+                                        oil-drops,&#8212;[<hi rend="italic">Specimen</hi> 766, Med. Sec., <name type="hospital" key="431">Army Medical Museum</name>].  The bladder was empty and firmly
+                                        contracted. The descending colon was contracted and
+                                        contained several small blood-clots, but there was no
+                                        ulceration.&#8212;<hi rend="italic"><name type="person" key="134">Surgeon E. Bentley</name>, <name type="organization" key="132">U. S. Vols.</name>, <name type="hospital" key="207">Slough Hospital</name>, <name type="place">Alexandria, Va.</name></hi> </p>                        
+                </body>
+        </text>
+</TEI>

@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d2e9414">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Burns, M.</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+    <idno>med.d2e9414</idno>
+    <authority>Civil War Washington</authority>
+    <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor><name>Center for Digital Research in the
+     Humanities</name><address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address></distributor>
+    <date>2011</date>
+    <availability>
+     <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+      republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+      law, requires express written consent from the editors and advance notification of the
+      publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+ <persName xml:id="kmp">Kenneth M. Price</persName> 
+     <persName xml:id="mb">Matthew Bosley</persName>
+     <persName xml:id="el">Elizabeth Lorang</persName>
+     <persName xml:id="sb">Stacey Berry</persName>
+     <persName xml:id="et">Elisabeth Tracey</persName>
+     <persName xml:id="ss">Sarah Synovec</persName>
+     <persName xml:id="kk">Kourtney Klein</persName>
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title level="j">The Medical and Surgical History of the War of the Rebellion.
+      (1861-65.)</title><pubPlace>Washington, DC</pubPlace><publisher>Government Printing
+      Office</publisher><biblScope type="part">Part 3</biblScope><biblScope type="volume">Volume
+      2</biblScope><date when="1883">1883</date><biblScope type="page">195-196</biblScope></bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+     <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <keywords scheme="#medsurg">
+     <term>wounds and injuries of the lower extremities</term> 
+     <term>injuries of the shaft of the femur</term> 
+     <term>shot fractures of the shaft of the femur</term>
+     <term>shot fractures of the shaft of the femur treated by conservation</term> 
+     <term>shot fractures of the lower third of the femur treated by conservation</term> 
+     <term>successful cases of shot fractures of the lower third of the femur treated by conservation</term> 
+     <term>shot wound of thigh</term>
+     <term>ball entered anterior portion of thigh at junction of middle and lower thirds, passing horizontally backward, fractured femur, exit posteriorly</term> 
+     <term>limb shortened three-quarters of an inch</term>
+     <term>walks slow and with difficulty</term>
+     <term>femur enlarged, foot swollen</term> 
+     <term> locomotion slow and fatiguing</term>     
+    </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+ <change who="#kmp" when="2014-05">blessed</change>
+   <change who="#kk" when="2014-01-29">added figure encoding</change>
+   <change who="#mb" when="2012-05-08">additional proofing of transcription and encoding, identified keyword terms</change>
+   <change who="#el" when="2011-05-11">case text extracted and transformed from larger file</change>
+   <change who="#sb" when="2011-06-04">Enrich Encoding, Edit and validate</change>
+   <change who="#sb" when="2011-01-28">Validated File</change>
+   <change who="#ss" when="2008-09-22">Sarah Synovec initial checking of OCR text; encoded P5 Encoding</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   
+    <p><hi rend="initialcap">C</hi>ASE 400.&#8212;<name type="person" key="1054">Private M.
+      Burns</name>, <name type="organization" key="420">Co. B, 28th Massachusetts</name>, aged 22
+     years, was wounded at <name type="BATTLE" key="79">Hatcher's Run</name>, <date type="injury"
+      when="1865-03-25">March 25, 1865</date>. <name type="person" key="xx">Surgeon F. M.
+      Hammond</name>, <name type="organization" key="364">126th New York</name>, noted his entrance
+     into the field hospital of the 1st division, Second
+     Corps, with "shot wound of left thigh." The wounded man reached <name type="place" key="#Washington">Washington</name> <date
+      type="transfer" when="1865-04-03">April 3d</date>, and was admitted to the <name type="hospital"
+       key="171">Armory Square Hospital</name>, whence <name type="person" key="424">Acting Assistant
+        Surgeon G. K. Smith</name> reported the following history: "The missile, a mini&#233; ball, entered
+     the anterior portion of the thigh at the junction of the middle and lower thirds, and, passing
+     horizontally backward, fractured the femur and made its exit posteriorly. The constitutional
+     disturbance resulting from the injury was very slight, the discharge of pus from the wound
+     amounting to only about half an ounce in twenty-four hours. The limb was shortened two inches.
+     It was placed on a <choice><orig>mattrass</orig><reg>mattress</reg></choice>, between two sand bags, and extension was applied with a sixteen
+     pound weight. Muriated tincture of iron was ordered; but no stimulants were given. By April
+     15th, the discharge amounted to only one drachm daily, and the limb was shortened only one and
+     a quarter inches. On May 11th, believing the fragments to be firmly united, I allowed the
+     extension to be removed and the patient to ride on the invalid chair, and, on measuring the
+     limb, I found that it was still shortened three-quarters of an inch. I reapplied the weight;
+     but this contraction could not be overcome by any amount of extension that the patient could
+     bear. He was now kept in bed until June 9th, at which time the fragments had firmly united and
+     he commenced walking on crutches. No fragments of bone were ever removed from the limb." The
+     patient was transferred to the <name type="place">Readville</name> Hospital
+     <date type="transfer" when="1865-07-05">July 5th</date>, and subsequently to Dale Hospital, <name type="place">Worcester</name>, where he was discharged and
+     pensioned <date type="servicedischarge" when="1865-08-28">August 28, 1865</date>, <name type="person"
+      key="xx">Surgeon C. N. Chamberlain</name>, <name type="organization" key="132">U. S. V.</name>, certifying to "fracture of femur, with moderate deformity and shortening and slight
+     contraction of the flexors of the thigh." The pensioner enlisted in the <name
+      type="organization" key="421">43d Infantry</name> on <date type="enlist" when="1867-08-21">August 21, 1867</date>, and was again discharged
+     <date type="servicedischarge" when="1869-06-10">June 10, 1869</date>. <name type="person" key="xx">Examiner I. F. Galloupe</name>, of <name type="place" key="xx">Lynn, Massachusetts</name>, certified, in <date type="pension" when="1869">1869</date>: "A musket ball passed through the left thigh, fracturing the femur. The wound is healed and the bone appears to be sound. The limb is
+     shortened and he walks slow and with difficulty," etc. In <date type="pension" when="1874-06">June, 1874</date>, the same Examiner
+     reported: "In walking he does not touch the heel, but rests on the forward part of the foot,
+     thus making locomotion slow and fatiguing. The limb is painful when much used and in cold
+     weather. The femur is enlarged and the foot is swollen." The pensioner was paid <date type="pension" when="1879-06-04">June 4, 1879</date>.  <hi rend="initialcap">F</hi>IG. 2 of <hi rend="initialcap">P</hi>LATE LXIII, opp. p. 196,
+     represents a copy of a photograph of the patient taken at the <name type="hospital" key="431">Army Medical Museum</name> on <date type="photo" when="1865-06-25">June 25, 1865</date> (<hi rend="italic">Surg. Phot. Series</hi>, No.
+     47, A. M. M.).</p>
+    
+   <figure>
+    <graphic url="cww.001809.001" />
+    <head>PLATE  LXIII. &#8212; CONSOLIDATED  GUNSHOT  FRACTURES  OF  THE  FEMUR.   Fig 2.  Case of <name type="person" key="1054">Private M. Burns</name>  <name type="organization" key="420">28th Massachusettes</name></head>
+   </figure>
+
+   
+  </body>
+ </text>
+</TEI>

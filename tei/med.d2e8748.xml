@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d2e8748">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Ryder, A.</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+    <idno>med.d2e8748</idno>
+    <authority>Civil War Washington</authority>
+    <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor><name>Center for Digital Research in the
+     Humanities</name><address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address></distributor>
+    <date>2011</date>
+    <availability>
+     <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+      republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+      law, requires express written consent from the editors and advance notification of the
+      publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+ <persName xml:id="kw">Kenneth Winkle</persName> 
+     <persName xml:id="mb">Matthew Bosley</persName>
+     <persName xml:id="el">Elizabeth Lorang</persName>
+     <persName xml:id="sb">Stacey Berry</persName>
+     <persName xml:id="et">Elisabeth Tracey</persName>
+     <persName xml:id="ss">Sarah Synovec</persName>
+     <persName xml:id="kk">Kourtney Klein</persName>
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title level="j">The Medical and Surgical History of the War of the Rebellion.
+      (1861-65.)</title><pubPlace>Washington, DC</pubPlace><publisher>Government Printing
+      Office</publisher><biblScope type="part">Part 3</biblScope><biblScope type="volume">Volume
+      2</biblScope><date when="1883">1883</date><biblScope type="page">188-189</biblScope></bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+     <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <keywords scheme="#medsurg">
+     <term>wounds and injuries of the lower extremities</term> 
+     <term>injuries of the shaft of the femur</term> 
+     <term>shot fractures of the shaft of the femur</term>
+     <term>shot fractures of the shaft of the femur treated by conservation</term> 
+     <term>shot fractures of the middle third of the femur treated by conservation</term> 
+     <term>recovery after shot fractures of the middle third of the femur treated by conservation</term> 
+     <term>ball struck femur above patella, fractured shaft of bone, and lodged</term>
+     <term>treated on Dr. Gurdon Buck's plan</term> 
+     <term>injured leg shortened less than an inch</term>
+     <term>ball passed through rectus muscle, fractured bone, lodged in posterior thigh</term>
+     <term>muscles in back of leg and thigh contracted</term>      
+    </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+ <change who="#kw" when="2014-05">blessed</change>
+   <change who="#kk" when="2014-01-29">added figure encoding</change>
+   <change who="#mb" when="2012-04-25">additional proofing of transcription and encoding, identified keyword terms</change>
+   <change who="#el" when="2011-05-11">case text extracted and transformed from larger file</change>
+   <change who="#sb" when="2011-06-04">Enrich Encoding, Edit and validate</change>
+   <change who="#sb" when="2011-01-28">Validated File</change>
+   <change who="#ss" when="2008-09-22">Sarah Synovec initial checking of OCR text; encoded P5 Encoding</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   
+    <p><hi rend="initialcap">C</hi>ASE 385.&#8212;<name type="person" key="1025">Sergeant A.
+      Ryder</name>, <name type="organization" key="143">Co. B, 121st New York</name>, aged 22 years,
+     was wounded <name type="BATTLE" key="58">before Petersburg</name>, <date type="injury"
+      when="1865-04-02">April 2, 1865</date>, and admitted to the field hospital of the 1st division, Sixth Corps, where <name type="person" key="xx">Surgeon R. Sharpe</name>, <name type="organization" key="402">15th New Jersey</name>, noted:
+     "Shot fracture of left thigh; splints applied." On <date type="transfer" when="1865-04-03">the day following the injury</date> the wounded man
+     was sent to the Depot Hospital at <name type="place">City Point</name>, and, on
+      <date type="transfer" when="1865-04-12">April 12th</date>, he was transferred to <name
+      type="hospital" key="171">Armory Square Hospital</name>, Washington, whence <name
+       type="person" key="424">Acting Assistant Surgeon G. K. Smith</name> reported the following history:
+     "The wound was caused by a conoidal ball, which struck the femur about six inches above the
+     patella, fracturing the shaft of the bone and lodging. But slight constitutional disturbance
+     took place, and the quantity of discharge from the wound sac very moderate. The position of the
+     ball could not be ascertained. The patient was treated on <name type="person" key="xxx">Dr. Gurdon Buck</name>'s plan. Two weeks
+     after his admission, the injured limb was found to be shortened one and one-quarter inches. By
+     June 9th the wound had healed, but bony union was still incomplete and extension by weights was
+     continued. On July 8th the femur was found to be firmly consolidated, and the patient was
+     allowed to go about on crutches. He was mustered out of service <date type="servicedischarge"
+      when="1865-08-02">August 2, 1865</date>, his general health being good and his injured leg
+     shortened less than an inch." <name type="person" key="xx">Examiner J. C. Tibbets</name>, of
+     <name type="place" key="xx">Warsaw, New York</name>, certified, <date type="pension" when="1872-10-14">October 14, 1872</date>: "The
+     ball passed through the rectus muscle, fractured the bone, and lodged in the posterior pan of
+     the thigh among the muscles, where it still remains. The muscles in the back of the leg and thigh are contracted, so that walking
+     or even much resting on the limb causes spasms (cramps), etc." The pensioner was paid <date type="pension" when="1879-03-04">March 4,
+     1879</date>. His photograph, taken at the <name type="hospital" key="431">Army Medical Museum</name>
+     on <date type="photo" when="1864-07-25">July 25, 1865</date> (<hi rend="italic">Surg. Phot. Series</hi>, No. 72), is represented in <hi rend="initialcap">F</hi>IG. 1 of <hi rend="initialcap">P</hi>LATE <hi rend="initialcap">LXI</hi>.</p>
+   
+   <figure>
+    <graphic url="cww.001807.001" />
+    <head>PLATE  LXI.  &#8212;  CONSOLIDATED  GUNSHOT  FRACTURES  OF  THE  FEMUR.    Fig. 1.  Case of Sergeant A. Ryder, 121st New York</head> 
+   </figure>
+   
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e41932">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Manchester, A. L.</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+    <idno>med.d1e41932</idno>
+    <authority>Civil War Washington</authority>
+    <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor>
+     <name>Center for Digital Research in the Humanities</name>
+     <address><addrLine>319 Love Library</addrLine>
+       <addrLine>University of Nebraska–Lincoln</addrLine>
+       <addrLine>Lincoln, NE 68588-4100</addrLine>
+       <addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+    </distributor>
+    <date>2011</date>
+    <availability>
+     <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+      republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+      law, requires express written consent from the editors and advance notification of the
+      publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+ <persName xml:id="kw">Kenneth Winkle</persName> <persName xml:id="ajh">AJ Howell</persName>
+     <persName xml:id="mb">Matthew Bosley</persName>
+     <persName xml:id="el">Elizabeth Lorang</persName>
+     <persName xml:id="sb">Stacey Berry</persName>
+     <persName xml:id="ao">Alyssa Olson</persName>
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl>
+     <title level="j">The Medical and Surgical History of the War of the Rebellion.
+      (1861-65.)</title>
+     <pubPlace>Washington, DC</pubPlace>
+     <publisher>Government Printing Office</publisher>
+     <biblScope type="part">Part 2</biblScope>
+     <biblScope type="volume">Volume 1</biblScope>
+     <date when="1879">1879</date>
+     <biblScope type="page">519</biblScope>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+     <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <keywords scheme="#medsurg">
+     <term>diarrh&#339;a and dysentery</term>
+     <term>remarks on the pathology and treatment of diarrh&#339;a and dysentery</term>
+     <term>chronic dysentery</term>
+     <term>post mortem appearances in chronic dysentery</term>
+     <term>morbid anatomy</term>
+     <term>chronic inflammation of the intestines accompanied by follicular or other ulcers</term>
+     <term>autopsy performed</term>
+     <term>diarrh&#339;a</term>
+     <term>measles</term>
+     <term>measles and enteritis</term>
+     <term>small intestine inflamed near ileoc&#230;cal valve</term>
+     <term>large intestine inflamed and ulcerated</term>
+     <term>descending colon exhibited small, oval follicular ulcers, also irregular ulcers with
+      overhanging edges</term>
+     <term>tormina and tenesmus</term>
+     <term>bloody stools</term>
+     <term>catarrhal ulcers</term>
+     <term>diphtheritic inflammation</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+ <change who="#kw" when="2014-05">blessed</change>
+   <change who="#ajh" when="2013-08-21">added figure encoding</change>
+   <change who="#mb" when="2013-02-01">additional proofing of transcription and encoding, identified
+    keyword terms</change>
+   <change who="#el" when="2010-11-05">case text extracted and transformed from larger file</change>
+   <change who="#sb" when="2010-05-01">enrich encoding, proof and edit</change>
+   <change who="#ao" when="2008-10-02">encoding and editing</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>The extreme dimensions of the erosions, which occasionally result from the extension of
+    follicular ulcers, are well illustrated by the plate facing page 526, which is a reproduction of
+    a photograph of No. 195, Medical Section. The following is an account of the case:</p>
+   <p><hi rend="initialcap">C</hi>ASE 904.&#8212;<name type="person" key="xxx">Sergeant A. L.
+     Manchester</name>, <name type="organization" key="xxx">company E, 152d New York
+     volunteers</name>; age 23; was enlisted <date type="enlist" when="1862-09-27">September 27,
+     1862</date>, and continued to do duty with his company until March, 1863. During much of this
+    time he had diarrh&#339;a, which, however, did not prevent him from remaining on duty. <date
+     type="injury" when="1863-03-02">March 2d</date>, being then on duty as one of the guard at
+     <name type="hospital" key="162">Douglas hospital</name>, Washington, D. C., he was attacked by
+    measles, with dry skin, pulse 110, and dark tongue. At the time of this attack he was a good
+    deal broken down by the disorder of his bowels, and when, on the <date type="admit"
+     when="1863-03-05">5th of March</date>, he was transferred to a bed in the hospital, the entry
+    in the register was "measles and enteritis." The stools had been comparatively painless, but,
+    March 7th, tormina and tenesmus supervened and they became bloody; they did not, however, exceed
+    ten in twelve hours. These symptoms gradually abated under the use of a chalk mixture with
+    opiate suppositories, and by the 12th of March the stools were reduced to four in the
+    twenty-four hours, and were no longer bloody; skin moist; tongue cleaner; pulse 70, but quite
+    feeble; the patient began to eat, and was now free from tenesmus and abdominal pain. March 20th:
+    Is much better; pulse 84 and stronger; he sits up; has milk and eggs for diet; the remedies
+    employed seem to control the tendency to pain and straining; the latter symptom appears to be
+    kept in check by the use of the suppositories mentioned above. March 22d: Appetite better; only
+    three painless passages in the last twenty-four hours; pulse 84; skin natural; tongue coated;
+    slight tenderness on pressure in the left inguinal region. March 28th: Not so well; pulse 110;
+    skin natural; has had about four stools daily for the last few days; they are dark-colored and
+    stringy; tongue coated with a brownish fur; increased tenderness in left inguinal and lumbar
+    regions. March 29th: Pulse 125; skin dry; tongue coated, but not so thickly as yesterday.
+    Ordered quinia and milk punch. March 30th: Continual bilious vomiting set in, which was somewhat
+    relieved by creasote, but it recurred from time to time, and death ensued <date type="death"
+     when="1863-04-01">April 1st</date>. Stimulants, beef tea, &#38;c., had been freely used during
+    the last week of life. <hi rend="italic">Autopsy:</hi> The small intestine near the
+    ileoc&#230;cal valve was inflamed; higher up it was healthy. The large intestine was extensively
+    inflamed and ulcerated.&#8212;<name type="person" key="xxx">Acting Assistant Surgeon Henry L. W.
+     Burritt</name>. [Nos. 194 and 195, Medical Section, <name type="hospital" key="431">Army
+     Medical Museum</name>, are from this case.]</p>
+   <p>The plate represents a portion of descending colon, which exhibits a number of the small,
+    oval, characteristic follicular ulcers, but shows besides a number of large irregular ulcers
+    with overhanging edges. The largest of these are more than an inch in diameter. It is probable
+    that follicular ulceration had existed in this case for some time before the patient was
+    attacked by measles, and that in consequence of the adynamic condition induced by that disease
+    the ulcers rapidly extended. This seems to have been effected by a simple ulcerative process
+    quite independent of any diphtheritic inflammation, and the specimens afford an excellent
+    illustration of the great size to which catarrhal ulcers sometimes extend. No. 194, Medical
+    Section, is taken from higher up the same colon, and exhibits similar lesions but in a less
+    marked degree.</p>
+   <figure>
+    <graphic url="cww.001509.001"/>
+    <head><hi rend="initialcap">P</hi>LATE XXXIV. COLON WITH IRREGULAR ULCERS. No. 195. MEDICAL
+     SECTION.</head>
+   </figure>
+  </body>
+ </text>
+</TEI>

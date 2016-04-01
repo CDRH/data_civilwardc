@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e221">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Baird, Matthew</title>
+<title level="m" type="sub">a machine readable transcription</title>
+<principal>Susan C. Lawrence</principal>
+<principal>Kenneth M. Price</principal>
+<principal>Kenneth J. Winkle</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>med.d1e221</idno>
+<authority>Civil War Washington</authority>
+<publisher>University of Nebraska–Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright © 2011 by University of Nebraska–Lincoln, all
+rights reserved. Redistribution or republication in
+any medium, except as allowed under the Fair Use
+provisions of U.S. copyright law, requires express
+written consent from the editors and advance
+notification of the publisher, the University of
+Nebraska–Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">The following are responsible for particular
+readings or for changes to this file, as noted: 
+    <persName xml:id="mb">Matthew Bosley</persName>
+<persName xml:id="el">Elizabeth Lorang</persName>
+<persName xml:id="sb">Stacey Berry</persName>
+<persName xml:id="et">Elisabeth Tracey</persName>
+</note>
+</notesStmt>
+<sourceDesc>
+<bibl>
+<title level="j">The Medical and Surgical History of the War
+of the Rebellion</title>
+<pubPlace>Washington, DC</pubPlace>
+<publisher>Government Printing Office</publisher>
+<biblScope type="part">Part 3</biblScope>
+<biblScope type="volume">Volume 1</biblScope>
+<date when="1888">1888</date>
+<biblScope type="page">116</biblScope>
+</bibl>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<classDecl>
+<taxonomy xml:id="medsurg">
+<bibl>Medical and Surgical History of the War of the
+Rebellion</bibl>
+</taxonomy>
+</classDecl>
+</encodingDesc>
+<profileDesc>
+<textClass>
+<keywords scheme="#medsurg">
+<term>clinical records</term>
+<term>malarial disease</term>
+    <term>typhoid fever</term>    
+    <term>treated as remittent</term>
+</keywords>
+</textClass>
+</profileDesc>
+<revisionDesc>
+    <change who="#mb" when="2011-10-20">additional proofing of transcription and encoding</change>   
+<change who="#el" when="2011-05-24">hand clean-up of transcription and encoding</change>
+<change who="#el" when="2011-05-11">case text extracted and transformed from
+larger file</change>
+<change who="#sb" when="2011-02-23">encoded; proofed</change>
+<change who="#et" when="2009-12-01">initial checking of OCR text; P5 encoding</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body xml:id="ch3.sc2.0038">
+    <p><hi rend="italic">Recorded as typhoid but treated as remittent.</hi>&#8212;<hi rend="initialcap">C</hi>ASE 38.&#8212;<name type="person" key="579">Private Matthew Baird</name>, <name type="organization" key="530">Co. C, 3d Mich. Vols.</name>; age 23; was admitted <date type="admit" when="1861-10-19">October 19, 1861</date>, as a case of typhoid fever. About <date when="1861-10-05">October 5</date> he had been seized with pain in the head and bones, fever and chills; he had some nausea and vomiting at first, and a diarrh&#339;a which continued for two days; the headache lasted four days; during the second week his urine had to be removed by catheter. On admission his pulse was 62 and of fair strength, skin soft and warm, tongue pale, moist and slightly coated, brownish in the center, teeth and gums clean, appetite good; he had tinnitus aurium and giddiness, but no pain, eruption nor sudamina; one thin watery stool was passed, but there was no tenderness, borborigmus nor tympanites, and the abdomen was soft; there was no cough and the urine was normal. Quinine was prescribed in full doses three times daily. Next day the face was calm and natural; the pulse 64, steady and of fair strength; the skin soft and warm; the tongue slightly pale and flabby, but moist and clean; the appetite good; one thin f&#339;tid stool was passed. On <date when="1861-10-22">the 22d</date> the quinine was reduced to two grains three times daily, and during the night the patient had a chill, but next day its effects disappeared. On <date when="1861-10-28">the 28th</date> he rested badly and had some diarrh&#339;a, but there was no tenderness nor tympanitis; the tongue was pale and moist and the appetite fair. The skin and conjunctiv&#230; became jaundiced on <date when="1861-10-31">the 31st</date>. Small doses of calomel and opium were given. On <date when="1861-11-04">November 4</date> he slept well; his mind was clear, countenance calm, bowels regular and appetite good. He was transferred to <name type="place">Annapolis, Md.</name>, on the <date type="transfer" when="1861-11-18">18th</date>.&#8212;<hi rend="italic"><name type="hospital" key="156">Seminary Hospital</name>, <name type="place">Georgetown, D.C.</name></hi></p>
+</body>
+</text>
+</TEI>

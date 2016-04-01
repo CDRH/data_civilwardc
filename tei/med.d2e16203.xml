@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d2e16203">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Pettigrew, G. W.</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+    <idno>med.d2e16203</idno>
+    <authority>Civil War Washington</authority>
+    <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor><name>Center for Digital Research in the
+     Humanities</name><address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address></distributor>
+    <date>2011</date>
+    <availability>
+     <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+      republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+      law, requires express written consent from the editors and advance notification of the
+      publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+     <persName xml:id="mb">Matthew Bosley</persName>
+     <persName xml:id="el">Elizabeth Lorang</persName>
+     <persName xml:id="sb">Stacey Berry</persName>
+     <persName xml:id="et">Elisabeth Tracey</persName>
+     <persName xml:id="ss">Sarah Synovec</persName>
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title level="j">The Medical and Surgical History of the War of the Rebellion.
+      (1861-65.)</title><pubPlace>Washington, DC</pubPlace><publisher>Government Printing
+      Office</publisher><biblScope type="part">Part 3</biblScope><biblScope type="volume">Volume
+      2</biblScope><date when="1883">1883</date><biblScope type="page">389</biblScope></bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+     <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <keywords scheme="#medsurg">
+     <term>wounds and injuries of the lower extremities</term> 
+     <term>wounds and injuries of the knee joint</term>
+     <term>excisions at the knee joint for shot injury</term> 
+     <term>primary excisions at the knee joint</term>
+     <term>fatal cases of primary excision of the knee joint</term> 
+     <term>shot wound of knee, patella removed</term> 
+     <term>shot wound of side and knee</term>
+     <term>resection of head of fibula, destroyed by ball</term>     
+    </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change who="#mb" when="2012-05-29">additional proofing of transcription and encoding, identified keyword terms</change>
+   <change who="#el" when="2011-05-11">case text extracted and transformed from larger file</change>
+   <change who="#sb" when="2011-06-04">Enrich Encoding, Edit and validate</change>
+   <change who="#sb" when="2011-01-28">Validated File</change>
+   <change who="#ss" when="2008-09-22">initial checking of OCR text; encoded P5 Encoding</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   
+    <p><hi rend="initialcap">C</hi>ASE 601.&#8212;<name type="person" key="1207">Lieutenant <hi
+       rend="italic">G. W. Pettigrew</hi></name>, <name type="organization" key="476">Co. A, 26th
+      Georgia</name>, was wounded and captured at <name type="BATTLE" key="4">Fredericksburg</name>, <date type="injury" when="1862-12-13">December 13, 1862</date>. <name
+      type="person" key="xx">Surgeon C. J. Nordquist</name>, <name type="organization" key="431">83d
+      New York</name>, recorded his admission to the field hospital of the 2d division, First Corps, with "shot wound of left knee; patella removed."
+     <name type="person" key="1206">Acting Assistant Surgeon J. D. Robinson</name> reported that the
+     patient was admitted to the <name type="hospital" key="159">Patent Office Hospital</name>,
+     Washington, <date type="admit" when="1862-12-25">December 25th</date>, and that he died of his
+     injury, "a shot wound of left side and knee," <date type="death" when="1862-12-30">December 30,
+      1862</date>.&#178; </p>
+   <p>&#178; A letter of inquiry was addressed, in February, 1868, by the editor to <name type="person" key="xxx">Dr. R. S. Dana</name>, formerly Surgeon <name type="organization" key="xxx">107th Pennsylvania</name>, who, in an answer
+    dated March 23, 1868, states: &#34;1 have written to several of the surgeons who were there, to learn if possible more of the case than I can recollect; one
+    answer only has been returned. From all that I can learn or remember of the case, <name type="person" key="1207">Lieutenant Pettigrew</name> was operated on by <name type="person" key="xxx">Dr. E. G. Chase</name>, Surgeon
+    <name type="organization" key="xxx">104th New York</name>, and <name type="person" key="xxx">Dr. J. F. Hutchinson</name>, at that time Surgeon of the <name type="organization" key="xxx">107th Pennsylvania</name>. The operation was the resection of the head of the fibula, which was destroyed by a ball, the operation not involving the knee joint proper.&#34;</p>
+  </body>
+ </text>
+</TEI>

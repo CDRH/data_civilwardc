@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e17403">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title level="m" type="main">Brown, William</title>
+        <title level="m" type="sub">a machine readable transcription</title>
+        <principal>Susan C. Lawrence</principal>
+        <principal>Kenneth M. Price</principal>
+        <principal>Kenneth J. Winkle</principal>
+      </titleStmt>
+      <editionStmt>
+        <edition><date>2011</date></edition>
+      </editionStmt>
+      <publicationStmt>
+        <idno>med.d1e17403</idno>
+        <authority>Civil War Washington</authority>
+        <publisher>University of Nebraska–Lincoln</publisher>
+        <distributor><name>Center for Digital Research in the
+          Humanities</name><address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address></distributor>
+        <date>2011</date>
+        <availability>
+          <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution
+            or republication in any medium, except as allowed under the Fair Use provisions of U.S.
+            copyright law, requires express written consent from the editors and advance
+            notification of the publisher, the University of Nebraska–Lincoln.</p>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="project">The following are responsible for particular readings or for changes to
+          this file, as noted: 
+          <persName xml:id="mb">Matthew Bosley</persName>
+          <persName xml:id="el">Elizabeth Lorang</persName>
+          <persName xml:id="sb">Stacey Berry</persName>
+          <persName xml:id="et">Elisabeth Tracey</persName>
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl><title>The Medical and Surgical History of the War of the Rebellion.
+            (1861&#8211;65.)</title><editor role="compiler">Surgeon General Joseph K. Barnes, United
+            States Army</editor><pubPlace>Washington, D.C.</pubPlace><publisher>Government Printing
+            Office</publisher><biblScope type="part">Part 1</biblScope>
+          <biblScope type="volume">Volume 2</biblScope><date when="1870">1870</date><biblScope
+            type="page">326</biblScope></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <classDecl>
+        <taxonomy xml:id="medsurg">
+          <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="#medsurg">
+          <term>wounds and injuries of the face</term>
+          <term>gunshot wounds of the face</term>
+          <term>gunshot wounds of the orbit</term>
+          <term>gunshot wounds of the eye</term>
+          <term>eye destroyed</term>                  
+          <term>phthisis pulmonalis</term>  
+          <term>total blindness</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change who="#mb" when="2011-09-13">additional proofing of transcription and encoding</change>
+      <change who="#el" when="2011-11-05">case text extracted and transformed from larger
+        file</change>
+      <change who="#sb" when="2011-02-09">enriched encoding</change>
+      <change who="#sb" when="2011-01-28">validated file</change>
+      <change who="#et" when="2009-08-01">encoded</change>
+      <change who="#sb" when="2008-09-22">initial checking of OCR text against PDF; encoded
+      </change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p> <hi rend="initialcap">C</hi>ASE.&#8212;<name type="person">Private William Brown</name>, <name type="organization">Co. D, 119th Pennsylvania Volunteers</name>, aged 24 years, was
+        wounded at <name type="BATTLE" key="263">Cold Harbor, Virginia</name>, <date type="injury" when="1864-06">June, 1864</date>, by a conoidal ball, which entered the right
+          temple two inches from the orbit, and emerged through the right eyeball. He was admitted
+          to hospital 1st division, Sixth Corps; on <date type="transfer" when="1864-06-11">June 11th</date>, transferred to <name type="hospital" key="174">Campbell Hospital</name>,
+        Washington, and on <date type="transfer" when="1864-07-23">July 23d</date>, sent to <name type="hospital">Satterlee HospitaL</name>, whence he was discharged <date type="servicedischarge" when="1865-06-28">June
+          28th, 1865</date>. The right eye was totally destroyed, and the sight of the left eye was lost.
+        In <date type="pension" when="1868-03">March, 1868</date>, he was a pensioner at $25 per month, his disability being rated total and
+        permanent. <name type="person">Dr. J. A. McArthur</name> reports that Brown was under his care at <name type="hospital">Soldiers Home,
+          Philadelphia</name>, until <date type="death" when="1869-01-27">January 27th, 1869</date>, when he died of phthisis pulmonalis. At the time
+          of his death, he suffered from total blindness. </p>
+      
+    </body>
+  </text>
+</TEI>

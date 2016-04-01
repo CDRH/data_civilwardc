@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d2e9203">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Private J. Shimrock</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+    <idno>med.d2e9203</idno>
+    <authority>Civil War Washington</authority>
+    <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor><name>Center for Digital Research in the
+     Humanities</name><address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address></distributor>
+    <date>2011</date>
+    <availability>
+     <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+      republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+      law, requires express written consent from the editors and advance notification of the
+      publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+ <persName xml:id="kw">Kenneth Winkle</persName> <persName xml:id="ajh">AJ Howell</persName>
+     <persName xml:id="mb">Matthew Bosley</persName>
+     <persName xml:id="el">Elizabeth Lorang</persName>
+     <persName xml:id="sb">Stacey Berry</persName>
+     <persName xml:id="et">Elisabeth Tracey</persName>
+     <persName xml:id="ss">Sarah Synovec</persName>
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title level="j">The Medical and Surgical History of the War of the Rebellion.
+      (1861-65.)</title><pubPlace>Washington, DC</pubPlace><publisher>Government Printing
+      Office</publisher><biblScope type="part">Part 3</biblScope><biblScope type="volume">Volume
+      2</biblScope><date when="1883">1883</date><biblScope type="page">191-192</biblScope></bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+     <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <keywords scheme="#medsurg">
+     <term>wounds and injuries of the lower extremities</term>
+     <term>injuries of the shaft of the femur</term>
+     <term>shot fractures of the shaft of the femur</term>
+     <term>shot fractures of the shaft of the femur treated by conservation</term>
+     <term>shot fractures of the middle third of the femur treated by conservation</term>
+     <term>fatal cases of shot fractures of the middle third of the femur treated by
+      conservation</term>
+     <term>femur broken near junction of lower and middle thirds</term>
+     <term>obstruction of iliac and femoral veins</term>
+     <term>missile found at lower and inner side of thigh</term>
+     <term>femoral artery contained clot of blood (embolus), completely occluded</term>
+     <term>an&#230;mia</term>
+     <term>diarrh&#339;a</term>
+     <term>py&#230;mia</term>
+     <term>py&#230;mic rigors and sweats,</term>
+     <term>h&#230;morrhage</term>
+     <term>suppuration profuse</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+ <change who="#kw" when="2014-05">blessed</change>
+   <change who="#ajh" when="2013-08-22">added figure encoding</change>
+   <change who="#mb" when="2012-05-07">additional proofing of transcription and encoding, identified
+    keyword terms</change>
+   <change who="#el" when="2011-05-11">case text extracted and transformed from larger file</change>
+   <change who="#sb" when="2011-06-04">Enrich Encoding, Edit and validate</change>
+   <change who="#sb" when="2011-01-28">Validated File</change>
+   <change who="#ss" when="2008-09-22">Sarah Synovec initial checking of OCR text; encoded P5
+    Encoding</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+
+   <p><hi rend="initialcap">C</hi>ASE 392.&#8212;<name type="person" key="1029">Private J.
+     Shimrock</name>, <name type="organization" key="419">Co. A, 55th Ohio</name>, aged 20 years,
+    was wounded at <name type="BATTLE" key="10">Chancellorsville</name>, <date type="injury"
+     when="1863-05-03">May 3, 1863</date>. <name type="person" key="xx">Surgeon G. Suckley</name>,
+     <name type="organization" key="132">U. S. V.</name>, reported that he was left in the hands of
+    the enemy, and described his injury as "a shot fracture of the femur." <date type="admit"
+     when="1863-05-15">Twelve days after being wounded</date> the man was paroled and admitted to
+    the Eleventh Corps field hospital at <name type="place">Brook's Station</name>, and <date
+     type="transfer" when="1863-06-15">one month later</date> he was transferred to the <name
+     type="hospital" key="175">Stanton Hospital</name> at Washington. <name type="person" key="70"
+     >Surgeon J. A. Lidell</name>, <name type="organization" key="132">U. S. V.</name>, contributed
+    the specimen (<hi rend="initialcap">F</hi>IG. 153) and made the following report of the case:
+    "Examination at the time of admission showed that the right femur was broken near the junction
+    of the lower with the middle third, and that union had not yet taken place. There was a copious
+    discharge of thin pus from the wound of the soft parts. The fracture had been treated in a
+    simple straight fracture-box, and the limb was still in it when the patient was brought to this
+    hospital. He stated that the bullet had not yet been extracted from the wound. He was pale,
+    thin, and weak, with a frequent pulse. His tongue was smooth, dry, and red, and he complained of
+    diarrh&#339;a, but said this was an old affair, and that he had also had chills and fever some
+    time back. The prognosis was very unfavorable. The broken limb was placed in Hodgen's splint;
+    pills of camphor and opium were given to control the diarrh&#339;a, and the system was supported
+    with a nourishing diet, using eggs, milk, beef tea, farina, etc., together with milk-punch. June
+    18th, diarrh&#339;a checked; tongue continues red and smooth; has considerable irritability of
+    the stomach. The pills were suspended, but the supporting treatment continued. 22d, secondary
+    h&#230;morrhage from the wound, to the extent of about three ounces, occurred this morning;
+    there was also slight bleeding yesterday, some branch of the profunda being the probable source.
+    Two drachms of solution of persulphate of iron was injected into the bottom of the wound through
+    a catheter, and the h&#230;morrhage did not again occur. 24th, complained of pain in the thigh,
+    was restless, and had some diarrh&#339;a. Gave one-grain opium pills every four hours until the
+    26th, when the diarrh&#339;a was again checked. Suppuration continued profuse; tongue smooth and
+    red. <date type="operation" when="1863-07-02">July 2d</date>, patient appeared to be slowly
+    failing. Fluctuation having been detected above the internal condyle of the femur, an incision
+    was made and about two ounces of pus evacuated. Two grains of quinine was prescribed three times
+    a day, and six ounces of whiskey daily was substituted in place of the milk-punch, which, the
+    patient thought, did not agree with him. 8th, patient began to exhibit night sweats, with
+    increase of pallor and an&#230;mia; suppuration profuse, unhealthy and fetid; necrosed bone at
+    the bottom of the wound firmly impacted. 18th, had a chill, followed by a hot and sweating
+    stage. Administered ten grains of quinine three times a day: chills did not return for four
+    days. 20th, patient very pale and feeble, with smooth red tongue; in addition to quinine he
+    takes muriated tincture of iron, and porter two pints daily, with nourishing diet. 21st,
+    diarrh&#339;a returned and was checked by pills of opium. 22d and 23d, chills occurring at
+    irregular intervals, associated with hot flushes and profuse perspiration. <date
+     type="operation" when="1863-07-25">25th</date>, some unhealthy fetid pus was evacuated from the
+    inner side of the thigh by incision. 27th, had py&#230;mic rigors and sweats again; is much
+    emaciated and very pale; pulse 120 and feeble; tongue glazed and of bright red color. 29th,
+    continuance of py&#230;mic rigors and sweats, the perspiration being very profuse; left leg and
+    thigh &#339;dematous and blue colored, the superficial veins looking like dark blue knotted
+    cords; all of which denotes obstruction of the left iliac and femoral veins. The patient
+    continued to sink, and died of exhaustion on <date type="death" when="1863-07-31">July 31,
+     1863</date>. <hi rend="italic">Post-mortem</hi> twenty hours after death: Fracture of right
+    thigh firmly united; necrosed bone closely surrounded by involucrum; muscles of right thigh
+    extensively infiltrated with pus. The missile, a conical and much flattened bullet, was found at
+    the lower and inner side of the thigh. The femoral artery opposite the seat of the injury
+    contained an oval-shaped clot of blood (embolus) which completely occluded it; no other
+    abnormity of the artery was noticed. On examination of the left thigh a metastatic abscess was
+    found in the popliteal space containing about an ounce of pus, and the external iliac and
+    femoral veins were discovered to be distended with coagulated blood. The femoral and iliac veins
+    of the injured limb appeared to be normal. The liver was somewhat enlarged, nutmegged and fatty;
+    kidneys beginning to be granular; spleen enlarged, softened, and reddish brown in color; lungs
+    containing some frothy serum, otherwise natural; left ventricle of heart containing some
+    coagulated blood." The specimen consists of the lower half of the injured femur with a battered
+    piece of lead attached, and exhibits a fragment four inches long by one and a half wide, which
+    preserved the vitality of its periosteal surface. The effusions from this fragment connect, as a
+    bridge, the broken shaft; its internal surface is carious. Besides this, other and smaller
+    fragments are entangled in the newly formed bone, some of which are necrosed and some serve as
+    bonds. A wet preparation of portions of the common and external iliac and femoral arteries of
+    the right side, showing an embolus in the latter near the seat of the fracture of the thigh, was
+    also contributed by <name type="person" key="70">Surgeon Lidell</name>&#185;, and constitutes
+    Specimen 3454 of the Surgical Section of the <name type="hospital" key="431">Army Medical
+     Museum</name>.</p>
+   <p>&#185; Dr. <hi rend="initialcap">L</hi>IDELL, in an article on <hi rend="italic">Thrombosis
+     and Embolism</hi>, in the <hi rend="italic">American Journal of Medical Sciences</hi>, 1872,
+    Vol. LXIV, N. S., p. 343, gives a minute account of this important case.</p>
+   <figure>
+    <graphic url="cww.001569.001"/>
+    <head>
+     <hi rend="initialcap">F</hi>IG. 153.&#8212;Fracture of right femur at junction of middle and
+     lower thirds. <hi rend="italic">Spec</hi>. 1536.</head>
+   </figure>
+
+  </body>
+ </text>
+</TEI>

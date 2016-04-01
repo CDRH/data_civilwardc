@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e705">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Washburn, Calvin</title>
+                <title level="m" type="sub">a machine readable transcription</title>
+                <principal>Susan C. Lawrence</principal>
+                <principal>Kenneth M. Price</principal>
+                <principal>Kenneth J. Winkle</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition><date>2010</date></edition>
+            </editionStmt>
+            <publicationStmt>
+                <idno>med.d1e705</idno>
+                <authority>Civil War Washington</authority>
+                <publisher>University of Nebraska–Lincoln</publisher>
+                <distributor><name>Center for Digital Research in the
+                    Humanities</name><address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address></distributor>
+                <date>2010</date>
+                <availability>
+                    <p>Copyright © 2010 by University of Nebraska–Lincoln, all rights reserved.
+                        Redistribution or republication in any medium, except as allowed under the
+                        Fair Use provisions of U.S. copyright law, requires express written consent
+                        from the editors and advance notification of the publisher, the University
+                        of Nebraska–Lincoln.</p>
+                </availability>
+            </publicationStmt>
+            <notesStmt>
+                <note type="project">The following are responsible for particular readings or for changes to
+                    this file, as noted: 
+                    <persName xml:id="mb">Matthew Bosley</persName>
+                    <persName xml:id="ajh">AJ Howell</persName>
+                    <persName xml:id="el">Elizabeth Lorang</persName>
+                    <persName xml:id="sb">Stacey Berry</persName>
+                    <persName xml:id="ao">Alyssa Olson</persName>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <bibl><title level="j">The Medical and Surgical History of the War of the Rebellion.</title>
+                    <pubPlace>Washington, DC</pubPlace>
+                    <publisher>Government Printing Office</publisher>
+                    <biblScope type="part">Part 2</biblScope>
+                    <biblScope type="volume">Volume 1</biblScope>
+                    <date when="1879">1879</date>
+                    <biblScope type="page">103</biblScope></bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <classDecl>
+                <taxonomy xml:id="medsurg">
+                    <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme="#medsurg">
+                    <term>morbid appearances observed in fatal cases</term>
+                    <term>diarrh&#339;a and dysentery</term> 
+                    <term>fatal cases of diarrh&#339;a and dysentery, with accounts of the morbid appearances observed</term>
+                    <term>from Baxter Hospital, Burlington, Vermont</term>
+                    <term>chronic diarrh&#339;a</term>
+                    <term>severe pain in abdomen</term> 
+                    <term>cavity of the thorax contained a large quantity of serum</term> 
+                    <term>both lungs filled with tubercles</term>                    
+                    <term>cyst in liver, lower portion of right lobe</term>
+                    <term>colon extensively ulcerated, nearly eaten through in two places</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change who="#mb" when="2012-12-18">additional proofing of transcription and encoding, identified keyword terms and figures</change>
+            <change who="#ajh" when="2012-12-06">additional proofing of transcription and encoding, identified keyword terms</change>
+            <change who="#el" when="2010-11-05">case text extracted and transformed from larger file</change>
+            <change who="#sb" when="2010-05-01">Stacey Berry Enrich encoding, proof and edit</change>
+            <change who="#ao" when="2008-10-02">Alyssa Olson Encoding and editing</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p>The following case is extracted from the case-book of <hi rend="initialcap">B</hi>AXTER <hi rend="initialcap">H</hi>OSPITAL, Burlington, Vermont, Acting Assistant Surgeon Samuel W. Thayer in charge:</p>
+            <p><hi rend="initialcap">C</hi>ASE 96.&#8212;<name type="person" key="77">Private Calvin Washburn</name>, <name type="organization" key="87">company K, 2d Vermont volunteers</name>; admitted <date type="transfer" when="1864-02-12">February 12, 1864</date>.  Chronic diarrh&#339;a.  [This man appears on the regimental returns of the 2d Vermont as taken on sick report, <date type="admit" when="1864-01-01">January 1, 1864</date>, with chronic diarrh&#339;a. The disease resisting treatment, he was admitted, <date type="admit" when="1864-02-02">February 2d</date>, to <name type="hospital" key="172">Emory hospital</name>, Washington, D. C., where he was treated for the same disease, and thence transferred to this hospital.]  At the time of admission he was very much emaciated. He stated that he had suffered from chronic diarrh&#339;a <date type="injury" when="1863-08">about six months</date>, but had improved very much while in hospital in Washington. His pulse was feeble; his tongue pale. Ordered a nutritious diet and stimulants. He apparently continued to improve, and had a good appetite. About midnight, <date type="injury" when="1864-03-29">March 29th</date>, the attending surgeon was summoned and found him complaining of a severe pain in the abdomen, respiration hurried, pulse rapid and feeble. Gave quarter of a grain of sulphate of morphia and stimulants.  Died <date type="death" when="1864-03-31">March 31st</date>, at 8 o'clock P. M.  <hi rend="italic">Autopsy</hi> <date type="autopsy" when="1864-04-01">twelve hours after death</date>: The cavity of the thorax contained a large quantity of serum. There were pleuritic adhesions on the right side. Both lungs were filled with tubercles. The liver was somewhat softened, and a cyst was found in the lower portion of its right lobe. The colon was extensively ulcerated and nearly eaten through in two places.</p>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,404 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="cww.00504">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Petition of Joseph W. Webb, 28 May 1862</title>
+                <title level="m" type="sub">a machine readable transcription</title>
+                <principal>Susan C. Lawrence</principal>
+                <principal>Kenneth M. Price</principal>
+                <principal>Kenneth J. Winkle</principal>
+                <respStmt>
+                    <resp>transcription and encoding</resp>
+                    <name xml:id="kp">Kenneth M. Price</name>
+                    <name xml:id="bj">Brittany Jones</name>
+                    <name xml:id="nnk">Nima Najafi Kianfar</name>
+                    <name xml:id="jc">Janel Cayer</name>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2013</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <idno>cww.00504</idno>
+                <distributor>Civil War Washington</distributor>
+                <publisher>University of Nebraska–Lincoln</publisher>
+                <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>P.O. Box 884100</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+            </address>
+                <date>2013</date>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+                        <p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike
+                            3.0 Unported License
+                            (http://creativecommons.org/licenses/by-nc-sa/3.0/). Derivatives must be
+                            credited to Civil War Washington, made available non-commercially, and
+                            distributed under the same terms. Requests for permission for commercial
+                            publication or other use should be emailed to the project team.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Petition of Joseph W. Webb, 28 May 1862</title>
+                    <date when="1862-05-28">May 28, 1862</date>
+                    <idno>Microcopy 520, Reel 4</idno>
+                    <orgName>National Archives and Records Administration</orgName>
+                    <relatedItem type="original">
+                        <bibl>
+                            <title>Petition of Joseph W. Webb, 28 May 1862</title>
+                            <date when="1862-05-28">May 28, 1862</date>
+                            <idno>Record Group 217.6.5</idno>
+                            <orgName>Records of the Accounting Officers of the Department of the
+                                Treasury, 1775–1978, National Archives and Records
+                                Administration</orgName>
+                            <note type="project">Within the National Archives' Archival Description
+                                Catalog, see ARC Identifier 4644616 / MLR Number A1 347
+                                (http://arcweb.archives.gov).</note>
+                        </bibl>
+                    </relatedItem>
+                    <note type="project">Our transcription is based on a digital image of a
+                        microfilm copy of the original.</note>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <particDesc>
+                <person role="petitioner">
+                    <persName>Joseph W. Webb</persName>
+                </person>
+                <person role="jp">
+                    <persName>John H. Johnson</persName>
+                </person>
+            </particDesc>
+        </profileDesc>
+        <revisionDesc>
+            <change when="2013-08-14" who="#jc">removed underlining of signature and deleted extra text from oath page</change>
+            <change when="2013-02-11" who="#jc">blessed</change>
+            <change when="2013-02-10" who="#kp">blessed</change>
+            <change when="2012-12-28" who="#jc">updated tei header; fixed values for @facs as
+                necessary; automated checking across files for extra spaces in elements and other
+                encoding inconsistencies and for regular transcription errors</change>
+            <change when="2011-10-29" who="#nnk">proofed</change>
+            <change when="2011-03-17" who="#bj">transcribed, encoded</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb xml:id="leaf001r" facs="cww.00504.001.jpg"/>
+
+            <div1 type="petition" subtype="mixed">
+                <head type="main">PETITION.</head>
+                <p rend="bold">To the Commissioners under the act of Congress approved the <date
+                        when="1862-04-16">16th of April, 1862</date>, entitled "An act for the
+                    release of certain persons held to service or labor in the District of
+                    Columbia."</p>
+
+                <p>Your Petitioner, <seg type="handwritten">
+                        <persName>Joseph W. Webb</persName>
+                    </seg> of <seg type="handwritten">
+                        <placeName>Washington City</placeName>
+                    </seg> by this <seg type="handwritten">his</seg> petition in writing, represents
+                    and states, that <seg type="handwritten">he</seg> is a person loyal to the
+                    United States, who, at the time of the passage of the said act of Congress, held
+                    a claim to service or labor against <seg type="handwritten">
+                        <persName>William Harrod</persName> a</seg> person of African descent of the
+                    name of <seg type="handwritten">
+                        <persName>William Harrod</persName>
+                    </seg> for and during <del>the life of said</del>
+                    <seg type="handwritten"> a term of years not yet expired&#8212;to wit for the
+                        term of those years and nine months from the <date when="1860-07-23">23rd
+                            day of July 1860</date>,</seg> and that by said act of Congress said
+                        <seg type="handwritten">
+                        <persName>William Harrod</persName> was</seg> discharged and freed of and
+                    from all claim of your petitioner to such service or labor; that at the time of
+                    said discharge said <seg type="handwritten">
+                        <persName>William</persName> was</seg> of the age of <seg type="handwritten"
+                        >thirty for years&#8212;</seg> and of the personal description
+                        following:<note type="government" place="foot" xml:id="n1">Here describe the
+                        person, so as to identify him or her; and if there be more than one slave,
+                        describe each one separately.</note>
+                    <seg type="handwritten">a stout, medium sized man, in height about five feet,
+                        six inches, of dark brown <choice>
+                            <orig>complection</orig>
+                            <reg>complexion</reg>
+                        </choice>, intelligent and, active and an excellent coachman and House
+                        Servant.</seg>
+                </p>
+
+                <pb xml:id="leaf001v" facs="cww.00504.002.jpg"/>
+
+                <p>That your petitioner acquired <seg type="handwritten">his</seg> claim to the
+                    aforesaid service or labor of said <seg type="handwritten">
+                        <persName>William Harrod</persName>
+                    </seg> in manner following:<note type="government" place="foot" xml:id="n2">Here
+                        state how the claim was acquired, when, from whom, and for what price or
+                        consideration; and, if held under any written evidence of title, make
+                        exhibit thereof, or refer to the public record where the same may be
+                        found.</note>
+                    <seg type="handwritten">by purchase of the said over a fixed term of years from
+                        Mrs. <persName>Jane Turnbull</persName>&#8212;of the said city of
+                            <placeName>Washington</placeName> &#38; Mrs. <persName>Sophia <unclear
+                                reason="illegible" cert="low" resp="#nnk"
+                            >Krumbhaar</unclear></persName> of <placeName>Philadelphia</placeName>
+                        to whom he belonged</seg>
+                </p>
+
+                <p>That your petitioner's claim to the service or labor of said <seg
+                        type="handwritten">
+                        <persName>William</persName>
+                    </seg> was, at the time of said discharge therefrom, of the value of <seg
+                        type="handwritten">nine Hundred</seg> dollars in money.<note
+                        type="government" place="foot" xml:id="n3">Here state such facts, if any
+                        there be, touching the value of the petitioner's claim to the service or
+                        labor of the person, as may enhance the same, and also such facts, if any,
+                        touching the moral, mental, and bodily infirmities or defects of said
+                        person, as impair the value of the petitioner's claim to such service or
+                        labor, and conclude such statement with an averment that the petitioner
+                        knows of no other infirmities or defects of said person which impair the
+                        value of petitioner's claim to such service or labor, and that he believes
+                        none other to exist. If the petitioner specify no such infirmity or defect,
+                        then his statement touching the value of his claim should conclude with an
+                        averment that he has no knowledge of any such infirmity or defect.</note>
+                    <seg type="handwritten">that said <persName>William</persName> is an excellent
+                        coachman and House Servant and was worth by the month for his
+                        services&#8212;at least&#8212;twenty five Dollars&#8212;and that petitioner
+                        has no knowledge of any moral, mental, or bodily infirmities that in any way
+                        impair the value of the said <persName>William</persName>
+                    </seg>
+                </p>
+
+                <p>Your petitioner hereby declares that <seg type="handwritten">he</seg> bears true
+                    and faithful allegiance to the Government of the United States, and that <seg
+                        type="handwritten">he</seg> has not borne arms against the United States in
+                    the present rebellion, nor in any way given aid or comfort thereto.</p>
+
+                <p>And your petitioner further states and alleges, that <seg type="handwritten"
+                        >he</seg> has not brought said <seg type="handwritten">William</seg> into
+                    the District of Columbia since the passage of said act of Congress; and that, at
+                    the time of the passage thereof, said <seg type="handwritten">
+                        <persName>William</persName>
+                    </seg> was held to service or labor therein under and by virtue of your
+                    petitioner's claim to such service or labor.</p>
+
+                <p>Your petitioner further states and alleges, that <seg type="handwritten"
+                        >his</seg> said claim to the service or labor of said <seg
+                        type="handwritten">
+                        <persName>William</persName>
+                    </seg> does not originate in or by virtue of any transfer heretofore made by any
+                    person who has in any manner aided or sustained the present rebellion against
+                    the Government of the United States.</p>
+
+                <p>And your petitioner prays the said Commissioners to investigate and determine the
+                    value of <seg type="handwritten">his</seg> said claim to the service or labor of
+                    said <seg type="handwritten">
+                        <persName>William</persName>
+                    </seg> herein above set forth; and if the same be found to be valid, that they
+                    appraise and apportion the value of said claim in money, and report the same to
+                    the Secretary of the Treasury of the United States, in conformity to the
+                    provisions of said act of Congress.</p>
+
+                <closer> (Signed by) <signed>
+                        <seg type="handwritten">
+                            <persName>J W Webb</persName>
+                        </seg>
+                    </signed>
+                </closer>
+            </div1>
+
+            <pb xml:id="leaf002r" facs="cww.00504.003.jpg"/>
+
+            <div1 type="billofsale" subtype="handwritten">
+                <div2 type="section" subtype="handwritten">
+                    <ab>Paid $100</ab>
+                    <ab><persName>Jane Turnbull</persName> &#38; <persName>Sophia
+                            Krumbhaar</persName>.<lb/> to<lb/>
+                        <persName>Joseph W. Webb</persName>
+                    </ab>
+                    <ab>Bill of Sale of Negro<lb/> &#38; Deed of manumission</ab>
+
+                    <ab>Received <date when="1860-12-11">11th December 1860</date>. To be Recorded,
+                        and same day was Recorded, in Liber J. A. S. No 203, Folios 513, 514 &#38;
+                        515, one of the Land Records, of <placeName>Washington County</placeName>,
+                        in the <placeName>District of Columbia</placeName>. And examined by,</ab>
+                    <closer>
+                        <signed><persName>Jno. A. Smith</persName>
+                            <lb/>clerk.</signed>
+                    </closer>
+                </div2>
+
+                <pb xml:id="leaf003r" facs="cww.00504.004.jpg"/>
+
+                <div2 type="section" subtype="handwritten">
+                    <p>Know all men by these presents that we <persName>Jane Turnbull</persName> and
+                            <persName>Sophia Krumbhaar</persName> of <placeName>Washington
+                            County</placeName> in the <persName>District of Columbia</persName> for
+                        and in consideration of the sum of four hundred dollars current money of the
+                            <placeName>United States</placeName> to wit in hand paid by
+                            <persName>Joseph W. Webb</persName> of said County and District at and
+                        before the sealing and delivery of these presents, the receipt whereof is
+                        hereby acknowledged, have granted bargained and sold, and by these presents
+                        do hereby grant bargain and sell unto him the said <persName>Joseph W.
+                            Webb</persName>, his executors, administrations and assigns for the term
+                        or period of three years and nine months from the date hereof our colored
+                        salve <persName>William</persName> aged about thirty five years. To Have and
+                        To Hold the said slave <persName>William</persName> unto him the said
+                            <persName>Joseph W. Webb</persName>, his executors administrators and
+                        assigns for and during the said term a period of three years and nine months
+                        from the date hereof&#8212;at the expiration of which said term of three
+                        years and nine months it is expressly understood and agreed by and between
+                        the parties hereto that the said <choice>
+                            <orig>coloured</orig>
+                            <reg>colored</reg>
+                        </choice> man <persName>William</persName> shall be manumitted, set free and
+                        forever discharged from all manner of servitude or service to our heirs,
+                        executors, administrators and assigns and from all persons whatever, and do
+                        hereby declare him to be free and manumitted from and after the expiration
+                        of the said term of three years and nine months as aforesaid</p>
+
+                    <pb xml:id="leaf004r" facs="cww.00504.005.jpg"/>
+
+                    <p>In Witness whereof We have hereunto subscribed our names and affixed our
+                        seals this <date when="1860-07-23">23rd.&#8212;day of July eighteen hundred
+                            and sixty.</date></p>
+
+                    <closer>
+                        <signed><persName>Jane Turnbull</persName> seal</signed>
+                        <signed><persName>Sophia Krumbhaar</persName> seal</signed>
+                    </closer>
+                </div2>
+
+                <div2 type="section" subtype="handwritten">
+                    <p>Signed sealed &#38; delivered in the presence of</p>
+                    <closer>
+                        <signed><persName>Sam'l Drury</persName></signed>
+                        <signed><persName>W. B. Cobb</persName></signed>
+                        <lb/>as to Mrs. <persName>Jane Turnbull</persName>'s signature.
+                                <signed><persName>Wm. H. Butler</persName></signed>
+                        <signed><persName>L R Krumbhaar</persName></signed><lb/> as to
+                            <persName>Sophia Krumbhaar</persName>'s signing </closer>
+                </div2>
+
+                <div2 type="section" subtype="handwritten">
+                    <dateline><placeName>District of Columbia</placeName>
+                        <placeName>Washington County</placeName>, to wit:</dateline>
+                    <p>On this <date when="1860-07-23">23rd day of July 1860</date>, before the
+                        subscriber a Justice of the Peace in and for the County and District
+                        aforesaid personally appears <persName>Jane Turnbull</persName> party to the
+                        foregoing instrument of writing, and acknowledges the same to be her act and
+                        deed for the purposes therein mentioned.</p>
+                    <closer>Acknowledged before <signed><persName>Sam'l Drury</persName> JP
+                            seal</signed>
+                    </closer>
+                </div2>
+
+                <div2 type="section" subtype="handwritten">
+                    <dateline>State of <placeName>Pennsylvania</placeName><lb/> City and county of
+                            <placeName>Philadelphia</placeName> to wit:</dateline>
+                    <p>On the <date when="1860-07-25">twenty fifth day of July 1860</date>, before
+                        the subscriber a justice of the Peace in and for the county and State
+                        aforesaid, personally appeared <persName>Sophia Knumbhaar</persName> party
+                        to the foregoing instrument of writing and acknowledged the same to <pb
+                            xml:id="leaf005r" facs="cww.00504.006.jpg"/> be her act and deed, for
+                        the purposes therein mentioned.</p>
+                    <p>In witness whereof, I have hereunto set my hand and seal this day and date
+                        above written.</p>
+                    <closer>
+                        <signed><persName>Wm. H. Butler</persName> E. D. J. P. seal
+                            <lb/>Alderman</signed>
+                    </closer>
+                </div2>
+            </div1>
+
+            <pb xml:id="leaf006r" facs="cww.00504.007.jpg"/>
+
+            <div1 type="statement" subtype="mixed">
+                <dateline><hi rend="bold">State of Pennsylvania</hi>, <hi rend="italic"
+                            ><placeName>COUNTY OF PHILADELPHIA</placeName>, ss.</hi></dateline>
+                <p>I, <seg type="handwritten">
+                        <persName>John P. McFadden</persName></seg> Prothonotary of the District
+                    Court of said County, Do CERTIFY, that <seg type="handwritten">
+                        <persName>William H Butler</persName></seg> before whom the annexed <seg
+                        type="handwritten">acknowledgment</seg> was mad, was at the time of so doing
+                    an Alderman and ex officio Justice of the Peace of the <seg type="handwritten"
+                        >City &#38; County</seg> of <placeName>Philadelphia</placeName>, duly
+                    commissioned and qualified to administer oaths and affirmations, and to take
+                    acknowledgments, &#38;c. and to all whose acts, as such, full faith and credit
+                    are and out to be given, as well in Courts of Judicature as elsewhere, and that
+                    his signature thereto is genuine.</p>
+                <p>IN TESTIMONY WHEREOF, I have hereunto set my hand and affixed the Seal of said
+                    Court, this <date when="1860-07-25">
+                        <seg type="handwritten">25th</seg> day of <seg type="handwritten">July</seg>
+                        A.D. 18<seg type="handwritten">60</seg>
+                    </date>
+                </p>
+                <closer>
+                    <signed><seg type="handwritten"><persName>J. P.
+                        McFadden</persName></seg></signed><lb/> PROTHONOTARY.</closer>
+            </div1>
+
+            <pb xml:id="leaf008r" facs="cww.00504.008.jpg"/>
+
+            <div1 type="oath" subtype="mixed">
+                <head type="main">[<hi rend="italic">Form of the Oath for the Verification of the
+                        Petition.</hi>]</head>
+
+                <dateline>
+                    <placeName>District of Columbia</placeName>,
+                    <lb/>
+                    <hi rend="italic"><placeName>Washington County</placeName>, ss.</hi>
+                </dateline>
+
+                <div2 type="section">
+                    <p>I, <seg type="handwritten">
+                            <persName>Joseph W. Webb</persName>
+                        </seg> being duly sworn, do depose and say, that all the several matters and
+                        things which are set forth and stated in the foregoing petition, as of my
+                        own knowledge, are true in substance and in fact; and that all the several
+                        other matters and things therein set forth and stated, as from the
+                        information of others, I believe to be true in substance and in fact.</p>
+                    <closer> (Signed by) <signed>
+                            <seg type="handwritten">
+                                <persName>J W Webb</persName>
+                            </seg>
+                        </signed>
+                    </closer>
+                </div2>
+
+                <div2 type="section">
+                    <p>Sworn to and subscribed before me this <date when="1862-05-01">
+                            <seg type="handwritten">27th</seg> day of <seg type="handwritten"
+                                >May</seg> A.D. 1862</date>.</p>
+                    <closer> (Signed by) <signed>
+                            <seg type="handwritten">
+                                <persName>Jno. H. Johnson</persName> J. P. seal</seg>
+                        </signed>
+                    </closer>
+                </div2>
+            </div1>
+
+            <div1 type="cover" subtype="handwritten">
+                <note type="editorial">The following note, about the filing of the petition, has
+                    been imaged twice in the National Archives microfilm, but the note occurs in
+                    only one place in the petition: written horizontally on the final page, the Oath
+                    for the Verification.</note>
+                <ab>504<lb/> Petition of<lb/>
+                    <persName>Joseph W. Webb</persName><lb/> Under the "Act of <date
+                        when="1862-04-16">16th<lb/> of April 1862</date>"<lb/> manumission.</ab>
+                <ab>Filed <date when="1862-05-28">May 28, 1862</date></ab>
+                <ab><persName>William B Webb</persName>
+                    <choice>
+                        <abbr>Esq</abbr>
+                        <expan>Esquire</expan>
+                    </choice></ab>
+            </div1>
+        </body>
+    </text>
+</TEI>

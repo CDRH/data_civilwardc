@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e10101">
+        <teiHeader>
+                <fileDesc>
+                        <titleStmt>
+                                <title level="m" type="main">Hitchen, William</title>
+                                <title level="m" type="sub">a machine readable transcription</title>
+                                <principal>Susan C. Lawrence</principal>
+                                <principal>Kenneth M. Price</principal>
+                                <principal>Kenneth J. Winkle</principal>
+                        </titleStmt>
+                        <editionStmt>
+                                <edition>
+                                        <date>2011</date>
+                                </edition>
+                        </editionStmt>
+                        <publicationStmt>
+                                <idno>med.d1e10101</idno>
+                                <authority>Civil War Washington</authority>
+                                <publisher>University of Nebraska–Lincoln</publisher>
+                                <distributor>
+                                        <name>Center for Digital Research in the Humanities</name>
+                                        <address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+                                </distributor>
+                                <date>2011</date>
+                                <availability>
+                                        <p>Copyright © 2011 by University of Nebraska–Lincoln, all
+                                                rights reserved. Redistribution or republication in
+                                                any medium, except as allowed under the Fair Use
+                                                provisions of U.S. copyright law, requires express
+                                                written consent from the editors and advance
+                                                notification of the publisher, the University of
+                                                Nebraska–Lincoln.</p>
+                                </availability>
+                        </publicationStmt>
+                        <notesStmt>
+                                <note type="project">The following are responsible for particular
+                                        readings or for changes to this file, as noted: 
+                                        <persName xml:id="mb">Matthew Bosley</persName>
+                                        <persName xml:id="el">Elizabeth Lorang</persName>
+                                        <persName xml:id="sb">Stacey Berry</persName>
+                                        <persName xml:id="et">Elisabeth Tracey</persName>
+                                </note>
+                        </notesStmt>
+                        <sourceDesc>
+                                <bibl>
+                                        <title level="j">The Medical and Surgical History of the War of the Rebellion</title>
+                                        <pubPlace>Washington, DC</pubPlace>
+                                        <publisher>Government Printing Office</publisher>
+                                        <biblScope type="part">Part 3</biblScope>
+                                        <biblScope type="volume">Volume 1</biblScope>
+                                        <date when="1888">1888</date>
+                                        <biblScope type="page">574</biblScope>
+                                </bibl>
+                        </sourceDesc>
+                </fileDesc>
+                <encodingDesc>
+                        <classDecl>
+                                <taxonomy xml:id="medsurg">
+                                        <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+                                </taxonomy>
+                        </classDecl>
+                </encodingDesc>
+                <profileDesc>
+                        <textClass>
+                                <keywords scheme="#medsurg">
+                                        <term>diseases allied to or associated with</term>
+                                        <term>the paroxysmal and continued fevers</term>
+                                        <term>cerebro-spinal fever</term>
+                                        <term>clinical and post-mortem records</term>
+                                        <term>cases at the hospitals of Alexandria, Va.</term>   
+                                        <term>quotidian intermittent fever</term>
+                                        <term>paralysis of arm and leg</term>
+                                        <term>pus on cerebro-spinal membranes</term>
+                                        <term>pain in limbs, headache, delirium</term>                                                
+                                        <term>post-mortem examination performed</term>
+                                        <term>lungs congested, part of lung hepatized</term>
+                                </keywords>
+                        </textClass>
+                </profileDesc>
+                <revisionDesc>
+                        <change who="#mb" when="2013-04-12">additional proofing of transcription and encoding, edited and added keyword terms</change>
+                        <change who="#mb" when="2012-03-06">additional proofing of transcription and encoding, identified keyword terms</change>
+                        <change who="#mb" when="2011-06-24">additional proofing of transcription and encoding</change>
+                        <change who="#el" when="2011-05-11">case text extracted and transformed from larger file</change>
+                        <change who="#sb" when="2011-02-23">Encoding and Proofing</change>
+                        <change who="#et" when="2009-12-01">Initial Checking OCR Text to PDF file,</change>
+                </revisionDesc>
+        </teiHeader>
+        <text>
+                <body>
+                        <p> <hi rend="italic">Case at the Hospitals of <name type="place">Alexandria, Va.</name></hi></p><p><hi rend="initialcap">C</hi>ASE 66.&#8212;<name type="person"
+                                                key="820">Private William Hitchen</name>, <name
+                                                type="organization" key="152">Co. B, 1st N. J.
+                                                Cav.</name>; age 25; was admitted <date type="admit"
+                                                when="1864-01-26">Jan. 26, 1864</date>, as a case of
+                                        quotidian intermittent. The fever was arrested by quinine,
+                                        but on <date type="injury" when="1864-01-29">the 29th</date> the patient was seized with pain in the
+                                        limbs, headache, some delirium and paralysis of the right
+                                        arm and leg, while his tongue became dry and his pulse
+                                        frequent. Cups and blisters were applied to the back of the
+                                        neck, after which he became quieter and ultimately comatose,
+                                        in which condition he remained until death, <date
+                                                type="death" when="1864-02-01">February 1</date>.   <hi rend="italic">Post-mortem</hi> examination: The
+                                        brain was congested; pus was found on the cerebro-spinal
+                                        membranes. The lungs were congested and part of the left
+                                        lung hepatized.</p>                        
+                </body>
+        </text>
+</TEI>

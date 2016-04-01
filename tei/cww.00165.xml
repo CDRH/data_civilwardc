@@ -1,0 +1,496 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="cww.00165">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Petition of Ann Biscoe, 10 May 1862</title>
+                <title level="m" type="sub">a machine readable transcription</title>
+                <principal>Susan C. Lawrence</principal>
+                <principal>Kenneth M. Price</principal>
+                <principal>Kenneth J. Winkle</principal>
+                <respStmt>
+                    <resp>transcription and encoding</resp>
+                    <name xml:id="kjw">Kenneth J. Winkle</name>
+                    <name xml:id="jc">Janel Cayer</name>
+                    <name xml:id="nnk">Nima Najafi Kianfar</name>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2013</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <idno>cww.00165</idno>
+                <distributor>Civil War Washington</distributor>
+                <publisher>University of Nebraska–Lincoln</publisher>
+                <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>P.O. Box 884100</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+            </address>
+                <date>2013</date>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+                        <p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike
+                            3.0 Unported License
+                            (http://creativecommons.org/licenses/by-nc-sa/3.0/). Derivatives must be
+                            credited to Civil War Washington, made available non-commercially, and
+                            distributed under the same terms. Requests for permission for commercial
+                            publication or other use should be emailed to the project team.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Petition of Ann Biscoe, 10 May 1862</title>
+                    <date when="1862-05-10">May 10, 1862</date>
+                    <idno>Microcopy 520, Reel 2</idno>
+                    <orgName>National Archives and Records Administration</orgName>
+                    <relatedItem type="original">
+                        <bibl>
+                            <title>Petition of Ann Biscoe, 10 May 1862</title>
+                            <date when="1862-05-10">May 10, 1862</date>
+                            <idno>Record Group 217.6.5</idno>
+                            <orgName>Records of the Accounting Officers of the Department of the
+                                Treasury, 1775–1978, National Archives and Records
+                                Administration</orgName>
+                            <note type="project">Within the National Archives' Archival Description
+                                Catalog, see ARC Identifier 4644616 / MLR Number A1 347
+                                (http://arcweb.archives.gov).</note>
+                        </bibl>
+                    </relatedItem>
+                    <note type="project">Our transcription is based on a digital image of a
+                        microfilm copy of the original.</note>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <particDesc>
+                <person role="petitioner">
+                    <persName>Ann Biscoe</persName>
+                </person>
+                <person role="jp">
+                    <persName>James Cull</persName>
+                </person>
+            </particDesc>
+        </profileDesc>
+        <revisionDesc>
+            <change when="2013-03-21" who="#jc">blessed</change>
+            <change when="2013-03-19" who="#kjw">blessed</change>
+            <change when="2012-12-27" who="#jc">updated tei header; fixed values for @facs as
+                necessary; automated checking across files for extra spaces in elements and other
+                encoding inconsistencies and for regular transcription errors</change>
+            <change when="2012-11-27" who="#nnk">proofed</change>
+            <change when="2012-09-10" who="#jc">transcribed, encoded</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+
+            <pb xml:id="leaf001r" facs="cww.00165.001.jpg"/>
+
+            <div1 type="petition" subtype="mixed">
+                <head type="main">PETITION.</head>
+                <p rend="bold">To the Commissioners under the act of Congress approved the <date
+                        when="1862-04-16">16th of April, 1862</date>, entitled "An act for the
+                    release of certain persons held to service or labor in the District of
+                    Columbia."</p>
+
+                <p>Your Petitioner, <seg type="handwritten">
+                        <persName>Ann Biscoe</persName>
+                    </seg> of <seg type="handwritten">
+                        <placeName>Washington D. C.</placeName>
+                    </seg> by this <seg type="handwritten">her</seg> petition in writing, represents
+                    and states, that <space atLeast="1"/> is a person loyal to the United States,
+                    who, at the time of the passage of the said act of Congress, held a claim to
+                    service or labor against <seg type="handwritten">four</seg> person<seg
+                        type="handwritten">s</seg> of African descent of the name<seg
+                        type="handwritten">s</seg> of <seg type="handwritten">
+                        <persName>Mary Forrest</persName>, <persName>Elsie Curtis</persName>
+                        <persName>Mary Ellen Simms</persName>, <persName>Marion Curtis</persName>
+                    </seg> for and during the life of said <seg type="handwritten">persons</seg> and
+                    that by said act of Congress said <seg type="handwritten">persons were</seg>
+                    <del>was</del> discharged and freed of and from all claim of your petitioner to
+                    such service or labor; that at the time of said discharge said <seg
+                        type="handwritten">persons were</seg> was of the age of <seg
+                        type="handwritten">respectively</seg> and of the personal description
+                        following:<note type="government" place="foot" xml:id="n1">Here describe the
+                        person, so as to identify him or her; and if there be more than one slave,
+                        describe each one separately.</note>
+                    <list type="handwritten">
+                        <item>
+                            <persName>Mary Forrest</persName>, female, aged 32 years 5 feet 1 &#189;
+                            inches high, of a delicate make but quite healthy&#8212;color
+                            black&#8212;</item>
+                        <item>
+                            <persName>Elsie Curtis</persName>, female, aged 29 years 5 feet 2 inches
+                            high&#8212;stoutly made and able bodied. Color black&#8212;</item>
+                        <item>
+                            <persName>Maria Ellen Simms</persName>&#8212;female&#8212;aged 25 years,
+                            5 feet 1 &#189; inches high likely and robust&#8212;color light
+                            brown&#8212;</item>
+                        <item>
+                            <persName>Marion Curtis</persName> female, aged 9 years&#8212;about 4
+                            ft. 9 inches high delicately made&#8212;but lively and
+                            healthy&#8212;color <choice>
+                                <sic>Mullatto</sic>
+                                <corr>Mulatto</corr>
+                            </choice>
+                        </item>
+                    </list>
+                </p>
+                <ab type="handwritten">Note&#8212;There are no peculiar marks or scars about either
+                    of the above named persons of color&#8212;</ab>
+
+                <pb xml:id="leaf001v" facs="cww.00165.002.jpg"/>
+
+                <p>That your petitioner acquired <seg type="handwritten">her</seg> claim to the
+                    aforesaid service or labor of said <seg type="handwritten">
+                        <persName>persons</persName>
+                    </seg> in manner following:<note type="government" place="foot" xml:id="n2">Here
+                        state how the claim was acquired, when, from whom, and for what price or
+                        consideration; and, if held under any written evidence of title, make
+                        exhibit thereof, or refer to the public record where the same may be
+                        found.</note>
+                    <!-- The following explanation is given on the next page, along with a statement about the filing of Ann Biscoe's bill of sale. I have transcribed the explanation on a separate surface following the body of the petition; however, it might be better transcribed here. -->
+                    <!-- <seg type="handwritten">said persons were acquired by me under a Bill of Sale from my father <persName>Bennett Biscoe</persName> to me, which is recorded among the Land Records of said <placeName>District</placeName> as per receipt herewith filed will appear.</seg> -->
+                </p>
+
+                <p>That your petitioner's claim to the service or labor of said <seg
+                        type="handwritten">persons</seg> was, at the time of said discharge
+                    therefrom, of the value of <seg type="handwritten">$2625:00/100</seg> dollars in
+                        money,<note type="government" place="foot" xml:id="n3">Here state such
+                        facts, if any there be, touching the value of the petitioner's claim to the
+                        service or labor of the person, as may enhance the same, and also such
+                        facts, if any, touching the moral, mental, and bodily infirmities or defects
+                        of said person, as impair the value of the petitioner's claim to such
+                        service or labor, and conclude such statement with an averment that the
+                        petitioner knows of no other infirmities or defects of said person which
+                        impair the value of petitioner's claim to such service or labor, and that he
+                        believes none other to exist. If the petitioner specify no such infirmity or
+                        defect, then his statement touching the value of his claim should conclude
+                        with an averment that he has no knowledge of any such infirmity or
+                        defect.</note>
+                    <list type="handwritten">
+                        <item>
+                            <persName>Mary Forrest</persName> valued at $750 00/100 she being a
+                            sound faithful and honest servant.</item>
+                        <item>
+                            <persName>Elsie Curtis</persName> valued at $800.00/100 also sound
+                            faithful and honest</item>
+                        <item>
+                            <persName>Maria Ellen Simms</persName> valued at $800.00/100 also sound
+                            faithful and honest</item>
+                        <item>
+                            <persName>Marion Curtis</persName> valued at $275.00/100 also sound
+                            faithful and honest</item>
+                    </list>
+                </p>
+
+                <ab type="handwritten">Your petitioner has no knowledge of any infirmity or defect
+                    either morally, mentally or bodily in either of said persons, but believes them
+                    to be as represented&#8212;</ab>
+
+                <p>Your petitioner hereby declares that <seg type="handwritten">she</seg> bears true
+                    and faithful allegiance to the Government of the United States, and that <seg
+                        type="handwritten">she</seg> has not borne arms against the United States in
+                    the present rebellion, nor in any way given aid or comfort thereto.</p>
+
+                <p>And your petitioner further states and alleges, that <seg type="handwritten"
+                        >she</seg> has not brought said <seg type="handwritten">persons</seg> into
+                    the District of Columbia since the passage of said act of Congress; and that, at
+                    the time of the passage thereof, said <seg type="handwritten">persons were</seg>
+                    <del>was</del> held to service or labor therein under and by virtue of your
+                    petitioner's claim to such service or labor.</p>
+
+                <p>Your petitioner further states and alleges, that <seg type="handwritten"
+                        >her</seg> said claim to the service or labor of said <seg
+                        type="handwritten">persons</seg> does not originate in or by virtue of any
+                    transfer heretofore made by any person who has in any manner aided or sustained
+                    the present rebellion against the Government of the United States.</p>
+
+                <p>And your petitioner prays the said Commissioners to investigate and determine the
+                    validity of <seg type="handwritten">her</seg> said claim to the service or labor
+                    of said <seg type="handwritten">persons</seg> herein above set forth; and if the
+                    same be found to be valid, that they appraise and apportion the value of said
+                    claim in money, and report the same to the Secretary of the Treasury of the
+                    United States, in conformity to the provisions of said act of Congress.</p>
+
+                <closer> (Signed by) <signed>
+                        <seg type="handwritten">
+                            <persName>Ann Biscoe</persName>
+                        </seg>
+                    </signed>
+                </closer>
+            </div1>
+
+            <pb xml:id="leaf002r" facs="cww.00165.003.jpg"/>
+
+            <div1 type="statement" subtype="handwritten">
+
+                <p>said persons were acquired by me under a Bill of Sale from my father
+                        <persName>Bennett Biscoe</persName> to me, which is recorded among the Land
+                    Records of said <placeName>District</placeName> as per receipt herewith filed
+                    will appear.</p>
+            </div1>
+
+            <div1 type="receipt" subtype="handwritten">
+                <p><choice>
+                        <abbr>Recd</abbr>
+                        <expan>Received</expan>
+                    </choice> of Miss <persName>Ann Biscoe</persName> one dollar for filing and
+                    Recording a Bill of sale from <persName>Bennett Biscoe</persName> dated <date
+                        when="1840-04-20">20th Instant</date>.</p>
+                <closer>
+                    <signed>for <persName>W. Brent</persName>
+                        <choice>
+                            <abbr>clk</abbr>
+                            <expan>clerk</expan>
+                        </choice><lb/>
+                        <persName>John Naylor</persName></signed><lb/>
+                    <dateline><date when="1840-04-24">24th Apl. 1840</date></dateline><lb/>
+                    $1</closer>
+            </div1>
+
+            <pb xml:id="leaf003r" facs="cww.00165.004.jpg"/>
+
+            <div1 type="evidence" subtype="handwritten">
+                <div2 type="section">
+                    <ab>
+                        <choice>
+                            <abbr>pd</abbr>
+                            <expan>paid</expan>
+                        </choice> $1.00</ab>
+                    <ab>
+                        <persName>Wm. B. Biscoe</persName>
+                        <lb/> to<lb/>
+                        <persName>Ann Biscoe</persName>
+                    </ab>
+                    <ab><choice>
+                            <abbr>Recd</abbr>
+                            <expan>Received</expan>
+                        </choice>
+                        <date when="1840-04-24">24th Apl 1840</date> to be Recorded and the same day
+                        was Recorded in Liber W. B. No 80 folios 350, 351 and 352 one of the Land
+                        Records for <placeName>Washington County</placeName> in the
+                            <placeName>District of Columbia</placeName> and examined by</ab>
+                    <closer>
+                        <signed>
+                            <persName>
+                                <hi rend="underline">W. Brent</hi>
+                            </persName>
+                            <hi rend="underline">
+                                <choice>
+                                    <abbr>clk</abbr>
+                                    <expan>clerk</expan>
+                                </choice>
+                            </hi>
+                        </signed>
+                    </closer>
+                </div2>
+
+                <pb xml:id="leaf003v" facs="cww.00165.005.jpg"/>
+                <div2 type="section">
+                    <p>Know all men by these <choice>
+                            <sic>presants</sic>
+                            <corr>presents</corr>
+                        </choice> that I <persName>Bennett Biscoe</persName> of
+                            <placeName>Washington County</placeName>
+                        <placeName>District of Columbia</placeName> for and in consideration of the
+                        sum of one hundred dollars <choice>
+                            <sic>currant</sic>
+                            <corr>current</corr>
+                        </choice> money to me in hand paid by <persName>Ann Biscoe</persName> of the
+                        County and <placeName>District</placeName>
+                        <choice>
+                            <sic>afoarsaid</sic>
+                            <corr>aforesaid</corr>
+                        </choice> the receipt whereof I do hereby acknowledge and the further
+                        consideration that she the said <persName>Ann Biscoe</persName> does and
+                        will support me the said <persName>Bennett Biscoe</persName> during my
+                        natural life have given granted sold and confirmed and by these <choice>
+                            <sic>presants</sic>
+                            <corr>presents</corr>
+                        </choice> do grant bargain sell and confirm unto the said <persName>Ann
+                            Biscoe</persName> the following described property To wit one Negro Girl
+                        named <persName>Mary</persName> aged about nine years one Negro Girl named
+                            <persName>Alice</persName> aged about seven years one Negro Girl named
+                            <persName>Maria</persName> aged about three years Three feather beds <choice>
+                            <sic>beadsteads</sic>
+                            <corr>bedsteads</corr>
+                        </choice> and bedding one side board one block one secretary and all and
+                        singular the goods household stuff and implements and kitchen <choice>
+                            <sic>furnature</sic>
+                            <corr>furniture</corr>
+                        </choice> of every kind that I now have and own in the house owned by and
+                        occupied by the said <persName>Ann Biscoe</persName> To have and to hold the <choice>
+                            <sic>afoarsaid</sic>
+                            <corr>aforesaid</corr>
+                        </choice> Negroes household stuff and kitchen <choice>
+                            <sic>furnature</sic>
+                            <corr>furniture</corr>
+                        </choice> and every of them by these <choice>
+                            <sic>presants</sic>
+                            <corr>presents</corr>
+                        </choice> granted bargained sold and confirmed unto the said <persName>Ann
+                            Biscoe</persName> her heirs administrators executors or assigns freely
+                        quietly <choice>
+                            <sic>peacably</sic>
+                            <corr>peaceably</corr>
+                        </choice> and entirely without any contradiction disturbance or hindrance of
+                        any person whatsoever and without any account to me or to any person
+                        whatsoever to be made <choice>
+                            <sic>answerd</sic>
+                            <corr>answered</corr>
+                        </choice> or hereafter to be rendered so that neither I the said
+                            <persName>Bennet Biscoe</persName> nor any other for me or in my name
+                        ought to exact challenge claim or demand of in to or from the said Negroes
+                        goods household stuff and implements of household and kitchen <choice>
+                            <sic>furnature</sic>
+                            <corr>furniture</corr>
+                        </choice> or any part or parcel thereof but from all actions rights titles
+                        Estates claims demands <choice>
+                            <sic>posessions</sic>
+                            <corr>possessions</corr>
+                        </choice> and Interest thereof (except my support above provided for) shall
+                        be wholly barred and excluded by force and virtue of these <choice>
+                            <sic>presants</sic>
+                            <corr>presents</corr>
+                        </choice> and I the said <persName>Bennett Biscoe</persName> for myself my
+                        executors and administrators <pb xml:id="leaf004r" facs="cww.00165.006.jpg"
+                        /> shall and will warrant and forever defend all and singular the said three
+                        Negroes goods household stuff and implements of household and kitchen <choice>
+                            <sic>furnature</sic>
+                            <corr>furniture</corr>
+                        </choice> unto the said <persName>Ann Biscoe</persName> her heirs executors
+                        administrators and assigns against me the said <persName>Bennett
+                            Biscoe</persName> my executors administrators and assigns and against
+                        all and every other person and persons whatsoever of which said three
+                        Negroes goods household stuff and implements of household and kitchen <choice>
+                            <sic>furnature</sic>
+                            <corr>furniture</corr>
+                        </choice> I the said <persName>Bennet Biscoe</persName> have put the said
+                            <persName>Ann Biscoe</persName> in full <choice>
+                            <sic>possesion</sic>
+                            <corr>possession</corr>
+                        </choice> of</p>
+                    <p>In Testimony whereof I have hereunto set my hand and <choice>
+                            <sic>affixt</sic>
+                            <corr>affixed</corr>
+                        </choice> my seal this <date when="1840-04-20">twentieth day of April one
+                            thousand eight hundred and forty</date>
+                    </p>
+                    <closer>
+                        <signed>
+                            <persName>Bennet Biscoe</persName> seal</signed>
+                        <lb/> Signed sealed and <choice>
+                            <sic>deliverd</sic>
+                            <corr>delivered</corr>
+                        </choice> in the <choice>
+                            <sic>presance</sic>
+                            <corr>presence</corr>
+                        </choice> of&#8212;<lb/>
+                        <signed>
+                            <persName>James Marshall</persName>
+                        </signed>
+                        <lb/>
+                        <signed>
+                            <persName>
+                                <unclear reason="illegible" cert="low" resp="#nnk">EDWD</unclear>
+                                Mattingly</persName>&#8212;</signed>
+                    </closer>
+                </div2>
+
+                <div2 type="section">
+                    <dateline>
+                        <placeName>District of Columbia</placeName>
+                        <lb/>
+                        <placeName>Washington County</placeName>
+                        <lb/> to wit</dateline>
+                    <p>on this <date when="1840-04-20">twentieth day of April 1840</date> before the
+                        subscriber one of the Justices of the peace in and for the county <choice>
+                            <sic>afoarsaid</sic>
+                            <corr>aforesaid</corr>
+                        </choice> personally appears <persName>Bennet Biscoe</persName> and
+                        acknowledges the foregoing instrument of writing to be his act and deed for
+                        the purpose therein mentioned and for none other</p>
+                    <closer>
+                        <signed>
+                            <persName>James Marshall</persName> J Peace seal</signed>
+                        <lb/>
+                        <signed>
+                            <persName>Edward Mattingly</persName> J. Peace</signed>
+                    </closer>
+                </div2>
+            </div1>
+
+            <pb xml:id="leaf005r" facs="cww.00165.007.jpg"/>
+            <div1 type="oath" subtype="mixed">
+                <head type="main">[<hi rend="italic">Form of the Oath for the Verification of the
+                        Petition.</hi>]</head>
+
+                <dateline>
+                    <placeName>District of Columbia</placeName>,
+                    <lb/>
+                    <hi rend="italic"><placeName>Washington County</placeName>, ss.</hi>
+                </dateline>
+
+                <div2 type="section">
+                    <p>I, <seg type="handwritten">
+                            <persName>Ann Biscoe</persName>
+                        </seg> being duly sworn, do depose and say, that all the several matters and
+                        things which are set forth and stated in the foregoing petition, as of my
+                        own knowledge, are true in substance and in fact; and that all the several
+                        other matters and things therein set forth and stated, as from the
+                        information of others, I believe to be true in substance and in fact.</p>
+                    <closer> (Signed by) <signed>
+                            <seg type="handwritten">
+                                <persName>Ann Biscoe</persName>
+                            </seg>
+                        </signed>
+                    </closer>
+                </div2>
+
+                <div2 type="section">
+                    <p>Sworn to and subscribed before me this <date when="1862-05-10">
+                            <seg type="handwritten">10th</seg> day of <seg type="handwritten"
+                                >May</seg> A. D. 1862</date>.</p>
+                    <closer> (Signed by) <signed>
+                            <seg type="handwritten">
+                                <persName>Jas. Cull</persName> J. P.</seg>
+                        </signed>
+                    </closer>
+                </div2>
+            </div1>
+
+            <div1 type="cover" subtype="handwritten">
+                <note type="editorial">The following note, about the filing of the petition, has
+                    been imaged twice in the National Archives microfilm, but the note occurs in
+                    only one place in the petition: written horizontally on the final page, the Oath
+                    for the Verification.</note>
+                <ab>165<lb/> Petition of<lb/>
+                    <persName>Ann Biscoe</persName>
+                    <lb/> under Emancipation Act&#8212;</ab>
+                <ab>
+                    <persName>Hayle</persName> at <persName>Carter's</persName> place<lb/>
+                    <persName>Robert Coombes </persName> on <address>
+                  <addrLine>8th st East</addrLine>
+               </address>
+                    <lb/>
+                    <persName>A. B. Grace</persName> on
+                    <address>
+                  <addrLine>East Navy Yard<lb/>
+                    <choice>
+                        <abbr>bet</abbr>
+                        <expan>between</expan>
+                     </choice> 6 &#38; 7</addrLine>
+               </address>
+                </ab>
+            </div1>
+        </body>
+    </text>
+</TEI>

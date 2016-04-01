@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e3486">
+        <teiHeader>
+                <fileDesc>
+                        <titleStmt>
+                                <title level="m" type="main">Cameron, F.</title>
+                                <title level="m" type="sub">a machine readable transcription</title>
+                                <principal>Susan C. Lawrence</principal>
+                                <principal>Kenneth M. Price</principal>
+                                <principal>Kenneth J. Winkle</principal>
+                        </titleStmt>
+                        <editionStmt>
+                                <edition>
+                                        <date>2011</date>
+                                </edition>
+                        </editionStmt>
+                        <publicationStmt>
+                                <idno>med.d1e3486</idno>
+                                <authority>Civil War Washington</authority>
+                                <publisher>University of Nebraska–Lincoln</publisher>
+                                <distributor>
+                                        <name>Center for Digital Research in the Humanities</name>
+                                        <address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+                                </distributor>
+                                <date>2011</date>
+                                <availability>
+                                        <p>Copyright © 2011 by University of Nebraska–Lincoln, all
+                                                rights reserved. Redistribution or republication in
+                                                any medium, except as allowed under the Fair Use
+                                                provisions of U.S. copyright law, requires express
+                                                written consent from the editors and advance
+                                                notification of the publisher, the University of
+                                                Nebraska–Lincoln.</p>
+                                </availability>
+                        </publicationStmt>
+                        <notesStmt>
+                                <note type="project">The following are responsible for particular
+                                        readings or for changes to this file, as noted:
+                                        <persName xml:id="ajh">AJ Howell</persName>
+                                        <persName xml:id="mb">Matthew Bosley</persName>
+                                        <persName xml:id="el">Elizabeth Lorang</persName>
+                                        <persName xml:id="sb">Stacey Berry</persName>
+                                        <persName xml:id="et">Elisabeth Tracey</persName>
+                                </note>
+                        </notesStmt>
+                        <sourceDesc>
+                                <bibl>
+                                        <title level="j">The Medical and Surgical History of the War
+                                                of the Rebellion</title>
+                                        <pubPlace>Washington, DC</pubPlace>
+                                        <publisher>Government Printing Office</publisher>
+                                        <biblScope type="part">Part 3</biblScope>
+                                        <biblScope type="volume">Volume 1</biblScope>
+                                        <date when="1888">1888</date>
+                                        <biblScope type="page">234</biblScope>
+                                </bibl>
+                        </sourceDesc>
+                </fileDesc>
+                <encodingDesc>
+                        <classDecl>
+                                <taxonomy xml:id="medsurg">
+                                        <bibl>Medical and Surgical History of the War of the
+                                                Rebellion</bibl>
+                                </taxonomy>
+                        </classDecl>
+                </encodingDesc>
+                <profileDesc>
+                        <textClass>
+                                <keywords scheme="#medsurg">
+                                        <term>clinical records</term>
+                                        <term>continued fevers</term>
+                                        <term>evidence of malarial affection</term>
+                                        <term>typhoid fever</term>                                        
+                                        <term>typho-malarial and typhoid fevers</term>
+                                        <term>deafness and buzzing in ears</term> 
+                                        <term>diarrh&#339;a</term>
+                                        <term>rose-colored spots</term> 
+                                        <term>paroxysmal fever</term> 
+                                        <term>epistaxis</term>
+                                        <term>anorexia</term>
+                                        <term>right iliac and umbilical tenderness</term>
+                                        <term>sordes</term>
+                                        <term>Seminary Hospital cases</term>
+                                </keywords>
+                        </textClass>
+                </profileDesc>
+                <revisionDesc>
+                        <change who="#ajh" when="2013-06-03">additional proofing of transcription and encoding, identified keyword terms</change>
+                        <change who="#mb" when="2011-10-10">additional proofing of transcription and encoding</change>
+                        <change who="#mb" when="2011-06-06">additional proofing of transcription and encoding</change>
+                        <change who="#el" when="2011-05-11">case text extracted and transformed from
+                                larger file</change>
+                        <change who="#sb" when="2011-02-23">Encoding and Proofing</change>
+                        <change who="#et" when="2009-12-01">Initial Checking OCR Text to PDF file,
+                        </change>
+                </revisionDesc>
+        </teiHeader>
+        <text>
+                <body xml:id="ch4.sc2.3.00071">
+                        
+                                <p><hi rend="initialcap">C</hi>ASE 71.&#8212;<hi rend="italic"
+                                                >Headache; deafness; diarrh&#339;a; cough;
+                                                rose-colored spots following paroxysmal
+                                                fever.</hi>&#8212;<name type="person" key="529"
+                                                >Private F. Cameron</name>, <name
+                                                type="organization" key="98">Co. F, 74th N.
+                                                Y.</name>; age 23; was admitted <date type="admit"
+                                                when="1861-11-02">Nov. 2, 1861</date>, as a case of
+                                        typhoid fever. He became sick about <date type="injury" when="1861-10-01">October 1</date> with chills,
+                                        fever and sweating, epistaxis, headache, anorexia, thirst,
+                                        diarrh&#339;a and irritability of stomach. When admitted
+                                        his eyes were dull and somewhat injected, cheeks slightly
+                                        flushed, pulse 75, regular but weak; a few rose-spots on the
+                                        chest; tongue red, dry and fissured in the centre; lips and
+                                        teeth covered with sordes; appetite poor; he was a little
+                                        deaf and had buzzing in his ears; one stool was passed with
+                                        much right iliac and umbilical tenderness and tympanites; he
+                                        had also a slight cough with some whitish expectoration. He
+                                        slept none during the night and had but one stool on the 3d;
+                                        the tenderness lessened and the cough ceased. Beef-essence,
+                                        punch and turpentine emulsion were given. After this the
+                                        bowels continued quiet, and on the 7th the tongue began to
+                                        clean and the appetite to return. He was transferred to
+                                        <name type="place">Annapolis</name> on <date type="transfer" when="1861-11-08"
+                                                >the 8th</date> [whence he was discharged for disability
+                                        on the <date type="servicedischarge" when="1861-11-29">29th</date>]. </p>
+                        
+                </body>
+        </text>
+</TEI>

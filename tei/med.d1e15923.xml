@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e15923">
+                <teiHeader>
+                                <fileDesc>
+                                                <titleStmt>
+                                                                <title level="m" type="main">McEvoy, James</title>
+                                                  <title level="m" type="sub">a machine readable
+                                                  transcription</title>
+                                                  <principal>Susan C. Lawrence</principal>
+                                                  <principal>Kenneth M. Price</principal>
+                                                  <principal>Kenneth J. Winkle</principal>
+                                                </titleStmt>
+                                                <editionStmt>
+                                                  <edition>
+                                                  <date>2011</date>
+                                                  </edition>
+                                                </editionStmt>
+                                                <publicationStmt>
+                                                  <idno>med.d1e15923</idno>
+                                                  <authority>Civil War Washington</authority>
+                                                  <publisher>University of
+                                                  Nebraska–Lincoln</publisher>
+                                                  <distributor>
+                                                  <name>Center for Digital Research in the
+                                                  Humanities</name>
+                                                  <address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+                                                  </distributor>
+                                                  <date>2011</date>
+                                                  <availability>
+                                                  <p>Copyright © 2011 by University of
+                                                  Nebraska–Lincoln, all rights reserved.
+                                                  Redistribution or republication in any medium,
+                                                  except as allowed under the Fair Use provisions of
+                                                  U.S. copyright law, requires express written
+                                                  consent from the editors and advance notification
+                                                  of the publisher, the University of
+                                                  Nebraska–Lincoln.</p>
+                                                  </availability>
+                                                </publicationStmt>
+                                                <notesStmt>
+                                                  <note type="project">The following are responsible for particular readings or for changes to this file, as noted: 
+                                                                  <persName xml:id="mb">Matthew Bosley</persName>
+                                                                  <persName xml:id="el">Elizabeth Lorang</persName>
+                                                                  <persName xml:id="sb">Stacey Berry</persName>
+                                                                  <persName xml:id="et">Elisabeth Tracey</persName>
+                                                  </note>
+                                                </notesStmt>
+                                                <sourceDesc>
+                                                  <bibl>
+                                                  <title>The Medical and Surgical History of the War of the Rebellion. (1861&#8211;65.)</title>
+                                                  <editor role="compiler">Surgeon General Joseph K. Barnes, United States Army</editor>
+                                                  <pubPlace>Washington, D.C.</pubPlace>
+                                                  <publisher>Government Printing Office</publisher>
+                                                  <biblScope type="part">Part 1</biblScope>
+                                                  <biblScope type="volume">Volume 2</biblScope>
+                                                  <date when="1870">1870</date>
+                                                  <biblScope type="page">229</biblScope>
+                                                  </bibl>
+                                                </sourceDesc>
+                                </fileDesc>
+                                <encodingDesc>
+                                                <classDecl>
+                                                  <taxonomy xml:id="medsurg">
+                                                  <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+                                                  </taxonomy>
+                                                </classDecl>
+                                </encodingDesc>
+                                <profileDesc>
+                                                <textClass>
+                                                  <keywords scheme="#medsurg">
+                                                    <term>on special wounds and injuries of the head</term>
+                                                    <term>wounds and injuries of the head</term>
+                                                    <term>gunshot wounds</term>
+                                                    <term>gunshot fractures of the cranial bones</term> 
+                                                    <term>removal of fragments after gunshot fractures of the skull</term>
+                                                    <term>recovered after gunshot fractures of the skull</term>
+                                                    <term>epilepsy</term>
+                                                    <term>fragment of shell struck right parietal bone above squamous portion of temporal bone, fractured both tables and denuded parietal</term>
+                                                    <term>pupils dilated, left arm partially paralyzed</term>
+                                                    <term>wound discharged small amount of pus</term>
+                                                    <term></term>
+                                                    <term></term>
+                                                    <term></term>
+                                                    <term></term>
+                                                    <term></term>
+                                                    <term>frequent epileptic fits</term>
+                                                    <term>disability total and permanent</term>
+                                                    <term>palsied left arm, pupils still dilated</term>
+                                                  </keywords>
+                                                </textClass>
+                                </profileDesc>
+                                <revisionDesc>
+                                                <change who="#mb" when="2013-07-29">additional proofing of transcription and encoding, edited and added keyword terms</change>
+                                                <change who="#mb" when="2011-07-27">additional proofing of transcription and encoding</change>
+                                                <change who="#el" when="2011-11-05">case text extracted and transformed from larger file</change>
+                                                <change who="#sb" when="2011-02-09">enriched encoding</change>
+                                                <change who="#sb" when="2011-01-28">validated file</change>
+                                                <change who="#et" when="2009-08-01">encoded</change>
+                                                <change who="#sb" when="2008-09-22">initial checking of OCR text against PDF; encoded</change>
+                                </revisionDesc>
+                </teiHeader>
+                <text>
+                                <body>                                                
+                                                <p><hi rend="initialcap">C</hi>ASE.&#8212;<name type="person">Private James McEvoy</name>, <name type="organization">Co. F, 28th
+                                                                Massachusetts Volunteers</name>, aged 32 years, was
+                                                                wounded at the battle of <name type="battle" key="48">Chantilly, Virginia</name>,
+                                                                <date type="injury" when="1862-09-01">September 1st, 1862</date>, by a fragment of shell, which
+                                                  struck the right parietal bone about an inch above
+                                                  the squamous portion of the temporal bone,
+                                                  fracturing both tables, and denuded the parietal
+                                                  for a space of three and a half inches in length
+                                                  by one and a half inches in width.  Leaving the
+                                                  battle-field without assistance, he was admitted
+                                                  into the <name type="hospital" key="172">Emory Hospital</name>l at Washington, on the
+                                                  <date type="operation" when="1862-09-02"><date type="admit" when="1862-09-02">following day</date></date>, where <name type="person" key="xx">Surgeon William Clendenin</name>, <name type="organization" key="132">U. S. V.</name>, removed all loose spicul&#230; of bone. Profuse h&#230;morrhage from the meningeal artery was arrested by the application of ice. Cold water dressings
+                                                                were applied and morphia administered.  On <date type="injury" when="1862-09-08">the 8th</date>,
+                                                  the pupils were dilated, and the left arm was
+                                                  partially paralyzed, but the patient was perfectly
+                                                  rational.  On <date type="operation" when="1862-09-14">the 14th</date>, a piece of bone, one and
+                                                  one-fourth by three-fourths of an inch, was
+                                                  removed. Water dressings were discontinued, and
+                                                  cerate dressings were substituted. Mineral tonics,
+                                                  cathartics, and nourishing diet were ordered.  On
+                                                  the 28th, the wound was discharging but a small
+                                                  amount of pus, and the patient was able, with some
+                                                  effort, to close his hand, but had no further use
+                                                  of it.  By the <date type="injury" when="1862-10-08">8th of October</date>, the wound was nearly
+                                                  healed; a small surface, covered by healthy
+                                                  granulations, covered the brain. The pupils were
+                                                  still dilated, but, with the exception of his
+                                                  palsied arm, the patient was doing well.  On
+                                                  <date type="servicedischarge" when="1862-11-11">November 11th, 1862</date>, he was discharged the service
+                                                                and was pensioned.  The case is reported by <name type="person" key="xx">Surgeon W. Clendenin</name>, <name type="organization" key="132">U. S. V.</name>  On <date type="pension" when="1867-02-04">February 4th, 1867</date>, <name type="person" key="xx">Pension Examiner H. B. Hubbard</name> reports the patient
+                                                  subject to frequent epileptic fits, and rates his
+                                                  disability total and permanent.</p>                                                
+                                </body>
+                </text>
+</TEI>

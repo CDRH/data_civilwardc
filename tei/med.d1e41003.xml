@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e41003">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Scott, Hiram A.</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+       <idno>med.d1e41003</idno>
+       <authority>Civil War Washington</authority>
+       <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor>
+       <name>Center for Digital Research in the Humanities</name>
+       <address><addrLine>319 Love Library</addrLine>
+       <addrLine>University of Nebraska–Lincoln</addrLine>
+       <addrLine>Lincoln, NE 68588-4100</addrLine>
+       <addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+    </distributor>
+    <date>2011</date>
+    <availability>
+        <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+         republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+         law, requires express written consent from the editors and advance notification of the
+         publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+     <persName xml:id="mb">Matthew Bosley</persName>
+     <persName xml:id="el">Elizabeth Lorang</persName>
+     <persName xml:id="sb">Stacey Berry</persName>
+     <persName xml:id="ao">Alyssa Olson</persName>
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl>
+     <title level="j">The Medical and Surgical History of the War of the Rebellion. (1861-65.)</title>
+     <pubPlace>Washington, DC</pubPlace>
+     <publisher>Government Printing Office</publisher>
+     <biblScope type="part">Part 2</biblScope>
+     <biblScope type="volume">Volume 1</biblScope>
+     <date when="1879">1879</date>
+     <biblScope type="page">161</biblScope>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+       <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+      <keywords scheme="#medsurg">
+       <term>diarrh&#339;a and dysentery</term>
+       <term>fatal cases of diarrh&#339;a and dysentery, with accounts of the morbid appearances observed</term>
+       <term>from Lincoln Hospital, Washington, D. C.</term>
+       <term>typhoid fever</term>
+       <term>subarachnoid space contained serum</term>
+       <term>pleural sacs contained serum, about three pints</term>
+       <term>lower lobes of both lungs solidified, bronchial tubes leading to them inflamed</term>
+       <term>mucous membrane of rectum much discolored and covered with pseudomembrane</term>       
+       <term>mesenteric glands enlarged</term>
+       <term>autopsy performed</term>       
+     </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change who="#mb" when="2012-11-01">additional proofing of transcription and encoding, identified keyword terms</change>
+   <change who="#el" when="2010-11-05">case text extracted and transformed from larger file</change>
+   <change who="#sb" when="2010-05-01">enrich encoding, proof and edit</change>
+   <change who="#ao" when="2008-10-02">encoding and editing</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body> 
+   <p>Case from the case-book of <name type="hospital" key="176"><hi rend="initialcap">L</hi>INCOLN <hi rend="initialcap">H</hi>OSPITAL</name>, Washington, D. C.; <name type="person" key="241">Surgeon Henry Bryant</name>, <name type="organization" key="132">U. S. V.</name>, in charge to May, 1863.</p>
+   <p><hi rend="initialcap">C</hi>ASE 344.&#8212;<name type="person" key="xxx">Corporal Hiram A. Scott</name>, <name type="organization" key="xxx">company A, 137th New York volunteers</name>; age 23; admitted from regimental hospital, <name type="place">Fairfax station, Virginia</name>, <date type="admit" when="1863-01-18">January 18, 1863</date>.  Typhoid fever.  When admitted had frequent pulse, dry skin, and some cough. <choice><orig>Dulness</orig><reg>Dullness</reg></choice> on percussion was observed on the right side of the chest. The expectoration was scanty at first, but subsequently became free.  Died, <date type="death" when="1863-02-23">February 23d</date>.  <hi rend="italic">Autopsy</hi> <date type="autopsy" when="1863-02-24">fifteen hours after death</date>: Height five feet seven inches; body emaciated; rigor mortis slight. The brain weighed fifty ounces; it was slightly congested and of a pale flesh color, its substance slightly softened; the subarachnoid space contained two ounces and a half of serum. The right lung weighed twenty-four ounces and a half, the left twenty-one ounces and a half; both pleural sacs contained serum, in all about three pints; both lungs contained much black pigment; the lower lobes of both were solidified, and the bronchial tubes leading to them inflamed. The bronchial glands contained much black pigment; three of them on the right side were somewhat enlarged. The heart weighed eleven ounces; firm white clots were found in both sides; they weighed two ounces. The liver weighed eighty-four ounces and a half; it was soft, and presented the nutmeg appearance; the gall-bladder contained six drachms of thin, dirty-yellow bile. The spleen weighed seven ounces and a half; was of a brick-red color internally, and tolerably firm; on its surface was a white fibrous band, by which the organ appeared somewhat constricted. The pancreas was firm, weighed three ounces, and was of a light straw-color. The right suprarenal capsule was large, the left small; they were of a dark coffee-color and tough. The right kidney weighed live ounces, the left five ounces and a quarter. The stomach was slightly larger than usual; its mucous lining was somewhat softened. The mucous membrane of the small intestine was soft; the edges of the valvul&#230; conniventes congested. The large intestine was distended and congested throughout its whole length. The mucous membrane of the rectum was soft, much discolored, and covered with pseudomembrane. The mesenteric glands were enlarged.&#8212;<name type="person" key="244">Assistant Surgeon George M. McGill</name>, <name type="organization" key="190">U. S. A.</name></p>
+  </body>
+ </text>
+</TEI>

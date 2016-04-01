@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e41243">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Trent, Zachariah</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+    <idno>med.d1e41243</idno>
+       <authority>Civil War Washington</authority>
+       <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor>
+       <name>Center for Digital Research in the Humanities</name>
+       <address><addrLine>319 Love Library</addrLine>
+       <addrLine>University of Nebraska–Lincoln</addrLine>
+       <addrLine>Lincoln, NE 68588-4100</addrLine>
+       <addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+    </distributor>
+    <date>2011</date>
+    <availability>
+        <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+         republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+         law, requires express written consent from the editors and advance notification of the
+         publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+     <persName xml:id="mb">Matthew Bosley</persName>
+     <persName xml:id="el">Elizabeth Lorang</persName>
+     <persName xml:id="sb">Stacey Berry</persName>
+     <persName xml:id="ao">Alyssa Olson</persName>
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl>
+     <title level="j">The Medical and Surgical History of the War of the Rebellion. (1861-65.)</title>
+     <pubPlace>Washington, DC</pubPlace>
+     <publisher>Government Printing Office</publisher>
+     <biblScope type="part">Part 2</biblScope>
+     <biblScope type="volume">Volume 1</biblScope>
+     <date when="1879">1879</date>
+     <biblScope type="page">181-182</biblScope>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+       <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+      <keywords scheme="#medsurg">
+       <term>diarrh&#339;a and dysentery</term>
+       <term>fatal cases of diarrh&#339;a and dysentery, with accounts of the morbid appearances observed</term>
+       <term>from Lincoln Hospital, Washington, D. C.</term>
+       <term>consumption</term>
+       <term>&#339;sophagismus</term>
+       <term>measles</term>
+       <term>run over by wagon, wheel passing over abdomen</term>
+       <term>cough with moderate quantity of muco-purulent expectoration</term>
+       <term><choice><orig>dulness</orig><reg>dullness</reg></choice> on percussion over chest, marked in axillary and subaxillary regions</term>
+       <term>mucous and submucous <choice><orig>rhonchus</orig><reg>rhonchi</reg></choice> heard over both lungs</term>
+       <term>dysphagia, unable to swallow anything but small quantities of fluid, at times retching</term>
+       <term>tubercular disease of the lungs <choice><orig>diagnosticated</orig><reg>diagnosed</reg></choice></term>
+       <term>scirrhous affection of alimentary canal</term>
+       <term>mucous membrane of pharynx, larynx, and trachea quite rough, apparently by minute ulcers</term>
+       <term>both lungs studded with tubercles, size from pin's  head size to that of small pea</term>
+       <term>tubercular ulceration of small intestine and c&#230;cum</term>
+       <term>upper lobe of left lung infiltrated with small cheesy tubercles</term>
+       <term>large ulcer of upper jejunum, on peritoneal surface opposite ulcer are minute tubercles</term>
+       <term>ulcers of upper ileum</term>
+       <term>above ileoc&#230;cal valve thickened Peyer's patch in which there are small discrete ulcers</term>
+       <term>mass of enlarged mesenteric glands lies in front of head of pancreas</term>       
+       <term>autopsy performed</term>       
+     </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change who="#mb" when="2012-11-21">additional proofing of transcription and encoding, identified keyword terms</change>
+   <change who="#el" when="2010-11-05">case text extracted and transformed from larger file</change>
+   <change who="#sb" when="2010-05-01">enrich encoding, proof and edit</change>
+   <change who="#ao" when="2008-10-02">encoding and editing</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body> 
+   <p>Case from the case-book of <name type="hospital" key="176"><hi rend="initialcap">L</hi>INCOLN <hi rend="initialcap">H</hi>OSPITAL</name>, Washington, D. C.; <name type="person" key="243">Surgeon J. Cooper McKee</name>, <name type="organization" key="190">U. S. A.</name>, in charge.</p>
+   <p><hi rend="initialcap">C</hi>ASE 413.&#8212;<name type="person" key="xxx">Zachariah Trent</name>, a <name type="organization" key="xxx">teamster</name>; age 40; admitted from the hospital at <name type="place">Giesboro' Point, Maryland</name>, <date type="admit" when="1864-12-02">December 2, 1864</date>.  Consumption and &#339;sophagismus.  According to his own statement this man enlisted in the rebel service some three years ago, and served until a short time since, when he deserted at <name type="place">Lynchburg, Virginia</name>, and entered the United States service as a driver. In 1860 he had measles, followed by a cough and expectoration, which continued for several months. Four years ago he was run over by a wagon, the wheel passing over his abdomen. He continued to suffer for some time from the effects of this injury. Of late he has had a cough, and for the last seven weeks difficulty of swallowing. At present his countenance is sallow, and he is much emaciated; he has some cough, with a moderate quantity of muco-purulent expectoration. There is <choice><orig>dulness</orig><reg>dullness</reg></choice> on percussion over the greater portion of the chest, but more, marked in the axillary and subaxillary regions than in front. On auscultation, mucous and submucous <choice><orig>rhonchus</orig><reg>rhonchi</reg></choice> are heard over both lungs, with sibilant <choice><orig>rhonchus</orig><reg>rhonchi</reg></choice> in some portions. He complains a good deal of dysphagia, and is unable to swallow anything but small quantities of fluid. At times he is troubled with retching, ejecting an offensive yellow fluid; his bowels are regular, the urine normal in quantity; he lies indifferently on either side, but with the knees drawn up toward the chest; the abdomen is very tender on pressure. From the foregoing symptoms tubercular disease of the lungs was <choice><orig>diagnosticated</orig><reg>diagnosed</reg></choice>; but it was thought that there might also be a scirrhous affection of some portion of the alimentary canal. Efforts were made to administer fluid nutriment and stimulants, but without success.  Died, <date type="death" when="1864-12-05">December 5th</date>.&#8212;<name type="person" key="xxx">Acting Assistant Surgeon T. S. Haynes</name>.   <hi rend="italic">Autopsy</hi> <date type="autopsy" when="1864-12-05">the same day</date>: Height five feet eight inches and a half; rigor mortis well marked; body very much emaciated; countenance of a light-bronze hue. The brain was normal, and weighed fifty ounces and a half. The mucous membrane of the pharynx was quite rough; the mucous membrane of the larynx and trachea was also very much roughened, apparently by minute ulcers. Both lungs were studded with tubercles from the size of a pin's head to that of a small pea. The heart and its valves were normal; it weighed seven ounces; its right side contained a very large black clot, the left side a very small amount of black blood. The liver, spleen, and kidneys were normal. The spleen weighed five ounces and a half; the liver seventy ounces; the right kidney four ounces and a half, the left five ounces. The mesenteric glands were very much enlarged and softened. There was tubercular ulceration of the small intestine and the c&#230;cum.&#8212;<name type="person" key="246">Acting Assistant Surgeon H. M. Dean</name>.   [Nos. 426 to 432, Medical Section, <name type="hospital" key="431">Army Medical Museum</name>, are from this case.  No. 426 consists of the larynx, and part of the trachea with the thyroid body attached; the under surface of the epiglottis and the mucous membrane of the larynx and trachea present a number of superficial ulcers.  No. 427 is a section of the upper lobe of the left lung infiltrated with small cheesy tubercles.  No. 428 is from the upper portion of the jejunum; the specimen presents near its middle a large ulcer, the long diameter of which is transverse to the length of the intestinal canal; on the peritoneal surface opposite the ulcer there are a number of minute tubercles.  No. 429 is taken from high up in the ileum, and presents two similar ulcers.  No. 430 is from just above the ileoc&#230;cal valve, and exhibits a slightly thickened Peyer's patch in which there are a number of small discrete ulcers and several small isolated ones, apparently seated in the solitary follicles. The villi are hypertrophied in this piece and in Nos. 428 and 429.  No. 431 is a portion of the &#230;cum with the vermiform appendix; an irregular ragged ulceration surrounds the orifice of the appendix, the mucous membrane of which is ulcerated throughout; the c&#230;cum presents several large irregular ulcers.  No. 432 consists of the duodenum with the pancreas attached; a mass of enlarged mesenteric glands lies in front of the head of the pancreas; posteriorly a portion of the abdominal aorta may be seen, with a number of enlarged lymphatic glands adjoining.]</p>
+  </body>
+ </text>
+</TEI>

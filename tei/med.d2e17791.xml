@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d2e17791">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Walker, J.</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+    <idno>med.d2e17791</idno>
+    <authority>Civil War Washington</authority>
+    <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor><name>Center for Digital Research in the
+     Humanities</name><address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address></distributor>
+    <date>2011</date>
+    <availability>
+     <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+      republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+      law, requires express written consent from the editors and advance notification of the
+      publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+ <persName xml:id="kw">Kenneth Winkle</persName> 
+     <persName xml:id="mb">Matthew Bosley</persName>     
+     <persName xml:id="el">Elizabeth Lorang</persName>
+     <persName xml:id="sb">Stacey Berry</persName>
+     <persName xml:id="et">Elisabeth Tracey</persName>
+     <persName xml:id="ss">Sarah Synovec</persName>
+     <persName xml:id="kk">Kourtney Klein</persName>
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title level="j">The Medical and Surgical History of the War of the Rebellion.
+      (1861-65.)</title><pubPlace>Washington, DC</pubPlace><publisher>Government Printing
+      Office</publisher><biblScope type="part">Part 3</biblScope><biblScope type="volume">Volume
+      2</biblScope><date when="1883">1883</date><biblScope type="page">435</biblScope></bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+     <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <keywords scheme="#medsurg">
+     <term>wounds and injuries of the lower extremities</term> 
+     <term>wounds and operations in the leg</term>
+     <term>shot fractures of the bones of the leg</term>
+     <term>shot fractures of the bones of the leg treated by conservation</term> 
+     <term>shot fractures involving the tibia treated by conservation</term> 
+     <term>recoveries after shot fractures of the tibia treated by conservation</term>
+     <term>shot fracture of leg</term> 
+     <term>necrosis of bones</term> 
+     <term>tibia from ankle joint to near head carious</term>
+     <term>ball embedded in shaft of tibia</term>
+     <term>part of shaft of tibia removed</term>     
+     <term>general anesthesia, chloroform</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+ <change who="#kw" when="2014-05">blessed</change>
+   <change who="#kk" when="2014-01-31">added figure encoding</change>
+   <change who="#mb" when="2012-06-01">additional proofing of transcription and encoding, identified keyword terms</change>
+   <change who="#el" when="2011-05-11">case text extracted and transformed from larger file</change>
+   <change who="#sb" when="2011-06-04">Enrich Encoding, Edit and validate</change>
+   <change who="#sb" when="2011-01-28">Validated File</change>
+   <change who="#ss" when="2008-09-22">initial checking of OCR text; encoded P5 Encoding</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>   
+    <p><hi rend="initialcap">C</hi>ASE 678.&#8212;<name type="person" key="1238">Private J.
+      Walker</name>, <name type="organization" key="229">Co. A, 7th Wisconsin</name>, aged 27 years,
+     was wounded at <name type="BATTLE" key="12">the Wilderness</name>, <date type="injury"
+      when="1864-05-06">May 6, 1864</date>. <name type="person" key="xx">Surgeon C. N.
+      Chamberlain</name>, <name type="organization" key="132">U. S. V.</name>, reported his
+     admission to the field hospital of the 4th division, Fifth Corps, with "shot fracture of left leg, caused by a mini&#233; ball. On <date type="transfer" when="1864-05-12">May 12th</date>, the
+     wounded man entered <name type="hospital" key="171">Armory Square Hospital</name>, Washington,
+     where his injured leg was operated on by <name type="person" key="123">Surgeon D. W.
+      Bliss</name>, <name type="organization" key="132">U. S. V.</name>, who made the following
+     report of the case: "The ball was found embedded in the shaft of the tibia at about its middle,
+     whence it was extracted on <date type="operation" when="1864-08-13">August 13th</date>. The leg went through all the symptoms of necrosis of
+     one or both the bones, the first signs of which appeared on August 19th. On <date type="operation" when="1864-10-10">October 10th</date>, the
+     patient was placed upon the operating table and four inches of the shaft of the tibia was
+     removed, together with all the necrosed spicula of bone. Chloroform was used as the
+     an&#230;sthetic. Simple dressings, stimulants, and nourishing diet constituted the treatment.
+     The patient did well after the operation." He was discharged from service <date
+      type="servicedischarge" when="1865-01-24">January 24, 1865</date>, and pensioned. <name type="person"
+      key="xx">Examiner A. McBean</name>, of <name type="place" key="xx">Chippewa Falls,
+       Wisconsin</name>, certified, <date type="pension" when="1867-07-09">July 9, 1867</date>: "The remaining portion of the bone from the ankle
+     joint to within four inches of its head has become carious. A large open ulcer is the
+     consequence." <name type="person" key="xx">Examiner F. A. Reckard</name> reported, <date type="pension" when="1874-03-04">March 4,
+     1874</date>: "The wound is yet open and discharging from an orifice some four inches in length. The
+     remainder of the tibia is badly diseased and portions have come away at different times. The
+     limb is very much swollen at times and retains him in bed for months." The pensioner was paid
+     <date type="pension" when="1880-03-04">March 4, 1880</date>. The bone removed consists of a sequestrum six inches in length, and for four
+     inches is tubular. It was contributed to <name type="hospital" key="431">the Museum</name> by
+     <name type="person" key="123">the operator</name>, and is numbered specimen 3283 of the <hi rend="italic">Surgical Section</hi>. The
+     specimen is shown in <hi rend="initialcap">F</hi>IGURE 2 of <hi rend="initialcap">P</hi>LATE
+     <hi rend="initialcap">LXXI</hi>, opposite page 428.</p>
+   
+   <figure>
+    <graphic url="cww.001822.001" />
+    <head>PLATE  LXXI. __ TUBULAR  SEQUESTRA  AND  PIECES  OF  NECROSED  BONE  FROM  TIBIA.     Fig. 2._<name type="person" key="1238">Private Joseph Walker</name>, <name type="organization" key="229">A, 7 Wisconsin Vols.</name>   Spec. 3283, A. M. M.</head>
+   </figure>
+   
+   
+    
+  </body>
+ </text>
+</TEI>

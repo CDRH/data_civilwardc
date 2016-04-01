@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d2e31684">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Lynn, S. L.</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+       <idno>med.d2e31684</idno>
+       <authority>Civil War Washington</authority>
+       <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor>
+       <name>Center for Digital Research in the Humanities</name>
+       <address><addrLine>319 Love Library</addrLine>
+       <addrLine>University of Nebraska–Lincoln</addrLine>
+       <addrLine>Lincoln, NE 68588-4100</addrLine>
+       <addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+    </distributor>
+    <date>2011</date>
+    <availability>
+        <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+         republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+         law, requires express written consent from the editors and advance notification of the
+         publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+     <persName xml:id="mb">Matthew Bosley</persName>
+     <persName xml:id="ch">Constance Hamer</persName>
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl>
+     <title level="j">The Medical and Surgical History of the War of the Rebellion. (1861-65.)</title>
+     <pubPlace>Washington, DC</pubPlace>
+     <publisher>Government Printing Office</publisher>
+     <biblScope type="part">Part 2</biblScope>
+     <biblScope type="volume">Volume 2</biblScope>
+     <date when="1876">1876</date>
+     <biblScope type="page">170</biblScope>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+       <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+      <keywords scheme="#medsurg">
+       <term>injuries of the abdomen</term>
+       <term>penetrating wounds of the abdomen</term>
+       <term>wounds of the kidney</term>
+       <term>gunshot wounds</term>
+       <term>shot perforation of chest and abdomen</term> 
+       <term>ball entered seventh intercostal space anteriorly, passed backward and downward through lung, diaphragm, liver, and kidney, emerged near second lumbar vertebra</term>
+       <term>difficult breathing, profuse discharge of bilious matter, and bloody urine</term>
+       <term>skin surface icteroid</term>       
+     </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change who="#mb" when="2012-08-28">additional proofing of transcription and encoding, identified keyword terms</change>
+   <change who="#ch" when="2011-02-21">checked OCR; added minimal mark-up for personal names, place names, and dates</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body> 
+   <p><hi rend="initialcap">C</hi>ASE 450.&#8212;<name type="person" key="xxx">Sergeant S. L. Lynn</name>, <name type="organization" key="xxx">7th New Jersey</name>, received a shot perforation of the chest and abdomen, <date type="injury" when="1864-11-06">November 6, 1864</date>. First treated at the Second Corps hospital; he was transferred to <name type="hospital" key="171">Armory Square</name>, at Washington, where <name type="person" key="xxx">Acting Assistant Surgeon T. H. Stewart</name> states that the ball, entering the right seventh intercostal space anteriorly, passed backward and downward through the lung, diaphragm, liver, and kidney, "as was indicated by the difficult breathing, profuse discharge of bilious matter, and bloody urine," and emerged to the right of the second lumbar vertebra. The surface was icteroid. Death, <date type="death" when="1864-12-15">December 15, 1864</date>. </p>         
+  </body>
+ </text>
+</TEI>

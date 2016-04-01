@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e7428">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Crane, Ethan A.</title>
+                <title level="m" type="sub">a machine readable transcription</title>
+                <principal>Susan C. Lawrence</principal>
+                <principal>Kenneth M. Price</principal>
+                <principal>Kenneth J. Winkle</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2011</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <idno>med.d1e7428</idno>
+                <authority>Civil War Washington</authority>
+                <publisher>University of Nebraska–Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+                </distributor>
+                <date>2011</date>
+                <availability>
+                    <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved.
+                        Redistribution or republication in any medium, except as allowed under the
+                        Fair Use provisions of U.S. copyright law, requires express written consent
+                        from the editors and advance notification of the publisher, the University
+                        of Nebraska–Lincoln.</p>
+                </availability>
+            </publicationStmt>
+            <notesStmt>
+                <note type="project">The following are responsible for particular readings or for changes to this file, as noted: 
+                    <persName xml:id="mb">Matthew Bosley</persName>
+                    <persName xml:id="el">Elizabeth Lorang</persName>
+                    <persName xml:id="sb">Stacey Berry</persName>
+                    <persName xml:id="et">Elisabeth Tracey</persName>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>The Medical and Surgical History of the War of the Rebellion. (1861&#8211;65.)</title>
+                    <editor role="compiler">Surgeon General Joseph K. Barnes, United States Army</editor>
+                    <pubPlace>Washington, D.C.</pubPlace>
+                    <publisher>Government Printing Office</publisher>
+                    <biblScope type="part">Part 1</biblScope>
+                    <biblScope type="volume">Volume 2</biblScope>
+                    <date when="1870">1870</date>
+                    <biblScope type="page">112</biblScope>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <classDecl>
+                <taxonomy xml:id="medsurg">
+                    <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme="#medsurg">
+                    <term>on special wounds and injuries of the head</term>
+                    <term>wounds and injuries of the head</term>
+                    <term>gunshot wounds</term>
+                    <term>gunshot contusions of the cranial bones</term> 
+                    <term>contusion of the skull without fracture</term>
+                    <term>intracranial abscess</term>
+                    <term>suppuration following gunshot contusions of the cranium</term>
+                    <term>wounded by conoidal musket ball, struck frontal bone near median line</term>
+                    <term>bone barely bruised</term>
+                    <term>grave cephalic symptoms, died from cerebral complications</term>
+                    <term>large abscess in anterior lobe of brain</term>
+                    <term>meningitis beneath seat of injury</term>
+                    <term>diploe of dark yellowish gray color, as in cases of osteomyelitis</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change who="#mb" when="2013-06-05">additional proofing of transcription and encoding, edited and added keyword terms</change>
+            <change who="#mb" when="2011-10-05">additional proofing of transcription and encoding</change>
+            <change who="#mb" when="2011-06-17">additional proofing of transcription and encoding</change>
+            <change who="#el" when="2011-11-05">case text extracted and transformed from larger file</change>
+            <change who="#sb" when="2011-02-09">enriched encoding</change>
+            <change who="#sb" when="2011-01-28">validated file</change>
+            <change who="#et" when="2009-08-01">encoded</change>
+            <change who="#sb" when="2008-09-22">initial checking of OCR text against PDF; encoded</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body xml:id="ch1.sc3.0095">            
+                <p><name type="person" key="373"><hi rend="initialcap">C</hi>RANE, <hi
+                            rend="initialcap">E</hi>THAN, <hi rend="initialcap">A</hi>.</name>,
+                    Musician, <name type="organization" key="592">Co. K, 44th New York
+                        Volunteers</name>, was wounded, at the battle
+                    of <name type="BATTLE" key="263">Cold Harbor, Virginia</name>, <date type="injury" when="1864-06-03">June
+                        3d, 1864</date>, by a conoidal musket ball, which struck the frontal bone on
+                    the right side, near the median line, and glanced, apparently causing only a
+                    flesh wound; the bone was barely bruised.  He was admitted to the hospital of the
+                        Fifth Corps, and, on <date type="transfer" when="1864-06-10">June 10th</date>, was
+                    sent to the <name type="hospital" key="167">Carver Hospital</name> at
+                    Washington.  The case progressed favorably until June 20th, when grave cephalic
+                    symptoms came on.  The patient became comatose, and died on <date type="death"
+                        when="1864-06-22">June 22d, 1864</date>, from cerebral complications.  The
+                    autopsy revealed a large abscess in the right anterior lobe of the brain, with
+                    meningitis beneath the seat of injury. The external table of the bone was
+                    slightly discolored and cribriform, while the internal presented a faint attempt
+                    at the formation of a circumscribed area of the effects of osteitis. The diploe
+                    was found of a dark yellowish gray color, as in cases of osteomyelitis in long
+                    bones.  The pathological specimen was sent to the <name type="hospital" key="431">Army Medical Museum</name>, and is numbered 1393 in Section I.   The specimen
+                    and history were contributed by <name type="person" key="245">Assistant Surgeon
+                        H. Allen</name>, <name type="organization" key="190">U. S. Army</name>. </p>            
+        </body>
+    </text>
+</TEI>

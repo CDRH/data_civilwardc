@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="cww.00977">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Petition of Henry Bailey, 12 December 1862</title>
+                <title level="m" type="main">Evidence Relating to the Petition of Henry Bayley, 12 December 1862</title>
+                <title level="m" type="sub">a machine readable transcription</title>
+                <principal>Susan C. Lawrence</principal>
+                <principal>Kenneth M. Price</principal>
+                <principal>Kenneth J. Winkle</principal>
+                <respStmt>
+                    <resp>transcription and encoding</resp>
+<name xml:id="scl">Susan C. Lawrence</name>                    
+                    <name xml:id="km">Kevin McMullen</name>
+                    <name xml:id="jc">Janel Cayer</name>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2012</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <idno>cww.00977</idno>
+                <distributor>Civil War Washington</distributor>
+                <publisher>University of Nebraska–Lincoln</publisher>
+                <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>P.O. Box 884100</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+            </address>
+                <date>2012</date>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+                        <p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License (http://creativecommons.org/licenses/by-nc-sa/3.0/). Derivatives must be credited to Civil War Washington, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                
+                
+                <bibl xml:id="rg21">
+                    <title>Petition of Henry Bailey, 12 December 1862</title>                   
+                    <date when="1862-12-12">December 12, 1862</date>
+                    <idno>Microcopy 433, Reel 3</idno>                
+                    <orgName>National Archives and Records Administration</orgName>
+                    <relatedItem type="original">
+                        <bibl>
+                            <title>Petition of Henry Bailey, 12 December 1862</title>                        
+                            <date when="1862-12-12">December 12, 1862</date>
+                            <idno type="rg">Record Group 21</idno>
+                            <orgName>Records of the District Courts of the United States, 1685&#8211;2004, National Archives and Records Administration</orgName>
+                            <orgName>Emancipation Records, compiled 1862&#8211;1863</orgName>
+                            <note type="project">Within the National Archives' Archival Description Catalog, see ARC Identifier 4314547 / MLR Number NC-2 33 (http://arcweb.archives.gov).</note>
+                        </bibl>
+                    </relatedItem>
+                    <note type="project">Our transcription is based on a digital image of a microfilm copy of the original.</note>
+                </bibl>
+                
+                <bibl xml:id="rg217">
+                    <title>Evidence Relating to the Petition of Henry Bayley, 12 December 1862</title>       
+                    <date when="1862-12-12">December 12, 1862</date>
+                    <idno>Microcopy 520, Reel 6</idno>
+                    <orgName>National Archives and Records Administration</orgName>
+                    <relatedItem type="original">
+                        <bibl>
+                            <title>Evidence Relating to the Petition of Henry Bayley, 12 December 1862</title>
+                            <date when="1862-12-12">December 12, 1862</date>
+                            <idno>Record Group 217.6.5</idno>
+                            <orgName>Records of the Accounting Officers of the Department of the Treasury, 1775&#8211;1978, National Archives and Records Administration</orgName>
+                            <note type="project">Within the National Archives' Archival Description Catalog, see ARC Identifier 4644616 / MLR Number A1 347 (http://arcweb.archives.gov).</note>
+                        </bibl>
+                    </relatedItem>
+                    <note type="project">Our transcription is based on a digital image of a microfilm copy of the original.</note>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <particDesc>
+                <person role="owner">
+                    <persName>Martha A. Scott</persName>
+                </person>
+                <person role="petitioner-slave">
+                    <persName>Henry Bailey</persName><!-- last name is spelled "Bayley" in the "evidence" documents. For now, I have indicated what seems to be the most likely spelling here, KM -->
+                </person>
+            </particDesc>
+        </profileDesc>
+        <revisionDesc>
+<change when="2013-02-11" who="#jc">blessed</change>
+<change when="2013-02-07" who="#scl">blessed</change>
+            <change when="2012-08-31" who="#jc">checked</change>
+            <change when="2012-06-07" who="#km">transcribed, encoded</change>
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            <!-- Begins with the text of the petition. -->
+            <pb xml:id="leaf001r" facs="cww.00977.001.jpg"/>
+            
+            <div1 type="petition" subtype="handwritten" corresp="#rg21">                
+                
+                
+                <div2 type="document" subtype="handwritten">
+                    
+                    
+                    <opener>
+                        <salute>To <persName>John A. Smith</persName> <choice><abbr>Esq</abbr><expan>Esquire</expan></choice><lb/> Clerk Circuit Court of the <placeName>District of Columbia</placeName>.</salute>
+                        <salute>Sir,</salute>
+                    </opener>
+                    
+                    <p>Mrs. <persName>Martha A. Scott</persName> of <placeName>Bladensburg, Md</placeName> having claim to the service or labor of the undersigned, and having refused or failed to file in your Office the statement or schedule provided for in the 9th section of the Act of Congress, entitled "An act for the release of certain persons held to service or labor in the <placeName>District of Columbia</placeName>," Approved <date when="1862-04-16">16th April 1862</date>.</p> 
+                    <p>You will please file the annexed schedule in pursuance of an act supplementary to the above recited act approved <date when="1862-07-12">12th July 1862</date>. The undersigned resides now in said <placeName>District</placeName> with said owner's consent.</p>
+                    <table>
+                        <row>
+                            <cell>Name</cell>
+                            <cell>Sex</cell>
+                            <cell>Age</cell>
+                            <cell>Remarks</cell>
+                        </row>
+                        <row>
+                            <cell>Henry Bailey</cell>
+                            <cell>Male</cell>
+                            <cell>29 years</cell>
+                            <cell>dark complexion</cell>
+                        </row>
+                    </table>
+                    
+                    <closer>
+                        <signed>his X mark <persName>Henry Bailey</persName></signed><lb/>
+                            Witness<lb/>
+                            <signed><persName>Jno. M. Hanson</persName></signed>
+                    </closer>
+                </div2>
+                
+                
+                <pb xml:id="leaf002r" facs="cww.00977.002.jpg"/>
+                
+                <div2 type="document" subtype="handwritten">
+                    <!-- A signed letter from the petitioner's former owner, included as evidence -->                    
+                        <p>I give my servant man <persName>Henry</persName> the <choice><sic>priviledge</sic><corr>privilege</corr></choice> of hiring himself to any responsible person. I wish to receive the money monthly you can send it by him</p>
+                    
+                    <closer>
+                        <salute>Yours respectfully</salute>
+                        <signed>Mrs. <persName>Martha A. Scott</persName></signed>
+                    </closer>                    
+                </div2>
+                
+                
+                <pb xml:id="leaf001v" facs="cww.00977.003.jpg"/>
+                <div2 type="cover" subtype="handwritten">
+                    <div3 type="section">
+                        <ab><choice><abbr>pd</abbr><expan>paid</expan></choice></ab>
+                    </div3>
+                    
+                    <div3 type="section">
+                        <ab><persName>Henry Bailey</persName></ab>
+                        <ab>Recorded in Manumission Record No 2 folio 105&#8212;</ab>
+                        <ab>Filed <date when="1862-12-12">12th Decr 1862</date></ab>
+                        <ab><choice><abbr>cert</abbr><expan>certificate</expan></choice> given</ab>
+                    </div3>
+                    
+                    <div3 type="section">
+                        <p>The Commissioners, satisfied on the testimony of <persName>William Bates</persName>, and the written permit of the owner authorizing <persName>Bailey</persName> to hire himself, of the truth of the within statement, order the same to be so reported to the Clerk of the Circuit Court of the <placeName>District of Columbia</placeName></p>
+                        <ab><date when="1862-12-12">Dec. 12, 1862</date></ab>             
+                    <closer>
+                        <signed>Wm R. Woodward
+                            <lb/>Clerk to Commissioners</signed>
+                    </closer>
+                    </div3>                                       
+                </div2>
+                
+            </div1>
+            
+            <!-- Evidence pertaining to the case begins here -->
+            
+            
+            <pb xml:id="leaf003r" facs="cww.00977.004.jpg"/>
+            <div1 type="evidence" corresp="#rg217" subtype="handwritten">
+                
+                
+                <div2 type="procedural">
+                    <ab><persName>Henry Bayley</persName></ab>
+                    <ab>servant of <persName>Martha A Scott</persName></ab>
+                    <ab>schedule <choice><abbr>recd</abbr><expan>received</expan></choice> <unclear reason="illegible" cert="low" resp="#jc"><choice><abbr>fr</abbr><expan>from</expan></choice></unclear> clerk &#38; read</ab>
+                </div2>
+                
+                <div2 type="testimony">
+                   <ab><persName>William Bates</persName> I know facts stated in schedule to be true.</ab>
+                    <ab><choice><abbr>Pet</abbr><expan>Petition</expan></choice> shows written permission from owner to hire out &#38;c</ab>
+                </div2>                
+                
+                <pb xml:id="leaf004r" facs="cww.00977.005.jpg"/>  
+                
+                <div2 type="testimony">
+                    <dateline><date when="1862-12-12">Dec 12</date>.</dateline>
+                    <ab><persName>Martha A. Scott</persName>. <persName>Henry Bayley</persName> I was always told I was a week <unclear reason="illegible" cert="low" resp="#jc">old</unclear> when stars fell. (<date when="1833">1833</date>). not <unclear reason="illegible" cert="low" resp="#jc">very</unclear> healthy. have spells in spring &#38; fall. teeth gone. I am <unclear reason="illegible" cert="low" rend="#scl">sore</unclear> boned</ab>
+                    <ab>$1100.</ab>
+                </div2>
+                
+                <pb xml:id="leaf003v" facs="cww.00977.006.jpg"/>
+                <div2 type="cover">
+                    <ab><persName>Henry Bayley</persName></ab>
+                    <ab><date when="1862-12-12"><choice><abbr>Dec</abbr><expan>December</expan></choice> 12</date></ab>
+                </div2>
+            </div1>            
+        </body>
+    </text>
+</TEI>
+                
+                
+                
+                
+                
+

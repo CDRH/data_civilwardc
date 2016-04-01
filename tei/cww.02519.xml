@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="cww.02519">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Our Washington Correspondence</title>
+                <title level="m" type="sub">a machine readable transcription</title>
+                <editor role="co-editor">R. J. Weir</editor>
+                <principal>Susan C. Lawrence</principal>
+                <principal>Elizabeth Lorang</principal>
+                <principal>Kenneth M. Price</principal>
+                <principal>Kenneth J. Winkle</principal>
+                <respStmt>
+                    <resp>transcription and encoding</resp>
+                    <persName xml:id="ak">Alex Kinnaman</persName>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2015</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <idno>cww.02519</idno>
+                <distributor>Civil War Washington</distributor>
+                <publisher>University of Nebraska Lincoln</publisher>
+                <address>
+                    <addrLine>Center for Digital Research in the Humanities</addrLine>
+                    <addrLine>319 Love Library</addrLine>
+                    <addrLine>University of Nebraska-Lincoln</addrLine>
+                    <addrLine>P.O. Box 884100</addrLine>
+                    <addrLine>Lincoln, NE 68588-4100</addrLine>
+                </address>
+                <address>
+                    <addrLine>
+                        <email>cdrh@unl.edu</email>
+                    </addrLine>
+                </address>
+                <date>2015</date>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+                        <p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License (http://creativecommons.org/licenses/by-nc-sa/3.0/). Derivatives must be credited to Civil War Washington and R. J. Weir, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct xml:id="letter">
+                    <analytic>
+                        <author ref="#unk">S.</author>
+                        <title level="a">Our Washington Correspondence</title>
+                    </analytic>
+                    <monogr>
+                        <title xml:id="paper" level="j">The Anglo-African</title>
+                        <imprint>
+                            <date xml:id="issue_date" when="1863-12-19">19 December 1863</date>                    
+                        </imprint>
+                        <biblScope type="pp">[2]</biblScope>                    
+                    </monogr>           
+                </biblStruct>
+                
+                <biblStruct xml:id="issue">               
+                    <monogr>
+                        <title level="j" sameAs="#paper"/>
+                        <imprint>
+                            <date sameAs="#issue_date"/>                  
+                        </imprint>              
+                    </monogr>                   
+                </biblStruct>                        
+            </sourceDesc>       
+        </fileDesc>
+        <encodingDesc> 
+            <p>This electronic text is a semi-diplomatic transcription of the source text. Hyphenation, punctuation, variant spellings, and errors present in the source text have been retained. The transcription does not attempt to capture all aspects of the original formatting or layout.</p>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <persName xml:id="unk">Unknown</persName>
+                <persName xml:id="rh">Hamilton, Robert</persName>
+                <persName xml:id="th">Hamilton, Thomas</persName>
+                <date when="1863">1863</date>
+            </creation>
+            <langUsage>
+                <language ident="en-US">modern American English</language>
+            </langUsage>
+            <textClass>
+                <classCode scheme="http://authorities.loc.gov">
+                    <term xml:id="sh85001847">African American freemasonry</term>
+                    <term xml:id="sh2004002512">African American schools</term>
+                    <term xml:id="sh2007100334">African Americans--Virginia</term>
+                    <term xml:id="sh2009114063">African Americans--Washington (D.C.)</term>
+                    <term xml:id="n85363531">Andrew, John A. (John Albion), 1818-1867</term>
+                    <term xml:id="sh85032407">Copperhead movement</term>
+                    <term xml:id="n96041252">Downing, George T. (George Thomas), 1819-1903</term>
+                    <term xml:id="n85145530">National Freedman's Relief Association of the District of Columbia</term>
+                    <term xml:id="n88071303">Seymour, Horatio, 1810-1886</term>
+                </classCode>
+                <classCode scheme="http://civilwardc.org">
+                    <term>African Methodist Episcopal Church--Alexandria</term>
+                    <term>Chauncey, Leonard A.</term>
+                    <term>Cook Jr., John Francis, 1833-1910</term>
+                    <term>Madden, Samuel W.</term>
+                    <term>Slade, William, 1815-?</term>
+                </classCode>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when="2015-04-02" who="#el">checked transcription and encoding and made necessary changes; updated TEI header, including keywords</change>
+            <change when="2015-03-30" who="#ak">added keywords</change>
+            <change when="2015-02-25" who="#ak">checked, updated xml:id</change>
+            <change when="2014-11-17" who="#ak">checked transcription, encoded</change>
+        </revisionDesc>
+    </teiHeader>
+    
+    <facsimile corresp="#issue">
+        <surface xml:id="pp1">
+            <graphic url="aa.18631219.pp1.jpg"/>
+        </surface>
+        <surface xml:id="pp2">
+            <graphic url="aa.18631219.pp2.jpg"/>
+            <zone xml:id="pp2_cropped" corresp="#letter">
+                <graphic url="aa.18631219.pp2_cropped.jpg"/>
+            </zone>
+        </surface>
+        <surface xml:id="pp3">
+            <graphic url="aa.18631219.pp3.jpg"/>
+        </surface>
+        <surface xml:id="pp4">
+            <graphic url="aa.18631219.pp4.jpg"/>
+        </surface>
+    </facsimile>
+    
+    <text corresp="#letter #pp2_cropped">
+        <body>
+            <head type="main" subtype="authorial" rend="center">Our Washington Correspondence.</head>
+            
+            <milestone unit="undeclared" rend="medium-bar"/>
+            
+            <opener>
+                <salute><emph rend="smallcaps">Mr. Editor</emph>:</salute>
+            </opener>
+            
+            <p>If there is anything in the <lb/>world that will assist the elevation of our race, <lb/>it is education.  Let a nation be highly <choice><orig>edu-<lb/>cated</orig><reg>educated</reg></choice> and you will see it prosperous and happy<lb/>&#8212;enjoying the blessings of peace&#8212;to the <choice><orig>con-<lb/>trary</orig><reg>contrary</reg></choice>, if a nation is ignorant, it will be <choice><orig>indo-<lb/>lent</orig><reg>indolent</reg></choice>, and instead of improving and <choice><orig>progress-<lb/>ing</orig><reg>progressing</reg></choice> in all that is good and great, it will <choice><orig>retro-<lb/>grade</orig><reg>retrograde</reg></choice>.  History informs us that no nation <lb/>possessed this blessing to a greater degree <lb/>than the Africans two centuries ago&#8212;and why <lb/>do our people not enjoy these blessings at this <lb/>time?  The answer is, from the disobedience of <lb/>God's laws.  And so with the American nation<lb/>&#8212;they have violated God's laws&#8212;and hence <lb/>the present war and destruction of human life. <lb/>Yet amid all this carnage, we can observe the <lb/>hand of God, working out the liberty of our <lb/>people.  This subject affords a theme for the <lb/>great philosophers of the day to contemplate <lb/>and write about, therefore if we wish to occupy <lb/>the position which our manhood ought to, and <lb/>must call for, particularly in the United States, <lb/>we must be educated, without which we cannot <lb/>successfully compete with our white friends; <lb/>therefore let us embrace every opportunity of <lb/>educating our children, and prepare them to <lb/>enjoy that which we have been so long <choice><orig>de-<lb/>prived</orig><reg>deprived</reg></choice> of.  Thus it becomes us to be firmly <lb/>united, "for in union there is power."  "<choice><orig>Edu-<lb/>cation</orig></choice> is what we want."</p>
+            
+            <p>The free colored schools in this District is <lb/>something to interest every colored person in <lb/>the country, and we are happy to inform the <lb/>readers of your paper that one of these schools <lb/>has been established, however, not by the <lb/>corporation of Washington, or its agents for <lb/>that purpose, but through the influence of the <lb/>National Freedmen's Relief Association of the <lb/>District of Columbia.  This school, we <choice><orig>under-<lb/>stand</orig><reg>understand</reg></choice>, is quite flourishing&#8212;and others are to <lb/>be established soon.  Mr. Editor, we must help <lb/>ourselves if we would have our white friends <lb/>help us.  We think <choice><sic>it it</sic><corr>it</corr></choice> would be well for us <lb/>to petition Congress to tax every colored man <lb/>in this district the sum of one dollar per year <lb/>for the support of our free schools.  If this is <lb/>not done something must be, or the schools <lb/>cannot be sustained.</p>
+            
+            <p>We are pleased to inform you that our <lb/>mutual friend, Wm. H. Slade, has been enabled <lb/>to resume the duties at his office.</p>
+            
+            <p>The congregation of the 19th St. Baptist <lb/>Church, have extended a call to the Rev. Samuel <lb/>W. Madden, for the ensuing year.  We think the <lb/>Church would do well to get the ministerial <choice><orig>ser-<lb/>vices</orig><reg>services</reg></choice> of this young divine.  He has been acting <lb/>as supply for them for the last nine months, <lb/>their Pastor, the Rev. C. Leonard, having <lb/>gone to Liberia.  He is expected to return to <lb/>the United States soon.</p>
+            
+            <p>In Alexandria, Va., on the sacred soil of <choice><orig>Vir-<lb/>ginia</orig><reg>Virginia</reg></choice>, made more so, by the blood of the many <lb/>Union men who have espoused the cause of <lb/>Freedom, a scene took place which we <lb/>two years ago could not have witnessed. <lb/>The corner stone of the A. M. E. Church was <lb/>laid by the M. W. G. Lodge of the <choice><orig>Dis-<lb/>trict</orig><reg>Disctrict</reg></choice> of Columbia; Brother A. Herbert, <choice><orig>act-<lb/>ing</orig><reg>acting</reg></choice> G. M. and Brothers R. H. Booker, and <choice><orig>Ed-<lb/>ward</orig><reg>Edward</reg></choice> Evans, G. S. and Junior Wardens, <choice><orig>Bro-<lb/>ther</orig><reg>Brother</reg></choice> J. F. Cook, Grand Secretary.  The <choice><orig>offi-<lb/>cers</orig><reg>officers</reg></choice> and members of the Grand Lodge left <lb/>Washington at 12 o'clock, m., for the city <lb/>of Alexandria.  On their arrival, they were <lb/>escorted to the Hall of Universal Lodge, No. <lb/>2, A. Y. M.  All arrangements having been <lb/>duly made, the procession was formed, and the <lb/>Grand Lodge with her subordinates marched <lb/>through some of the principal streets of <choice><orig>Alex-<lb/>andria</orig><reg>Alexandria</reg></choice>, to the place where the ceremonies <lb/>were to be performed.  They were <choice><orig>lead</orig><reg>led</reg></choice> by the <lb/>brass band, leader Mr. Jas. Tully (colored). <lb/>This was truly gratifying to see the Ancient <lb/>Order of Free Masons (colored) marching in <lb/>procession through the streets of this old <choice><orig>Vir-<lb/>ginia</orig><reg>Virginia</reg></choice> city, where but a short time since, the <lb/>slave-pens were in full operation, but to this <lb/>there has been a stop put.</p>
+            
+            <p>The colored people in Alexandria are as <lb/>free, comparatively, as they are in any city of <lb/>the Union.  There was a time in this city when <lb/>it was a common thing to see colored men and <lb/>women, chained together going further South, <lb/>to be sold into the most abject slavery known <lb/>to the civilized world; but how great the <lb/>change, to see the corner-stone of a church, <lb/>laid by the Colored Free Masons, and they <lb/>lead by a brass band, parading the streets of <lb/>Alexandria.  After the ceremonies were <choice><orig>com-<lb/>pleted</orig><reg>completed</reg></choice>, Bros. Robert Robertson of Alexandria, <lb/>and George T. Downing of New York, <choice><orig>deliv-<lb/>ered</orig><reg>delievered</reg></choice> fine speeches.  Those gentlemen spoke in <lb/>very patriotic language, in relation to <choice><orig>sustain-<lb/>ing</orig><reg>sustaining</reg></choice> the principles of Free Masonry and of <lb/>freedom.  Mr. Downing said he felt happy to <lb/>have the pleasure of addressing an assemblage <lb/>of this kind in the State of Virginia where he <lb/>could speak his sentiments, regardless of the <lb/>frowns or the smiles of any one.  After the <lb/>speeches were delivered, the procession formed <lb/>in line and marched to their Lodge room where <lb/>they were called off from labor to refreshment <lb/>and were handsomely entertained by Brother <lb/>George Chapman, at his residence.  There <lb/>was quite a number of spectators of both <lb/>colors.  The best order was observed during <lb/>the entire day and all were highly delighted. <lb/>It was truly good to be there.</p>
+            
+            <p>The Grand Chapter of Royal Arch Masons, <lb/>of the State of Maryland, held their Annual <lb/>communication in Georgetown, on <choice><orig>Thanks-<lb/>giving</orig><reg>Thanksgiving</reg></choice> day.  The subordinate Chapters were <lb/>well represented.  Some of the most inquiring <lb/>of your readers may ask the question why is <lb/>it that the Grand Chapter of Maryland met here<lb/>&#8212;the answer is, we have but two&#8212;Chapters <lb/>in the District of Columbia, and consequently <lb/>we have no Grand Chapter.  It gives us <choice><orig>plea-<lb/>sure</orig><reg>pleasure</reg></choice> to state that the Masonic Order is in a <lb/>flourishing condition in the District of <choice><orig>Colum-<lb/>bia</orig><reg>Columbia</reg></choice>.</p>
+            
+            <p>It pleased us very much to read in the New <lb/>York <title level="j" rend="italic">Tribune</title> of last evening, that for the first <lb/>time in the history of this country, a regiment <lb/>of colored soldiers paraded the streets of this <lb/>city, and that too without molestation.  What <lb/>a wonderful change has taken place in a short <lb/>time!  We hope the appearance of these <lb/>troops will cause the Governor of the State to <lb/>do his duty, and imitate the noble example set <lb/>by the Governor of Massachusetts.  However, <lb/>you cannot make a silk purse of a sow's ear. <lb/>But we will not give the Governor of New <lb/>York up to the hardness of heart.  There is <lb/>hope for a sinner while the candle of life <choice><orig>con-<lb/>tinues</orig><reg>continues</reg></choice> to burn.  A few more Union victories <lb/>will convert almost as many Copperheads as <lb/>we have killed of Secessionists.  We are <lb/>pleased to know that things are looking <choice><orig>favor-<lb/>able</orig><reg>favorable</reg></choice> all over the country.</p>
+            
+            <closer><signed rend="right">S.</signed></closer>
+        </body>
+    </text>
+</TEI>

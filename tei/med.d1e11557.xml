@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e11557">
+        <teiHeader>
+                <fileDesc>
+                        <titleStmt>
+                                <title level="m" type="main">Russell, Daniel E.</title>
+                                <title level="m" type="sub">a machine readable transcription</title>
+                                <principal>Susan C. Lawrence</principal>
+                                <principal>Kenneth M. Price</principal>
+                                <principal>Kenneth J. Winkle</principal>
+                        </titleStmt>
+                        <editionStmt>
+                                <edition>
+                                        <date>2011</date>
+                                </edition>
+                        </editionStmt>
+                        <publicationStmt>
+                                <idno>med.d1e11557</idno>
+                                <authority>Civil War Washington</authority>
+                                <publisher>University of Nebraska–Lincoln</publisher>
+                                <distributor>
+                                        <name>Center for Digital Research in the Humanities</name>
+                                        <address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+                                </distributor>
+                                <date>2011</date>
+                                <availability>
+                                        <p>Copyright © 2011 by University of Nebraska–Lincoln, all
+                                                rights reserved. Redistribution or republication in
+                                                any medium, except as allowed under the Fair Use
+                                                provisions of U.S. copyright law, requires express
+                                                written consent from the editors and advance
+                                                notification of the publisher, the University of
+                                                Nebraska–Lincoln.</p>
+                                </availability>
+                        </publicationStmt>
+                        <notesStmt>
+                                <note type="project">The following are responsible for particular readings or for changes to this file, as noted: 
+                                        <persName xml:id="mb">Matthew Bosley</persName>
+                                        <persName xml:id="el">Elizabeth Lorang</persName>
+                                        <persName xml:id="sb">Stacey Berry</persName>
+                                        <persName xml:id="et">Elisabeth Tracey</persName>
+                                </note>
+                        </notesStmt>
+                        <sourceDesc>
+                                <bibl>
+                                        <title level="j">The Medical and Surgical History of the War of the Rebellion</title>
+                                        <pubPlace>Washington, DC</pubPlace>
+                                        <publisher>Government Printing Office</publisher>
+                                        <biblScope type="part">Part 3</biblScope>
+                                        <biblScope type="volume">Volume 1</biblScope>
+                                        <date when="1888">1888</date>
+                                        <biblScope type="page">847</biblScope>
+                                </bibl>
+                        </sourceDesc>
+                </fileDesc>
+                <encodingDesc>
+                        <classDecl>
+                                <taxonomy xml:id="medsurg">
+                                        <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+                                </taxonomy>
+                        </classDecl>
+                </encodingDesc>
+                <profileDesc>
+                        <textClass>
+                                <keywords scheme="#medsurg">
+                                        <term>diseases attributed to non-miasmatic exposures</term>
+                                        <term>other diseases attributed to exposure</term>
+                                        <term>congestion and inflammation of the spinal membranes</term>
+                                        <term>inflammation of spinal cord or membranes, associated at inception with febrile movement and tenderness over part of spine</term>
+                                        <term>exposure to excessive fatigue and cold</term> 
+                                        <term>paralysis of legs, skin without sensation</term>   
+                                        <term>pain in groins and testicles, darting up back</term>
+                                        <term>an&#230;mia</term>
+                                </keywords>
+                        </textClass>
+                </profileDesc>
+                <revisionDesc>
+                        <change who="#mb" when="2013-05-06">additional proofing of transcription and encoding, edited and added keyword terms</change>
+                        <change who="#mb" when="2011-07-14">additional proofing of transcription and encoding</change>
+                        <change who="#el" when="2011-05-11">case text extracted and transformed from larger file</change>
+                        <change who="#sb" when="2011-02-23">Encoding and Proofing</change>
+                        <change who="#et" when="2009-12-01">Initial Checking OCR Text to PDF file,</change>
+                </revisionDesc>
+        </teiHeader>
+        <text>
+                <body>                        
+                        <p> <hi rend="initialcap">C</hi>ASE 5.&#8212;<name type="person">Private Daniel E. Russell</name>, <name type="organization">Co. E, 179th N. Y.</name>; age 24; enlisted in <date type="enlisted" when="1864-09">September, 1864</date>; admitted <date type="admit" when="1864-11-30">November 30</date>. He stated that about <date type="injury" when="1864-10-15">the middle of October</date>, after exposure to excessive
+                                        fatigue and cold, he was attacked with violent fever and was
+                                        unconscious for ten or twelve days. On regaining
+                                        consciousness he had lost the use of his legs.  When
+                                        admitted he was in fair condition excepting the paralysis;
+                                        there was tenderness on pressure along the entire spine. His
+                                        condition remained unchanged during December; the
+                                        innervation of the lower extremities did not improve; the
+                                        skin was without sensation; there was no pain or uneasiness
+                                        other than an occasional pricking and numb sensation in the
+                                        thigh.  During January, 1865, he complained of frequent
+                                        headache and much pain in the groins and testicles, darting
+                                        up the back; the appetite failed and the muscles of the
+                                        lower extremities became soft and atrophied. In February the
+                                        left arm and forearm became numb and stiff, but this
+                                        afterwards in a measure disappeared.  The patient gradually
+                                        became an&#230;mic. Counter-irritation was applied along the
+                                        spine, stimulating friction to the limbs and passive motion
+                                        to the joints; purgatives and alteratives were given,
+                                        iodide of iron particularly; nux vomica was also used, but
+                                        cautiously, as it appeared to aggravate the spinal
+                                        excitement and pain; anodynes and wine were employed.  He
+                                        was discharged from service <date type="servicedischarge" when="1865-03-07">March 7</date>.&#8212;<hi rend="italic"><name type="hospital" key="189">Third Division Hospital</name>, <name type="place">Alexandria, Va.</name></hi> </p>                        
+                </body>
+        </text>
+</TEI>

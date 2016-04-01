@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e19183">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title level="m" type="main">Berry, Chalkley</title>
+        <title level="m" type="sub">a machine readable transcription</title>
+        <principal>Susan C. Lawrence</principal>
+        <principal>Kenneth M. Price</principal>
+        <principal>Kenneth J. Winkle</principal>
+      </titleStmt>
+      <editionStmt>
+        <edition><date>2011</date></edition>
+      </editionStmt>
+      <publicationStmt>
+        <idno>med.d1e19183</idno>
+        <authority>Civil War Washington</authority>
+        <publisher>University of Nebraska–Lincoln</publisher>
+        <distributor><name>Center for Digital Research in the
+          Humanities</name><address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address></distributor>
+        <date>2011</date>
+        <availability>
+          <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution
+            or republication in any medium, except as allowed under the Fair Use provisions of U.S.
+            copyright law, requires express written consent from the editors and advance
+            notification of the publisher, the University of Nebraska–Lincoln.</p>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="project">The following are responsible for particular readings or for changes to
+          this file, as noted: 
+ <persName xml:id="kmp">Kenneth M. Price</persName> 
+          <persName xml:id="ajh">AJ Howell</persName>
+          <persName xml:id="mb">Matthew Bosley</persName>
+          <persName xml:id="el">Elizabeth Lorang</persName>
+          <persName xml:id="sb">Stacey Berry</persName>
+          <persName xml:id="et">Elisabeth Tracey</persName>
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl><title>The Medical and Surgical History of the War of the Rebellion.
+            (1861&#8211;65.)</title><editor role="compiler">Surgeon General Joseph K. Barnes, United
+            States Army</editor><pubPlace>Washington, D.C.</pubPlace><publisher>Government Printing
+            Office</publisher><biblScope type="part">Part 1</biblScope>
+          <biblScope type="volume">Volume 2</biblScope><date when="1870">1870</date><biblScope
+            type="page">474</biblScope></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <classDecl>
+        <taxonomy xml:id="medsurg">
+          <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="#medsurg">
+          <term>wounds and injuries of the chest</term>
+          <term>gunshot wounds of the chest</term>
+          <term>non-penetrating injuries of bones</term>
+          <term>transverse fracture of clavicle within coraco-clavicular ligament</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+ <change who="#kmp" when="2014-05">blessed</change>
+      <change who="#ajh" when="2013-08-20">added figure encoding</change>
+      <change who="#mb" when="2011-12-16">additional proofing of transcription and encoding</change>
+      <change who="#el" when="2011-05-11">case text extracted and transformed from larger
+        file</change>
+      <change who="#sb" when="2011-02-09">enriched encoding</change>
+      <change who="#sb" when="2011-01-28">validated file</change>
+      <change who="#et" when="2009-08-01">encoded</change>
+      <change who="#sb" when="2008-09-22">initial checking of OCR text against PDF; encoded
+      </change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+
+      <p>
+        <hi rend="initialcap">C</hi>ASE.&#8212;<name type="person">Private Chalkley Berry</name>,
+          <name type="organization">Co. I, 28th New Jersey Volunteers</name>, aged 24 years, was
+        wounded at <name type="BATTLE" key="251">Fredericksburg</name>, <date type="injury"
+          when="1862-12-12">December 12th, 1862</date>, by a ball, which, entering the back on the
+        right side, within a half inch of the vertebral column, opposite the spinous process of the
+        sixth dorsal vertebra, and apparently passing upward beneath the scapula and over the
+        shoulder, fractured the right clavicle just within the coraco-clavicular ligament, making a
+        complete transverse fracture, and lodging in the soft tissues below and in a vertical line
+        with the point of fracture, where it was readily recognized. He was treated in the field
+        hospital of the 2d division, Second Corps, and on <date type="transfer" when="1862-12-18"
+          >the 18th</date> was transferred to the <name type="hospital">Presbyterian Church
+          Hospital, Georgetown</name>; on <date type="transfer" when="1862-12-30">December 30th,
+          1862</date>, to <name type="hospital">Harewood Hospital</name>, Washington, and, on <date
+          type="transfer" when="1863-01-31">January 31st, 1863</date>, to <name type="hospital"
+          >Broad and Cherry Streets Hospital, Philadelphia</name>. When admitted, the wound of
+        entrance had entirely healed, and firm union had taken place at the seat of fracture, the
+        inner fragment overlapping. The patient stated that, a few days after the reception of the
+        injury, he spat a small amount of clotted blood, and continued to do so at intervals for two
+        days, after which it entirely ceased. He also had some difficulty of respiration for a short
+        period but was not treated for any disease of the lung. On <date type="operation"
+          when="1863-02-22">February 22d, 1863</date>, the ball was cut out by <name type="person"
+          >Surgeon John Neill</name>, <name type="organization" key="132">U. S. V.</name>
+        <name type="person">Berry</name> recovered without any serious symptoms at any time, and was
+        discharged from service on <date type="servicedischarge" when="1863-03-12">March 12th,
+          1863</date>. The missile, represented in the adjacent wood-cut (<hi rend="initialcap"
+          >F</hi>IG. 210), was a musket ball, notched at the apex and grooved on the side. It was
+        contributed, with the history, by the operator. Not a pensioner. </p>
+
+      <figure>
+        <graphic url="cww.001456.001"/>
+        <head><hi rend="initialcap">F</hi>IG. 210.&#8212;An elongated ball grooved by impact on the
+          clavicle. <hi rend="italic">Spec</hi>. 378, Sect. I, A.M. M.</head>
+      </figure>
+
+    </body>
+  </text>
+</TEI>

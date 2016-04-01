@@ -1,0 +1,335 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="cww.00370">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Petition of Nicholas Acker, 22 May 1862</title>
+                <title level="m" type="sub">a machine readable transcription</title>
+                <principal>Susan C. Lawrence</principal>
+                <principal>Kenneth M. Price</principal>
+                <principal>Kenneth J. Winkle</principal>
+                <respStmt>
+                    <resp>transcription and encoding</resp>
+                    <name xml:id="scl">Susan C. Lawrence</name>
+                    <name xml:id="kn">Kaci Nash</name>
+                    <name xml:id="nnk">Nima Najafi Kianfar</name>
+                    <name xml:id="jc">Janel Cayer</name>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2013</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <idno>cww.00370</idno>
+                <distributor>Civil War Washington</distributor>
+                <publisher>University of Nebraska–Lincoln</publisher>
+                <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>P.O. Box 884100</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+            </address>
+                <date>2013</date>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+                        <p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike
+                            3.0 Unported License
+                            (http://creativecommons.org/licenses/by-nc-sa/3.0/). Derivatives must be
+                            credited to Civil War Washington, made available non-commercially, and
+                            distributed under the same terms. Requests for permission for commercial
+                            publication or other use should be emailed to the project team.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Petition of Nicholas Acker, 22 May 1862</title>
+                    <date when="1862-05-22">May 22, 1862</date>
+                    <idno>Microcopy 520, Reel 3</idno>
+                    <orgName>National Archives and Records Administration</orgName>
+                    <relatedItem type="original">
+                        <bibl>
+                            <title>Petition of Nicholas Acker, 22 May 1862</title>
+                            <date when="1862-05-22">May 22, 1862</date>
+                            <idno>Record Group 217.6.5</idno>
+                            <orgName>Records of the Accounting Officers of the Department of the
+                                Treasury, 1775–1978, National Archives and Records
+                                Administration</orgName>
+                            <note type="project">Within the National Archives' Archival Description
+                                Catalog, see ARC Identifier 4644616 / MLR Number A1 347
+                                (http://arcweb.archives.gov).</note>
+                        </bibl>
+                    </relatedItem>
+                    <note type="project">Our transcription is based on a digital image of a
+                        microfilm copy of the original.</note>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <particDesc>
+                <person role="petitioner">
+                    <persName>Nicholas Acker</persName>
+                </person>
+                <person role="jp">
+                    <persName>Francis I. Murphey</persName>
+                </person>
+            </particDesc>
+        </profileDesc>
+        <revisionDesc>
+            <change when="2013-01-16" who="#jc">blessed</change>
+            <change when="2013-01-12" who="#scl">blessed</change>
+            <change when="2012-12-27" who="#jc">updated tei header; fixed values for @facs as
+                necessary; automated checking across files for extra spaces in elements and other
+                encoding inconsistencies and for regular transcription errors</change>
+            <change when="2012-10-22" who="#nnk">proofed</change>
+            <change when="2012-01-30" who="#kn">transcribed, encoded</change>
+            <change when="2012-02-16" who="#kn">made corrections to original encoding</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb xml:id="leaf001r" facs="cww.00370.001.jpg"/>
+
+            <div1 type="petition" subtype="mixed">
+                <head type="main">PETITION.</head>
+                <p rend="bold">To the Commissioners under the act of Congress approved the <date
+                        when="1862-04-16">16th of April, 1862</date>, entitled "An act for the
+                    release of certain persons held to service or labor in the District of
+                    Columbia."</p>
+
+                <p>Your Petitioner, <seg type="handwritten">
+                        <persName>Nicholas Acker</persName>
+                    </seg> of <seg type="handwritten">the City of <placeName> Washington D.
+                            C.</placeName>
+                    </seg> by this <seg type="handwritten">his</seg> petition in writing, represents
+                    and states, that <seg type="handwritten">he</seg> is a person loyal to the
+                    United States, who, at the time of the passage of the said act of Congress, held
+                    a claim to service or labor against <seg type="handwritten">a</seg> person of
+                    African descent of the name of <seg type="handwritten">
+                        <persName>Ann Maria Adams</persName> a slave</seg> for and during
+                        <del>the</del>
+                    <seg type="handwritten">her</seg> life <del>of said</del> and that by said act
+                    of Congress said <seg type="handwritten"><persName>Ann Maria
+                        Adams</persName></seg> was discharged and freed of and from all claim of
+                    your petitioner to such service or labor; that at the time of said discharge
+                    said <seg type="handwritten">
+                        <persName>Ann Maria Adams</persName>
+                    </seg> was of the age of <seg type="handwritten">about seventeen years</seg> and
+                    of the personal description following:<note type="government" place="foot"
+                        xml:id="n1">Here describe the person, so as to identify him or her; and if
+                        there be more than one slave, describe each one separately.</note>
+                    <seg type="handwritten">Five feet and three inches <choice>
+                            <sic>heigh</sic>
+                            <corr>height</corr>
+                        </choice>, dark chestnut color &#38; nose slightly depressed</seg>
+                </p>
+
+                <pb xml:id="leaf001v" facs="cww.00370.002.jpg"/>
+
+                <p>That your petitioner acquired <seg type="handwritten">his</seg> claim to the
+                    aforesaid service or labor of said <seg type="handwritten">
+                        <persName>Ann Maria Adams</persName>
+                    </seg> in manner following:<note type="government" place="foot" xml:id="n2">Here
+                        state how the claim was acquired, when, from whom, and for what price or
+                        consideration; and, if held under any written evidence of title, make
+                        exhibit thereof, or refer to the public record where the same may be
+                        found.</note>
+                    <seg type="handwritten">to wit. By purchase from <persName>John E.
+                            Thompson</persName> administrator of <persName>William
+                            Burford</persName> deceased. Said purchase was made in
+                            <placeName>Montgomery County</placeName> in the State of
+                            <placeName>Maryland</placeName> on the <date when="1858-10-15">15th
+                            October A.D. 1858</date>, for the sum of six hundred and fifty dollars
+                        as will appear by reference to the receipt herewith filed, marked "Petition
+                        exhibit A."</seg>
+                </p>
+
+                <p>That your petitioner's claim to the service or labor of said <seg
+                        type="handwritten">
+                        <persName>Anne Maria Adams</persName>
+                    </seg> was, at the time of said discharge therefrom, of the value of <seg
+                        type="handwritten">at least one thousand</seg> dollars in money.<note
+                        type="government" place="foot" xml:id="n3">Here state such facts, if any
+                        there be, touching the value of the petitioner's claim to the service or
+                        labor of the person, as may enhance the same, and also such facts, if any,
+                        touching the moral, mental, and bodily infirmities or defects of said
+                        person, as impair the value of the petitioner's claim to such service or
+                        labor, and conclude such statement with an averment that the petitioner
+                        knows of no other infirmities or defects of said person which impair the
+                        value of petitioner's claim to such service or labor, and that he believes
+                        none other to exist. If the petitioner specify no such infirmity or defect,
+                        then his statement touching the value of his claim should conclude with an
+                        averment that he has no knowledge of any such infirmity or defect.</note>
+                    <seg type="handwritten">That she is an excellent house servant and of good and
+                        easy disposition perfectly healthy and free from all mental and bodily
+                        defects or infirmities. That your petitioner has been offered and has
+                        refused eleven hundred dollars for the said <persName>Ann Maria
+                            Adams</persName>
+                    </seg>
+                </p>
+
+                <p>Your petitioner hereby declares that <seg type="handwritten">he</seg> bears true
+                    and faithful allegiance to the Government of the United States, and that <seg
+                        type="handwritten">he</seg> has not borne arms against the United States in
+                    the present rebellion, nor in any way given aid or comfort thereto.</p>
+
+                <p>And your petitioner further states and alleges, that <seg type="handwritten"
+                        >he</seg> has not brought said <seg type="handwritten">
+                        <persName>Ann Maria Adams</persName>
+                    </seg> into the District of Columbia since the passage of said act of Congress;
+                    and that, at the time of the passage thereof, said <seg type="handwritten">
+                        <persName>Ann Maria Adams</persName>
+                    </seg> was held to service or labor therein under and by virtue of your
+                    petitioner's claim to such service or labor.</p>
+
+                <p>Your petitioner further states and alleges, that <seg type="handwritten"
+                        >his</seg> said claim to the service or labor of said <seg
+                        type="handwritten">
+                        <persName>Ann Maria Adams</persName>
+                    </seg> does not originate in or by virtue of any transfer heretofore made by any
+                    person who has in any manner aided or sustained the present rebellion against
+                    the Government of the United States.</p>
+
+                <p>And your petitioner prays the said Commissioners to investigate and determine the
+                    validity of <seg type="handwritten">his</seg> said claim to the service or labor
+                    of said <seg type="handwritten">Ann Maria Adams</seg> herein above set forth;
+                    and if the same be found to be valid, that they appraise and apportion the value
+                    of said claim in money, and report the same to the Secretary of the Treasury of
+                    the United States, in conformity to the provisions of said act of Congress.</p>
+
+                <closer> (Signed by) <signed>
+                        <seg type="handwritten">
+                            <persName>Nicholas Acker</persName>
+                        </seg>
+                    </signed>
+                </closer>
+            </div1>
+
+
+            <pb xml:id="leaf002r" facs="cww.00370.003.jpg"/>
+            <div1 type="statement" subtype="handwritten">
+                <ab>
+                    <choice>
+                        <sic>Collar</sic>
+                        <corr>Colored</corr>
+                    </choice> girl, <lb/>Bill of Sale <date when="1858">1858</date>
+                </ab>
+                <ab>In the matter of the petition of <persName>Nicholas Acker</persName>&#8212;for
+                    Compensation for a slave woman named <persName>Ann Maria Adams</persName>
+                </ab>
+                <ab>Petitioners Exhibit A.</ab>
+            </div1>
+
+            <pb xml:id="leaf003r" facs="cww.00370.004.jpg"/>
+
+            <div1 type="statement" subtype="handwritten">
+                <p>
+                    <placeName>Montgomery County, Md.</placeName>
+                    <date when="1858-10-15">October, 15, 1858</date>.</p>
+                <p>By virtue of an order from the Orphan's Court of this county, to sell sufficient
+                    of the personal estate of <persName>William Burford</persName> to pay the debts
+                    of the same I, as one of the Administrators upon said property hereby agree to
+                    sell the negro girl <persName>Ann Maria Adams</persName>, (aged about 13 years,
+                    and appraised at Six Hundred Dollars) to Mr. <persName>Nicholas Acker</persName>
+                    upon the following terms, viz&#8212;Two Hundred and Fifty Dollars cash, and Two
+                    Hundred Dollars payable in eight months, and Two Hundred Dollars payable in ten
+                    months from date with interest, making in all the sum of Six Hundred and Fifty
+                    Dollars, that sum being fifty dollars more than said negro girl's appraised
+                    value.</p>
+                <closer>
+                    <signed>
+                        <persName>J. E. Thompson</persName><lb/> Administrator of <persName>Wm.
+                            Buford</persName> deceased.</signed>
+                </closer>
+            </div1>
+
+            <div1 type="statement" subtype="handwritten">
+                <p>
+                    <placeName>Montgomery County</placeName>
+                    <placeName>Md.</placeName>
+                    <date when="1858-10-15">October, 15, 1858</date>.</p>
+                <p>Received in <placeName>Montgomery County</placeName>
+                    <placeName>Maryland</placeName>, from <persName>Nicholas Acker</persName> Two
+                    Hundred Dollars cash and his two notes for Four Hundred Dollars viz., one note
+                    for Two Hundred Dollars payable in eight months and one note for Two Hundred
+                    Dollars payable in ten months, both with interest from date. Said cash and notes
+                    being in full of the purchase money of negro girl Ann Maria Adams belonging to
+                    the personal estate of <persName>Wm. Burford</persName> deceased and sold by
+                    order of the Orphan's <choice>
+                        <sic>County</sic>
+                        <corr>Court</corr>
+                    </choice> of said County, to pay the debts of said Estate.</p>
+                <closer>
+                    <signed>
+                        <persName>J. E. Thompson</persName>, Administrator <persName>William
+                            Burford</persName> deceased</signed>
+                </closer>
+            </div1>
+
+            <pb xml:id="leaf004r" facs="cww.00370.005.jpg"/>
+
+            <div1 type="oath" subtype="mixed">
+                <head type="main">[<hi rend="italic">Form of the Oath for the Verification of the
+                        Petition.</hi>]</head>
+
+                <dateline>
+                    <placeName>District of Columbia</placeName>,
+                    <lb/>
+                    <hi rend="italic"><placeName>Washington County</placeName>, ss.</hi>
+                </dateline>
+
+                <div2 type="section">
+                    <p>I, <seg type="handwritten">
+                            <persName>Nicholas Acker</persName>
+                        </seg> being duly sworn, do depose and say, that all the several matters and
+                        things which are set forth and stated in the foregoing petition, as of my
+                        own knowledge, are true in substance and in fact; and that all the several
+                        other matters and things therein set forth and stated, as from the
+                        information of others, I believe to be true in substance and in fact.</p>
+                    <closer> (Signed by) <signed>
+                            <seg type="handwritten">
+                                <persName>Nicholas Acker</persName>
+                            </seg>
+                        </signed>
+                    </closer>
+                </div2>
+
+                <div2 type="section">
+                    <p>Sworn to and subscribed before me this <date when="1862-05-22">
+                            <seg type="handwritten">22</seg> day of <seg type="handwritten"
+                                >May</seg> A.D. 1862</date>.</p>
+                    <closer> (Signed by) <signed>
+                            <seg type="handwritten">
+                                <persName>F. I. Murphey</persName><lb/> Justice of the Peace in and
+                                for the <placeName>County of Washington</placeName> in the
+                                    <placeName>District of Columbia</placeName>
+                            </seg>
+                        </signed>
+                    </closer>
+                </div2>
+            </div1>
+
+            <div1 type="cover" subtype="handwritten">
+                <note type="editorial">The following note, about the filing of the petition, has
+                    been imaged twice in the National Archives microfilm, but the note occurs in
+                    only one place in the petition: written horizontally on the final page, the Oath
+                    for the Verification.</note>
+                <ab>370</ab>
+                <ab><persName>Nicholas Acker</persName></ab>
+                <ab>Filed <date when="1862-05-22">May 22, 1862</date></ab>
+                <ab>Petition of <persName>Nicholas Acker</persName>&#8212;</ab>
+                <ab>1. slave, named <persName>Ann Maria Adams</persName>.</ab>
+                <ab>Witnesses <lb/>
+                    <persName>Wm. H. Thompson</persName>, <address><addrLine>7th Street Island&#8212;</addrLine></address><lb/>
+                    <persName>John E. Thompson</persName>
+                    <address><addrLine>corner of 2d street west &#38; E. street
+                    North&#8212;</addrLine></address></ab>
+
+            </div1>
+        </body>
+    </text>
+</TEI>

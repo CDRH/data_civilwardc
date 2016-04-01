@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e397">
+        <teiHeader>
+                <fileDesc>
+                        <titleStmt>
+                                <title level="m" type="main">Parker, Thomas W.</title>
+                                <title level="m" type="sub">a machine readable transcription</title>
+                                <principal>Susan C. Lawrence</principal>
+                                <principal>Kenneth M. Price</principal>
+                                <principal>Kenneth J. Winkle</principal>
+                        </titleStmt>
+                        <editionStmt>
+                                <edition><date>2011</date></edition>
+                        </editionStmt>
+                        <publicationStmt>
+                                <idno>med.d1e397</idno>
+                                <authority>Civil War Washington</authority>
+                                <publisher>University of Nebraska–Lincoln</publisher>
+                                <distributor><name>Center for Digital Research in the
+                                                Humanities</name><address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address></distributor>
+                                <date>2011</date>
+                                <availability>
+                                        <p>Copyright © 2011 by University of Nebraska–Lincoln, all
+                                                rights reserved. Redistribution or republication in
+                                                any medium, except as allowed under the Fair Use
+                                                provisions of U.S. copyright law, requires express
+                                                written consent from the editors and advance
+                                                notification of the publisher, the University of
+                                                Nebraska–Lincoln.</p>
+                                </availability>
+                        </publicationStmt>
+                        <notesStmt>
+                                <note type="project">The following are responsible for particular
+                                        readings or for changes to this file, as noted: 
+                                        <persName xml:id="mb">Matthew Bosley</persName>
+                                        <persName xml:id="el">Elizabeth Lorang</persName>
+                                        <persName xml:id="sb">Stacey Berry</persName>
+                                        <persName xml:id="et">Elisabeth Tracey</persName>
+                                </note>
+                        </notesStmt>
+                        <sourceDesc>
+                                <bibl><title level="j">The Medical and Surgical History of the War
+                                                of the Rebellion</title><pubPlace>Washington,
+                                                DC</pubPlace><publisher>Government Printing
+                                                Office</publisher><biblScope type="part">Part
+                                                3</biblScope><biblScope type="volume">Volume
+                                                1</biblScope><date when="1888">1888</date><biblScope
+                                                type="page">131</biblScope></bibl>
+                        </sourceDesc>
+                </fileDesc>
+                <encodingDesc>
+                        <classDecl>
+                                <taxonomy xml:id="medsurg">
+                                        <bibl>Medical and Surgical History of the War of the
+                                                Rebellion</bibl>
+                                </taxonomy>
+                        </classDecl>
+                </encodingDesc>
+                <profileDesc>
+                        <textClass>
+                                <keywords scheme="#medsurg">
+                                        <term>pathology of malarial disease</term>
+                                        <term>post-mortem records</term>
+                                </keywords>
+                        </textClass>
+                </profileDesc>
+                <revisionDesc>
+                        <change who="#mb" when="2011-10-20">additional proofing of transcription and
+                                encoding</change>
+                        <change who="#mb" when="2011-05-25">additional proofing of transcription and
+                                encoding</change>
+                        <change who="#el" when="2011-05-11">case text extracted and transformed from
+                                larger file</change>
+                        <change who="#sb" when="2011-02-23">Encoding and Proofing</change>
+                        <change who="#et" when="2009-12-01">Initial Checking OCR Text to PDF file,
+                        </change>
+                </revisionDesc>
+        </teiHeader>
+        <text>
+                <body xml:id="ch3.sc4.0053">
+
+                        <p><hi rend="initialcap">C</hi>ASE 53.&#8212;<name type="person" key="847"
+                                        >Private Thomas W. Parker</name>, <name type="organization"
+                                        key="738">Co. F, 3d Md. Cav.</name>, was admitted from <name
+                                        type="place">Prince street prison</name>
+                                <date type="admit" when="1864-10-10">October 10, 1864</date>. The
+                                patient stated that he had suffered for some time from regular
+                                paroxysms of ague. His condition on admission indicated great
+                                nervous depression. Quinine and whiskey were prescribed, and the
+                                bowels moved by compound cathartic pills. Six days later the fever
+                                assumed a typhoid type, but this was speedily followed by an
+                                improvement, the tongue becoming moist and clean, the pulse 85 and
+                                the skin natural. On <date type="death" when="1864-10-21">the
+                                        21st</date>, after having been unusually comfortable and
+                                even lively during the morning, he complained in the afternoon of
+                                dyspn&#339;a, for which counter-irritants were applied, and as there
+                                was some cough, an expectorant mixture was given. At 5 P. M., after
+                                eating a good meal of bread and milk, he was suddenly seized with
+                                intense dyspn&#339;a; in the course of half an hour convulsions set
+                                in, and he died shortly after. Stimulants, friction of the
+                                extremities, etc., were tried without effect. <hi rend="italic"
+                                        >Post-mortem</hi> examination eighteen hours after death:
+                                Both lungs were much congested throughout, with the exception of a
+                                small portion of the anterior border of each; they contained no
+                                tubercles, nor was any other lesion observed in them. Nothing
+                                abnormal could be detected in the stomach or intestines. The liver
+                                was healthy. The other organs were not examined.&#8212;<hi
+                                        rend="italic"><name type="hospital" key="189">Third Division
+                                                Hospital</name>, <name type="place">Alexandria,
+                                                Va.</name></hi></p>
+                </body>
+        </text>
+</TEI>

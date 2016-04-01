@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d2e13558">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Pool, John</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+    <idno>med.d2e13558</idno>
+    <authority>Civil War Washington</authority>
+    <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor><name>Center for Digital Research in the
+     Humanities</name><address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address></distributor>
+    <date>2011</date>
+    <availability>
+     <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+      republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+      law, requires express written consent from the editors and advance notification of the
+      publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+ <persName xml:id="kw">Kenneth Winkle</persName> 
+     <persName xml:id="mb">Matthew Bosley</persName>
+     <persName xml:id="el">Elizabeth Lorang</persName>
+     <persName xml:id="sb">Stacey Berry</persName>
+     <persName xml:id="et">Elisabeth Tracey</persName>
+     <persName xml:id="ss">Sarah Synovec</persName>
+     <persName xml:id="kk">Kourtney Klein</persName>
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title level="j">The Medical and Surgical History of the War of the Rebellion.
+      (1861-65.)</title><pubPlace>Washington, DC</pubPlace><publisher>Government Printing
+      Office</publisher><biblScope type="part">Part 3</biblScope><biblScope type="volume">Volume
+      2</biblScope><date when="1883">1883</date><biblScope type="page">306-307</biblScope></bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+     <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <keywords scheme="#medsurg">
+     <term>wounds and injuries of the lower extremities</term> 
+     <term>injuries of the shaft of the femur</term>
+     <term>amputations in the shaft of the femur</term> 
+     <term>secondary amputations in the shaft of the femur for shot injury</term>
+     <term>secondary amputations in the upper third of the shaft of the femur</term> 
+     <term>fatal cases of secondary amputations in the upper third of the thigh</term> 
+     <term>bullet entered lateral and external part of thigh near junction of middle and upper thirds, fractured femur at its middle</term>
+     <term>missile split into two pieces by contact with bone, escaped through separate openings in popliteal space</term>
+     <term>broken extremities of bone necrosed</term>
+     <term>femur sawn off below trochanter minor</term>
+     <term>burrowing pus among muscles of thigh</term>     
+     <term>discharge of pus from wound of operation in back of thigh</term>
+     <term>general anesthesia, ether</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+ <change who="#kw" when="2014-05">blessed</change>
+   <change who="#kk" when="2014-01-31">added figure encoding</change>
+   <change who="#mb" when="2012-05-21">additional proofing of transcription and encoding, identified keyword terms</change>
+   <change who="#el" when="2011-05-11">case text extracted and transformed from larger file</change>
+   <change who="#sb" when="2011-06-04">Enrich Encoding, Edit and validate</change>
+   <change who="#sb" when="2011-01-28">Validated File</change>
+   <change who="#ss" when="2008-09-21">initial checking of OCR text; encoded P5 Encoding</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   
+    <p><hi rend="initialcap">C</hi>ASE 479.&#8212;<name type="person" key="1099">Private John
+      Pool</name>, <name type="organization" key="449">Co. H, 119th Pennsylvania</name>, aged 23
+     years, was wounded by a conoidal ball, at <name type="BATTLE" key="262">Rappahannock Station</name>, <date type="injury" when="1863-11-07">November 7, 1863</date>. He
+     was admitted into the <name type="hospital" key="175">Stanton Hospital</name>, Washington,
+      <date type="admit" when="1863-11-09">November 9th</date>. <name type="person" key="70">Surgeon
+       John A. Lidell</name>,&#179; <name type="organization" key="132">U. S. V.</name>, furnished the following history, with the
+     specimen (No. 2229, Sect I), to the <name type="hospital" key="431">Army Medical Museum</name>:
+     "The bullet had entered the lateral and external part of the left thigh near the junction of
+     the middle and upper thirds, and passing downward, inward, and somewhat forward, had fractured
+     the femur at its middle. The missile appears to have been split, by contact with the bone, into
+     two pieces, which made their escape through separate openings in the popliteal space. When
+     admitted the knee was much swollen and hot; the patella floated some distance above the femoral
+     condyles. He did not complain of pain, and his general condition was favorable. The wounded
+     limb was propped up with long sand bags placed on either side of it, and moderate extension was
+     applied by a weight hanging over the foot of the bed and attached to the foot and leg by strips
+     of adhesive plaster. Counter extension was effected by elevating the foot of the bed. He was
+     put upon supporting diet, and simple dressings applied. The inflammation and swelling at the
+     knee gradually subsided, and, on December 1st, had entirely disappeared, the wounds in the
+     popliteal space closed; the wound of entrance, however, was still open and discharging.  On the
+     20th, there was a slight h&#230;morrhage of arterial blood from the wound of entrance, which
+     was readily checked.  On the 28th, the limb was placed in Hodgen's splint to facilitate the
+     outflow of pus.  January 8, 1864, the wound in the popliteal space reopened and the wounds, both
+     of entrance and exit, discharged freely.  <date type="operation" when="1864-01-24">24th</date>, pulse 110; he was daily becoming more feeble. On exploring the wound through the orifice of exit with N&#233;laton's probe detached fragments were
+     found at the seat of fracture. The patient was etherized, and through an incision about four
+     inches long, made in the back part of the thigh, six detached fragments of considerable size,
+     the largest about two inches long by three-fourths of an inch wide, were extracted. The superior and inferior part of the fractured femur were found to be held in proper position by
+     strong splints of provisional callus, which had been thrown out on the inner and outer sides of
+     the bone. The finger could be readily passed between the broken extremities of the bone, both
+     ends of which were necrosed but not yet detached.  On the 25th, the thigh had swelled a good
+     deal and was emphysematous, but, on the 28th, the emphysema had disappeared and the swelling
+     was subsiding; the limb was again placed in Hodgen's splint.  On the 31st, he was improving in
+     every respect.  On February 14th, he was doing finely; no night sweats; slept well; appetite
+     good; pulse 80; discharge of pus moderate.  <date type="operation" when="1864-02-24">24th</date>, two fragments of bone were extracted. March
+     1st, a diffuse inflammation, accompanied with redness and much swelling, attacked the thigh and
+     spread rapidly through the limb; there was also great constitutional disturbance. After a time
+     this inflammation subsided in a great measure but left him much weakened.  About April 1st,
+     another attack of diffuse inflammation brought him still lower.  <date type="operation" when="1864-04-18">18th</date>, the whole limb was
+     greatly swollen from the groin to the toes; a small slough on the instep separated; the knee
+     joint was extended with effusion, the patella floating some distance above the femoral
+     condyles. There was a profuse discharge of thin pus from the wound of operation in the back
+     part of the thigh. He was much emaciated, pale, and weak; pulse frequent and feeble; tongue red
+     and inclined to be dry; appetite capricious and poor, and he was subject to frequent attacks of
+     diarrh&#339;a. He was steadily failing, and, there being no hope of saving his life
+     without amputation, he was placed under the influence of sulphuric ether, digital compression
+     applied to the femoral artery, and the thigh amputated in the upper third, by the double flap
+     method, by <name type="person" key="70">Surgeon J. A. Lidell</name>, <name type="organization"
+      key="132">U. S. V.</name>  The femur was sawn off about one and a half inches below the
+     trochanter minor. The soft parts of the thigh were so much diseased as not to admit the
+     performance of the operation at any point below. But little blood was lost during the
+     operation. There was a good deal of shock, but he reacted promptly afterward. In a short time
+     the stump became sloughy; he gradually failed, and died of exhaustion <date type="death"
+      when="1864-04-26">April 26, 1864</date>. On examining the amputated member, extensive
+     burrowing of pus was found among the muscles of the thigh, and numerous small pieces of the
+     bullet and fragments of bone sticking into the soft part around the seat of fracture. The ends
+     of the broken femur were not in apposition, but separated from each other by the space which
+     had formerly been occupied by the fragments of bone extracted by operation. Pretty firm union
+     had, however, taken place by means of a bridge of new bone which arched over the chasm in
+     front. On splitting the femur open lengthwise with a saw the marrow presented a coppery-red
+     color, and there were abundant, deposits of new reddish colored osseous tissue both within the
+     medullary canal, endostosis, and, external to the bone, periostosis, for a considerable
+     distance above the fracture. In the marrow below the fracture there was a large-sized
+     chocolate-colored spot, the result, apparently, of an old extravasation of blood. The substance
+     of the marrow was decidedly tougher than normal. There was a considerable deposit of new
+     osseous tissue lying between the periosteum and the bone. The periosteum itself was thicker and
+     redder than natural in that locality, and from it these lamin&#230; of new osseous tissue had been
+     developed. The knee joint was swelled out with a straw-colored jelly-like substance; the
+     synovial fringes were reddened, but the articular cartilage presented no abnormity." A drawing
+     of the specimen, No. 2229, by <name type="person" key="878">Hospital Stewart E. Stauch</name>, is copied in <hi rend="initialcap">P</hi>LATE <hi rend="initialcap">LXVI</hi>, opposite p. 306.</p>
+   <p>&#179; <hi rend="initialcap">L</hi>IDELL (<hi rend="initialcap">J. A.</hi>), <hi rend="italic">On Secondary Traumatic Lesions of Bone, viz: Osteo-myelitis, Periostitis, Ostitis, Caries, and Necrosis</hi>, in <hi rend="italic">U. S. Sanitary
+   Commission Memoirs</hi>, 1870, Surgical Volume I, p. 414.</p>
+   
+   <figure>
+    <graphic url="cww.001820.001" />
+    <head>PLATE  LXVI __ SHOT  FRACTURE  OF  THE  MIDDLE  THIRD  OF  THE  FEMUR.    <name type="person" key="1099">Private John Pool</name>, <name type="organization" key="449">Co. H, 119th Pennsylvania</name>.    Specimen, 2229,  A. M. M.</head> 
+   </figure>
+   
+  </body>
+ </text>
+</TEI>

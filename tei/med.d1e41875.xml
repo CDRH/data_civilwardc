@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e41875">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Stearnes, George W.</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+    <idno>med.d1e41875</idno>
+    <authority>Civil War Washington</authority>
+    <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor>
+     <name>Center for Digital Research in the Humanities</name>
+     <address><addrLine>319 Love Library</addrLine>
+       <addrLine>University of Nebraska–Lincoln</addrLine>
+       <addrLine>Lincoln, NE 68588-4100</addrLine>
+       <addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+    </distributor>
+    <date>2011</date>
+    <availability>
+     <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+      republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+      law, requires express written consent from the editors and advance notification of the
+      publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+ <persName xml:id="kw">Kenneth Winkle</persName> <persName xml:id="ajh">AJ Howell</persName>
+     <persName xml:id="mb">Matthew Bosley</persName>
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl>
+     <title level="j">The Medical and Surgical History of the War of the Rebellion.
+      (1861-65.)</title>
+     <pubPlace>Washington, DC</pubPlace>
+     <publisher>Government Printing Office</publisher>
+     <biblScope type="part">Part 2</biblScope>
+     <biblScope type="volume">Volume 1</biblScope>
+     <date when="1879">1879</date>
+     <biblScope type="page">300-301</biblScope>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+     <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <keywords scheme="#medsurg">
+     <term>diarrh&#339;a and dysentery</term>
+     <term>remarks on the pathology and treatment of diarrh&#339;a and dysentery</term>
+     <term>acute diarrh&#339;a</term>
+     <term>post mortem appearances in acute diarrh&#339;a</term>
+     <term>morbid anatomy</term>
+     <term>lesions observed in the small intestine</term>
+     <term>autopsy performed</term>
+     <term>chronic diarrh&#339;a</term>
+     <term>lobular pneumonia in lower lobes of both lungs</term>
+     <term>evidence of bronchitis</term>
+     <term>small intestine inflammation increased toward the ileo-c&#230;cal valve, agminated glands
+      thickened and dark-red with inflammation, solitary glands enlarged</term>
+     <term>large intestine streaked and spotted with ash-color and dark-red, also spots of
+      ecchymosis</term>
+     <term>valvuli conniventes and hypertrophy of the villi in ileum</term>
+     <term>in ileum solitary follicles enlarged and projected above surface of mucous
+      membrane</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+ <change who="#kw" when="2014-05">blessed</change>
+   <change who="#ajh" when="2013-08-21">added figure encoding</change>
+   <change who="#mb" when="2013-01-28">copied case from MSHWR, added proofing of transcription and
+    encoding, identified keyword terms and figures</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>A case of diarrh&#339;a of nearly two months duration:</p>
+   <p><hi rend="initialcap">C</hi>ASE 880.&#8212;<name type="person" key="xxx">Corporal George W.
+     Stearnes</name>, <name type="organization" key="xxx">company I, 9th New Hampshire
+     volunteers</name>, was mustered into service <date type="enlist" when="1862-08-15">August 15,
+     1862</date>, to serve three years. There is no record of the time at which he was first taken
+    sick; but he appears on the register of the general field hospital of the 9th Corps, near <name
+     type="place">Harper's Ferry, Virginia</name>, as under treatment for diarrh&#339;a <date
+     type="admit" when="1862-11-05">November 5th</date>; sent to <name type="place"
+     key="#Alexandria">Alexandria</name>
+    <date type="transfer" when="1862-11-12">November 12th</date>. He is borne on the register of the
+    convalescent hospital at Fort Ellsworth, near <name type="place" key="#Alexandria">Alexandria,
+     Virginia</name>, admitted <date type="admit" when="1862-11-16">November 16th</date>, general
+    debility; no disposition recorded. The register of <name type="hospital" key="214">Fairfax
+     Seminary Hospital</name>, near Alexandria, Virginia, shows that he was admitted to that
+    hospital <date type="admit" when="1862-12-08">December 8th</date>&#8212;chronic
+    diarrh&#339;a&#8212;transferred to Philadelphia, <date type="transfer" when="1862-12-15"
+     >December 15th</date>. He is borne on the register of the <name type="hospital" key="xxx"
+     >Satterlee hospital, West Philadelphia</name>, admitted <date type="admit" when="1862-12-16"
+     >December 16th</date>&#8212;chronic diarrh&#339;a. December 23d, papers were made out for his
+    discharge from service by reason of &#34;great debility and emaciation, the result of chronic
+    diarrh&#339;a, which is still unchecked.&#34; Pending the approval of these papers by the proper
+    authority, he died, <date type="death" when="1862-12-24">December 24th</date>, at 5 A. M. From
+    the circumstance that his discharge papers were made out the day before his death it is to be
+    presumed the fatal issue was unexpected. The autopsy was made <date type="autopsy"
+     when="1862-12-24">during the afternoon of the same day</date> by <name type="person" key="xxx"
+     >Professor Joseph Leidy</name>, of the <name type="organization" key="xxx">University of
+     Pennsylvania</name>, who forwarded the following statement to the <name type="organization"
+     key="xxx">Surgeon General's Office</name> with the specimens: <hi rend="italic">Autopsy:</hi>
+    Age about 30. The body was rather emaciated. The chest and abdomen presented a number of faint
+    spots of purpura. The brain was healthy. There were no pleuritic attachments, nor was there any
+    pleurisy on either side. Lobular pneumonia was observed in the lower lobes of both lungs; the
+    inflamed lobules were numerous&#8212;varied from the size of a marble to that of a
+    walnut&#8212;and were in the stage of gray hepatization. Evidences of bronchitis were also
+    observed. The heart was healthy. The stomach was exceedingly contracted. The liver was
+    apparently sound; the gall-bladder enormously distended with green bile; the spleen small but
+    healthy; the pancreas and kidneys sound. The intestines were inflamed throughout; in the small
+    intestine the inflammation increased in intensity toward the ileo-c&#230;cal valve; the
+    agminated glands were slightly thickened and dark-red with inflammation; the solitary glands
+    were enlarged, and looked like yellow mustard seeds sprinkled on a red ground. The large
+    intestine was streaked and spotted with ash-color and dark-red on a nearly uniform red ground;
+    there were also spots of ecchymosis, and the epithelium was softened.</p>
+   <p>Nos. 93 to 98, Medical Section, <name type="hospital" key="431">Army Medical Museum</name>,
+    are from this case. The specimens are six successive portions of the ileum. In Nos. 93 and 94
+    there are well-marked valvuli conniventes, and some hypertrophy of the villi, giving a velvety
+    appearance to the surface. The solitary follicles are enlarged to the size of small pin-heads
+    and project above the surface of the mucous membrane. In No. 94 there is a small Peyer's patch,
+    which is a little more distinct than normal. In Nos. 95 to 98 there are no valvuli conniventes,
+    no hypertrophy of the villi is observable, and the intestinal walls are thinner than normal.
+    Each of these pieces presents a number of enlarged solitary follicles, which are most
+    conspicuous in No. 98. In both 97 and 98 there is a slightly-thickened Peyer's patch. No portion
+    of the large intestine was preserved.</p>
+   <p>The plate facing this page is a reproduction of a photograph of No. 98, which represents it of
+    the natural size. This piece was taken from near the ileo-c&#230;cal valve. Just above its
+    middle is a thickened Peyer's patch, which appears as a dark elliptical spot two inches long by
+    an inch in transverse diameter near its middle. This is crossed obliquely from above downwards
+    by a wrinkle in the mucous membrane, produced accidentally by the method of preparing the
+    specimen. The surface of the patch is not materially elevated above the surface of the
+    surrounding mucous membrane, yet it is thicker than normal, and, when examined by transmitted
+    light, appears more opaque than any of the other patches observed in this subject. The enlarged
+    solitary follicles are scattered over the rest of the mucous surface as little pimple-like
+    projecting tumors, which are largest and most numerous in the lower half of the piece; the
+    largest of them, however, do not exceed pin-heads in size. Owing to the tenuity of the mucous
+    membrane, the course of the circular fibres of the muscular coat is plainly indicated by
+    numerous transverse lines. For the same reason the arborescent branching of the blood-vessels is
+    also indicated in several places.</p>
+   <figure>
+    <graphic url="cww.001500.001"/>
+    <head><hi rend="initialcap">P</hi>LATE IV. ILEUM WITH ENLARGED SOLITARY FOLLICLES. No. 98.
+     MEDICAL SECTION.</head>
+   </figure>
+  </body>
+ </text>
+</TEI>

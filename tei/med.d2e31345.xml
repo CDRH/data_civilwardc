@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d2e31345">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">McBride, B.</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+       <idno>med.d2e31345</idno>
+       <authority>Civil War Washington</authority>
+       <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor>
+       <name>Center for Digital Research in the Humanities</name>
+       <address><addrLine>319 Love Library</addrLine>
+       <addrLine>University of Nebraska–Lincoln</addrLine>
+       <addrLine>Lincoln, NE 68588-4100</addrLine>
+       <addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+    </distributor>
+    <date>2011</date>
+    <availability>
+        <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+         republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+         law, requires express written consent from the editors and advance notification of the
+         publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+ <persName xml:id="kw">Kenneth Winkle</persName> 
+     <persName xml:id="mb">Matthew Bosley</persName>
+     <persName xml:id="hf">Heather Furrow</persName>
+     <persName xml:id="kk">Kourtney Klein</persName>
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl>
+     <title level="j">The Medical and Surgical History of the War of the Rebellion. (1861-65.)</title>
+     <pubPlace>Washington, DC</pubPlace>
+     <publisher>Government Printing Office</publisher>
+     <biblScope type="part">Part 2</biblScope>
+     <biblScope type="volume">Volume 2</biblScope>
+     <date when="1876">1876</date>
+     <biblScope type="page">862</biblScope>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+       <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+      <keywords scheme="#medsurg">
+       <term>wounds and injuries of the upper extremities</term>
+       <term>wounds and injuries of the elbow joint</term> 
+       <term>shot wounds of the elbow joint</term>
+       <term>excisions at the elbow joint for shot injury</term> 
+       <term>primary excisions at the elbow</term>
+       <term>fatal cases after primary excision at the elbow</term>
+       <term>wound of elbow joint, fractures of bones</term> 
+       <term>comminuted fracture of elbow joint</term>
+       <term>py&#230;mia with chills and icterus</term>
+       <term>articular surfaces carious, periosteal inflammation, osteophytic depositions</term>       
+       <term>operation limited to extraction of fragments of outer condyle and of head of radius</term>          
+     </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+ <change who="#kw" when="2014-05">blessed</change>
+   <change who="#kk" when="2014-01-17">added figure encoding</change>
+   <change who="#mb" when="2012-07-18">additional proofing of transcription and encoding, identified keyword terms</change>
+   <change who="#hf" when="2011-02-23">checked OCR; added minimal mark-up for personal names, place names, and dates</change> 
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>   
+   <p><hi rend="initialcap">C</hi>ASE 1792.&#8212;<name type="person" key="xxx">Sergeant B. McBride</name>,<name type="organization" key="xxx"> Co. H, 88th New York</name>, aged 25 years, was wounded at <name type="BATTLE" key="12">the Wilderness</name>, <date type="injury" when="1864-05-05">May 5, 1864</date>, and admitted to the field hospital of the 1st division, Second Corps. <name type="person" key="xxx">Surgeon J. E. Pomfret</name>, <name type="organization" key="xxx">7th New York Artillery</name>, recorded: &quot;Wound of right elbow joint; fracture of bones. Resection by <name type="person" key="xxx">Surgeon P. E. Hubon</name>, <name type="organization" key="xxx">28th Massachusetts</name>.&quot;  <name type="person" key="200">Assistant Surgeon W. Thomson</name>, <name type="organization" key="190">U. S. A.</name>, contributed the specimen (<hi rend="initialcap">F</hi>IG. 615), and reported the result of the case as follows: &quot;The patient was admitted to <name type="hospital" key="162">Douglas Hospital</name>, Washington, on <date type="transfer" when="1864-05-11">May 11th</date>, with comminuted fracture of the elbow joint, produced by a conoidal ball.  He died on <date type="death" when="1864-06-13">June 13, 1864</date>, of py&#230;mia, having had chills, profuse perspiration, and icterus for several days previous.  At the autopsy fourteen ounces of dirty-yellow serum was removed from the pleural cavities, and numerous py&#230;mic patches were found
+    in the posterior portion of both lungs. The liver and spleen were both softened, but contained no yellow patches.&quot; The specimen consists of the bones of the right elbow, from which the outer condyle and the head of
+    the radius are missing. The articular surfaces are carious. (<hi rend="italic">Cat. Surg. Sect.</hi>, 1866, p. 150.)  Evidences of periosteal inflammation with thin osteophytic depositions extend along the parts of each of the bones contiguous to the fracture.
+    The operation must have been limited to the extraction of the fragments of the outer condyle and of the head of the radius.</p> 
+   
+   <figure>
+    <graphic url="cww.001736.001" />
+    <head><hi rend="initialcap">F</hi>IG. 615.&#8212;Shot perforation of right elbow.    <hi rend="italic">Spec</hi>. 3556.    &#8539;</head>
+   </figure> 
+   
+  </body>
+ </text>
+</TEI>

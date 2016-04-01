@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="cww.02512">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Churches in Washington, Alexandria, and Georgetown</title>
+                <title level="m" type="sub">a machine readable transcription</title>
+                <editor role="co-editor">R. J. Weir</editor>
+                <principal>Susan C. Lawrence</principal>
+                <principal>Elizabeth Lorang</principal>
+                <principal>Kenneth M. Price</principal>
+                <principal>Kenneth J. Winkle</principal>
+                <respStmt>
+                    <resp>transcription and encoding</resp>
+                    <persName xml:id="ak">Alex Kinnaman</persName>
+                    <persName xml:id="el">Elizabeth Lorang</persName>
+                    <persName xml:id="bw">Becca Weir</persName>
+                    <persName xml:id="kk">Kourtney Klein</persName>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2015</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <idno>cww.02512</idno>
+                <distributor>Civil War Washington</distributor>
+                <publisher>University of Nebraska Lincoln</publisher>
+                <address>
+                    <addrLine>Center for Digital Research in the Humanities</addrLine>
+                    <addrLine>319 Love Library</addrLine>
+                    <addrLine>University of Nebraska-Lincoln</addrLine>
+                    <addrLine>P.O. Box 884100</addrLine>
+                    <addrLine>Lincoln, NE 68588-4100</addrLine>
+                </address>
+                <address>
+                    <addrLine>
+                        <email>cdrh@unl.edu</email>
+                    </addrLine>
+                </address>
+                <date>2015</date>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+                        <p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License (http://creativecommons.org/licenses/by-nc-sa/3.0/). Derivatives must be credited to Civil War Washington and R. J. Weir, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct xml:id="letter">
+                    <analytic>
+                        <author ref="#rh">R. H.</author>
+                        <title level="a">Churches in Washington, Alexandria, and Georgetown</title>
+                    </analytic>
+                    <monogr>
+                        <title xml:id="paper" level="j">The Anglo-African</title>
+                        <imprint>
+                            <date xml:id="issue_date" when="1863-10-17">17 October 1863</date>                    
+                        </imprint>
+                        <biblScope type="pp">[2]</biblScope>                    
+                    </monogr>           
+                </biblStruct>
+                
+                <biblStruct xml:id="issue">               
+                    <monogr>
+                        <title level="j" sameAs="#paper"/>
+                        <imprint>
+                            <date sameAs="#issue_date"/>                  
+                        </imprint>              
+                    </monogr>                   
+                </biblStruct>                        
+            </sourceDesc>       
+        </fileDesc>
+        <encodingDesc> 
+            <p>This electronic text is a semi-diplomatic transcription of the source text. Hyphenation, punctuation, variant spellings, and errors present in the source text have been retained. The transcription does not attempt to capture all aspects of the original formatting or layout.</p>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <persName xml:id="rh">Hamilton, Robert</persName>
+                <persName xml:id="th">Hamilton, Thomas</persName>
+                <date when="1863">1863</date>
+            </creation>
+            <langUsage>
+                <language ident="en-US">modern American English</language>
+            </langUsage>
+            <textClass>
+                <classCode scheme="http://authorities.loc.gov">
+                    <term xml:id="sh85001817">African American churches</term>
+                    <term xml:id="sh85001867">African American Methodists</term>
+                    <term xml:id="sh2004002512">African American schools</term>
+                    <term xml:id="sh2009114063">African Americans--Washington (D.C.)</term>
+                    <term xml:id="no94014581">Augusta, Alexander T., 1825-</term>
+                    <term xml:id="n81141734">Fifteenth Street Presbyterian Church (Washington, D.C.)</term>
+                    <term xml:id="n2003100285">First Baptist Church (Georgetown, Washington, D.C.)</term>
+                    <term xml:id="n50015173">Garnet, Henry Highland, 1815-1882</term>
+                    <term xml:id="n83166323">Georgetown (Washington, D.C.)</term>
+                    <term xml:id="n96046091">Metropolitan A.M.E. Church (Washington, D.C.)</term>
+                    <term xml:id="n88653671">Tanner, Benj. T. (Benjamin Tucker), 1835-1923</term>
+                    <term xml:id="n50017339">Turner, Henry McNeal, 1834-1915</term>
+                    <term xml:id="n96039168">Union Bethel Church (Washington, D.C.)</term>
+                    <term xml:id="n83130650">Wilberforce University</term>
+                </classCode>
+                <classCode scheme="http://civilwardc.org">
+                    <term>Alexander, Sandy, 1818-?</term>
+                    <term>Clinton, Joseph Jackson, 1823-1881</term>
+                    <term>Hamilton, Robert, 1819-1870</term>
+                    <term>Powell, William P., 1834-1915</term>
+                    <term>Slade, William, 1815-?</term>
+                </classCode>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when="2015-04-07" who="#ak">corrected</change>
+            <change when="2015-03-31" who="#el">checked and corrected transcription and encoding; updated TEI header, including keywords</change>
+            <change when="2015-03-30" who="#ak">added keywords</change>
+            <change when="2015-02-23" who="#ak">checked, updated xml:id</change>
+            <change when="2014-11-10" who="#ak">corrected transcription and encoding</change>
+            <change when="2014-04-14" who="#el">checked encoding; revised TEI header</change>
+            <change when="2014-04-28" who="#kk">transcribed, encoded</change>
+        </revisionDesc>
+    </teiHeader>
+    
+    <facsimile corresp="#issue">
+        <surface xml:id="pp1">
+                <graphic url="aa.18631017.pp1.jpg"/>
+        </surface>
+        <surface xml:id="pp2">
+            <graphic url="aa.18631017.pp2.jpg"/>
+            <zone xml:id="pp2_cropped" corresp="#letter">
+                <graphic url="aa.18631017.pp2_cropped.jpg"/>
+            </zone>
+        </surface>
+        <surface xml:id="pp3">
+            <graphic url="aa.18631017.pp3.jpg"/>
+        </surface>
+        <surface xml:id="pp4">
+            <graphic url="aa.18631017.pp4.jpg"/>
+        </surface>
+    </facsimile>
+    
+    <text corresp="#letter #pp2_cropped">
+        
+        <body>
+            <head type="main" subtype="authorial" rend="center"><emph rend="italic">CHURCHES IN WASHINGTON, <choice><orig>ALEX-<lb/>ANDRIA</orig><reg>ALEXANDRIA</reg></choice>, AND GEORGETOWN.</emph></head>
+           
+            <milestone unit="undeclared" rend="short-bar"/>
+            
+            <opener><salute rend="italic"><emph>Editorial Correspondence:</emph></salute></opener>
+            
+            <div>
+                <p>As we intend to visit all the colored churches <lb/>in the above-named cities; we will speak only <lb/>of those that we have visited, reserving a more <lb/>particular description of the others to the time <lb/>when we shall be permitted to hold our <choice><orig>meet-<lb/>ings</orig><reg>meetings</reg></choice> in them.</p>
+            
+            <p>Sunday morning, September 20, we find <choice><orig>our-<lb/>self</orig><reg>ourself</reg></choice> in the city of Georgetown.  The streets of <lb/>this city are quite narrow, and the spirit of <choice><orig>im-<lb/>provement</orig><reg>improvement</reg></choice> having not yet taken hold of the <lb/>people, the houses have a woe-begone <choice><orig>appear-<lb/>ance</orig><reg>appearance</reg></choice>, and say to you in language <choice><orig>unmistaka-<lb/>ble</orig><reg>unmistakable</reg></choice>, <emph rend="italic">"Slavery once reigned here."</emph>  It is said <lb/>that there is a great deal of secessionism in <lb/>this city.  We predict that is will not last <lb/>long.  The vast increase of population, and <lb/>consequently of trade and commerce, which <lb/>will soon concentrate in this region, will soon <lb/>convince all its inhabitants that LIBERTY IS BEST <lb/>FOR ALL.</p>
+            
+            <p>Having spent a few moments at the house of <lb/>Mr. and Mrs. Dove, whom we found to be an <lb/>interesting couple, the latter having a school <lb/>in which she teaches about forty scholars, we <lb/>in company with Mr. Dove, paid a visit to</p>
+            </div>
+            
+           <div> 
+               <head type="main" subtype="authorial" rend="center">EBENEZER BETHEL CHURCH.</head>
+            
+            <p>The Pastor Rev. B. T. Tanner was in the <lb/>pulpit and had gotten well into his sermon.  A <lb/>very few moments attention fully convinced us <lb/>that he had sought to become a workman whose <lb/>labors the Great Master would own and bless.</p>
+               
+                <p>The congregation was not large, but very <lb/>attentive.  There is one fact which we noticed <lb/>in regard to all the churches which we have <lb/>visited, and that is, that the people do not turn <lb/>on their seats to stare at those who may be <lb/>coming in the church.  In addition to his <choice><orig>minis-<lb/>terial</orig><reg>ministerial</reg></choice> labors,  Mr. T. also keeps a day and <lb/>evening school; both of which are largely <choice><orig>at-<lb/>tended</orig><reg>attended</reg></choice>.</p>
+            
+            <p>We learned that there is another church in <lb/>that city which is attached to the Methodist <lb/>Episcopal Church North (White), but we have <lb/>not yet had an opportunity to visit it.  Its <choice><orig>pas-<lb/>tor</orig><reg>pastor</reg></choice> we learn is a white gentleman, which we <lb/>believe is the case with all the colored churches <lb/>attached to that body, in this vicinity; and <lb/>they are quite numerous.</p>
+            
+            <p>The fact that so many colored people are <lb/>connected with the white Methodist churches <lb/>may appear very strange to some people, <choice><orig>par-<lb/>ticularly</orig><reg>particularly</reg></choice> those dwelling in the North; but it <lb/>can be easily accounted for, and will prove in <lb/>the end to be one of the ways by which an <choice><orig>All-<lb/>wise</orig><reg>All-wise</reg></choice> Providence designs to spread liberty and <lb/>pure Christianity throughout the land. Our <lb/>own churches of all denominations have up to <lb/>this time preserved by their act a pure <choice><orig>testi-<lb/>mony</orig><reg>testimony</reg></choice> that God is no respecter of persons, <lb/>which has not been the case with the whites, <lb/>but we believe the day is rapidly approaching <lb/>when all of the churches in this country will <lb/>be united&#8212;when there will be no complexional <lb/>prejudices to separate the children of God, but <lb/>all will be one in Christ. As far as the <choice><orig>Metho-<lb/>dist</orig><reg>Methodist</reg></choice> churches are concerned, we believe that <lb/>members of these colored churches now under <lb/>the M. E. Church will have the opportunity of <lb/>doing immense good. The colored Methodist <lb/>churches are pushing their way up the hill <lb/>whereon stand the temple of success. Her <lb/>ministry are becoming learned. Every year <lb/>her conferences, bishops and superintendents, <lb/>raise still higher the standard of intelligence; <lb/>and already one branch (the A. M. E. Bethel) <lb/>has established a college (the Wilberforce) <lb/>where her young men are to be taught, prior <lb/>to entering on the work of the Christian <choice><orig>min-<lb/>istry</orig><reg>ministry</reg></choice>. The colored Methodists are becoming <lb/>more united as intelligence advances. This <lb/>union will make them a power only to be <choice><orig>treat-<lb/>ed</orig><reg>treated</reg></choice> with by the white Methodists on equal <lb/>terms, and when that hour arrives, then will <lb/>be the time for some giant intellect to step <lb/>forth from the ranks of these colored members <lb/>of the Methodist Episcopal&#8212;extending a hand <lb/>to each party, and thus uniting them in the <lb/>bonds of Christian fellowship and love. This <lb/>would be a picture well worthy a place in the <lb/>gallery of humanity and Christianity. There <lb/>is a small</p>
+           </div>
+            
+            <div>
+                <head type="main" subtype="authorial" rend="center">BAPTIST CHURCH IN GEORGETOWN,</head>
+            
+            <p>Of which the Rev. S. Alexander is Pastor, <lb/>whose acquaintance we made, but we did not <lb/>have time to visit his church.</p> 
+                
+                <p>In the afternoon we paid a visit to the</p>
+            </div> 
+            
+            <div>
+                <head type="main" subtype="authorial" rend="center">FIFTEENTH STREET PRESBYTERIAN CHURCH.</head>
+                
+                <p>This house has been so often described <lb/>in our columns that we know that any <choice><orig>descrip-<lb/>tion</orig><reg>description</reg></choice> by us would be quite superfluous.</p>
+            
+            <p>Our kind friend Mr. <choice><abbr>Wm.</abbr><expan>William</expan></choice> Slade gave us a <lb/>seat in his pew, and at our side sat Dr. W. P. <lb/>Powell, Jr., Assistant Surgeon U. S. Colored <lb/>Troops, dressed in the insignia of his office. <lb/>The pulpit stands upon a large platform and is <lb/>a small movable desk. This plan gives the <lb/>minister plenty of room to move in.  When the <lb/>church is used for concerts or public meetings <lb/>the desk can be taken away.</p>
+            
+            <p>The Rev. Mr. Evans, a white gentleman, who <lb/>is now the minister of the church, preached an <lb/>elegant, earnest, and practical discourse, which <lb/>riveted the attention of the whole <choice><orig>congrega-<lb/>tion</orig><reg>congregation</reg></choice>; and we afterward heard it spoken of by <lb/>old members of the church, as the best sermon <lb/>he had ever preached. It certainly was an <lb/>able spiritual discourse.  The choir, which is <lb/>not numerous, but very effective, sang some <lb/>very beautiful tunes, which being new to us <lb/>were a great treat.  Mr. Grant, the leader, <lb/>may congratulate himself on the ability of his <lb/>assistants.  The contralto singer (we regret <lb/>that we do not know her name), has no equal <lb/>as a singer among the colored ladies of New <lb/>York.  The congregation is not very large, <lb/>owing, we learn, to a difference of opinion in <lb/>regard to the minister, many of them staying <lb/>away because he is a white man.  A division <lb/>in this church is very greatly to be regretted, <lb/>on account of the standing in community of <lb/>many of its members.  They are among the <lb/>first people of the city, and have the power of <lb/>doing an immense amount of good, provided <lb/>they had a man at the helm upon whom all <lb/>could rely; but that all do <emph rend="italic">not</emph> rely upon the <lb/>present minster was made painfully evident to <lb/>us by the gentleman himself; for after calling <lb/>the congregation "dear hearers," he was <choice><orig>al-<lb/>most</orig><reg>almost</reg></choice> obliged to affirm it&#8212;nay, did affirm it a <lb/>second time, to make them believe he was <lb/>speaking the sentiments of his heart.  Now <lb/>this was very bad, and was well calculated to <lb/>defeat the object which he had in view; <choice><orig>name-<lb/>ly</orig><reg>namely</reg></choice>, the securing of the confidence of his <choice><orig>hear-<lb/>ers</orig><reg>hearers</reg></choice>.  A portion of the church appears to want <lb/>the Rev. Mr. Garnet, and we must say that, <lb/>with what knowledge we have of the people of <lb/>the church, if a unanimous call was extended <lb/>to him by that body, we know of no place <lb/>where he could do more good than he could <lb/>there.  It is a commanding position for a man <lb/>of piety and talents, and he would be <choice><orig>sur-<lb/>rounded</orig><reg>surrounded</reg></choice> by an intelligent and public-spirited <lb/>people, who would joyfully assist him in every <lb/>good work.</p>
+            </div> 
+            
+           <div> 
+               <head type="main" subtype="authorial" rend="center">ISRAEL CHURCH</head>
+            
+            <p>In the evening, in company with Mr. Slade <lb/>and lady, and Dr. Augusta, we paid a visit to <lb/>this church, which is situated within 400 feet <lb/>of the capitol.  To see the church in a <choice><orig>favora-<lb/>ble</orig><reg>favorable</reg></choice> light a person must be blindfolded while <lb/>passing the capitol, and the bandages only <lb/>taken from his eyes after he has got inside the <lb/>building.</p>
+            
+            <p>The church inside has a spacious, airy <choice><orig>ap-<lb/>pearance</orig><reg>appearance</reg></choice>, and will, we think, seat about one <lb/>thousand persons.  It is very wide, but there <lb/>are no supporting columns for the roof, which <lb/>is quite low, but the sides are kept from <lb/>spreading by iron rods, which stretch from <lb/>side to side of the house.  It has a singer's <lb/>gallery only.</p>
+            
+            <p>On our arrival the house was densely <choice><orig>crowd-<lb/>ed</orig><reg>crowded</reg></choice> by a brilliant audience but we were very <lb/>kindly provided with seats.</p>
+            
+            <p>The pastor of the church, the Rev. H. M. <lb/>Turner was in the pulpit, and was preaching <lb/>such a discourse as we little expected to hear, <lb/>but we have no space left to speak of it or <lb/>him, but shall reserve what we have to say <lb/>until the time when we speak of <emph rend="italic">the men</emph> "the <lb/>unnamed demi-gods" of Washington.</p>
+            
+            <p>The singing here, as everywhere else in this <lb/>city, was very good.  Mr. J. N. F. Wilkinson <lb/>is the leader and the choir is quite numerous. <lb/>We shall have more to say of this church <choice><orig>here-<lb/>after</orig><reg>hereafter</reg></choice>.</p>
+            
+            <p>In our next we will endeavor to give a list <lb/>of the churches, schools, societies, lodges, <lb/>teachers, preachers, within a radius of ten <lb/>miles of the capitol and we will venture the <lb/>assertion that it will utterly astonish not only <lb/>persons elswhere, but our friends in this <choice><orig>dis-<lb/>trict</orig><reg>district</reg></choice> also.</p>
+           </div>
+            
+            <div>
+                <head type="main" subtype="authorial" rend="center">RT. REV. J. J. CLINTON.</head>
+            
+            <p>This distinguished gentleman who has been <lb/>in this city for a few days; has taken his <choice><orig>de-<lb/>parture</orig><reg>departure</reg></choice> for Baltimore and the North.  He goes <lb/>to occupy his place as superintendent of the <lb/>Eastern District of the A. M. E. Zion Connection <lb/>in the place of the Rev. Mr. Ross, who has <choice><orig>re-<lb/>tired</orig><reg>retired</reg></choice> from the position of superintendent, <choice><orig>al-<lb/>though</orig><reg>although</reg></choice> we believe he has not left the church.</p>
+                
+                <p>We had the pleasure on Sabbath last, at <lb/>Union Bethel Church, of hearing the Rev. Mr. <lb/>Rhodes of Wilmington, Delaware.  Mr. R. has <lb/>a very pleasing countenance and is a good <lb/>speaker.</p>
+            </div>
+            
+            <closer>
+                <signed rend="right">R. H.</signed>
+                <dateline>Washington, D. C., Oct. 5, 1863.</dateline>
+            </closer>
+        </body>
+    </text>
+    
+</TEI>
+

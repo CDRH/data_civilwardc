@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d2e7451">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Kagrice, J.</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+    <idno>med.d2e7451</idno>
+    <authority>Civil War Washington</authority>
+    <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor><name>Center for Digital Research in the
+     Humanities</name><address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address></distributor>
+    <date>2011</date>
+    <availability>
+     <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+      republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+      law, requires express written consent from the editors and advance notification of the
+      publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+ <persName xml:id="kmp">Kenneth M. Price</persName> 
+     <persName xml:id="ajh">AJ Howell</persName>
+     <persName xml:id="mb">Matthew Bosley</persName>
+     <persName xml:id="el">Elizabeth Lorang</persName>
+     <persName xml:id="sb">Stacey Berry</persName>
+     <persName xml:id="et">Elisabeth Tracey</persName>
+     <persName xml:id="ss">Sarah Synovec</persName>
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title level="j">The Medical and Surgical History of the War of the Rebellion.
+      (1861-65.)</title><pubPlace>Washington, DC</pubPlace><publisher>Government Printing
+      Office</publisher><biblScope type="part">Part 3</biblScope><biblScope type="volume">Volume
+      2</biblScope><date when="1883">1883</date><biblScope type="page">171</biblScope></bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+     <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <keywords scheme="#medsurg">
+     <term>wounds and injuries of the lower extremities</term>
+     <term>injuries of the shaft of the femur</term>
+     <term>shot contusions of the shaft of the femur</term>
+     <term>gangrenous osteomyelitis of femur</term>
+     <term>py&#230;mic abscesses</term>
+     <term>gunshot contusion of femur at middle third</term>
+     <term>ball struck femur at middle third, contused bone without fracturing</term>
+     <term>ball lodged above acetabulum</term>
+     <term>hip joint uninjured</term>
+     <term>autopsy performed</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+ <change who="#kmp" when="2014-05">blessed</change>
+   <change who="#ajh" when="2013-08-22">added figure encoding</change>
+   <change who="#mb" when="2012-02-29">additional proofing of transcription and encoding, identified
+    keyword terms</change>
+   <change who="#el" when="2011-05-11">case text extracted and transformed from larger file</change>
+   <change who="#sb" when="2011-06-04">Enrich Encoding, Edit and validate</change>
+   <change who="#sb" when="2011-01-28">Validated File</change>
+   <change who="#ss" when="2008-09-22">Sarah Synovec initial checking of OCR text; encoded P5
+    Encoding</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+
+   <p>
+    <hi rend="initialcap">C</hi>ASE 341.&#8212;<name type="person" key="988">Private J.
+     Kagrice</name>, <name type="organization" key="403">Co. F, 198th Pennsylvania</name>, aged 30
+    years, was wounded during the engagement at <name type="BATTLE" key="37">White Oak Road</name>,
+     <date type="injury" when="1865-03-31">March 31, 1865</date>. <name type="person" key="xx"
+     >Surgeon W. R. DeWitt</name>, <name type="organization" key="132">U. S. V.</name>, recorded his
+    admission to the field hospital of the 1st division, Fifth Corps, with &#34;shot wound of left
+    thigh,&#34; and his transfer to <name type="place">City Point</name> on <date type="transfer"
+     when="1865-04-01">the following day</date>. Several days afterwards the wounded man was
+    transferred to <name type="hospital" key="162">Douglas Hospital</name>, Washington, whence <name
+     type="person" key="201">Assistant Surgeon W. F. Norris</name>, <name type="organization"
+     key="190">U. S. A.</name>, contributed the specimen (<hi rend="italic">Cat. Surg. Sect.</hi>,
+    1866, p. 258, <hi rend="italic">Spec</hi>. 4201), with the following history: &#34;The injury
+    was a severe gunshot contusion of the left femur at its middle third. The patient was in good
+    health and spirits at the time of his admission and doing well. The wound was carefully
+    examined, but the ball could not be traced. On <date type="operation" when="1865-04-23">April
+     23d</date>, a large abscess was opened on the anterior aspect of the thigh near the trochanter.
+    On <date type="operation" when="1865-04-29">the 29th</date>, another similar incision was
+    required in order to give free exit to pus. The patient, however, continued pretty well until
+     <date type="injury" when="1865-05-05">May 5th</date>, when he had a chill. This recurred on May
+    7th and 8th, and on the 9th, 12th, 13th, and 14th, he had two chills a day. The thigh became
+    painful, the discharge thin and fetid. On May 16th, the patient became delirious, had another
+    chill, and his tongue became swollen and inflamed. He died on <date type="death"
+     when="1865-05-17">the following day</date>. At the <hi rend="italic">autopsy</hi> no pleurisy
+    or effusion was found in either thoracic cavity. The lungs, liver, spleen, kidneys, and brain
+    were carefully examined for py&#230;mic abscesses, but appeared healthy. On examining the femur
+    it was found that the ball had struck it at its middle third, contused the bone without
+    fracturing, and, being deflected from its course, had lodged in the hollow above the acetabulum.
+    The hip joint was healthy and uninjured. A longitudinal section was made of the femur, which
+    exhibited well marked gangrenous osteomyelitis,&#185; the medulla being of a dirty greenish
+    color, dry, pulverulent, and excessively fetid. The interspaces between the cancelli contained a
+    dark greenish liquid, a quantity of which escaped in sawing the bone, and was also extremely
+    offensive. The bone where the missile had struck had become necrosed and nearly separated, and
+    around this partial exfoliation a ring of new bone had formed.&#34; A portion of the injured
+    femur is illustrated in the adjacent wood-cut (<hi rend="initialcap">F</hi>IG. 128). </p>
+
+   <p> &#185; Dr. <hi rend="initialcap">J</hi>. <hi rend="initialcap">A</hi>. <hi rend="initialcap"
+     >L</hi>IDELL in his excellent paper on <hi rend="italic">Contusion and Contused Wounds of Bone,
+     with an Account of Thirteen Cases</hi>, in <hi rend="italic">Am. Jour. Med. Sci.</hi>, 1865,
+    Vol. L, p. 17, gives the following as the principal pathological effects of contusions of bone:
+    1. Ecchymosis of the osseous tissue; 2. Ecchymosis of the medullary tissue; 3. Osteomyelitis of
+    a simple character; 4. Necrotic osteitis; 5. Suppurative osteomyelitis; and 6. Gangrenous
+    osteomyelitis. </p>
+
+   <figure><graphic url="cww.001557.001"/><head>
+    <hi rend="initialcap">F</hi>IG. 128.&#8212;Shot contusion of left femur. <hi rend="italic"
+     >Spec</hi>. 4201.</head></figure>
+
+
+  </body>
+ </text>
+</TEI>

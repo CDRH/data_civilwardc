@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e40857">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Winter, John S.</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+       <idno>med.d1e40857</idno>
+       <authority>Civil War Washington</authority>
+       <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor>
+       <name>Center for Digital Research in the Humanities</name>
+       <address><addrLine>319 Love Library</addrLine>
+       <addrLine>University of Nebraska–Lincoln</addrLine>
+       <addrLine>Lincoln, NE 68588-4100</addrLine>
+       <addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+    </distributor>
+    <date>2011</date>
+    <availability>
+        <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+         republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+         law, requires express written consent from the editors and advance notification of the
+         publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+     <persName xml:id="mb">Matthew Bosley</persName>
+     <persName xml:id="el">Elizabeth Lorang</persName>
+     <persName xml:id="sb">Stacey Berry</persName>
+     <persName xml:id="ao">Alyssa Olson</persName>
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl>
+     <title level="j">The Medical and Surgical History of the War of the Rebellion. (1861-65.)</title>
+     <pubPlace>Washington, DC</pubPlace>
+     <publisher>Government Printing Office</publisher>
+     <biblScope type="part">Part 2</biblScope>
+     <biblScope type="volume">Volume 1</biblScope>
+     <date when="1879">1879</date>
+     <biblScope type="page">148</biblScope>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+       <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+      <keywords scheme="#medsurg">
+       <term>diarrh&#339;a and dysentery</term>
+       <term>fatal cases of diarrh&#339;a and dysentery, with accounts of the morbid appearances observed</term>
+       <term>from the Harewood Hospital, Washington, D. C.</term>
+       <term>chronic diarrh&#339;a</term>
+       <term>lower ileum congested in patches, Peyer's patches not affected</term>
+       <term>large intestine congested and showed minute ulcers</term>           
+       <term>autopsy performed</term>       
+     </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change who="#mb" when="2012-10-19">additional proofing of transcription and encoding, identified keyword terms</change>
+   <change who="#el" when="2010-11-05">case text extracted and transformed from larger file</change>
+   <change who="#sb" when="2010-05-01">enrich encoding, proof and edit</change>
+   <change who="#ao" when="2008-10-02">encoding and editing</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body> 
+   <p>Case from the case-book and medical descriptive lists of the <name type="hospital" key="173"><hi rend="initialcap">H</hi>AREWOOD <hi rend="initialcap">H</hi>OSPITAL</name>, Washington, D. C., <name type="person" key="158">Surgeon Reed B. Bontecou</name>, <name type="organization" key="132">U. S. V.</name>, in charge:</p>
+   <p><hi rend="initialcap">C</hi>ASE 295.&#8212;<name type="person" key="193">Private John S. Winter</name>, <name type="organization" key="221">company K, 111th New York volunteers</name>; admitted <date type="admit" when="1864-02-01">February 1, 1864</date>, from the <name type="organization" key="377">army of the Potomac</name>.  Chronic diarrh&#339;a.  [It appears from the register of the regimental hospital of the 111th New York volunteers, then the <name type="organization" key="377">army of the Potomac</name> in <name type="place">Virginia</name>, that this man was treated in that hospital for chronic diarrh&#339;a from <date type="admit" when="1863-12-04">December 4, 1863</date>, to <date type="transfer" when="1864-02-01">February 1, 1864</date>.]  Died, <date type="death" when="1864-02-04">February 4th</date>.  <hi rend="italic">Autopsy:</hi> The body was considerably emaciated. The thoracic viscera were normal. The stomach was healthy. The lower ileum was congested in patches, but Peyer's patches were not affected. The large intestine was intensely congested and showed minute ulcers throughout. The liver weighed eighty-six ounces; the gall-bladder was very much distended with bile. The spleen was normal. The kidneys large, friable, and well covered with fat.&#8212;<name type="person" key="184">Acting Assistant Surgeon Lloyd Dorsey</name>.</p>
+  </body>
+ </text>
+</TEI>

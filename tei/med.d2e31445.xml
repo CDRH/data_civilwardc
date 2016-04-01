@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d2e31445">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Murtagh, J.</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+       <idno>med.d2e31445</idno>
+       <authority>Civil War Washington</authority>
+       <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor>
+       <name>Center for Digital Research in the Humanities</name>
+       <address><addrLine>319 Love Library</addrLine>
+       <addrLine>University of Nebraska–Lincoln</addrLine>
+       <addrLine>Lincoln, NE 68588-4100</addrLine>
+       <addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+    </distributor>
+    <date>2011</date>
+    <availability>
+        <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+         republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+         law, requires express written consent from the editors and advance notification of the
+         publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+ <persName xml:id="kw">Kenneth Winkle</persName> 
+     <persName xml:id="mb">Matthew Bosley</persName>
+     <persName xml:id="cd-mg">Corey Day and Martine Gouw</persName> 
+     <persName xml:id="kk">Kourtney Klein</persName>
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl>
+     <title level="j">The Medical and Surgical History of the War of the Rebellion. (1861-65.)</title>
+     <pubPlace>Washington, DC</pubPlace>
+     <publisher>Government Printing Office</publisher>
+     <biblScope type="part">Part 2</biblScope>
+     <biblScope type="volume">Volume 2</biblScope>
+     <date when="1876">1876</date>
+     <biblScope type="page">847</biblScope>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+       <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+      <keywords scheme="#medsurg">
+       <term>wounds and injuries of the upper extremities</term>
+       <term>wounds and injuries of the elbow joint</term>
+       <term>shot wounds of the elbow joint</term>
+       <term>excisions at the elbow joint for shot injury</term>
+       <term>primary excisions at the elbow</term>
+       <term>recoveries after primary excisions at the elbow</term> 
+       <term>ball took effect in arm</term>
+       <term>ball entered above external condyle, emerged below internal condyle, caused compound comminuted fracture of humerus</term>
+       <term>operation of resection, from above elbow to below, both condyles removed and bone taken off</term> 
+       <term>wrist and fingers not affected</term>
+       <term>arm useless, no motion except passive at elbow joint</term>
+       <term>supplied with apparatus</term>
+       <term>arm shortened one and a half inches</term>
+       <term>gunshot wound of elbow, followed by excision</term>
+       <term>disability equal to loss of limb for all purposes of manual labor</term>
+       <term>disability total, third grade, and permanent</term>        
+     </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+ <change who="#kw" when="2014-05">blessed</change>
+   <change who="#kk" when="2014-01-17">added figure encoding</change>
+   <change who="#mb" when="2012-07-26">additional proofing of transcription and encoding, identified keyword terms</change>
+   <change who="#cd-mg" when="2011-02-20">checked OCR; added minimal mark-up for personal names, place names, and dates</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>   
+   <p><hi rend="initialcap">C</hi>ASE 1777.&#8212;<name type="person" key="xxx">Private J. Murtagh</name>, <name type="organization" key="xxx">Co. B, 69th New York</name>, aged 30 years, was wounded at <name type="BATTLE" key="4">Fredericksburg</name>, <date type="injury" when="1862-12-13">December 13, 1862</date>.  <name type="person" key="123">Surgeon D. W. Bliss</name>, <name type="organization" key="132">U. S. V.</name>, reported the following history and contributed the specimen (<hi rend="initialcap">F</hi>IG. 599): &#34;The patient is a native of <name type="place">Ireland</name>, of sanguine temperament, robust figure, strong constitution, has always enjoyed good health, and has been in the service four months. He was wounded at 1 P. M., while in the act of firing, the ball taking effect in the right arm.  He laid on the field until dark, and then walked more than a mile, into <name type="place">Fredericksburg</name>, where he remained until <date type="transfer" when="1862-12-14">the next morning</date>.  He was carried in an ambulance wagon to <name type="place" key="#Alexandria">Alexandria</name>, where his arm was bandaged and he was placed on board of a transport for <name type="place" key="#Washington">Washington</name>.  <date type="admit" when="1862-12-14">December 14th</date>, he was admitted to the <name type="hospital" key="171">Armory Square Hospital</name> in the night, and no examination was attempted.  <date type="operation" when="1862-12-15">December 15th</date>, the general condition of the patient is good. Examination showed that the ball entered a little above the external condyle and emerged a little below the internal, causing a compound comminuted fracture of the humerus. The operation of resection was decided upon, and performed at 2 P. M.  An S incision was made, commencing two inches above the elbow and extending the same distance below. The bone was found most terribly shattered. Both the condyles were removed, and the bone, as far as denuded of periosteum, taken off with the chain saw. In all, about three inches of the lower end of the humerus was removed, and numerous spicul&#230; of bone were taken out. The ulna and radius were uninjured, as were also the attachments of the extensors and flexors of the arm. The incision was closed by sutures, the wound where the ball made its exit being deemed a sufficient opening for the discharge of the pus which may be formed.  December 16th, the patient has stood the operation well and appears comfortable.&#34;  On <date type="transfer" when="1863-05-12">May 12th</date>, the patient was transferred to De Camp Hospital, <name type="place">David's Island, New York Harbor</name>, whence <name type="person" key="xxx">Acting Assistant Surgeon J. W. Dickie</name> reported the following result in the case: &#34;The wound was healed when admitted. There is a space of about one inch between the bones of the upper and lower arms. The motion of the wrist and fingers is not affected. With this exception the arm is useless, as there is no motion, except passive, of the elbow joint. The tissues around the joint are tender.&#34;  On <date type="duty" when="1863-06-25">June 25th</date>, the patient was transferred to the <name type="organization" key="109">Veteran Reserve Corps</name> at <name type="place">Fort Schuyler</name>, and on <date type="servicedischarge" when="1864-04-29">April 29, 1864</date>, he was discharged from service and pensioned.  In <date type="pension" when="1865-09">September, 1865</date>, the pensioner was supplied with an apparatus by <name type="person" key="xxx">Dr. E. D. Hudson</name>, of <name type="place">New York City</name>, who described the injured arm as being &#34;shortened one and a half inches.&#34;  <name type="person" key="xxx">Examiner B. A. Watson</name>, of <name type="place">Jersey City</name>, <date type="pension" when="1873-12-11">December 11, 1873</date>, certified: &#34;Gunshot wound of right elbow, followed by excision. The arm hangs powerless at his side. This disability is equal to the loss of a limb for all purposes of manual labor, is total, third grade, and permanent.&#34;  This pensioner was paid <date type="pension" when="1875-06-04">June 4, 1875</date>.</p> 
+   
+   <figure>
+    <graphic url="cww.001750.001" />
+    <head><hi rend="initialcap">F</hi>IG. 599.&#8212;Lower extremity of right humerus excised for shot injury.    <hi rend="italic">Spec</hi>. 2224.    &#8531;</head>
+   </figure>
+   
+  </body>
+ </text>
+</TEI>

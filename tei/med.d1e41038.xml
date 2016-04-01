@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e41038">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Giles, Jacob</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+    <idno>med.d1e41038</idno>
+       <authority>Civil War Washington</authority>
+       <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor>
+       <name>Center for Digital Research in the Humanities</name>
+       <address><addrLine>319 Love Library</addrLine>
+       <addrLine>University of Nebraska–Lincoln</addrLine>
+       <addrLine>Lincoln, NE 68588-4100</addrLine>
+       <addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+    </distributor>
+    <date>2011</date>
+    <availability>
+        <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+         republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+         law, requires express written consent from the editors and advance notification of the
+         publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+     <persName xml:id="mb">Matthew Bosley</persName>
+     <persName xml:id="el">Elizabeth Lorang</persName>
+     <persName xml:id="sb">Stacey Berry</persName>
+     <persName xml:id="ao">Alyssa Olson</persName>
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl>
+     <title level="j">The Medical and Surgical History of the War of the Rebellion. (1861-65.)</title>
+     <pubPlace>Washington, DC</pubPlace>
+     <publisher>Government Printing Office</publisher>
+     <biblScope type="part">Part 2</biblScope>
+     <biblScope type="volume">Volume 1</biblScope>
+     <date when="1879">1879</date>
+     <biblScope type="page">164-165</biblScope>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+       <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+      <keywords scheme="#medsurg">
+       <term>diarrh&#339;a and dysentery</term>
+       <term>fatal cases of diarrh&#339;a and dysentery, with accounts of the morbid appearances observed</term>
+       <term>from Lincoln Hospital, Washington, D. C.</term>
+       <term>chronic diarrh&#339;a for five months</term>
+       <term>piles at times</term>
+       <term>lobe of lung issued puruloid fluid on pressure</term>
+       <term>pericardium contained milky scrum</term>
+       <term>middle third of jejunum had distinct Peyer's patches and frosted with pseudomembrane</term>
+       <term>lower ileum dark slate-color, Peyer's patches had mammillated appearance</term>
+       <term>c&#230;cum and entire colon had granulated pseudomembranous frosting</term>
+       <term>false membrane removed in rectum and blackish ulcerated base found</term>
+       <term>ulcers in rectum extended to muscular coat</term>       
+       <term>mesenteric glands large and soft</term>
+       <term>autopsy performed</term>       
+     </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change who="#mb" when="2012-11-06">additional proofing of transcription and encoding, identified keyword terms</change>
+   <change who="#el" when="2010-11-05">case text extracted and transformed from larger file</change>
+   <change who="#sb" when="2010-05-01">enrich encoding, proof and edit</change>
+   <change who="#ao" when="2008-10-02">encoding and editing</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body> 
+   <p>Case from the case-book of <name type="hospital" key="176"><hi rend="initialcap">L</hi>INCOLN <hi rend="initialcap">H</hi>OSPITAL</name>, Washington, D. C.; <name type="person" key="241">Surgeon Henry Bryant</name>, <name type="organization" key="132">U. S. V.</name>, in charge to May, 1863.</p>
+   <p><hi rend="initialcap">C</hi>ASE 354.&#8212;<name type="person" key="xxx">Private Jacob Giles</name>, <name type="organization" key="xxx">company E, 14th United States infantry</name>; age 20; admitted <date type="admit" when="1862-12-30">December 30, 1862</date>.  Chronic diarrh&#339;a.  The first notes were taken January 6, 1863, when the patient had suffered from diarrh&#339;a for five months. He had bloody discharges and was troubled with piles at times. He was quite weak, thin, and pale, and had a dark-red tongue.  January 10th: There were but three passages during the last twenty-four hours, and they were more natural. The patient thinks himself better, but is very much emaciated.  February 2d: Still appears to improve. Croton oil mixed with tartar emetic has been freely applied to his abdomen for several days; the skin is very sore, but the pustules are imperfectly formed. He has about two painless passages daily. His appetite is returning. He complains at times of pain in the left shoulder and in the region of the spleen. Subsequently to this date the patient grew steadily feebler, though the stools seldom exceeded two daily. Croton oil was applied to his abdomen a number of times, but the skin seemed possessed of a singular resisting power.  He died <date type="death" when="1863-03-13">March 13th</date>.  It may be mentioned that during the first three weeks after admission the treatment of this case consisted in the administration of an emetic dose of ipecacuanha three times daily.  <hi rend="italic">Autopsy</hi> <date type="autopsy" when="1863-03-15">thirty-seven hours after death</date>: Height five feet five inches; rigor mortis slight; body very much emaciated. The brain weighed fifty-three ounces; it was darker colored than usual, very full of blood, and quite firm; the vessels of the pia mater were not remarkably full; the commissura mollis was absent. The right lung weighed sixteen ounces and a quarter, the left twenty and a quarter; the lower lobe of the left lung and the posterior portion of the upper lobe were in a state of congestion bordering on hepatization; portions of the lower lobe readily sank in water, and much puruloid fluid issued from the section on pressure. The bronchial tubes of these lobes were congested in transverse lines. The lower lobe of the right lung was hypostatically congested; the remaining lobes normal. The bronchial glands were of the usual size, and black internally. The heart was flabby; it weighed, unopened, seven ounces; there was no adipose tissue on its exterior, the right ventricle contained a thin fibrinous clot. The pericardium contained four drachms of milky scrum. The liver weighed thirty-nine ounces and a half; it was light reddish-brown, firm, its acini distinct; the gall-bladder contained fourteen drachms of light-yellow bile. The spleen weighed three ounces; was light-red, and firm; its trabecul&#230; were marked. There was a very small supplementary spleen. The pancreas was flesh-colored, firm, and weighed two ounces. The suprarenal capsules weighed together three-quarters of an ounce; the substance of the left was ash-colored, the right mottled dark-purple and white. The right kidney weighed five ounces and a quarter; the left five ounces and a half; they were light-colored and firm. The mucous membrane of the stomach was normal, with the exception of a large patch of irregular congestion near the pylorus. The duodenal glands were large. The upper third of the jejunum was normal; in the middle third Peyer's patches were distinct; the mucous membrane presented irregular patches of arborescent congestion, and was frosted with pseudomembrane; the same condition was observed in the ileum, which was more congested, and in its lower portion of a dark slate-color; Peyer's patches in the ileum had a mammillated appearance; the gut was very thin. In the c&#230;cum and ascending colon the mucous membrane was brownish-red, and the granulated pseudomembranous frosting continued; in the transverse colon the pseudomembrane occurred in larger patches, which, when scraped off, exposed a reddened and abraded surface; farther down the patches became still larger, and covered a great portion of the surface; in the rectum, when the false membrane was removed, a blackish ulcerated base was found; two inches above the anus were three ulcers, each about one-third of an inch in diameter, with sharply cut edges, which extended to the muscular coat. The mesenteric glands were large and soft.&#8212;<name type="person" key="244">Assistant Surgeon George M. McGill</name>, <name type="organization" key="190">U. S. A.</name></p>
+  </body>
+ </text>
+</TEI>

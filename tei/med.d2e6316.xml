@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d2e6316">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Lackey, Charles</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+    <idno>med.d2e6316</idno>
+    <authority>Civil War Washington</authority>
+    <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor><name>Center for Digital Research in the
+     Humanities</name><address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address></distributor>
+    <date>2011</date>
+    <availability>
+     <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+      republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+      law, requires express written consent from the editors and advance notification of the
+      publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+     <persName xml:id="mb">Matthew Bosley</persName>
+     <persName xml:id="el">Elizabeth Lorang</persName>
+     <persName xml:id="sb">Stacey Berry</persName>
+     <persName xml:id="et">Elisabeth Tracey</persName>
+     <persName xml:id="ss">Sarah Synovec</persName>
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title level="j">The Medical and Surgical History of the War of the Rebellion.
+      (1861-65.)</title><pubPlace>Washington, DC</pubPlace><publisher>Government Printing
+      Office</publisher><biblScope type="part">Part 3</biblScope><biblScope type="volume">Volume
+      2</biblScope><date when="1883">1883</date><biblScope type="page">141</biblScope></bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+     <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <keywords scheme="#medsurg">
+     <term>wounds and injuries of the lower extremities</term>                                                                 
+     <term>wounds and injuries of the hip joint</term>
+     <term>shot fractures at the hip joint</term>
+     <term>amputations at the hip joint</term>
+     <term>coxo-femoral amputations</term>
+     <term>intermediary amputations</term> 
+     <term>ball entered in front of upper thigh, lodged in muscles at posterior part of thigh</term> 
+     <term>comminuted fracture of femur through trochanters, extending downward half the length of shaft</term>
+     <term>sharp extremity of lower fragment of femur lacerated muscles</term> 
+     <term>suppuration with burrowing of pus throughout thigh</term>
+     <term>general anesthesia, ether</term>
+     <term>patient earnestly demanded operation</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change who="#mb" when="2012-02-23">additional proofing of transcription and encoding, identified keyword terms</change>
+   <change who="#el" when="2011-05-11">case text extracted and transformed from larger file</change>
+   <change who="#sb" when="2011-06-04">Enrich Encoding, Edit and validate</change>
+   <change who="#sb" when="2011-01-28">Validated File</change>
+   <change who="#ss" when="2008-09-22">Sarah Synovec initial checking of OCR text; encoded P5 Encoding</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   
+    <p><hi rend="initialcap">C</hi>ASE 307.&#8212;<name type="person" key="965">Private Charles Lackey</name>, <name type="organization" key="229">Co. E, 7th Wisconsin</name>, aged 30 years,
+     was struck, at <name type="BATTLE" key="3"><choice><orig>Spottsylvania</orig><reg>Spotsylvania</reg></choice></name>, <date type="injury" when="1864-05-12">May 12, 1864</date>, by a conoidal musket ball,
+     which entered in front at the upper part of the right thigh and produced a comminuted fracture of the femur through the trochanters, and extending downward nearly half the length of the shaft of the bone, and then lodged in the muscles at
+     the posterior part of the thigh. After a fatiguing journey to <name type="place">Belle Plain</name>, to which most of the wounded from <name type="BATTLE" key="3"><choice><orig>Spottsylvania</orig><reg>Spotsylvania</reg></choice></name> were unavoidably subjected, <name type="person" key="965">Lackey</name> was conveyed on a hospital steamer to <name type="place" key="#Washington">Washington</name>, and was received at <name type="hospital" key="428">Judiciary Square Hospital</name> on <date type="admit" when="1864-05-18">May 18th</date>. The wounded limb was much swollen. The sharp extremity of the lower fragment of the femur had lacerated the muscles, and there was profuse suppuration with burrowing of pus throughout the thigh. The fracture was believed to extend into the joint. The patient earnestly demanded that an operation should be performed for his relief. His condition was unpromising, for he was suffering from surgical fever of an intense character. A consultation of surgeons decided, however, that, without operative interference, the case would prove inevitably and speedily fatal; and as the extensive fracture of the shaft of the femur and the purulent infiltration of the thigh precluded excision, amputation at the hip joint was determined on. On <date type="operation" when="1864-05-21">May 21st</date> an&#230;sthesia was induced by sulphuric ether, and <name type="person" key="905">Assistant Surgeon Alexander Ingram</name>, <name type="organization" key="190">U. S. A.</name>, performed the operation by the antero-posterior flap method. After the operation the patient reacted but partially. After removal to the ward he was plied with beef-tea and stimulants and restoratives; but he continued to sink, and died on the following day, <date type="death"
+      when="1864-05-22">May 22, 1864</date>, twenty hours after the operation.&#178;</p>
+   
+   <p> &#178; The abstract of this case is compiled from register and Report of Surgical Operations of the <name type="hospital" key="428">Judiciary Square Hospital</name>, Washington. The case is noted at p. 50 of <hi rend="italic">Circular</hi> 6, S. G. O., 1865, as <hi rend="initialcap">C</hi>ASE 11. The age is correctly stated at &#34;19&#34; years, while in <hi rend="italic">Circular</hi> No. 7, S. G. O, 1867, pp. 37, 62, by a clerical inadvertence the age is given at &#34;30&#34; years. See also <hi rend="initialcap">L</hi>&#220;NING (<hi rend="initialcap">A</hi>.), <hi rend="italic">Ueber die Blutung bei der Exarticulation des Oberschenkels</hi>, Z&#252;rich, 1877, <hi rend="italic">Fall</hi> 328, S. 97. </p>
+   
+  </body>
+ </text>
+</TEI>

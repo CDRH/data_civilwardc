@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d2e18811">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Morrow, H. A.</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+       <idno>med.d2e18811</idno>
+       <authority>Civil War Washington</authority>
+       <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor>
+       <name>Center for Digital Research in the Humanities</name>
+       <address><addrLine>319 Love Library</addrLine>
+       <addrLine>University of Nebraska–Lincoln</addrLine>
+       <addrLine>Lincoln, NE 68588-4100</addrLine>
+       <addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+    </distributor>
+    <date>2011</date>
+    <availability>
+        <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+         republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+         law, requires express written consent from the editors and advance notification of the
+         publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+         <persName xml:id="mb">Matthew Bosley</persName>         
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl>
+        <title level="j">The Medical and Surgical History of the War of the Rebellion. (1861-65.)</title>
+        <pubPlace>Washington, DC</pubPlace>
+        <publisher>Government Printing Office</publisher>
+        <biblScope type="part">Part 3</biblScope>
+        <biblScope type="volume">Volume 2</biblScope>
+        <date when="1883">1883</date>
+        <biblScope type="page">453</biblScope>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+       <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+      <keywords scheme="#medsurg">
+       <term>wounds and injuries of the lower extremities</term> 
+       <term>wounds and operations in the leg</term>
+       <term>shot fractures of the bones of the leg</term>
+       <term>excisions in the continuity of the bones of the leg for shot injury</term> 
+       <term>intermediary excisions in the continuity of the bones of the leg</term> 
+       <term>recoveries after intermediary excisions in the continuity of the bones of the leg</term>
+       <term>shot fracture of upper third of fibula of leg</term> 
+       <term>resection of upper third of fibula</term> 
+       <term>recommissioned as officer after war</term>       
+       <term>general anesthesia, chloroform</term>
+     </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+       <change who="#mb" when="2012-06-06">additional case copied from MSHWR, performed proofing of copy and XML encoding, and key terms identified</change>  
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p><hi rend="initialcap">C</hi>ASE 712.&#8212;<name type="person" key="xxx">Colonel H. A. Morrow</name>, <name type="organization" key="xxx">24th Michigan</name>, aged 33 years, received a shot fracture of the upper third of the
+    fibula of the right leg, at <name type="BATTLE" key="12">the Wilderness</name>, <date type="injury" when="1864-05-06">May 6, 1864</date>.  <date type="admit" when="1864-05-11">Five days after being wounded</date> he entered the <name type="hospital" key="156">Seminary Hospital</name>, Georgetown, where his injured limb was operated upon by <name type="person" key="xxx">Surgeon H. W. Ducachet</name>, <name type="organization" key="132">U. S. V.</name>, who reported the following:
+    &#34;When admitted the patient had no appetite and was feverish, very nervous and irritable, complaining of every noise. The
+    wounded leg was very much swollen, painful, and discharging an unhealthy sanious pus. Resection of three inches of the upper
+    third of the fibula was performed on <date type="operation" when="1864-05-11">May 11th</date>, chloroform being used. The patient suffered intensely for twenty-four hours
+    after the operation, when he began to improve. There were no unfavorable symptoms afterwards. Simple dressings were
+    applied. The patient left the hospital on leave of absence <date type="furlough" when="1864-07-01">July 1, 1864</date>.&#34; Colonel Morrow subsequently returned to the field
+    and again held active commands. He was mustered out of the <name type="organization" key="132">Volunteer Service</name> after the close of the war in <date type="servicedischarge" when="1865">1865</date>, and recommissioned
+    in the <name type="organization" key="xxx">36th regiment of Infantry</name> of the <name type="organization" key="xxx">Regular Army</name> in <date type="enlist" when="1866">the following year</date>, since when he has been promoted to
+     Colonel of the <name type="organization" key="xxx">21st Infantry</name>.</p>   
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,379 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="cww.00186">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Petition of Samuel Fearson, 13 May 1862</title>
+                <title level="m" type="sub">a machine readable transcription</title>
+                <principal>Susan C. Lawrence</principal>
+                <principal>Kenneth M. Price</principal>
+                <principal>Kenneth J. Winkle</principal>
+                <respStmt>
+                    <resp>transcription and encoding</resp>
+                    <name xml:id="kp">Kenneth M. Price</name>
+                    <name xml:id="jc">Janel Cayer</name>
+                    <name xml:id="rr">Rhiannon Root</name>
+                    <name xml:id="rv">Robert Voss</name>
+                    <name xml:id="cg">Courtney Geerhart</name>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2013</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <idno>cww.00186</idno>
+                <distributor>Civil War Washington</distributor>
+                <publisher>University of Nebraska–Lincoln</publisher>
+                <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>P.O. Box 884100</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+            </address>
+                <date>2013</date>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+                        <p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike
+                            3.0 Unported License
+                            (http://creativecommons.org/licenses/by-nc-sa/3.0/). Derivatives must be
+                            credited to Civil War Washington, made available non-commercially, and
+                            distributed under the same terms. Requests for permission for commercial
+                            publication or other use should be emailed to the project team.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Petition of Samuel Fearson, 13 May 1862</title>
+                    <date when="1862-05-13">May 13, 1862</date>
+                    <idno>Microcopy 520, Reel 2</idno>
+                    <orgName>National Archives and Records Administration</orgName>
+                    <relatedItem type="original">
+                        <bibl>
+                            <title>Petition of Samuel Fearson, 13 May 1862</title>
+                            <date when="1862-05-13">May 13, 1862</date>
+                            <idno>Record Group 217.6.5</idno>
+                            <orgName>Records of the Accounting Officers of the Department of the
+                                Treasury, 1775–1978, National Archives and Records
+                                Administration</orgName>
+                            <note type="project">Within the National Archives' Archival Description
+                                Catalog, see ARC Identifier 4644616 / MLR Number A1 347
+                                (http://arcweb.archives.gov).</note>
+                        </bibl>
+                    </relatedItem>
+                    <note type="project">Our transcription is based on a digital image of a
+                        microfilm copy of the original.</note>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <particDesc>
+                <person role="petitioner">
+                    <persName>Samuel Fearson</persName>
+                </person>
+                <person role="jp">
+                    <persName>Robert White</persName>
+                </person>
+            </particDesc>
+        </profileDesc>
+        <revisionDesc>
+            <change when="2013-08-13" who="#jc">revised code for handwritten content on first page of petition; added transcription of evidentiary material</change>
+            <change when="2013-01-20" who="#jc">revised schema declaration</change>
+            <change when="2012-10-12" who="#jc">blessed</change>
+            <change when="2012-10-11" who="#kp">blessed</change>
+            <change when="2012-09-06" who="#jc">updated tei header; fixed values for @facs as
+                necessary; automated checking across files for extra spaces in elements and other
+                encoding inconsistencies and for regular transcription errors</change>
+            <change when="2011-08-31" who="#cg">checked</change>
+            <change when="2011-04-18" who="#rv">checked</change>
+            <change when="2011-03-02" who="#rr">transcribed</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+
+            <pb xml:id="leaf001r" facs="cww.00186.001.jpg"/>
+
+            <div1 type="petition" subtype="mixed">
+                <head type="main">PETITION.</head>
+                <p rend="bold">To the Commissioners under the act of Congress approved the <date
+                        when="1862-04-16">16th of April, 1862</date>, entitled "An act for the
+                    release of certain persons held to service or labor in the District of
+                    Columbia."</p>
+
+                <p>Your Petitioner, <seg type="handwritten">
+                        <persName>Samuel Fearson</persName>
+                    </seg> of <seg type="handwritten">
+                        <placeName>Georgetown D.C.</placeName>
+                    </seg> by this <seg type="handwritten">his</seg> petition in writing, represents
+                    and states, that <space atLeast="1"/> is a person loyal to the United
+                    States, who, at the time of the passage of the said act of Congress, held a
+                    claim to service or labor against <seg type="handwritten">three</seg> person<seg
+                        type="handwritten">s</seg> of African descent of the name<seg
+                        type="handwritten">s</seg> of <seg type="handwritten">
+                        <persName>Anna Thomas</persName>, <persName>William Henry Thomas</persName>,
+                        and <persName>Anna Maria Thomas</persName>
+                    </seg> for and during the life of said <seg type="handwritten">
+                        <persName>Anna</persName>
+                        <persName>William Henry</persName>, and <persName>Anna Maria</persName>
+                    </seg> and that by said act of Congress said <seg type="handwritten">
+                        <persName>Anna</persName>,<persName>William Henry</persName> and
+                            <persName>Anna Maria</persName> were</seg> discharged and freed of and
+                    from all claim of your petitioner to such service or labor; that at the time of
+                    said discharge said <seg type="handwritten">
+                        <persName>Anna</persName>,<persName> William Henry</persName> and
+                            <persName>Anna Maria</persName> were</seg> of the age<seg
+                        type="handwritten">s</seg>
+                    <del>of</del> and of the personal description following:<note type="government"
+                        place="foot" xml:id="n1"> Here describe the person, so as to identify him or
+                        her; and if there be more than one slave, describe each one
+                        separately.</note>
+                    <list type="handwritten">
+                        <item><persName>Anna Thomas</persName>, 29 years of age, about Five feet
+                            four inches high, of a dark brown color, very healthy</item>
+                        <item><persName>William Henry Thomas</persName>, about twelve (12) years of
+                            age, about four feet six inches high, of bright-yellow color, and being
+                            very healthy</item>
+                        <item><persName>Anna Maria Thomas</persName>, about seven years of age,
+                            about four feet high, Black, very healthy.</item>
+                    </list>
+                </p>
+
+                <pb xml:id="leaf001v" facs="cww.00186.002.jpg"/>
+
+                <p>That your petitioner acquired <seg type="handwritten">his</seg> claim to the
+                    aforesaid service or labor of said <seg type="handwritten">
+                        <persName>Anna</persName>, <persName>William Henry</persName> &amp;
+                            <persName>Anna Maria</persName>
+                    </seg> in manner following:<note type="government" place="foot" xml:id="n2">
+                        Here state how the claim was acquired, when, from whom, and for what price
+                        or consideration; and, if held under any written evidence of title, make
+                        exhibit thereof, or refer to the public record where the same may be
+                        found.</note>
+                    <seg type="handwritten">The said <persName>Anna</persName> with her said
+                        children <persName>William Henry</persName> and <persName>Anna
+                            Maria</persName>, were purchased by me from <persName>Joseph A.
+                            Pearson</persName> on the <date when="1854-01-20">20th day of January in
+                            1854</date> for the sum of Eleven Hundred dollars cash as per bill of
+                        sale of that date, will fully appear.</seg>
+                </p>
+
+                <p>That your petitioner's claim to the service or labor of said <seg
+                        type="handwritten">
+                        <persName>Anna</persName>, <persName>William Henry</persName> and
+                            <persName>Anna Maria</persName>
+                    </seg> was, at the time of said discharge therefrom, of the value of <seg
+                        type="handwritten">twenty six hundred</seg> dollars in money.<note
+                        type="government" place="foot" xml:id="n3"> Here state such facts, if any
+                        there be, touching the value of the petitioner's claim to the service or
+                        labor of the person, as may enhance the same, and also such facts, if any,
+                        touching the moral, mental, and bodily infirmities or defects of said
+                        person, as impair the value of the petitioner's claim to such service or
+                        labor, and conclude such statement with an averment that the petitioner
+                        knows of no other infirmities or defects of said person which impair the
+                        value of petitioner's claim to such service or labor, and that he believes
+                        none other to exist. If the petitioner specify no such infirmity or defect,
+                        then his statement touching the value of his claim should conclude with an
+                        averment that he has no knowledge of any such infirmity or defect.</note>
+                    <seg type="handwritten"> That your petitioner is unaware of any mental, moral or
+                        physical defect in either of said persons, all three of them being healthy
+                        during the whole period of his knowledge of them; that he values them as
+                        follows: <persName>Anna</persName>, at one thousand dollars ($1000.00);
+                            <persName>William Henry</persName>, at Nine Hundred Dollars ($900.00)
+                        and <persName>Anna Maria</persName> at Seven Hundred Dollars
+                        ($700.00);</seg>
+                </p>
+
+                <p>Your petitioner hereby declares that <seg type="handwritten">he</seg> bears true
+                    and faithful allegiance to the Government of the United States, and that <seg
+                        type="handwritten">he</seg> has not borne arms against the United States in
+                    the present rebellion, nor in any way given aid or comfort thereto.</p>
+
+                <p>And your petitioner further states and alleges, that <seg type="handwritten"
+                        >he</seg> has not brought said <seg type="handwritten">persons or either of
+                        them</seg> into the District of Columbia since the passage of said act of
+                    Congress; and that, at the time of the passage thereof, said <seg
+                        type="handwritten">persons were</seg>
+                    <del>was</del> held to service or labor therein under and by virtue of your
+                    petitioner's claim to such service or labor.</p>
+
+                <p>Your petitioner further states and alleges, that <seg type="handwritten"
+                        >his</seg> said claim to the service or labor of said <seg
+                        type="handwritten">persons above named</seg> does not originate in or by
+                    virtue of any transfer heretofore made by any person who has in any manner aided
+                    or sustained the present rebellion against the Government of the United
+                    States.</p>
+
+                <p>And your petitioner prays the said Commissioners to investigate and determine the
+                    validity of <seg type="handwritten">his</seg> said claim to the service or labor
+                    of said <seg type="handwritten">persons as</seg> herein above set forth; and if
+                    the same be found to be valid, that they appraise and apportion the value of
+                    said claim in money, and report the same to the Secretary of the Treasury of the
+                    United States, in conformity to the provisions of said act of Congress.</p>
+
+                <closer> (Signed by) <signed>
+                        <seg type="handwritten">
+                            <persName>Samuel Fearson</persName>
+                        </seg>
+                    </signed>
+                </closer>
+            </div1>                      
+                        
+            <pb xml:id="leaf002r" facs="cww.00185.003.jpg"/>
+            <div1 type="evidence" subtype="handwritten">
+                <div2 type="section">
+                    <ab>186</ab>
+                    <ab><hi rend="underline">Bill of Sale</hi></ab>
+                    <ab><persName>Joseph N. Fearson</persName><lb/>
+                        to<lb/>
+                        <persName>Samuel Fearson</persName>,<lb/>
+                        of<lb/>
+                        <list>
+                            <item>Negro woman <persName>Anna</persName>.</item>
+                            <item>do boy <persName>Wm Henry</persName>.</item>
+                            <item>" girl <persName>Ann Maria</persName>.</item>
+                        </list>
+                    </ab>
+                </div2>
+                <div2 type="section">
+                    <note type="editorial">The following section of this document is written
+                        perpendicular to the previous section.</note>
+                    <table>
+                        <row>
+                            <cell><persName>Anna</persName></cell>
+                            <cell>$1000&#8212;</cell>
+                        </row>
+                        <row>
+                            <cell><persName>Wm Henry</persName></cell>
+                            <cell>900</cell>
+                        </row>
+                        <row>
+                            <cell><persName>Anna Maria</persName></cell>
+                            <cell>700</cell>
+                        </row>
+                        <row>
+                            <cell></cell>
+                            <cell>$2600 Due By Estates</cell>
+                        </row>
+                    </table>
+                </div2>
+                
+                <pb xml:id="leaf002v" facs="cww.00185.004.jpg"/>
+                <div2 type="section">
+                    <p>Know all men by these presents; That I <persName>Joseph N. Fearson</persName>
+                        of <placeName>Georgetown</placeName> in the <placeName>County of
+                            Washington</placeName> and <placeName>District of Columbia</placeName>,
+                        for and in consideration of the sum of Eleven Hundred Dollars, ($1100)
+                        current money of the <placeName>United States</placeName> to me in hand paid
+                        by <persName>Samuel Fearson</persName> son of <persName>Samuel S.
+                            Fearson</persName>, of <placeName>Georgetown</placeName> aforesaid, at
+                        and before the ensealing and delivery of these presents, the receipt whereof
+                        is hereby acknowledged, have granted, bargained and sold and by these
+                        presents do grant bargain and sell unto the said <persName>Samuel
+                            Fearson</persName>, his heirs and assigns forever, my negro woman
+                        <persName>Anna</persName> aged about twenty six (26) years, and her two
+                        children, <persName>William Henry</persName> aged about (9) nine years, and
+                        <persName>Ann Maria</persName> aged about four (4) years, the said negro
+                        woman <persName>Anna</persName>, negro by <persName>William Henry</persName>
+                        and negro girl <persName>Ann Maria</persName>, being slaves for life, and
+                        now and for a long time past, hired out to, and living in the family of
+                        <persName>Samuel S. Fearson</persName> in
+                        <placeName>Georgetown</placeName> aforesaid.</p>
+                    <p>To have and to hold, all and singular the said negro woman
+                        <persName>Anna</persName> aged 26 years, negro boy <persName>William
+                            Henry</persName> aged 9 years and the said negro girl <persName>Ann
+                                Maria</persName> aged 4 years, unto the said <persName>Samuel
+                                    Fearson</persName>, his heirs, executors, administrators and assigns
+                        forever; and I, the said <persName>Joseph N. Fearson</persName>, for myself
+                        and my heirs, executors and administrators, the said negro woman
+                        <persName>Anna</persName>, negro boy <persName>William Henry</persName>
+                        and negro girl <persName>Ann Maria</persName>, have put in the full
+                        possession of the said <persName>Samuel Fearson</persName>, by personal
+                        delivery of them, and by the sealing and delivery hereof, this <date when="1859-01-20">20th day of January in the year of our Lord One
+                            thousand Eight hundred and fifty nine</date>. In testimony of all which
+                        I have hereto set my hand and seal, the day and last herein before
+                        written.</p>
+                    <closer>
+                        <signed>
+                            <persName>J. N. Fearson</persName>
+                        </signed> Seal<lb/>
+                        Signed, sealed and delivered in presence of
+                        <signed><persName>Jacob Ramsbury</persName></signed>
+                        <lb/>
+                        <signed>
+                            <persName>Joseph A.
+                                Hastings</persName>
+                        </signed>
+                    </closer>
+                </div2>
+                
+            </div1>
+
+            <pb xml:id="leaf003r" facs="cww.00186.003.jpg"/>
+
+            <div1 type="oath" subtype="mixed">
+                <head type="main">[<hi rend="italic">Form of the Oath for the Verification of the
+                        Petition.</hi>]</head>
+
+                <dateline>
+                    <placeName>District of Columbia</placeName>,
+                    <lb/>
+                    <hi rend="italic"><placeName>Washington County</placeName>, ss.</hi>
+                </dateline>
+
+                <div2 type="section">
+                    <p>I, <seg type="handwritten">
+                            <persName>Samuel Fearson</persName>
+                        </seg> being duly sworn, do depose and say, that all the several matters and
+                        things which are set forth and stated in the foregoing petition, as of my
+                        own knowledge, are true in substance and in fact; and that all the several
+                        other matters and things therein set forth and stated, as from the
+                        information of others, I believe to be true in substance and in fact.</p>
+                    <closer> (Signed by) <signed>
+                            <seg type="handwritten">
+                                <persName>Samuel Fearson</persName>
+                            </seg>
+                        </signed>
+                    </closer>
+                </div2>
+
+                <div2 type="section">
+                    <p>Sworn to and subscribed before me this <date when="1862-05-10">
+                            <seg type="handwritten">10</seg> day of <seg type="handwritten"
+                                >May</seg> A. D. 1862</date>. </p>
+                    <closer> (Signed by) <signed>
+                            <seg type="handwritten">
+                                <persName>Robert White</persName>
+                                <lb/> Justice of Peace</seg>
+                        </signed>
+                    </closer>
+                </div2>
+            </div1>
+
+            <div1 type="cover" subtype="handwritten">
+                <note type="editorial">The following note, about the filing of the petition, has
+                    been imaged twice in the National Archives microfilm, but the note occurs in
+                    only one place in the petition: written horizontally on the final page, the Oath
+                    for the Verification.</note>
+                <ab>186 <lb/> Petition of <persName>Samuel Fearson</persName>. <lb/> Owner of Three
+                    slaves</ab>
+                <ab>Act of Congress approved <date when="1862-04-16">April 16 1862</date>.</ab>
+                <ab>Filed <date when="1862-05-13">May 13, 1862</date>
+                </ab>
+                <ab>Jones &amp; Ashford <choice>
+                        <abbr>Attys</abbr>
+                        <expan>Attorneys</expan>
+                    </choice> for Claimant.</ab>
+                <ab>
+                    <persName>Samuel L. Fearson</persName>
+                    <lb/>
+                    <persName>Joseph W. Fearson</persName>
+                </ab>
+            </div1>
+        </body>
+    </text>
+</TEI>

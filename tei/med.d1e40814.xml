@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e40814">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Chollar, John A.</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+       <idno>med.d1e40814</idno>
+       <authority>Civil War Washington</authority>
+       <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor>
+       <name>Center for Digital Research in the Humanities</name>
+       <address><addrLine>319 Love Library</addrLine>
+       <addrLine>University of Nebraska–Lincoln</addrLine>
+       <addrLine>Lincoln, NE 68588-4100</addrLine>
+       <addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+    </distributor>
+    <date>2011</date>
+    <availability>
+        <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+         republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+         law, requires express written consent from the editors and advance notification of the
+         publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+     <persName xml:id="mb">Matthew Bosley</persName>
+     <persName xml:id="el">Elizabeth Lorang</persName>
+     <persName xml:id="sb">Stacey Berry</persName>
+     <persName xml:id="ao">Alyssa Olson</persName>
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl>
+     <title level="j">The Medical and Surgical History of the War of the Rebellion. (1861-65.)</title>
+     <pubPlace>Washington, DC</pubPlace>
+     <publisher>Government Printing Office</publisher>
+     <biblScope type="part">Part 2</biblScope>
+     <biblScope type="volume">Volume 1</biblScope>
+     <date when="1879">1879</date>
+     <biblScope type="page">145</biblScope>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+       <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+      <keywords scheme="#medsurg">
+       <term>diarrh&#339;a and dysentery</term>
+       <term>fatal cases of diarrh&#339;a and dysentery, with accounts of the morbid appearances observed</term>
+       <term>from the Harewood Hospital, Washington, D. C.</term>
+       <term>chronic rheumatism with diarrh&#339;a</term>
+       <term>stools frequent and bloody, became bilious</term>
+       <term>peritoneal adhesions along colon, especially transverse portion</term>
+       <term>large intestine ulcerated, especially sigmoid flexure and rectum</term>
+       <term>follicles of colon enlarged</term>
+       <term>colon ulcers under microscope contained pus-corpuscles, fat-globules, and crystals of cholesterin</term>         
+       <term>autopsy performed</term>       
+     </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change who="#mb" when="2012-10-15">additional proofing of transcription and encoding, identified keyword terms</change>
+   <change who="#el" when="2010-11-05">case text extracted and transformed from larger file</change>
+   <change who="#sb" when="2010-05-01">enrich encoding, proof and edit</change>
+   <change who="#ao" when="2008-10-02">encoding and editing</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body> 
+   <p>Case from the case-book and medical descriptive lists of the <name type="hospital" key="173"><hi rend="initialcap">H</hi>AREWOOD <hi rend="initialcap">H</hi>OSPITAL</name>, Washington, D. C., <name type="person" key="156">Surgeon Thomas Antisell</name>, <name type="organization" key="132">U. S. V.</name>, in charge from October, 1862, to September, 1863:</p>
+   <p><hi rend="initialcap">C</hi>ASE 276.&#8212;<name type="person" key="169">Private John A. Chollar</name>, <name type="organization" key="157">company K, 21st Connecticut volunteers</name>; admitted <date type="admit" when="1863-02-08">February 8, 1863</date>, from Windmill Point hospital.  Chronic rheumatism, with diarrh&#339;a.  This man had a feeble pulse and considerable &#339;dema of the feet and legs, but was not very much emaciated or prostrated when first admitted. At that time the stools were frequent and bloody; they afterward became bilious.  Treatment: At first a scruple each of Dover's powder and mercury with chalk, divided into six powders, once every four hours; afterward wine, milk-punch, and brandy in small quantities.  Died, <date type="death" when="1863-02-23">February 23d</date>.  <hi rend="italic">Autopsy:</hi> Peritoneal adhesions were found along the whole length of the colon, especially in the transverse portion. The stomach was distended with a liquid containing bile. The intestines were filled with f&#230;cal matter of normal consistence, and highly colored with bile. The small intestine was healthy. The large intestine was ulcerated, especially in the sigmoid flexure and rectum; the ulcers were deeply stained with biliary coloring matter; the follicles of the colon were much enlarged. The liver was normal; the gall-bladder greatly distended with bile. The spleen normal. Some of the matter from the colon ulcers, examined under the microscope, was found to contain pus-corpuscles, fat-globules, debris of tissue, and crystals of cholesterin.</p>  
+  </body>
+ </text>
+</TEI>
+ 

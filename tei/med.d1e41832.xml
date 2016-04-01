@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e41832">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Thomas, John</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+    <idno>med.d1e41832</idno>
+       <authority>Civil War Washington</authority>
+       <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor>
+       <name>Center for Digital Research in the Humanities</name>
+       <address><addrLine>319 Love Library</addrLine>
+       <addrLine>University of Nebraska–Lincoln</addrLine>
+       <addrLine>Lincoln, NE 68588-4100</addrLine>
+       <addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+    </distributor>
+    <date>2011</date>
+    <availability>
+        <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+         republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+         law, requires express written consent from the editors and advance notification of the
+         publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+     <persName xml:id="mb">Matthew Bosley</persName>     
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl>
+     <title level="j">The Medical and Surgical History of the War of the Rebellion. (1861-65.)</title>
+     <pubPlace>Washington, DC</pubPlace>
+     <publisher>Government Printing Office</publisher>
+     <biblScope type="part">Part 2</biblScope>
+     <biblScope type="volume">Volume 1</biblScope>
+     <date when="1879">1879</date>
+     <biblScope type="page">259</biblScope>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+       <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+      <keywords scheme="#medsurg">
+       <term>diarrh&#339;a and dysentery</term>
+       <term>fatal cases of diarrh&#339;a and dysentery, with accounts of the morbid appearances observed</term>
+       <term>from the Freedman's Hospital, Washington, D. C.</term>
+       <term>dark mulatto</term>
+       <term>feet and legs frost-bitten</term>
+       <term>mortification of leg</term>
+       <term>amputation at upper third of leg</term>
+       <term>toes of foot sloughed off</term>
+       <term>jaundice</term>
+       <term>tuberculosis symptoms</term>
+       <term>all lobes of lungs firmly interadherent and contained large masses of crude tubercles</term>
+       <term>pleura costalis dotted with numerous deposits of tubercles</term>
+       <term>bronchial glands enlarged and filled with tubercles</term>
+       <term>large deposit of adipose tissue on surface of heart</term>
+       <term>liver adherent to diaphragm and filled with tubercles</term>
+       <term>spleen large, firmly adherent to diaphragm, and almost mass of tubercles</term>
+       <term>ulcers throughout small intestine</term>
+       <term>Peyer's patches ulcerated through to peritoneum in lower ileum</term>
+       <term>healed ulcers in c&#230;cum and upper portion of the large intestine</term>
+       <term>rectum contained large ulcers covered with pseudomembrane</term>
+       <term>tubercular ulceration of Peyer's patch and of solitary follicles above the ileo-c&#230;cal valve, small tubercles on peritoneal surface corresponded to ulcers</term>
+       <term>lung infiltrated with large cheesy masses of yellow tubercles</term>       
+       <term>autopsy performed</term>       
+     </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change who="#mb" when="2013-01-24">copied case from MSHWR, added proofing of transcription and encoding, identified keyword terms and figures</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body> 
+   <p>One of eight cases observed at the <name type="hospital" key="440"><hi rend="initialcap">F</hi>REEDMAN'S <hi rend="initialcap">H</hi>OSPITAL</name>, Washington, D. C., during 1865, 1866, and 1867.&#8432;  In none of them were the patients soldiers. Five are of interest as examples of tubercular ulceration of the intestines. Besides the specimens from these cases, several other examples of tubercular ulceration of the intestines are preserved at <name type="hospital" key="431">the Museum</name>, which were obtained from autopsies of colored women who died at the same hospital during the period mentioned. . . . In all of them extensive tubercular deposits were found in the lungs and other organs. Most of the specimens are portions of the ileum with tubercular ulcers of the mucous membrane and miliary tubercles on the peritoneal surface opposite:</p>
+   <p><hi rend="initialcap">C</hi>ASE 864.&#8212;<name type="person" key="xxx">John Thomas</name>; dark mulatto; age 13; admitted <date type="admit" when="1866-01-22">January 22, 1866</date>, with feet and legs frost-bitten to the knees. Stimulating liniments were applied and stimulants given internally; generous diet.  <date type="operation" when="1866-01-28">January 28th</date>: Mortification of the left leg has taken place, with line of demarcation half way to the knee. Amputation was performed, by <name type="person" key="xxx">Acting Assistant Surgeon A. R. Abbott</name>, at the upper third of the left leg. The toes of the right foot sloughed off; the bones were removed by nippers.  January 29th: Symptoms of jaundice. To take dilute nitric acid and fluid extract of gentian.  February 23d: Symptoms of tuberculosis. Cough-mixture, milk-punch and extra diet.  Died, <date type="death" when="1866-03-28">March 28th</date>.  <hi rend="italic">Autopsy</hi> <date type="autopsy" when="1866-03-28">ten hours after death</date>: Height four feet six inches; weight about fifty pounds; much emaciation; rigor mortis well marked. The left leg exhibited a stump a few inches below the knee; all except the first phalanges of the toes of the right foot are wanting. The head was not examined. The right lung weighed twenty-four ounces; its lower lobe was firmly adherent to the pleura costalis and the diaphragm; all the lobes were firmly interadherent and contained large masses of crude tubercles; in the anterior portion of the lower lobe there was a mass of tubercle containing a cavity the size of a walnut; the posterior portion was hepatized; the left lung weighed ten ounces, was slightly adherent to the pleura costalis, and contained many tubercles; there was no fluid in the pleural cavities. The pleura costalis was dotted with numerous deposits of tubercles. The bronchial glands were much enlarged and filled with tubercles. The pericardium contained four ounces of fluid. The heart was fatty and weighed five ounces; all its cavities contained white fibrinous clots; the endocardium was thickened; there was a large deposit of adipose tissue on the surface of the organ. The liver was firmly adherent to the diaphragm, coated with lymph superiorly, and filled with tubercles; it weighed thirty-three ounces. The spleen was large and weighed seven ounces and a half; it was firmly adherent to the diaphragm and almost a mass of tubercles. The pancreas weighed two ounces and a half; it was apparently normal. The stomach was contracted, its mucous membrane thickened. There were tubercular ulcers throughout the small intestine, particularly in the lower portion of the ileum, where Peyer's patches were ulcerated through to the peritoneal coat. The c&#230;cum and upper portion of the large intestine exhibited healed ulcers; the rectum contained a number of large ulcers which were covered with pseudomembrane. The kidneys were congested and weighed three ounces and a half each. The bladder and genital organs were normal.&#8212;<name type="person" key="3420">Hospital Steward Samuel S. Bond</name>.   [Nos. 771 to 773, Medical Section, <name type="hospital" key="431">Army Medical Museum</name>, are from this case.  No. 771 is a portion of the small intestine from just above the ileo-c&#230;cal valve, showing tubercular ulceration of the last Peyer's patch and of several of the solitary follicles. There are a few small tubercles on the peritoneal surface corresponding to the ulcers.  No. 772 is a portion of the rectum, with patches of superficial ulceration coated with thick pseudomembrane.  No. 773 is the right lung of the same patient, infiltrated with large cheesy masses of yellow tubercles.]</p>
+   <p>&#8432; During this period two of the hospital stewards on duty in <name type="hospital" key="431">the Museum</name>, <name type="person" key="3421">D. S. Lamb</name> and <name type="person" key="3420">S. S. Bond</name>, were frequently sent to the <name type="hospital" key="440">Freedman's Hospital</name> for the purpose of making autopsies. A considerable number of specimens illustrative of the diseases of the freedmen were thus obtained.</p> 
+  </body>
+ </text>
+</TEI>

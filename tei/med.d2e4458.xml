@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d2e4458">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Irwin, S.</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+    <idno>med.d2e4458</idno>
+    <authority>Civil War Washington</authority>
+    <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor><name>Center for Digital Research in the
+     Humanities</name><address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address></distributor>
+    <date>2011</date>
+    <availability>
+     <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+      republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+      law, requires express written consent from the editors and advance notification of the
+      publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+ <persName xml:id="kmp">Kenneth M. Price</persName> 
+     <persName xml:id="ajh">AJ Howell</persName>
+     <persName xml:id="mb">Matthew Bosley</persName>
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title level="j">The Medical and Surgical History of the War of the Rebellion.
+      (1861-65.)</title><pubPlace>Washington, DC</pubPlace><publisher>Government Printing
+      Office</publisher><biblScope type="part">Part 3</biblScope><biblScope type="volume">Volume
+      2</biblScope><date when="1883">1883</date><biblScope type="page">82</biblScope></bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+     <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <keywords scheme="#medsurg">
+     <term>wounds and injuries of the lower extremities</term>
+     <term>wounds and injuries of the hip joint</term>
+     <term>shot fractures at the hip joint</term>
+     <term>shot fractures at the hip joint unsuccessfully treated by conservation</term>
+     <term>limited to head of femur alone</term>
+     <term>gunshot wound of thigh</term>
+     <term>wound commenced below middle of Poupart's ligament, extended downward and inward,
+      terminated at ischium</term>
+     <term>ischium and head of femur fractured</term>
+     <term>gangrenous ligaments of hip joint, soft parts in groin, and upper thigh</term>
+     <term>autopsy performed</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+ <change who="#kmp" when="2014-05">blessed</change>
+   <change who="#ajh" when="2013-08-21">added figure encoding</change>
+   <change who="#mb" when="2012-02-14">additional case copied from MSHWR, performed proofing of copy
+    and XML encoding, and key terms identified</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+
+   <p>
+    <hi rend="initialcap">C</hi>ASE 170.&#8212;<name type="person" key="xxx">Private S.
+    Irwin</name>, <name type="organization" key="xxx">Co. C, 10th Massachusetts</name>, aged 25
+    years, was wounded at the <name type="battle" key="xxx">Po River</name>, <date type="injury"
+     when="1864-05-12">May 12, 1864</date>. <name type="person" key="xxx">Surgeon S. F.
+     Chapin</name>, <name type="organization" key="xxx">139th Pennsylvania</name>, noted his
+    admission to the field hospital of the 2d division, Sixth Corps, with &#34;gunshot wound of left
+    thigh.&#34; On <date type="transfer" when="1864-05-24">May 24th</date> the wounded man was
+    admitted to <name type="hospital" key="202">Prince Street Hospital</name>, <name type="place"
+     >Alexandria</name>, whence <name type="person" key="xxx">Acting Assistant Surgeon J.
+     Cass</name> contributed the specimen (<hi rend="italic">Cat. Surg. Sect.</hi>, 1866, p. 234,
+     <hi rend="italic">Spec</hi>. 2374) and the following report: &#34;The patient suffered
+    considerable pain, had chills, was very uneasy and anxious, had no appetite, hiccough, and great
+    prostration, and died <date type="death" when="1864-05-28">May 28, 1864</date>. At the <hi
+     rend="italic">autopsy</hi> the left groin was found considerably discolored, and, on
+    examination, it was discovered that the wound commenced just below the middle of Poupart's
+    ligament, extending downward and inward, and terminating at the ischium, which was fractured.
+    The ball was found near that bone, between it and the head of the femur, which was also
+    fractured. The ligaments of the hip joint, the soft parts in the groin, and the upper part of
+    the thigh were gangrenous.&#34; The specimen (<hi rend="initialcap">F</hi>IG. 37) consists of a
+    portion of the left ischium and the upper extremity of the femur. There is a partial fracture of
+    the head of the femur at its articular border and of the ischium by a battered round ball, which
+    is attached. </p>
+
+   <figure><graphic url="cww.001524.001"/><head>
+    <hi rend="initialcap">F</hi>IG. 37.&#8212;Portion of left ischium and upper part of femur. <hi
+     rend="italic">Spec</hi>. 2374.</head></figure>
+
+  </body>
+ </text>
+</TEI>

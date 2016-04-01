@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e40879">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Hoyt, J. W.</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+       <idno>med.d1e40879</idno>
+       <authority>Civil War Washington</authority>
+       <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor>
+       <name>Center for Digital Research in the Humanities</name>
+       <address><addrLine>319 Love Library</addrLine>
+       <addrLine>University of Nebraska–Lincoln</addrLine>
+       <addrLine>Lincoln, NE 68588-4100</addrLine>
+       <addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+    </distributor>
+    <date>2011</date>
+    <availability>
+        <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+         republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+         law, requires express written consent from the editors and advance notification of the
+         publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+     <persName xml:id="mb">Matthew Bosley</persName>
+     <persName xml:id="el">Elizabeth Lorang</persName>
+     <persName xml:id="sb">Stacey Berry</persName>
+     <persName xml:id="ao">Alyssa Olson</persName>
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl>
+     <title level="j">The Medical and Surgical History of the War of the Rebellion. (1861-65.)</title>
+     <pubPlace>Washington, DC</pubPlace>
+     <publisher>Government Printing Office</publisher>
+     <biblScope type="part">Part 2</biblScope>
+     <biblScope type="volume">Volume 1</biblScope>
+     <date when="1879">1879</date>
+     <biblScope type="page">150</biblScope>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+       <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+      <keywords scheme="#medsurg">
+       <term>diarrh&#339;a and dysentery</term>
+       <term>fatal cases of diarrh&#339;a and dysentery, with accounts of the morbid appearances observed</term>
+       <term>from the Douglas Hospital, Washington, D. C.</term>
+       <term>scrofula</term>
+       <term>diarrh&#339;a</term>
+       <term>scrofulous abscesses in neck and arm</term>
+       <term>bronchi filled with thick yellow muco-pus</term>
+       <term>spleen contained abscesses</term>
+       <term>mesenteric glands enlarged</term>
+       <term>lower ileum and whole of large intestine extensively ulcerated, many ulcers perforating muscular coat</term>
+       <term>abscesses opened, new abscesses formed freely</term>       
+       <term>autopsy performed</term>       
+     </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change who="#mb" when="2012-10-22">additional proofing of transcription and encoding, identified keyword terms</change>
+   <change who="#el" when="2010-11-05">case text extracted and transformed from larger file</change>
+   <change who="#sb" when="2010-05-01">enrich encoding, proof and edit</change>
+   <change who="#ao" when="2008-10-02">encoding and editing</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body> 
+   <p>Case from the case-book and medical descriptive lists of the <name type="hospital" key="162"><hi rend="initialcap">D</hi>OUGLAS <hi rend="initialcap">H</hi>OSPITAL</name>, Washington, D. C., <name type="person" key="200">Assistant Surgeon William Thomson</name>, <name type="organization" key="190">U. S. A.</name>, in charge from February, 1863, to September, 1864, and after September, 1865:</p>
+   <p><hi rend="initialcap">C</hi>ASE 304.&#8212;<name type="person" key="207">Private J. W. Hoyt</name>, <name type="organization" key="207">company G, 17th Connecticut volunteers</name>; age 22; admitted <date type="admit" when="1863-06-14">June 14, 1863</date>.  Scrofula and diarrh&#339;a.  [This man appears on the records of the hospital of the 11th Corps, <name type="place">Brooks Station, Virginia</name>, as admitted <date type="admit" when="1863-04-27">April 27th</date>&#8212;scrofula; no disposition recorded.]  The patient was a young man of feeble constitution, broken down by poor diet and fatigue. Has been subject to attacks of diarrh&#339;a for some time, but it is now better. His chief trouble is the presence of scrofulous looking abscesses in the neck and arm; pulse 90. Ordered citrate of iron and quinia, extra diet, milk-punch, &#38;c.  <date type="operation" when="1863-06-17">June 17th</date>: Two abscesses were opened <choice><orig>to-day</orig><reg>today</reg></choice>, one under the ear, the other under the chin; they discharged freely; appetite better; bowels regular; pulse 95.  June 20th: Continues better except that new abscesses are forming freely in the neck. Ordered iodide of potassium and quinine in syrup of sarsaparilla.  June 22d: Severe diarrh&#339;a has set in; the stools are watery and yellow; pulse 100; great prostration and depression of spirits.  &#8478;. Opium, tannin, catechu, and alum, of each one drachm; make fifteen pills. Take one every four hours until the bowels are checked.  June 25th: The diarrh&#339;a is somewhat better, but the condition of the patient otherwise is not improved; pulse 100; tongue dry and clean; skin moist and cool.  Died, <date type="death" when="1863-06-27">June 27th</date>.&#8212;<name type="person" key="203">Acting Assistant Surgeon H. L. W. Burritt</name>.  <hi rend="italic">Autopsy</hi> <date type="autopsy" when="1863-06-28">sixteen hours after death</date>: The lungs were congested posteriorly, and the bronchi filled with thick yellow muco-pus. The heart was normal; its right ventricle was empty, the left filled with mixed coagula and fluid blood. The liver was large, but otherwise normal. The spleen contained several abscesses. The mesenteric glands were enlarged. The peritoneum and omentum were much injected. The lower portion of the ileum and the whole of the large intestine were extensively ulcerated, many of the ulcers perforating the muscular coat.&#8212;<name type="person" key="208">Acting Assistant Surgeon Carlos Carvallo</name>.</p>
+  </body>
+ </text>
+</TEI>

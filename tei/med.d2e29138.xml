@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d2e29138">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Tetlow, J.</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+       <idno>med.d2e29138</idno>
+       <authority>Civil War Washington</authority>
+       <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor>
+       <name>Center for Digital Research in the Humanities</name>
+       <address><addrLine>319 Love Library</addrLine>
+       <addrLine>University of Nebraska–Lincoln</addrLine>
+       <addrLine>Lincoln, NE 68588-4100</addrLine>
+       <addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+    </distributor>
+    <date>2011</date>
+    <availability>
+        <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+         republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+         law, requires express written consent from the editors and advance notification of the
+         publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+         <persName xml:id="mb">Matthew Bosley</persName>         
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl>
+        <title level="j">The Medical and Surgical History of the War of the Rebellion. (1861-65.)</title>
+        <pubPlace>Washington, DC</pubPlace>
+        <publisher>Government Printing Office</publisher>
+        <biblScope type="part">Part 3</biblScope>
+        <biblScope type="volume">Volume 2</biblScope>
+        <date when="1883">1883</date>
+        <biblScope type="page">716</biblScope>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+       <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+      <keywords scheme="#medsurg">
+       <term>wounds and  complications</term>
+       <term>shot wounds</term>
+       <term>effect of missiles and projectiles on bony structure</term>
+       <term>contusions of bone</term> 
+       <term>shot wound of leg</term>
+       <term>ball entered outer side of popliteal space, did not emerge</term>
+       <term>missile impinged upon under side of internal condyle, no further injury to bone, killing periosteum</term>
+       <term>constitutional fever and chill</term> 
+       <term>periosteum gone on inner side and end of internal condyle, external condyle, and external portion of articular surface of tibia</term>
+       <term>joint full of pus, lower third of femur dissected up with pus</term>
+       <term>necrosis of bone</term>        
+       <term>autopsy performed</term>
+     </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+       <change who="#mb" when="2012-06-26">additional case copied from MSHWR, performed proofing of copy and XML encoding, and key terms identified</change>  
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>   
+   <p><hi rend="initialcap">C</hi>ASE 1054.&#8212;<name type="person" key="xxx">Private J. Tetlow</name>, <name type="organization" key="xxx">Co. F, 23d New Jersey</name>, was wounded at <name type="BATTLE" key="4">Fredericksburg</name>, <date type="injury" when="1862-12-13">December 13, 1862</date>. <name type="person" key="xxx">Surgeon G. Burr</name>, <name type="organization" key="132">U. S. V.</name>, reported his admission to the field hospital of the 1st division, Sixth Corps, with &#34;shot wound of leg.&#34;  <name type="person" key="xxx">Acting Assistant Surgeon G. F. French</name> reported the following result of the injury:  &#34;The patient was admitted to hospital at <name type="place" key="#Alexandria">Alexandria</name> on <date type="transfer" when="1862-12-19">December 19th</date>. He had been wounded by a ball entering on the outer side of the right popliteal space and not emerging. He was a strong and healthy man, his pulse being 90 and full; appetite fair; knee tender, very little inflamed, and slightly swollen.  By December 22d the inflammation about the knee was increasing; pulse 98; appetite flagging.  On the next day there was high constitutional fever with great swelling and pain about the knee; patient hectic and had a chill.  On <date type="operation" when="1862-12-24">December 24th</date> a round ball was found lying loose in the wound and was extracted without incision; under portion of internal condyle felt to be bare.  <date type="operation" when="1862-12-29">December 29th</date>, knee more inflamed and swelled; constitutional fever about the same; pulse 100 and weak. Pus was detected and let out by a free incision, giving much relief. Egg-nog ordered for the patient.  On the following day he was more comfortable but seemed exhausted, and was delirious at times; pulse weak.  On December 31st he had a chill with pain in the stomach, and two days afterwards he was delirious; pulse very feeble and slow.  His death occurred at 5 P. M. on <date type="death" when="1863-01-02">January 2, 1863</date>.  Autopsy: External condyle bared of periosteum; joint full of pus; external portion of articular surface of tibia bared also; lower third of femur dissected up with pus; periosteum gone on the inner side and end of internal condyle; bone beginning to necrose. The missile had impinged upon the under side of the internal condyle, doing no further injury to the bone than killing the periosteum over a space the size of a half dime.&#34;&#185;</p>
+   <p>&#185; An abstract of this case was published by <hi rend="initialcap">J. B.</hi> <hi rend="initialcap">B</hi>ELLANGER (<hi rend="italic">Report of five cases of Gunshot Injury of the Knee Joint</hi>) in <hi rend="italic">American Journal Medical Sciences</hi>, New Series, 1863, Vol. XLVI, p. 44.</p>   
+  </body>
+ </text>
+</TEI>

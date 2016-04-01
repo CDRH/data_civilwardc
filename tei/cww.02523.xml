@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="cww.02523">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">In Washington</title>
+                <title level="m" type="sub">a machine readable transcription</title>
+                <editor role="co-editor">R. J. Weir</editor>
+                <principal>Susan C. Lawrence</principal>
+                <principal>Elizabeth Lorang</principal>
+                <principal>Kenneth M. Price</principal>
+                <principal>Kenneth J. Winkle</principal>
+                <respStmt>
+                    <resp>transcription and encoding</resp>
+                    <persName xml:id="ak">Alex Kinnaman</persName>
+                    <persName xml:id="el">Elizabeth Lorang</persName>
+                    <persName xml:id="bw">Becca Weir</persName>
+                    <persName xml:id="kk">Kourtney Klein</persName>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2015</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <idno>cww.02523</idno>
+                <distributor>Civil War Washington</distributor>
+                <publisher>University of Nebraska Lincoln</publisher>
+                <address>
+                    <addrLine>Center for Digital Research in the Humanities</addrLine>
+                    <addrLine>319 Love Library</addrLine>
+                    <addrLine>University of Nebraska-Lincoln</addrLine>
+                    <addrLine>P.O. Box 884100</addrLine>
+                    <addrLine>Lincoln, NE 68588-4100</addrLine>
+                </address>
+                <address>
+                    <addrLine>
+                        <email>cdrh@unl.edu</email>
+                    </addrLine>
+                </address>
+                <date>2015</date>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+                        <p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License (http://creativecommons.org/licenses/by-nc-sa/3.0/). Derivatives must be credited to Civil War Washington and R. J. Weir, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct xml:id="letter">
+                    <analytic>
+                        <author ref="#rh">R. H.</author>
+                        <title level="a">In Washington</title>
+                    </analytic>
+                    <monogr>
+                        <title xml:id="paper" level="j">The Anglo-African</title>
+                        <imprint>
+                            <date xml:id="issue_date" when="1863-10-10">10 October 1863</date>                    
+                        </imprint>
+                        <biblScope type="pp">[3]</biblScope>                    
+                    </monogr>           
+                </biblStruct>
+                
+                <biblStruct xml:id="issue">               
+                    <monogr>
+                        <title level="j" sameAs="#paper"/>
+                        <imprint>
+                            <date sameAs="#issue_date"/>                  
+                        </imprint>              
+                    </monogr>                   
+                </biblStruct>                        
+            </sourceDesc>       
+        </fileDesc>
+        <encodingDesc> 
+            <p>This electronic text is a semi-diplomatic transcription of the source text. Hyphenation, punctuation, variant spellings, and errors present in the source text have been retained. The transcription does not attempt to capture all aspects of the original formatting or layout.</p>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <persName xml:id="rh">Hamilton, Robert</persName>
+                <persName xml:id="th">Hamilton, Thomas</persName>
+                <date when="1863">1863</date>
+            </creation>
+            <langUsage>
+                <language ident="en-US">modern American English</language>
+            </langUsage>
+            <textClass>
+                <classCode scheme="http://authorities.loc.gov">
+                    <term xml:id="sh2009113992">African American soldiers--History--19th century</term>
+                    <term xml:id="sh2009114001">African American women--History</term>
+                    <term xml:id="n79088888">Jackson, Andrew, 1767-1845</term>
+                    <term xml:id="n79006779">Lincoln, Abraham, 1809-1865</term>
+                    <term xml:id="sh85081760">Maryland--History--Civil War, 1861-1865</term>
+                    <term xml:id="sh85085404">Milliken's Bend, Battle of, La., 1863</term>
+                    <term xml:id="sh94003110">Fort Wagner, Battle of, S.C., 1863 (July 10-September 7)</term>
+                    <term xml:id="sh85091385">New Orleans, Battle of, New Orleans, La., 1815</term>
+                    <term xml:id="sh2008116315">New York (N.Y.)--Newspapers</term>
+                    <term xml:id="sh95002101">Port Hudson (La.)--History--Siege, 1863</term>
+                    <term xml:id="sh2010113249">Slavery--Maryland</term>
+                    <term xml:id="sh85140274">United States--History--Civil War, 1861-1865--Societies, etc</term>
+                    <term xml:id="sh2007100440">United States--History--Revolution, 1775-1783--Participation, African American</term>
+                    <term xml:id="sh85140194">United States--History--War of 1812</term>
+                    <term xml:id="sh85146483">White House (Washington, D.C.)</term>
+                </classCode>
+                <classCode scheme="http://civilwardc.org">
+                    <term>Hamilton, Robert, 1819-1870</term>
+                    <term>Slade, Josephine</term>
+                    <term>Slade, William, 1815-?</term>
+                </classCode>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change who="#ak" when="2015-04-07">corrected</change>
+            <change who="#el" when="2015-04-06">checked and corrected transcription and encoding; updated TEI header, including keywords</change>
+            <change who="#ak" when="2015-04-06">checked transcription, encoded, keywords</change>
+        </revisionDesc>
+    </teiHeader>
+    
+    <facsimile corresp="#issue">
+        <surface xml:id="pp1">
+            <graphic url="aa.18631010.pp1.jpg"/>
+        </surface>
+        <surface xml:id="pp2">
+            <graphic url="aa.18631010.pp2.jpg"/>
+        </surface>
+        <surface xml:id="pp3">
+            <graphic url="aa.18631010.pp3.jpg"/>
+            <zone xml:id="pp3_cropped" corresp="#letter">
+                <graphic url="aa.18631010.pp3_cropped.jpg"/>
+            </zone>
+        </surface>
+        <surface xml:id="pp4">
+            <graphic url="aa.18631010.pp4.jpg"/>
+        </surface>
+    </facsimile>
+    
+    
+    <text corresp="#letter #pp3_cropped">
+        
+        <body>
+            
+            <head type="main" subtype="authorial" rend="center"><emph rend="italic">IN WASHINGTON.</emph></head>
+            
+            <milestone unit="undeclared" rend="medium-bar"/>
+            
+            <head type="sub" subtype="authorial"><emph rend="italic">Editorial Correspondence.</emph></head>
+            
+            <opener>
+                <dateline rend="right"><emph rend="smallcaps">Washington</emph>, D. C., October 3, 1863.</dateline>
+            </opener>
+            
+            <p><emph rend="smallcaps">Reader</emph>, on the morning of the 16th of <choice><orig>Sep-<lb/>tember</orig><reg>September</reg></choice>, we read in a New York journal the <lb/>following extract from an address, adopted by <lb/>the unconditional Unionists of Maryland: </p>
+            
+            <floatingText>
+                <body>
+                    <p>We disavow all measures for the violent <lb/>abrogation of slavery in our midst.</p>
+                    
+            <p>We claim that in the exercise of our <choice><orig>preroga-<lb/>tives</orig><reg>prerogatives</reg></choice> as American citizens we owe it to <choice><orig>our-<lb/>selves</orig><reg>ourselves</reg></choice> to discuss fairly and finally to dispose <lb/>of the evil, and we hereby solemnly declare it <lb/>to be our conviction that the dignity, honor <lb/>and prosperity of our people, alike demand <lb/>that we should legally and constitutionally <lb/>abolish the institution at the earliest period <lb/>compatible with the best interests of the State, <lb/>and the permanent welfare, stability and unity <lb/>of the nation.</p>
+            
+            <p>Since the people know that the substance of <lb/>slavery is already gone, and that only the <choice><orig>skele-<lb/>ton</orig><reg>skeleton</reg></choice> has been left, we are of the opinion that the <lb/>sooner the skeleton is removed the better it <lb/>will be for the true interests of the State and <lb/>the nation.</p>
+            
+            <p>The men we present to you are in favor of <lb/>supporting the Administration in every effort <lb/>to put down the rebellion, and in every <choice><orig>mea-<lb/>sure</orig><reg>measure</reg></choice> which it has thought necessary for the <lb/>permanent peace of the country when the <choice><orig>Re-<lb/>bellion</orig><reg>Rebellion</reg></choice> shall have been subdued.</p>
+            
+            <p>We believe that the only way to put down <lb/>the rebellion is to put it down by force of arms. <lb/>For this purpose we are willing to vote every <lb/>dollar necessary, and give every available man, <lb/>black or white.</p>
+            
+            <p>We do not think ourselves at all superior to <lb/>our ancestors of revolutionary memory, who <lb/>fought side by side with colored troops, nor to <lb/>Andrew Jackson who commanded and <choice><sic>compli-<lb/>mented</sic></choice> the colored militia who fought with <lb/>him at New Orleans.</p>
+            
+            <p>We believe it is the bounden duty of the <lb/>President to use all the force and every weapon <lb/>which God has put within his grasp and the <lb/>laws of the United States have authorized him <lb/>to wield in defense of the nation.</p>
+            
+            <p>Traitors have no choice as to the weapons to <lb/>be used in their destruction, and loyal men <lb/>only ask that they be speedy and sure.</p>
+                </body>
+            </floatingText>
+            
+            <p>Anxious to visit the Capital but the State of <lb/>Maryland standing in our way, we had resolved <lb/>never to cross that State until it was free, but <lb/>after we read the above extract we said, these <lb/>propositions make a bridge broad enough for <lb/>us to cross Maryland upon, so in the dead hour <lb/>of the night on the 17th ult., we left New York <lb/>that we might reach and cross "My Maryland" <lb/>by day light.  We knew that we were <choice><orig>approach-<lb/>ing</orig><reg>approaching</reg></choice> a region cursed by the presence of <choice><orig>slave-<lb/>ry</orig><reg>slavery</reg></choice>, by the absence of villages and neat farm <lb/>houses such as make glad the heart of an <lb/>American traveller on our Northern railroads. <lb/>We reached Baltimore about 8 o'clock a. m., <lb/>and we gazed upon its streets and inhabitants <lb/>with feelings somewhat akin to those which a <lb/>man feels when he is safely protected by iron <lb/>bars from the wild beasts in a menagerie.</p>
+            
+            <p>Thoughts of the ever memorable 6th of April <lb/>came upon us.  When the blood of a noble <lb/>Massachusetts soldier was poured out upon <lb/>the stones of that city, an offering upon the <lb/>altar of Eternal Right.  We remembered also <lb/>that the blood of a little colored boy was shed <lb/>at the same time and place, and our mind went <lb/>out to mightier things.  Port Hudson, <choice><orig>Milli-<lb/>ken's</orig><reg>Milliken's</reg></choice> Bend, Fort Wagner, and the days of '76 <lb/>came before us, and the immortal luster <choice><orig>radiat-<lb/>ing</orig><reg>radiating</reg></choice> therefrom gave assurances, not to be <lb/>doubted, that this nation would yet rise in her <lb/>might and resolve that such great sacrifices as <lb/>have been made by the black man should not <lb/>be made in vain.</p>
+            
+            <p>It was 10 o'clock when we arrived in <choice><orig>Wash-<lb/>ington</orig><reg>Washington</reg></choice> and the rain was falling in torrents.</p>
+            
+            <p>A stranger arriving in that city would be <lb/>quite bewildered in endeavoring to find any <lb/>place without a guide; nevertheless we tried <lb/>it and were quite successful.  We found the <lb/>house of Mr. William Slade and were made to <lb/>feel quite at home by his amiable lady.  Mrs. <lb/>Slade is very frail in form, but possesses much <lb/>energy, and her labors in the Contraband <lb/>Relief Association have been of very great <lb/>value to many an escaped slave.</p>
+            
+            <p>Leaving Mr. Slade's house for a boarding <lb/>house in the upper part of the city, we began <lb/>to realize what Washington is and what it will <lb/>very shortly be.  A person living in a <choice><orig>com-<lb/>pactly</orig><reg>compactly</reg></choice> built city can have no idea of the <choice><orig>beau-<lb/>tiful</orig><reg>beautiful</reg></choice> arrangement of its streets and avenues.</p>
+            
+            <p>The public buildings are placed on every <lb/>high spot of ground in the city, and some of <lb/>the avenues sweep down in <choice><sic>cresent</sic><corr>crescent</corr></choice> form from <lb/>these palaces; lending great grandeur to their <lb/>appearance.</p>
+            
+            <p>On entering Washington we took a slight <lb/>glance at the <choice><sic>Capital</sic><corr>Capitol</corr></choice>, but we had the great <lb/>good luck to view it closely by the light of a <lb/>brilliant moon.  No building that we ever <lb/>saw, had such an influence upon us.  Our <lb/>thoughts went immediately out to the most <lb/>distant parts of the country and flew down the <lb/>vale of time to the battles of the Revolution <lb/>and the war of 1812, and we thanked God that <lb/>our father had <emph rend="italic">volunteered</emph> to breast the leaden <lb/>storm in defence of this great country, of which <lb/>this magnificent building is such a splendid <lb/>type.  We have since through the kindness of <lb/>Mr. John Johnson, a man of much intelligence <lb/>and a most courteous colored gentleman, had <lb/>the opportunity of examining the building <choice><orig>in-<lb/>ternally</orig><reg>internally</reg></choice>, and all we have to say is <emph rend="italic">"come and <lb/>see."</emph>  The view from the Capitol is very <choice><orig>beau-<lb/>tiful</orig><reg>beautiful</reg></choice>, you gaze upon the sluggish Potomac, and <lb/>then turn your eyes toward the green shores of <lb/>Maryland and Virginia, but that greenness is <lb/>soon shrouded in gloom.  The <emph rend="italic">Spirit of <choice><orig>mourn-<lb/>ing</orig><reg>mourning</reg></choice></emph> seems to hover over the scene and you want <lb/>to talk with the trees, the earth, and the water; <lb/>but alas they are silent.  They have witnessed <lb/>the blood as it flowed in streams from the <lb/>backs of our poor brethren and sisters.  They <lb/>have heard the agonizing shrieks of these <choice><orig>help-<lb/>less</orig><reg>helpless</reg></choice> victims of outrage and wrong, they have <lb/>heard the sharp crackings of the heart-strings <lb/>of our poor sisters as the children of their love <lb/>were torn away from their arms&#8212;they have <lb/>seen the slave ships as they stretched their <lb/>wings and bore away to sorrow and to death <lb/>these innocent unoffending ones; but you <choice><orig>ques-<lb/>tion</orig><reg>question</reg></choice> them in vain.  The briny tears come <lb/>out from their hiding places; and you quietly <lb/>leave the window least somebody should see <lb/>you weep; but you turn your eyes toward <lb/>the <emph rend="smallcaps">White House</emph>, and you know that there resides <lb/>the man, who, under God, has been permitted <lb/>to break up to a great extent, this horrid <choice><orig>ini-<lb/>quity</orig><reg>initquity</reg></choice>&#8212;to emancipate millions of men, and the <lb/>mind instinctively says: <emph rend="smallcaps">God Bless Abraham <lb/>Lincoln</emph>.  But when you recollect all the <lb/>events of the war&#8212;the ways by which a <choice><orig>Mer-<lb/>ciful</orig><reg>Merciful</reg></choice> Providence has led, and is leading the <lb/>nation, our wonder is lost in love, and we cry <lb/>out in <choice><orig>ecstacy</orig><reg>ecstasy</reg></choice> of spirit,</p>
+            
+            <p>"<emph rend="smallcaps">Glory to God in the Highest"  "for ever <lb/>and ever!"  Amen.</emph></p>
+            
+            <p>We cannot, for want of time, say more in <lb/>regard to this city, but will resume the subject <lb/>hereafter.  In our next article we shall have <lb/>something to say about the people and their <lb/>leaders, both ministerial and lay, and about <lb/>their generosity to us.  It is enough for us to <lb/>say at this time, that surprise, wonder, <choice><orig>admi-<lb/>ration</orig><reg>admiration</reg></choice> and gratitude have taken possession of <lb/>us, depriving us of that rest which is so <choice><orig>essen-<lb/>tial</orig><reg>essential</reg></choice> to thought and health.  Midnight finds our <lb/>eyes unclosed and the cock at morn is an hour <lb/>behind us with his early song.</p>
+            
+            <closer>
+                <signed rend="right">R. H.</signed>
+            </closer>
+            
+        </body>
+    </text>
+</TEI>
+

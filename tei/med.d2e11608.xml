@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d2e11608">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Dickey, Lorenzo E.</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+    <idno>med.d2e11608</idno>
+    <authority>Civil War Washington</authority>
+    <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor><name>Center for Digital Research in the
+     Humanities</name><address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address></distributor>
+    <date>2011</date>
+    <availability>
+     <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+      republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+      law, requires express written consent from the editors and advance notification of the
+      publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+ <persName xml:id="kmp">Kenneth M. Price</persName> <persName xml:id="ajh">AJ Howell</persName>
+     <persName xml:id="mb">Matthew Bosley</persName>
+     <persName xml:id="el">Elizabeth Lorang</persName>
+     <persName xml:id="sb">Stacey Berry</persName>
+     <persName xml:id="et">Elisabeth Tracey</persName>
+     <persName xml:id="ss">Sarah Synovec</persName>
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title level="j">The Medical and Surgical History of the War of the Rebellion.
+      (1861-65.)</title><pubPlace>Washington, DC</pubPlace><publisher>Government Printing
+      Office</publisher><biblScope type="part">Part 3</biblScope><biblScope type="volume">Volume
+      2</biblScope><date when="1883">1883</date><biblScope type="page">272</biblScope></bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+     <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <keywords scheme="#medsurg">
+     <term>wounds and injuries of the lower extremities</term>
+     <term>injuries of the shaft of the femur</term>
+     <term>amputations in the shaft of the femur</term>
+     <term>intermediary amputations in the shaft of the femur for shot injury</term>
+     <term>intermediary amputations in the upper third of the femur</term>
+     <term>successful cases of intermediary amputations in the upper third of the femur</term>
+     <term>limb amputated at upper third</term>
+     <term>h&#230;morrhage from femoral artery</term>
+     <term>gunshot wound of thigh</term>
+     <term>obliged to use crutches in walking</term>
+     <term>unable to wear artificial limb, short stump</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+ <change who="#kmp" when="2014-05">blessed</change>
+   <change who="#ajh" when="2013-08-22">added figure encoding</change>
+   <change who="#mb" when="2012-05-16">additional proofing of transcription and encoding, identified
+    keyword terms</change>
+   <change who="#el" when="2011-05-11">case text extracted and transformed from larger file</change>
+   <change who="#sb" when="2011-06-04">Enrich Encoding, Edit and validate</change>
+   <change who="#sb" when="2011-01-28">Validated File</change>
+   <change who="#ss" when="2008-09-22">initial checking of OCR text; encoded P5 Encoding</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+
+   <p><hi rend="initialcap">C</hi>ASE 453.&#8212;<name type="person" key="1081">Private Lorenzo E.
+     Dickey</name>, <name type="organization" key="442">Co. A, 4th Maine</name>, aged 21 years,
+    received a gunshot wound of the right thigh, at <name type="BATTLE" key="48">Chantilly</name>,
+     <date type="injury" when="1862-09-01">September 1, 1862</date>. He was taken to a field
+    hospital in the vicinity of the battle ground, where the limb was amputated at the upper third,
+    on <date type="operation" when="1862-09-05">the fourth day after the reception of the
+     injury</date>. On <date type="transfer" when="1862-09-08">September 8th</date>, the patient
+    arrived at <name type="place" key="#Washington">Washington</name> and was admitted to <name
+     type="hospital" key="162">Douglas Hospital</name>. A h&#230;morrhage from the femoral artery,
+    to the amount of twenty ounces, occurred on October 16th, and was controlled by pressure. After
+    this the case progressed favorably and the wound healed about January 1, 1863. <date
+     type="transfer" when="1863-03">About two months later</date> the patient was transferred to
+     <name type="hospital" key="176">Lincoln Hospital</name>, and subsequently he was sent to <name
+     type="hospital" key="160">St. Elizabeth Hospital</name>, whence he was discharged <date
+     type="servicedischarge" when="1863-06-16">June 16, 1863</date>, and pensioned. <name
+     type="person" key="1081">Mr. Dickey</name> was subsequently appointed a clerk at the <name
+     type="organization" key="xxx">Pension Office</name>. On <date type="photo" when="1873-01-14"
+     >January 14, 1873</date>, he visited the <name type="hospital" key="431">Army Medical
+     Museum</name>, being in as good general health as he had been previous to the time of receiving
+    the injury, and suffering no pain from the stump. He stated that his weight then was 194 pounds,
+    while before he was wounded and lost his leg he only weighed 170 pounds. Owing to the shortness
+    of the stump, being only three inches long from the hip joint, he is unable to wear an
+    artificial limb and is obliged to use crutches in walking. A copy of the photograph, taken in
+    1873, is represented in the wood-cut (<hi rend="initialcap">F</hi>IG. 188). His pension was paid
+     <date type="pension" when="1879-09-04">September 4, 1879</date>. </p>
+   <figure>
+    <graphic url="cww.001591.001"/>
+    <head><hi rend="initialcap">F</hi>IG. 188.&#8212;Appearance of stump eleven years after
+     amputation. [From a photograph.]</head>
+   </figure>
+
+  </body>
+ </text>
+</TEI>

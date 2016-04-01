@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d2e19683">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Rutter, A.</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+    <idno>med.d2e19683</idno>
+    <authority>Civil War Washington</authority>
+    <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor><name>Center for Digital Research in the
+     Humanities</name><address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address></distributor>
+    <date>2011</date>
+    <availability>
+     <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+      republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+      law, requires express written consent from the editors and advance notification of the
+      publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+ <persName xml:id="kw">Kenneth Winkle</persName> <persName xml:id="ajh">AJ Howell</persName>
+     <persName xml:id="mb">Matthew Bosley</persName>
+     <persName xml:id="el">Elizabeth Lorang</persName>
+     <persName xml:id="sb">Stacey Berry</persName>
+     <persName xml:id="et">Elisabeth Tracey</persName>
+     <persName xml:id="ss">Sarah Synovec</persName>
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title level="j">The Medical and Surgical History of the War of the Rebellion.
+      (1861-65.)</title><pubPlace>Washington, DC</pubPlace><publisher>Government Printing
+      Office</publisher><biblScope type="part">Part 3</biblScope><biblScope type="volume">Volume
+      2</biblScope><date when="1883">1883</date><biblScope type="page">514</biblScope></bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+     <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <keywords scheme="#medsurg">
+     <term>wounds and injuries of the lower extremities</term>
+     <term>wounds and operations in the leg</term>
+     <term>shot fractures of the bones of the leg</term>
+     <term>amputations in the continuity of the leg for shot fractures</term>
+     <term>intermediary amputations in the continuity of the leg for shot injury</term>
+     <term>intermediary amputations in the upper third of the leg for shot injury</term>
+     <term>successful intermediary amputations in the upper third of the bones of the leg</term>
+     <term>shot fracture of leg</term>
+     <term>compound comminuted fracture of tibia</term>
+     <term>tibia fractured and amputated at upper third</term>
+     <term>furnished with artificial limb</term>
+     <term>general anesthesia, chloroform</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+ <change who="#kw" when="2014-05">blessed</change>
+   <change who="#ajh" when="2013-08-23">added figure encoding</change>
+   <change who="#mb" when="2012-06-08">additional proofing of transcription and encoding, identified
+    keyword terms</change>
+   <change who="#el" when="2011-05-11">case text extracted and transformed from larger file</change>
+   <change who="#sb" when="2011-06-04">Enrich Encoding, Edit and validate</change>
+   <change who="#sb" when="2011-01-28">Validated File</change>
+   <change who="#ss" when="2008-09-22">initial checking of OCR text; encoded P5 Encoding</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p><hi rend="initialcap">C</hi>ASE 757.&#8212;<name type="person" key="1291">Private A.
+     Rutter</name>, <name type="organization" key="138">Co. C, 100th Pennsylvania</name>, aged 20
+    years, was wounded, at <name type="BATTLE" key="115">Bethesda Church</name>, <date type="injury"
+     when="1864-06-02">June 2,1864</date>. <name type="person" key="xx">Surgeon M. K. Hogan</name>,
+     <name type="organization" key="132">U. S. V.</name>, reported his admission to the field
+    hospital of the 1st division, Ninth Corps, with "shot fracture of right leg by mini&#233; ball."
+     <name type="person" key="72">Surgeon G. L. Pancoast</name>, <name type="organization" key="132"
+     >U. S. V.</name>, who amputated the limb, made the following report: "The wounded man was
+    admitted to <name type="hospital" key="152">Finley Hospital</name>, Washington, on <date
+     type="transfer" when="1864-06-15">June 15th</date>, from the field hospital. His injury
+    consisted of a compound comminuted fracture of the right tibia, for which amputation was
+    performed at the upper third on <date type="operation" when="1864-06-20">June 20th</date>. The
+    operation was done by the flap method and chloroform was used as the an&#230;sthetic, the
+    patient's general condition being excellent. After two days of suffering the patient's progress
+    of recovery was rapid. Cold-water dressings were applied." A part of the amputated tibia (<hi
+     rend="italic">Spec</hi>. 2587), showing fracture in the upper third and exhibiting well-marked
+    necrosis, was contributed by <name type="person" key="72">the operator</name> and is represented
+    in the wood-cut (<hi rend="initialcap">F</hi>IG. 296). The patient was subsequently transferred
+    to <name type="hospital" key="428">Judiciary Square Hospital</name>, where, after being
+    furnished with an artificial limb by <name type="organization" key="xx">Jewett Patent Leg
+     Co.</name>, he was discharged from service <date type="servicedischarge" when="1865-05-04">May
+     4, 1865</date>, and pensioned. His pension was paid <date type="pension" when="1880-06-04">June
+     4, 1880</date>. In his applications for commutation he reported the condition of the stump as
+    continuing "all right." </p>
+   <figure>
+    <graphic url="cww.001639.001"/>
+    <head><hi rend="initialcap">F</hi>IG. 296.&#8212;Fractured portion of right tibia; necrosis. <hi
+      rend="italic">Sp</hi>. 2587.</head>
+   </figure>
+  </body>
+ </text>
+</TEI>

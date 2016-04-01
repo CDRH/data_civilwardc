@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d2e19123">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Willson, S. L.</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+       <idno>med.d2e19123</idno>
+       <authority>Civil War Washington</authority>
+       <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor>
+       <name>Center for Digital Research in the Humanities</name>
+       <address><addrLine>319 Love Library</addrLine>
+       <addrLine>University of Nebraska–Lincoln</addrLine>
+       <addrLine>Lincoln, NE 68588-4100</addrLine>
+       <addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+    </distributor>
+    <date>2011</date>
+    <availability>
+        <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+         republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+         law, requires express written consent from the editors and advance notification of the
+         publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+         <persName xml:id="mb">Matthew Bosley</persName>         
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl>
+        <title level="j">The Medical and Surgical History of the War of the Rebellion. (1861-65.)</title>
+        <pubPlace>Washington, DC</pubPlace>
+        <publisher>Government Printing Office</publisher>
+        <biblScope type="part">Part 3</biblScope>
+        <biblScope type="volume">Volume 2</biblScope>
+        <date when="1883">1883</date>
+        <biblScope type="page">462</biblScope>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+       <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+      <keywords scheme="#medsurg">
+       <term>wounds and injuries of the lower extremities</term> 
+       <term>wounds and operations in the leg</term>
+       <term>shot fractures of the bones of the leg</term>
+       <term>amputations in the continuity of the leg for shot fractures</term> 
+       <term>primary amputations in the continuity of the leg for shot injury</term> 
+       <term>primary amputations in the upper third of the leg for shot injury</term> 
+       <term>successful primary amputations in the upper third of the leg</term>
+       <term>compound comminuted fractures of both legs</term> 
+       <term>amputation of both legs</term> 
+       <term>both legs shattered at lower third</term>
+       <term>amputation of leg at upper third</term>
+       <term>furnished with artificial legs</term>     
+       <term>enabled to hold employment</term>
+     </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+       <change who="#mb" when="2012-06-07">additional case copied from MSHWR, performed proofing of copy and XML encoding, and key terms identified</change>  
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p><hi rend="initialcap">C</hi>ASE 722.&#8212;<name type="person" key="xxx">Private S. L. Willson</name>, <name type="organization" key="xxx">Co. D, 72d New York</name>, aged 18 years, was wounded at <name type="BATTLE" key="2">Gettysburg</name>, <date type="injury" when="1863-07-02">July 2, 1863</date>.  He was admitted to the field hospital of the 2d division, Third Corps, whence <name type="person" key="xxx">Surgeon C. K. Irwin</name>, <name type="organization" key="xxx">72d New York</name>, reported: &#34;Compound comminuted fracture of right and left leg by mini&#233; ball, followed by amputation of both legs.&#34;  <name type="person" key="xxx">Surgeon H. Janes</name>, <name type="organization" key="132">U. S. V.</name>, forwarded the following history: &#34;The patient entered Camp Letterman <date type="transfer" when="1863-08-30">August 30th</date>. Both of his legs had been shattered at the lower third, and amputation was performed at the upper third on <date type="operation" when="1863-07-03">the day following the injury</date>. The stumps granulated well and the patient's general health was good. Simple dressings, with tonics and stimulants, constituted the treatment. On <date type="transfer" when="1863-10-21">October 21st</date>, when the man was transferred to another hospital, the stumps were in tolerable good condition. There had been ulcers in the cicatrices, threatening gangrene, which was controlled with citrine ointment, leaving small abrasions.&#34;  The patient subsequently passed through hospitals at <name type="place">Baltimore</name> and <name type="place" key="#Alexandria">Alexandria</name>, and lastly he was transferred to <name type="place">Rochester</name>, where he was discharged <date type="servicedischarge" when="1865-05-31">May 31, 1865</date>, and pensioned. Since leaving the service he has been furnished at regular intervals with artificial legs of the &#34;Bly&#34; pattern, which he reports as satisfactory, and the use of which enabled him to accept and hold employment as messenger of the <name type="organization" key="xxx">U. S. Senate</name> at the <name type="place">Capitol building</name> for a number of years. In his several applications for these artificial limbs he described the stumps as being in good condition. His pension was paid <date type="pension" when="1880-03-04">March 4, 1880</date>.</p>   
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d2e6034">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Woodworth, Henry</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+    <idno>med.d2e6034</idno>
+    <authority>Civil War Washington</authority>
+    <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor><name>Center for Digital Research in the
+     Humanities</name><address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address></distributor>
+    <date>2011</date>
+    <availability>
+     <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+      republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+      law, requires express written consent from the editors and advance notification of the
+      publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+ <persName xml:id="kw">Kenneth Winkle</persName> <persName xml:id="ajh">AJ Howell</persName>
+     <persName xml:id="mb">Matthew Bosley</persName>
+     <persName xml:id="el">Elizabeth Lorang</persName>
+     <persName xml:id="sb">Stacey Berry</persName>
+     <persName xml:id="et">Elisabeth Tracey</persName>
+     <persName xml:id="ss">Sarah Synovec</persName>
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title level="j">The Medical and Surgical History of the War of the Rebellion.
+      (1861-65.)</title><pubPlace>Washington, DC</pubPlace><publisher>Government Printing
+      Office</publisher><biblScope type="part">Part 3</biblScope><biblScope type="volume">Volume
+      2</biblScope><date when="1883">1883</date><biblScope type="page">118</biblScope></bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+     <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <keywords scheme="#medsurg">
+     <term>wounds and injuries of the lower extremities</term>
+     <term>wounds and injuries of the hip joint</term>
+     <term>shot fractures at the hip joint</term>
+     <term>excision at the hip after shot injury</term>
+     <term>secondary excisions</term>
+     <term>ball entered thigh below trochanter major, grooving femur anteriorly at level of lesser
+      trochanter, lodging under sartorius muscle</term>
+     <term>pus burrowed about articulation</term>
+     <term>periostitis</term>
+     <term>cotyloid cavity ulcerated</term>
+     <term>general anesthesia, ether</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+ <change who="#kw" when="2014-05">blessed</change>
+   <change who="#ajh" when="2013-08-22">added figure encoding</change>
+   <change who="#mb" when="2012-02-21">additional proofing of transcription and encoding, identified
+    keyword terms</change>
+   <change who="#el" when="2011-05-11">case text extracted and transformed from larger file</change>
+   <change who="#sb" when="2011-06-04">Enrich Encoding, Edit and validate</change>
+   <change who="#sb" when="2011-01-28">Validated File</change>
+   <change who="#ss" when="2008-09-22">Sarah Synovec initial checking of OCR text; encoded P5
+    Encoding</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+
+   <p>
+    <hi rend="initialcap">C</hi>ASE 270.&#8212;<name type="person" key="961">Private Henry
+     Woodworth</name>, <name type="organization" key="197">Co. A, 4th Vermont</name>, aged 18 years,
+    was wounded at the battle of <name type="BATTLE" key="3"><choice>
+      <orig>Spottsylvania</orig>
+      <reg>Spotsylvania</reg>
+     </choice> Court House</name>, on <date type="injury" when="1864-05-11">May 11, 1864</date>, by
+    a conoidal musket ball, which entered the left thigh, just below the trochanter major, passed
+    inward and forward, grooving the femur anteriorly at the level of the lesser trochanter, and
+    lodging under the sartorius muscle. The patient was conveyed to the field hospital of the 2d
+    division of the Sixth Corps, where the ball was removed through an incision at the edge of the
+    sartorius. <date type="transfer" when="1864-05-18">A week subsequently</date>, he was placed on
+    one of the trains for the <name type="place">Rappahannock</name>, and was transferred from <name
+     type="place">Fredericksburg</name> to <name type="place" key="#Washington">Washington</name>,
+    where, on <date type="transfer" when="1864-05-25">May 25th</date>, he was admitted to <name
+     type="hospital" key="173">Harewood Hospital</name>. His condition on admission was very
+    unpromising; his pulse was quick and feeble; he was an&#230;mic, and without appetite. He was
+    placed upon a tonic regimen, but he did not improve. The wound discharged profusely; there was
+    much pain in the joint, pain aggravated by the slightest movement, and pus had burrowed in every
+    direction about the articulation. <name type="person" key="158">Surgeon R. B. Bontecou</name>,
+     <name type="organization" key="132">U. S. V.</name>, in charge of <name type="hospital"
+     key="173">Harewood Hospital</name>, decided that an excision of the head of the femur offered
+    the only possible chance of saving life, and, on <date type="operation" when="1864-07-01">July
+     1st</date>, the patient having been an&#230;sthetized by sulphuric ether, <name type="person"
+     key="158">Dr. Bontecou</name> proceeded to perform the operation. A curved incision, with its
+    concavity forward, embracing the trochanter, readily exposed the joint. The muscular attachments
+    were divided, and the head was easily disarticulated, the joint being disorganized and the round
+    ligament destroyed. The continuity of the bone being uninterrupted, the upper extremity was
+    readily turned out and sawn just below the point of impact of the ball. On examination of the
+    portion of bone removed, it was found that much of the head had been absorbed, and that the
+    remainder was carious. The specimen is represented in the accompanying wood-cut (<hi
+     rend="initialcap">F</hi>IG. 75). The neck and trochanters are covered with traces of the
+    effects of periostitis. The cotyloid cavity was ulcerated. The wound was drawn together by
+    adhesive strips, and the limb was dressed in a fracture apparatus with moderate extension. Every
+    means of supporting the patient's strength was adopted, but he did not rally from the operation,
+    and, sinking gradually, expired on <date type="death" when="1864-07-02">July 2, 1864</date>. </p>
+
+   <figure>
+    <graphic url="cww.001544.001"/>
+    <head>
+     <hi rend="initialcap">F</hi>IG. 75.&#8212;Excised upper extremity of left femur with a conoidal
+     ball. <hi rend="italic">Spec</hi>. 3049. &#188;</head>
+   </figure>
+
+  </body>
+ </text>
+</TEI>

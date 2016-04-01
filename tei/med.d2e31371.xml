@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d2e31371">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Johnson, D.</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+       <idno>med.d2e31371</idno>
+       <authority>Civil War Washington</authority>
+       <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor>
+       <name>Center for Digital Research in the Humanities</name>
+       <address><addrLine>319 Love Library</addrLine>
+       <addrLine>University of Nebraska–Lincoln</addrLine>
+       <addrLine>Lincoln, NE 68588-4100</addrLine>
+       <addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+    </distributor>
+    <date>2011</date>
+    <availability>
+        <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+         republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+         law, requires express written consent from the editors and advance notification of the
+         publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+ <persName xml:id="kmp">Kenneth M. Price</persName> 
+     <persName xml:id="mb">Matthew Bosley</persName>
+     <persName xml:id="mh">Minda Haas</persName>
+     <persName xml:id="kk">Kourtney Klein</persName>
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl>
+     <title level="j">The Medical and Surgical History of the War of the Rebellion. (1861-65.)</title>
+     <pubPlace>Washington, DC</pubPlace>
+     <publisher>Government Printing Office</publisher>
+     <biblScope type="part">Part 2</biblScope>
+     <biblScope type="volume">Volume 2</biblScope>
+     <date when="1876">1876</date>
+     <biblScope type="page">990</biblScope>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+       <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+      <keywords scheme="#medsurg">
+       <term>wounds and injuries of the upper extremities</term>
+       <term>wounds and operations in the forearm</term> 
+       <term>shot wounds of the forearm</term>
+       <term>amputations in the continuity of the forearm for shot injury</term> 
+       <term>secondary amputations in the forearm for shot injury</term>
+       <term>fatal secondary amputations in the forearm</term>
+       <term>wound of hand, partially destroyed metacarpal bones</term> 
+       <term>ball entered metacarpo-phalangeal articulation of little finger, passed through and fractured fourth and fifth metacarpal bones, exited at dorsum</term>
+       <term>gangrene</term>
+       <term>tetanus, tetanic spasms</term>
+       <term>twenty ounce blood loss, producing syncope</term>
+       <term>nerves injured by ball</term> 
+       <term>forearm amputated</term>       
+       <term>general anesthesia, ether</term>
+     </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+ <change who="#kmp" when="2014-05">blessed</change>
+   <change who="#kk" when="2014-01-17">added figure encoding</change>
+   <change who="#mb" when="2012-07-20">additional proofing of transcription and encoding, identified keyword terms</change>
+   <change who="#mh" when="2011-02-23">checked OCR; added minimal mark-up for personal names, place names, and dates</change>  
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>   
+   <p><hi rend="initialcap">C</hi>ASE 1930.&#8212;<name type="person" key="xxx">Private D. Johnson</name>, <name type="organization" key="xxx">Co. K, 6th Pennsylvania Cavalry</name>, aged 32 years, was wounded in a skirmish at <name type="BATTLE" key="26"><choice><orig>Bristow</orig><reg>Bristoe</reg></choice> Station</name>, <date type="injury" when="1863-10-17">October 17, 1863</date>. <name type="person" key="xxx">Surgeon J. B. Coover</name>, of <name type="organization" key="xxx">the regiment</name>, reported: "Wound of right hand, partially destroying metacarpal bones."  <date type="admit" when="1863-10-19">Two days after the injury</date> the man was admitted to <name type="hospital" key="176">Lincoln Hospital</name>, Washington.  <name type="person" key="243">Assistant Surgeon J. C. McKee</name>, <name type="organization" key="190">U. S. A.</name>, reported the following history: "The ball entered at the metacarpo-phalangeal articulation of the little finger, passing through and fracturing the fourth and fifth metacarpal bones, making its exit at the dorsum.  On November 1st gangrene first appeared. This was cured, and the parts remained perfectly healthy until November 15th, when gangrene reappeared in the wound.  On November 28th tetanus made its appearance; patient very weak, having no appetite and being low in spirits; tetanic spasms easily excited.  On <date type="operation" when="1863-12-02">December 2nd</date> the forearm was amputated, by circular operation, at the junction of the middle and lower thirds, by <name type="person" key="245">Assistant Surgeon H. Allen</name>, <name type="organization" key="190">U. S. A.</name>  Sulphuric ether was used. During the operation the patient lost over twenty ounces of blood, producing syncope. Seven ligatures were applied. No tetanic spasms occurred after the operation. The treatment consisted of tonics, stimulants, and nutritious diet, with warm applications to the stump. The patient gradually sank, and died <date type="death" when="1863-12-13">December 13, 1863</date>.  Some nerves must have been injured by the ball, but whether that was the cause operating to produce the fatal disease is a question. My opinion is that the primary injury done by the missile was not the cause, but the influence of the gangrene attacking the parts was the excitant of the disease."  The specimen, represented in the adjacent cut (<hi rend="initialcap">F</hi>IG. 716), was contributed by <name type="person" key="245">the operator</name>. It consists of a ligamentous preparation of the carpus, metacarpus, and lowest thirds of the bones of the forearm. The dorsal surface of the <choice><orig>os magnum</orig><reg>capitate</reg></choice> and <choice><orig>unciform</orig><reg>hamate</reg></choice> are fractured, and the greater portions of the last two metacarpal bones are shattered.</p> 
+   
+   <figure>
+    <graphic url="cww.001745.001" />
+    <head><hi rend="initialcap">F</hi>IG. 716.&#8212;Caries after shot fracture of right carpus and metacarpus.    <hi rend="italic">Spec</hi>. 1953.</head>
+   </figure>  
+   
+  </body>
+ </text>
+</TEI>

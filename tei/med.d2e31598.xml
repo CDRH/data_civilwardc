@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d2e31598">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Clow, Henry J.</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+       <idno>med.d2e31598</idno>
+       <authority>Civil War Washington</authority>
+       <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor>
+       <name>Center for Digital Research in the Humanities</name>
+       <address><addrLine>319 Love Library</addrLine>
+       <addrLine>University of Nebraska–Lincoln</addrLine>
+       <addrLine>Lincoln, NE 68588-4100</addrLine>
+       <addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+    </distributor>
+    <date>2011</date>
+    <availability>
+        <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+         republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+         law, requires express written consent from the editors and advance notification of the
+         publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+     <persName xml:id="mb">Matthew Bosley</persName>
+     <persName xml:id="jl">James Largen</persName>
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl>
+     <title level="j">The Medical and Surgical History of the War of the Rebellion. (1861-65.)</title>
+     <pubPlace>Washington, DC</pubPlace>
+     <publisher>Government Printing Office</publisher>
+     <biblScope type="part">Part 2</biblScope>
+     <biblScope type="volume">Volume 2</biblScope>
+     <date when="1876">1876</date>
+     <biblScope type="page">87</biblScope>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+       <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+      <keywords scheme="#medsurg">
+       <term>injuries of the abdomen</term>
+       <term>penetrating wounds of the abdomen</term>
+       <term>wounds of the large intestines</term>
+       <term>gunshot wounds</term>
+       <term>cases of recovery</term> 
+       <term>wounded in hypochondriac region</term>
+       <term>ball entered at external edge of rectus muscle, exited back between spine and crest of innominatum</term>
+       <term>missile wounded ascending colon, contents of bowels passed through anterior and posterior openings</term>
+       <term>escape of f&#230;ces but no peritoneal inflammation</term>
+       <term>walking causes lancinating pains in side near wound and in small of back</term>
+       <term>lameness of leg</term>
+       <term>ball entered at anterior end of lower rib, passed through abdomen and wounded colon, emerged between spine and top of ilium</term>
+       <term>disability total and permanent</term>
+       <term>gunshot wound through both thighs, fracture of one femur</term>
+       <term>imperfect action of psoas magnus, constrained action of thigh</term>
+       <term>fracture of femur not recorded in army reports</term>
+       <term>gunshot wound through abdomen, antero-posteriorly, wounded ascending colon and caused fistulous opening</term>
+       <term>abdominal muscles and viscera debilitated, obliged to wear wide belt to sustain organs</term>
+     </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change who="#mb" when="2012-08-13">additional proofing of transcription and encoding, identified keyword terms</change>
+   <change who="#jl" when="2011-02-20">checked OCR; added minimal mark-up for personal names, place names, and dates</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p><hi rend="initialcap">C</hi>ASE 266.&#8212;<name type="person" key="xxx">Corporal Henry J. Clow</name>, <name type="organization" key="xxx">Co. B. 108th New York</name>, aged 19 years, was wounded in the right hypochondriac region at <name type="battle" key="xx">Morton's Ford</name>, <date type="injury" when="1864-02-06">February 6, 1864</date>. He was admitted, on <date type="admit" when="1864-02-07">the next day</date>, into the field hospital of the 3d division of the Second Corps, under the charge of <name type="person" key="xxx">Assistant Surgeon Samuel T. Miller</name>, <name type="organization" key="xxx">12th New Jersey</name>, who furnished the following details of the case in a letter to <name type="person" key="288">Surgeon J. H. Brinton</name>, <name type="organization" key="132">U. S. V.</name>: "Upon examination, I found that a conical ball had entered the right side at the external edge of the rectus muscle, about four inches from the umbilicus, and a little above; its exit was in the back, about three inches from the spine, and two inches above the crest of the right innominatum. In its course, the missile wounded the ascending colon to a fearful extent so much so, that for twenty-one days the whole contents of his bowels passed through the anterior and posterior opening.  On the twenty-second day he had a natural evacuation through the regular channel, and from this time has had scarcely an unfavorable symptom.  March 22d, both the anterior and posterior wounds have healed up; his stools are natural, and there is a fair prospect of a speedy recovery. What is most singular about this is, that he never had any peritoneal inflammation, and, except the escape of the f&#230;ces, no unfavorable symptoms at all. His treatment consisted simply in a liquid diet and whiskey."  On <date type="transfer" when="1864-03-24">March 24th</date>, <name type="person" key="xxx">Clow</name> was transferred to <name type="place" key="#Alexandria">Alexandria</name> and admitted to the <name type="hospital" key="202">Prince Street hospital</name>, where <name type="person" key="307">Surgeon T. Rush Spencer</name>, <name type="organization" key="132">U. S. V.</name>, records the case as "gunshot wound of the right side," but does not indicate that any treatment was necessary.  On <date type="transfer" when="1864-06-29">June 29th</date>, he was transferred to <name type="hospital">Mower Hospital, Philadelphia</name>, and was returned to duty on <date type="duty" when="1864-07-11">July 11th</date>.  <name type="person" key="244">Assistant Surgeon George M. McGill</name>, <name type="organization" key="190">U. S. A.</name>, in a report to <name type="person" key="xxx">Medical Director McParlin</name> of an inspection of the Fifth and Second Corps hospitals, dated <date when="1864-09-07">September 7, 1864</date>, refers to this case as follows: "The wound finally closed May 9th; a f&#230;cal discharge was maintained thirty-one days. At the present date, when he works he feels weak. Walking causes lancinating pains in the side, in the vicinity of the wound, and in the small of his back. When he coughs the cicatrices introvert; he describes a constant abnormal feeling as that of a tight plaster drawing in his side."  It would appear that the man was not fit for field service, as he is spoken of by <name type="person" key="244">Dr. McGill</name> as being "an attendant" at the Second Corps hospital, and, on <date type="admit" when="1864-10-26">October 26th</date>, he is registered as being admitted on account of an "old wound."  On <date type="transfer" when="1864-11-26">November 26, 1864</date>, he was transferred to <name type="hospital" key="176">Lincoln Hospital</name>, Washington, and was discharged from service <date type="servicedischarge" when="1865-01-30">January 30, 1865</date>, for physical disability, <name type="person" key="243">Assistant Surgeon J. C. McKee</name>, <name type="organization" key="190">U. S. A.</name>, noting on the monthly report that there was "lameness of the right leg."  <name type="person" key="xxx">Pension Examiner H. F. Montgomery</name> examined the man on <date type="pension" when="1865-03-01">March 1, 1865</date>, and states that "the ball entered at the anterior end of the right lower rib, passed through the abdomen, wounding the colon, and emerged on a line with the top of the ilium and three inches to the right of the spine. F&#230;cal matter passed out of the wound for thirty-one days. The wounds are healed; but adhesions along the track of the ball render motions of the body painful. In time these adhesions will be elongated. Disability total; will probably diminish."  <name type="person" key="xxx">Pension Examiner DeWitt C. Wade</name>, of <name type="place">Oakland County, Michigan</name>, reports, <date type="pension" when="1870-03-09">March 9, 1870</date>: "Gunshot wound through both thighs, with fracture of left femur. Several pieces of bone have been removed. Gunshot wound through abdomen, antero-posteriorly, on right side, wounding the ascending colon, and for a time causing a fistulous opening; wounds now all healed. The left limb is much weakened. The abdominal muscles and viscera are debilitated in their action, and he is  obliged to wear a wide belt to sustain those organs. The action of the wounded psoas magnus is imperfect, and hence constrained action of right thigh. Rate total and permanent; he should have received the same since his discharge. No vicious habits."  The fracture of the femur is not recorded in any of the army reports.</p>   
+  </body>
+ </text>
+</TEI>

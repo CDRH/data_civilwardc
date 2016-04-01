@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e11094">
+        <teiHeader>
+                <fileDesc>
+                        <titleStmt>
+                                <title level="m" type="main">Parks, D. W.</title>
+                                <title level="m" type="sub">a machine readable transcription</title>
+                                <principal>Susan C. Lawrence</principal>
+                                <principal>Kenneth M. Price</principal>
+                                <principal>Kenneth J. Winkle</principal>
+                        </titleStmt>
+                        <editionStmt>
+                                <edition>
+                                        <date>2011</date>
+                                </edition>
+                        </editionStmt>
+                        <publicationStmt>
+                                <idno>med.d1e11094</idno>
+                                <authority>Civil War Washington</authority>
+                                <publisher>University of Nebraska–Lincoln</publisher>
+                                <distributor>
+                                        <name>Center for Digital Research in the Humanities</name>
+                                        <address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+                                </distributor>
+                                <date>2011</date>
+                                <availability>
+                                        <p>Copyright © 2011 by University of Nebraska–Lincoln, all
+                                                rights reserved. Redistribution or republication in
+                                                any medium, except as allowed under the Fair Use
+                                                provisions of U.S. copyright law, requires express
+                                                written consent from the editors and advance
+                                                notification of the publisher, the University of
+                                                Nebraska–Lincoln.</p>
+                                </availability>
+                        </publicationStmt>
+                        <notesStmt>
+                                <note type="project">The following are responsible for particular readings or for changes to this file, as noted: 
+                                        <persName xml:id="mb">Matthew Bosley</persName>
+                                        <persName xml:id="el">Elizabeth Lorang</persName>
+                                        <persName xml:id="sb">Stacey Berry</persName>
+                                        <persName xml:id="et">Elisabeth Tracey</persName>
+                                </note>
+                        </notesStmt>
+                        <sourceDesc>
+                                <bibl>
+                                        <title level="j">The Medical and Surgical History of the War of the Rebellion</title>
+                                        <pubPlace>Washington, DC</pubPlace>
+                                        <publisher>Government Printing Office</publisher>
+                                        <biblScope type="part">Part 3</biblScope>
+                                        <biblScope type="volume">Volume 1</biblScope>
+                                        <date when="1888">1888</date>
+                                        <biblScope type="page">776</biblScope>
+                                </bibl>
+                        </sourceDesc>
+                </fileDesc>
+                <encodingDesc>
+                        <classDecl>
+                                <taxonomy xml:id="medsurg">
+                                        <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+                                </taxonomy>
+                        </classDecl>
+                </encodingDesc>
+                <profileDesc>
+                        <textClass>
+                                <keywords scheme="#medsurg">
+                                        <term>diseases attributed to non-miasmatic exposures</term>
+                                        <term>diseases of the respiratory organs</term>
+                                        <term>pneumonia</term>
+                                        <term>post-mortem records</term> 
+                                        <term>lobar pneumonias</term>
+                                        <term>cases terminated in abscess or circumscrihed disintegration of the pulmonary tissue</term>
+                                        <term>portions of lobes solidified and contained circumscribed collections of pus</term>
+                                        <term>middle and lower lobes interadherent</term>
+                                        <term>pleural sac contained pus</term>
+                                        <term>liquid in pericardium</term>
+                                        <term>hyper&#230;mia of small intestine</term>
+                                </keywords>
+                        </textClass>
+                </profileDesc>
+                <revisionDesc>
+                        <change who="#mb" when="2013-03-08">additional proofing of transcription and encoding, edited and added keyword terms</change>
+                        <change who="#mb" when="2011-07-05">additional proofing of transcription and encoding</change>
+                        <change who="#el" when="2011-05-11">case text extracted and transformed from larger file</change>
+                        <change who="#sb" when="2011-02-23">Encoding and Proofing</change>
+                        <change who="#et" when="2009-12-01">Initial Checking OCR Text to PDF file,</change>
+                </revisionDesc>
+        </teiHeader>
+        <text>
+                <body>                        
+                        <p> <hi rend="initialcap">C</hi>ASE 128.&#8212;<name type="person">Captain D. W. Parks</name>, <name type="organization">Co. E,
+                                54th N.C.</name>; age 33; admitted <date type="admit" when="1863-05-10">May 10, 1863</date>.  Died <date type="death" when="1863-06-12">June 12</date>.   <hi rend="italic">Post-mortem</hi> examination: The brain was healthy. The mucous membrane of the trachea was softened, pale in its upper
+                                        portion and purplish towards the bifurcation. The right lung
+                                        weighed twenty-two ounces and a half; the whole of its lower
+                                        lobe and the posterior portions of the other lobes were
+                                        solidified and contained circumscribed collections of pus;
+                                        the middle and lower lobes were interadherent and coated
+                                        with yellowish lymph. The left lung weighed eighteen ounces;
+                                        its lower lobe was affected like that on the opposite side,
+                                        but it was less firmly solidified and contained fewer pus
+                                        deposits; the left pleural sac contained sixteen ounces of
+                                        pus. Two ounces of liquid were found in the pericardium;
+                                        venous clots and uncoagulated blood in the right cavities of
+                                        the heart, and a small clot in the left side. The liver
+                                        weighed fifty-eight ounces; the spleen, nineteen ounces,
+                                        was extremely soft; the pancreas and kidneys normal. Some
+                                        regions of hyper&#230;mia were observed in the small intestine,
+                                        but the large intestine was healthy.&#8212;<hi rend="italic"><name type="person" key="245">Ass't Surgeon Harrison Allen</name>, <name type="organization" key="190">U. S. A.</name>, <name type="hospital" key="176">Lincoln Hospital</name>, Washington, D. C.</hi> </p>                        
+                </body>
+        </text>
+</TEI>

@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d2e31332">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Lovell, C. H.</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+       <idno>med.d2e31332</idno>
+       <authority>Civil War Washington</authority>
+       <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor>
+       <name>Center for Digital Research in the Humanities</name>
+       <address><addrLine>319 Love Library</addrLine>
+       <addrLine>University of Nebraska–Lincoln</addrLine>
+       <addrLine>Lincoln, NE 68588-4100</addrLine>
+       <addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+    </distributor>
+    <date>2011</date>
+    <availability>
+        <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+         republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+         law, requires express written consent from the editors and advance notification of the
+         publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+ <persName xml:id="kmp">Kenneth M. Price</persName> 
+     <persName xml:id="mb">Matthew Bosley</persName>
+     <persName xml:id="hf">Heather Furrow</persName>
+     <persName xml:id="kk">Kourtney Klein</persName>
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl>
+     <title level="j">The Medical and Surgical History of the War of the Rebellion. (1861-65.)</title>
+     <pubPlace>Washington, DC</pubPlace>
+     <publisher>Government Printing Office</publisher>
+     <biblScope type="part">Part 2</biblScope>
+     <biblScope type="volume">Volume 2</biblScope>
+     <date when="1876">1876</date>
+     <biblScope type="page">850</biblScope>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+       <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+      <keywords scheme="#medsurg">
+       <term>wounds and injuries of the upper extremities</term>
+       <term>wounds and injuries of the elbow joint</term> 
+       <term>shot wounds of the elbow joint</term>
+       <term>excisions at the elbow joint for shot injury</term> 
+       <term>primary excisions at the elbow</term>
+       <term>recoveries after primary excisions at the elbow</term>
+       <term>gunshot wound of arm with fracture of condyles of humerus</term> 
+       <term>excision of elbow</term>
+       <term>gunshot fracture of lower third of humerus</term>
+       <term>excision of part of humerus, commencing one inch above condyles</term>
+       <term>resection of humerus just above elbow joint</term>       
+       <term>arm shortened four inches, slightly atrophied</term>
+       <term>able to do work at arm's length</term> 
+       <term>disability total and permanent</term>
+       <term>furnished with <choice><sic>prothetic</sic><corr>prosthetic</corr></choice> apparatus</term>    
+     </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+ <change who="#kmp" when="2014-05">blessed</change>
+   <change who="#kk" when="2014-01-17">added figure encoding</change>
+   <change who="#mb" when="2012-07-18">additional proofing of transcription and encoding, identified keyword terms</change>
+   <change who="#hf" when="2011-02-23">checked OCR; added minimal mark-up for personal names, place names, and dates</change>  
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>   
+   <p><hi rend="initialcap">C</hi>ASE 1786.&#8212;<name type="person" key="xxx">Sergeant C. H. Lovell</name>, <name type="organization" key="xxx">Co. D, 14th New York Heavy Artillery</name>, aged 24 years, was wounded at <name type="BATTLE" key="16">Cold Harbor</name>, <date type="injury" when="1864-06-02">June 2, 1864</date>, and taken to the 1st division, Ninth Corps, hospital. <name type="person" key="xxx">Surgeon M. K. Hogan</name>, <name type="organization" key="132">U. S. V.</name>, reported &#34;a gunshot wound of the right arm with fracture of the condyles of the humerus, and that the patient was operated upon, by excision of the elbow, <date type="operation" when="1864-06-03">twenty hours after being wounded</date>. On <date type="transfer" when="1864-06-02">the 9th</date> he was transferred to <name type="hospital" key="176">Lincoln Hospital</name>, Washington, and thence to <name type="place">Philadelphia</name>, entering Mower Hospital <date type="transfer" when="1864-07-22">July 22d</date>.  <name type="person" key="xxx">Surgeon Joseph Hopkinson</name>, <name type="organization" key="132">U. S. V.</name>, recorded the operation as follows: &#34;Gunshot fracture of lower third of right humerus. Excision of four inches of right humerus, commencing at a point one inch above the condyles, by a straight incision four and a half inches in length, over and in the line of the humerus. The patient was in good condition at the time of operation.&#34;  On <date type="servicedischarge" when="1864-09-06">September 6, 1864</date>, the patient was discharged and pensioned, his disability being rated one-half. <name type="person" key="xxx">Examiner J. B. Graves</name>, of <name type="place">Corning, New York</name>, <date type="pension" when="1864-09-08">September 8, 1864</date>, reported: &#34;Gunshot wound of right arm. Resection of humerus just above the elbow joint, three inches in extent.&#34;  On <date type="pension" when="1865-06-29">June 29, 1865</date>, he reported: &#34;Pieces of bone are working out, and the wound discharging pus continually. Every attempt to use the arm inflames it and lays him up.&#34;  On <date type="pension" when="1866-01-16">January 16, 1866</date>, <name type="person" key="xxx">Dr. E. D. Hudson</name> furnished the patient with a <choice><sic>prothetic</sic><corr>prosthetic</corr></choice> apparatus, which, from the outset, proved highly useful. At that time the arm was shortened nearly four inches, and slightly atrophied. There was no use of the forearm, but the functions of the hand were normal. When the apparatus was applied, however, the patient was able to lift his forearm and to carry at right angles from the body, and to raise a chair at an angle of 45 degrees. <name type="person" key="xxx">Dr. Hudson</name> contributed the photograph of the pensioner, taken <date type="photo" when="1866-01-16">at this time</date>, to <name type="hospital" key="431">the Museum</name>. A reduced copy of it is represented in the adjacent wood-cut (<hi rend="initialcap">F</hi>IG. 609). On <date type="pension" when="1866-10-22">October 22, 1866</date>, <name type="person" key="xxx">Examiner J. B. Graves</name>, who reports the patient to be suffering from caries of the lower end of the humerus, with a continuous discharge and pain, rates his disability total and permanent. A communication from <name type="person" key="xxx">Dr. H. C. May</name>, late Assistant Surgeon of Volunteers, dated <date type="pension" when="1868-03-18">March 18, 1868</date>, states that this man has been employed for two years as a fireman in a factory at <name type="place">Corning, New York</name>, and is able to do any work at arm's length, like pitching wood, shoveling coal, etc. The <name type="organization" key="xxx">Elmira board</name>, consisting of <name type="person" key="xxx">Drs. H. S. Chubbuck</name>, <name type="person" key="xxx">H. C. May</name>, and <name type="person" key="xxx">George Dean</name>, <date type="pension" when="1873-09-05">September 5, 1873</date>, reported: &#34; .   .   Circulation of arm good, and arm well nourished; disability total.&#34;  This pensioner was paid to <date type="pension" when="1874-03-04">March 4, 1874</date>.</p>
+   
+   <figure>
+    <graphic url="cww.001733.001" />
+    <head><hi rend="initialcap">F</hi>IG. 609.&#8212;Results nineteen months after primary excision.</head>
+   </figure>
+   
+  </body>
+ </text>
+</TEI>

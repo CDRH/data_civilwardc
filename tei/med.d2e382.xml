@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d2e382">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Young, J. W.</title>
+                <title level="m" type="sub">a machine readable transcription</title>
+                <principal>Susan C. Lawrence</principal>
+                <principal>Kenneth M. Price</principal>
+                <principal>Kenneth J. Winkle</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition><date>2011</date></edition>
+            </editionStmt>
+            <publicationStmt>
+                <idno>med.d2e382</idno>
+                <authority>Civil War Washington</authority>
+                <publisher>University of Nebraska–Lincoln</publisher>
+                <distributor><name>Center for Digital Research in the
+                    Humanities</name><address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address></distributor>
+                <date>2011</date>
+                <availability>
+                    <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved.
+                        Redistribution or republication in any medium, except as allowed under the
+                        Fair Use provisions of U.S. copyright law, requires express written consent
+                        from the editors and advance notification of the publisher, the University
+                        of Nebraska–Lincoln.</p>
+                </availability>
+            </publicationStmt>
+            <notesStmt>
+                <note type="project">The following are responsible for particular readings or for
+                    changes to this file, as noted: 
+                    <persName xml:id="mb">Matthew Bosley</persName>
+                    <persName xml:id="el">Elizabeth Lorang</persName>
+                    <persName xml:id="sb">Stacey Berry</persName>
+                    <persName xml:id="et">Elisabeth Tracey</persName>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <bibl><title level="j">The Medical and Surgical History of the War of the Rebellion.
+                        (1861-65.)</title><pubPlace>Washington, DC</pubPlace><publisher>Government
+                        Printing Office</publisher><biblScope type="part">Part
+                        3</biblScope><biblScope type="volume">Volume 2</biblScope><date when="1883">1883</date><biblScope type="page">12</biblScope></bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <classDecl>
+                <taxonomy xml:id="medsurg">
+                    <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme="#medsurg">
+                    <term>wounds and injuries of the lower extremities</term>                                                                 
+                    <term>flesh wounds of the lower extremities</term>
+                    <term>shot flesh wounds</term>
+                    <term>flesh wounds of the lower limbs, with injury of the larger nerves</term>
+                    <term>injuries of anterior and posterior tibial nerves</term>
+                    <term>ball entered upper gastrocnemius muscle</term> 
+                    <term>complete paralysis of extensor muscles of leg</term>
+                    <term>foot dropped to full extension</term>
+                    <term>flexion of foot to leg impossible</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change who="#mb" when="2012-01-31">additional proofing of transcription and encoding</change>
+            <change who="#el" when="2011-05-11">case text extracted and transformed from larger
+                file</change>
+            <change who="#sb" when="2011-06-04">Enrich Encoding, Edit and validate</change>
+            <change who="#sb" when="2011-01-28">Validated File</change>
+            <change who="Sarah Synovec" when="2008-09-22">Sarah Synovec initial checking of OCR
+                text; encoded P5 Encoding</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            
+                <p><hi rend="initialcap">C</hi>ASE 18.&#8212;<name type="person" key="870">Private
+                        J. W. Young</name>, <name type="organization" key="326">Co. E, 137th New
+                        York</name>, aged 27 years, was wounded at <name type="BATTLE" key="249">Gettysburg</name>, <date type="injury" when="1863-07-02">July 2,
+                        1863</date>, and, admitted to <name type="hospital" key="173">Harewood
+                            Hospital</name>, Washington, <date type="admit" when="1863-07-23">three weeks afterward</date>. <name
+                                type="person" key="176">Acting Assistant Surgeon T. H. Elliott</name> reported:
+                    &#34;Gunshot wound of right leg. Ball entered through upper portion of gastrocnemius
+                    muscle and emerged near the head of the fibula. The foot, immediately after the
+                    injury, dropped to full extension; all of the muscles of the leg paralyzed from
+                    division of nerves; flexors of thigh contracted, causing the heel to be raised
+                    from the floor three inches in the erect posture. Patient is unable to bear any
+                    weight on the limb. August 6th, wound unhealed; paralysis of extensor muscles
+                    complete. Patient discharged from service <date type="servicedischarge"
+                        when="1863-08-16">August 16, 1863</date>.&#34; <name type="person" key="xx">Examiner J. G. Orton</name>, of <name type="place" >Binghamton, New York</name>, <date type="pension" when="1866-09-15">September 15, 1866</date>, certified: &#34;The power of
+                    flexion of the foot upon the leg is impossible in consequence of injury to
+                    flexor muscles; walking is performed with much difficulty and not without
+                    assistance.&#34; On <date type="pension" when="1876-02-29">February 29, 1876</date>, he reported:  &#42;  &#42;  &#34;The power of flexion of the
+                    foot is entirely gone. It is at present almost worthless, the foot being
+                    swollen, and drags when he walks; he cannot walk without assistance.&#34; The
+                    pensioner was paid <date type="pension" when="1876-03-04">March 4, 1876</date>. </p>
+            
+        </body>
+    </text>
+</TEI>

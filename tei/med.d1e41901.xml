@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e41901">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Smith, William H.</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+    <idno>med.d1e41901</idno>
+       <authority>Civil War Washington</authority>
+       <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor>
+       <name>Center for Digital Research in the Humanities</name>
+       <address><addrLine>319 Love Library</addrLine>
+       <addrLine>University of Nebraska–Lincoln</addrLine>
+       <addrLine>Lincoln, NE 68588-4100</addrLine>
+       <addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+    </distributor>
+    <date>2011</date>
+    <availability>
+        <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+         republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+         law, requires express written consent from the editors and advance notification of the
+         publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+     <persName xml:id="mb">Matthew Bosley</persName>
+     <persName xml:id="el">Elizabeth Lorang</persName>
+     <persName xml:id="sb">Stacey Berry</persName>
+     <persName xml:id="ao">Alyssa Olson</persName>      
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl>
+     <title level="j">The Medical and Surgical History of the War of the Rebellion. (1861-65.)</title>
+     <pubPlace>Washington, DC</pubPlace>
+     <publisher>Government Printing Office</publisher>
+     <biblScope type="part">Part 2</biblScope>
+     <biblScope type="volume">Volume 1</biblScope>
+     <date when="1879">1879</date>
+     <biblScope type="page">411</biblScope>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+       <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+      <keywords scheme="#medsurg">
+       <term>diarrh&#339;a and dysentery</term>
+       <term>remarks on the pathology and treatment of diarrh&#339;a and dysentery</term>
+       <term>acute dysentery</term>                    
+       <term>complications of dysentery</term>       
+       <term>paralysis as a sequel to dysentery</term>       
+       <term>paraplegia</term> 
+       <term>chronic diarrh&#339;a and rheumatism</term>
+       <term>lost use of lower limbs, unable to walk since</term>
+       <term>magneto-electric machine used</term>        
+     </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change who="#mb" when="2013-01-30">additional proofing of transcription and encoding, identified keyword terms</change>
+   <change who="#el" when="2010-11-05">case text extracted and transformed from larger file</change>
+   <change who="#sb" when="2010-05-01">enrich encoding, proof and edit</change>
+   <change who="#ao" when="2008-10-02">encoding and editing</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body> 
+   <p><hi rend="initialcap">C</hi>ASE 891.&#8212;<name type="person" key="xxx">Corporal William H. Smith</name>, <name type="organization" key="xxx">company K, 77th New York volunteers</name>, was admitted to McKim's Mansion hospital, <name type="place">Baltimore, Maryland</name>, <date type="admit" when="1863-06-17">June 17, 1863</date>, with paraplegia.  He stated that about <date type="admit" when="1863-02-01">the first of February</date> he was admitted to regimental hospital at <name type="place">White Oak Church, Virginia</name>, suffering with chronic diarrh&#339;a and rheumatism. About <date type="injury" when="1863-02-28">the last of February</date> he lost the use of his lower limbs, and has been unable to walk ever since. He attributed this accident to having "taken cold," or to injuries received at one time to the left hip, at another to the left leg, prior to enlistment, from which he supposed he had recovered. He was subsequently transferred to the hospital at<name type="place">Potomac creek</name>, and afterwards to <name type="hospital" key="176">Lincoln hospital</name>, Washington, whence he came to McKim's Mansion.  In this case the magneto-electric machine was used, but only with "slight benefit," and the patient was discharged the service on surgeon's certificate of disability, <date type="servicedischarge" when="1863-08-24">August 24th</date>.&#8212;<name type="person" key="xxx">Acting Assistant Surgeon William G. Smull</name>.</p>   
+  </body>
+ </text>
+</TEI>

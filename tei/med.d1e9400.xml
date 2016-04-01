@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e9400">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Perkins, James B.</title>
+                <title level="m" type="sub">a machine readable transcription</title>
+                <principal>Susan C. Lawrence</principal>
+                <principal>Kenneth M. Price</principal>
+                <principal>Kenneth J. Winkle</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2011</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <idno>med.d1e9400</idno>
+                <authority>Civil War Washington</authority>
+                <publisher>University of Nebraska–Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+                </distributor>
+                <date>2011</date>
+                <availability>
+                    <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved.
+                        Redistribution or republication in any medium, except as allowed under the
+                        Fair Use provisions of U.S. copyright law, requires express written consent
+                        from the editors and advance notification of the publisher, the University
+                        of Nebraska–Lincoln.</p>
+                </availability>
+            </publicationStmt>
+            <notesStmt>
+                <note type="project">The following are responsible for particular readings or for changes to this file, as noted: 
+                    <persName xml:id="mb">Matthew Bosley</persName>
+                    <persName xml:id="el">Elizabeth Lorang</persName>
+                    <persName xml:id="sb">Stacey Berry</persName>
+                    <persName xml:id="et">Elisabeth Tracey</persName>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>The Medical and Surgical History of the War of the Rebellion. (1861&#8211;65.)</title>
+                    <editor role="compiler">Surgeon General Joseph K. Barnes, United States Army</editor>
+                    <pubPlace>Washington, D.C.</pubPlace>
+                    <publisher>Government Printing Office</publisher>
+                    <biblScope type="part">Part 1</biblScope>
+                    <biblScope type="volume">Volume 2</biblScope>
+                    <date when="1870">1870</date>
+                    <biblScope type="page">130</biblScope>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <classDecl>
+                <taxonomy xml:id="medsurg">
+                    <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme="#medsurg">
+                    <term>on special wounds and injuries of the head</term>
+                    <term>wounds and injuries of the head</term>
+                    <term>gunshot wounds</term>
+                    <term>gunshot contusions of the cranial bones</term> 
+                    <term>gunshot fractures of the external table of the cranium alone</term>
+                    <term>fractures of the external wall of the frontal sinus</term>
+                    <term>musket ball fractured frontal bone above eye, lodged in frontal sinus</term>
+                    <term>taken prisoner and paroled</term>
+                    <term>external table of frontal bone denuded and slightly depressed</term>                    
+                    <term>missile removed, with fragments of bone</term>
+                    <term>musket ball partially imbedded in frontal sinus</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change who="#mb" when="2013-06-17">additional proofing of transcription and encoding, edited and added keyword terms</change>
+            <change who="#mb" when="2011-10-03">additional proofing of transcription and encoding</change>
+            <change who="#mb" when="2011-06-23">additional proofing of transcription and encoding</change>
+            <change who="#el" when="2011-05-11">case text extracted and transformed from larger file</change>
+            <change who="#sb" when="2011-02-09">enriched encoding</change>
+            <change who="#sb" when="2011-01-28">validated file</change>
+            <change who="#et" when="2009-08-01">encoded</change>
+            <change who="#sb" when="2008-09-22">initial checking of OCR text against PDF; encoded
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body xml:id="ch1.sc3.0140">            
+                <p><hi rend="initialcap">C</hi>ASE.&#8212;<name type="person" key="418">Private
+                        James B. Perkins</name>, <name type="organization" key="614">Co H, 20th
+                            Connecticut Volunteers</name>, aged 23 years, was wounded at the battle of <name
+                                type="BATTLE" key="10">Chancellorsville, Virginia</name>, <date
+                        type="injury" when="1863-05-03">May 3d, 1863</date>, by a musket ball which
+                    fractured the frontal bone an inch above the right eye and lodged in the frontal
+                    sinus.  He was taken prisoner, but was paroled on May 10th, and admitted <date type="admit" when="1863-05-12">two days
+                    subsequently</date> into the field hospital of the Twelfth Corps. He was transferred to
+                        <name type="hospital" key="214">Fairfax Seminary hospital</name> on <date
+                        type="transfer" when="1863-06-14">June 14th</date>, and thence to
+                    <name type="place">Philadelphia</name> on <date type="transfer" when="1863-06-17">the 17th</date>, and
+                    admitted into <name type="hospital">Mower Hospital</name>.  On the 28th an examination of the wound revealed
+                    the external table denuded and slightly depressed.  On July 10th the wound was
+                    discharging healthy pus, and on August 5th had closed, except an opening half an
+                    inch wide.  On November 23d he had sufficiently recovered to be placed on guard
+                    duty in the hospital.  On <date type="operation" when="1863-12-08">December 8th</date> a slight swelling over the right frontal
+                    protuberance was observed. The probe detected small loose fragments of bone. <name type="person" key="419">Acting Assistant Surgeon J. M. McGrath</name>
+                    made a straight incision an inch in length, extending from the fistulous orifice
+                    over the superciliary ridge. The outer table of the skull was found destroyed,
+                    and a musket ball almost completely divided through its centre and spread open,
+                    was discovered partially imbedded in the frontal sinus. The missile, together
+                    with several fragments of bone, was removed by forceps. The wound was closed by
+                    adhesive strips, and cold water dressings were applied.  The patient improved
+                    gradually, and by January 18th, 1864, the wound had healed except at a small
+                    opening through which there was a slight discharge of healthy pus.  On <date
+                        type="transfer" when="1864-03-31">March 31st</date> he was transferred to
+                    <name type="place">New Haven</name> to the Knight Hospital, whence he was returned to duty on <date
+                        type="duty" when="1864-05-07">May 7th, 1864</date>.   The case is reported by
+                        <name type="person" key="403">Surgeon Joseph Hopkinson</name>, <name
+                        type="organization" key="132">U. S. V.</name>  The name of this patient is
+                    not upon the rolls of the Pension Office. </p>            
+        </body>
+    </text>
+</TEI>

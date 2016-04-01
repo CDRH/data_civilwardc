@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d2e28842">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Mon, Peter</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     <date>2011</date>
+    </edition>
+   </editionStmt>
+   <publicationStmt>
+    <idno>med.d2e28842</idno>
+    <authority>Civil War Washington</authority>
+    <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor>
+     <name>Center for Digital Research in the Humanities</name>
+     <address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+    </distributor>
+    <date>2011</date>
+    <availability>
+     <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+      republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+      law, requires express written consent from the editors and advance notification of the
+      publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+     <persName xml:id="ajh">AJ Howell</persName>
+     <persName xml:id="el">Elizabeth Lorang</persName>
+     <persName xml:id="sb">Stacey Berry</persName>
+     <persName xml:id="et">Elisabeth Tracey</persName>
+     <persName xml:id="ss">Sarah Synovec</persName>
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl>
+     <title level="j">The Medical and Surgical History of the War of the Rebellion.
+      (1861-65.)</title>
+     <pubPlace>Washington, DC</pubPlace>
+     <publisher>Government Printing Office</publisher>
+     <biblScope type="part">Part 3</biblScope>
+     <biblScope type="volume">Volume 2</biblScope>
+     <date when="1883">1883</date>
+     <biblScope type="page">851</biblScope>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+     <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <keywords scheme="#medsurg">
+     <term>wounds and complications</term>
+     <term>hospital gangrene</term> 
+     <term>ball entered internal portion of calf of leg, lacerated posterior tibial vessels, comminuted both bones, lodged in gastrocnemius muscle</term> 
+     <term>gangrene in foot</term>
+     <term>amputation in lower third thigh</term> 
+     <term>femoral artery ligated</term>      
+     <term>diarrh&#339;a</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change who="#ajh" when="2012-06-05">additional proofing of transcription and encoding, identified keyword terms</change>
+   <change who="#el" when="2011-05-11">case text extracted and transformed from larger file</change>
+   <change who="#sb" when="2011-06-04">Enrich Encoding, Edit and validate</change>
+   <change who="#sb" when="2011-01-28">Validated File</change>
+   <change who="#ss" when="2008-09-22">initial checking of OCR text; encoded P5 Encoding</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+    <p><hi rend="initialcap">C</hi>ASE 1214.&#8212;<name type="person" key="1515">Private Peter Mon</name>, <name type="organization" key="565">Co. E, 2d Massachusetts</name>, aged 27 years,
+     was wounded at <name type="BATTLE" key="10">Chancellorsville</name>, <date type="injury" when="1863-05-03">May 3, 1863</date>.  On <date type="admit" when="1863-05-07">May 7th</date>
+     he was admitted into <name type="hospital" key="162">Douglas Hospital</name>, Washington. A mini&#233; ball had entered the internal portion of the calf of the right leg, lacerated the posterior tibial vessels, comminuted both bones, and lodged in the gastrocnemius muscle.  When admitted to the hospital his general condition was tolerable, and the injury to the vessels was not detected, as the heat and appearance of the foot were good. On <date type="operation" when="1863-05-09">May 9th</date> it was noticed that dry gangrene was beginning in the foot, and, after free stimulation during that day, a circular amputation was done in the lower third of the thigh by <name type="person" key="200">Assistant Surgeon W. Thomson</name>, <name type="organization" key="190">U. S. A.</name>  The patient reacted well and had no bad symptoms from the moment of the amputation. The ligature around the femoral artery separated on the tenth day, and by May 22d nearly one-half of the
+     flap had united. A slight tendency to diarrh&#339;a was readily checked by laudanum enemata. The patient was discharged <date type="hospitaldischarge" when="1863-08-26">August 26, 1863</date>; stump quite well; patient strong and hearty.</p>
+  </body>
+ </text>
+</TEI>

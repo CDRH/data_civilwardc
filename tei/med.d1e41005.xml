@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e41005">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Russell, Alonzo</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+       <idno>med.d1e41005</idno>
+       <authority>Civil War Washington</authority>
+       <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor>
+       <name>Center for Digital Research in the Humanities</name>
+       <address><addrLine>319 Love Library</addrLine>
+       <addrLine>University of Nebraska–Lincoln</addrLine>
+       <addrLine>Lincoln, NE 68588-4100</addrLine>
+       <addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+    </distributor>
+    <date>2011</date>
+    <availability>
+        <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+         republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+         law, requires express written consent from the editors and advance notification of the
+         publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+     <persName xml:id="mb">Matthew Bosley</persName>
+     <persName xml:id="el">Elizabeth Lorang</persName>
+     <persName xml:id="sb">Stacey Berry</persName>
+     <persName xml:id="ao">Alyssa Olson</persName>
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl>
+     <title level="j">The Medical and Surgical History of the War of the Rebellion. (1861-65.)</title>
+     <pubPlace>Washington, DC</pubPlace>
+     <publisher>Government Printing Office</publisher>
+     <biblScope type="part">Part 2</biblScope>
+     <biblScope type="volume">Volume 1</biblScope>
+     <date when="1879">1879</date>
+     <biblScope type="page">161</biblScope>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+       <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+      <keywords scheme="#medsurg">
+       <term>diarrh&#339;a and dysentery</term>
+       <term>fatal cases of diarrh&#339;a and dysentery, with accounts of the morbid appearances observed</term>
+       <term>from Lincoln Hospital, Washington, D. C.</term>
+       <term>consumption</term>
+       <term>sputa somewhat purulent, mixed with blood</term>
+       <term><choice><orig>dulness</orig><reg>dullness</reg></choice> on percussion below both clavicles, mucous rales heard on both sides of chest</term>
+       <term>Pacchionian bodies attained great size, produced absorption of dura mater, internal table, and diplo&#246;e</term>
+       <term>tubercular deposit in anterior edge of upper lobe of left lung, another in apex of right lung</term>
+       <term>bronchial glands dark and hard</term>
+       <term>miliary tubercles scattered through substance of liver</term>
+       <term>spleen filled with tubercles</term>
+       <term>stomach congested almost to ecchymosis</term>
+       <term>upper jejunum slate-colored, solitary and agminated glands normal</term>       
+       <term>autopsy performed</term>       
+     </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change who="#mb" when="2012-11-01">additional proofing of transcription and encoding, identified keyword terms</change>
+   <change who="#el" when="2010-11-05">case text extracted and transformed from larger file</change>
+   <change who="#sb" when="2010-05-01">enrich encoding, proof and edit</change>
+   <change who="#ao" when="2008-10-02">encoding and editing</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body> 
+   <p>Case from the case-book of <name type="hospital" key="176"><hi rend="initialcap">L</hi>INCOLN <hi rend="initialcap">H</hi>OSPITAL</name>, Washington, D. C.; <name type="person" key="241">Surgeon Henry Bryant</name>, <name type="organization" key="132">U. S. V.</name>, in charge to May, 1863.</p>
+   <p><hi rend="initialcap">C</hi>ASE 345.&#8212;<name type="person" key="xxx">Private Alonzo Russell</name>, <name type="organization" key="xxx">company C, 7th Wisconsin volunteers</name>; admitted <date type="admit" when="1863-02-19">February 19, 1863</date>.  Consumption.  [This man appears on the register of the hospital of the 1st Division, 1st Army Corps, <name type="place">Windmill Point, Aquia Creek, Virginia</name>, admitted <date type="admit" when="1863-01-18">January 18th</date>&#8212;chronic diarrh&#339;a&#8212;sent to general hospital <date type="transfer" when="1863-02-18">February 18th</date>.]  On admission this patient was extremely exhausted. He was much emaciated, and complained of cough, and pain in both lungs and in the abdomen. The sputa were somewhat purulent, and mixed with blood. There was <choice><orig>dulness</orig><reg>dullness</reg></choice> on percussion below both clavicles, and mucous rales were heard on both sides of the chest. He had three or four loose evacuations daily; had but little appetite; the abdomen was tender on pressure. Stimulants and nourishing diet were directed.  Died, <date type="death" when="1863-02-25">February 25th</date>.&#8212;<name type="person" key="xxx">Acting Assistant Surgeon E. E. Andrews</name>.  <hi rend="italic">Autopsy</hi> <date type="autopsy" when="1863-02-26">sixteen hours after death</date>: Height five feet eight inches; body emaciated, somewhat rigid; apparent age 23. The brain weighed forty-four ounces and a half; was light colored and soft. In two places, one on each side of the longitudinal sinus, the Pacchionian bodies had attained great size, producing absorption of the dura mater, internal table, and diplo&#246;e. The right lung weighed seventeen ounces and a quarter, the left twenty-one ounces and a half; both were congested hypostatically; there was a tubercular deposit the size of a filbert in the anterior edge of the upper lobe of the left lung; another the size of a pea in the apex of the right lung. The bronchial glands were dark and hard. The heart weighed six ounces; it was firm, red, and contained no clots; the usual amount of adipose tissue was present. The pericardium contained an ounce of serum. The liver weighed thirty-six ounces; scattered through its substance were a number of miliary tubercles; two drachms of light-colored watery bile were found in the gall-bladder. The spleen weighed three ounces and a quarter; it was of a dark-brown color, firm consistence, and filled with tubercles. The pancreas weighed two ounces and one-eighth; it was dark colored and very firm. The suprarenal capsules were large and tough. The right kidney weighed four ounces and a quarter, the left four ounces and a half; they were very much congested. The stomach was congested almost to ecchymosis; its mucous membrane soft, the congestion and softening extending into the duodenum. The upper part of the jejunum was slate-colored; other portions of the intestinal mucous membrane were congested. The solitary and agminated glands were normal.&#8212;<name type="person" key="244">Assistant Surgeon George M. McGill</name>, <name type="organization" key="190">U. S. A.</name></p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e18813">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title level="m" type="main">L&#8212;&#8212;, Frederick</title>
+        <title level="m" type="sub">a machine readable transcription</title>
+        <principal>Susan C. Lawrence</principal>
+        <principal>Kenneth M. Price</principal>
+        <principal>Kenneth J. Winkle</principal>
+      </titleStmt>
+      <editionStmt>
+        <edition><date>2011</date></edition>
+      </editionStmt>
+      <publicationStmt>
+        <idno>med.d1e18813</idno>
+        <authority>Civil War Washington</authority>
+        <publisher>University of Nebraska–Lincoln</publisher>
+        <distributor><name>Center for Digital Research in the
+          Humanities</name><address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address></distributor>
+        <date>2011</date>
+        <availability>
+          <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution
+            or republication in any medium, except as allowed under the Fair Use provisions of U.S.
+            copyright law, requires express written consent from the editors and advance
+            notification of the publisher, the University of Nebraska–Lincoln.</p>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="project">The following are responsible for particular readings or for changes to
+          this file, as noted: 
+ <persName xml:id="kmp">Kenneth M. Price</persName> 
+          <persName xml:id="ajh">AJ Howell</persName>
+          <persName xml:id="mb">Matthew Bosley</persName>
+          <persName xml:id="el">Elizabeth Lorang</persName>
+          <persName xml:id="sb">Stacey Berry</persName>
+          <persName xml:id="et">Elisabeth Tracey</persName>
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl><title>The Medical and Surgical History of the War of the Rebellion.
+            (1861&#8211;65.)</title><editor role="compiler">Surgeon General Joseph K. Barnes, United
+            States Army</editor><pubPlace>Washington, D.C.</pubPlace><publisher>Government Printing
+            Office</publisher><biblScope type="part">Part 1</biblScope>
+          <biblScope type="volume">Volume 2</biblScope><date when="1870">1870</date><biblScope
+            type="page">439</biblScope></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <classDecl>
+        <taxonomy xml:id="medsurg">
+          <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="#medsurg">
+          <term>wounds and injuries of the spine</term>
+          <term>gunshot wounds of the spine</term>
+          <term>fractures of the dorsal vertebr&#230;</term>
+          <term>gunshot fractures of the spine, ninth dorsal vertebra</term>
+          <term>fractures of transverse and articular processes of eighth and ninth dorsal
+            vertebr&#230;</term>
+          <term>missile lodged in spinal canal</term>
+          <term>spinal cord severed at seat of injury</term>
+          <term>psychical depression</term>
+          <term>involuntary passages of excretions</term>
+          <term>lost sensation and motion below wound</term>
+          <term>gastric irritability</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+ <change who="#kmp" when="2014-05">blessed</change>
+      <change who="#ajh" when="2013-08-20">added figure, added figure encoding</change>
+      <change who="#mb" when="2011-12-08">additional proofing of transcription and encoding</change>
+      <change who="#el" when="2011-05-11">case text extracted and transformed from larger
+        file</change>
+      <change who="#sb" when="2011-02-09">enriched encoding</change>
+      <change who="#sb" when="2011-01-28">validated file</change>
+      <change who="#et" when="2009-08-01">encoded</change>
+      <change who="#sb" when="2008-09-22">initial checking of OCR text against PDF; encoded
+      </change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+
+      <p>
+        <hi rend="initialcap">C</hi>ASE.&#8212;<name type="person">Private Frederick
+          L&#8212;&#8212;</name>, <name type="organization">Co. H, 8th New York Volunteers</name>,
+        aged 26 years, having been wounded at <name type="BATTLE" key="263">Cold Harbor,
+          Virginia</name>, <date type="injury" when="1864-06-03">June 3d, 1864</date>, was sent to
+          <name type="place" key="#Washington">Washington</name>, and admitted to <name
+          type="hospital" key="167">Carver Hospital</name> on <date type="admit" when="1864-06-11"
+          >the 11th</date>. A missile had entered the right side of his back, and penetrated the
+        vertebral canal, shattering the transverse and articular processes of the eighth and ninth
+        dorsal vertebr&#230;. The patient stated that immediately upon the reception of this injury
+        he lost all sensation and power of motion below the wound. On admission, he was in a very
+        feeble state; there was psychical depression, with slow pulse, labored respiration, cool,
+        clammy, and cyanosed skin, and involuntary passages of the excretions. In this forlorn
+        condition, he lingered until June 27th, when symptoms of extreme gastric irritability
+        supervened, and every form of nourishment was promptly rejected by the stomach. He died on
+          <date type="death" when="1864-07-02">July 2d, 1864</date>. At the autopsy, a conoidal
+        musket ball was found imbedded in the vertebral canal. The cord appeared to have been
+        completely severed at the seat of injury, and was disorganized above and below. A section of
+        the injured vertebr&#230;, having the ball in the canal, was forwarded to the <name
+          type="hospital" key="431">Army Medical Museum</name>, with the above account, by <name
+          type="person" key="102">Surgeon O. A. Judson</name>, <name type="organization" key="132"
+          >U. S. V.</name> It is represented in the accompanying wood-cut (<hi rend="initialcap"
+          >F</hi>IG. 192). </p>
+
+      <figure>
+        <graphic url="cww.001447.001"/>
+        <head>
+          <hi rend="initialcap">F</hi>IG. 192.&#8212;Conoidal musket ball lodged in the spinal
+          canal, between the eighth and ninth vertebrae. <hi rend="italic">Spec</hi>. 2939, Sect. I.
+          A. M. M.</head>
+      </figure>
+
+    </body>
+  </text>
+</TEI>

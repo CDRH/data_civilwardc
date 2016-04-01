@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e20056">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title level="m" type="main">M&#8212;&#8212;, George R.</title>
+        <title level="m" type="sub">a machine readable transcription</title>
+        <principal>Susan C. Lawrence</principal>
+        <principal>Kenneth M. Price</principal>
+        <principal>Kenneth J. Winkle</principal>
+      </titleStmt>
+      <editionStmt>
+        <edition><date>2011</date></edition>
+      </editionStmt>
+      <publicationStmt>
+        <idno>med.d1e20056</idno>
+        <authority>Civil War Washington</authority>
+        <publisher>University of Nebraska–Lincoln</publisher>
+        <distributor><name>Center for Digital Research in the
+          Humanities</name><address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address></distributor>
+        <date>2011</date>
+        <availability>
+          <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution
+            or republication in any medium, except as allowed under the Fair Use provisions of U.S.
+            copyright law, requires express written consent from the editors and advance
+            notification of the publisher, the University of Nebraska–Lincoln.</p>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="project">The following are responsible for particular readings or for changes to
+          this file, as noted: 
+ <persName xml:id="kw">Kenneth Winkle</persName> 
+          <persName xml:id="ajh">AJ Howell</persName>
+          <persName xml:id="mb">Matthew Bosley</persName>
+          <persName xml:id="el">Elizabeth Lorang</persName>
+          <persName xml:id="sb">Stacey Berry</persName>
+          <persName xml:id="et">Elisabeth Tracey</persName>
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl><title>The Medical and Surgical History of the War of the Rebellion.
+            (1861&#8211;65.)</title><editor role="compiler">Surgeon General Joseph K. Barnes, United
+            States Army</editor><pubPlace>Washington, D.C.</pubPlace><publisher>Government Printing
+            Office</publisher><biblScope type="part">Part 1</biblScope>
+          <biblScope type="volume">Volume 2</biblScope><date when="1870">1870</date><biblScope
+            type="page">563-564</biblScope></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <classDecl>
+        <taxonomy xml:id="medsurg">
+          <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="#medsurg">
+          <term>wounds and injuries of the chest</term>
+          <term>operations on the chest</term>
+          <term>excisions</term>
+          <term>excisions of the scapula</term>
+          <term>excisions of portions of the scapula</term>
+          <term>compound comminuted fracture of scapula</term>
+          <term>general anesthesia, chloroform</term>
+          <term>ball entered at superior angle of scapula, remained in wound</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+ <change who="#kw" when="2014-05">blessed</change>
+      <change who="#ajh" when="2013-08-21">added figure encoding</change>
+      <change who="#mb" when="2012-01-18">additional proofing of transcription and encoding</change>
+      <change who="#el" when="2011-05-11">case text extracted and transformed from larger
+        file</change>
+      <change who="#sb" when="2011-02-09">enriched encoding</change>
+      <change who="#sb" when="2011-01-28">validated file</change>
+      <change who="#et" when="2009-08-01">encoded</change>
+      <change who="#sb" when="2008-09-22">initial checking of OCR text against PDF; encoded
+      </change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+
+      <p>
+        <hi rend="initialcap">C</hi>ASE.&#8212;<name type="person" key="xxx">Private George R.
+          M&#8212;&#8212;</name>, <name type="organization" key="xxx">Co. E, 84th Pennsylvania
+          Volunteers</name>, aged 29 years, was wounded at <name type="BATTLE" key="12">the
+          Wilderness, Virginia</name>, <date type="injury" when="1864-05-06">May 6th, 1864</date>,
+        by a conoidal ball, which entered at the superior angle of the scapula, passed backward,
+        producing a compound comminuted fracture of the spine of the left scapula and remained in
+        the wound. He was treated in the field until <date type="transfer" when="1864-05-14">the
+          14th</date>, when he was transferred to <name type="hospital" key="167">Carver
+          Hospital</name>, Washington. When admitted, his constitutional condition was excellent and
+        the injured parts were in good condition; there was not much swelling but considerable pain.
+        On <date type="operation" when="1864-05-17">May 17th</date>, <name type="person" key="xxx"
+          >Acting Assistant Surgeon William E. Clark</name> administered chloroform and excised the
+        fractured spine of the scapula through a straight incision immediately over it. He also
+        removed the ball. The wound was then filled with charpie, and cold-water dressings applied.
+        The patient reacted well from the shock of the operation and continued to improve, the wound
+        granulating rapidly and secreting a quantity of laudable pus. On <date type="furlough"
+          when="1864-06-17">June 17th, 1864</date>, he was furloughed, and, on <date type="admit"
+          when="1864-09-10">September 10th</date>, admitted to <name type="hospital">Satterlee
+          Hospital, Philadelphia</name>, whence he was transferred to the <name type="organization"
+          key="109">Veteran Reserve Corps</name>, <date type="duty" when="1865-01-17">January 17th,
+          1865</date>. Discharged from service on <date type="servicedischarge" when="1865-09-14"
+          >September 14th, 1865</date>. The wood-cuts (<hi rend="initialcap">F</hi>IGS. 261 and 262)
+        on the preceding page show the acromion and upper third of the spine of the left scapula,
+        and the missile causing the fracture. It was contributed, with a history of the case, by
+          <name type="person" key="102">Surgeon O. A. Judson</name>, <name type="organization"
+          key="132">U. S. V.</name>
+        <name type="person" key="xxx">Pension Examiner John McCulloch</name> reports, <date
+          type="pension" when="1866-05-11">May 11th, 1866</date>, that &#34;the ball entered and
+        passed over and rather back of the head of the left humerus, shattering the scapula, and was
+        extracted about one-third from the lower point of scapula. Arm can be raised nearly level
+        carried forward pretty well, but not back. Scapula hollow, arm weak. Disability
+        three-fourths, probably not wholly curable.&#34; </p>
+
+      <figure><graphic url="cww.001482.001"/><head>
+        <hi rend="initialcap">F</hi>IG. 261.&#8212;Portion of spine of left scapula fractured by a
+        conoidal ball. <hi rend="italic">Spec</hi>. 2294, Sect. I, A. M. M.</head></figure>
+
+      <figure><graphic url="cww.001483.001"/><head>
+        <hi rend="initialcap">F</hi>IG. 262.&#8212;Conoidal ball removed from the injured spine.</head></figure>
+
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d2e16766">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">McGee, J. M.</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+       <idno>med.d2e16766</idno>
+       <authority>Civil War Washington</authority>
+       <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor>
+       <name>Center for Digital Research in the Humanities</name>
+       <address><addrLine>319 Love Library</addrLine>
+       <addrLine>University of Nebraska–Lincoln</addrLine>
+       <addrLine>Lincoln, NE 68588-4100</addrLine>
+       <addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+    </distributor>
+    <date>2011</date>
+    <availability>
+        <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+         republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+         law, requires express written consent from the editors and advance notification of the
+         publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+         <persName xml:id="mb">Matthew Bosley</persName>         
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl>
+        <title level="j">The Medical and Surgical History of the War of the Rebellion. (1861-65.)</title>
+        <pubPlace>Washington, DC</pubPlace>
+        <publisher>Government Printing Office</publisher>
+        <biblScope type="part">Part 3</biblScope>
+        <biblScope type="volume">Volume 2</biblScope>
+        <date when="1883">1883</date>
+        <biblScope type="page">404</biblScope>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+       <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+      <keywords scheme="#medsurg">
+       <term>wounds and injuries of the lower extremities</term> 
+       <term>wounds and injuries of the knee joint</term>
+       <term>shot injuries of the knee joint</term>
+       <term>amputations at the knee joint</term> 
+       <term>intermediary amputations at the knee joint</term>
+       <term>recoveries after intermediary amputation at the knee joint</term> 
+       <term>shot wound of knee by conical ball</term> 
+       <term>ball passed beneath patella</term>       
+       <term>general anesthesia, ether</term>
+       <term>provided with artificial leg</term>
+     </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+       <change who="#mb" when="2012-05-30">additional case copied from MSHWR, performed proofing of copy and XML encoding, and key terms identified</change>  
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p><hi rend="initialcap">C</hi>ASE 647.&#8212;<name type="person" key="xxx">Private J. M. McGee</name>, <name type="organization" key="xxx">Co. E, 119th Pennsylvania</name>, age 19 years, was wounded at <name type="BATTLE" key="12">the Wilderness</name>, <date type="injury" when="1864-05-05">May 5, 1864</date>. <name type="person" key="xxx">Surgeon E. B. P. Kelly</name>, <name type="organization" key="xxx">95th Pennsylvania</name>, recorded his admission to the field hospital of the 1st division, Sixth Corps, with &#34;shot wound of right knee by a conical ball.&#34;  <name type="person" key="134">Surgeon E. Bentley</name>, <name type="organization" key="132">U. S. V.</name>, who operated in the case, made the following
+    report: &#34;The patient entered <name type="hospital" key="512">Third Division Hospital</name>, <name type="place">Alexandria</name>, <date type="transfer" when="1864-05-26">three weeks after receiving a wound</date> of the right knee joint,
+    the ball passing beneath the patella. The bones were not much fractured, but the joint was swollen and painful and the leg
+    &#339;dematous. Circular amputation at the knee joint, by skin flaps, was performed on <date type="operation" when="1864-06-02">June 2d</date>, sulphuric ether being employed as
+    the an&#230;sthetic. At the time of the operation the patient had become very weak, his pulse quick and feeble, and he perspired
+    considerably, had cough and spat up blood. He reacted very well. Tonics, stimulants, and nourishing diet were given, and
+    simple dressings used. The wound healed up kindly, and the patient's general condition became much improved.&#34; The patient
+    was subsequently treated at various hospitals, and finally, after being provided with an artificial leg, he was discharged <date type="servicedischarge" when="1865-09-09">September 9, 1865</date>, and pensioned. <name type="person" key="xxx">Examining Surgeon E. A. Smith</name>, of <name type="place">Philadelphia</name>, certified to &#34;amputation at the knee joint, with
+    preservation of the patella.&#34; The pensioner was paid <date type="pension" when="1880-03-04">March 4, 1880</date>. In his application for commutation he represented the
+    stump of the amputated limb as being in a &#34;sound&#34; condition.</p>   
+  </body>
+ </text>
+</TEI>

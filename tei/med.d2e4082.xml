@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d2e4082">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Sweeney, Philip</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+    <idno>med.d2e4082</idno>
+    <authority>Civil War Washington</authority>
+    <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor><name>Center for Digital Research in the
+     Humanities</name><address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address></distributor>
+    <date>2011</date>
+    <availability>
+     <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+      republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+      law, requires express written consent from the editors and advance notification of the
+      publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+     <persName xml:id="mb">Matthew Bosley</persName>
+     <persName xml:id="el">Elizabeth Lorang</persName>
+     <persName xml:id="sb">Stacey Berry</persName>
+     <persName xml:id="et">Elisabeth Tracey</persName>
+     <persName xml:id="ss">Sarah Synovec</persName>
+     <persName xml:id="ak">Alex Kinnaman</persName>
+    </note>
+   </notesStmt>
+   
+   <sourceDesc>
+    <bibl>
+     <title level="j">The Medical and Surgical History of the War of the Rebellion.
+      (1861-65.)</title>
+     <pubPlace>Washington, DC</pubPlace>
+     <publisher>Government Printing
+      Office</publisher>
+     <biblScope type="part">Part 3</biblScope>
+     <biblScope type="volume">Volume 2</biblScope>
+     <date when="1883">1883</date>
+     <biblScope type="page">74-75</biblScope>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+     <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <keywords scheme="#medsurg">
+     <term>wounds and injuries of the lower extremities</term>                                                                 
+     <term>wounds and injuries of the hip joint</term>
+     <term>shot fractures at the hip joint</term>
+     <term>shot fractures at the hip treated by conservation</term>
+     <term>shot wounds at the hip with fracture of the articular surfaces</term>
+     <term>treated on expectant plan</term> 
+     <term>incisions and removals of fragments or foreign bodies consistent with true conservative treatment</term> 
+     <term>erysipelas</term>
+     <term>ball shattered both trochanters of femur</term> 
+     <term>extraction of primary <choice><orig>sequestr&#230;</orig><reg>sequestra</reg></choice></term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change who="#ak" when="2014-10-27">added figure encoding</change>
+   <change who="#mb" when="2012-02-13">additional proofing of transcription and encoding, identified keyword terms</change>   
+   <change who="#el" when="2011-05-11">case text extracted and transformed from larger file</change>
+   <change who="#sb" when="2011-06-04">Enrich Encoding, Edit and validate</change>
+   <change who="#sb" when="2011-01-28">Validated File</change>
+   <change who="#ss" when="2008-09-22">Sarah Synovec initial checking of OCR text; encoded P5 Encoding</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   
+    <p>  <hi rend="initialcap">C</hi>ASE 151.&#8212;<name type="person" key="xxx">Private Philip
+      Sweeney</name>, <name type="organization" key="379">Co. C, 3d New York</name>, was wounded in
+     the affair at <name type="BATTLE" key="282">Big Bethel</name>, <date type="injury"
+      when="1861-06-10">June 10, 1861</date>, by a conoidal musket ball, which shattered the
+     trochanters of the right femur. He was admitted to Hygeia Hospital, <name type="FORT" key="xx">Fort Monroe</name>, on <date type="admit" when="1861-06-13">June 13th</date>, and was treated by <name type="person" key="158">Surgeon
+      R. B. Bontecou</name>, <name type="organization" key="132">U. S. V.</name>, by moderate
+     extension and dilatation of the wound by sponge tents in order to facilitate the extraction of
+     primary <choice><orig>sequestr&#230;</orig><reg>sequestra</reg></choice>, of which many were removed. Suppuration and exfoliation persisted until March, 1862. In <date type="injury" when="1862-04">April</date> there were two severe attacks of erysipelas,
+     involving the entire limb, which greatly reduced the patient, but he quickly rallied, and in
+     May was able to run a race on crutches with his wounded companions. He was transferred to
+     <name type="place">Albany</name> in <date type="transfer" when="1862-06">June, 1862</date>; but his name does not appear
+     upon the hospital reports until <date type="admit" when="1863-03">March, 1863</date>, when he was admitted to the Ladies Home, in <name type="place">New York City</name>, where a number of necrosed fragments were
+     removed. On <date type="servicedischarge" when="1863-05-25">May 25, 1863</date>, he was discharged, being able to walk without a crutch and
+     the limb being but slightly shortened. He soon afterwards engaged himself as a laborer at an
+     iron foundry in <name type="place">Troy, New York</name>, where he has since worked without intermission. On <date type="pension" when="1866-07-20">July 20, 1866</date>, he was examined by <name type="person" key="158">Brevet-Colonel R. B. Bontecou</name>, who found him in perfect health, the injured limb a trifle shortened, and the knee rather
+     stiff, owing to the destruction of connective tissue about the extensor muscles of the thigh
+     during the suppuration following the erysipelatous attacks, and, doubtless, the formation of adhesions. The knee joint was in good condition and had sufficient motion to allow a firm, good gait. In a
+     letter dated <date type="pension" when="1868-11-23">November 23, 1868</date>, <name type="person" key="158">Dr. Bontecou</name> states that
+     <name type="person" key="xx">Sweeney</name> is at work at <name type="place">Troy</name> in a spike factory, and was
+     able to sit at and run a machine. His knee was stiff from agglutination of the sheath of the
+     extensor muscles of the thigh, otherwise the limb was useful. The <name type="organization"
+      key="xx">Albany Examining Board</name>, <name type="person" key="xx">Drs. W. Craig</name>,
+      <name type="person" key="158">R. B. Bontecou</name>, and <name type="person" key="xx">C. H. Porter</name>, record, in <date type="pension" when="1873-09">September,
+       1873</date>: &#34;Gunshot wound through the trochanters, fracturing the femur at the neck, leaving
+     adhesions of all the muscles of the thigh from deep-seated sloughing, the result of erysipelas,
+     making knee joint stiff in the extended posture.&#34; In <date type="pension" when="1875-09">September, 1875</date>, <name
+      type="person" key="158">Examining Surgeon R. B. Bontecou</name> certified that &#34;adhesions have rendered
+     the knee immovable and the limb comparatively useless.&#34; </p>   
+   
+  <figure> 
+   <graphic url="cww.001845.001"/>
+   <head>
+    PLATE  XXXIII.   CONSOLIDATED  GUNSHOT  FRACTURE  OF  THE  FEMUR.   Case of <name type="person" key="xx">Private Philip Sweeny</name>, <name
+      type="organization" key="378">3rd New York Volunteers</name>.  
+   </head>
+  </figure>
+   
+  </body>
+ </text>
+</TEI>

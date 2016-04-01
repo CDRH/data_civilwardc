@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d2e18972">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Downey, J.</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+    <idno>med.d2e18972</idno>
+    <authority>Civil War Washington</authority>
+    <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor><name>Center for Digital Research in the
+     Humanities</name><address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address></distributor>
+    <date>2011</date>
+    <availability>
+     <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+      republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+      law, requires express written consent from the editors and advance notification of the
+      publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+ <persName xml:id="kmp">Kenneth M. Price</persName> <persName xml:id="ajh">AJ Howell</persName>
+     <persName xml:id="mb">Matthew Bosley</persName>
+     <persName xml:id="el">Elizabeth Lorang</persName>
+     <persName xml:id="sb">Stacey Berry</persName>
+     <persName xml:id="et">Elisabeth Tracey</persName>
+     <persName xml:id="ss">Sarah Synovec</persName>
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title level="j">The Medical and Surgical History of the War of the Rebellion.
+      (1861-65.)</title><pubPlace>Washington, DC</pubPlace><publisher>Government Printing
+      Office</publisher><biblScope type="part">Part 3</biblScope><biblScope type="volume">Volume
+      2</biblScope><date when="1883">1883</date><biblScope type="page">457</biblScope></bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+     <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <keywords scheme="#medsurg">
+     <term>wounds and injuries of the lower extremities</term>
+     <term>wounds and operations in the leg</term>
+     <term>shot fractures of the bones of the leg</term>
+     <term>excisions in the continuity of the bones of the leg for shot injury</term>
+     <term>secondary excisions in the continuity of the bones of the leg</term>
+     <term>recoveries after secondary excisions in the continuity of the bones of the leg</term>
+     <term>ball entered outer side of tibia, fractured bone, emerged on inner side of leg at lower
+      third</term>
+     <term>tibia resected</term>
+     <term>nervous prostration, <choice>
+       <orig>innutrition</orig>
+       <reg>malnutrition</reg>
+      </choice>, and impairment of general health</term>
+     <term>phthisis pulmonalis</term>
+     <term>locomotion unsteady, difficult, and painful</term>
+     <term>leg left crooked, shortened, and weakened</term>
+     <term>treated for syphilitic affection, syphilis</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+ <change who="#kmp" when="2014-05">blessed</change>
+   <change who="#ajh" when="2013-08-23">added figure encoding</change>
+   <change who="#mb" when="2012-06-06">additional proofing of transcription and encoding, identified
+    keyword terms</change>
+   <change who="#el" when="2011-05-11">case text extracted and transformed from larger file</change>
+   <change who="#sb" when="2011-06-04">Enrich Encoding, Edit and validate</change>
+   <change who="#sb" when="2011-01-28">Validated File</change>
+   <change who="#ss" when="2008-09-22">initial checking of OCR text; encoded P5 Encoding</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p><hi rend="initialcap">C</hi>ASE 718.&#8212;<name type="person" key="1264">Corporal J.
+     Downey</name>, <name type="organization" key="398">Co. D, 56th Pennsylvania</name>, aged 23
+    years, was wounded in the left leg, at <name type="BATTLE" key="127">Bull Run</name>, <date
+     type="injury" when="1862-08-28">August 28, 1862</date>. He was admitted to <name
+     type="hospital" key="163">Eckington Hospital</name>, Washington, <date type="admit"
+     when="1862-09">several days afterwards</date>, where the injury was noted but no treatment
+    recorded. <name type="person" key="xx">Surgeon J. Hopkinson</name>, <name type="organization"
+     key="132">U. S. V.</name>, in charge of <name type="hospital" key="xx">Mower Hospital,
+     Philadelphia</name>, made the following record of the case: "The wound was caused by a ball,
+    which entered the outer side of the tibia, fracturing the bone, and emerging on the inner side
+    of the leg at the lower third. The tibia was resected at <name type="hospital" key="163"
+     >Eckington Hospital</name>, from where the patient was transferred to this hospital <date
+     type="transfer" when="1863-09-23">September 23, 1863</date>, the wound being nearly healed.
+    Subsequent entries show that in addition to applications of water dressings to the wound the
+    patient for a time received treatment for a syphilitic affection. He remained in <name
+     type="hospital" key="xx">the hospital</name> until <date type="servicedischarge"
+     when="1865-01-17">January 17, 1865</date>, when he was mustered out and pensioned. <name
+     type="person" key="xx">Examining Surgeon D. W. Shindle</name>, of <name type="place" key="xx"
+     >Sunbury, Pennsylvania</name>, certified to the fracture and excision, and added: "The wound
+    healed, leaving the leg, however, very crooked, shortened, and necessarily much weakened, and
+    rendering his locomotion unsteady, difficult, and at times painful, also liable to tire in
+    standing as well as walking. General system much impaired." The pensioner died of phthisis
+    pulmonalis, <date type="death" when="1870-10-20">October 20, 1870</date>, his attending
+    physician testifying that the injury remained "a constant source of irritation until a short
+    time previous to his death. Exfoliation of bone was frequent, resulting in nervous prostration, <choice>
+     <orig>innutrition</orig>
+     <reg>malnutrition</reg>
+    </choice>, and impairment of his general health, a condition favorable to the development of
+    tubercle. He never would undergo an operation for the removal of sequestra," etc. The specimen
+     (<hi rend="initialcap">F</hi>IG. 281), embracing the removed portion of the tibia and showing
+    some periosteal thickening, was forwarded by <name type="person" key="1266">Surgeon J. R.
+     Smith</name>, <name type="organization" key="190">U. S. A.</name>, having been excised on <date
+     type="operation" when="1862-10-04">October 4, 1862</date>. </p>
+   <figure>
+    <graphic url="cww.001633.001"/>
+    <head><hi rend="initialcap">F</hi>IG. 281.&#8212;Four ins. of left tibia excised. <hi
+      rend="italic">Spec</hi>. 555.</head>
+   </figure>
+  </body>
+ </text>
+</TEI>

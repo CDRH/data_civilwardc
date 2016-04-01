@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d2e21951">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Sparks, M. G.</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+    <idno>med.d2e21951</idno>
+    <authority>Civil War Washington</authority>
+    <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor><name>Center for Digital Research in the
+     Humanities</name><address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address></distributor>
+    <date>2011</date>
+    <availability>
+     <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+      republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+      law, requires express written consent from the editors and advance notification of the
+      publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+     <persName xml:id="mb">Matthew Bosley</persName>
+     <persName xml:id="el">Elizabeth Lorang</persName>
+     <persName xml:id="sb">Stacey Berry</persName>
+     <persName xml:id="et">Elisabeth Tracey</persName>
+     <persName xml:id="ss">Sarah Synovec</persName>
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title level="j">The Medical and Surgical History of the War of the Rebellion.
+      (1861-65.)</title><pubPlace>Washington, DC</pubPlace><publisher>Government Printing
+      Office</publisher><biblScope type="part">Part 3</biblScope><biblScope type="volume">Volume
+      2</biblScope><date when="1883">1883</date><biblScope type="page">587</biblScope></bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+     <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <keywords scheme="#medsurg">
+     <term>wounds and injuries of the lower extremities</term> 
+     <term>wounds and operations at the ankle joint</term>
+     <term>shot fractures of the bones of the ankle joint</term>
+     <term>excisions at the ankle joint for shot injury</term> 
+     <term>primary excisions at the ankle joint</term> 
+     <term>shot fracture of fibula and tarsus</term>
+     <term>resection of fibula</term>
+     <term>wounded in ankle</term> 
+     <term>amputation at middle third of leg</term>       
+     <term>general anesthesia, ether</term>
+     <term>general anesthesia, chloroform</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change who="#mb" when="2012-06-13">additional proofing of transcription and encoding, identified keyword terms</change>
+   <change who="#el" when="2011-05-11">case text extracted and transformed from larger file</change>
+   <change who="#sb" when="2011-06-04">Enrich Encoding, Edit and validate</change>
+   <change who="#sb" when="2011-01-28">Validated File</change>
+   <change who="#ss" when="2008-09-22">initial checking of OCR text; encoded P5 Encoding</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>   
+    <p><hi rend="initialcap">C</hi>ASE 841.&#8212;<name type="person" key="1368">Sergeant M. G.
+      Sparks</name>, <name type="organization" key="515">Co. I, 10th New Jersey</name>, aged 25
+     years, was wounded in the right ankle, before <name type="BATTLE" key="58">Petersburg</name>,
+      <date type="injury" when="1865-04-02">April 2, 1865</date>. He entered the field hospital of the 1st division, Sixth Corps, where <name
+      type="person" key="xx">Surgeon R. Sharpe</name>, <name type="organization" key="402">15th New
+      Jersey</name>, recorded the injury as a "shot fracture of the fibula and tarsus," also that
+     "resection of the fibula" was performed. The patient was subsequently transferred to the Depot Hospital at <name type="place">City Point</name>, and from there, on <date
+      type="transfer" when="1865-04-12">April 12th</date>, to <name type="hospital" key="428">Judiciary Square Hospital</name> at Washington. <name type="person" key="967">Surgeon E.
+      Griswold</name>, <name type="organization" key="132">U. S. V.</name>, in charge of the latter,
+     reported that when the patient was admitted his constitutional state was not good and the
+     injured parts were in a bad condition, necessitating amputation, which was performed by antero-posterior skin flaps at the middle third of the leg, on <date type="operation" when="1865-04-13">April 13th</date>, by
+     <name type="person" key="1369">Acting Assistant Surgeon Z. P. Dennler</name>. Chloroform and
+     ether constituted the an&#230;sthetic. After the amputation simple dressings were used and
+     stimulants, etc., were administered. Subsequently the patient passed through various hospitals,
+     and on <date type="servicedischarge" when="1866-02-02">February 2, 1866</date>, he was discharged from
+     service and pensioned.  He was paid <date type="pension" when="1874-06-04">June 4, 1874</date>, since when he has not been heard from.</p>   
+  </body>
+ </text>
+</TEI>

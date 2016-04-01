@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e3485">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">H&#8212;&#8212;, Charles</title>
+                <title level="m" type="sub">a machine readable transcription</title>
+                <principal>Susan C. Lawrence</principal>
+                <principal>Kenneth M. Price</principal>
+                <principal>Kenneth J. Winkle</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2011</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <idno>med.d1e3485</idno>
+                <authority>Civil War Washington</authority>
+                <publisher>University of Nebraska–Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+                </distributor>
+                <date>2011</date>
+                <availability>
+                    <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved.
+                        Redistribution or republication in any medium, except as allowed under the
+                        Fair Use provisions of U.S. copyright law, requires express written consent
+                        from the editors and advance notification of the publisher, the University
+                        of Nebraska–Lincoln.</p>
+                </availability>
+            </publicationStmt>
+            <notesStmt>
+                <note type="project">The following are responsible for particular readings or for
+                    changes to this file, as noted: 
+ <persName xml:id="kmp">Kenneth M. Price</persName> <persName xml:id="ajh">AJ Howell</persName>
+                    <persName xml:id="mb">Matthew Bosley</persName>
+                    <persName xml:id="el">Elizabeth Lorang</persName>
+                    <persName xml:id="sb">Stacey Berry</persName>
+                    <persName xml:id="et">Elisabeth Tracey</persName>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>The Medical and Surgical History of the War of the Rebellion.
+                        (1861&#8211;65.)</title>
+                    <editor role="compiler">Surgeon General Joseph K. Barnes, United States
+                        Army</editor>
+                    <pubPlace>Washington, D.C.</pubPlace>
+                    <publisher>Government Printing Office</publisher>
+                    <biblScope type="part">Part 1</biblScope>
+                    <biblScope type="volume">Volume 2</biblScope>
+                    <date when="1870">1870</date>
+                    <biblScope type="page">57-58</biblScope>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <classDecl>
+                <taxonomy xml:id="medsurg">
+                    <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme="#medsurg">
+                    <term>on special wounds and injuries of the head</term>
+                    <term>wounds and injuries of the head</term>
+                    <term>miscellaneous injuries of the head</term>
+                    <term>trephining</term>
+                    <term>found lying in street in comatose condition</term>
+                    <term/>
+                    <term/>
+                    <term>detached pieces removed by elevator</term>
+                    <term>parietal bone fractured and depressed</term>
+                    <term>incised and puncture wounds</term>
+                    <term>abscess in right hemisphere and neighboring brain substance</term>
+                    <term>punctured wound of lower parietal area</term>
+                    <term>autopsy performed</term>
+                    <term>abscess in hemisphere of brain</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+ <change who="#kmp" when="2014-05">blessed</change>
+            <change who="#ajh" when="2013-08-09">added figure encoding</change>
+            <change who="#ajh" when="2013-06-10">additional proofing of transcription and
+                encoding</change>
+            <change who="#mb" when="2013-05-17">additional proofing of transcription and encoding,
+                edited and added keyword terms</change>
+            <change who="#mb" when="2011-10-10">additional proofing of transcription and
+                encoding</change>
+            <change who="#mb" when="2011-06-07">additional proofing of transcription and
+                encoding</change>
+            <change who="#el" when="2011-11-05">case text extracted and transformed from larger
+                file</change>
+            <change who="#sb" when="2011-02-09">enriched encoding</change>
+            <change who="#sb" when="2011-01-28">validated file</change>
+            <change who="#et" when="2009-08-01">encoded</change>
+            <change who="#sb" when="2008-09-22">initial checking of OCR text against PDF;
+                encoded</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body xml:id="ch1.sc2.0023">
+            <p><hi rend="initialcap">C</hi>ASE.&#8212;<name type="person" key="248"> Private Charles
+                    H&#8212;&#8212;</name>, <name type="organization" key="174">Co. G, 61st Ohio
+                    Volunteers</name>, aged 37 years, was found lying in the street, at <name
+                    type="place">Alexandria, Virginia</name>, on <date type="injury"
+                    when="1863-09-27">September 27th, 1863</date>, in a comatose condition, with a
+                wound on the right side of his head. He was conveyed to the <name type="hospital"
+                    key="198">New Hallowell branch of the 3d Division General Hospital</name>, by
+                the provost guard. On admission his breathing was stertorous, laborious, slow; his
+                pulse was at 48, full and regular. There was a punctured wound over the lower
+                portion of the right parietal, and an examination by the probe showed that the bone
+                was fractured and depressed. A <date type="operation" when="1863-09-27">crucial
+                    incision</date> was made through the scalp, and the cranium being freely
+                exposed, it was found that the fracture was much more extensive than had been
+                supposed. A disk of bone was removed by the trephine, and several detached pieces
+                were removed by the elevator, so that, altogether, a portion four inches in length
+                by two inches in width of the skull-cap was taken away. The flaps of the integument
+                were then brought together and were united by sutures. Cold water dressings were
+                applied. The immediate effects of the operation were very remarkable. In less than
+                three minutes after the removal of the depressed fragments, the patient opened his
+                eyes, and appeared to awake to consciousness, and in less than a minute more he
+                spoke, articulating distinctly. For the first week after the operation his diet was
+                restricted to barley water. On October 4th, seven days after the operation, he was
+                reported to have had no bad symptom and he complained of nothing but hunger. The
+                sutures had been removed, and the greater portion of the incision had united by
+                first intention. He was now allowed the "extra diet" of the hospital, consisting of
+                oyster broth, rice pudding, and the like. On October 20th, the patient was up and
+                about the ward. No untoward symptoms had intervened meanwhile, and the treatment had
+                been unchanged. At this date the patient was put on "half diet," and the nearly
+                cicatrized wound was dressed with simple cerate. He continued to do well until <choice>
+                    <orig>November</orig>
+                    <reg>October</reg>
+                </choice> 26th when he was visited by his brother, who brought him some bad news
+                from home which disturbed him very much, and he immediately went to bed and became
+                stupid and sullen, taking no notice of anything. Is it not possible that his brother
+                brought him some stimulant as well? On October 27th the patient had become comatose,
+                with every sign of compression of the brain, and on <date type="death"
+                    when="1863-10-26">October 28th, 1863</date>, he died. At the autopsy, <date
+                    type="autopsy" when="1863-10-27">twenty hours after death</date>, there was
+                found to be an abscess in the right hemisphere and the neighboring brain substance
+                was softened. The thoracic and abdominal viscera were healthy. The edges of the
+                aperture were found to be rounded off and in process of repair. The notes from which
+                the abstract is compiled were made by <name type="person" key="249">Acting Assistant
+                    Surgeon S. B. Ward</name>, and the specimen was forwarded to the <name
+                    type="hospital" key="431">Army Medical Museum</name> by <name type="person"
+                    key="134">Surgeon E. Bentley</name>, <name type="organization" key="132">U. S.
+                    V.</name> It is represented in the wood-cut (<hi rend="initialcap">F</hi>IG. 22)
+                on the preceding page. </p>
+            <figure>
+                <graphic url="cww.001359.001"/>
+                <head><hi rend="initialcap">F</hi>IG. 22.&#8212;Section of cranium with great loss
+                    of substance from the removal of depressed fragments.&#8212;<hi rend="italic"
+                        >Spec</hi>. 2673. Sect. I, A. M. M.</head>
+            </figure>
+
+        </body>
+    </text>
+</TEI>

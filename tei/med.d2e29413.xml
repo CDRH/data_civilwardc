@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d2e29413">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Heward, Francis</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+       <idno>med.d2e29413</idno>
+       <authority>Civil War Washington</authority>
+       <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor>
+       <name>Center for Digital Research in the Humanities</name>
+       <address><addrLine>319 Love Library</addrLine>
+       <addrLine>University of Nebraska–Lincoln</addrLine>
+       <addrLine>Lincoln, NE 68588-4100</addrLine>
+       <addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+    </distributor>
+    <date>2011</date>
+    <availability>
+        <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+         republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+         law, requires express written consent from the editors and advance notification of the
+         publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+         <persName xml:id="mb">Matthew Bosley</persName>         
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl>
+        <title level="j">The Medical and Surgical History of the War of the Rebellion. (1861-65.)</title>
+        <pubPlace>Washington, DC</pubPlace>
+        <publisher>Government Printing Office</publisher>
+        <biblScope type="part">Part 3</biblScope>
+        <biblScope type="volume">Volume 2</biblScope>
+        <date when="1883">1883</date>
+        <biblScope type="page">893</biblScope>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+       <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+      <keywords scheme="#medsurg">
+       <term>an&#230;sthetics</term>
+       <term>deaths from chloroform</term>
+       <term>dislocation of humerus forward and inward</term>
+       <term>general anesthesia, chloroform</term> 
+       <term>pulleys and counter-extending bands</term>
+       <term>symptoms of asphyxia</term>
+       <term>artificial respiration</term>        
+     </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+       <change who="#mb" when="2012-06-27">additional case copied from MSHWR, performed proofing of copy and XML encoding, and key terms identified</change>  
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>   
+   <p><hi rend="initialcap">C</hi>ASE 1267.&#8212;<name type="person" key="xxx">Private Francis Heward</name>, <name type="organization" key="xxx">Co. F, 1st New Jersey</name>, was admitted into <name type="hospital" key="214">Fairfax Seminary Hospital</name>, <date type="admit" when="1862-04-05">April 5, 1862</date>, with a dislocation of left humerus forward and inward of a few hours standing. <name type="person" key="xxx">Surgeon Henry A. Armstrong</name>, <name type="organization" key="xxx">2d New York Artillery</name>, reduced the bone without assistance. On <date type="operation" when="1862-05-06">May 6th</date> <name type="person" key="xxx">Acting Assistant Surgeon H. W. Ducachet</name> discovered that
+    the bone was again out of place in the same direction. The patient was chloroformed and reduction attempted with the heel in
+    the axilla, but without success. On <date type="death" when="1862-05-09"><date type="operation" when="1862-05-09">the 9th</date></date> pulleys and counter-extending bands were obtained and adjusted. Chloroform was again administered, a drachm being poured upon a piece of lint about two inches square and held about three inches from his face, a towel being thrown over the head of the patient and hand of the operator, and which was removed from time to time to
+    admit air. Some time elapsed before the muscles became relaxed, when the chloroform was removed. There was no stertorous
+    breathing, choking, or struggling, nor was there occasion to use force to keep him down, as at the previous administration.
+    There was, as there always is, congestion of the conjunctiva and vessels of the neck, but not as much, certainly not more, than
+    when the chloroform was administered on the 6th.  Reduction was being attempted when symptoms of asphyxia were noticed;
+    the pulleys were instantly relaxed, the tongue drawn forward, and artificial respiration resorted to, but everything failed.  No autopsy was made.  The report of the case is signed by <name type="person" key="xxx">Surgeon H. A. Armstrong</name> and <name type="person" key="xxx">Acting Ass't Surgeon H. W. Ducachet</name>.</p>     
+  </body>
+ </text>
+</TEI>

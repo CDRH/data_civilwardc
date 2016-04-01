@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d2e24870">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Whitfield, E.</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+    <idno>med.d2e24870</idno>
+    <authority>Civil War Washington</authority>
+    <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor><name>Center for Digital Research in the
+     Humanities</name><address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address></distributor>
+    <date>2011</date>
+    <availability>
+     <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+      republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+      law, requires express written consent from the editors and advance notification of the
+      publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+     <persName xml:id="mb">Matthew Bosley</persName>
+     <persName xml:id="el">Elizabeth Lorang</persName>
+     <persName xml:id="sb">Stacey Berry</persName>
+     <persName xml:id="et">Elisabeth Tracey</persName>
+     <persName xml:id="ss">Sarah Synovec</persName>
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title level="j">The Medical and Surgical History of the War of the Rebellion.
+      (1861-65.)</title><pubPlace>Washington, DC</pubPlace><publisher>Government Printing
+      Office</publisher><biblScope type="part">Part 3</biblScope><biblScope type="volume">Volume
+      2</biblScope><date when="1883">1883</date><biblScope type="page">649</biblScope></bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+     <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <keywords scheme="#medsurg">
+     <term>miscellaneous injuries</term> 
+     <term>simple and compound fractures</term>
+     <term>fracture of ribs by a fall from a horse</term>
+     <term>injured in the side by falling from his horse</term> 
+     <term>fracture of ribs</term> 
+     <term>sixth and seventh ribs fractured and dislocated from sternum</term> 
+     <term>fracture not properly adjusted, imperfect cure resulted</term>
+     <term>weakened muscles which move arm</term>
+     <term>ulcer on thigh, wound of knee by spent ball</term> 
+     <term>emphysematous condition of lung</term>
+     <term>projection of chest caused by fractured ribs</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change who="#mb" when="2012-06-20">additional proofing of transcription and encoding, identified keyword terms</change>
+   <change who="#el" when="2011-05-11">case text extracted and transformed from larger file</change>
+   <change who="#sb" when="2011-06-04">Enrich Encoding, Edit and validate</change>
+   <change who="#sb" when="2011-01-28">Validated File</change>
+   <change who="#ss" when="2008-09-22">initial checking of OCR text; encoded P5 Encoding</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>   
+    <p><hi rend="initialcap">C</hi>ASE 964.&#8212;<hi rend="italic">Fracture of ribs by a fall from
+      a horse.</hi>&#8212;<name type="person" key="1424">Lieutenant E. Whitfield</name>, <name
+      type="organization" key="537">Co. I, 22d New York Cavalry</name>, aged 29 years, was injured
+     in the right side by falling from his horse near Leesburg, <date type="injury" when="1864-07-12">July 12, 1864</date>.  <name type="person" key="1423">Acting Assistant
+       Surgeon A. Edelin</name>, who attended him at <name type="place" key="#Washington">Washington</name>, reported that the injury involved a
+     "fracture of ribs, which had not yet united on October 19."  <date type="furlough" when="1864-11">Several weeks later</date> the patient
+     obtained a leave of absence, and on <date type="servicedischarge" when="1864-12-19">December 19,
+      1864</date>, he was discharged from service and pensioned.  <name type="person" key="xx">Examiner J. D. Button</name>, of <name type="place" key="xx">Auburn, N. Y.</name>,
+     certified, <date type="pension" when="1870-02-09">February 9, 1870</date>:  "The sixth and seventh ribs on the right side were fractured and
+     dislocated from the sternum, and not being properly adjusted an imperfect cure was the result.
+     There is a projection of two inches outward from the chest at the ends of those two fractured
+     ribs, which are not joined to the sternum. The muscles which move the arm are weakened and
+     exercise causes pain."  Subsequent examiners report the existence of an ulcer on the left thigh, alleged to be the result of a wound of the knee by a
+     spent ball, which was also corroborated by the <name type="organization" key="xx">Auburn
+      Examining Board</name>. The latter, on <date type="pension" when="1877-12-05">December 5, 1877</date>, described the projection caused by
+     the fractured ribs, and added that the pensioner "has an anxious expression of countenance;
+     distended nasal <choice><orig>alas</orig><reg>alae</reg></choice>; respiration easily disturbed; loud resonance and weak respiration in
+     right lung, indicating emphysematous condition of the lung."  The pensioner was paid <date type="pension" when="1881-09-04">September 4, 1881</date>. </p>   
+  </body>
+ </text>
+</TEI>

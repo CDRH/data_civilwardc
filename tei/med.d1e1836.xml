@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e1836">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title level="m" type="main">Beeman, G. W.</title>
+        <title level="m" type="sub">a machine readable transcription</title>
+        <principal>Susan C. Lawrence</principal>
+        <principal>Kenneth M. Price</principal>
+        <principal>Kenneth J. Winkle</principal>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <date>2011</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <idno>med.d1e1836</idno>
+        <authority>Civil War Washington</authority>
+        <publisher>University of Nebraska–Lincoln</publisher>
+        <distributor>
+          <name>Center for Digital Research in the Humanities</name>
+          <address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+        </distributor>
+        <date>2011</date>
+        <availability>
+          <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution
+            or republication in any medium, except as allowed under the Fair Use provisions of U.S.
+            copyright law, requires express written consent from the editors and advance
+            notification of the publisher, the University of Nebraska–Lincoln.</p>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="project">The following are responsible for particular readings or for changes to
+          this file, as noted: 
+          <persName xml:id="mb">Matthew Bosley</persName>
+          <persName xml:id="el">Elizabeth Lorang</persName>
+          <persName xml:id="sb">Stacey Berry</persName>
+          <persName xml:id="et">Elisabeth Tracey</persName>
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>
+          <title level="j">The Medical and Surgical History of the War of the Rebellion</title>
+          <pubPlace>Washington, DC</pubPlace>
+          <publisher>Government Printing Office</publisher>
+          <biblScope type="part">Part 3</biblScope>
+          <biblScope type="volume">Volume 1</biblScope>
+          <date when="1888">1888</date>
+          <biblScope type="page">217-218</biblScope>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <classDecl>
+        <taxonomy xml:id="medsurg">
+          <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="#medsurg">
+          <term>continued fevers</term>
+          <term>clinical records</term>
+          <term>typho-malarial and typhoid fevers</term>
+          <term>Seminary Hospital cases</term>
+          <term>typhoid cases</term>
+          <term>typhoid fever</term>
+          <term>rose-colored spots on abdomen and chest</term>
+          <term>skin covered with sudamina</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change who="#mb" when="2013-03-01">additional proofing of transcription and encoding, edited and added keyword terms</change>
+      <change who="#mb" when="2011-10-17">additional proofing of transcription and encoding</change>
+      <change who="#mb" when="2011-05-31">additional proofing of transcription and encoding</change>
+      <change who="#el" when="2011-05-11">case text extracted and transformed from larger
+        file</change>
+      <change who="#sb" when="2011-02-23">Encoding and Proofing</change>
+      <change who="#et" when="2009-12-01">Initial Checking OCR Text to PDF file, </change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body xml:id="ch4.sc2.3.00007">      
+      <p><hi rend="initialcap">C</hi>ASE 7.&#8212;<hi rend="italic">Drowsiness; abdominal
+            symptoms slightly marked; rose-colored spots on 6th day; convalescent on the
+          15th.</hi>&#8212;<name type="person" key="466">Private G. W. Beeman</name>, <name type="organization"
+            key="622">Co. A, 4th Mich Vols.</name>; age 19; was admitted <date type="admit"
+            when="1861-10-30">Oct. 30, 1861</date>.  Diagnosis&#8212;typhoid fever.  He had chills
+          on the 25th, followed by fever and diarrh&#339;a, for which quinine had been given.  On
+          the evening of admission he was drowsy, his face slightly flushed, pulse 85 and of good
+          strength, skin dry and warm, showing a few rose-colored spots on the abdomen and chest,
+          tongue red, smooth, dry and glossy, teeth blackened with sordes, bowels quiet; he had no
+          appetite, some abdominal tenderness and gurgling, but no meteorism.  Milk-punch, turpentine
+          emulsion and beef-essence were prescribed on November 2.  The skin became covered with
+          sudamina on the 4th and the appetite was improved. A full dose of castor oil on this day
+          produced one large evacuation.  On the 7th the patient was looking bright and lively, and
+          on the following day was up and walking about.  He was transferred to <name type="place">Annapolis Md.</name>, on <date type="transfer" when="1861-11-18">the 18th</date>. </p>      
+    </body>
+  </text>
+</TEI>

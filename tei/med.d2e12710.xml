@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d2e12710">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Sailor, W.</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+    <idno>med.d2e12710</idno>
+    <authority>Civil War Washington</authority>
+    <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor><name>Center for Digital Research in the
+     Humanities</name><address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address></distributor>
+    <date>2011</date>
+    <availability>
+     <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+      republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+      law, requires express written consent from the editors and advance notification of the
+      publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+ <persName xml:id="kw">Kenneth Winkle</persName> 
+     <persName xml:id="mb">Matthew Bosley</persName>
+     <persName xml:id="el">Elizabeth Lorang</persName>
+     <persName xml:id="sb">Stacey Berry</persName>
+     <persName xml:id="et">Elisabeth Tracey</persName>
+     <persName xml:id="ss">Sarah Synovec</persName>
+     <persName xml:id="kk">Kourtney Klein</persName>
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title level="j">The Medical and Surgical History of the War of the Rebellion.
+      (1861-65.)</title><pubPlace>Washington, DC</pubPlace><publisher>Government Printing
+      Office</publisher><biblScope type="part">Part 3</biblScope><biblScope type="volume">Volume
+      2</biblScope><date when="1883">1883</date><biblScope type="page">289-290</biblScope></bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+     <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <keywords scheme="#medsurg">
+     <term>wounds and injuries of the lower extremities</term> 
+     <term>injuries of the shaft of the femur</term>
+     <term>amputations in the shaft of the femur</term> 
+     <term>intermediary amputations in the shaft of the femur for shot injury</term>
+     <term>intermediary amputations in the lower third of the thigh</term> 
+     <term>fatal cases of intermediary amputation in the lower third of the femur</term> 
+     <term>wounded in leg by conical bullet</term>
+     <term>no pulsation in anterior tibial artery</term>
+     <term>both tibia and fibula comminuted</term>
+     <term>limb amputated in lower third of thigh</term>
+     <term>bones comminuted up to head of fibula</term>
+     <term>anterior tibial artery divided by bullet, ends separated about one inch</term>
+     <term>fatty degeneration of anterior tibial muscles</term>
+     <term>bowels confined</term>
+     <term>general anesthesia, ether</term>
+     <term>spleen contained metastatic abscesses</term>
+     <term>end of femur in stump necrosed and gangrenous</term>
+     <term>purulent infection</term>     
+     <term>autopsy performed</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+ <change who="#kw" when="2014-05">blessed</change>
+   <change who="#kk" when="2014-01-31">added figure encoding</change>
+   <change who="#mb" when="2012-05-18">additional proofing of transcription and encoding, identified keyword terms</change>   
+   <change who="#el" when="2011-05-11">case text extracted and transformed from larger file</change>
+   <change who="#sb" when="2011-06-04">Enrich Encoding, Edit and validate</change>
+   <change who="#sb" when="2011-01-28">Validated File</change>
+   <change who="#ss" when="2008-09-22">initial checking of OCR text; encoded P5 Encoding</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   
+    <p><hi rend="initialcap">C</hi>ASE 469.&#8212;<name type="person" key="1092">Private W. Sailor</name>, <name type="organization" key="449">Co. E, 119th Pennsylvania</name>, aged 40
+     years, was wounded in the left leg by a conical bullet, at <name type="BATTLE" key="15">Rappahannock Station</name>, <date type="injury" when="1863-11-07">November 7, 1863</date>.
+     <date type="admit" when="1863-11-09">Two days afterwards</date> he was admitted to <name type="hospital" key="175">Stanton Hospital</name>,
+     Washington, whence <name type="person" key="70">Surgeon J. A. Lidell</name>, <name
+      type="organization" key="132">U. S. V.</name>, made the following report:  "On examination, it
+     was found that the injured leg was much swollen and dark colored on its anterior surface, that
+     there was no pulsation in the anterior tibial artery, and that both the tibia and fibula were
+     extensively comminuted, with much laceration of the soft parts. His pulse was frequent and
+     irritable, and he had a good deal of constitutional disturbance and fever of an irritative
+     type.  On <date type="operation" when="1863-11-14">November 14th</date>, the fever had abated, and the general condition much improved; pulse
+     fuller and less irritable; appetite better; wound suppurating; discharge thin, dark colored,
+     and offensive; leg not improved. There being manifestly no hope of saving, it, the bones being
+     broken and the soft parts inflamed nearly up to the knee joint, and comminution very extensive,
+     the limb was amputated in the lower third of the thigh. The operation was performed by the
+     circular method by <name type="person" key="459">Assistant Surgeon G. A. Mursick</name>, <name
+      type="organization" key="132">U. S. V.</name>, under sulphuric ether. A dissection of the
+     amputated limb showed that the bones were extensively comminuted as high up as the head of the
+     fibula. The anterior tibial artery was found to be divided by the bullet a little below where
+     it passes through the interosseous membrane, the ends being separated from each other about one
+     inch and retracted within the sheath, also closely contracted. The cardiac end was plugged up
+     by a firm coagulum about an inch in length. The distal end was also plugged up by a small
+     coagulum. The anterior tibial muscles were pale yellow in color, soft and greasy to the touch
+     (fatty degeneration). The patient bore the operation well. The stump was dressed with lead
+     sutures and adhesive plaster, and a full dose of morphine was administered. He had a good
+     night's rest after the operation, and, on the following day, expressed a desire for food, his
+     pulse being full, frequent, and quick; bowels confined, for which a dose of rochelle salts was
+     ordered.  On November 17th, suppuration commenced, but little of the stump being united by adhesion; general condition good.
+     Prescribed moderate stimulation, with whiskey.  18th, edge of posterior flap looked sloughy;
+     ordered diluted Labarraque's solution to the stump, and twenty drops of muriated tincture of
+     iron every six hours internally.  20th, had a chill in the morning, followed by fever and sweat;
+     skin sallow looking; granulations in stump looking well, except on the posterior flap, a small
+     portion of which was sloughing. Ordered five grains of quinine every six hours, twenty drops of
+     muriated tincture of iron every four hours, and one ounce of whiskey every three hours.  21st,
+     had a chill in the afternoon; sallow appearance of skin deepened; pulse irritable; slight subsultus; bowels not moved for two days. Ordered ten grains of aloes and twenty grains of
+     rhubarb to be given at once, and continued other treatment.  22d, had chills again in the
+     afternoon, with slight delirium. Ordered one-twelfth of a grain of corrosive sublimate, with three grains of iodide of potassa, every four hours, and continued
+     the whiskey.  23d, patient vomited in the morning, had also a good deal of fever. Applied
+     sinapism to epigastrium.  24th, rigors, etc., in the morning; treatment continued.  25th, rigors, fever, and delirium; skin very yellow.  28th,
+     rigors, etc.; urine passed involuntary; bedsores on sacrum. Ordered a water bed.  Patient died,
+     exhausted, on <date type="death" when="1863-12-01">December 1, 1863</date>, the seventeenth day
+     after the amputation and the eleventh day after the advent of the purulent infection. Autopsy
+     twelve hours after death: Rigor mortis well marked; skin yellow; some emaciation; stump swollen
+     and &#339;dematous; femoral artery well plugged up in stump; end of femoral vein well sealed up
+     in stump; femoral vein empty and collapsed from the end up to the valve at the first
+     anastomosing branch, a distance of about six inches; the vein in this situation about as large
+     as the artery; the walls of the vein also much thickened, being about as thick as those of the
+     artery; the lining membrane looking velvety, wrinkled, and dirty gray in color; no pus in vein.
+     From the valve above mentioned up to the mouth of the vena profunda, a distance of about two
+     and a half inches, the femoral vein was filled to distension with fetid broken down liquefied
+     blood, its lining membrane dirty gray colored in this situation, and its walls somewhat thicker
+     than natural; no pus revealed in this locality by the microscope. At the mouth of the vena
+     profunda the femoral vein was plugged up with yellowish white<choice><orig>fibrine</orig><reg>fibrin</reg></choice>; vena profunda and many
+     of its branches filled and knotted with recent coagulum; femoral vein also filled with recent
+     coagulum above the mouth of the profunda to a distance of about two and a half inches; the
+     lining membrane of the profunda and part of the femoral vein last mentioned stained dark red,
+     and the walls of the vessels somewhat thickened in same locality. A thin dark colored recent
+     coagulum, not filling the calibre of the vein, extended the whole length of the external iliac.
+     The end of the femur in the stump (<hi rend="initialcap">F</hi>IG. 2, <hi rend="initialcap">P</hi>LATE <hi rend="initialcap">XLIII</hi>, opposite) was necrosed to the extent of nearly half an inch, and here the
+     periosteum was thickened, varying from a line to one-third of an inch, detached and gangrenous;
+     underlying bone white in color; medullary membrane at end of bone gangrenous and dirty grayish
+     green in color to the depth of about one-third of an inch; medullary membrane elsewhere more
+     vascular than natural, which was well shown by splitting the bone lengthwise with a saw (<hi
+      rend="initialcap">F</hi>IG. 1 of <hi rend="initialcap">P</hi>LATE <hi rend="initialcap">XLIII</hi>, opposite). Three or
+     four small superficial abscesses were formed about the right extremity of the spleen; the rest
+     of that organ was contracted and indurated. Five or six small superficial abscesses were
+     discovered in the lungs, the pulmonary tissue surrounding each of them being consolidated by inflammatory action. The other organs were natural, and the blood did not exhibit
+     any abnormity." The femoral artery (<hi rend="italic">Spec</hi>. 1887) and the femoral vein
+      (<hi rend="italic">Spec</hi>. 1888), together with three inches of bone from the stump (<hi
+      rend="italic">Spec.</hi> 1890), and the section of the spleen containing the metastatic
+     abscesses (<hi rend="italic">Spec</hi>. 1889, shown in <hi rend="initialcap">F</hi>IG. 3, <hi
+      rend="initialcap">P</hi>LATE <hi rend="initialcap">XLIII</hi>, opposite), were contributed to <name type="hospital"
+       key="431">the Museum</name> by <name type="person" key="70">Dr. Lidell</name>.</p>
+    
+   <figure>
+    <graphic url="cww.001815.001" />
+    <head>PLATE  XLIII. __ RESULT  OF  OSTEOMYELITIS.     Figs. 1, 2, 3.  Dr. Lidell's Case of Pt. W. Sailor,  Specs. 1889 _ 1890.  A. M. M.</head>
+   </figure> 
+    
+   
+  </body>
+ </text>
+</TEI>

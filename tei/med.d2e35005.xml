@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d2e35005">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Thurston, L. D.</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+    <idno>med.d2e35005</idno>
+    <authority>Civil War Washington</authority>
+    <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor>
+     <name>Center for Digital Research in the Humanities</name>
+     <address><addrLine>319 Love Library</addrLine>
+       <addrLine>University of Nebraska–Lincoln</addrLine>
+       <addrLine>Lincoln, NE 68588-4100</addrLine>
+       <addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+    </distributor>
+    <date>2011</date>
+    <availability>
+     <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+      republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+      law, requires express written consent from the editors and advance notification of the
+      publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: <persName xml:id="ajh">AJ Howell</persName>
+     <persName xml:id="el">Elizabeth Lorang</persName>
+     <persName xml:id="sb">Stacey Berry</persName>
+     <persName xml:id="et">Elisabeth Tracey</persName>
+     <persName xml:id="ss">Sarah Synovec</persName>
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl>
+     <title level="j">The Medical and Surgical History of the War of the Rebellion.
+      (1861-65.)</title>
+     <pubPlace>Washington, DC</pubPlace><publisher>Government Printing Office</publisher>
+     <biblScope type="part">Part 3</biblScope>
+     <biblScope type="volume">Volume 2</biblScope>
+     <date when="1883">1883</date>
+     <biblScope type="page"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+     <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <keywords scheme="#medsurg">
+     <term>wounds and complications</term>
+     <term>struck by a fragment of shell</term>
+     <term>severe but superficial wound of the integuments on the outer side</term>
+     <term>areola of purple congestion</term>
+     <term>abscess</term>
+     <term>weary and helpless decubitus and great mental despondency</term>
+     <term>severe h&#230;morrhage</term>
+     <term>circular patch of sphacelus</term>
+     <term>chronic diarrh&#339;a</term>
+     <term>typhoid condition</term>
+     <term>wound black and offensive</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change who="#ajh" when="2013-02-11">additional proofing of transcription and encoding, edited
+    and added keyword terms, added figures</change>
+   <change who="#el" when="2011-05-11">case text extracted and transformed from larger file</change>
+   <change who="#sb" when="2011-06-04">Enrich Encoding, Edit and validate</change>
+   <change who="#sb" when="2011-01-28">Validated File</change>
+   <change who="#ss" when="2008-09-22">initial checking of OCR text; encoded P5 Encoding</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>In <date type="injury" when="1863-02">February, 1863</date>, a number of cases of hospital
+    gangrene occurred at the <name type="hospital" key="162">Douglas Hospital</name>, Washington, D.
+    C., and were observed by <name type="person" key="200">Assistant Surgeon William Thomson</name>,
+     <name type="organization" key="190">U. S. A.</name>, who, in a special report to the Surgeon
+    General, gives the following interesting account of the pathology and treatment of the cases. In
+    several instances later information has been added to the cases cited by <name type="person"
+     key="200">Dr. Thomson</name>: <!--<ref xml:id="n01" target="#n48" n="1" /> --></p>
+   <p>"On the 26th of December, 1862, about two hundred wounded from the battle of <name type="BATTLE" key="251">Fredericksburg    
+   </name> were received into the <name type="hospital" key="162">Douglas Hospital</name>.</p>
+
+   <p>&quot;CASE II.&#8212;<name type="person" key="xxx">L. D. Thurston</name>, Private, <name
+     type="organization" key="xxx">Co. A, I6th New Hampshire</name>, aged 42 years, was struck by a
+    fragment of shell on <date type="injury" when="1862-12-13">December 13, 1862</date>, at <name
+     type="battle" key="251">Fredericksburg</name>, which caused a severe but superficial wound of
+    the integuments on the outer side of the left thigh. When seen, February 17, 1863, there was a
+    wound at the middle of the thigh, on its outer aspect, three and a half inches long by two and a
+    half wide, exposing the muscular tissue slightly, the surface of which was glazed and dry. On
+    the <date type="operation" when="1863-02-10">10th of Februrary</date> it had been found
+    desirable to open an abscess three inches below the left greater trochanter. On the 13th this
+    had assumed an unhealthy look, and when I saw it on the 17th the incision made by the lancet,
+    half an inch in length, was surrounded by a border of sphacelus one inch in width, and by an
+    areola of purple congestion, in which there seemed to have occurred a complete stasis of the
+    circulation. There was no pus, but a discharge of very fetid dark-colored serum. There was no
+    swelling, ulceration, or aversion of edges of the incision, which, although mortified, remained
+    as sharp as when first made. There was profound nervous prostration, which was indicated by his
+    rapid, feeble, and irritable pulse: by his sallow hue; his haggard and anxious expression of
+    countenance; his weary and helpless decubitus and great mental despondency. He was treated
+    internally with stimulants, the most condensed and nourishing food, and citrate of iron and
+    quinine; nitric acid was applied locally, followed by a weak solution of creasote, three drops
+    to the ounce of water, as an antiseptic dressing. The sphacelus extended in all directions
+    rapidly, unchecked by this treatment, from which I hoped little, since it was impossible to
+    bring the acid into contact with the diseased tissues, although it was injected into the
+    incision. The constitutional symptoms also became more grave. On the night of the 20th there was
+    quite a severe h&#230;morrhage from the incision, oozing slowly, and very difficult to restrain,
+    since it was caused by the erosion of vessels at a distance from the small incision. There was
+    now a circular patch of sphacelus surrounding this small incision, three inches in diameter. On
+    February 23d he was removed to the ward in the brick building. The original wound, hitherto
+    unaffected, now began to be black and offensive. The sphacelus extended from these two centres
+    at the rate of one inch daily, preceded by the above-mentioned areola of purple stasis. No
+    treatment, local or constitutional, produced the least effect. Stimulants were given in every
+    possible form, until the stomach refused to retain them. Pure nitric acid was freely applied to
+    the diseased surfaces with no benefit. He fell into a typhoid condition, with muttering
+    delirium, subsultus tendinum, etc., and finally expired <date type="death" when="1863-02-28">February 28th</date>. The sphacelus then
+    extended from the trochanter major to three inches above the outer condyle, and from the median
+    line in front to a corresponding point behind. There had never been any ulceration, but the
+    tissues seemed to perish <hi rend="italic">en masse</hi>. The incision made by the lancet was yet plainly seen in the
+    cen tre of any extensive surface of mortification. This man was 42 years old, had had chronic
+    diarrh&#339;a, and was in a feeble state of health when wounded. No benefit was observed from
+    any treatment. He took in addition to the nutrients and tonics the acid mixture with tincture of
+    opium. [A wet preparation of the thigh, exhibiting the ravages of hospital gangrene, is <hi
+     rend="italic">Specimen</hi> 1001 of the <hi rend="italic">8urgical Section</hi>, A. M. M.] * * *</p>
+  </body>
+ </text>
+</TEI>

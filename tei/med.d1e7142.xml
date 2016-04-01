@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e7142">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Farnham, Noah L.</title>
+                <title level="m" type="sub">a machine readable transcription</title>
+                <principal>Susan C. Lawrence</principal>
+                <principal>Kenneth M. Price</principal>
+                <principal>Kenneth J. Winkle</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2011</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <idno>med.d1e7142</idno>
+                <authority>Civil War Washington</authority>
+                <publisher>University of Nebraska–Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+                </distributor>
+                <date>2011</date>
+                <availability>
+                    <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved.
+                        Redistribution or republication in any medium, except as allowed under the
+                        Fair Use provisions of U.S. copyright law, requires express written consent
+                        from the editors and advance notification of the publisher, the University
+                        of Nebraska–Lincoln.</p>
+                </availability>
+            </publicationStmt>
+            <notesStmt>
+                <note type="project">The following are responsible for particular readings or for changes to this file, as noted: 
+                    <persName xml:id="mb">Matthew Bosley</persName>
+                    <persName xml:id="el">Elizabeth Lorang</persName>
+                    <persName xml:id="sb">Stacey Berry</persName>
+                    <persName xml:id="et">Elisabeth Tracey</persName>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>The Medical and Surgical History of the War of the Rebellion. (1861&#8211;65.)</title>
+                    <editor role="compiler">Surgeon General Joseph K. Barnes, United States Army</editor>
+                    <pubPlace>Washington, D.C.</pubPlace>
+                    <publisher>Government Printing Office</publisher>
+                    <biblScope type="part">Part 1</biblScope>
+                    <biblScope type="volume">Volume 2</biblScope>
+                    <date when="1870">1870</date>
+                    <biblScope type="page">109-110</biblScope>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <classDecl>
+                <taxonomy xml:id="medsurg">
+                    <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme="#medsurg">
+                    <term>on special wounds and injuries of the head</term>
+                    <term>wounds and injuries of the head</term>
+                    <term>gunshot wounds</term>
+                    <term>gunshot contusions of the cranial bones</term> 
+                    <term>contusion of the skull without fracture</term>
+                    <term>chronic irritability of the brain, or mental aberration</term>
+                    <term>musket ball made superficial forward wound over parietal</term>
+                    <term>external wound superficial</term>
+                    <term>fell from horse</term>
+                    <term>grave cerebral symptoms, hemiplegia, coma and death</term>
+                    <term>abscess at seat of injury, directly beneath wound of scalp</term>
+                    <term>extravasation of blood into sulci of brain</term>
+                    <term>extravasation of blood beneath visceral arachnoid membrane into pia mater</term>
+                    <term>contusion of brain or spinal cord</term>
+                   <term>concussion and irritation of brain</term>
+                    <term>concussion, complicated with contusion cerebrum</term>
+                    <term>meningo-cerebral inflammation and cerebral abscess</term> 
+                    <term>extravasation of blood in brain</term>     
+                    <term>hemiplegia</term>
+                    <term>cerebral disturbance</term>
+                    <term>ill before wound, unfit to perform duty at the time</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>   
+            <change who="#mb" when="2013-06-04">additional proofing of transcription and encoding, edited and added keyword terms</change>
+            <change who="#mb" when="2011-10-05">additional proofing of transcription and encoding</change>            
+            <change who="#mb" when="2011-06-17">additional proofing of transcription and encoding</change> 
+            <change who="#el" when="2011-11-05">case text extracted and transformed from larger file</change>
+            <change who="#sb" when="2011-02-09">enriched encoding</change>
+            <change who="#sb" when="2011-01-28">validated file</change>
+            <change who="#et" when="2009-08-01">encoded</change>
+            <change who="#sb" when="2008-09-22">initial checking of OCR text against PDF; encoded</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body xml:id="ch1.sc3.0090">            
+                <p><name type="person" key="365"><hi rend="initialcap">F</hi>ARNHAM, <hi
+                            rend="initialcap">N</hi>OAH <hi rend="initialcap">L</hi>.</name>,
+                    Colonel, <name type="organization" key="589">11th New York Volunteers (1st Fire
+                        Zouaves)</name>, was wounded, at the battle of <name type="BATTLE" key="322">Manassas</name>, <date type="injury" when="1861-07-21">July 21st,
+                        1861</date>, by a musket ball, which made a superficial forward wound over
+                    the left parietal. He was much stunned, and fell from his horse.  He was conveyed
+                    to the <name type="hospital" key="154">E Street Infirmary</name>, Washington,
+                    and placed under the care of <name type="person" key="366">Assistant Surgeon W. J. H. White</name>, <name type="organization" key="190">U. S. A.</name>  The
+                    wound healed promptly, and his condition was hopeful until <date type="injury" when="1861-08-10">August 10th</date>, when
+                    grave cerebral symptoms appeared, terminating in hemiplegia, followed by coma
+                    and death on <date type="death" when="1861-08-14">August 14th, 1861</date>.  At
+                    the autopsy, made by <name type="person" key="287">Assistant Surgeon J. W. S. Gouley</name>, <name type="organization"
+                        key="190">U.S.A.</name>, an abscess, the size of an English walnut, was
+                    found at the seat of injury, with extravasation of blood in the neighboring
+                    sulci of the brain. The following description of this case was prepared by<name
+                        type="person" key="70"> Surgeon John A. Lidell</name>,   <name
+                            type="organization" key="132">U. S. V.</name>:&#8432;</p>                
+            <p> &#42;    &#42;    &#42;    &#34;It cannot be doubted that, in at least some instances, this ecchymosis,
+                    this extravasation of blood beneath the visceral arachnoid membrane into the
+                    meshes of the pia mater (connective tissue), denotes a genuine contusion of the
+                    brain or spinal cord, as the case may be; and that, in this way, a positive
+                    pathological lesion, perceptible to the unaided vision, is superadded to the
+                    concussion. These cases of concussion, complicated with contusion of the nerve
+                    tissue, when the cerebrum happens to be the part involved, exhibit a marked
+                    tendency to the occurrence of meningo-cerebral inflammation and cerebral
+                    abscess. The following case strongly corroborates this statement:    &#42;    &#42;    <name type="person" key="365">Colonel Farnham</name>, of the <name type="organization" key="589">New York City Fire Zouaves</name>, was wounded, at the battle of <name type="BATTLE" key="322">Manassas</name>, <date type="injury" when="1861-07-21">July 21st,
+                        1861</date>, by a spent ball, which hit his head and knocked him off his
+                    horse. He was picked up insensible. The wound was small in size, superficial in
+                    character, and situated on the left side of the head, three inches above the
+                    meatus auditorius. It healed without any difficulty. The principal symptoms in
+                    his case, until near the close, were referable to concussion and irritation of
+                    the brain.  He died on the evening of <date type="death" when="1861-08-14">August 14th</date>, twenty-four days subsequent to the infliction of the injury. It
+                    was thought that he would recover, until about four days before death. He was
+                    partially paralyzed on the right side (hemiplegia) toward the last. He was
+                    comatose in the last moments.  At the autopsy, made <date type="autopsy" when="1861-08-15">August 15th</date> by <name
+                        type="person" key="287">Doctor Gouley</name>, <name type="organization"
+                        key="190">U. S. A.</name>, we found that the external wound was superficial; that the skull was not injured; that there was copious subarachnoidian
+                    effusion; that there was an unusual quantity of yellow-colored serum in the
+                    ventricles, and that there was an abscess of the cerebrum, situated directly
+                    beneath the wound of the scalp. This abscess was about the size of an English
+                    walnut, superficial in situation, and surrounded by softened cerebral tissue.
+                    The visceral and parietal arachnoid over the abscess were glued together, to
+                    some extent, by adhesive inflammation, so that, in endeavoring to turn back the
+                    dura mater while making the autopsy, though it was carefully done, the abscess
+                    was torn open. There were also traces of an extravasation of blood, three or
+                    four weeks old, in the sulci of the brain, beneath the visceral arachnoid
+                    membrane over the seat of the abscess, and likewise at the anterior extremity of
+                    the left cerebral hemisphere. There was a flattened clot of blood, black in
+                    color, and apparently three or four weeks old, in the fossa, at the base of the
+                    middle lobe of the left cerebral hemisphere. The dura mater, in relation with
+                    it, was somewhat thickened, roughened, and opacified.&#34;    &#42;    &#42;    &#42;</p>                
+            <p><name type="person" key="367">Medical Inspector F. H. Hamilton</name>, <name type="organization" key="190">U. S. A.</name>, has described this case as follows:&#8224;</p>
+            <p>&#34;First, I would remark, that you may have an injury of the scalp of an exceedingly trivial character, which may, in the
+                    end, prove fatal. A ball may simply tear off the hair of the scalp, and create a very slight abrasion of the skin, yet, the bone
+                    being so near, and the brain so close to the bone, it is very probable that serious mischief has been done. The bone in that
+                    situation may be so injured as to lead to necrosis, or a sufficient shock may be given to the brain and its envelopes to bring on
+                    inflammation. I will mention a very remarkable illustration of this fact.  <name type="person" key="365">Colonel Farnham</name>, after the death of <name type="name" key="xx">Colonel
+                        Ellsworth</name>, took command of the <name type="organization" key="589">1st Zouave Regiment</name>. At the battle of <name type="BATTLE" key="253">Bull Run</name>, <date type="battle" when="1861-07-21">July 21st, 1861</date>, he received an injury of the character referred to, and which I examined myself. It was a very slight and superficial wound, which seemed to have taken
+                off very little more than the hair.  He was transferred from the field to the <name type="hospital" key="428">Washington Infirmary</name>, where he was reported as
+                    doing very well, the wound being considered as a very slight and insignificant one; but, notwithstanding all this, he kept his
+                    bed. He did actually seem to be improving until about the ninth day after the reception of the wound, when grave symptoms
+                    suddenly supervened, and, in a day or two after, he died. I should notice that, during all the time he was in the hospital, he
+                    was very easily disturbed by visitors, and it was his desire to be left alone, showing that there was some cerebral disturbance.
+                    I ought also to mention that he was ill before he received the wound, and was unfit to perform duty at the time the battle took
+                    place; but, being a gallant officer, he was determined to lead his regiment to the charge. But his previous condition I do not
+                    think had much, if anything, to do with his death, which, in my opinion, and in the opinions of many other surgeons who saw
+                    him, was due directly to the apparently slight wound which he received during the fight.&#34;   &#42;   &#42;   &#34;Next, I called your attention
+                    to those injuries of the scalp produced by smaller missiles; for example, where a rifle ball had slightly impinged upon the
+                    surface of the scalp, producing a slight abrasion of the integument, which accident is usually accompanied by some degree of
+                    concussion, either to the skull, to the meninges of the brain, or to the brain itself, and which I have said you are not to regard
+                    as trivial accidents. Although the patient may not seem to have suffered any severe injury, you are to anticipate that sooner or
+                    later there may be an ulceration along the track of the ball, or that there may result necrosis, or meningitis, or cerebritis, and
+                    that the patient may ultimately die. And I cited, as an illustration of injuries of this class, the case of <name type="person" key="365">Colonel Farnham</name>,
+                    who assumed command of the Ellsworth Zouaves after the death of <name type="person" key="xx">Colonel Ellsworth</name>. He received an injury of such a
+                    character, which was exceedingly slight and superficial. I saw him myself, and examined him particularly, and all that was
+                    visible was a very trivial scalp wound. He was taken into a hospital in <name type="place" key="#Washington">Washington</name>, and there I saw him again, at the
+                    expiration of seven or eight days. He was then very irritable, and had been quite ill, but still his friends all thought that his
+                    recovery was certain. Three or four days after this, if I remember correctly, the symptoms became more grave, and he died, evidently from the injuries which his brain had received.&#34;    &#42;    &#42;    &#42;</p>
+            <p> &#8432; <hi rend="italic">American Journal of the Medical Sciences</hi>, vol. xlviii, p. 323.</p>
+            <p> &#8224; <hi rend="italic">American Medical Times</hi>, vol. viii, pp. 73-85.</p>           
+        </body>
+    </text>
+</TEI>

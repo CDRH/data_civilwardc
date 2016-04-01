@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e18929">
+                <teiHeader>
+                                <fileDesc>
+                                                <titleStmt>
+                                                                <title level="m" type="main">Heim, Adam</title>
+                                                  <title level="m" type="sub">a machine readable
+                                                  transcription</title>
+                                                  <principal>Susan C. Lawrence</principal>
+                                                  <principal>Kenneth M. Price</principal>
+                                                  <principal>Kenneth J. Winkle</principal>
+                                                </titleStmt>
+                                                <editionStmt>
+                                                  <edition><date>2011</date></edition>
+                                                </editionStmt>
+                                                <publicationStmt>
+                                                  <idno>med.d1e18929</idno>
+                                                  <authority>Civil War Washington</authority>
+                                                  <publisher>University of
+                                                  Nebraska–Lincoln</publisher>
+                                                  <distributor><name>Center for Digital Research in
+                                                  the
+                                                  Humanities</name><address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address></distributor>
+                                                  <date>2011</date>
+                                                  <availability>
+                                                  <p>Copyright © 2011 by University of
+                                                  Nebraska–Lincoln, all rights reserved.
+                                                  Redistribution or republication in any medium,
+                                                  except as allowed under the Fair Use provisions of
+                                                  U.S. copyright law, requires express written
+                                                  consent from the editors and advance notification
+                                                  of the publisher, the University of
+                                                  Nebraska–Lincoln.</p>
+                                                  </availability>
+                                                </publicationStmt>
+                                                <notesStmt>
+                                                  <note type="project">The following are responsible
+                                                  for particular readings or for changes to this
+                                                  file, as noted: 
+                                                                  <persName xml:id="mb">Matthew Bosley</persName>
+                                                                  <persName xml:id="el">Elizabeth Lorang</persName>
+                                                  <persName xml:id="sb">Stacey Berry</persName>
+                                                  <persName xml:id="et">Elisabeth Tracey</persName>
+                                                  </note>
+                                                </notesStmt>
+                                                <sourceDesc>
+                                                  <bibl><title>The Medical and Surgical History of
+                                                  the War of the Rebellion.
+                                                  (1861&#8211;65.)</title><editor role="compiler">Surgeon General Joseph K. Barnes, United States
+                                                  Army</editor><pubPlace>Washington,
+                                                  D.C.</pubPlace><publisher>Government Printing
+                                                  Office</publisher><biblScope type="part">Part 1</biblScope>
+                                                  <biblScope type="volume">Volume 2</biblScope><date
+                                                  when="1870">1870</date><biblScope type="page">447</biblScope></bibl>
+                                                </sourceDesc>
+                                </fileDesc>
+                                <encodingDesc>
+                                                <classDecl>
+                                                  <taxonomy xml:id="medsurg">
+                                                  <bibl>Medical and Surgical History of the War of
+                                                  the Rebellion</bibl>
+                                                  </taxonomy>
+                                                </classDecl>
+                                </encodingDesc>
+                                <profileDesc>
+                                                <textClass>
+                                                  <keywords scheme="#medsurg">
+                                                                  <term>wounds and injuries of the spine</term> 
+                                                                  <term>gunshot wounds of the spine</term>   
+                                                                  <term>gunshot injuries of the lumbar vertebrae</term>
+                                                                  <term>gunshot fractures of the apophyses of the lumbar spine</term>
+                                                                  <term>gunshot injuries of the fourth lumbar vertebra</term>
+                                                                  <term>fractured body of fourth lumbar vertebra</term>
+                                                                  <term>missile lodged close to spinal canal</term>
+                                                                  <term>Feces and gas passed freely from wound</term>
+                                                  </keywords>
+                                                </textClass>
+                                </profileDesc>
+                                <revisionDesc>
+                                                <change who="#mb" when="2011-12-09">additional proofing of transcription and encoding</change>                                                
+                                                <change who="#el" when="2011-05-11">case text extracted and transformed from larger file</change>
+                                                <change who="#sb" when="2011-02-09">enriched
+                                                  encoding</change>
+                                                <change who="#sb" when="2011-01-28">validated
+                                                  file</change>
+                                                <change who="#et" when="2009-08-01">encoded</change>
+                                                <change who="#sb" when="2008-09-22">initial checking
+                                                  of OCR text against PDF; encoded </change>
+                                </revisionDesc>
+                </teiHeader>
+                <text>
+                                <body>
+                                                
+                                                <p><hi rend="initialcap">C</hi>ASE.&#8212;<name type="person">Sergeant Adam Heim</name>, <name type="organization">Co. G, 105th
+                                                                Pennsylvania Volunteers</name>, was wounded at <name type="battle">Malvern Hill, Virginia</name>, <date type="injury" when="1862-07-02">July 2d, 1862</date>, the missile
+                                                  entering the right lumbar region, two inches from
+                                                  the spinal column, fracturing the body of the
+                                                  fourth lumbar vertebra, and lodging close to the
+                                                  spinal canal. He was treated in the field until
+                                                                <date type="admit" when="1862-07-07">July 7th</date>, when he was admitted to <name type="hospital" key="167">Carver Hospital</name>,
+                                                  Washington. Feces and gas passed freely from the
+                                                  wound. Opium, quinine, and stimulants were given.
+                                                  He did well, the wound in the bowels closing, and
+                                                  his passages were natural until an officious
+                                                  friend gave him fruit surreptitiously, when
+                                                  diarrh&#339;a supervened, and the wound reopened. He
+                                                  died on <date type="death" when="1862-08-03">August 3, 1862</date>. The pathological specimen
+                                                  is numbered 148, Section I, A. M. M., and was
+                                                  contributed by <name type="person" key="1526">Acting Assistant Surgeon W. W. Keen, <choice><sic>jr.</sic><corr>Jr.</corr></choice></name> </p>
+                                                
+                                </body>
+                </text>
+</TEI>

@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e11215">
+        <teiHeader>
+                <fileDesc>
+                        <titleStmt>
+                                <title level="m" type="main">Mahaer, Patrick</title>
+                                <title level="m" type="sub">a machine readable transcription</title>
+                                <principal>Susan C. Lawrence</principal>
+                                <principal>Kenneth M. Price</principal>
+                                <principal>Kenneth J. Winkle</principal>
+                        </titleStmt>
+                        <editionStmt>
+                                <edition>
+                                        <date>2011</date>
+                                </edition>
+                        </editionStmt>
+                        <publicationStmt>
+                                <idno>med.d1e11215</idno>
+                                <authority>Civil War Washington</authority>
+                                <publisher>University of Nebraska–Lincoln</publisher>
+                                <distributor>
+                                        <name>Center for Digital Research in the Humanities</name>
+                                        <address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+                                </distributor>
+                                <date>2011</date>
+                                <availability>
+                                        <p>Copyright © 2011 by University of Nebraska–Lincoln, all
+                                                rights reserved. Redistribution or republication in
+                                                any medium, except as allowed under the Fair Use
+                                                provisions of U.S. copyright law, requires express
+                                                written consent from the editors and advance
+                                                notification of the publisher, the University of
+                                                Nebraska–Lincoln.</p>
+                                </availability>
+                        </publicationStmt>
+                        <notesStmt>
+                                <note type="project">The following are responsible for particular readings or for changes to this file, as noted: 
+                                        <persName xml:id="mb">Matthew Bosley</persName>
+                                        <persName xml:id="el">Elizabeth Lorang</persName>
+                                        <persName xml:id="sb">Stacey Berry</persName>
+                                        <persName xml:id="et">Elisabeth Tracey</persName>
+                                </note>
+                        </notesStmt>
+                        <sourceDesc>
+                                <bibl>
+                                        <title level="j">The Medical and Surgical History of the War of the Rebellion</title>
+                                        <pubPlace>Washington, DC</pubPlace>
+                                        <publisher>Government Printing Office</publisher>
+                                        <biblScope type="part">Part 3</biblScope>
+                                        <biblScope type="volume">Volume 1</biblScope>
+                                        <date when="1888">1888</date>
+                                        <biblScope type="page">784</biblScope>
+                                </bibl>
+                        </sourceDesc>
+                </fileDesc>
+                <encodingDesc>
+                        <classDecl>
+                                <taxonomy xml:id="medsurg">
+                                        <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+                                </taxonomy>
+                        </classDecl>
+                </encodingDesc>
+                <profileDesc>
+                        <textClass>
+                                <keywords scheme="#medsurg">                                        
+                                        <term>diseases attributed to non-miasmatic exposures</term>
+                                        <term>diseases of the respiratory organs</term>
+                                        <term>pneumonia</term>
+                                        <term>post-mortem records of catarrhal cases</term> 
+                                        <term>lobar pneumonias</term>
+                                        <term>secondary pneumonias</term>
+                                        <term>broncho-pneumonia with no notable complication</term>	
+                                        <term>unconnected with the eruptive fever</term>                                        
+                                        <term>bronchial tubes dilated with thickened walls and brownish-red lining</term>
+                                        <term>admitted with typhoid pneumonia</term>
+                                        <term><choice><orig>dulness</orig><reg>dullness</reg></choice> with tubular respiration on both sides</term>
+                                        <term><choice><orig>sputa</orig><reg>sputum</reg></choice> thick, yellow, very offensive</term>
+                                        <term>lower lobe of lung hepatized gray</term>
+                                </keywords>
+                        </textClass>
+                </profileDesc>
+                <revisionDesc>
+                        <change who="#mb" when="2013-05-01">additional proofing of transcription and encoding, edited and added keyword terms</change>
+                        <change who="#mb" when="2013-03-08">additional proofing of transcription and encoding, edited and added keyword terms</change>
+                        <change who="#mb" when="2011-07-08">additional proofing of transcription and encoding</change>
+                        <change who="#el" when="2011-05-11">case text extracted and transformed from larger file</change>
+                        <change who="#sb" when="2011-02-23">Encoding and Proofing</change>
+                        <change who="#et" when="2009-12-01">Initial Checking OCR Text to PDF file,</change>
+                </revisionDesc>
+        </teiHeader>
+        <text>
+                <body>                        
+                        <p> <hi rend="initialcap">C</hi>ASE 8.&#8212;<name type="person">Private Patrick Mahaer</name>, <name type="organization">Co. K, 11th N. J.</name>;
+                                age 20; was admitted <date type="admit" when="1865-01-13">Jan. 13, 1865</date>, with typhoid pneumonia.  <choice><orig>Dulness</orig><reg>Dullness</reg></choice> with tubular respiration on both sides, specially marked over the lower part of the right lung and
+                                        the upper part of the left; breathing short and hurried;
+                                        cough severe; <choice><orig>sputa</orig><reg>sputum</reg></choice> thick, yellow and very offensive; pulse
+                                        130 and weak; tongue furred brown, darker in the centre than
+                                        elsewhere; teeth covered with sordes; skin sallow, hot and
+                                        dry; bowels relaxed; urine scanty and high-colored. A
+                                        blister over the chest gave some relief; warm fomentations
+                                        were afterwards applied. Expectorants, diaphoretics and
+                                        sustaining measures were employed but without benefit; the
+                                        patient became delirious, frequently covering his head with
+                                        the bedclothes and begging not to be shot.  He died on <date type="death" when="1865-01-27">the 27th</date>.   <hi rend="italic">Post-mortem</hi> examination: The lower lobe of the right
+                                        lung was hepatized gray and quite soft. The bronchial tubes
+                                        generally were dilated and had thickened walls and a
+                                        brownish-red lining. The heart was normal and contained
+                                        the usual clots. Liver nutmeg; spleen pale; kidneys pale and
+                                        fatty.&#8212;<hi rend="italic">Hospital, <name type="place">Alexandria, Va.</name></hi> </p>                        
+                </body>
+        </text>
+</TEI>

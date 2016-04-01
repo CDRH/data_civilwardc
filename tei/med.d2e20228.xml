@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d2e20228">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Payne, Oliver</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+    <idno>med.d2e20228</idno>
+    <authority>Civil War Washington</authority>
+    <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor><name>Center for Digital Research in the
+     Humanities</name><address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address></distributor>
+    <date>2011</date>
+    <availability>
+     <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+      republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+      law, requires express written consent from the editors and advance notification of the
+      publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+ <persName xml:id="kw">Kenneth Winkle</persName> 
+     <persName xml:id="mb">Matthew Bosley</persName>
+     <persName xml:id="el">Elizabeth Lorang</persName>
+     <persName xml:id="sb">Stacey Berry</persName>
+     <persName xml:id="et">Elisabeth Tracey</persName>
+     <persName xml:id="ss">Sarah Synovec</persName>
+     <persName xml:id="kk">Kourtney Klein</persName>
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title level="j">The Medical and Surgical History of the War of the Rebellion.
+      (1861-65.)</title><pubPlace>Washington, DC</pubPlace><publisher>Government Printing
+      Office</publisher><biblScope type="part">Part 3</biblScope><biblScope type="volume">Volume
+      2</biblScope><date when="1883">1883</date><biblScope type="page">528, 317</biblScope></bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+     <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <keywords scheme="#medsurg">
+     <term>wounds and injuries of the lower extremities</term> 
+     <term>wounds and operations in the leg</term>
+     <term>shot fractures of the bones of the leg</term>
+     <term>amputations in the continuity of the leg for shot fractures</term> 
+     <term>intermediary amputations in the continuity of the leg for shot injury</term> 
+     <term>intermediary amputations in the lower third of the leg for shot injury</term> 
+     <term>recoveries after intermediary amputations in the lower third of the leg</term>
+     <term>accidental gunshot wound through tendo-achillis and ankle joint, emerged at right angle with line of entrance, grinding <choice><orig>astragalus</orig><reg>talus</reg></choice> and part of os calcis</term> 
+     <term>leg amputated above malleoli</term> 
+     <term>leg re-amputated below knee</term>     
+     <term>general anesthesia, ether</term>
+     <term>general anesthesia, chloroform</term>
+     <term>furnished with artificial limb</term>
+     <term>syphilis</term> 
+    </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+ <change who="#kw" when="2014-05">blessed</change>
+   <change who="#kk" when="2014-01-31">added figure encoding</change>
+   <change who="#mb" when="2012-06-08">additional proofing of transcription and encoding, identified keyword terms</change>
+   <change who="#el" when="2011-05-11">case text extracted and transformed from larger file</change>
+   <change who="#sb" when="2011-06-04">Enrich Encoding, Edit and validate</change>
+   <change who="#sb" when="2011-01-28">Validated File</change>
+   <change who="#ss" when="2008-09-22">initial checking of OCR text; encoded P5 Encoding</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>   
+    <p><hi rend="initialcap">C</hi>ASE 771.&#8212;<name type="person" key="1303">Private O.
+      Payne</name>, <name type="organization" key="500">Co. D, 20th Colored Troops</name>, aged 19
+     years, was wounded in the right foot, near <name type="place" key="xx">Petersburg</name>, <date type="injury" when="1864-06-07">June 7, 1864</date>, and entered <name
+      type="hospital" key="165">Mount Pleasant Hospital</name>, at Washington, <date type="admit" when="1864-06-10">three days
+     afterwards</date>.  <name type="person" key="339">Assistant Surgeon C. A. McCall</name>, <name
+      type="organization" key="190">U. S. A.</name>, reported: "Accidental gunshot wound through
+     tendo-achillis, passing through the ankle joint and emerging almost at right angle with the
+     line of entrance, literally grinding the <choice><orig>astragalus</orig><reg>talus</reg></choice> and part of the os calcis. Sanguineous
+     fluid was discharged from the wounds, and the foot became somewhat &#339;dematous as far as
+     above the malleoli. Two weeks after the patient's admission his pulse grew weaker, more
+     compressible, and frequent, which was attended by loss of "appetite and sleep. On <date type="operation" when="1864-06-27">June 27th</date>, an
+     an&#230;sthetic consisting of equal parts of ether and chloroform was administered, and the leg
+     was amputated by the circular method, by <name type="person" key="1305">Acting Assistant
+      Surgeon A. Transue</name>, the bone being divided one and a half inches above the malleoli.
+     The patient reacted finely, and after the operation his appetite improved, he slept well, and
+     the parts looked favorable."  On <date type="transfer" when="1864-10-08">October 8th</date>, he
+     was transferred to hospital at <name type="place">New Albany</name>, where a second operation was performed by <name type="person" key="xx">Acting Assistant Surgeon W. A. Clapp</name>, who contributed the
+     following description of the case: "The patient stated that he contracted syphilis previous to
+     being wounded. Extensive necrosis of the shafts of the tibia and fibula followed the first
+     amputation, and the pain and discharge from the stump became so great as to necessitate a re-amputation, which was performed
+     by the circular method, three inches below the knee, on <date type="operation" when="1865-03-18">March 18, 1865</date>. At the time of the
+     operation firm sequestra had formed and there was great swelling of the soft parts. The
+     subsequent progress was favorable."  The patient was ultimately discharged from service, at the
+     Joe Holt Hospital, <name type="place">Jeffersonville</name>, <date type="servicedischarge" when="1865-08-01">August 1, 1865</date>, and pensioned, and one year
+     afterwards he was furnished with an artificial limb of the Palmer patent.  The bones removed at
+     the second amputation were subsequently contributed to <name type="hospital" key="431">the Museum</name> by <name type="person" key="1304">Dr. T. W. Fry</name>, late Surgeon <name
+      type="organization" key="132">U. S. V.</name>, who at the same time stated that the man was in
+     good health and walking about on crutches, with a good stump, which had healed kindly.  The
+     specimen is numbered 4740 of the Surgical Section, and is represented in <hi rend="initialcap">P</hi>LATE <hi rend="initialcap">LXXII</hi>, <hi rend="initialcap">F</hi>IGURE 1, opposite page 317, <hi rend="italic">ante</hi>.  The pensioner was paid <date type="pension" when="1880-03-04">March 4, 1880</date>.</p>
+   
+   <figure>
+    <graphic url="cww.001819.001" />
+   <head>PLATE  LXXII. __ INVOLUCRA  OF  BONES  OF  THE  LEG.    Fig. 1._<name type="person" key="1303">Private Oliver Payne</name>,  <name type="organization" key="500">D, 28 U. S. Colored Troops</name>,  Specimen 4740,  A. M. M.</head>
+   </figure>  
+   
+  </body>
+ </text>
+</TEI>

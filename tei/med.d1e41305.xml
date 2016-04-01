@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e41305">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Quackenbush, Peter</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+    <idno>med.d1e41305</idno>
+       <authority>Civil War Washington</authority>
+       <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor>
+       <name>Center for Digital Research in the Humanities</name>
+       <address><addrLine>319 Love Library</addrLine>
+       <addrLine>University of Nebraska–Lincoln</addrLine>
+       <addrLine>Lincoln, NE 68588-4100</addrLine>
+       <addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+    </distributor>
+    <date>2011</date>
+    <availability>
+        <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+         republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+         law, requires express written consent from the editors and advance notification of the
+         publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+     <persName xml:id="mb">Matthew Bosley</persName>
+     <persName xml:id="el">Elizabeth Lorang</persName>
+     <persName xml:id="sb">Stacey Berry</persName>
+     <persName xml:id="ao">Alyssa Olson</persName>
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl>
+     <title level="j">The Medical and Surgical History of the War of the Rebellion. (1861-65.)</title>
+     <pubPlace>Washington, DC</pubPlace>
+     <publisher>Government Printing Office</publisher>
+     <biblScope type="part">Part 2</biblScope>
+     <biblScope type="volume">Volume 1</biblScope>
+     <date when="1879">1879</date>
+     <biblScope type="page">184</biblScope>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+       <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+      <keywords scheme="#medsurg">
+       <term>diarrh&#339;a and dysentery</term>
+       <term>fatal cases of diarrh&#339;a and dysentery, with accounts of the morbid appearances observed</term>
+       <term>from Carver Hospital, Washington, D. C.</term>
+       <term>chronic diarrh&#339;a</term>
+       <term>pain in right side, <choice><orig>dulness</orig><reg>dullness</reg></choice> on percussion, other evidence of pleurisy with effusion</term>
+       <term>pleuritic adhesions, old on left and recent on right side</term>
+       <term>left lower lobe greatly congested</term>
+       <term>right pleural cavity about half full of fluid</term>
+       <term>pericardium contained fluid</term>
+       <term>liver enlarged and fatty</term>
+       <term>near ileoc&#230;cal valve Peyer's patches thickened and spongy at their centres</term>
+       <term>in ascending colon large ulcers with ragged edges and black pigment</term>
+       <term>ulcers less numerous and smaller in transverse colon, again larger in descending colon</term>
+       <term>above ileoc&#230;cal valve Peyer's patch thickened, with tumefaction of solitary follicles</term>
+       <term>transverse colon presented minute follicular ulcers</term>       
+       <term>autopsy performed</term>       
+     </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change who="#mb" when="2012-11-26">additional proofing of transcription and encoding, identified keyword terms</change>
+   <change who="#el" when="2010-11-05">case text extracted and transformed from larger file</change>
+   <change who="#sb" when="2010-05-01">enrich encoding, proof and edit</change>
+   <change who="#ao" when="2008-10-02">encoding and editing</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body> 
+   <p>The notes were forwarded, with the specimens, to the <name type="hospital" key="431">Army Medical Museum</name> from <name type="hospital" key="167"><hi rend="initialcap">C</hi>ARVER <hi rend="initialcap">H</hi>OSPITAL</name>, Washington, D. C., <name type="person" key="102">Surgeon Oliver A. Judson</name>, <name type="organization" key="132">U. S. V.</name>, in charge:</p>
+   <p><hi rend="initialcap">C</hi>ASE 426.&#8212;<name type="person" key="xxx">Private Peter Quackenbush</name>, <name type="organization" key="xxx">company E, 111th New York volunteers</name>; age 48; admitted from the depot hospital of the 2d Army Corps, <name type="place">City Point, Virginia</name>, <date type="admit" when="1864-07-05">July 5, 1864</date>.  Chronic diarrh&#339;a.  The patient had a senile look, and was considerably emaciated; pulse about 80; tongue moist but covered with a gray fur; anorexia; severe diarrh&#339;a.  He continued about the same until July 10th, when he began to improve, the diarrh&#339;a being somewhat checked and his appetite better.  July 26th, he was attacked by a severe pain in the right side, with <choice><orig>dulness</orig><reg>dullness</reg></choice> on percussion, and other evidence of pleurisy with effusion.  The diarrh&#339;a now became aggravated, the anorexia returned, and the patient died <date type="death" when="1864-08-01">August 1st</date>.  Treatment: Opiates and astringents were freely given to relieve the diarrh&#339;a, and stimulants were administered from the first. When pleurisy set in a blister was applied to the right side of the chest. Diet: Milk, beef-essence, &#38;c.  <hi rend="italic">Autopsy</hi> <date type="autopsy" when="1864-08-01">four hours after death</date>: The left lung was bound firmly to the chest by old pleuritic adhesions; its lower lobe was greatly congested; pleuritic adhesions, which seemed quite recent, existed also on the right side; the posterior portion of the right lung was in a state of hypostatic congestion; the right pleural cavity was about half full of fluid. The heart appeared to be normal; a partially washed clot was found in its right side; the pericardium contained about three ounces of fluid. The liver was enlarged, pale, and apparently fatty; the gall bladder was filled with viscid bile. The spleen was enlarged and very soft. The kidneys were of about the normal size; their cortical substance appeared very pale. The mucous membrane of the stomach was thickened and congested; that of the small intestine was also congested, especially within three feet of the ileoc&#230;cal valve, where Peyer's patches were considerably thickened and presented a spongy appearance at their centres. In the ascending colon there were several large ulcers with ragged edges, which contained a quantity of black pigment; the mucous membrane was considerably thickened and softened; in the transverse colon these ulcers were less numerous and smaller; in the descending colon they again became larger.&#8212;<name type="person" key="xxx">Acting Assistant Surgeon O. P. Sweet</name>.  [Nos. 353 to 355, Medical Section, <name type="hospital" key="431">Army Medical Museum</name>, are from this case.  No. 353 is a portion of the ileum taken just above the ileoc&#230;cal valve, showing a slightly thickened Peyer's patch and some tumefaction of the solitary follicles.  No. 354 is a portion of the ascending colon, presenting a number of oval ulcers with abraded edges, varying from the size of a pin-head to that of a five-cent piece.  No. 355 is a portion of the transverse colon, presenting a number of minute follicular ulcers.]</p>
+   
+  </body>
+ </text>
+</TEI>

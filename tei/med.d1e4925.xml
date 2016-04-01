@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e4925">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title level="m" type="main">Ellsworth, E. T.</title>
+        <title level="m" type="sub">a machine readable transcription</title>
+        <principal>Susan C. Lawrence</principal>
+        <principal>Kenneth M. Price</principal>
+        <principal>Kenneth J. Winkle</principal>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <date>2011</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <idno>med.d1e4925</idno>
+        <authority>Civil War Washington</authority>
+        <publisher>University of Nebraska–Lincoln</publisher>
+        <distributor>
+          <name>Center for Digital Research in the Humanities</name>
+          <address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+        </distributor>
+        <date>2011</date>
+        <availability>
+          <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution
+            or republication in any medium, except as allowed under the Fair Use provisions of U.S.
+            copyright law, requires express written consent from the editors and advance
+            notification of the publisher, the University of Nebraska–Lincoln.</p>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="project">The following are responsible for particular readings or for changes to
+          this file, as noted: 
+          <persName xml:id="mb">Matthew Bosley</persName>
+          <persName xml:id="el">Elizabeth Lorang</persName>
+          <persName xml:id="sb">Stacey Berry</persName>
+          <persName xml:id="et">Elisabeth Tracey</persName>
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>
+          <title level="j">The Medical and Surgical History of the War of the Rebellion</title>
+          <pubPlace>Washington, DC</pubPlace>
+          <publisher>Government Printing Office</publisher>
+          <biblScope type="part">Part 3</biblScope>
+          <biblScope type="volume">Volume 1</biblScope>
+          <date when="1888">1888</date>
+          <biblScope type="page">258</biblScope>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <classDecl>
+        <taxonomy xml:id="medsurg">
+          <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="#medsurg">
+          <term>clinical records</term>
+          <term>continued fevers</term>
+          <term>typhoid fever</term>
+          <term>fever cases from various records</term>
+          <term>reported as typhoid, many modified by malarial influence</term>          
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change who="#mb" when="2011-10-07">additional proofing of transcription and encoding</change>
+      <change who="#mb" when="2011-06-10">additional proofing of transcription and encoding</change>
+      <change who="#el" when="2011-05-11">case text extracted and transformed from larger
+        file</change>
+      <change who="#sb" when="2011-02-23">Encoding and Proofing</change>
+      <change who="#et" when="2009-12-01">Initial Checking OCR Text to PDF file, </change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body xml:id="ch4.sc2.4.00006">
+      
+        <p><hi rend="initialcap">C</hi>ASE 6.&#8212;<name type="person" key="582">Private E. T.
+            Ellsworth</name>, <name type="organization" key="445">Co. G, 16th N. Y.</name>; age 19;
+          was admitted <date type="admit" when="1861-10-10">Oct. 10, 1861</date>, having been
+          treated for three days before admission with astringents and nutrients. The attack
+          commenced with a chill. On admission he had pain in the head, back and abdomen, a slow and
+          feeble pulse, hot and dry skin, heavily coated white tongue with clean tip and slightly
+          reddened edges, thirst, slight cough, somewhat labored respiration and scalding during
+          micturition. Next day the characteristic eruption came out on the face and abdomen. His
+          appetite was improved on the 12th; the tongue natural and the skin perspiring on the 13th.
+          Two days later the skin became dry and hot, the tongue white at the base and red at the
+          tip and margins, the pulse full, but there was no diarrh&#339;a; next day the febrile
+          action abated. On the 22d he was considered convalescent, and on <date type="duty"
+            when="1861-11-01">November 1</date> he was returned to duty.&#8212;<hi rend="italic">
+            <name type="PLACE" key="#Alexandria">Hospital, Alexandria, Va.</name></hi>
+        </p>
+      
+    </body>
+  </text>
+</TEI>

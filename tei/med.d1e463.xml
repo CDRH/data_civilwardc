@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e463">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Butcher, Robert A.</title>
+                <title level="m" type="sub">a machine readable transcription</title>
+                <principal>Susan C. Lawrence</principal>
+                <principal>Kenneth M. Price</principal>
+                <principal>Kenneth J. Winkle</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2011</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <idno>med.d1e463</idno>
+                <authority>Civil War Washington</authority>
+                <publisher>University of Nebraska–Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+                </distributor>
+                <date>2011</date>
+                <availability>
+                    <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved.
+                        Redistribution or republication in any medium, except as allowed under the
+                        Fair Use provisions of U.S. copyright law, requires express written consent
+                        from the editors and advance notification of the publisher, the University
+                        of Nebraska–Lincoln.</p>
+                </availability>
+            </publicationStmt>
+            <notesStmt>
+                <note type="project">The following are responsible for particular readings or for
+                    changes to this file, as noted: 
+ <persName xml:id="kmp">Kenneth M. Price</persName>
+                    <persName xml:id="ajh">AJ Howell</persName>
+                    <persName xml:id="mb">Matthew Bosley</persName>
+                    <persName xml:id="el">Elizabeth Lorang</persName>
+                    <persName xml:id="sb">Stacey Berry</persName>
+                    <persName xml:id="et">Elisabeth Tracey</persName>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>The Medical and Surgical History of the War of the Rebellion.
+                        (1861&#8211;65.)</title>
+                    <editor role="compiler">Surgeon General Joseph K. Barnes, United States
+                        Army</editor>
+                    <pubPlace>Washington, D.C.</pubPlace>
+                    <publisher>Government Printing Office</publisher>
+                    <biblScope type="part">Part 1</biblScope>
+                    <biblScope type="volume">Volume 2</biblScope>
+                    <date when="1870">1870</date>
+                    <biblScope type="page">3-4</biblScope>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <classDecl>
+                <taxonomy xml:id="medsurg">
+                    <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme="#medsurg">
+                    <term>incised and puncture wounds</term>
+                    <term>wounds and injuries of the head</term>
+                    <term>incised scalp wounds</term>
+                    <term>two sabre-cuts over vertex</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+ <change who="#kmp" when="2014-05">blessed</change>
+            <change who="#ajh" when="2013-08-09">added figure encoding</change>
+            <change who="#mb" when="2011-10-20">additional proofing of transcription and
+                encoding</change>
+            <change who="#mb" when="2011-05-26">additional proofing of transcription and
+                encoding</change>
+            <change who="#el" when="2011-11-05">case text extracted and transformed from larger
+                file</change>
+            <change who="#sb" when="2011-02-09">enriched encoding</change>
+            <change who="#sb" when="2011-01-28">validated file</change>
+            <change who="#et" when="2009-08-01">encoded</change>
+            <change who="#sb" when="2008-09-22">initial checking of OCR text against PDF; encoded
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body xml:id="ch1.sc1.0010">
+
+            <p><name type="person" key="994"><hi rend="initialcap">B</hi>UTCHER, <hi
+                        rend="initialcap">R</hi>OBERT <hi rend="initialcap">A</hi>.</name>, Private,
+                    <name type="organization" key="331">Co. H, 82d Pennsylvania Volunteers, of the
+                    3d Brigade, 1st Division, 6th Corps</name>, aged 21 years, received, in an
+                encounter with the enemy's cavalry near <name type="place">Burke's Station,
+                    Virginia</name>, on <date type="injury" when="1865-04-06">April 6th,
+                1865</date>, two sabre-cuts over the vertex, parallel to each other, and at right
+                angles to the sagittal suture. The wounds appeared to implicate the scalp only, and
+                were approximated by adhesive plaster, after the hair had been shaven away. The
+                patient was conveyed to Washington, and entered <name type="hospital" key="173"
+                    >Harewood Hospital</name> on <date type="admit" when="1865-04-16">April
+                    16th</date>. The wounds healed rapidly, and no unpleasant symptoms occurred
+                until <date when="1865-04-16">May 29th</date>, when he complained of severe
+                headache, accompanied by intolerance of light and sensitiveness to noise. A day or
+                two subsequently the anterior wound reopened, and discharged thin unhealthy pus. An
+                exfoliation was suspected, but no denuded bone could be detected, and under a mild
+                evaenant treatment the headache subsided, and the wound again assumed an healthy
+                aspect. On <date type="discharge" when="1865-06-08">June 8th, 1865</date>, it had
+                almost entirely healed, and, at his own request, the patient was discharged from the
+                hospital and from the service of the United States. Soon after his admission to
+                Harewood, a photograph of his wounds had been taken, by direction of the surgeon in
+                charge, <name type="person" key="158">Brevet Lieut. Col. R. B. Bontecou</name>,
+                    <name type="organization" key="132">U. S. Vols</name>. This is preserved as No.
+                30 of the first volume of Photographs of Surgical Cases, <name type="hospital"
+                    key="431">Army Medical Museum</name>, and is very faithfully copied in the
+                figure on the left of the group of heads in the accompanying plate.</p>
+
+<figure>
+    <graphic url="cww.001354.001"/>
+                <head><hi rend="initialcap">P</hi>LATE <hi rend="initialcap">I</hi>, facing p. 4. SABRE
+                WOUNDS OF THE HEAD. Private R. A. Butcher. 82<hi rend="superscript">d</hi> Penn<hi
+                    rend="superscript">a</hi> Vols.</head></figure>
+
+        </body>
+    </text>
+</TEI>

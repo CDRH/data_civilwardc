@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d2e22593">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">McCool, A. B.</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+    <idno>med.d2e22593</idno>
+    <authority>Civil War Washington</authority>
+    <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor><name>Center for Digital Research in the
+     Humanities</name><address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address></distributor>
+    <date>2011</date>
+    <availability>
+     <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+      republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+      law, requires express written consent from the editors and advance notification of the
+      publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+     <persName xml:id="mb">Matthew Bosley</persName>
+     <persName xml:id="el">Elizabeth Lorang</persName>
+     <persName xml:id="sb">Stacey Berry</persName>
+     <persName xml:id="et">Elisabeth Tracey</persName>
+     <persName xml:id="ss">Sarah Synovec</persName>
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title level="j">The Medical and Surgical History of the War of the Rebellion.
+      (1861-65.)</title><pubPlace>Washington, DC</pubPlace><publisher>Government Printing
+      Office</publisher><biblScope type="part">Part 3</biblScope><biblScope type="volume">Volume
+      2</biblScope><date when="1883">1883</date><biblScope type="page">594</biblScope></bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+     <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <keywords scheme="#medsurg">
+     <term>wounds and injuries of the lower extremities</term> 
+     <term>wounds and operations at the ankle joint</term>
+     <term>shot fractures of the bones of the ankle joint</term>
+     <term>excisions at the ankle joint for shot injury</term> 
+     <term>secondary excisions at the ankle joint</term> 
+     <term>fatal secondary excisions at the ankle joint</term> 
+     <term>wounded in both lower extremities</term>
+     <term>gunshot wound of right thigh and left leg at ankle joint</term>
+     <term>fractures of external and internal malleolus</term> 
+     <term>diarrh&#339;a</term> 
+     <term>resection, lower ends of tibia and fibula removed</term>     
+     <term>general anesthesia, ether</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change who="#mb" when="2012-06-14">additional proofing of transcription and encoding, identified keyword terms</change>
+   <change who="#el" when="2011-05-11">case text extracted and transformed from larger file</change>
+   <change who="#sb" when="2011-06-04">Enrich Encoding, Edit and validate</change>
+   <change who="#sb" when="2011-01-28">Validated File</change>
+   <change who="#ss" when="2008-09-22">initial checking of OCR text; encoded P5 Encoding</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>   
+    <p><hi rend="initialcap">C</hi>ASE 860.&#8212;<name type="person" key="1378">Private A. B. McCool</name>, <name type="organization" key="521">Co. E, 188th Pennsylvania</name>, aged 21
+     years, was wounded in both lower extremities, at <name type="BATTLE" key="16">Cold Harbor</name>, <date type="injury" when="1864-06-03">June 3, 1864</date>. <name type="person"
+      key="xx">Surgeon S. A. Richardson</name>, <name type="organization" key="338">13th New Hampshire</name>, recorded his entrance into the Eighteenth Corps field hospital. Secondary resection was subsequently performed at <name
+      type="hospital" key="173">Harewood Hospital</name>, Washington, by <name type="person" key="158">Surgeon R. B. Bontecou</name>, <name type="organization" key="132">U. S. V.</name>,
+     who reported that "the patient was admitted <date type="transfer" when="1864-06-15">June 15th</date>, suffering from gunshot wound of the right thigh and of the left leg at the ankle
+     joint, fracturing the external and internal malleolus. At the time of admission the condition of the injured parts was not good, being &#339;dematous and somewhat infiltrated with pus.
+     Subsequently the parts sloughed extensively and the bone became necrosed, the patient's strength failing day by day. On <date type="operation" when="1864-07-12">July 12th</date>
+     sulphuric ether was administered and the ankle joint was resected, one inch each of the lower end of the tibia and fibula being removed. A severe and prostrating diarrh&#339;a complicated
+     the case, from the consequent exhaustion of which, together with the excessive suppuration, the patient died <date type="death" when="1864-07-21">July 21, 1864</date>. The treatment consisted
+     of stimulants, sedatives, narcotics, and supporting diet."  The excised portions of the tibia and fibula were contributed to <name type="hospital" key="431">the Museum</name> by <name type="person" key="158">the operator</name> and constitute specimen 3045 of the <hi rend="italic">Surgical Section</hi>.&#178;</p>
+   <p>&#178; <hi rend="initialcap">C</hi>ULBERTSON (<hi rend="initialcap">H.</hi>), <hi rend="italic">Excision of the Larger Joints of the Extremities</hi>, in <hi rend="italic">Trans. Am. Med. Association</hi>, 1876, Supplement to Vol. XXVII, p. 312.</p>
+  </body>
+ </text>
+</TEI>

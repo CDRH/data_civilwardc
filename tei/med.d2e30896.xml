@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d2e30896">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Boyce, W. D.</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+       <idno>med.d2e30896</idno>
+       <authority>Civil War Washington</authority>
+       <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor>
+       <name>Center for Digital Research in the Humanities</name>
+       <address><addrLine>319 Love Library</addrLine>
+       <addrLine>University of Nebraska–Lincoln</addrLine>
+       <addrLine>Lincoln, NE 68588-4100</addrLine>
+       <addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+    </distributor>
+    <date>2011</date>
+    <availability>
+        <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+         republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+         law, requires express written consent from the editors and advance notification of the
+         publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+ <persName xml:id="kmp">Kenneth M. Price</persName> 
+     <persName xml:id="mb">Matthew Bosley</persName>
+     <persName xml:id="cm">Clint Mink</persName> 
+     <persName xml:id="kk">Kourtney Klein</persName>     
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl>
+     <title level="j">The Medical and Surgical History of the War of the Rebellion. (1861-65.)</title>
+     <pubPlace>Washington, DC</pubPlace>
+     <publisher>Government Printing Office</publisher>
+     <biblScope type="part">Part 2</biblScope>
+     <biblScope type="volume">Volume 2</biblScope>
+     <date when="1876">1876</date>
+     <biblScope type="page">953</biblScope>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+       <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+      <keywords scheme="#medsurg">
+       <term>wounds and injuries of the upper extremities</term>
+       <term>wounds and operations of the forearm</term>
+       <term>shot wounds of the forearm</term>
+       <term>shot fractures of the forearm</term>
+       <term>excisions in the continuity of the bones of the forearm for shot injury</term> 
+       <term>intermediary excisions in the bones of the forearm</term> 
+       <term>recoveries after intermediary excisions</term>
+       <term>gunshot wound of forearm</term>
+       <term>ball entered posterior and middle forearm, produced fracture of middle third of ulna, lodged in wound</term> 
+       <term>compound comminuted fracture of middle third of shaft of ulna</term>
+       <term>middle portion of shaft of ulna removed</term>
+       <term>loss of rotatory motion of forearm, elbow dislocated</term>
+       <term>cannot close hand, arm useless</term>
+       <term>pronation and supination destroyed</term>        
+     </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+ <change who="#kmp" when="2014-05">blessed</change>
+   <change who="#kk" when="2014-01-31">added figure encoding</change>
+   <change who="#mb" when="2012-07-06">additional proofing of transcription and encoding, identified keyword terms</change>
+   <change who="#cm" when="2011-02-24">checked OCR; added minimal mark-up for personal names, place names, and dates</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>   
+   <p><hi rend="initialcap">C</hi>ASE 1907.&#8212;<name type="person" key="xxx">Private W. D. Boyce</name>, <name type="organization" key="xxx">Co. I, 124th New York</name>, age 37 years, was wounded before <name type="BATTLE" key="xxx">Petersburg</name> <date type="injury" when="1864-10-27">October 27, 1864</date>. On <date type="admit" when="1864-10-28">the following day</date> he was admitted to the Depot Hospital of the Second Corps, at <name type="place">City Point</name>, where <name type="person" key="xxx">Surgeon G. B. Parker</name>, <name type="organization" key="132">U. S. V.</name>, recorded:  &quot; Gunshot wound of right arm. <name type="person" key="102">Surgeon O. A. Judson</name>, <name type="organization" key="132">U. S. V.</name>, reported the wounded man's admission to <name type="hospital" key="167">Carver Hospital</name>, Washington, <date type="transfer" when="1864-10-30">October 30th</date>, and described
+    the injury and operation, which he performed, as follows:  &quot;Gunshot wound of right forearm, a conoidal ball entering the posterior and middle portion, producing a compound
+    comminuted fracture of the middle third of the shaft of the ulna, and lodging in the wound. At date of admission the wounded parts were greatly swollen and slightly &#339;dematous.
+    The constitutional state, however, was tolerably good, but he seemed somewhat exhausted, and was suffering from anorexia.  On <date type="operation" when="1864-11-01">November 1st</date>, the patient was an&#230;sthetized and
+    the wound thoroughly examined, when it was thought proper that excision should be performed. Six inches of the middle portion of the shaft of the ulna was removed by a
+    straight incision and the missile was extracted. The patient rallied promptly from the shock of the operation and continued to improve without any unfavorable complication, the
+    wound filling rapidly with healthy granulations. Simple dressings were applied, and tonics and nourishing diet were administered.  December 31st, the wound is healing rapidly.
+    The above treatment has been continued; patient has had no unfavorable symptom.  March 31st, the wound has entirely healed with loss of rotatory motion of forearm, otherwise the
+    arm being very useful.&#34;  The specimen, consisting of the excised portion of the ulna, and represented in the adjacent wood-cut (<hi rend="initialcap">F</hi>IG. 692), was contributed to <name type="hospital" key="431">the Museum</name> by <name type="person" key="102">the operator</name>.  The patient was discharged from service <date type="servicedischarge" when="1865-04-13">April 13, 1865</date>, and pensioned. <name type="person" key="xxx">Examiner J. Nichols</name>, of <name type="place" key="#Washington">Washington, D. C.</name>, <date type="pension" when="1865-04-20">April 20, 1865</date>, certified:  &quot; &#42;  &#42;  Great deformity. Limb entirely useless for even light labor. It is an impediment to labor,&quot; etc.  <name type="person" key="xxx">Examiner J. H. Helmer</name>, of <name type="place">Lockport, N. Y.</name>, certified, <date type="pension" when="1865-08-29">August 29, 1865</date>:  &quot; &#42;  &#42;  Elbow dislocated. He cannot close his hand,&quot; etc. The <name type="organization" key="xxx">Lockport Examining Board</name>, consisting of <name type="person" key="xxx">Drs. Helmer</name> and <name type="person" key="xxx">S. T. Clark</name>, reported, <date type="pension" when="1873-10-11">October 11, 1873</date>:  &quot; &#42;  &#42;  Dislocation of elbow still unreduced.  &#42;  &#42;  Pronation and stipulation is destroyed. The arm is &quot;useless, as perfectly so as if amputated at the elbow joint.&quot; The pensioner was paid <date type="pension" when="1875-09-04">September 4, 1875</date>. A photograph, taken <date type="photo" when="1865-04">about the time of his discharge</date>, and recently obtained from the <name type="organization" key="xxx">Pension Bureau</name>, is copied in the annexed cut (<hi rend="initialcap">F</hi>IG. 693).</p>
+   
+   <figure>
+    <graphic url="cww.001835.001" />
+    <head><hi rend="initialcap">F</hi>IG. 692.&#8212;Six inches of right ulna excised for shot fracture.&#8212;<hi rend="italic">Spec</hi>. 4235.</head>
+   </figure> 
+   
+   <figure>
+    <graphic url="cww.001833.001" />
+    <head><hi rend="initialcap">F</hi>IG. 693.&#8212;Cicatrix six months after an excision in the shaft of the ulna.</head>
+   </figure>
+   
+  </body>
+ </text>
+</TEI>

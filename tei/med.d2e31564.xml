@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d2e31564">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Shay, G. A.</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+       <idno>med.d2e31564</idno>
+       <authority>Civil War Washington</authority>
+       <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor>
+       <name>Center for Digital Research in the Humanities</name>
+       <address><addrLine>319 Love Library</addrLine>
+       <addrLine>University of Nebraska–Lincoln</addrLine>
+       <addrLine>Lincoln, NE 68588-4100</addrLine>
+       <addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+    </distributor>
+    <date>2011</date>
+    <availability>
+        <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+         republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+         law, requires express written consent from the editors and advance notification of the
+         publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+ <persName xml:id="kw">Kenneth Winkle</persName> 
+     <persName xml:id="mb">Matthew Bosley</persName>
+     <persName xml:id="jm">Jessica Meints</persName>
+     <persName xml:id="kk">Kourtney Klein</persName>
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl>
+     <title level="j">The Medical and Surgical History of the War of the Rebellion. (1861-65.)</title>
+     <pubPlace>Washington, DC</pubPlace>
+     <publisher>Government Printing Office</publisher>
+     <biblScope type="part">Part 2</biblScope>
+     <biblScope type="volume">Volume 2</biblScope>
+     <date when="1876">1876</date>
+     <biblScope type="page">45</biblScope>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+       <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+      <keywords scheme="#medsurg">
+       <term>injuries of the abdomen</term>
+       <term>penetrating wounds of the abdomen</term>
+       <term>wounds of the stomach</term>
+       <term>gunshot wounds</term>
+       <term>cases of recovery</term> 
+       <term>shot wound of left side</term>
+       <term>ball entered at edge of last rib, came out near spinal column, passed through stomach</term>
+       <term>food passed out of both openings at different times</term>
+       <term>ball passed through lower part of chest</term>
+       <term>chest wound imperfectly healed</term> 
+       <term>gastric fistula</term>
+     </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+ <change who="#kw" when="2014-05">blessed</change>
+   <change who="#kk" when="2014-01-17">added figure encoding</change>
+   <change who="#mb" when="2012-08-08">additional proofing of transcription and encoding, identified keyword terms</change>
+   <change who="#jm" when="2011-02-19">checked OCR; added minimal mark-up for personal names, place names, and dates</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body> 
+   <p><hi rend="initialcap">C</hi>ASE 182.&#8212;<name type="person" key="xxx">Corporal G. A. Shay</name>, <name type="organization" key="xxx">Co. L, 1st Maine Cavalry</name>, aged 29 years, received a shot wound of the left side, in an engagement on the <name type="BATTLE" key="29">Boydton Plank Road</name>, <date type="injury" when="1864-10-27">October 27, 1864</date>. He was taken to the field hospital of the Cavalry Corps, where simple dressings were applied. Both openings had closed by <date type="transfer" when="1864-12-16">December 16, 1864</date>, and he was sent to <name type="place" key="#Washington">Washington</name> and placed in <name type="hospital" key="176">Lincoln Hospital</name>.  During the journey to <name type="place" key="#Washington">Washington</name> one of the wounds reopened, but cicatrized again a few days after his arrival at <name type="hospital" key="176">the hospital</name>.  He was furloughed <date type="furlough" when="1865-02-20">February 20, 1865</date>, and returned to duty <date type="duty" when="1865-03-27">March 27th</date>; but, on <date type="admit" when="1865-05-03">May 3d</date>, was admitted to the Cavalry Corps Hospital on account of an "old gunshot wound."  On <date type="transfer" when="1865-05-07">May 7th</date>, he was transferred to <name type="hospital" key="167">Carver Hospital</name>, and, on <date type="transfer" when="1865-05-27">the 27th</date>, to Cony Hospital, <name type="place">Augusta</name>, whence he was discharged from service on <date type="servicedischarge" when="1865-07-10">July 10, 1865</date>.  In a letter dated <date type="pension" when="1865-06-12">June 12, 1865</date>, <name type="person" key="xxx">Surgeon George Derby</name>, <name type="organization" key="190">U. S. A.</name>, says: "The ball entered at the edge of the last rib of left side, and came out within two inches of the spinal column, left side, passing through the stomach. Food passed out of both openings, at different times, during six weeks."  <name type="person" key="xxx">Examiner James B. Bell</name> reports, <date type="pension" when="1865-08-21">August 21, 1865</date>, "the ball passed through the lower part of the left chest. The chest is weak and the wound imperfectly healed."</p> 
+   
+   <figure>
+    <graphic url="cww.001768.001" />
+   <head> <hi rend="initialcap">F</hi>IG. 29.&#8212;Cicatrices in a case of recovery from an alleged wound of the stomach.     [From a photograph.]</head>
+   </figure> 
+   
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="cww.00089">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Petition of Robert L. Teel, 7 May 1862</title>
+                <title level="m" type="sub">a machine readable transcription</title>
+                <principal>Susan C. Lawrence</principal>
+                <principal>Kenneth M. Price</principal>
+                <principal>Kenneth J. Winkle</principal>
+                <respStmt>
+                    <resp>transcription and encoding</resp>
+                    <name xml:id="kjw">Kenneth J. Winkle</name>
+                    <name xml:id="jc">Janel Cayer</name>
+                    <name xml:id="bj">Brittany Jones</name>
+                    <name xml:id="kk">Kathryn Kruger</name>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2013</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <idno>cww.00089</idno>
+                <distributor>Civil War Washington</distributor>
+                <publisher>University of Nebraska–Lincoln</publisher>
+                <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>P.O. Box 884100</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+            </address>
+                <date>2013</date>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+                        <p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike
+                            3.0 Unported License
+                            (http://creativecommons.org/licenses/by-nc-sa/3.0/). Derivatives must be
+                            credited to Civil War Washington, made available non-commercially, and
+                            distributed under the same terms. Requests for permission for commercial
+                            publication or other use should be emailed to the project team.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Petition of Robert L. Teel, 7 May 1862</title>
+                    <date when="1862-05-07">May 7, 1862</date>
+                    <idno>Microcopy 520, Reel 2</idno>
+                    <orgName>National Archives and Records Administration</orgName>
+                    <relatedItem type="original">
+                        <bibl>
+                            <title>Petition of Robert L. Teel, 7 May 1862</title>
+                            <date when="1862-05-07">May 7, 1862</date>
+                            <idno>Record Group 217.6.5</idno>
+                            <orgName>Records of the Accounting Officers of the Department of the
+                                Treasury, 1775–1978, National Archives and Records
+                                Administration</orgName>
+                            <note type="project">Within the National Archives' Archival Description
+                                Catalog, see ARC Identifier 4644616 / MLR Number A1 347
+                                (http://arcweb.archives.gov).</note>
+                        </bibl>
+                    </relatedItem>
+                    <note type="project">Our transcription is based on a digital image of a
+                        microfilm copy of the original.</note>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <particDesc>
+                <person role="petitioner">
+                    <persName>Robert L. Teel</persName>
+                </person>
+                <person role="jp">
+                    <persName>Henry Naylor</persName>
+                </person>
+            </particDesc>
+        </profileDesc>
+        <revisionDesc>
+            <change when="2013-01-10" who="#jc">blessed</change>
+            <change when="2013-01-09" who="#kjw">blessed</change>
+            <change when="2012-09-21" who="#jc">updated tei header; fixed values for @facs as
+                necessary; automated checking across files for extra spaces in elements and other
+                encoding inconsistencies and for regular transcription errors</change>
+            <change when="2012-08-31" who="#kk">checked</change>
+            <change when="2012-03-13" who="#bj">transcribed, encoded</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb xml:id="leaf001r" facs="cww.00089.001.jpg"/>
+
+            <div1 type="petition" subtype="mixed">
+                <head type="main">PETITION.</head>
+                <p rend="bold">To the Commissioners under the act of Congress approved the <date
+                        when="1862-04-16">16th of April, 1862</date>, entitled "An act for the
+                    release of certain persons held to service or labor in the District of
+                    Columbia."</p>
+
+                <p>Your Petitioner, <seg type="handwritten">
+                        <persName>Robert L. <choice>
+                                <orig>Teele</orig>
+                                <reg>Teel</reg>
+                            </choice></persName>
+                    </seg> of <seg type="handwritten">
+                        <placeName>Washington, D.C.</placeName>
+                    </seg> by this <seg type="handwritten">his</seg> petition in writing, represents
+                    and states, that <seg type="handwritten">he</seg> is a person loyal to the
+                    United States, who, at the time of the passage of the said act of Congress, held
+                    a claim to service or labor against <seg type="handwritten">Eight</seg>
+                        person<seg type="handwritten">s</seg> of African descent of the name<seg
+                        type="handwritten">s</seg> of <seg type="handwritten">
+                        <persName>Arilla Johnson</persName>, <persName>Charlotte Johnson</persName>,
+                            <persName>Joseph Johnson</persName>, <persName>Charlotte</persName>,
+                            <persName>Louisa</persName>, <persName>Charles</persName>,
+                            <persName>Edward</persName>, &#38; <persName>George</persName>,</seg>
+                    for and during the life of said <seg type="handwritten">persons</seg> and that
+                    by said act of Congress said <seg type="handwritten">persons</seg> w<seg
+                        type="handwritten">ere</seg> discharged and freed of and from all claim of
+                    your petitioner to such service or labor; that at the time of said discharge
+                    said <seg type="handwritten">
+                        <persName>Arilla Johnson</persName>
+                    </seg> was of the age of <seg type="handwritten">Forty nine years</seg> and of
+                    the personal description following:<note type="government" place="foot"
+                        xml:id="n1">Here describe the person, so as to identify him or her; and if
+                        there be more than one slave, describe each one separately.</note>
+                    <seg type="handwritten">A Bright mulatto woman Five feet Three and a half inches
+                        high. (valued at $600.)</seg>
+                    <list type="handwritten">
+                        <item>said <persName>Charlotte Johnson</persName>, was of the age of Fifteen
+                            years, A Bright mulatto, girl, Four feet Ten and a half inches high. ($
+                            valued at $1000.)</item>
+                        <item>said <persName>Joseph Johnson</persName>, was of the age of Eleven
+                            years, A Bright Mulatto boy, Four feet three and a half inches high
+                            (valued at $900)</item>
+                        <item>said <persName>Charlotte</persName>, was of the age of Twenty Five
+                            years, A bright mulatto woman, Five feet One inch high. (valued at
+                            $1200)</item>
+                        <item>said <persName>Louisa</persName>, was of the age of Seven years, A
+                            bright mulatto girl Three feet, nine and a half inches high, (valued at
+                            $600)</item>
+                        <item>said <persName>Charles</persName>, was of the age of Four years, A
+                            bright mulatto boy Three feet One inch high, (valued at $300)</item>
+                        <item>said <persName>Edward</persName>, was of the age of Three years, A
+                            Black boy, Two feet seven inches high, (valued at $250)</item>
+                        <item>said <persName>George</persName>, was of the age of Four months, A
+                            bright mulatto child, One foot Eleven inches high, (valued at
+                            $100)</item>
+                    </list>
+                </p>
+
+                <pb xml:id="leaf001v" facs="cww.00089.002.jpg"/>
+
+                <p>That your petitioner acquired <seg type="handwritten">his</seg> claim to the
+                    aforesaid service or labor of said <seg type="handwritten">persons</seg> in
+                    manner following:<note type="government" place="foot" xml:id="n2">Here state how
+                        the claim was acquired, when, from whom, and for what price or
+                        consideration; and, if held under any written evidence of title, make
+                        exhibit thereof, or refer to the public record where the same may be
+                        found.</note>
+                    <seg type="handwritten">said <persName>Arilla Johnson</persName>,
+                            <persName>Charlotte Johnson</persName>, &#38; <persName>Joseph
+                            Johnson</persName>, I purchased from <persName>Mrs. Harall</persName> in
+                            <placeName>Richmond Va</placeName>, Eight years since I paid for them $
+                        1100. said <persName>Charlotte</persName>, I purchased at a sale at
+                            <placeName>Chesterfield Court House Va</placeName>, Twenty years since,
+                        said <persName>Louisa</persName>, <persName>Charles</persName>,
+                            <persName>Edward</persName>, &#38; <persName>George</persName> have been
+                        born of her since I have owned her. </seg>
+                </p>
+
+                <p>That your petitioner's claim to the service or labor of said <seg
+                        type="handwritten">persons</seg> was, at the time of said discharge
+                    therefrom, of the value of <seg type="handwritten">Forty nine hundred &#38;
+                        fifty</seg> dollars in money.<note type="government" place="foot"
+                        xml:id="n3">Here state such facts, if any there be, touching the value of
+                        the petitioner's claim to the service or labor of the person, as may enhance
+                        the same, and also such facts, if any, touching the moral, mental, and
+                        bodily infirmities or defects of said person, as impair the value of the
+                        petitioner's claim to such service or labor, and conclude such statement
+                        with an averment that the petitioner knows of no other infirmities or
+                        defects of said person which impair the value of petitioner's claim to such
+                        service or labor, and that he believes none other to exist. If the
+                        petitioner specify no such infirmity or defect, then his statement touching
+                        the value of his claim should conclude with an averment that he has no
+                        knowledge of any such infirmity or defect.</note>
+                    <seg type="handwritten">They have been in my family for the several years I have
+                        owned them. I have always trusted them, and always found them to be honest
+                        and correct. my family are all, very much attached to them.</seg></p>
+
+                <ab type="handwritten">I know of no defect or infirmities in said persons either
+                    moral, mental or bodily.</ab>
+
+
+                <p>Your petitioner hereby declares that <seg type="handwritten">he</seg> bears true
+                    and faithful allegiance to the Government of the United States, and that <seg
+                        type="handwritten">he</seg> has not borne arms against the United States in
+                    the present rebellion, nor in any way given aid or comfort thereto.</p>
+
+                <p>And your petitioner further states and alleges, that <seg type="handwritten"
+                        >he</seg> has not brought said <seg type="handwritten">persons</seg> into
+                    the District of Columbia since the passage of said act of Congress; and that, at
+                    the time of the passage thereof, said <seg type="handwritten">persons</seg>
+                        w<seg type="handwritten">ere</seg> held to service or labor therein under
+                    and by virtue of your petitioner's claim to such service or labor.</p>
+
+                <p>Your petitioner further states and alleges, that <seg type="handwritten"
+                        >his</seg> said claim to the service or labor of said <seg
+                        type="handwritten">persons</seg> does not originate in or by virtue of any
+                    transfer heretofore made by any person who has in any manner aided or sustained
+                    the present rebellion against the Government of the United States.</p>
+
+                <p>And your petitioner prays the said Commissioners to investigate and determine the
+                    validity of <seg type="handwritten">his</seg> said claim to the service or labor
+                    of said <seg type="handwritten">persons</seg> herein above set forth; and if the
+                    same be found to be valid, that they appraise and apportion the value of said
+                    claim in money, and report the same to the Secretary of the Treasury of the
+                    United States, in conformity to the provisions of said act of Congress.</p>
+
+                <closer> (Signed by) <signed>
+                        <seg type="handwritten">
+                            <persName>Robt L. Teel</persName>
+                        </seg>
+                    </signed>
+                </closer>
+            </div1>
+
+            <pb xml:id="leaf002r" facs="cww.00089.003.jpg"/>
+
+            <div1 type="oath" subtype="mixed">
+                <head type="main">[<hi rend="italic">Form of the Oath for the Verification of the
+                        Petition.</hi>]</head>
+
+                <dateline>
+                    <placeName>District of Columbia</placeName>,
+                    <lb/>
+                    <hi rend="italic"><placeName>Washington County</placeName>, ss.</hi>
+                </dateline>
+
+                <div2 type="section">
+                    <p>I, <seg type="handwritten">
+                            <persName>Robert L. Teel</persName>,</seg> being duly sworn, do depose
+                        and say, that all the several matters and things which are set forth and
+                        stated in the foregoing petition, as of my own knowledge, are true in
+                        substance and in fact; and that all the several other matters and things
+                        therein set forth and stated, as from the information of others, I believe
+                        to be true in substance and in fact.</p>
+                    <closer> (Signed by) <signed>
+                            <seg type="handwritten">
+                                <persName>Robt L. Teel</persName>
+                            </seg>
+                        </signed>
+                    </closer>
+                </div2>
+
+                <div2 type="section">
+                    <p>Sworn to and subscribed before me this <date when="1862-05-07">
+                            <seg type="handwritten">7th</seg> day of <seg type="handwritten"
+                                >May</seg> A. D. 1862</date>.</p>
+                    <closer> (Signed by) <signed>
+                            <seg type="handwritten">
+                                <persName>H. Naylor</persName> J Peace</seg>
+                        </signed>
+                    </closer>
+                </div2>
+            </div1>
+
+            <div1 type="cover" subtype="handwritten">
+                <note type="editorial">The following note, about the filing of the petition, has
+                    been imaged twice in the National Archives microfilm, but the note occurs in
+                    only one place in the petition: written horizontally on the final page, the Oath
+                    for the Verification.</note>
+                <ab>89<lb/> Petition of<lb/>
+                    <persName>Robert L. Teel</persName></ab>
+                <ab>Filed <date when="1862-05-07">May 7, 1862</date></ab>
+                <ab>Witness<lb/>
+                    <persName>Wm. S. Teel</persName>
+                </ab>
+            </div1>
+        </body>
+    </text>
+</TEI>

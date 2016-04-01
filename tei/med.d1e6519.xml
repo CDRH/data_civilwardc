@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e6519">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Kinne, Charles</title>
+                <title level="m" type="sub">a machine readable transcription</title>
+                <principal>Susan C. Lawrence</principal>
+                <principal>Kenneth M. Price</principal>
+                <principal>Kenneth J. Winkle</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2011</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <idno>med.d1e6519</idno>
+                <authority>Civil War Washington</authority>
+                <publisher>University of Nebraska–Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+                </distributor>
+                <date>2011</date>
+                <availability>
+                    <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved.
+                        Redistribution or republication in any medium, except as allowed under the
+                        Fair Use provisions of U.S. copyright law, requires express written consent
+                        from the editors and advance notification of the publisher, the University
+                        of Nebraska–Lincoln.</p>
+                </availability>
+            </publicationStmt>
+            <notesStmt>
+                <note type="project">The following are responsible for particular readings or for changes to this file, as noted: 
+                    <persName xml:id="mb">Matthew Bosley</persName>                    
+                    <persName xml:id="el">Elizabeth Lorang</persName>
+                    <persName xml:id="sb">Stacey Berry</persName>
+                    <persName xml:id="et">Elisabeth Tracey</persName>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>The Medical and Surgical History of the War of the Rebellion. (1861&#8211;65.)</title>
+                    <editor role="compiler">Surgeon General Joseph K. Barnes, United States Army</editor>
+                    <pubPlace>Washington, D.C.</pubPlace>
+                    <publisher>Government Printing Office</publisher>
+                    <biblScope type="part">Part 1</biblScope>
+                    <biblScope type="volume">Volume 2</biblScope>
+                    <date when="1870">1870</date>
+                    <biblScope type="page">103-104</biblScope>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <classDecl>
+                <taxonomy xml:id="medsurg">
+                    <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme="#medsurg">
+                    <term>on special wounds and injuries of the head</term>
+                    <term>wounds and injuries of the head</term>
+                    <term>gunshot wounds</term>
+                    <term>gunshot contusions of the cranial bones</term> 
+                    <term>contusion of the skull without fracture</term>
+                    <term>exfoliation</term>
+                    <term>contusion of parietal by musket ball</term>                    
+                    <term>no disability certified except dizziness</term>
+                    <term>series of pieces of bone exfoliated, wound discharging pus</term>
+                    <term>disability questioned, possible malingerer</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change who="#mb" when="2013-06-03">additional proofing of transcription and encoding, edited and added keyword terms</change>
+            <change who="#mb" when="2011-10-06">additional proofing of transcription and encoding</change>
+            <change who="#mb" when="2011-06-15">additional proofing of transcription and encoding</change>
+            <change who="#el" when="2011-11-05">case text extracted and transformed from larger file</change>
+            <change who="#sb" when="2011-02-09">enriched encoding</change>
+            <change who="#sb" when="2011-01-28">validated file</change>
+            <change who="#et" when="2009-08-01">encoded</change>
+            <change who="#sb" when="2008-09-22">initial checking of OCR text against PDF; encoded</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body xml:id="ch1.sc3.0076">            
+                <p><name type="person" key="1240"><hi rend="initialcap">K</hi>INNE, <hi
+                            rend="initialcap">C</hi>HARLES</name>, Private, <name
+                        type="organization" key="228">Co. G, 108th New York Volunteers</name>.  Contusion of right parietal by a musket ball.  <name type="BATTLE" key="281">Antietam</name>, <date type="injury" when="1862-09-17">September 17th,
+                        1862</date>.  Treated at the field hospital of the 3d division of the Second
+                    Corps until <date type="transfer" when="1862-09-26">the 26th</date>, and then
+                    sent to the <name type="hospital" key="165">Mount Pleasant Hospital</name> at
+                    Washington.  On <date type="furlough" when="1862-11-02">November 2d</date>, he
+                    was furloughed, and subsequently returned to duty. He was discharged from
+                    service at the regimental hospital on <date type="servicedischarge"
+                        when="1862-12-24">December 24th, 1862</date>.  Disability reported as "total,"
+                    by <name type="person" key="1242">Assistant Surgeon William Ely</name>, <name
+                        type="organization" key="228">108th New York Volunteers</name>. He was
+                    pensioned, and reported by <name type="person" key="1244">Pension Examining
+                        Surgeon H. M. Montgomery</name>, of <name type="place">Rochester, New York</name>, <date
+                        type="pension" when="1863-01">January, 1863</date>, as having had a series
+                    of pieces of bone exfoliated. <name type="person" key="1244">Doctor
+                        Montgomery</name> states that the wound was
+                    then discharging pus, but that the patient would probably be free from
+                    disability in a few months, and that he appeared "fat and hearty."  In <date
+                        type="pension" when="1865-11">November, 1865</date>, <name
+                            type="person" key="1246">Pension Examining Surgeon J. K. Hyde</name> reported that this
+                    pensioner complained of increase of pain and dizziness on attempting to labor,
+                    and that he had applied for an increase of his pension, in a letter from
+                    <name type="place">Lancaster, Wisconsin</name>; but no disability except dizziness is certified to. In the
+                    army such applicants are regarded as malingerers; but in the civil service a
+                    greater latitude prevails.</p>            
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d2e24611">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Sanford, J.</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+    <idno>med.d2e24611</idno>
+       <authority>Civil War Washington</authority>
+       <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor>
+       <name>Center for Digital Research in the Humanities</name>
+       <address><addrLine>319 Love Library</addrLine>
+       <addrLine>University of Nebraska–Lincoln</addrLine>
+       <addrLine>Lincoln, NE 68588-4100</addrLine>
+       <addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+    </distributor>
+    <date>2011</date>
+    <availability>
+        <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+         republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+         law, requires express written consent from the editors and advance notification of the
+         publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+         <persName xml:id="mb">Matthew Bosley</persName>         
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl>
+        <title level="j">The Medical and Surgical History of the War of the Rebellion. (1861-65.)</title>
+        <pubPlace>Washington, DC</pubPlace>
+        <publisher>Government Printing Office</publisher>
+        <biblScope type="part">Part 3</biblScope>
+        <biblScope type="volume">Volume 2</biblScope>
+        <date when="1883">1883</date>
+        <biblScope type="page">642-643</biblScope>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+       <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+      <keywords scheme="#medsurg">
+       <term>miscellaneous injuries</term> 
+       <term>contusions and sprains</term>
+       <term>accidentally hurt in back</term>
+       <term>inflammation of kidneys and tissues of lumbar region</term> 
+       <term>difficult to stand</term> 
+       <term>partial paralysis of superior and inferior extremities, bowels, and bladder</term> 
+       <term>disability permanent, incapacitates for all manual labor</term>
+       <term>irregularity of the bowels, constipation or diarrh&#339;a</term>
+       <term>inability to retain urine, at times inability to pass it</term> 
+       <term>requires passing of catheter once or twice a week</term> 
+       <term>unable to feed, dress, or undress himself</term>
+       <term>pain in back and legs, with loss of sleep</term>
+       <term>emaciation</term>        
+     </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+       <change who="#mb" when="2012-06-19">additional case copied from MSHWR, performed proofing of copy and XML encoding, and key terms identified</change>  
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p><hi rend="initialcap">C</hi>ASE 941.&#8212;<hi rend="italic">Contusion of the spine.</hi>&#8212;<name type="person" key="xxx">Private J. Sanford</name>, <name type="organization" key="xxx">Co. I, 32d Massachusetts</name>, aged 37 years, was accidentally hurt in the back on <date type="injury" when="1862-09-12">September 12, 1862</date>. He was admitted to <name type="hospital" key="214">Fairfax Seminary Hospital</name> <date type="admit" when="1862-09-13">the following day</date>, where he was discharged from service on <date type="servicedischarge" when="1862-12-08">December 8, 1862</date>.  <name type="person" key="411">Surgeon D. P. Smith</name>, <name type="organization" key="132">U. S. V.</name>, certified to the following disability:  &#34;An injury of the lumbar vertebr&#230; which has resulted in inflammation of the kidneys and of the tissues of the lumbar region, rendering it difficult for him to stand.&#34;  The <name type="organization" key="xxx">Boston Examining Board</name> reported, <date type="pension" when="1862-11-27">November 27, 1862</date>:  &#34;Partial paralysis of the superior and inferior extremities, bowels, and bladder from injury to spine. The paralysis of the inferior extremities is no worse than a year ago, perhaps the legs are a trifle smaller. The paralysis of the arms has increased somewhat. The disability is permanent and incapacitates him for all manual labor.&#34;  <name type="person" key="xxx">Dr. W. H. Wallace</name>, of <name type="place">East Boston</name>, testified, <date type="pension" when="1880-03-29">March 29, 1880</date>:  &#34;The pensioner is suffering from an injury of the spine, partial paralysis of the upper and lower extremities, great irregularity of the bowels
+    sometimes obstinate constipation, at others diarrh&#339;a; also inability to retain the urine and at times inability to pass it. He requires the passing of a catheter once and often twice a week, and is unable to feed, dress, or undress himself fully two-thirds
+    of the time. There is emaciation and loss of sleep from pain in back and legs. He will never be any better.&#34;</p>
+  </body>
+ </text>
+</TEI>

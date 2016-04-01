@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d2e8750">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Gilbert, W. D.</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+    <idno>med.d2e8750</idno>
+    <authority>Civil War Washington</authority>
+    <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor>
+     <name>Center for Digital Research in the Humanities</name>
+     <address><addrLine>319 Love Library</addrLine>
+       <addrLine>University of Nebraska–Lincoln</addrLine>
+       <addrLine>Lincoln, NE 68588-4100</addrLine>
+       <addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+    </distributor>
+    <date>2011</date>
+    <availability>
+     <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+      republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+      law, requires express written consent from the editors and advance notification of the
+      publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+ <persName xml:id="kmp">Kenneth M. Price</persName> 
+     <persName xml:id="ajh">AJ Howell</persName>
+     <persName xml:id="mb">Matthew Bosley</persName>
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl>
+     <title level="j">The Medical and Surgical History of the War of the Rebellion.
+      (1861-65.)</title>
+     <pubPlace>Washington, DC</pubPlace>
+     <publisher>Government Printing Office</publisher>
+     <biblScope type="part">Part 3</biblScope>
+     <biblScope type="volume">Volume 2</biblScope>
+     <date when="1883">1883</date>
+     <biblScope type="page">187-188</biblScope>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+     <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <keywords scheme="#medsurg">
+     
+     <term>wounds and injuries of the lower extremities</term>
+     <term>injuries of the shaft of the femur</term>
+     <term>shot fractures of the shaft of the femur</term>
+     <term>shot fractures of the shaft of the femur treated by conservation</term>
+     <term>shot fractures of the middle third of the femur treated by conservation</term>
+     <term>recovery after shot fractures of the middle third of the femur treated by
+      conservation</term>
+     <term>ball passed through thigh at junction of middle and lower thirds, comminuting the
+      femur</term>
+     <term>limb shortened three inches</term>
+     <term>ligamentous anchylosis of knee joint</term>
+     <term>totally disabled</term>
+     <term>limb inflamed, discharging offensive pus</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+ <change who="#kmp" when="2014-05">blessed</change>
+   <change who="#ajh" when="2013-08-22">added figure encoding</change>
+   <change who="#mb" when="2012-04-20">additional case copied from MSHWR, performed proofing of copy
+    and XML encoding, and key terms identified</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+
+   <p>
+    <hi rend="initialcap">C</hi>ASE 382.&#8212;<name type="person" key="xxx">Private W. D.
+     Gilbert</name>, <name type="organization" key="xxx">Co. C, 6th Vermont</name>, aged 50 years,
+    was wounded in the right thigh at <name type="BATTLE" key="12">the Wilderness</name>, <date
+     type="injury" when="1864-05-05">May 5, 1864</date>. <date type="transfer" when="1864-05-27"
+     >Three weeks afterwards</date> he arrived at <name type="place">Alexandria</name> and entered
+    the <name type="hospital" key="185">Mansion House Hospital</name>, whence <name type="person"
+     key="146">Surgeon C. Page</name>, <name type="organization" key="190">U. S. A.</name>, reported
+    the injury as a &#34;shot fracture of the middle third of the femur.&#34; Subsequently the
+    patient was transferred to <name type="hospital" key="188">Sickels Hospital</name>, and lastly
+    to Sloan, <name type="place">Montpelier</name>. <name type="person" key="xxx">Surgeon H.
+     Janes</name>, <name type="organization" key="132">U. S. V.</name>, in charge of the latter
+    hospital, contributed the following history: &#34;The patient, a man of strong constitution, was
+    wounded by a mini&#233; ball, which passed through the thigh at the junction of the middle and
+    lower thirds, comminuting the femur for several inches. <date type="transfer" when="1864-05-06"
+     >The day after the injury</date> he was sent by ambulance to <name type="place"
+     >Fredericksburg</name>, no retentive apparatus having been applied, and <date type="transfer"
+     when="1864-05-26">two weeks later</date> he was moved by cars and boat to <name type="place"
+     >Alexandria</name>, the limb being kept in a fracture-box during the trip. At <name
+     type="place">Alexandria</name>, it was put upon an anterior splint and extension was made by
+    brick and pulley. <date type="operation" when="1864-06">In June</date> several pieces of bone
+    were removed. Suppuration was profuse, and about August 1st his appetite failed and he became so
+    much debilitated that his life was despaired of. After this he gradually but slowly improved,
+    though not without occasional relapses. On January 1, 1865, the splint was removed and the
+    patient allowed to sit at the bedside, and no retentive apparatus was used for more than two or
+    three days after that time. About the last of January he could walk about the ward on crutches,
+    though unable to bear any weight upon the limb. On <date type="transfer" when="1865-03-17">March
+     17th</date> the patient was transferred to this hospital, during which journey the limb became
+    considerably inflamed, resulting in his confinement to bed for three days. On <date
+     type="operation" when="1865-05-29">May 29th</date> the limb, having again become inflamed and
+    discharging very offensive pus, was freely opened for about four inches, and several large
+    pieces of necrosed bone, one of which measured one by three inches, were removed. The cavity in
+    the callus, which contained these fragments, was found to be large and seemed to extend quite or
+    nearly to the cancellated structure of the condyles. After the operation suppuration became
+    healthy and the wound mended rapidly for four weeks, when the improvement became checked. On
+     <date type="operation" when="1865-09-07">September 7th</date>, the limb was again laid open
+    freely and a small piece of bone was removed, after which there was no further interruption in
+    the progress of the patient up to <date type="servicedischarge" when="1865-10-12">October 12,
+     1865</date>, when he was discharged from service. At this time the wound still suppurated to
+    the amount of two ounces per day, and a considerable cavity existed between the ends of the
+    bone, but no necrosis could be detected by the probe. The limb was shortened three inches, and
+    there was ligamentous anchylosis of the knee joint, permitting the patient to move it about ten
+    degrees. He was in general good health, able to bear half his weight on the injured leg for a
+    short time, and seemed to have a fair prospect of obtaining a useful limb. There had been no
+    h&#230;morrhage, gangrene, or diarrh&#339;a since the injury, and his appetite had been good
+    nearly all the time, having taken nutritious food freely and stimulants moderately.&#34; <name
+     type="person" key="xxx">Examiner W. McCollom</name>, of <name type="place">Woodstock,
+     Vermont</name>, <date type="pension" when="1866-11-14">November 14, 1866</date>, certified to
+    the injury, and stated: &#34;The bone has united with three inches shortening. Exfoliations are
+    thrown off occasionally, and the wound in the soft tissues has not entirely healed. He is
+    totally disabled from performing manual labor at present.&#34; <name type="person" key="xxx"
+     >Examiner O. W. Sherwin</name> stated, <date type="pension" when="1873-09-04">September 4,
+     1873</date>: &#34;There is considerable loss of tissue, and the knee is permanently flexed so
+    as to keep the heel two inches from the floor,&#34; and, in <date type="pension" when="1877-09"
+     >September, 1877</date>, he reported the following: &#34;During the present year a large
+    abscess formed at the seat of the injury, with exfoliation of bone. I attended him during two
+    months of confinement in bed from the aforesaid cause.&#34; A card photograph of the patient,
+    taken at the Sloan Hospital, was contributed by <name type="person" key="xxx">Surgeon
+     Janes</name> (<hi rend="italic">Card Photos</hi>, A. M. M., Vol. 2, p. 22), an enlarged copy of
+    which, taken at the <name type="hospital" key="431">Army Medical Museum</name> (<hi
+     rend="italic">Surg. Phot. Series</hi>, No. 130). is represented in the cut (<hi
+     rend="initialcap">F</hi>IG. 150). The pensioner was paid <date type="pension" when="1879-03-04"
+     >March 4, 1879</date>.</p>
+   <figure>
+    <graphic url="cww.001566.001"/>
+    <head><hi rend="initialcap">F</hi>IG. 150.&#8212;Shot fracture of middle third of right femur.
+     [From a photograph.]</head>
+   </figure>
+
+  </body>
+ </text>
+</TEI>

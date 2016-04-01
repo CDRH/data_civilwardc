@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e8476">
+        <teiHeader>
+                <fileDesc>
+                        <titleStmt>
+                                <title level="m" type="main">Russell, H.</title>
+                                <title level="m" type="sub">a machine readable transcription</title>
+                                <principal>Susan C. Lawrence</principal>
+                                <principal>Kenneth M. Price</principal>
+                                <principal>Kenneth J. Winkle</principal>
+                        </titleStmt>
+                        <editionStmt>
+                                <edition>
+                                        <date>2011</date>
+                                </edition>
+                        </editionStmt>
+                        <publicationStmt>
+                                <idno>med.d1e8476</idno>
+                                <authority>Civil War Washington</authority>
+                                <publisher>University of Nebraska–Lincoln</publisher>
+                                <distributor>
+                                        <name>Center for Digital Research in the Humanities</name>
+                                        <address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+                                </distributor>
+                                <date>2011</date>
+                                <availability>
+                                        <p>Copyright © 2011 by University of Nebraska–Lincoln, all
+                                                rights reserved. Redistribution or republication in
+                                                any medium, except as allowed under the Fair Use
+                                                provisions of U.S. copyright law, requires express
+                                                written consent from the editors and advance
+                                                notification of the publisher, the University of
+                                                Nebraska–Lincoln.</p>
+                                </availability>
+                        </publicationStmt>
+                        <notesStmt>
+                                <note type="project">The following are responsible for particular
+                                        readings or for changes to this file, as noted: 
+ <persName xml:id="kw">Kenneth Winkle</persName>
+                                        <persName xml:id="ajh">AJ Howell</persName>
+                                        <persName xml:id="mb">Matthew Bosley</persName>
+                                        <persName xml:id="el">Elizabeth Lorang</persName>
+                                </note>
+                        </notesStmt>
+                        <sourceDesc>
+                                <bibl>
+                                        <title level="j">The Medical and Surgical History of the War
+                                                of the Rebellion</title>
+                                        <pubPlace>Washington, DC</pubPlace>
+                                        <publisher>Government Printing Office</publisher>
+                                        <biblScope type="part">Part 3</biblScope>
+                                        <biblScope type="volume">Volume 1</biblScope>
+                                        <date when="1888">1888</date>
+                                        <biblScope type="page">380</biblScope>
+                                </bibl>
+                        </sourceDesc>
+                </fileDesc>
+                <encodingDesc>
+                        <classDecl>
+                                <taxonomy xml:id="medsurg">
+                                        <bibl>Medical and Surgical History of the War of the
+                                                Rebellion</bibl>
+                                </taxonomy>
+                        </classDecl>
+                </encodingDesc>
+                <profileDesc>
+                        <textClass>
+                                <keywords scheme="#medsurg">
+                                        <term>the continued fevers</term>
+                                        <term>post-mortem records of continued fevers</term>
+                                        <term>cases reported as typhoid fever, the clinical history
+                                                insufficient or absent</term>
+                                        <term>Peyer's patches ulcerated and the ileum or small
+                                                intestine only affected</term>
+                                        <term>colored citizen</term>
+                                        <term>spleen large</term>
+                                        <term>mesenteric glands enlarged</term>
+                                        <term>elevated Peyer's patches along ileum to
+                                                ileo-c&#230;cal valve</term>
+                                        <term>elevated solitary glands, with softened white centres,
+                                                in ileum up to ileo-c&#230;cal valve</term>
+                                </keywords>
+                        </textClass>
+                </profileDesc>
+                <revisionDesc>
+ <change who="#kw" when="2014-05">blessed</change>
+                        <change who="#el" when="2014-07-03">added period to figure head</change>
+                        <change who="#ajh" when="2013-08-16">added figure encoding</change>
+                        <change who="#mb" when="2013-03-29">copied case from MSHWR, added proofing
+                                of transcription and encoding, identified keyword terms and
+                                figures</change>
+                </revisionDesc>
+        </teiHeader>
+        <text>
+                <body>
+                        <p><hi rend="initialcap">C</hi>ASE 147.&#8212;<name type="person" key="686"
+                                        >H. Russell</name>, citizen; colored. Died <date
+                                        type="death" when="1865-06-14">June 24, 1865</date>. <hi
+                                        rend="italic">Post-mortem</hi> examination: The lungs and
+                                heart were normal. The spleen was large and hard; the mesenteric
+                                glands enlarged. A series of elevated Peyer's patches of all sizes,
+                                honey-combed and with constricted bases, extended from the
+                                ileo-c&#230;cal valve along the ileum; the solitary glands for eight
+                                or ten inches from the valve were elevated and had softened white
+                                centres. [<hi rend="italic">Specimen</hi> 565, Med. Sect., <name
+                                        type="hospital" key="431">Army Medical Museum</name>, taken
+                                from this case, shows also hypertrophied villi, giving the ileum a
+                                velvety appearance, seen in plate facing this page.]&#8212;<hi
+                                        rend="italic"><name type="person" key="621">Act. Ass't Surg.
+                                                W. C. Minor</name>, <name type="hospital" key="210"
+                                                >L'Ouverture Hospital</name>, Alexandria,
+                                Va.</hi></p>
+                        <figure>
+                                <graphic url="cww.001366.001"/>
+                                <head><hi rend="initialcap">P</hi>LATE. THICKENED PEYER'S PATCH AND
+                                        ENLARGED SOLITARY FOLLICLES. No. 565. MEDICAL SECTION.</head>
+                        </figure>
+                </body>
+        </text>
+</TEI>

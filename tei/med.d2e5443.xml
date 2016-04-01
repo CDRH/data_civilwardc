@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d2e5443">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Phelan, John</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+    <idno>med.d2e5443</idno>
+    <authority>Civil War Washington</authority>
+    <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor><name>Center for Digital Research in the
+     Humanities</name><address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address></distributor>
+    <date>2011</date>
+    <availability>
+     <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+      republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+      law, requires express written consent from the editors and advance notification of the
+      publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+ <persName xml:id="kw">Kenneth Winkle</persName> 
+     <persName xml:id="ajh">AJ Howell</persName>
+     <persName xml:id="mb">Matthew Bosley</persName>
+     <persName xml:id="el">Elizabeth Lorang</persName>
+     <persName xml:id="sb">Stacey Berry</persName>
+     <persName xml:id="et">Elisabeth Tracey</persName>
+     <persName xml:id="ss">Sarah Synovec</persName>
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title level="j">The Medical and Surgical History of the War of the Rebellion.
+      (1861-65.)</title><pubPlace>Washington, DC</pubPlace><publisher>Government Printing
+      Office</publisher><biblScope type="part">Part 3</biblScope><biblScope type="volume">Volume
+      2</biblScope><date when="1883">1883</date><biblScope type="page">107-108</biblScope></bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+     <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <keywords scheme="#medsurg">
+     <term>wounds and injuries of the lower extremities</term>
+     <term>wounds and injuries of the hip joint</term>
+     <term>shot fractures at the hip joint</term>
+     <term>excision at the hip after shot injury</term>
+     <term>intermediary excisions</term>
+     <term>compound comminuted fracture of neck and upper extremity of femur</term>
+     <term>ball entered in front, passed toward great trochanter</term>
+     <term>femur comminuted, great trochanter shattered</term>
+     <term>fractured upper femur</term>
+     <term>general anesthesia, ether</term>
+     <term>suppuration moderate</term>
+     <term>every bed occupied by patient with suppurating wounds</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+ <change who="#kw" when="2014-05">blessed</change>
+   <change who="#ajh" when="2013-08-21">added figure encoding</change>
+   <change who="#mb" when="2012-02-17">additional proofing of transcription and encoding, identified
+    keyword terms</change>
+   <change who="#el" when="2011-05-11">case text extracted and transformed from larger file</change>
+   <change who="#sb" when="2011-06-04">Enrich Encoding, Edit and validate</change>
+   <change who="#sb" when="2011-01-28">Validated File</change>
+   <change who="#ss" when="2008-09-22">Sarah Synovec initial checking of OCR text; encoded P5
+    Encoding</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+
+   <p><hi rend="initialcap">C</hi>ASE 250.&#8212;<name type="person" key="952">Captain John
+     Phelan</name>, <name type="organization" key="393">Co. A, 73d New York</name>, aged 22 years,
+    received a compound comminuted fracture of the neck and upper extremity of the left femur at the
+    battle of <name type="BATTLE" key="3"><choice>
+      <orig>Spottsylvania</orig>
+      <reg>Spotsylvania</reg>
+     </choice> Court House</name>, on <date type="injury" when="1864-05-14">May 14, 1864</date>. On
+     <date type="admit" when="1864-05-16">May 16th</date>, he was admitted to <name type="hospital"
+     key="165">Mount Pleasant Hospital</name>, Washington. The rapid and incessant influx of wounded
+    was such that the attention of the overworked hospital staff was not especially drawn to his
+    case for some time after his admission, and the delay in minutely examining the case was
+    extended by the uncomplaining fortitude of the sufferer, who expressed his wish that the more
+    serious cases should first be attended to, and declared that his own sufferings were
+    comparatively slight. When, however, <name type="person" key="953">Acting Assistant Surgeon
+     Mulford</name>, the ward surgeon, proceeded, on <date type="operation" when="1864-06-03">June
+     3d</date>, to adapt apparatus to what he supposed to be an ordinary gunshot fracture of the
+    upper third of the thigh, he was led to apprehend that the injury extended to the coxo-femoral
+    articulation, and requested the opinion of the surgeon in charge of the hospital, <name
+     type="person" key="339">Assistant Surgeon C. A. McCall</name>, <name type="organization"
+     key="190">U. S. A.</name>, as to the diagnosis and treatment. <name type="person" key="339">Dr.
+     McCall</name> immediately visited the patient, and found him to be a large, muscular, finely
+    formed man, whose previous health had been excellent. When lying quietly in bed, he suffered but
+    little. His appetite was good; and his strength, so far, had diminished but little. Altogether,
+    his general condition was extraordinarily good, in view of the gravity of the injury he had
+    sustained. The ball had entered in front, just over the point at which the profunda is given off
+    from the left femoral artery. The aperture of entrance was small and characteristic as an
+    entrance wound of a conoidal musket ball. The missile had passed toward the great trochanter and
+    shattered it. Further, its course could not be ascertained at the time. Any movement of the limb
+    caused extreme pain. Though the femur was much comminuted, <name type="person" key="339">Dr.
+     McCall</name> was not positive that the hip joint was implicated, and, with a view to a full
+    exploration of the injury, he directed <name type="person" key="953">Dr. Mulford</name> to make
+    a longitudinal incision three inches in length over the trochanter, to explore the parts
+    thoroughly, and to ascertain by digital examination the condition of the articulation. If it was
+    uninjured, <name type="person" key="xx">Dr. Mulford</name> was instructed to extract detached
+    fragments of bone and foreign matters, to close the upper part of the wound, and to avail of the
+    lower portion for drainage. In the afternoon the patient was etherized, and the exploratory
+    incision was made, and it was found that the fracture extended to the head of the femur. It was
+    then decided to excise the head. The patient was again rendered insensible by the inhalation of
+    sulphuric ether, and <name type="person" key="339">Dr. McCall</name> extended <name
+     type="person" key="953">Dr. Mulford</name>'s incision upward an inch or more, and then made an
+    oblique incision across its upper extremity, as represented in the accompanying figure (<hi
+     rend="initialcap">F</hi>IG. 61). The two flaps thus marked out were reflected, and the joint
+    was readily exposed, the round ligament divided, and the head of the femur exarticulated. The
+    acetabulum was carefully examined and found to be uninjured. Seven large and numerous small
+    fragments of the neck and trochanter major were then removed, a task requiring much time and
+    patience, many fragments being driven into the gluteal muscles, or deeply retracted by the
+    muscles attached to the great trochanter. The fractured upper extremity of the femur was then
+    brought out at the wound, by adducting and pushing upward the knee of the injured limb, and all
+    diseased tissue was removed. The periosteum was in a healthy condition quite up to the end of
+    the bone. The wound was now thoroughly washed out, and approximated by three stitches, and by
+    adhesive strips. A grain of sulphate of morphia was administered, and the patient was put to
+    bed. The operation lasted three-quarters of an hour. <name type="person" key="339">Dr.
+     McCall</name> thinks that the ball was removed during the operation; but is not positive on
+    this point. The hospital report, which is quoted at page 69 of <hi rend="italic">Circular</hi>
+    No. 6, S. G. O., 1865, states that the patient's pulse was quick and irritable at the time of
+    the operation, that he had a furred tongue and diarrh&#339;a, and was reduced by suppuration.
+    But <name type="person" key="339">Dr. McCall</name> (letter of February 11, 1868) thinks that
+    this report exaggerates the gravity of the constitutional symptoms, and is quite sure that the
+    general condition was favorable. The patient rallied well from the operation. For two days the
+    wound was dressed with lint. Suppuration then commencing, the limb was placed in Fergusson's
+    apparatus for excision of the head of the femur, the counter-extension straps being left off.
+    The wound was freely syringed with cold water containing a little permanganate of potassa. A
+    nourishing diet was ordered, with tonics and stimulants. For a week or ten days subsequently,
+    the case progressed favorably. Suppuration was moderate in amount, and of a healthy character.
+    About the middle of June, the weather became intensely hot. The atmosphere of the wards, in
+    which nearly every bed was occupied by a patient with suppurating wounds, became intensely
+    oppressive. About this time, the patient began to grow worse. The cheerful resolution and
+    hopefulness he had hitherto evinced, gave way. Diarrh&#339;a supervened, and he lost strength
+    rapidly. The fatal event was thought to have been delayed by the plan which was pursued of daily
+    removing the patient in his bed at nine in the morning to a spot beneath the shade trees near
+    the hospital, where he had pure air and escaped the distressing scenes of the ward; he remained
+    each day until five in the afternoon. He died on <date type="death" when="1864-06-21">June 21,
+     1864</date>. The portion of bone excised was forwarded at the time of the operation to the
+     <name type="hospital" key="431">Army Medical Museum</name>. The preparation is No. 2618 of the
+    Surgical Series. It is represented in the adjacent wood-cut (<hi rend="initialcap">F</hi>IG.
+    60). </p>
+   <figure><graphic url="cww.001535.001"/><head>
+    <hi rend="initialcap">F</hi>IG. 60.&#8212;Excised head and fragments of neck of left femur. <hi
+     rend="italic">Spec</hi>. 2618.</head></figure>
+   <figure><graphic url="cww.001536.001"/><head><hi rend="initialcap">F</hi>IG. 61.&#8212;Direction of the incisions in case of excision of
+    the head of the femur. [From a drawing by Dr. <hi rend="initialcap">M</hi>c<hi rend="initialcap"
+     >C</hi>ALL.]</head></figure>
+
+
+  </body>
+ </text>
+</TEI>

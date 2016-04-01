@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d2e19781">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Williams, E.</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+    <idno>med.d2e19781</idno>
+    <authority>Civil War Washington</authority>
+    <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor><name>Center for Digital Research in the
+     Humanities</name><address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address></distributor>
+    <date>2011</date>
+    <availability>
+     <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+      republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+      law, requires express written consent from the editors and advance notification of the
+      publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+ <persName xml:id="kw">Kenneth Winkle</persName> <persName xml:id="ajh">AJ Howell</persName>
+     <persName xml:id="mb">Matthew Bosley</persName>
+     <persName xml:id="el">Elizabeth Lorang</persName>
+     <persName xml:id="sb">Stacey Berry</persName>
+     <persName xml:id="et">Elisabeth Tracey</persName>
+     <persName xml:id="ss">Sarah Synovec</persName>
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title level="j">The Medical and Surgical History of the War of the Rebellion.
+      (1861-65.)</title><pubPlace>Washington, DC</pubPlace><publisher>Government Printing
+      Office</publisher><biblScope type="part">Part 3</biblScope><biblScope type="volume">Volume
+      2</biblScope><date when="1883">1883</date><biblScope type="page">515</biblScope></bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+     <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <keywords scheme="#medsurg">
+     <term>wounds and injuries of the lower extremities</term>
+     <term>wounds and operations in the leg</term>
+     <term>shot fractures of the bones of the leg</term>
+     <term>amputations in the continuity of the leg for shot fractures</term>
+     <term>intermediary amputations in the continuity of the leg for shot injury</term>
+     <term>intermediary amputations in the upper third of the leg for shot injury</term>
+     <term>fatal intermediary amputations in the upper third of the leg</term>
+     <term>ball entered middle third of tibia, fractured tibia and wounded anterior tibial artery,
+      emerged through gastrocnemius muscle</term>
+     <term>profuse recurring h&#230;morrhage, amputation performed at upper third of leg</term>
+     <term>h&#230;morrhage from anterior tibial artery in stump</term>
+     <term>tibia comminuted in middle third but little displacement of fragments</term>
+     <term>oblique fracture of tibia, piece of bone driven into anterior tibial artery</term>
+     <term>inter-muscular tissues of limb distended by pus</term>
+     <term>py&#230;mia</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+ <change who="#kw" when="2014-05">blessed</change>
+   <change who="#ajh" when="2013-08-23">added figure encoding</change>
+   <change who="#mb" when="2012-06-08">additional proofing of transcription and encoding, identified
+    keyword terms</change>
+   <change who="#el" when="2011-05-11">case text extracted and transformed from larger file</change>
+   <change who="#sb" when="2011-06-04">Enrich Encoding, Edit and validate</change>
+   <change who="#sb" when="2011-01-28">Validated File</change>
+   <change who="#ss" when="2008-09-22">initial checking of OCR text; encoded P5 Encoding</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p><hi rend="initialcap">C</hi>ASE 762.&#8212;<name type="person" key="1292">Private E.
+     Williams</name>, <name type="organization" key="465">Co. F, 136th Pennsylvania</name>, aged 45
+    years, was wounded at <name type="BATTLE" key="4">Fredericksburg</name>, <date type="injury"
+     when="1862-12-13">December 13, 1862</date>. <name type="person" key="xx">Surgeon C. J.
+     Nordquist</name>, <name type="organization" key="431">83d New York</name>, reported his
+    admission to the field hospital of the 2d division, First Corps, with "shot wound of right leg."
+     <name type="person" key="102">Surgeon O. A. Judson</name>, <name type="organization" key="132"
+     >U. S. V.</name>, contributed the pathological specimen with the following description: "The
+    wound was caused by a mini&#233; ball entering the upper part of the middle third of the tibia,
+    passing obliquely downward and backward, fracturing the bone in its course and wounding the
+    anterior tibial artery, and emerging through the gastrocnemius muscle. The patient was admitted
+    to <name type="hospital" key="167">Carver Hospital</name>, Washington, <date type="admit"
+     when="1862-12-21">December 21st</date>. The leg was placed in a fracture box and the bone kept
+    well in apposition. Water dressings were applied. The patient progressed favorably until <date
+     type="operation" when="1862-12-28">December 28th</date>, when a profuse and continually
+    recurring h&#230;morrhage set in which resisted ordinary measures for its control. Amputation
+    was accordingly resorted to, and performed at the upper third of the leg by flap operation. On
+     <date type="operation" when="1863-01-01">Januray 1, 1863</date>, h&#230;morrhage to the amount
+    of thirty ounces occurred from the anterior tibial artery in the stump, which was laid open and
+    the bleeding vessel was secured. But the patient gradually sank, and died the <date type="death"
+     when="1863-01-01">evening of the same day</date>. His system was also infected with
+    py&#230;mia. Examination revealed an oblique fracture of the tibia, also that a piece of bone
+    had been driven into the anterior tibial artery. The inter-muscular tissues of the limb were
+    distended by pus." The wood-cut (<hi rend="initialcap">F</hi>IG. 299) is a representation of the
+    amputated shaft of the tibia (<hi rend="italic">Spec</hi>. 634), which was comminuted in the
+    middle third but shows very little displacement of fragments. </p>
+   <figure>
+    <graphic url="cww.001640.001"/>
+    <head><hi rend="initialcap">F</hi>IG. 299.&#8212;Fracture in middle third of right tibia. <hi
+      rend="italic">Spec</hi>. 634.</head>
+   </figure>
+  </body>
+ </text>
+</TEI>

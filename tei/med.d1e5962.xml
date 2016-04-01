@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e5962">
+        <teiHeader>
+                <fileDesc>
+                        <titleStmt>
+                                <title level="m" type="main">McVaugh, Jos.</title>
+                                <title level="m" type="sub">a machine readable transcription</title>
+                                <principal>Susan C. Lawrence</principal>
+                                <principal>Kenneth M. Price</principal>
+                                <principal>Kenneth J. Winkle</principal>
+                        </titleStmt>
+                        <editionStmt>
+                                <edition>
+                                        <date>2011</date>
+                                </edition>
+                        </editionStmt>
+                        <publicationStmt>
+                                <idno>med.d1e5962</idno>
+                                <authority>Civil War Washington</authority>
+                                <publisher>University of Nebraska–Lincoln</publisher>
+                                <distributor>
+                                        <name>Center for Digital Research in the Humanities</name>
+                                        <address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+                                </distributor>
+                                <date>2011</date>
+                                <availability>
+                                        <p>Copyright © 2011 by University of Nebraska–Lincoln, all
+                                                rights reserved. Redistribution or republication in
+                                                any medium, except as allowed under the Fair Use
+                                                provisions of U.S. copyright law, requires express
+                                                written consent from the editors and advance
+                                                notification of the publisher, the University of
+                                                Nebraska–Lincoln.</p>
+                                </availability>
+                        </publicationStmt>
+                        <notesStmt>
+                                <note type="project">The following are responsible for particular
+                                        readings or for changes to this file, as noted: 
+                                        <persName xml:id="mb">Matthew Bosley</persName>
+                                        <persName xml:id="el">Elizabeth Lorang</persName>
+                                        <persName xml:id="sb">Stacey Berry</persName>
+                                        <persName xml:id="et">Elisabeth Tracey</persName>
+                                </note>
+                        </notesStmt>
+                        <sourceDesc>
+                                <bibl>
+                                        <title level="j">The Medical and Surgical History of the War
+                                                of the Rebellion</title>
+                                        <pubPlace>Washington, DC</pubPlace>
+                                        <publisher>Government Printing Office</publisher>
+                                        <biblScope type="part">Part 3</biblScope>
+                                        <biblScope type="volume">Volume 1</biblScope>
+                                        <date when="1888">1888</date>
+                                        <biblScope type="page">339</biblScope>
+                                </bibl>
+                        </sourceDesc>
+                </fileDesc>
+                <encodingDesc>
+                        <classDecl>
+                                <taxonomy xml:id="medsurg">
+                                        <bibl>Medical and Surgical History of the War of the
+                                                Rebellion</bibl>
+                                </taxonomy>
+                        </classDecl>
+                </encodingDesc>
+                <profileDesc>
+                        <textClass>
+                                <keywords scheme="#medsurg">
+                                        <term>post-mortem records</term>
+                                        <term>continued fevers</term>
+                                        <term>typhoid fever</term>
+                                        <term>Peyer's patches ulcerated, large intestine also implicated</term>  
+                                        <term>abscess on surface of kidney</term>
+                                </keywords>
+                        </textClass>
+                </profileDesc>
+                <revisionDesc>
+                        <change who="#mb" when="2011-10-07">additional proofing of transcription and encoding</change>
+                        <change who="#mb" when="2011-06-14">additional proofing of transcription and encoding</change>
+                        <change who="#el" when="2011-05-11">case text extracted and transformed from
+                                larger file</change>
+                        <change who="#sb" when="2011-02-23">Encoding and Proofing</change>
+                        <change who="#et" when="2009-12-01">Initial Checking OCR Text to PDF file,
+                        </change>
+                </revisionDesc>
+        </teiHeader>
+        <text>
+                <body xml:id="ch4.sc4.1.00026">
+                        
+                                <p><hi rend="initialcap">C</hi>ASE 26.&#8212;<name type="person"
+                                                key="609">Private Jos. McVaugh</name>, <name
+                                                type="organization" key="649">Co. D, 147th
+                                                Pa.</name>; age 45; was admitted <date type="admit"
+                                                when="1863-07-28">July 28, 1863</date>. He was very
+                                        feeble and delirious, with an inclination to stupor; his
+                                        tongue very dry and red; skin cool and clammy; pulse 113,
+                                        small and weak; bowels moved about ten times daily; abdomen
+                                        hard and tender, especially in the right iliac region. In
+                                        the progress of the case the stools became less frequent,
+                                        but all the other symptoms increased in severity; the
+                                        passages during the night before death were involuntary. He
+                                        died <date type="death" when="1863-08-02">August 2</date>.
+                                                <hi rend="italic">Post-mortem</hi> examination seven
+                                        hours after death: The brain weighed forty-five ounces; the
+                                        pia mater was somewhat congested and the choroid plexuses
+                                        filled with minute air-bubbles. The trachea was greenish but
+                                        contained healthy sputa; the mucous membrane of the
+                                        &#339;sophagus was pale yellow-stained near the cardiac
+                                        orifice and presented numerous whitish points. The right
+                                        lung weighed eleven ounces and was slightly engorged in its
+                                        upper and middle lobes. The left lung weighed fifteen
+                                        ounces; its upper lobe was much shrunken and contained but
+                                        little air; towards its apex was a small circular elevation
+                                        about the size of a chestnut, surrounded by a livid purplish
+                                        zone about three inches in diameter; on opening this spot a
+                                        quantity of air escaped and a few drops of bloody fluid; the
+                                        lower lobe was engorged with venous blood. The heart
+                                        contained a small fibrinous clot in the right cavities and a
+                                        mixed clot in the left; the pericardium contained two
+                                        drachms of bloody fluid. The stomach was unusually firm and
+                                        its mucous membrane pale-red in color throughout. The liver
+                                        weighed fifty-three ounces and was slightly congested; the
+                                        gall-bladder contained ten ounces of bile of a brownish-ochre color, filled with a flaky substance which
+                                        did not precipitate. The spleen weighed five ounces and was
+                                        flabby, soft and of a mulberry color. The right kidney
+                                        weighed five ounces; its external surface was of a bluish
+                                        color spotted with numerous dark-blue points; an abscess
+                                        about the size of a horse chestnut, with ecchymosed walls,
+                                        containing discolored pus, was found on the anterior surface
+                                        near the outer margin. The left kidney weighed five ounces
+                                        and a half; it was much congested; a small cyst containing
+                                        serum was found on its anterior surface. The small intestine
+                                        was healthy to within three feet of the ileo-c&#230;cal
+                                        valve, but from this point downward the mucous membrane was
+                                        of a reddish-purple color, thin and somewhat softened;
+                                        Peyer's patches were discolored and ulcerated, especially near the valve, where patches of a
+                                        dark-blue stone color, fully an inch in diameter, were
+                                        eroded. The large intestine was greenish but free from
+                                        ulceration; the solitary glands were white and
+                                                conspicuous.&#8212;<hi rend="italic"><name
+                                                  type="person" key="245">Ass't Surg. Harrison
+                                                  Allen</name>, <name type="organization" key="190"
+                                                  >U. S. A.</name>, <name type="hospital" key="176"
+                                                  >Lincoln Hospital</name>, Washington, D. C.</hi>
+                                </p>
+                        
+                </body>
+        </text>
+</TEI>

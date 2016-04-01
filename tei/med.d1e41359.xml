@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e41359">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Wagner, G. A.</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+    <idno>med.d1e41359</idno>
+       <authority>Civil War Washington</authority>
+       <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor>
+       <name>Center for Digital Research in the Humanities</name>
+       <address><addrLine>319 Love Library</addrLine>
+       <addrLine>University of Nebraska–Lincoln</addrLine>
+       <addrLine>Lincoln, NE 68588-4100</addrLine>
+       <addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+    </distributor>
+    <date>2011</date>
+    <availability>
+        <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+         republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+         law, requires express written consent from the editors and advance notification of the
+         publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+     <persName xml:id="mb">Matthew Bosley</persName>     
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl>
+     <title level="j">The Medical and Surgical History of the War of the Rebellion. (1861-65.)</title>
+     <pubPlace>Washington, DC</pubPlace>
+     <publisher>Government Printing Office</publisher>
+     <biblScope type="part">Part 2</biblScope>
+     <biblScope type="volume">Volume 1</biblScope>
+     <date when="1879">1879</date>
+     <biblScope type="page">188</biblScope>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+       <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+      <keywords scheme="#medsurg">
+       <term>diarrh&#339;a and dysentery</term>
+       <term>fatal cases of diarrh&#339;a and dysentery, with accounts of the morbid appearances observed</term>
+       <term>from the First Division of the Alexandria Hospital, Virginia</term>
+       <term>chronic diarrh&#339;a</term>
+       <term>cough, pneumonia</term>
+       <term>state of stupor</term>
+       <term>inflammation of ileum, c&#230;cum, and colon</term>       
+       <term>passages mixed with blood</term>
+       <term>severe pain in right iliac region</term>
+       <term>autopsy performed</term>       
+     </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change who="#mb" when="2012-12-06">copied case from MSHWR, added proofing of transcription and encoding, identified keyword terms</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body> 
+   <p>Case from the medical descriptive lists of the <name type="hospital" key="501"><hi rend="initialcap">S</hi>ECOND <hi rend="initialcap">D</hi>IVISION</name> of the <name type="place" key="#Alexandria"><hi rend="initialcap">A</hi>LEXANDRIA</name> <hi rend="initialcap">H</hi>OSPITAL, Virginia, <name type="person" key="307">Surgeon T. Rush Spencer</name>, <name type="organization" key="132">U. S. V.</name>, in charge:</p>
+   <p><hi rend="initialcap">C</hi>ASE 442.&#8212;<name type="person" key="xxx">Private G. A. Wagner</name>, <name type="organization" key="xxx">company K, 150th New York volunteers</name>; age 23; admitted <date type="admit" when="1863-09-17">September 17, 1863</date>.  Chronic diarrh&#339;a.  At the time of admission, besides diarrh&#339;a, the patient had symptoms of pneumonia. He was much debilitated. To take, morning and evening, four grains of Dover's powder, half a drachm of subnitrate of bismuth, and five grains of calomel in one powder; milk diet.  September 18th: The cough is slightly better, and the passages are less frequent. Treatment and diet continued.  September 19th: The stools are less frequent, but are still watery; the cough continues. To take a teaspoonful of syrup of squill three times a day besides the powders.  September 29th: Condition improving; stools still watery, but not frequent. To take twenty drops of the syrup of the iodide of iron three times a day; also tincture of cinchona.  October 5th: Is again attacked with violent diarrh&#339;a, having eight passages in the twenty-four hours. Renew the subnitrate of bismuth in half-drachm doses; milk diet.  October 7th: Patient very low; passages ten per day. Continue the subnitrate of bismuth; also give enemata of tannic acid and opium.  October 8th: The passages have decreased in number to five in the twenty-four hours, but are mixed with blood. Stop the bismuth. Take three grains of powdered opium twice a day; milk-punch.  October 9th: Patient complains of severe pain in right iliac region; had five bloody passages in the last twenty-four hours. To take powders of tannic acid, calomel, and opium every three hours; a mustard plaster to the abdomen; milk-punch.  <date type="death" when="1863-10-10">October 10th</date>: The patient lies in a state of stupor, pulse feeble and trembling. Died at 9 A. M.  <hi rend="italic">Autopsy:</hi> There was extensive inflammation of the ileum, c&#230;cum, and colon.&#8212;<name type="person" key="1602">Acting Assistant Surgeon Thomas H. Stillwell</name>.</p> 
+  </body>
+ </text>
+</TEI>

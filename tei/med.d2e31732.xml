@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d2e31732">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Smith, J. W.</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+       <idno>med.d2e31732</idno>
+       <authority>Civil War Washington</authority>
+       <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor>
+       <name>Center for Digital Research in the Humanities</name>
+       <address><addrLine>319 Love Library</addrLine>
+       <addrLine>University of Nebraska–Lincoln</addrLine>
+       <addrLine>Lincoln, NE 68588-4100</addrLine>
+       <addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+    </distributor>
+    <date>2011</date>
+    <availability>
+        <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+         republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+         law, requires express written consent from the editors and advance notification of the
+         publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+     <persName xml:id="mb">Matthew Bosley</persName>
+     <persName xml:id="ch">Constance Hamer</persName>
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl>
+     <title level="j">The Medical and Surgical History of the War of the Rebellion. (1861-65.)</title>
+     <pubPlace>Washington, DC</pubPlace>
+     <publisher>Government Printing Office</publisher>
+     <biblScope type="part">Part 2</biblScope>
+     <biblScope type="volume">Volume 2</biblScope>
+     <date when="1876">1876</date>
+     <biblScope type="page">171</biblScope>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+       <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+      <keywords scheme="#medsurg">
+       <term>injuries of the abdomen</term>
+       <term>penetrating wounds of the abdomen</term>
+       <term>wounds of the kidney</term>
+       <term>gunshot wounds</term>
+       <term>shot wound of the kidney complicated with fractures of the vertebral column</term>
+       <term>shot wound in lumbar region,</term> 
+       <term>ischuria renalis</term>
+       <term>partial paraplegia</term>
+       <term>ball traversed bodies of second and third lumbar vertebr&#230;, perforated kidney</term>
+       <term>kidney almost disintegrated</term>
+       <term>peritoneum inflamed, intestine gangrenous</term>
+       <term>bladder filled with bloody pus</term>
+       <term>autopsy performed</term>
+     </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change who="#mb" when="2012-08-29">additional proofing of transcription and encoding, identified keyword terms</change>
+   <change who="#ch" when="2011-02-21">checked OCR; added minimal mark-up for personal names, place names, and dates</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body> 
+   <p>Shot wounds of the kidney are not infrequently complicated with fractures of the vertebral column, as Surgeon John A. Lidell, U. S. V., in the instructive paper&#185; on injuries of the spine, already cited, records the particulars of the following case:</p>
+   <p><hi rend="initialcap">C</hi>ASE 540.&#8212;<name type="person" key="xxx">Private J. W. Smith</name>, <name type="organization" key="xxx">Co. K, 116th Pennsylvania</name>, aged 19 years, received a shot wound in the right lumbar region, at <name type="battle" key="83">Salem Church</name>, <date type="injury" when="1864-05-30">May 30, 1864</date>.  Admitted to <name type="hospital" key="175">Stanton Hospital</name> <date type="admit" when="1864-06-04">June 4th</date>. There was ischuria renalis, with partial paraplegia.  He died <date type="death" when="1864-06-14">June 14, 1864</date>.  The ball had traversed the bodies of the second and third lumbar vertebr&#230;, and perforated the right kidney, which was almost disintegrated. The peritoneum was everywhere highly inflamed, the intestine almost gangrenous; the bladder was filled with bloody pus.</p>    
+   <p>&#185; <hi rend="initialcap">L</hi>IDELL (<hi rend="initialcap">J</hi>. <hi rend="initialcap">A</hi>.), <hi rend="italic">On Injuries of the Spine</hi>, including <hi rend="italic">Concussion of the Spinal Cord</hi>, in the <hi rend="italic">Am. Jour. Med. Sci.</hi>, 1864, XLVIII, p. 314.</p>
+  </body>
+ </text>
+</TEI>

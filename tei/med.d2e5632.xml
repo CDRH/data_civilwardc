@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d2e5632">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Boyle, Peter</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+    <idno>med.d2e5632</idno>
+    <authority>Civil War Washington</authority>
+    <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor><name>Center for Digital Research in the
+     Humanities</name><address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address></distributor>
+    <date>2011</date>
+    <availability>
+     <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+      republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+      law, requires express written consent from the editors and advance notification of the
+      publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+ <persName xml:id="kmp">Kenneth M. Price</persName> <persName xml:id="ajh">AJ Howell</persName>
+     <persName xml:id="mb">Matthew Bosley</persName>
+     <persName xml:id="el">Elizabeth Lorang</persName>
+     <persName xml:id="sb">Stacey Berry</persName>
+     <persName xml:id="et">Elisabeth Tracey</persName>
+     <persName xml:id="ss">Sarah Synovec</persName>
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title level="j">The Medical and Surgical History of the War of the Rebellion.
+      (1861-65.)</title><pubPlace>Washington, DC</pubPlace><publisher>Government Printing
+      Office</publisher><biblScope type="part">Part 3</biblScope><biblScope type="volume">Volume
+      2</biblScope><date when="1883">1883</date><biblScope type="page">108-109</biblScope></bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+     <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <keywords scheme="#medsurg">
+     <term>wounds and injuries of the lower extremities</term>
+     <term>wounds and injuries of the hip joint</term>
+     <term>shot fractures at the hip joint</term>
+     <term>excision at the hip after shot injury</term>
+     <term>intermediary excisions</term>
+     <term>entered hip and passed antero-posteriorly through soft parts and surgical neck of the
+      femur</term>
+     <term>fractured trochanter major</term>
+     <term>general anesthesia, ether</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+ <change who="#kmp" when="2014-05">blessed</change>
+   <change who="#ajh" when="2013-08-22">added figure encoding</change>
+   <change who="#mb" when="2012-02-17">additional proofing of transcription and encoding, identified
+    keyword terms</change>
+   <change who="#el" when="2011-05-11">case text extracted and transformed from larger file</change>
+   <change who="#sb" when="2011-06-04">Enrich Encoding, Edit and validate</change>
+   <change who="#sb" when="2011-01-28">Validated File</change>
+   <change who="#ss" when="2008-09-22">Sarah Synovec initial checking of OCR text; encoded P5
+    Encoding</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+
+   <p><hi rend="initialcap">C</hi>ASE 254.&#8212;<name type="person" key="955">Private Peter
+     Boyle</name>, <name type="organization" key="395">Co. D, 59th Massachusetts</name>, aged 60
+    years, was wounded at <name type="BATTLE" key="xxx">Petersburg</name>, <date type="injury"
+     when="1864-07-30">July 30, 1864</date>. A conoidal musket ball entered the left hip and passed
+    antero-posteriorly through the soft parts and surgical neck of the femur, and fractured the
+    trochanter major. His entry at the base hospital at <name type="place">City Point</name> and
+    transfer to <name type="place" key="#Washington">Washington</name> are recorded on <date
+     type="admit" when="1864-08-01">August 1st</date>. He was conveyed to <name type="place"
+     key="#Washington">Washington</name> on an hospital steamer, and on <date type="transfer"
+     when="1864-08-03">August 3d</date> was admitted to <name type="hospital" key="162">Douglas
+     Hospital</name>. His constitutional condition, on admission, was poor. The wound, however, had
+    an healthy aspect, and a thorough exploration showed that the injury to the soft tissues
+    involved no important part, and that the fracture at the junction of the neck and trochanter
+    major was not accompanied by much longitudinal splintering in either direction. <name
+     type="person" key="200">Assistant Surgeon William Thomson</name>, <name type="organization"
+     key="190">U. S. A.</name>, decided that an excision of the injured bone was expedient, and that
+    the operation should be done as soon as the patient had rallied from the fatigue and
+    irritability induced by his long journey. On <date type="operation" when="1864-08-05">August
+     5th</date>, ether having been administered, <name type="person" key="200">Assistant Surgeon
+     Thomson</name> proceeded to excise the head, neck, and trochanters of the left femur, through a
+    straight incision of sufficient length made over the trochanter major. The rotator muscles and
+    the tendons of the psoas and iliacus being divided, the round ligament was readily cut and the
+    head exarticulated. The section of the shaft was made by a chain saw at the level of the
+    trochanter minor. The operation was rapidly accomplished, and there was no h&#230;morrhage of
+    moment. The wound was dressed with an antiseptic solution of one drop of creasote to each ounce
+    of water on charpie, and the limb was supported by a sand bag on either side. The patient
+    reacted well after the operation; but at night there was profuse sweating and some nausea. On
+    the following morning he ate a good breakfast. He still had a cool, sweating skin, and his pulse
+    was at 128. He gradually sank, and died from exhaustion on <date type="death" when="1864-08-07"
+     >August 7, 1864</date>. The pathological preparation, presented by <name type="person"
+     key="200">Dr. Thomson</name> to the <name type="hospital" key="431">Army Medical Museum</name>,
+    is figured by the accompanying wood-cut (<hi rend="initialcap">F</hi>IG. 63).</p>
+
+   <figure>
+    <graphic url="cww.001537.001"/>
+    <head>
+     <hi rend="initialcap">F</hi>IG. 63.&#8212;Shot perforation of neck of left femur. <hi
+      rend="italic">Spec</hi>. 3593.</head>
+   </figure>
+
+
+  </body>
+ </text>
+</TEI>

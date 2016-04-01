@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e8851">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Yetter, John</title>
+                <title level="m" type="sub">a machine readable transcription</title>
+                <principal>Susan C. Lawrence</principal>
+                <principal>Kenneth M. Price</principal>
+                <principal>Kenneth J. Winkle</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2011</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <idno>med.d1e8851</idno>
+                <authority>Civil War Washington</authority>
+                <publisher>University of Nebraska–Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+                </distributor>
+                <date>2011</date>
+                <availability>
+                    <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved.
+                        Redistribution or republication in any medium, except as allowed under the
+                        Fair Use provisions of U.S. copyright law, requires express written consent
+                        from the editors and advance notification of the publisher, the University
+                        of Nebraska–Lincoln.</p>
+                </availability>
+            </publicationStmt>
+            <notesStmt>
+                <note type="project">The following are responsible for particular readings or for
+                    changes to this file, as noted: 
+ <persName xml:id="kw">Kenneth Winkle</persName> <persName xml:id="ajh">AJ Howell</persName>
+                    <persName xml:id="mb">Matthew Bosley</persName>
+                    <persName xml:id="el">Elizabeth Lorang</persName>
+                    <persName xml:id="sb">Stacey Berry</persName>
+                    <persName xml:id="et">Elisabeth Tracey</persName>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>The Medical and Surgical History of the War of the Rebellion.
+                        (1861&#8211;65.)</title>
+                    <editor role="compiler">Surgeon General Joseph K. Barnes, United States
+                        Army</editor>
+                    <pubPlace>Washington, D.C.</pubPlace>
+                    <publisher>Government Printing Office</publisher>
+                    <biblScope type="part">Part 1</biblScope>
+                    <biblScope type="volume">Volume 2</biblScope>
+                    <date when="1870">1870</date>
+                    <biblScope type="page">123</biblScope>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <classDecl>
+                <taxonomy xml:id="medsurg">
+                    <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme="#medsurg">
+                    <term>wounds and injuries of the head</term>
+                    <term>gunshot contusions of the cranial bones</term>
+                    <term>trephining</term>
+                    <term>general anesthesia, chloroform</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+ <change who="#kw" when="2014-05">blessed</change>
+            <change who="#ajh" when="2013-08-16">added figure encoding</change>
+            <change who="#mb" when="2011-06-22">additional proofing of transcription and
+                encoding</change>
+            <change who="#el" when="2011-11-05">case text extracted and transformed from larger
+                file</change>
+            <change who="#sb" when="2011-02-09">enriched encoding</change>
+            <change who="#sb" when="2011-01-28">validated file</change>
+            <change who="#et" when="2009-08-01">encoded</change>
+            <change who="#sb" when="2008-09-22">initial checking of OCR text against PDF; encoded
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body xml:id="ch1.sc3.0129">
+
+            <p><name type="person" key="406"><hi rend="initialcap">Y</hi>ETTER, <hi
+                        rend="initialcap">J</hi>OHN</name>, Private, <name type="organization"
+                    key="612">Co. A, 11th New Jersey Volunteers</name>, aged 21 years, was wounded
+                near <name type="BATTLE" key="254">Petersburg, Virginia</name>, <date type="injury"
+                    when="1864-11-10">November 10th, 1864</date>, by a conoidal ball which lacerated
+                the scalp, and contused the anterior portion of the left parietal bone. He was
+                admitted to the field hospital of the <name type="hospital">3d division, Second
+                    Corps</name>, and thence transferred to <name type="hospital">City Point</name>,
+                and thence sent by the <name type="hospital">hospital steamer Connecticut</name> to
+                the <name type="hospital" key="175">Stanton Hospital</name>, Washington, where he
+                arrived on <date type="transfer" when="1864-11-26">November 26th</date>. There was a
+                necrosis of the cranium, one-fourth of an inch in diameter. Low diet and gentle
+                purgatives were prescribed, and, as suppuration became tolerably well established,
+                emollient poultices were applied to the wound. On <date type="operation"
+                    when="1864-12-21">the 21st of December</date>, the contused bone had become
+                loosened by the process of absorption and suppuration. The patient was placed under
+                the influence of chloroform, and <name type="person" key="405">Surgeon Benjamin B.
+                    Wilson</name>, <name type="organization" key="132">U. S. V.</name>, made a
+                crucial incision, and removed a piece of the external table of the parietal bone,
+                half an inch in diameter, and another, from the internal table, one-fourth of an
+                inch in diameter. On <date type="operation" when="1864-12-29">the 29th</date>,
+                another piece of bone, including a small portion of both tables, was removed from
+                the inferior margin of the wound. Water dressings were applied. The patient made a
+                rapid recovery, without any untoward symptom; but it was thought inexpedient to
+                return him immediately to active service in the field. He did efficient duty for
+                some months as a nurse in the hospital. When discharged, on the general muster out
+                of troops, <date type="servicedischarge" when="1865-06-15">June 15th, 1865</date>,
+                he was in excellent health. His name does not appear on the list of applicants for
+                pension. The specimen (see <hi rend="initialcap">F</hi>IG. 40) and notes of the case
+                were contributed by <name type="person" key="405">Surgeon B. B. Wilson</name>, <name
+                    type="organization" key="132">U. S. V. </name>
+            </p>
+
+            <figure>
+                <graphic url="cww.001369.001"/>
+                <head><hi rend="initialcap">F</hi>IG. 40.&#8212;Fragments of necrosed bone from the
+                    left parietal. <hi rend="italic">Spec.</hi> 4178, Sect. I, A. M. M.</head>
+            </figure>
+
+        </body>
+    </text>
+</TEI>

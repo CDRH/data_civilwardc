@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d2e21236">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Dietz, D.</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+    <idno>med.d2e21236</idno>
+    <authority>Civil War Washington</authority>
+    <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor><name>Center for Digital Research in the
+     Humanities</name><address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address></distributor>
+    <date>2011</date>
+    <availability>
+     <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+      republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+      law, requires express written consent from the editors and advance notification of the
+      publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+ <persName xml:id="kmp">Kenneth M. Price</persName> <persName xml:id="ajh">AJ Howell</persName>
+     <persName xml:id="mb">Matthew Bosley</persName>
+     <persName xml:id="el">Elizabeth Lorang</persName>
+     <persName xml:id="sb">Stacey Berry</persName>
+     <persName xml:id="et">Elisabeth Tracey</persName>
+     <persName xml:id="ss">Sarah Synovec</persName>
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title level="j">The Medical and Surgical History of the War of the Rebellion.
+      (1861-65.)</title><pubPlace>Washington, DC</pubPlace><publisher>Government Printing
+      Office</publisher><biblScope type="part">Part 3</biblScope><biblScope type="volume">Volume
+      2</biblScope><date when="1883">1883</date><biblScope type="page">551</biblScope></bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+     <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <keywords scheme="#medsurg">
+     <term>wounds and injuries of the lower extremities</term>
+     <term>wounds and operations in the leg</term>
+     <term>shot fractures of the bones of the leg</term>
+     <term>amputations in the continuity of the leg for shot fractures</term>
+     <term>secondary amputations in the continuity of the leg for shot injury</term>
+     <term>secondary amputations in the lower third of the leg for shot injury</term>
+     <term>recoveries after secondary amputations in the lower third of the leg for shot
+      injury</term>
+     <term>ball entered foot posteriorly, passed forward between <choice>
+       <orig>astragalus</orig>
+       <reg>talus</reg>
+      </choice> and tibia, and emerged anteriorly opposite point of entrance</term>
+     <term>fractured articulating surfaces of both tibia and fibula</term>
+     <term>amputation through the inferior third of leg</term>
+     <term>fitted with artificial limb</term>
+     <term>general anesthesia, chloroform</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+ <change who="#kmp" when="2014-05">blessed</change>
+   <change who="#ajh" when="2013-08-23">added figure encoding</change>
+   <change who="#mb" when="2012-06-12">additional proofing of transcription and encoding, identified
+    keyword terms</change>
+   <change who="#el" when="2011-05-11">case text extracted and transformed from larger file</change>
+   <change who="#sb" when="2011-06-04">Enrich Encoding, Edit and validate</change>
+   <change who="#sb" when="2011-01-28">Validated File</change>
+   <change who="#ss" when="2008-09-22">initial checking of OCR text; encoded P5 Encoding</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p><hi rend="initialcap">C</hi>ASE 801.&#8212;<name type="person" key="1356">Private D.
+     Dietz</name>, <name type="organization" key="238">Co. B, 48th Pennsylvania</name>, aged 21
+    years, was wounded in the left ankle joint, at <name type="BATTLE" key="3"><choice>
+      <orig>Spottsylvania</orig>
+      <reg>Spotsylvania</reg>
+     </choice></name>, <date type="injury" when="1864-05-12">May 12, 1864</date>. He remained at a
+    field hospital for <date type="transfer" when="1864-05-26">two weeks</date> and was then
+    conveyed to <name type="place" key="#Washington">Washington</name>, where he was admitted to
+     <name type="hospital" key="174">Campbell Hospital</name>. <name type="person" key="74">Surgeon
+     A. F. Sheldon</name>, <name type="organization" key="132">U. S. V.</name>, contributed the
+    pathological specimen, No. 4032, represented in the annexed wood-cut (<hi rend="initialcap"
+     >F</hi>IG. 324), with the following history of the injury: "A musket ball entered the left foot
+    posteriorly, passed forward between the <choice>
+     <orig>astragalus</orig>
+     <reg>talus</reg>
+    </choice> and tibia, and emerged anteriorly, opposite the point of entrance, fracturing the
+    articulating surfaces of both bones. Circular amputation through the inferior third of the leg
+    was performed by <name type="person" key="1306">Assistant Surgeon A. Delany</name>, <name
+     type="organization" key="132">U. S. V.</name>, on <date type="operation" when="1864-11-10"
+     >November 10th</date>, two ligatures being applied and an&#230;sthesia produced by chloroform.
+    At the time of the operation the foot and ankle were enlarged, with numerous openings
+    discharging sanguinolent pus. Hectic irritation, pain, and loss of appetite were rapidly
+    overcoming what little vitality remained. The patient bore the operation well." The patient was
+    subsequently transferred to <name type="person" key="428">Judiciary Square Hospital</name> for
+    the purpose of being fitted with an artificial limb, and on <date type="servicedischarge"
+     when="1865-05-19">May 19, 1865</date>, he was discharged from service and pensioned. In his
+    application for commutation, dated <date type="pension" when="1870">1870</date>, he described
+    the stump as "healed and well," and subsequently he reported it as being in "good condition."
+    The pensioner was paid <date type="pension" when="1880-06-04">June 4, 1880</date>. The specimen
+    consists of the bones comprising the ankle of the amputated leg, and shows that large quantities
+    of spongy new bone were thrown out around the tibia, but the bodies of the bones were destroyed
+    by suppuration. </p>
+   <figure>
+    <graphic url="cww.001646.001"/>
+    <head><hi rend="initialcap">F</hi>IG. 324.&#8212;Bones of the left ankle six months after
+     injury. <hi rend="italic">Spec</hi>. 4052.</head>
+   </figure>
+  </body>
+ </text>
+</TEI>

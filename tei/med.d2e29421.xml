@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d2e29421">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Leaning, T. A.</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+       <idno>med.d2e29421</idno>
+       <authority>Civil War Washington</authority>
+       <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor>
+       <name>Center for Digital Research in the Humanities</name>
+       <address><addrLine>319 Love Library</addrLine>
+       <addrLine>University of Nebraska–Lincoln</addrLine>
+       <addrLine>Lincoln, NE 68588-4100</addrLine>
+       <addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+    </distributor>
+    <date>2011</date>
+    <availability>
+        <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+         republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+         law, requires express written consent from the editors and advance notification of the
+         publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+         <persName xml:id="mb">Matthew Bosley</persName>         
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl>
+        <title level="j">The Medical and Surgical History of the War of the Rebellion. (1861-65.)</title>
+        <pubPlace>Washington, DC</pubPlace>
+        <publisher>Government Printing Office</publisher>
+        <biblScope type="part">Part 3</biblScope>
+        <biblScope type="volume">Volume 2</biblScope>
+        <date when="1883">1883</date>
+        <biblScope type="page">893-894</biblScope>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+       <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+      <keywords scheme="#medsurg">
+       <term>an&#230;sthetics</term>
+       <term>deaths from chloroform</term>
+       <term>stricture of urethra</term>
+       <term>general anesthesia, chloroform</term>
+       <term>patient ceased to breathe, face purplish</term>
+       <term>Marshall Hall's ready method of artificial respiration</term>
+       <term>congestion&#8212;probably passive&#8212;of the heart</term> 
+       <term>absence of rigor mortis</term>       
+     </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+       <change who="#mb" when="2012-06-27">additional case copied from MSHWR, performed proofing of copy and XML encoding, and key terms identified</change>  
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>   
+   <p><hi rend="initialcap">C</hi>ASE 1268.&#8212;<name type="person" key="xxx">T. A. Leaning</name>, <name type="organization" key="xxx">Co. H, 76th New York</name>, a patient in <name type="hospital" key="163">Eckington Hospital</name>, was troubled with stricture of the urethra. An attempted examination by the catheter was so painful that chloroform was administered on a handkerchief, pains
+    being taken that the patient had plenty of air by holding the handkerchief far enough away from the face. In a few minutes
+    the rigidity of the muscles yielded, but only partly, and two or three stertorous respirations were taken. The chloroform was
+    immediately suspended and the examination by the catheter commenced. The instrument had only been introduced to about
+    the membranous urethra when an involuntary evacuation of both bladder and bowels took place; the patient at that moment
+    ceased to breathe and his face grew purplish. The action of the heart could not be observed at this time, since the administrator had not his finger on the pulse. On being immediately observed, no pulsation could be felt at the wrist nor observed on auscultation over the heart. The tongue was immediately pulled forward with a tenaculum, but as no respiration succeeded, Marshall Hall's ready method of artificial respiration was immediately commenced. The temporal artery was also instantly cut, but only
+    a few drops of blood escaped. Respiration incomplete and obstructed by eructation; passive vomiting, with friction of the
+    surface by the hand and by a stiff brush, and stimulating injections of ammonia and turpentine were kept up for over two hours
+    with no favorable result, and the attempt at resuscitation was then given up.  <name type="person" key="1526">Acting Assistant Surgeon W. W. Keen, <choice><orig>jr.</orig><reg>Jr.</reg></choice></name>, who
+    reports the case, remarks of the autopsy that &#34;almost the only things strictly abnormal were the enormous congestion&#8212;probably passive&#8212;of the heart, fluidity of the blood, and the absence of rigor mortis.&#34;</p>    
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e11870">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">K&#8212;&#8212;, James</title>
+                <title level="m" type="sub">a machine readable transcription</title>
+                <principal>Susan C. Lawrence</principal>
+                <principal>Kenneth M. Price</principal>
+                <principal>Kenneth J. Winkle</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2011</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <idno>med.d1e11870</idno>
+                <authority>Civil War Washington</authority>
+                <publisher>University of Nebraska–Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+                </distributor>
+                <date>2011</date>
+                <availability>
+                    <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved.
+                        Redistribution or republication in any medium, except as allowed under the
+                        Fair Use provisions of U.S. copyright law, requires express written consent
+                        from the editors and advance notification of the publisher, the University
+                        of Nebraska–Lincoln.</p>
+                </availability>
+            </publicationStmt>
+            <notesStmt>
+                <note type="project">The following are responsible for particular readings or for
+                    changes to this file, as noted: 
+ <persName xml:id="kmp">Kenneth M. Price</persName> 
+                    <persName xml:id="ajh">AJ Howell</persName>
+                    <persName xml:id="mb">Matthew Bosley</persName>
+                    <persName xml:id="el">Elizabeth Lorang</persName>
+                    <persName xml:id="sb">Stacey Berry</persName>
+                    <persName xml:id="et">Elisabeth Tracey</persName>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>The Medical and Surgical History of the War of the Rebellion.
+                        (1861&#8211;65.)</title>
+                    <editor role="compiler">Surgeon General Joseph K. Barnes, United States
+                        Army</editor>
+                    <pubPlace>Washington, D.C.</pubPlace>
+                    <publisher>Government Printing Office</publisher>
+                    <biblScope type="part">Part 1</biblScope>
+                    <biblScope type="volume">Volume 2</biblScope>
+                    <date when="1870">1870</date>
+                    <biblScope type="page">168</biblScope>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <classDecl>
+                <taxonomy xml:id="medsurg">
+                    <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme="#medsurg">
+                    <term>on special wounds and injuries of the head</term>
+                    <term>wounds and injuries of the head</term>
+                    <term>gunshot wounds</term>
+                    <term>gunshot contusions of the cranial bones</term>
+                    <term>gunshot fractures of both tables of the skull</term>
+                    <term>gunshot fractures of both tables of the cranium with depression</term>
+                    <term>classical punctured fracture</term>
+                    <term>pistol ball produced punctured fracture of os frontis</term>
+                    <term>extended depression of inner table</term>
+                    <term>abscess of brain</term>
+                    <term>convulsion</term>
+                    <term>autopsy performed</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+ <change who="#kmp" when="2014-05">blessed</change>
+            <change who="#ajh" when="2013-08-19">added figure encoding</change>
+            <change who="#mb" when="2013-07-05">additional proofing of transcription and encoding,
+                edited and added keyword terms</change>
+            <change who="#mb" when="2011-07-20">additional proofing of transcription and
+                encoding</change>
+            <change who="#el" when="2011-11-05">case text extracted and transformed from larger
+                file</change>
+            <change who="#sb" when="2011-02-09">enriched encoding</change>
+            <change who="#sb" when="2011-01-28">validated file</change>
+            <change who="#et" when="2009-08-01">encoded</change>
+            <change who="#sb" when="2008-09-22">initial checking of OCR text against PDF;
+                encoded</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body xml:id="ch1.sc3.0203">
+            <p><hi rend="initialcap">C</hi>ASE.&#8212;<name type="person" key="1483">Private James
+                    K&#8212;&#8212;</name>, <name type="organization" key="432">Co. G, 6th New York
+                    Cavalry</name>, was wounded at the battle of <name type="BATTLE" key="2"
+                    >Gettysburg</name>, <date type="injury" when="1863-07-03">July 3d, 1863</date>,
+                by a pistol ball, which produced a punctured fracture of the <hi rend="italic">os
+                    frontis</hi>. He was conveyed to a hospital at <name type="place"
+                    >Baltimore</name>, and from thence to <name type="hospital" key="167">Carver
+                    Hospital</name>, at Washington, on <date type="admit" when="1863-07-24">July
+                    24th</date>. He stated that, at Baltimore, he walked about and felt no
+                inconvenience from his wound. On <date type="operation" when="1863-07-27">July
+                    27th</date>, he had a convulsion. The wound, which was nearly healed, was laid
+                open, and depressed bone being detected, an effort was made to elevate it. Several
+                small necrosed fragments were removed, and a small quantity of fetid pus escaped.
+                The patient had become comatose, and the operation had no influence in relieving the
+                symptoms. Death took place <date type="death" when="1863-07-27">a few hours
+                    subsequently</date>. At the autopsy, the extended depression of the inner table
+                was discovered, and a large abscess of the brain.</p>
+            <figure><graphic url="cww.001393.001"/><head>
+                <hi rend="initialcap">F</hi>IG. 81.&#8212;Fracture of the frontal bone by a pistol
+                ball. <hi rend="italic">Spec</hi>. 1673, A. M. M.</head></figure>
+            <figure><graphic url="cww.001394.001"/><head>
+                <hi rend="initialcap">F</hi>IG. 82.&#8212;Interior view of the foregoing specimen.</head></figure>
+            
+        </body>
+    </text>
+</TEI>

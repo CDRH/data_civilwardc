@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d2e30000">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Murphy, J. A.</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+    <idno>med.d2e35080</idno>
+    <authority>Civil War Washington</authority>
+    <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor>
+     <name>Center for Digital Research in the Humanities</name>
+     <address><addrLine>319 Love Library</addrLine>
+       <addrLine>University of Nebraska–Lincoln</addrLine>
+       <addrLine>Lincoln, NE 68588-4100</addrLine>
+       <addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+    </distributor>
+    <date>2011</date>
+    <availability>
+     <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+      republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+      law, requires express written consent from the editors and advance notification of the
+      publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+     <persName xml:id="mb">Matthew Bosley</persName>
+     <persName xml:id="ajh">AJ Howell</persName>
+     <persName xml:id="at">Alex Thomas</persName>
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl>
+     <title level="j">The Medical and Surgical History of the War of the Rebellion.
+      (1861-65.)</title>
+     <pubPlace>Washington, DC</pubPlace>
+     <publisher>Government Printing Office</publisher>
+     <biblScope type="part">Part 2</biblScope>
+     <biblScope type="volume">Volume 2</biblScope>
+     <date when="1876">1876</date>
+     <biblScope type="page">326</biblScope>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+     <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <keywords scheme="#medsurg">
+     <term>injuries of parts contained in the pelvis</term>
+     <term>injuries of pelvis</term>
+     <term>wounds of blood-vessels and nerves</term>
+     <term>wounds of the internal pudic artery</term>
+     <term>wounded while in a kneeling <choice><sic>pasition</sic><corr>position</corr></choice></term>
+     <term>ball entered external aspect of thigh below trochanter major, passed upward and inward, lodged in opposite buttock</term>
+     <term>pain and tenderness in natis</term>
+     <term>ball embedded in gluteus maximus</term>
+     <term>copious discharge of blood from anus</term>
+     <term>h&#230;morrhage from wound for extracting ball and from rectum</term>
+     <term>died when h&#230;morrhage from bowels recurred</term>
+     <term>autopsy performed</term>
+     <term>ball entered pelvis at obturator foramen, passed through rectum, broke off spinous process, lodged in fibres of gluteus medius</term>
+     <term>bleeding vessel was one of inferior h&#230;morrhoidal arteries</term>     
+    </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change who="#mb" when="2012-09-24">additional proofing of transcription and encoding, identified keyword terms</change>
+   <change who="#ajh" when="2012-08-21">additional proofing of transcription and encoding, identified keyword terms</change>
+   <change who="#at" when="2011-02-25">checked OCR; added minimal mark-up for personal names, place names, and dates</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p><hi rend="initialcap">C</hi>ASE 941.&#8212;<name type="person" key="xxx">Private <hi rend="italic">J. A. Murphy</hi></name>, <name type="organization" key="xxx">Co. C, 17th Virgina</name>, aged 20 years, was wounded at <name type="battle" key="126">Williamsburg</name>, <date type="injury" when="1862-05-08">May 8th, 1862</date>, and was treated in a field hospital until <date type ="transfer" when="1862-05-17">the 17th</date>, when he was sent to <name type="hospital" key="168">Cliffburne Hospital</name>, Washington.  <name type="person" key="294">Assistant Surgeon John S. Billings</name>, <name type="organization" key="190">U.S.A.</name>, made the following special report of this case:  "He was wounded while in a kneeling <choice><sic>pasition</sic><corr>position</corr></choice>; the ball entered the external aspect of the thigh five inches below the trochanter major, and then, passing upward and inward, lodged in the buttock of the opposite side. When admitted he was cheerful and comfortable, presenting no symptoms worthy of notice.  <date type="operation" when="1862-05-25">May 25th</date>: As he began to complain of pain and tenderness in the left natis, an incision was made and the ball found, after a little search, embedded in the fibres of the gluteus maximus.  June 1st: He has been going on well up to this date, when a sudden and copious discharge of blood from the anus occurred. A weak solution of persulphate of iron was given in enema, which readily checked the h&#230;morrhage. Small Doses of opium were given internally, and the patient was restricted to milk diet.  June 3d: H&#230;morrhage took place from the wound made for the purpose of extracting the ball, and also from the rectum; the persulphate was again resorted to, and followed by an opium suppository, as he complained of intolerable tension and pain. Good nourishment was given, with one grain of opium and ten drops of tincture of iron every four hours. he perspired freely.  Up to June 15th, he slowly and steadily improved; no more h&#230;morrhages taking place, and the discharges being natural, with the exception of containing, now and then, a small clot of blood. The wound made by the entrance of the ball had entirely healed; the discharge from the wound made to extract the ball was purulent and copious, but contained no blood.  On the evening of the 14th, however, h&#230;morrhage occurred from the rectum, not very profuse, but sufficiently so, in his feeble condition, to utterly prostrate him. The same remedies were employed with the effect of checking the h&#230;morrhage, and beef-essence, brandy, etc., were given.  <date type="death" when="1862-06-16">June 16th</date>: Has been very slightly improving up to this date, when h&#230;morrhage again occurred from the bowels, and he died in half an hour.  Examination six hours after death: The ball was found to have passed upward from the point of entrance in the thigh. It entered the pelvis at the obturator foramen, passing directly through the rectum, broke off the spinous process of the ischium of opposite side, and lodged in the fibres of the gluteus medius. The bleeding vessel was one of the inferior h&#230;morrhoidal arteries; the space between the sacrum and rectum was filled with coagula; the recto-vesical fold was elevated and its peritoneal surface was dark in color.  The autopsy was made by <name type="person" key="xxx">Dr. E. Curtis</name>."</p>
+  </body>
+ </text>
+</TEI>

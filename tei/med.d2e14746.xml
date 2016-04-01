@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d2e14746">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Frazer, H. C.</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+    <idno>med.d2e14746</idno>
+    <authority>Civil War Washington</authority>
+    <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor><name>Center for Digital Research in the
+     Humanities</name><address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address></distributor>
+    <date>2011</date>
+    <availability>
+     <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+      republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+      law, requires express written consent from the editors and advance notification of the
+      publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+     <persName xml:id="mb">Matthew Bosley</persName>
+     <persName xml:id="el">Elizabeth Lorang</persName>
+     <persName xml:id="sb">Stacey Berry</persName>
+     <persName xml:id="et">Elisabeth Tracey</persName>
+     <persName xml:id="ss">Sarah Synovec</persName>
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title level="j">The Medical and Surgical History of the War of the Rebellion.
+      (1861-65.)</title><pubPlace>Washington, DC</pubPlace><publisher>Government Printing
+      Office</publisher><biblScope type="part">Part 3</biblScope><biblScope type="volume">Volume
+      2</biblScope><date when="1883">1883</date><biblScope type="page">362</biblScope></bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+     <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <keywords scheme="#medsurg">
+     <term>wounds and injuries of the lower extremities</term> 
+     <term>wounds and injuries of the knee joint</term>
+     <term>punctured and incised wounds of the knee joint</term> 
+     <term>incised wounds of the knee joint</term>
+     <term>amputations in the thigh after incised wounds of the knee joint</term> 
+     <term>accidentally struck knee while cutting wood</term> 
+     <term>cut obliquely across outside of joint</term>
+     <term>pus in joint and burrowing above in muscles of thigh</term>
+     <term>gangrene</term>
+     <term>limb removed six inches below trochanters</term>
+     <term>general anesthesia, chloroform</term>
+     <term>original wound communicated with knee joint</term>     
+    </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change who="#mb" when="2012-05-24">additional proofing of transcription and encoding, identified keyword terms</change>
+   <change who="#el" when="2011-05-11">case text extracted and transformed from larger file</change>
+   <change who="#sb" when="2011-06-04">Enrich Encoding, Edit and validate</change>
+   <change who="#sb" when="2011-01-28">Validated File</change>
+   <change who="#ss" when="2008-09-22">initial checking of OCR text; encoded P5 Encoding</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   
+    <p><hi rend="initialcap">C</hi>ASE 526.&#8212;<name type="person" key="1118">Private H. C.
+      Frazer</name>, <name type="organization" key="435">Co. A, 40th New York</name>, while cutting
+     wood, on <date type="injury" when="1862-06-20">June 20, 1862</date>, accidentally struck the
+     left knee. He entered <name type="hospital" key="64">Ascension Hospital,</name>, Washington,
+      <date type="admit" when="1862-07-04">July 4th</date>, whence <name type="person" key="1116">Acting Assistant Surgeon J. W. Bulkley</name> reported that the cut ran obliquely
+     across the outside of the joint and had nearly healed when the patient was admitted. About ten
+     or eleven days afterwards, however, the leg and joint became greatly swollen and inflamed, the
+     skin rapidly assuming a bright red color. This was attended with excessive pain in the joint
+     upon motion. Ice, cold irrigations, and tincture of iodine were applied, and salines, small
+     doses of tartar emetic, and sweet spirits of nitre were administered. Bandages were applied
+     from the foot to the knee joint with good effect. On <date type="operation" when="1862-07-20">July 20th</date>, a small incision was made
+     inside the ligamentum patella and gave exit to a large amount of sanious and highly offensive
+     pus. About July 27th, the pus was noticed to be accumulating in the joint and burrowing above
+     it in the muscles of the thigh. The bandage was still used, and cold, alternated with warm,
+     applications were continued. Quinine and tincture of iron was now given, and beef tea and
+     brandy punch freely. <date type="operation" when="1862-08-01">About the beginning of August</date> an incision, made in the calf of the leg,
+     gave exit to still more offensive pus. After August 5th the patient was slowly sinking. A small
+     blackish discoloration was then seen on the inside of the leg, midway between the knee and the
+     ankle; the foot, which from the first had remained &#339;dematous, was puffed and pitting on
+     pressure. On August 13th the black spot was noticed to be rapidly increasing and was recognized as gangrene, when a lotion of nitric acid was
+     applied. On <date type="operation" when="1864-08-14">the following day</date>, the necessity of amputation becoming manifest, two doses of
+     one-half grain of morphia each were administered, after which the limb was removed about six
+     inches below the trochanters by the antero-posterior flap method. The operation was performed
+     by <name type="person" key="1117">Surgeon J. C. Dorr</name>, <name type="organization"
+      key="132">U. S. V.</name>, assisted by others, the patient being under the influence of
+     chloroform, and losing but a slight amount of blood. Dead and disorganized tissues were found
+     in the flaps and dissected out, after which the lips of the wound were closed by silver sutures
+     and adhesive plaster. Stimulants were freely given, but the patient sank rapidly, and died at 5
+     P. M. on <date type="death" when="1864-08-14">the same day</date>. An examination showed that the soft parts were extensively disorganized
+     nearly to the trochanters; also that the original wound had communicated with the knee joint.</p>
+   
+  </body>
+ </text>
+</TEI>

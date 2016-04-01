@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d2e13119">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Barnett, D. A.</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+    <idno>med.d2e13119</idno>
+    <authority>Civil War Washington</authority>
+    <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor><name>Center for Digital Research in the
+     Humanities</name><address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address></distributor>
+    <date>2011</date>
+    <availability>
+     <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+      republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+      law, requires express written consent from the editors and advance notification of the
+      publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+ <persName xml:id="kmp">Kenneth M. Price</persName> 
+     <persName xml:id="mb">Matthew Bosley</persName>
+     <persName xml:id="el">Elizabeth Lorang</persName>
+     <persName xml:id="sb">Stacey Berry</persName>
+     <persName xml:id="et">Elisabeth Tracey</persName>
+     <persName xml:id="ss">Sarah Synovec</persName>
+     <persName xml:id="kk">Kourtney Klein</persName>
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title level="j">The Medical and Surgical History of the War of the Rebellion.
+      (1861-65.)</title><pubPlace>Washington, DC</pubPlace><publisher>Government Printing
+      Office</publisher><biblScope type="part">Part 3</biblScope><biblScope type="volume">Volume
+      2</biblScope><date when="1883">1883</date><biblScope type="page">292-293</biblScope></bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+     <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <keywords scheme="#medsurg">
+     <term>wounds and injuries of the lower extremities</term> 
+     <term>injuries of the shaft of the femur</term>
+     <term>amputations in the shaft of the femur</term> 
+     <term>intermediary amputations in the shaft of the femur for shot injury</term>
+     <term>intermediary amputations in the lower third of the thigh</term> 
+     <term>fatal cases of intermediary amputation in the lower third of the femur</term> 
+     <term>shot wound of knee joint</term>
+     <term>h&#230;morrhage when wounded, an&#230;mic when admitted</term>
+     <term>bullet entered leg at lower border of patella, removed through incision at median line posteriorly</term>
+     <term>obliteration of main vessel, no circulation in foot, leg half way to knee cold and purple or tallow colored, early stages of traumatic sphacelus</term>
+     <term>ball comminuted patella and passed through femur, entering at outer margin of inner condyle and dividing popliteal artery</term>
+     <term>py&#230;mia</term>
+     <term>pleural cavity with effusion of yellow pus and serum, separated into strata of upper serum and lower pus</term>
+     <term>diseased spots in lung suggested embolism, somewhat triangular in shape</term>
+     <term>general anesthesia, ether</term>
+     <term>phlebitis, compared to phlegmasia alba dolens</term>     
+    </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+ <change who="#kmp" when="2014-05">blessed</change>
+   <change who="#kk" when="2014-01-31">added figure encoding</change>
+   <change who="#mb" when="2012-05-21">additional proofing of transcription and encoding, identified keyword terms</change>   
+   <change who="#el" when="2011-05-11">case text extracted and transformed from larger file</change>
+   <change who="#sb" when="2011-06-04">Enrich Encoding, Edit and validate</change>
+   <change who="#sb" when="2011-01-28">Validated File</change>
+   <change who="#ss" when="2008-09-21">initial checking of OCR text; encoded P5 Encoding</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   
+    <p><hi rend="initialcap">C</hi>ASE 472.&#8212;<name type="person" key="1095">Sergeant D. A.
+      Barnett</name>, <name type="organization" key="182">Co. B, 99th Pennsylvania</name>, aged 22
+     years, was wounded at <name type="BATTLE" key="xx">Kelly's Ford</name>, <date type="injury"
+      when="1863-11-07">November 7, 1863</date>. <name type="person" key="xx">Surgeon J. W.
+      Lyman</name>, <name type="organization" key="132">U. S. V.</name>, recorded his admission to
+     the field hospital of the 1st division, Third Corps, with "shot wound of left knee joint." <date type="transfer" when="1863-11-09">Two
+     days after the reception of the injury</date> the wounded man was transferred to <name type="hospital"
+      key="162">Douglas Hospital</name>, Washington, whence <name type="person" key="200">Assistant
+      Surgeon W. Thomson</name>, <name type="organization" key="190">U. S. A.</name>, reported the
+     following history: "The patient was an&#230;mic when admitted, and stated that very free
+     h&#230;morrhage took place the moment he was wounded. He was struck by a bullet, which entered
+     the leg at the lower border of the patella, and was removed through an incision at the median
+     line posteriorly, four inches above the joint. An examination showed the probable obliteration of the
+     main vessel, since there was no circulation in the foot, which, with the leg half way to the
+     knee, was cold and purple or tallow colored, and in the early stages of traumatic sphacelus.
+     This, added to the direct wound of the knee joint, rendered an operation necessary, which was
+     performed on <date type="operation" when="1863-11-10">November 10th</date>. Ether was given, and the limb was removed by <name type="person" key="454">Acting Assistant Surgeon P. R. Holly</name>, at the lower third of the thigh,
+     by the circular method, with a straight cut from the wound of exit to the point of the circular
+     incision. The operation was well borne and there was no serious loss of blood. On examining the amputated
+     leg, I found that the ball had comminuted the patella and passed through the femur, entering at the outer margin of the inner
+     condyle and dividing the popliteal artery. The popliteal space contained a large quantity of
+     coagulated blood, and the ends of the vessel were surrounded by a mass of pink-colored and
+     semi-organized clot, sufficiently firm to prevent h&#230;morrhage. The patient's tongue was
+     very pallid and his whole appearance an&#230;mic. His leg soon became swollen though perfectly
+     white, resembling a case of phlegmasia alba dolens. The skin was smooth and blanched; there was
+     tenderness along the line of the bone and no vigorous effort at repair, the edges of the
+     incision being pale. The discharge consisted of dark colored ill-looking pus, and the whole
+     appearance of the stump was unfavorable; the edges gaped widely apart. On November 20th, a
+     slight slough appeared on the posterior lip of the stump, and two days afterwards the patient
+     had a severe chill, followed by profuse perspiration in the night and succeeded by a light
+     cough. During the night of the 23d there was another severe chill, and the next day respiration
+     was increased in frequency and accompanied by pain in the right side. There was no perceptible dullness on
+     percussion, but on auscultation it was found that inspiration was deep and a little labored,
+     while the expiration over both lungs anteriorly was prolonged almost as in phthisis. There was
+     no rale, but the expiratory sound seemed to indicate that the whole lung had lost some of its
+     elasticity and returned upon itself after dilatation with apparent difficulty. Expectoration
+     was slight, very tough and viscid; the pulse rapid and feeble; the skin relaxed. The pulse
+     became still weaker, and the respiration more hurried until almost sighing; the nervous
+     depression increased. The breath had the sweet sickening smell resembling the odor of
+     fermentation, which denotes py&#230;mia. Death occurred at 8 A. M. on <date type="death"
+      when="1863-11-26">November 26, 1863</date>. The <hi rend="italic">post-mortem</hi> examination
+     was made six hours afterwards. On opening the right pleural cavity we found the lung coated
+     with soft greenish colored lymph, and there was an effusion amounting to six ounces of yellow
+     pus and serum, separating into two strata, the upper serum, the lower pus, and having (under
+     the microscope) the usual pus corpuscles floating in a fluid with an abundance of unrecognizable
+     debris. There seemed to be also a thin layer of pus beneath the pleura anteriorly, giving that portion of the lung a yellowish color. The upper
+     lobe was apparently normal; the lower lobe posteriorly was congested, dark in color, and, on
+     division, revealed nodules of tissue of various sizes in all stages of pathological changes
+     from acute congestion to thorough hepatization and yellow softening. The diseased spots were in
+     dimension from the size of half an English walnut to that of a split pea, the large ones having
+     in the center a space white or yellow in color, and probably breaking down rapidly. The outline
+     of these solidified portions, on section, suggested the idea of embolism, since they were
+     somewhat triangular in shape, with the base at the pleural surface and the apex at the deepest
+     portion of the lung, giving the impression that a circumscribed area of lung nourished by a
+     single vessel had been destroyed by its occlusion. There was no recent effusion in the left
+     pleural cavity, but changes in the parenchyma similar to those on the right side were
+     discovered. An examination of the vessels of the stump revealed the existence of inflammation
+     of the artery and veins. Both the femoral artery and vein at the point of their escape from the
+     pelvis were normal. The femoral vein at the entrance of the saphena was filled with a
+     semi-organized clot, which extended through the saphena and femoral to a point two inches from
+     the cut ends of these vessels, where they had been divided on the face of the stump. (See
+     left-hand figure of <hi rend="initialcap">P</hi>LATE <hi rend="initialcap">XX</hi>, opposite p. 294.) These vessels, as
+     will be seen, are now hard and firm dark-red cords, of course entirely impervious. The artery
+     from the origin of the profunda to a point two inches from its cut termination was also
+     reddened, and its inner coat softened and easily removable. The phlebitis, with its occlusion
+     of the main venous trunks, accounted for the swollen and white condition of the stump, compared
+     above to the condition known as phlegmasia alba dolens. In making this dissection it was
+     observed that the inflammation, apparent in the artery and to some extent circumscribed (since
+     its lower extremity yet contained the clot formed on the application of the ligature and was
+     normal both in color and firmness, as well as that which occluded the veins), had extended
+     through the coats of these vessels from without. No pus was found in the veins, and no evidence
+     of inflammation except the marked redness of the coats and the firm and clotted coagulation of
+     the blood within." Wet preparations of the femoral and profunda arteries (<hi rend="italic">Spec.</hi> 2246), the femoral and saphena veins (<hi rend="italic">Spec.</hi> 3991), and the popliteal artery and vein (<hi rend="italic">Spec.</hi> 2247), saved from the stump, were contributed to <name type="hospital" key="431">the Museum</name> by <name type="person"
+      key="200">Assistant Surgeon Thomson</name>. Drawings of the specimens 3991 and 2246 were
+     prepared by <name type="person" key="878">Hospital Steward Stauch</name>, and are represented,
+     the former on the left and the latter on the right side of <hi rend="initialcap">P</hi>LATE <hi rend="initialcap">XX</hi>,
+     opposite p. 294.</p>
+   
+    <figure>
+     <graphic url="cww.001817.001" />
+     <head>PLATE  XX.    FEMORAL  ARTERY  AND  FEMORAL  VEIN  AFTER  AMPUTATION.</head> 
+    </figure>
+   
+  </body>
+ </text>
+</TEI>

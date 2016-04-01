@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="cww.02522">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">A Day Well Spent</title>
+                <title level="m" type="sub">a machine readable transcription</title>
+                <editor role="co-editor">R. J. Weir</editor>
+                <principal>Susan C. Lawrence</principal>
+                <principal>Elizabeth Lorang</principal>
+                <principal>Kenneth M. Price</principal>
+                <principal>Kenneth J. Winkle</principal>
+                <respStmt>
+                    <resp>transcription and encoding</resp>
+                    <persName xml:id="ak">Alex Kinnaman</persName>
+                    <persName xml:id="el">Elizabeth Lorang</persName>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2015</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <idno>cww.02522</idno>
+                <distributor>Civil War Washington</distributor>
+                <publisher>University of Nebraska Lincoln</publisher>
+                <address>
+                    <addrLine>Center for Digital Research in the Humanities</addrLine>
+                    <addrLine>319 Love Library</addrLine>
+                    <addrLine>University of Nebraska-Lincoln</addrLine>
+                    <addrLine>P.O. Box 884100</addrLine>
+                    <addrLine>Lincoln, NE 68588-4100</addrLine>
+                </address>
+                <address>
+                    <addrLine>
+                        <email>cdrh@unl.edu</email>
+                    </addrLine>
+                </address>
+                <date>2015</date>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+                        <p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License (http://creativecommons.org/licenses/by-nc-sa/3.0/). Derivatives must be credited to Civil War Washington and R. J. Weir, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct xml:id="letter">
+                    <analytic>
+                        <author ref="#rh">R. H.</author>
+                        <title level="a">A Day Well Spent</title>
+                    </analytic>
+                    <monogr>
+                        <title xml:id="paper" level="j">The Anglo-African</title>
+                        <imprint>
+                            <date xml:id="issue_date" when="1864-02-20">20 February 1864</date>                    
+                        </imprint>
+                        <biblScope type="pp">[2]</biblScope>                    
+                    </monogr>           
+                </biblStruct>
+                
+                <biblStruct xml:id="issue">               
+                    <monogr>
+                        <title level="j" sameAs="#paper"/>
+                        <imprint>
+                            <date sameAs="#issue_date"/>                  
+                        </imprint>              
+                    </monogr>                   
+                </biblStruct>                        
+            </sourceDesc>       
+        </fileDesc>
+        <encodingDesc> 
+            <p>This electronic text is a semi-diplomatic transcription of the source text. Hyphenation, punctuation, variant spellings, and errors present in the source text have been retained. The transcription does not attempt to capture all aspects of the original formatting or layout.</p>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <persName xml:id="rh">Hamilton, Robert</persName>
+                <persName xml:id="th">Hamilton, Thomas</persName>
+                <date when="1863">1863</date>
+            </creation>
+            <langUsage>
+                <language ident="en-US">modern American English</language>
+            </langUsage>
+            <textClass>
+                <classCode scheme="http://authorities.loc.gov">
+                    <term xml:id="sh2009113967">African Americans--Civil rights--History--19th century</term>
+                    <term xml:id="sh2009114063">African Americans--Washington (D.C.)</term>
+                    <term xml:id="no94014581">Augusta, Alexander T., 1825-</term>
+                    <term xml:id="no90002715">Clark, Daniel, 1809-1891</term>
+                    <term xml:id="nr00009460">Conness, John, 1821-1909</term>
+                    <term xml:id="sh2011000937">Discrimination in the military</term>
+                    <term xml:id="no88000131">Doolittle, James R. (James Rood), 1815-1897</term>
+                    <term xml:id="nr91040104">Eliot, Thomas D. (Thomas Dawes), 1808-1870</term>
+                    <term xml:id="n50001285">Fessenden, William Pitt, 1806-1869</term>
+                    <term xml:id="nr92005769">Foster, Lafayette S. (Lafayette Sabine), 1806-1880</term>
+                    <term xml:id="n90606697">Grimes, James W. (James Wilson), 1816-1872</term>
+                    <term xml:id="n88070847">Hendricks, Thomas A. (Thomas Andrews), 1819-1885</term>
+                    <term xml:id="n97118869">Pomeroy, Samuel Clarke, 1816-1891</term>
+                    <term xml:id="n88156903">Saxton, Rufus, 1824-1908</term>
+                    <term xml:id="sh85119599">Segregation in transportation--United States</term>
+                    <term xml:id="n81057079">Sumner, Charles, 1811-1874</term>
+                    <term xml:id="n80020357">United States. Bureau of Refugees, Freedmen, and Abandoned Lands</term>
+                    <term xml:id="sh85145356">Washington (D.C.)--Politics and government</term>
+                    <term xml:id="n84124807">Wilkinson, Morton S. (Morton Smith), 1819-1894</term>
+                    <term xml:id="nr90004425">Wilson, Henry, 1812-1875</term>
+                </classCode>
+                <classCode scheme="http://civilwardc.org">
+                    <term>Hamilton, Robert, 1819-1870</term>
+                </classCode>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when="2015-04-07" who="#ak">corrected</change>
+            <change when="2015-04-02" who="#el">checked transcription and encoding and made necessary changes; updated TEI header, including keywords</change>
+            <change when="2015-03-31" who="#ak">added keywords</change>
+            <change when="2015-02-25" who="#ak">checked, updated xml:id</change>
+            <change when="2014-11-17" who="#ak">checked transcription, encoded</change>
+        </revisionDesc>
+    </teiHeader>
+    
+    <facsimile corresp="#issue">
+        <surface xml:id="pp1">
+            <graphic url="aa.18640220.pp1.jpg"/>
+        </surface>
+        <surface xml:id="pp2">
+            <graphic url="aa.18640220.pp2.jpg"/>
+            <zone xml:id="pp2_cropped" corresp="#letter">
+                <graphic url="aa.18640220.pp2_cropped.jpg"/>
+            </zone>
+        </surface>
+        <surface xml:id="pp3">
+            <graphic url="aa.18640220.pp3.jpg"/>
+        </surface>
+        <surface xml:id="pp4">
+            <graphic url="aa.18640220.pp4.jpg"/>
+        </surface>
+    </facsimile>
+    
+    <text corresp="#letter #pp2_cropped">
+        <body>
+            <div>
+                <head type="main" subtype="authorial" rend="center">A DAY WELL SPENT.</head>
+                
+                <milestone unit="undeclared" rend="medium-bar"/>
+                    
+                <head type="sub" subtype="authorial"><emph rend="italic">Editorial Correspondence.</emph></head>
+                
+                <p><emph rend="smallcaps">This</emph> day has been, by both Houses of <choice><orig>Con-<lb/>gress</orig><reg>Congress</reg></choice>, devoted, almost entirely, to the interest <lb/>of the colored man&#8212;to the advancement of his <lb/>social, educational, and martial rights; and <lb/>hence, to the best interests of the country.</p>
+                
+                <p>The battle was opened in the Senate by that <lb/>ever-vigilant sentinel of liberty, the Hon. <emph rend="smallcaps">Chas. <lb/>Sumner</emph> of Massachusetts, who, after some <choice><orig>pre-<lb/>liminary</orig><reg>preliminary</reg></choice> business, submitted the following <choice><orig>re-<lb/>solution</orig><reg>resolution</reg></choice>:</p>
+           
+               <floatingText>
+                   <body> 
+                       <head type="main" subtype="authorial" rend="center">EXCLUSION OF COLORED PERSONS FROM THE CARS.</head>
+                <p>Resolved, That the Committee on the District <lb/>of Columbia be directed to consider the <choice><orig>expe-<lb/>diency</orig><reg>expediency</reg></choice> of further providing by law against the  <lb/>exclusion of colored persons from the equal <choice><orig>en-<lb/>joyment</orig><reg>enjoyment</reg></choice> of all railroad privileges in the District <lb/>of Columbia.</p></body></floatingText>
+                
+                
+                <p>This resolution was taken into immediate <lb/>consideration.</p>
+                
+                <p><emph rend="smallcaps">Senator Pomeroy</emph> said, "I wish the Senator <lb/>would so amend his resolution that it might  <lb/>prevent the difficulties the colored men have in  <lb/>getting out of this district.  They cannot go  <lb/>on a railroad, or get out of the district."</p>
+                
+                <p>Mr. <emph rend="smallcaps">Sumner's</emph> special reason for offering the <lb/>resolution was to call attention to the recent <lb/>expulsion of Dr. Augusta from the cars.</p>
+                
+                <p>Mr. <emph rend="smallcaps">Wilkinson</emph> (Minn.) hoped that the <choice><orig>Com-<lb/>mittee</orig><reg>Committee</reg></choice> on the District will see to it that no <choice><orig>cor-<lb/>poration</orig><reg>corporation</reg></choice> shall, hereafter, commit such an <choice><orig>out-<lb/>rage</orig><reg>outrage</reg></choice>.</p>
+                
+                <p>Mr. <emph rend="smallcaps">Hendricks</emph> (Ind., of course), thought the <lb/>outrage was the other way.  The company <lb/>have provided cars expressly for negroes.  The  <lb/>difficulty arose because this negro would not <lb/>take one of the cars, but claimed the right to <lb/>ride in one provided for white men and women.  <lb/>The Senator found himself in one of the colored <lb/>cars one day, and, as he thought himself an <choice><orig>in-<lb/>truder</orig><reg>intruder</reg></choice>, he got out.</p>
+                
+                <p>(We, certainly, must congratulate the <choice><orig>col-<lb/>ored</orig><reg>colored</reg></choice> people on the quiet removal of such an <choice><orig>as-<lb/>sociate</orig><reg>associate</reg></choice>, and can but <choice><sic>commisserate</sic><corr>commiserate</corr></choice> the honorable <lb/>Senators that they are compelled to endure the <lb/>society of such a fool.  Thank God that the  <lb/>time is rapidly approaching when no such <choice><orig>crea-<lb/>tures</orig><reg>creatures</reg></choice> will be permitted to find a place in that <lb/>august body.)</p>
+                
+                <p>Mr. <emph rend="smallcaps">Grimes</emph> (Iowa) said, <q>"I have found <choice><orig>my-<lb/>self</orig><reg>myself</reg></choice> in some of the cars, and I did press myself <lb/>upon their attention and rode with them, and I <lb/>did not consider myself disgraced by riding to <lb/>the Senate Chamber in a car with some colored <lb/>people."</q></p>
+                
+                <p>Mr. <emph rend="smallcaps">Sumner</emph>, after some eloquent remarks, <lb/>submitted the following letter:</p>
+                    <floatingText>
+                        <body>
+                            <opener>
+                                <dateline rend="right"><emph rend="smallcaps">Washington</emph>, D. C., <date when="1864-02-01">Feb. 1, 1864</date>.</dateline>
+                                <salute><emph rend="smallcaps">SIR</emph>:</salute>
+                            </opener>
+                            <p>I have the honor to report that I have <lb/>been obstructed in getting to the Court this <lb/>morning by the conductor of No. 32 of the <lb/>Fourteenth street line of the City railway.  I <lb/>started from my lodgings to go to the hospital <lb/>I formerly had charge of, to get some notes of <lb/>the case I was to give evidence in, and hailed <lb/>the car at the corner of Fourteenth and I <lb/>streets.  It was stopped for me, and when I <lb/>attempted to enter, the conductor pulled me <lb/>back, and informed me that I must ride on <lb/>front with the driver, as it was against the <lb/>rules of the company for colored persons to <lb/>ride inside.</p>
+                            
+                            <p>I told him I would not ride on front and he <lb/>said I should not ride at all.  He then ejected <lb/>me from the platform and at the same time <lb/>gave orders to the driver to go on.  I have <lb/>therefore been compelled to walk the distance <lb/>in the mud and rain, and have also been <choice><orig>delay-<lb/>ed</orig><reg>delayed</reg></choice> in my attendance upon the court.</p>
+                            
+                            <p>I therefore, most respectfully request, that <lb/>the offender may be arrested and brought to <lb/>punishment.</p>
+                            
+                            <closer>
+                                <salute>I remain, sir, your obedient servant,</salute>
+                                <signed>A. T. <emph rend="smallcaps">Augusta</emph>, B. M., <lb/>Surgeon Seventh U. S. Colored Troops.</signed><lb/>
+                                <address>
+                                    <addrLine>Capt. <emph rend="smallcaps">Clippington</emph>, Judge Advocate.</addrLine>
+                                </address>
+                            </closer>
+                        </body>
+                    </floatingText>
+                
+            
+            
+                <p>Mr. <emph rend="smallcaps">Sumner</emph> believed that the writer of that <lb/>letter has as much right in that car as the <choice><orig>Sen-<lb/>ator</orig><reg>Senator</reg></choice> from Indiana, and that the rejection of the <lb/>Senator from the car would bring as much <choice><orig>dis-<lb/>grace</orig><reg>disgrace</reg></choice> upon the Capital as the ejection of the <lb/>colored officer.</p>
+                
+                <p>Mr. <hi rend="smallcaps">WILSON</hi>, Massachusetts, said, it is a case <lb/>that I think calls for the action of Congress. <lb/>I know no right this company has to make <lb/>these distinctions here in the Capital where <lb/>all persons are free and equal before the law. <lb/>He also called attention to the fact that colored <lb/>men were compelled to ride in a cattle car on <lb/>the military railroad which lead to the "front."</p>
+                
+                <p>Messrs. <emph rend="smallcaps">Pomeroy, Wilson</emph> and <emph rend="smallcaps">Clark</emph>, stood <lb/>boldly by the cause of liberty, and the <choice><orig>resolu-<lb/>tion</orig><reg>resolution</reg></choice> was adopted by a vote of 30 to 10.</p>
+            </div>
+            
+            <div>
+                <head type="main" subtype="authorial" rend="center">PAY OF COLORED TROOPS.</head>
+                <p>On motion of Senator <emph rend="smallcaps">Wilson</emph>, the resolution <lb/>to equalize the pay of soldiers in the U. S. <lb/>army was taken up.</p>
+                
+                <p>The pending question being on the amendment <lb/>proposed by Mr. Conness (Cal.) in line nine af-<lb/>ter the words, "during the whole time in which <lb/>they shall be in such service," and to insert the <lb/>words, "from and after the passage of this <lb/>act;" so that the resolution will read:</p>
+                
+                <floatingText>
+                    <body>
+                        <p>That all persons of color who have been, or <lb/>may be mustered into the military service of <lb/>the United States shall receive the same <choice><orig>uni-<lb/>form</orig><reg>uniform</reg></choice>, clothing, arms, equipments, camp <choice><orig>equip-<lb/>age</orig><reg>equipage</reg></choice>, rations, medical and hospital attendance, <lb/>pay and emoluments, other than bounty, as <lb/>other soldiers of the regular or volunteer <choice><orig>for-<lb/>ces</orig><reg>forces</reg></choice> of the United States, of like arm of the <lb/>service, from and after the passage of this act; <lb/>and that every person who shall hereafter be <lb/>mustered into the service shall receive such <lb/>sums in bounty as the President shall order in <lb/>the different States and parts of States of the <lb/>United States, not exceeding $100.</p>
+                    </body>
+                </floatingText>
+                
+                <p>Mr. <emph rend="smallcaps">FOSTER</emph> (Conn.) opposed the amendment <lb/>and favored the original resolution, because <lb/>many of the colored troops had enlisted with <lb/>the understanding that they were to receive the <lb/>same pay as white soldiers.  This he knew to <lb/>be the case in South Carolina, for instructions <lb/>to that effect had been received by Gen. <choice><orig>Sax-<lb/>ton</orig><reg>Saxton</reg></choice> from the War Office.</p>
+                
+                <p>Mr. Fessenden (Maine) favored the <choice><orig>amend-<lb/>ment.</orig><reg>amendment</reg></choice></p>
+                
+                <p>Mr. Sumner, after complimenting Mr. Foster, <lb/>struck some powerful blows in behalf of the <lb/>colored troops, as did also, Mr. Wilson.</p>
+                
+                <p>After a few words from Messrs. Doolittle and <lb/>Conness, the subject was laid over.</p>
+            </div>
+            
+            <div>
+                <head type="main" subtype="authorial" rend="center">HOUSE OF REPRESENTATIVES.</head>
+                <p>The bill for the establishment of a <hi rend="smallcaps">Bureau of <lb/>Freedmen's Affairs</hi> was read extenso, and was <lb/>supported in an elaborate speech by Mr. Eliot, <lb/>of Massachusetts.  We regret that we cannot <lb/>publish his remarks in full, but our readers will <lb/>be treated in our next with a few extracts.</p>
+            </div>
+            <closer>
+                <dateline>Washington, Feb. 10, 1864.</dateline>
+                <signed rend="right">R. H.</signed>
+            </closer>
+            
+        </body>
+    </text>
+</TEI>
+

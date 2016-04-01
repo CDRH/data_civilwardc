@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d2e10788">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Bidlingmaier, J.</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+    <idno>med.d2e10788</idno>
+    <authority>Civil War Washington</authority>
+    <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor><name>Center for Digital Research in the
+     Humanities</name><address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address></distributor>
+    <date>2011</date>
+    <availability>
+     <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+      republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+      law, requires express written consent from the editors and advance notification of the
+      publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+ <persName xml:id="kmp">Kenneth M. Price</persName> 
+     <persName xml:id="ajh">AJ Howell</persName>
+     <persName xml:id="mb">Matthew Bosley</persName>
+     <persName xml:id="el">Elizabeth Lorang</persName>
+     <persName xml:id="sb">Stacey Berry</persName>
+     <persName xml:id="et">Elisabeth Tracey</persName>
+     <persName xml:id="ss">Sarah Synovec</persName>
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title level="j">The Medical and Surgical History of the War of the Rebellion.
+      (1861-65.)</title><pubPlace>Washington, DC</pubPlace><publisher>Government Printing
+      Office</publisher><biblScope type="part">Part 3</biblScope><biblScope type="volume">Volume
+      2</biblScope><date when="1883">1883</date><biblScope type="page">225</biblScope></bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+     <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <keywords scheme="#medsurg">
+     <term>wounds and injuries of the lower extremities</term>
+     <term>injuries of the shaft of the femur</term>
+     <term>amputations in the shaft of the femur</term>
+     <term>primary amputations in the shaft of the femur for shot injury</term>
+     <term>primary amputations in the middle third of the femur</term>
+     <term>recoveries after primary amputation in the middle third of the femur</term>
+     <term>shaft badly comminuted by a conoidal ball</term>
+     <term>shot fracture of thigh, followed by amputation</term>
+     <term>amputation of thigh at middle third</term>
+     <term>died of marasmus</term>
+     <term>supplied with artificial limb</term>
+     <term>splintered bone remained in stump, abscesses frequently formed</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+ <change who="#kmp" when="2014-05">blessed</change>
+   <change who="#ajh" when="2013-08-22">added figure encoding</change>
+   <change who="#mb" when="2012-05-10">additional proofing of transcription and encoding, identified
+    keyword terms</change>
+   <change who="#el" when="2011-05-11">case text extracted and transformed from larger file</change>
+   <change who="#sb" when="2011-06-04">Enrich Encoding, Edit and validate</change>
+   <change who="#sb" when="2011-01-28">Validated File</change>
+   <change who="#ss" when="2008-09-22">initial checking of OCR text; encoded P5 Encoding</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+
+   <p><hi rend="initialcap">C</hi>ASE 438.&#8212;<name type="person" key="1072">Corporal J.
+     Bidlingmaier</name>, <name type="organization" key="393">Co. H, 73d New York</name>, aged 46
+    years, was wounded before <name type="BATTLE" key="xx">Petersburg</name>, <date type="injury"
+     when="1864-09-11">September 11, 1864</date>. <name type="person" key="xx">Surgeon O.
+     Everts</name>, <name type="organization" key="211">20th Indiana</name>, noted his admission to
+    the field hospital of the 3d division, Second Corps, with "shot fracture of thigh, followed by
+    amputation." From the field the wounded man was transferred to the depot hospital at <name
+     type="place">City Point</name>, and thence, on <date type="transfer" when="1864-10-08">October
+     8th</date>, to <name type="place" key="#Washington">Washington</name>. <name type="person"
+     key="243">Assistant Surgeon J. C. McKee</name>, <name type="organization" key="190">U. S.
+     A.</name>, reported his entrance into <name type="hospital" key="176">Lincoln Hospital</name>,
+    with "antero-posterior flap amputation of the right thigh at the middle third," also that he was
+    furloughed <date type="furlough" when="1864-12-09">December 9th</date>. The patient subsequently
+    entered <name type="hospital" key="428">Judiciary Square Hospital</name>, and on <date
+     type="servicedischarge" when="1865-05-06">May 6, 1865</date>, he was discharged from service,
+    having been previously supplied with an artificial limb by the <name type="organization"
+     key="450">Jewett Patent Leg Co.</name>, of <name type="place" key="#Washington">Washington, D.
+     C.</name> He was a pensioner until <date type="death" when="1871-06-16">June 16, 1871</date>,
+    when he died of marasmus, his attending physician certifying that "it was evident that some
+    portion of the splintered bone remained in the stump, as abscesses frequently formed thereon and
+    copious discharges ensued;" also that the disease, as a consequence, first became apparent about
+     <date type="injury" when="1871-04-01">the first of April, 1871</date>. The amputated portion of
+    the femur, represented in the wood-cut (<hi rend="initialcap">F</hi>IG. 178), was contributed by
+     <name type="person" key="1073">Surgeon D. S. Hays</name>, <name type="organization" key="141"
+     >110th Pennsylvania</name>, who performed the operation. The specimen shows that the shaft was
+    badly comminuted by a conoidal ball, which flattened, in a mushroom shape, against the anterior
+    surface in the lowest third.</p>
+   <figure>
+    <graphic url="cww.001581.001"/>
+    <head><hi rend="initialcap">F</hi>IG. 178&#8212;Comminuted lower half of right femur. <hi
+      rend="italic">Spec</hi>. 4120.</head>
+   </figure>
+
+
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d2e25599">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Schofield, R.</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+    <idno>med.d2e25599</idno>
+    <authority>Civil War Washington</authority>
+    <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor><name>Center for Digital Research in the
+     Humanities</name><address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address></distributor>
+    <date>2011</date>
+    <availability>
+     <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+      republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+      law, requires express written consent from the editors and advance notification of the
+      publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+ <persName xml:id="kw">Kenneth Winkle</persName> <persName xml:id="ajh">AJ Howell</persName>
+     <persName xml:id="mb">Matthew Bosley</persName>
+     <persName xml:id="el">Elizabeth Lorang</persName>
+     <persName xml:id="sb">Stacey Berry</persName>
+     <persName xml:id="et">Elisabeth Tracey</persName>
+     <persName xml:id="ss">Sarah Synovec</persName>
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title level="j">The Medical and Surgical History of the War of the Rebellion.
+      (1861-65.)</title><pubPlace>Washington, DC</pubPlace><publisher>Government Printing
+      Office</publisher><biblScope type="part">Part 3</biblScope><biblScope type="volume">Volume
+      2</biblScope><date when="1883">1883</date><biblScope type="page">678-679</biblScope></bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+     <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <keywords scheme="#medsurg">
+     <term>miscellaneous injuries</term>
+     <term>operations for miscellaneous injuries</term>
+     <term>amputations</term>
+     <term>amputations in the lower extremities</term>
+     <term>amputations of the toes</term>
+     <term>dry gangrene</term>
+     <term>both feet frost-bitten</term>
+     <term>tent blown down during night, only feet exposed</term>
+     <term>dry gangrene of toes of both feet, extending to metatarsal bones of left foot</term>
+     <term>advisable to disarticulate toes</term>
+     <term>toes of right foot amputated through metatarso-phalangeal articulation except little
+      toe</term>
+     <term>toes of left foot amputated at tarso-metatarsal articulation</term>
+     <term>hyper&#230;sthesia of foot and stump</term>
+     <term>chronic ulcers of leg extending from ankle to below knee</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+ <change who="#kw" when="2014-05">blessed</change>
+   <change who="#ajh" when="2013-08-23">added figure encoding</change>
+   <change who="#mb" when="2012-06-21">additional proofing of transcription and encoding, identified
+    keyword terms</change>
+   <change who="#el" when="2011-05-11">case text extracted and transformed from larger file</change>
+   <change who="#sb" when="2011-06-04">Enrich Encoding, Edit and validate</change>
+   <change who="#sb" when="2011-01-28">Validated File</change>
+   <change who="#ss" when="2008-09-22">initial checking of OCR text; encoded P5 Encoding</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p><hi rend="initialcap">C</hi>ASE 1005.&#8212;<hi rend="italic">Amputation of
+     toes.</hi>&#8212;<name type="person" key="1451">Hospital Steward R. Schofield</name>. <name
+     type="organization" key="502">69th Pennsylvania</name>, aged 49 years, had both his feet
+    frost-bitten while with his regiment in the field near <name type="place">Stevensburg</name>,
+     <date type="injury" when="1864-01-01">January 1, 1864</date>. <name type="person" key="158"
+     >Surgeon R. B. Bontecou</name>, <name type="organization" key="132">U. S. V.</name>, in charge
+    of <name type="hospital" key="173">Harewood Hospital</name>, Washington, gives the following
+    history: "The patient was a man of temperate habits and of good constitution. The tent in which
+    he was sleeping in the field was blown down during the night, when his feet became exposed, the
+    other parts of his body remaining well protected. Although the weather was intensely cold, he
+    slept well during the night, and on waking up in the morning found the forepart of both his feet
+    frozen. He received no treatment until admitted to <name type="hospital" key="173">this
+     hospital</name> on <date type="admit" when="1864-02-01">February 1st</date>. At the time of his
+    admission the patient was found to be suffering from dry gangrene of the toes of both feet,
+    resulting from the freezing, and extending to the metatarsal bones of the left foot, with
+    destruction of the soft parts. The patient was in good spirits, and although he was doing well
+    it was deemed advisable to disarticulate the toes. Nourishing diet and stimulants were
+    administered and simple dressings were used." The amputated toes, contributed to <name
+     type="hospital" key="431">the Museum</name> with the description of the case by <name
+     type="person" key="158">Surgeon Bontecou</name>, constitute specimen 2163 of the <hi
+     rend="italic">Surgical Section</hi>, and a representation of the diseased feet appears in the
+    adjoining wood-cut (<hi rend="initialcap">F</hi>IG. 372). The patient was discharged from
+    service for disability <date type="servicedischarge" when="1865-01-27">January 27, 1865</date>,
+    and pensioned. The <name type="organization" key="xx">Philadelphia Examining Board</name> on
+     <date type="pension" when="1877-11-07">November 7, 1877</date>, certified to the pensioner's
+    condition as follows: "He has had all the toes of the right foot amputated through the
+    metatarso-phalangeal articulation except the little toe, which is drawn into the cicatrix. The
+    foot is defective in circulation and there are chronic ulcers of the leg extending from the
+    ankle to within four and a half inches below the knee, being very offensive and requiring
+    constant care and attention. This condition no doubt is due to an&#230;sthesia of the foot and
+    leg. The cicatrices extend around the leg and are constantly sealing. There is also varix above
+    to a slight extent. The toes of the left foot were amputated at the tarso-metatarsal
+    articulation, the stump showing a good horny cicatrix; hyper&#230;sthesia of foot or stump;
+    atrophy of leg; stump alleged to be painful during changes of weather," etc. The pensioner was
+    paid <date type="pension" when="1881-09-04">September 4, 1881</date>.</p>
+   <figure>
+    <graphic url="cww.001670.001"/>
+    <head><hi rend="initialcap">F</hi>IG. 372.&#8212;Dry gangrene of both feet after frostbite. <hi
+      rend="italic">Spec</hi>. 2163.</head>
+   </figure>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d2e942">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Haggerty, J. C.</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+    <idno>med.d2e942</idno>
+    <authority>Civil War Washington</authority>
+    <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor><name>Center for Digital Research in the
+     Humanities</name><address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address></distributor>
+    <date>2011</date>
+    <availability>
+     <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+      republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+      law, requires express written consent from the editors and advance notification of the
+      publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+     <persName xml:id="mb">Matthew Bosley</persName>
+     <persName xml:id="el">Elizabeth Lorang</persName>
+     <persName xml:id="sb">Stacey Berry</persName>
+     <persName xml:id="et">Elisabeth Tracey</persName>
+     <persName xml:id="ss">Sarah Synovec</persName>
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title level="j">The Medical and Surgical History of the War of the Rebellion.
+      (1861-65.)</title><pubPlace>Washington, DC</pubPlace><publisher>Government Printing
+      Office</publisher><biblScope type="part">Part 3</biblScope><biblScope type="volume">Volume
+      2</biblScope><date when="1883">1883</date><biblScope type="page">19-20</biblScope></bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+     <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <keywords scheme="#medsurg">
+     <term>wounds and injuries of the lower extremities</term>                                                                 
+     <term>flesh wounds of the lower extremities</term>
+     <term>shot flesh wounds</term>
+     <term>flesh wounds of the lower limbs unattended by primary injury of the large nerves or blood-vessels</term>
+     <term>shot lacerations of the soft parts</term>
+     <term>shot wound of thigh</term> 
+     <term>ball struck silver coin in pocket of trousers, deflected from femoral vessels</term>
+     <term>fragments of pocket-book driven into tissues</term> 
+     <term>deep abscesses incised</term>
+     <term>laceration driving into soft parts hard objects carried in pockets</term>
+     <term>adhesions of skin, fascia, and muscles of thigh</term>
+     <term>lame, foot everted</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change who="#mb" when="2012-02-01">additional proofing of transcription and encoding</change>   
+   <change who="#el" when="2011-05-11">case text extracted and transformed from larger file</change>
+   <change who="#sb" when="2011-06-04">Enrich Encoding, Edit and validate</change>
+   <change who="#sb" when="2011-01-28">Validated File</change>
+   <change who="#ss" when="2008-09-22">Sarah Synovec initial checking of OCR text; encoded
+    P5 Encoding</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   
+    <p>  <hi rend="initialcap">C</hi>ASE 31.&#8212;<name type="person" key="881">Private J. C.
+      Haggerty</name>, <name type="organization" key="383">Co. I, 124th New York</name>, aged 21
+     years, was wounded at <name type="BATTLE" key="257">Chancellorsville</name>, <date
+      type="injury" when="1863-05-03">May 3, 1863</date>. <name type="person" key="xx">Surgeon J. S.
+       Jamison</name>, <name type="organization" key="329">86th New York</name>, noted a &#34;shot wound
+     of the right thigh.&#34; The patient passed from a Third Corps hospital to <name type="hospital" key="214">Fairfax Seminary</name>, and thence to <name type="hospital" key="xx">Satterlee Hospital</name>, when
+     <name type="person" key="xx">Acting Assistant Surgeon I. Roberts</name> reported the case as
+     interesting, inasmuch as the ball struck a silver coin in the right pocket of the man's
+     trousers and was thus deflected from the track of the femoral vessels; but passed through the
+     soft parts, driving fragments of the pocket-book into the tissues, and escaping at the gluteal
+     fold. The wound progressed favorably for a time, but, about <date type="injury" when="1863-07-20">July 20th</date>, deep abscesses formed,
+     and there was some sloughing at the aperture of entrance and exit. The abscesses were incised,
+     and several fragments of the pocket-book came away with the pus. There was so much
+     constitutional irritation that quinia and stimulants were freely exhibited. The wound healed
+     about the <date type="duty" when="1863-12">middle of December</date>, and the man was transferred to the <name type="organization"
+      key="109">Veteran Reserves</name>. He was quite lame, and the right foot was much everted. He
+     was discharged <date type="servicedischarge" when="1864-10-07">October 7, 1864</date>, and pensioned.
+     <name type="person" key="874">Examiner J. Nichols</name>, of <name type="place" key="#Washington">Washington</name>, certified: &#34;Ball
+     entered anterior aspect of upper third of right thigh, passing directly through, and inflicting
+     a frightful flesh-wound. Bone uninjured; cicatrix very deep and adherent to all the soft parts
+     below, nearly to the bone, rendering free motion of the limb impossible, and, if much used, very painful.&#34; <name
+      type="person" key="xx">Examiner J. Gordon</name>, of <name type="place">Newburgh, New York</name>, reported, <date type="pension" when="1876-02-28">February 28, 1876</date>:  &#42;  &#42;  &#34;There remains a large umbilicated
+     cavity, with adhesions of skin, fascia, and muscles. He suffers more particularly from distress
+     in the leg, extending in part to the foot, accompanied, before atmospheric changes, with
+     shooting, darting pains,  &#42;  &#42;  so severe at times as to unfit him for manual labor.&#34; This
+     pensioner was paid <date type="pension" when="1876-06-04">June 4, 1876</date>.</p>
+   
+  </body>
+ </text>
+</TEI>

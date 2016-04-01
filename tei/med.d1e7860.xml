@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e7860">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Moore, J. C.</title>
+                <title level="m" type="sub">a machine readable transcription</title>
+                <principal>Susan C. Lawrence</principal>
+                <principal>Kenneth M. Price</principal>
+                <principal>Kenneth J. Winkle</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2011</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <idno>med.d1e7860</idno>
+                <authority>Civil War Washington</authority>
+                <publisher>University of Nebraska–Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+                </distributor>
+                <date>2011</date>
+                <availability>
+                    <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved.
+                        Redistribution or republication in any medium, except as allowed under the
+                        Fair Use provisions of U.S. copyright law, requires express written consent
+                        from the editors and advance notification of the publisher, the University
+                        of Nebraska–Lincoln.</p>
+                </availability>
+            </publicationStmt>
+            <notesStmt>
+                <note type="project">The following are responsible for particular readings or for changes to this file, as noted: 
+                    <persName xml:id="mb">Matthew Bosley</persName>                    
+                    <persName xml:id="el">Elizabeth Lorang</persName>
+                    <persName xml:id="sb">Stacey Berry</persName>
+                    <persName xml:id="et">Elisabeth Tracey</persName>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>The Medical and Surgical History of the War of the Rebellion. (1861&#8211;65.)</title>
+                    <editor role="compiler">Surgeon General Joseph K. Barnes, United States Army</editor>
+                    <pubPlace>Washington, D.C.</pubPlace>
+                    <publisher>Government Printing Office</publisher>
+                    <biblScope type="part">Part 1</biblScope>
+                    <biblScope type="volume">Volume 2</biblScope>
+                    <date when="1870">1870</date>
+                    <biblScope type="page">116</biblScope>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <classDecl>
+                <taxonomy xml:id="medsurg">
+                    <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme="#medsurg">                    
+                    <term>on special wounds and injuries of the head</term>
+                    <term>wounds and injuries of the head</term>
+                    <term>gunshot wounds</term>
+                    <term>gunshot contusions of the cranial bones</term> 
+                    <term>contusion of the skull without fracture</term>
+                    <term>loss or impairment of vision</term>
+                    <term>wound of frontal region by conoidal musket ball, scraped bone</term>
+                    <term>eyesight much impaired, giddiness, and headache</term>
+                    <term>disabilities permanent</term>                    
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change who="#mb" when="2013-06-07">additional proofing of transcription and encoding, edited and added keyword terms</change>
+            <change who="#mb" when="2011-06-20">additional proofing of transcription and encoding</change>
+            <change who="#el" when="2011-11-05">case text extracted and transformed from larger file</change>
+            <change who="#sb" when="2011-02-09">enriched encoding</change>
+            <change who="#sb" when="2011-01-28">validated file</change>
+            <change who="#et" when="2009-08-01">encoded</change>
+            <change who="#sb" when="2008-09-22">initial checking of OCR text against PDF; encoded</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body xml:id="ch1.sc3.0105">            
+                <p><name type="person" key="436"><hi rend="initialcap">M</hi>OORE, <hi
+                            rend="initialcap">J</hi>. <hi rend="initialcap">C</hi>.</name>,
+                    Sergeant, <name type="organization" key="182">Co. H, 99th Pennsylvania
+                        Volunteers</name>, aged 37 years, received, at the battle of <name type="BATTLE"
+                            key="259">the Wilderness, Virginia</name>, <date type="injury"
+                        when="1864-05-05">May 5th, 1864</date>, a wound of the frontal region by a
+                    conoidal musket ball, which scraped the bone.  He was admitted into the field
+                    hospital of the 3d division, Second Army Corps, and, a few days later, sent to
+                    <name type="place" key="#Washington">Washington</name>, and admitted, on <date type="transfer" when="1864-05-11">May
+                        11th</date>, into the <name type="hospital" key="152">Finley
+                            Hospital</name>. Simple dressings.  The patient was transferred to <name type="place">Philadelphia</name>
+                    on <date type="transfer" when="1864-05-18">May 18th</date>, and was admitted
+                    into the South Street Hospital.  On <date type="transfer" when="1865-05-16">May
+                        16th, 1865</date>, he was sent to the <name type="hospital">Summit House Hospital</name>, and, on <date
+                        type="servicedischarge" when="1865-07-05">July 5th, 1865</date>, he was
+                    discharged from the service.  The case is reported by <name type="person"
+                        key="434">Surgeon S. J. Y. Mintzer</name>, <name type="organization"
+                        key="132">U. S. V.</name>  He was pensioned <date type="pension"
+                        when="1865-07-06">July 6th, 1865</date>, and, in <date type="pension"
+                        when="1867-05">May, 1867</date>, <name type="person" key="435">Pension
+                        Examiner T. B. Read</name> reported that his eyesight was much impaired, and
+                    that he suffered from giddiness and headache, and he thought the pensioner's
+                    disabilities permanent, though some amelioration might be anticipated. </p>            
+        </body>
+    </text>
+</TEI>

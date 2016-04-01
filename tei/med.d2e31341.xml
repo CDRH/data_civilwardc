@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d2e31341">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Allen, J.</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+       <idno>med.d2e31341</idno>
+       <authority>Civil War Washington</authority>
+       <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor>
+       <name>Center for Digital Research in the Humanities</name>
+       <address><addrLine>319 Love Library</addrLine>
+       <addrLine>University of Nebraska–Lincoln</addrLine>
+       <addrLine>Lincoln, NE 68588-4100</addrLine>
+       <addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+    </distributor>
+    <date>2011</date>
+    <availability>
+        <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+         republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+         law, requires express written consent from the editors and advance notification of the
+         publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+ <persName xml:id="kmp">Kenneth M. Price</persName> 
+     <persName xml:id="mb">Matthew Bosley</persName>
+     <persName xml:id="hf">Heather Furrow</persName> 
+     <persName xml:id="kk">Kourtney Klein</persName>
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl>
+     <title level="j">The Medical and Surgical History of the War of the Rebellion. (1861-65.)</title>
+     <pubPlace>Washington, DC</pubPlace>
+     <publisher>Government Printing Office</publisher>
+     <biblScope type="part">Part 2</biblScope>
+     <biblScope type="volume">Volume 2</biblScope>
+     <date when="1876">1876</date>
+     <biblScope type="page">862</biblScope>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+       <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+      <keywords scheme="#medsurg">
+       <term>wounds and injuries of the upper extremities</term>
+       <term>wounds and injuries of the elbow joint</term> 
+       <term>shot wounds of the elbow joint</term>
+       <term>excisions at the elbow joint for shot injury</term> 
+       <term>primary excisions at the elbow</term>
+       <term>fatal cases after primary excision at the elbow</term>
+       <term>gunshot fracture of arm</term> 
+       <term>bullet entered immediately over external condyle of humerus, fractured condyle and opened elbow joint</term>
+       <term>portion of condyle removed, loose fragments taken out, ball remains in arm</term>
+       <term>free incisions from time to time to evacuate pus</term>
+       <term>excision at elbow joint</term>       
+       <term>general anesthesia, ether</term>
+     </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+ <change who="#kmp" when="2014-05">blessed</change>
+   <change who="#kk" when="2014-01-17">added figure encoding</change>
+   <change who="#mb" when="2012-07-18">additional proofing of transcription and encoding, identified keyword terms</change>
+   <change who="#hf" when="2011-02-23">checked OCR; added minimal mark-up for personal names, place names, and dates</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>   
+   <p><hi rend="initialcap">C</hi>ASE 1791.&#8212;<name type="person" key="xxx">Private J. Allen</name>, <name type="organization" key="xxx">Co. G, 9th New York Cavalry</name>, was wounded in engagement at the <name type="battle" key="xxx">Rapidan River</name>, <date type="injury" when="1863-09-14">September 14, 1863</date>. <name type="person" key="xxx">Surgeon W. H. Rulison</name>, <name type="organization" key="xxx">9th New York Cavalry</name>, recorded his admission at the field hospital of the 1st division, Cavalry Corps, with: &#34;Gunshot fracture of left arm.&#34;  On <date type="transfer" when="1863-09-15">the following day</date> the wounded man entered <name type="hospital" key="171">Armory Square Hospital</name> at Washington, where <name type="person" key="123">Surgeon D. W. Bliss</name>, <name type="organization" key="132">U. S. V.</name>, in charge, performed excision at the elbow joint. The details of the case he reported as follows: &#34;The patient was wounded by a pistol bullet entering immediately over the external condyle of the left humerus, fracturing the condyle, passing downward, and opening the elbow joint.  He was admitted to the hospital on <date type="transfer" when="1863-09-15">September 15th</date>, and a portion of the condyle removed by the chain saw, and several loose fragments taken out, the incision through the muscles being of an S-shape; patient under ether. The ball remains in the arm. After the operation cold water was applied continuously, and opiates given when necessary to relieve pain. The whole arm became greatly swollen the ensuing day, yet not very painful; tongue moist; pulse full and regular; appetite tolerably good; wound secreting healthy pus. He was, however, unable to void his urine, which was drawn off by the catheter&#8212;an operation which had to be frequently repeated during his illness.  On the 18th, cold water as an application to the arm was omitted as it appeared to increase the pain, and warm-water dressing was substituted. The latter was also discontinued for a like reason, and from that time onward the limb was kept wet with a lotion composed of acetate of lead one drachm, pulverized opium half a drachm, and water one pint, and the wound itself with a solution of permanganate of potassa one-half drachm in one pint of water.  From the 16th his symptoms became more unfavorable, having daily two and sometimes three rigors, followed by increased heat of body and profuse sweats.  On the 26th, wound secreting a greenish and very offensive pus; pulse frequent and sometimes intermittent; skin dry; conjunctiva yellow; tongue dry with brown fur in centre; no appetite; urine of dark amber color; bowels constipated. The bowels were opened by podophyllum half a grain, and extract of colocynth eight grains. Sulphate of quinine was given daily, as it had been from the commencement of the rigors, and opium also to relieve pain; sweet spirit of nitre and spirit of mindererus in proper doses when the skin was hot and dry. Milk punch and beef essence were freely administered, and every proper article of diet which he imagined he could eat, such as chicken, chicken broth, &#38;c., was procured and given to him. Free incisions were made from time to time to evacuate pus, which unavoidably found its way beneath the muscles of the arm.  On the 30th h&#230;morrhage occurred, which was, however, readily controlled by pressure. He continued to sink hourly, and died at 10&#189; o'clock A. M., <date type="death" when="1863-10-01">October 1, 1863</date>.&#34;  The specimen, represented in the annexed cut (<hi rend="initialcap">F</hi>IG. 614), consists of six fragments, embracing the outer condyle and the adjoining portion of the left humerus. It was contributed by <name type="person" key="123">the operator</name>.</p>  
+   
+   <figure>
+    <graphic url="cww.001735.001" />
+    <head><hi rend="initialcap">F</hi>IG. 614.&#8212;Fragments of the outer condyle and portion of the left humerus removed for shot injury.     <hi rend="italic">Spec</hi>. 1729.</head>
+   </figure>
+   
+  </body>
+ </text>
+</TEI>

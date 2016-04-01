@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d2e31192">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Baldock, L.</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+       <idno>med.d2e31192</idno>
+       <authority>Civil War Washington</authority>
+       <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor>
+       <name>Center for Digital Research in the Humanities</name>
+       <address><addrLine>319 Love Library</addrLine>
+       <addrLine>University of Nebraska–Lincoln</addrLine>
+       <addrLine>Lincoln, NE 68588-4100</addrLine>
+       <addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+    </distributor>
+    <date>2011</date>
+    <availability>
+        <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+         republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+         law, requires express written consent from the editors and advance notification of the
+         publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+ <persName xml:id="kmp">Kenneth M. Price</persName> 
+     <persName xml:id="el">Elizabeth Lorang</persName>
+     <persName xml:id="mb">Matthew Bosley</persName>
+     <persName xml:id="ee">Emily Edwards</persName> 
+     <persName xml:id="kk">Kourtney Klein</persName>
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl>
+     <title level="j">The Medical and Surgical History of the War of the Rebellion. (1861-65.)</title>
+     <pubPlace>Washington, DC</pubPlace>
+     <publisher>Government Printing Office</publisher>
+     <biblScope type="part">Part 2</biblScope>
+     <biblScope type="volume">Volume 2</biblScope>
+     <date when="1876">1876</date>
+     <biblScope type="page">563</biblScope>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+       <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+      <keywords scheme="#medsurg">
+       <term>wounds and injuries of the upper extremities</term>
+       <term>wounds of the shoulder joint</term>
+       <term>excisions at the shoulder</term> 
+       <term>excisions of the head and portions of the shaft of the humerus</term>
+       <term>primary excisions of the upper extremity of the humerus for shot injury</term> 
+       <term>successful operations</term>
+       <term>ball passed through deltoid muscle, struck humerus at surgical neck, passed through head of bone, struck bony wall of chest, found lodged beneath integuments of chest</term>
+       <term>resection performed, head of humerus disarticulated, shaft sawn through below acromion process of scapula, to which fractures extended</term>  
+       <term>end of humerus three inches from glenoid cavity</term>
+       <term>movements of forearm and hand unimpaired</term>
+       <term>general anesthesia, chloroform</term>
+     </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+ <change who="#kmp" when="2014-05">blessed</change>
+   <change who="#el" when="2014-07-03">added page number to sourceDesc</change>
+   <change who="#kk" when="2014-01-17">added figure encoding</change>
+   <change who="#mb" when="2012-07-12">additional proofing of transcription and encoding, identified keyword terms</change>
+   <change who="#ee" when="2011-02-23">checked OCR; added minimal mark-up for personal names, place names, and dates</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>   
+   <p><hi rend="initialcap">C</hi>ASE 1536.&#8212;<name type="person" key="xxx">Private L. Baldock</name>, <name type="organization" key="xxx">Co. A, 110th Ohio</name>, aged 30 years, was wounded at <name type="BATTLE" key="16">Cold Harbor</name>, <date type="injury" when="1864-06-03">June 3, 1864</date>.  <name type="person" key="xxx">Surgeon William M. Houston</name>, <name type="organization" key="xxx">122d Ohio</name>, reported that: &#34;A conoidal musket ball passed through the left deltoid muscle and striking the humerus at its surgical neck, a little anterior to the centre, passing slightly upward through the head of the bone struck the bony wall of the chest, glanced downward, and was found lodged beneath the integuments, about half way down the side of the chest. The patient was <date type="admit" when="1864-06-03"><date type="operation" when="1864-06-03">immediately</date></date> conveyed from the field to the hospital of the Third Division, Sixth Corps, and having been an&#230;sthetized with chloroform, <name type="person" key="xxx">Surgeon W. M. Houston</name>, <name type="organization" key="xxx">122d Ohio</name>, assisted by <name type="person" key="xxx">Surgeon Robert Barr</name>, <name type="organization" key="xxx">67th Pennsylvania</name>, performed resection. A straight incision, about five inches long, was made, passing through the wound of entrance; the head of the humerus was disarticulated, and, by means of a chain saw, the shaft was sawn through at a point about four inches below the acromion process of the scapula, to which point the fractures extended. There was considerable blood lost, but no vessels were ligated. The patient reacted favorably. The wound was approximated with adhesive strips, and simple dressings were applied. On <date type="transfer" when="1864-06-04">the succeeding day</date>, he was conveyed in an ambulance wagon to <name type="place">White House Landing</name>, and from thence to hospital in <name type="place" key="#Washington">Washington</name>, where he remained until <date type="furlough" when="1864-08-14">August 17th</date>, when he received a furlough for sixty days, and proceeded to his home, at <name type="place">Piqua, Ohio</name>.  <date type="admit" when="1864-10">At the expiration of his furlough</date>, he went to <name type="place">Columbus</name>, where be remained until <date type="transfer" when="1864-03-07">March 7, 1865</date>, when he was transferred to hospital at <name type="place">Camp Dennison</name>.  He was discharged <date type="servicedischarge" when="1865-04-14">April 14, 1865</date>. The wound was entirely healed in eight months, reparation having been somewhat delayed in consequence of neglect and exposure after leaving hospital at <name type="place" key="#Washington">Washington</name>.  At this date (November 30, 1869), <name type="person" key="xxx">Baldock</name> enjoys good health, but complains, occasionally, of pain in the shoulder and elbow. The sawn end of the humerus is about three inches from the centre of the glenoid cavity. The movements of the forearm and hand are unimpaired. He can apply his fingers to the top of the corresponding shoulder, and by inclining his head can touch any part of his face or head. He can carry an ordinary pail full of water with the injured member, and finds it very useful in hoeing and other light work.&#34;  Together with this report, <name type="person" key="xxx">Dr. Houston</name> forwarded to <name type="hospital" key="431">the Museum</name> the excised portion of the humerus, which is represented in the wood-cut (<hi rend="initialcap">F</hi>IG. 433).  On <date type="photo" when="1865-06-25">June 25, 1865</date>, <name type="person" key="xxx">Examiner Samuel S. Gray</name>, of <name type="place">Piqua</name>, forwarded the photograph represented in the wood-cut (<hi rend="initialcap">F</hi>IG. 434) to <name type="hospital" key="431">the Museum</name>, and a second photograph, showing another aspect of the cicatrix. Both of these photographs are mounted with the specimen.</p>
+   
+   <figure>
+    <graphic url="cww.001716.001" />
+    <head><hi rend="initialcap">F</hi>IG. 433.&#8212;Excised upper extremity of the left humerus after shot fracture.    <hi rend="italic">Spec</hi>. 5655.</head>
+   </figure>
+   
+   <figure>
+    <graphic url="cww.001717.001" />
+    <head><hi rend="initialcap">F</hi>IG. 434.&#8212;Cicatrix after an excision at the shoulder.    [From a photograph.]</head>
+   </figure>
+   
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="cww.00042">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="m" type="main">Petition of Marinus Willett, 6 May 1862</title>
+            <title level="m" type="sub">a machine readable transcription</title>
+            <principal>Susan C. Lawrence</principal>
+            <principal>Kenneth M. Price</principal>
+            <principal>Kenneth J. Winkle</principal>
+            <respStmt>
+               <resp>transcription and encoding</resp>
+<name xml:id="kjw">Kenneth J. Winkle</name>
+               <name xml:id="bj">Brittany Jones</name>
+               <name xml:id="nnk">Nima Najafi Kianfar</name>
+                <name xml:id="jc">Janel Cayer</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2013</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <idno>cww.00042</idno>
+            <distributor>Civil War Washington</distributor>
+            <publisher>University of Nebraska–Lincoln</publisher>
+            <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>P.O. Box 884100</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+            </address>
+            <date>2013</date>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+                  <p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License (http://creativecommons.org/licenses/by-nc-sa/3.0/). Derivatives must be credited to Civil War Washington, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+               </licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Petition of Marinus Willett, 6 May 1862</title>
+               <date when="1862-05-06">May 6, 1862</date>
+               <idno>Microcopy 520, Reel 2</idno>
+               <orgName>National Archives and Records Administration</orgName>
+               <relatedItem type="original">
+                  <bibl>
+                     <title>Petition of Marinus Willett, 6 May 1862</title>
+                     <date when="1862-05-06">May 6, 1862</date>
+                     <idno>Record Group 217.6.5</idno>
+                     <orgName>Records of the Accounting Officers of the Department of the Treasury, 1775–1978, National Archives and Records Administration</orgName>
+                     <note type="project">Within the National Archives' Archival Description Catalog, see ARC Identifier 4644616 / MLR Number A1 347 (http://arcweb.archives.gov).</note>
+                  </bibl>
+               </relatedItem>
+               <note type="project">Our transcription is based on a digital image of a microfilm copy of the original.</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <particDesc>
+            <person role="petitioner">
+               <persName>Marinus Willett</persName>
+            </person>
+            <person role="jp">
+               <persName>William R. Woodward</persName>
+            </person>
+         </particDesc>
+      </profileDesc>
+      <revisionDesc>
+          <change when="2013-08-13" who="#jc">revised values @facs</change>
+<change when="2013-01-10" who="#jc">blessed</change>
+<change when="2013-01-09" who="#kjw">blessed</change>
+<change when="2012-12-26" who="#jc">updated tei header; fixed values for @facs as necessary; automated checking across files for extra spaces in elements and other encoding inconsistencies and for regular transcription errors</change> 
+         <change when="2012-11-20" who="#nnk">proofed</change>
+         <change when="2012-01-13" who="#bj">transcribed, encoded</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+        <body>
+            <pb xml:id="leaf001r" facs="cww.00042.002.jpg"/>
+
+            <div1 type="petition" subtype="handwritten">
+                <p>To the Commissioners under the act of Congress approved the <date when="1862-04-16">16th of April, 1862</date>, entitled "an act for the
+                    release of certain persons held to service or labor in the <placeName>District
+                        of Columbia</placeName>."</p>
+
+                <p>Your Petitioner, <persName>Marinus Willett</persName> of
+                        <placeName>Georgetown</placeName> by this his petition in writing,
+                    represents and states, that he is a person loyal to the <placeName>United
+                        States</placeName> who, at the time of the passage of the said act of
+                    Congress, held a claim to service or labor against a colored person of African
+                    descent of the name of "<persName>
+                  <hi rend="underline">Harriet</hi>
+               </persName>,"
+                    for and during the life of said <persName>
+                  <hi rend="underline">Harriet</hi>
+               </persName> and that by said act of Congress, said
+                            <persName>
+                  <hi rend="underline">Harriet</hi>
+               </persName> was discharged
+                    and freed of and from all claim of your petitioner to such service or labor;
+                    that at the time of said discharge said "<persName>
+                  <hi rend="underline">Harriet</hi>
+               </persName>" was about twenty six years of age (26) She is
+                    short, thick set, not more than five feet high, solid and compactly made, full,
+                    strong, and well proportioned, of dark mulatto or copper color, full oval face,
+                    no mental or bodily imperfection, except the loss of a joint from one finger
+                    some years since by a bone&#8212;<choice>
+                        <sic>fallon</sic>
+                        <corr>felon</corr>
+                    </choice>.</p>
+                <p>That your petitioner acquired his claim to the aforesaid service or labor of said "<persName><hi rend="underline">Harriet</hi></persName>" in manner
+                    following: viz: on the <date when="1848-08-03">3rd day of August 1848</date>: he
+                    purchased the same of <persName>Geo. Washington Young</persName>,</p>
+
+                <pb xml:id="leaf002r" facs="cww.00042.003.jpg"/>
+
+
+                <p>administrator of Mrs. <persName>H. M. S. Young</persName> <choice><abbr>Dec'd</abbr><expan>Deceased</expan></choice>. for the sum of
+                    two hundred and fifty dollars. ($250) The bill and receipt for the same signed
+                    by said <persName>Young</persName> and witnessed by <persName>
+                  <hi rend="underling">Henry Trumel</hi>
+               </persName> is herewith exhibited, and
+                    made to his wife <persName>Sarah Willett</persName>.</p>
+
+                <p>That your petitioner's claim to the service of said <persName>Harriet</persName>,
+                    was at the time of Discharge therefrom, of the Value of six hundred dollars in
+                    money; That she was strong, healthy, and capable of most of the duties of
+                    household labor, and the most efficient one for that purpose in his small family
+                    for the last seven or eight years. and <choice><sic>petioner</sic><corr>petitioner</corr></choice> knows of no Moral, mental or
+                    bodily infirmities or defects (except the finger joint above Stated) to impair
+                    his value of service aforesaid, and he believes none other to exist.</p>
+
+
+                <p>Your petitioner hereby declares that he bears true faith and allegiance to the
+                    Government of the <placeName>United States</placeName>, and that he has not
+                    borne arms against the <placeName>United States</placeName> in the present
+                    rebellion, nor in any way given aid or comfort thereto.</p>
+
+                <p>And your petitioner further States, that he has not brought said <persName>
+                  <hi rend="underline">Harriet</hi>
+               </persName> into the <placeName>District of
+                        Columbia</placeName> since the passage
+                    
+            <pb xml:id="leaf003r" facs="cww.00042.004.jpg"/>
+                    of said act of Congress; and that, at the time of the passage thereof, said
+                            <persName>Harriet</persName> was held to service or labor therein, under
+                        and by virtue of your petitioner's claim to such service or labor.</p>
+
+                    <p>Your petitioner further States and <choice><sic>alledges</sic><corr>alleges</corr></choice>, that his said claim to the
+                        service or labor of said <persName>Harriet</persName> does not originate in
+                        or by virtue of any transfer heretofore made by any person who has in any
+                        manner aided or sustained the present rebellion against the Government of
+                        the <placeName>United States</placeName>&#8212;</p>
+
+                    <p>And your petitioner prays the said commissioners to investigate and determine
+                        the validity of his said claim to the service or labor of said
+                                "<persName>
+                     <hi rend="underline">Harriet</hi>
+                  </persName>" herein
+                        above set forth; and if the same be found to be valid, that they appraise
+                        and apportion the value of said claim in money, and report the same to the
+                        Secretary of the Treasury of the <placeName>United States</placeName> in
+                        conformity to the provisions of said act of Congress.</p>
+
+                    <closer>
+                        <signed>
+                            <persName>Marinus Willett</persName>
+                  </signed>
+                    </closer>
+            </div1>
+            
+            <div1 type="oath" subtype="handwritten">
+                <div2 type="section">
+                    <dateline><placeName>District of Columbia</placeName><lb/>
+                        <placeName>Washington County</placeName> ss</dateline>
+                    <p><persName>Marinus Willett</persName> of <placeName>Georgetown D.
+                            C.</placeName> being duly sworn do depose and say that all the several
+                        matters and things
+                        
+            <pb xml:id="leaf004r" facs="cww.00042.005.jpg"/>
+            
+            which are set forth and stated in the foregoing petition, as of my own
+                        knowledge, are true in substance and in fact; and that all the several other
+                        matters and things therein set forth and stated, as from the information of
+                        others, I believe to be true in substance and in fact.</p>
+                    <closer>
+                  <signed>
+                            <persName>Marinus Willett</persName>
+                        </signed>
+                    </closer>
+                </div2>
+
+                <div2 type="section">
+                    <p>Sworn &#38; subscribed before me this <date when="1862-05-06">sixth day of
+                            May 1862</date>.</p>
+                    <closer>
+                        <signed><persName>Wm. R. Woodward</persName> <choice>
+                                <abbr>clk</abbr>
+                                <expan>clerk</expan>
+                            </choice> of Commissioners</signed>
+                    </closer>
+                </div2>
+                
+                <div2 type="section">
+                    <p><choice><abbr>Rec'd</abbr><expan>Received</expan></choice> <placeName>George Town</placeName>
+                        <date when="1848-08-03">Aug 3&#8212;1848</date> of Mrs <persName>Sarah
+                            Willet</persName> two hundred &#38; fifty dollars for servant girl
+                            <persName>Harriet</persName> aged about thirteen years the property of
+                        Mrs <persName>H M S Young</persName> (<choice><abbr>Dec'd</abbr><expan>Deceased</expan></choice>) which I warrant a slave for
+                        life</p>
+                    <closer>
+                        <signed>
+                     <persName>George W Young</persName>, <choice>
+                                <abbr>Administs</abbr>
+                                <expan>Administrator</expan>
+                            </choice></signed>
+                    </closer>
+                    <closer>Witness
+                        <signed><persName>Henry Trumel</persName></signed>
+                    </closer>
+                </div2>
+            </div1>
+            
+            <pb xml:id="leaf005r" facs="cww.00042.006.jpg"/>
+            <div1 type="petition" subtype="handwritten">
+                <p>The following named persons are referred to if necessary to prove my faith and
+                    Loyalty to the constitution and Government of the <placeName>United
+                        States</placeName> viz: <persName>
+                  <hi rend="underline">Judson
+                            Mitchell</hi>
+               </persName>, collector of the part of
+                        <placeName>Georgetown</placeName>. <persName>
+                  <hi rend="underline">Henry
+                            King</hi>
+               </persName>, Secretary of Potomac Insurance Company. <hi rend="underlined">
+                  <persName>Eben Brown</persName>
+               </hi>, Deputy Collector
+                    &#38;c</p>
+                <p>And the following neighbors &#38; friends to prove the use, service, and title to
+                    the claim of said <hi rend="underlined">
+                  <persName>Harriet</persName>
+               </hi>, viz:
+                        <hi rend="underlined">
+                  <persName>Noble Hurdle</persName></hi>, <hi rend="underline"><persName>Geo. A.
+                            Bohrer</persName></hi>, <hi rend="underline"><choice><abbr>Doct</abbr><expan>Doctor</expan></choice>. <persName>Benj. S. Bohrer</persName></hi>,
+                            <hi rend="underline"><persName>Abraham B. Shekell</persName></hi>, and <hi rend="underlined">
+                                <persName>George W. Young</persName></hi>, also <persName>Edward L.
+                        Shekell</persName>.</p>
+                <closer>
+                    <signed><persName>Marinus Willett</persName></signed>
+            </closer>
+            </div1>           
+            
+            <pb xml:id="leaf005v" facs="cww.00042.001.jpg"/>
+            <div1 type="cover" subtype="handwritten">                
+                <ab>42<lb/>
+                    <persName>Marinus Willett</persName><lb/>
+                    vs.<lb/>
+                    <placeName>United States</placeName></ab>
+                <ab>Claim for Servant</ab>
+                <ab>Filed <date when="1862-05-06">May 6, 1862</date>
+                </ab>
+            </div1>
+        </body>
+    </text>
+</TEI>

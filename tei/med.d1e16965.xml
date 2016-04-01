@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e16965">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title level="m" type="main">Wolf, Joseph</title>
+        <title level="m" type="sub">a machine readable transcription</title>
+        <principal>Susan C. Lawrence</principal>
+        <principal>Kenneth M. Price</principal>
+        <principal>Kenneth J. Winkle</principal>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <date>2011</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <idno>med.d1e16965</idno>
+        <authority>Civil War Washington</authority>
+        <publisher>University of Nebraska–Lincoln</publisher>
+        <distributor>
+          <name>Center for Digital Research in the Humanities</name>
+          <address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+        </distributor>
+        <date>2011</date>
+        <availability>
+          <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution
+            or republication in any medium, except as allowed under the Fair Use provisions of U.S.
+            copyright law, requires express written consent from the editors and advance
+            notification of the publisher, the University of Nebraska–Lincoln.</p>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="project">The following are responsible for particular readings or for changes to
+          this file, as noted: 
+ <persName xml:id="kw">Kenneth Winkle</persName> <persName xml:id="ajh">AJ Howell</persName>
+          <persName xml:id="mb">Matthew Bosley</persName>
+          <persName xml:id="el">Elizabeth Lorang</persName>
+          <persName xml:id="sb">Stacey Berry</persName>
+          <persName xml:id="et">Elisabeth Tracey</persName>
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>
+          <title>The Medical and Surgical History of the War of the Rebellion.
+            (1861&#8211;65.)</title>
+          <editor role="compiler">Surgeon General Joseph K. Barnes, United States Army</editor>
+          <pubPlace>Washington, D.C.</pubPlace>
+          <publisher>Government Printing Office</publisher>
+          <biblScope type="part">Part 1</biblScope>
+          <biblScope type="volume">Volume 2</biblScope>
+          <date when="1870">1870</date>
+          <biblScope type="page">283-284</biblScope>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <classDecl>
+        <taxonomy xml:id="medsurg">
+          <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="#medsurg">
+          <term>wounds and injuries of the head</term>
+          <term>trephining after gunshot fractures of the skull</term>
+          <term>recovery with disability</term>
+          <term>general anesthesia, ether</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+ <change who="#kw" when="2014-05">blessed</change>
+      <change who="#el" when="2014-07-03">corrected typo in figure head</change>
+      <change who="#ajh" when="2013-08-19">added figure encoding</change>
+      <change who="#mb" when="2011-08-30">additional proofing of transcription and encoding</change>
+      <change who="#el" when="2011-11-05">case text extracted and transformed from larger
+        file</change>
+      <change who="#sb" when="2011-02-09">enriched encoding</change>
+      <change who="#sb" when="2011-01-28">validated file</change>
+      <change who="#et" when="2009-08-01">encoded</change>
+      <change who="#sb" when="2008-09-22">initial checking of OCR text against PDF; encoded
+      </change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+
+      <p><hi rend="initialcap">C</hi>ASE.&#8212;<name type="person">Private Joseph Wolf</name>,
+          <name type="organization">Co. F, 7th New York Heavy Artillery</name>, aged 22 years, was
+        wounded on <date type="injury" when="1865-04-03">April 3d, 1865</date>, before <name
+          type="BATTLE" key="254">Petersburg, Virginia</name>, by a conoidal ball, which entered the
+        scalp near the posterior superior angle of the right parietal bone, and glanced upward,
+        denuding the bone of periosteum for a space one inch in circumference. He was on <date
+          type="admit" when="1865-04-03">the same day</date> admitted to the <name type="hospital"
+          >hospital of the 1st division, Second Corps</name>, and thence conveyed to Washington,
+        where he entered the <name type="hospital">Armory Square Hospital</name> on <date
+          type="transfer" when="1865-04-12">the 12th</date>, with complete paralysis of the left arm
+        and leg. He was slightly comatose, but could easily be aroused, and answered questions
+        intelligently; the pupils were contracted. An examination revealed a fissure extending
+        beyond the denuded portion, through which pus slowly exuded, but no depression was observed.
+        Ether was administered on <date type="operation" when="1865-04-14">the 14th</date>, and
+          <name type="person">Surgeon D. W. Bliss</name>, <name type="organization" key="132">U. S.
+          V.</name>, applied the trephine. Upon removing the button of bone, a similar fissure
+        through the internal table was discovered. The dura mater protruded through the opening, and
+        upon puncturing the membrane, about three ounces of sero-sanguineous fluid escaped. The
+        operation afforded no immediate relief to the patient, but at the end of six hours he could
+        move his hand and foot, and on the following day could raise his head. On the 20th, the
+        wound was granulating finely, and the patient doing well. He could move his leg and arm
+        freely on the 26th. and was able to stand upon his feet. On May 1st the paralysis had almost
+        disappeared, and the wound was entirely covered with granulations. <date type="operation"
+          when="1865-05-03">Two days later</date> a small circle of necrosed bone was removed from
+        the external table. The patient was now able to walk about the ward, and on the <date
+          type="transfer" when="1865-05-26">26th</date>, was transferred to the <name
+          type="hospital">Whitehall Hospital</name>, near <name type="place">Bristol,
+          Pennsylvania</name>, whence he was discharged from the service on <date
+          type="servicedischarge" when="1865-06-20">June 20th, 1865</date>. His claim for pension
+        was "pending" <date type="pension" when="1871-12-07">December 7th, 1871</date>. The specimen
+        is a disk of bone with a serrated fragment of the inner table of the right parietal bone,
+        and is represented in the wood-cut. The disk is one inch in diameter, and is traversed by
+        the line of fracture. The specimen was contributed by the operator, <name type="person"
+          >Surgeon D. W. Bliss</name>, <name type="organization" key="132">U. S. V.</name></p>
+
+      <figure>
+        <graphic url="cww.001427.001"/>
+        <head><hi rend="initialcap">F</hi>IG. 144.&#8212;Disk and fragments removed after gunshot
+          fracture of the right parietal. <hi rend="italic">Spec</hi>. 4105, Sect. I A. M.
+          M.</head>
+      </figure>
+
+    </body>
+  </text>
+</TEI>

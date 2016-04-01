@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d2e5587">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Army of Virginia, soldier</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+    <idno>med.d2e5587</idno>
+    <authority>Civil War Washington</authority>
+    <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor><name>Center for Digital Research in the
+     Humanities</name><address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address></distributor>
+    <date>2011</date>
+    <availability>
+     <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+      republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+      law, requires express written consent from the editors and advance notification of the
+      publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+     <persName xml:id="mb">Matthew Bosley</persName>     
+     <persName xml:id="el">Elizabeth Lorang</persName>
+     <persName xml:id="sb">Stacey Berry</persName>
+     <persName xml:id="et">Elisabeth Tracey</persName>
+     <persName xml:id="ss">Sarah Synovec</persName>
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title level="j">The Medical and Surgical History of the War of the Rebellion.
+      (1861-65.)</title><pubPlace>Washington, DC</pubPlace><publisher>Government Printing
+      Office</publisher><biblScope type="part">Part 3</biblScope><biblScope type="volume">Volume
+      2</biblScope><date when="1883">1883</date><biblScope type="page">108</biblScope></bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+     <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <keywords scheme="#medsurg">
+     <term>wounds and injuries of the lower extremities</term>                                                                 
+     <term>wounds and injuries of the hip joint</term>
+     <term>shot fractures at the hip joint</term>
+     <term>excision at the hip after shot injury</term>
+     <term>intermediary excisions</term>
+     <term>gunshot fracture of neck of femur</term> 
+     <term>ball entered hip directly over trochanter major, embedded in neck of femur</term> 
+     <term>trochanter major and neck of femur comminuted, head uninjured</term>     
+     <term>diarrh&#339;a and malarial complications</term>
+     <term>general anesthesia, chloroform</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change who="#mb" when="2012-02-17">additional proofing of transcription and encoding, identified keyword terms</change>
+   <change who="#el" when="2011-05-11">case text extracted and transformed from larger file</change>
+   <change who="#sb" when="2011-06-04">Enrich Encoding, Edit and validate</change>
+   <change who="#sb" when="2011-01-28">Validated File</change>
+   <change who="#ss" when="2008-09-22">Sarah Synovec initial checking of OCR text; encoded P5 Encoding</change>   
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   
+    <p><hi rend="initialcap">C</hi>ASE 251.&#8212;A <name type="person" key="954">private
+      soldier</name> of <name type="organization" key="394">General Pope's Army of Virginia</name>,
+     was admitted on <date type="admit" when="1862-09-02">September 2, 1862</date>, to the <name
+      type="hospital" key="163">Cliffburne Hospital</name> at Washington, D. C., with a gunshot
+     fracture of the neck of the left femur, received at the <name type="BATTLE" key="127">second Bull Run</name> battle, on <date type="injury" when="1862-08-29">August 29, 1862</date>. A
+     conoidal musket ball had entered the left hip directly over the trochanter major and embedded
+     itself in the neck of the femur. The trochanter major and the neck of the femur were split and
+     comminuted, but the head was uninjured. The patient had suffered greatly from the journey from
+     the battle-field to the hospital, and was prostrated by diarrh&#339;a and malarial complications. The
+     tissues about the hip joint were but slightly swollen, and the wound discharged healthy pus. It
+     was decided that excision was the most hopeful resource, and on <date type="operation" when="1862-09-04">September 4, 1862</date>, <name type="person" key="294">Assistant Surgeon John S. Billings</name>, <name type="organization"
+      key="190">U. S. A.</name>, proceeded to operate. Chloroform was administered, and a straight
+     incision was made over the trochanter major, and the head and fragments of the neck were
+     removed. The shaft of the femur was then divided by a chain saw at the level of the trochanter
+     minor. The patient reacted well from the operation. He was placed on a fracture bed, and
+     extension by means of a weight was made on the injured limb. The diarrh&#339;a increased in
+     severity despite all treatment, and the patient succumbed, exhausted, on <date type="death" when="1862-09-24">September 24, 1862</date>, twenty days after the operation.</p>
+   
+  </body>
+ </text>
+</TEI>

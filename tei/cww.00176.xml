@@ -1,0 +1,559 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="cww.00176">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Petition of Susanna Boarman, 13 May 1862</title>
+                <title level="m" type="sub">a machine readable transcription</title>
+                <principal>Susan C. Lawrence</principal>
+                <principal>Kenneth M. Price</principal>
+                <principal>Kenneth J. Winkle</principal>
+                <respStmt>
+                    <resp>transcription and encoding</resp>
+                    <name xml:id="kjw">Kenneth J. Winkle</name>
+                    <name xml:id="jc">Janel Cayer</name>
+                    <name xml:id="nnk">Nima Najafi Kianfar</name>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2013</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <idno>cww.00176</idno>
+                <distributor>Civil War Washington</distributor>
+                <publisher>University of Nebraska–Lincoln</publisher>
+                <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>P.O. Box 884100</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+            </address>
+                <date>2013</date>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+                        <p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike
+                            3.0 Unported License
+                            (http://creativecommons.org/licenses/by-nc-sa/3.0/). Derivatives must be
+                            credited to Civil War Washington, made available non-commercially, and
+                            distributed under the same terms. Requests for permission for commercial
+                            publication or other use should be emailed to the project team.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Petition of Susanna Boarman, 13 May 1862</title>
+                    <date when="1862-05-13">May 13, 1862</date>
+                    <idno>Microcopy 520, Reel 2</idno>
+                    <orgName>National Archives and Records Administration</orgName>
+                    <relatedItem type="original">
+                        <bibl>
+                            <title>Petition of Susanna Boarman, 13 May 1862</title>
+                            <date when="1862-05-13">May 13, 1862</date>
+                            <idno>Record Group 217.6.5</idno>
+                            <orgName>Records of the Accounting Officers of the Department of the
+                                Treasury, 1775–1978, National Archives and Records
+                                Administration</orgName>
+                            <note type="project">Within the National Archives' Archival Description
+                                Catalog, see ARC Identifier 4644616 / MLR Number A1 347
+                                (http://arcweb.archives.gov).</note>
+                        </bibl>
+                    </relatedItem>
+                    <note type="project">Our transcription is based on a digital image of a
+                        microfilm copy of the original.</note>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <particDesc>
+                <person role="petitioner">
+                    <persName>Susanna Boarman</persName>
+                </person>
+                <person role="jp">
+                    <persName>William L. McDaniel</persName>
+                </person>
+            </particDesc>
+        </profileDesc>
+        <revisionDesc>
+            <change when="2013-03-21" who="#jc">blessed</change>
+            <change when="2013-03-19" who="#kjw">blessed</change>
+            <change when="2012-12-27" who="#jc">updated tei header; fixed values for @facs as
+                necessary; automated checking across files for extra spaces in elements and other
+                encoding inconsistencies and for regular transcription errors</change>
+            <change when="2012-12-04" who="#nnk">proofed</change>
+            <change when="2012-09-10" who="#jc">transcribed, encoded</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+
+            <pb xml:id="leaf001r" facs="cww.00176.001.jpg"/>
+
+            <div1 type="petition" subtype="mixed">
+                <head type="main">PETITION.</head>
+                <p rend="bold">To the Commissioners under the act of Congress approved the <date
+                        when="1862-04-16">16th of April, 1862</date>, entitled "An act for the
+                    release of certain persons held to service or labor in the District of
+                    Columbia."</p>
+
+                <p>Your Petitioner, <seg type="handwritten">
+                        <persName>Susanna Boarman</persName>
+                    </seg> of <seg type="handwritten">
+                        <placeName>Charles County Md</placeName>.</seg> by this <seg
+                        type="handwritten">her</seg> petition in writing, represents and states,
+                    that <seg type="handwritten">she</seg> is a person loyal to the United States,
+                    who, at the time of the passage of the said act of Congress, held a claim to
+                    service or labor against <seg type="handwritten">a female Slave</seg> person of
+                    African descent of the name of <seg type="handwritten">
+                        <persName>Trecy Harper</persName>
+                    </seg> for and during the life of said <seg type="handwritten">
+                        <persName>Trecy</persName>
+                    </seg> and that by said act of Congress said <seg type="handwritten">
+                        <persName>Trecy</persName>
+                    </seg> was discharged and freed of and from all claim of your petitioner to such
+                    service or labor; that at the time of said discharge said <seg
+                        type="handwritten">
+                        <persName>Trecy</persName>
+                    </seg> was of the age of <seg type="handwritten">Thirty one years.</seg> and of
+                    the personal description following:<note type="government" place="foot"
+                        xml:id="n1">Here describe the person, so as to identify him or her; and if
+                        there be more than one slave, describe each one separately.</note>
+                    <seg type="handwritten">
+                        <persName>Trecy Harper</persName> is a bright yellow woman about thirty one
+                        years of age, as near as can be recollected. She is about five feet one, or
+                        two, inches in height. Black hair, and black, or dark eyes, not fleshy, but
+                        of muscular form, no marks visible, or otherwise.</seg>
+                </p>
+
+                <pb xml:id="leaf001v" facs="cww.00176.002.jpg"/>
+
+                <p>That your petitioner acquired <seg type="handwritten">her</seg> claim to the
+                    aforesaid service or labor of said <seg type="handwritten">
+                        <persName>Trecy</persName>
+                    </seg> in manner following:<note type="government" place="foot" xml:id="n2">Here
+                        state how the claim was acquired, when, from whom, and for what price or
+                        consideration; and, if held under any written evidence of title, make
+                        exhibit thereof, or refer to the public record where the same may be
+                        found.</note>
+                    <seg type="handwritten">By will of <persName>Elizabeth Reeves</persName> of
+                            <placeName>Charles County, Maryland</placeName>, date <date
+                            when="1837-03-14">March 14th, 1837</date>. A copy whereof is herewith
+                        annexed, Marked Exhibit (A).</seg>
+                </p>
+
+                <p>That your petitioner's claim to the service or labor of said <seg
+                        type="handwritten">
+                        <persName>Trecy</persName>
+                    </seg> was, at the time of said discharge therefrom, of the value of <seg
+                        type="handwritten">1,000&#8212;</seg> dollars in money,<note
+                        type="government" place="foot" xml:id="n3">Here state such facts, if any
+                        there be, touching the value of the petitioner's claim to the service or
+                        labor of the person, as may enhance the same, and also such facts, if any,
+                        touching the moral, mental, and bodily infirmities or defects of said
+                        person, as impair the value of the petitioner's claim to such service or
+                        labor, and conclude such statement with an averment that the petitioner
+                        knows of no other infirmities or defects of said person which impair the
+                        value of petitioner's claim to such service or labor, and that he believes
+                        none other to exist. If the petitioner specify no such infirmity or defect,
+                        then his statement touching the value of his claim should conclude with an
+                        averment that he has no knowledge of any such infirmity or defect.</note>
+                    <seg type="handwritten">
+                        <persName>Trecy Harper</persName> is a fine cook, washer, and ironer, and in
+                        every respect, a valuable house servant,. She is likely and her health was
+                        good, while in my employment, and believed to be so now, of sound ming and
+                        character unimpeachable, and believed to be without infirmities, and has
+                        resided with my brother in <placeName>Washington City D.C.</placeName> for
+                        the last eight or ten years.</seg>
+                </p>
+
+                <p>Your petitioner hereby declares that <seg type="handwritten">she</seg> bears true
+                    and faithful allegiance to the Government of the United States, and that <seg
+                        type="handwritten">she</seg> has not borne arms against the United States in
+                    the present rebellion, nor in any way given aid or comfort thereto.</p>
+
+                <p>And your petitioner further states and alleges, that <seg type="handwritten"
+                        >she</seg> has not brought said <seg type="handwritten">
+                        <persName>Trecy</persName>
+                    </seg> into the District of Columbia since the passage of said act of Congress;
+                    and that, at the time of the passage thereof, said <seg type="handwritten">
+                        <persName>Trecy</persName>
+                    </seg> was held to service or labor therein under and by virtue of your
+                    petitioner's claim to such service or labor.</p>
+
+                <p>Your petitioner further states and alleges, that <seg type="handwritten"
+                        >her</seg> said claim to the service or labor of said <seg
+                        type="handwritten">
+                        <persName>Trecy</persName>
+                    </seg> does not originate in or by virtue of any transfer heretofore made by any
+                    person who has in any manner aided or sustained the present rebellion against
+                    the Government of the United States.</p>
+
+                <p>And your petitioner prays the said Commissioners to investigate and determine the
+                    validity of <seg type="handwritten">her</seg> said claim to the service or labor
+                    of said <seg type="handwritten">
+                        <persName>Trecy</persName>
+                    </seg> herein above set forth; and if the same be found to be valid, that they
+                    appraise and apportion the value of said claim in money, and report the same to
+                    the Secretary of the Treasury of the United States, in conformity to the
+                    provisions of said act of Congress.</p>
+
+                <closer> (Signed by) <signed>
+                        <seg type="handwritten">
+                            <persName>Susanna Boarman</persName>
+                        </seg>
+                    </signed>
+                </closer>
+            </div1>
+
+            <pb xml:id="leaf002r" facs="cww.00176.004.jpg"/>
+            <div1 type="evidence" subtype="handwritten">
+                <div2 type="section">
+                    <p>In the name of God Amen. I <persName>Elizabeth Reeves</persName> of
+                            <placeName>Charles County</placeName> and <placeName>State of
+                            Maryland</placeName> being of sound disposing mind memory and
+                        understanding do make this my last will and Testament in manner and form
+                        following, that is to say First and principally I commit my soul to Almighty
+                        God who gave it me, and my body to the earth to be decently buried by my
+                        Executors herein after named, and as to what worldly Goods it has pleased
+                        God to bless me with I give and <unclear reason="illegible" cert="medium"
+                            resp="#jc">
+                            <choice>
+                                <sic>divese</sic>
+                                <corr>divest</corr>
+                            </choice>
+                        </unclear> as follows.</p>
+                    <list type="handwritten">
+                        <item>Item 1st I give and bequeath to <persName>Henry L. Mudd</persName> a
+                            tract of Land by whatever name it may be called, being the same on which
+                            I have a quarter called <placeName>Moses' quarter</placeName> and
+                            joining the Lands of a certain <persName>James Moore</persName> and the
+                            said <persName>Henry L Mudd</persName> to him and his Heirs
+                            forever</item>
+                        <item>Item 2d I give and bequeath to <persName>Edward Dyer</persName> of the
+                                <placeName>City of Washington</placeName> in the <placeName>District
+                                of Columbia</placeName>, and to his Heirs forever <choice>
+                                <sic>intrust</sic>
+                                <corr>entrust</corr>
+                            </choice> and to and for the use intent and purposes herein after named,
+                            all and every other part of my real Estate and lying near where <choice>
+                                <abbr>Doct</abbr>
+                                <expan>Doctor</expan>
+                            </choice>
+                            <persName>George Boarman</persName> now resides, in trust nevertheless
+                            that he the said <persName>Edward Dyer</persName> shall keep and
+                            preserve the whole of the said property for the use, benefit and
+                            enjoyment of my nephew <choice>
+                                <abbr>Doct</abbr>
+                                <expan>Doctor</expan>
+                            </choice>
+                            <persName>George Boarman</persName> during his natural life, and at his
+                            death to convey and pay over and deliver the same and every part thereof
+                            to the <choice>
+                                <sic>lawfull</sic>
+                                <corr>lawful</corr>
+                            </choice> heirs of him the said <choice>
+                                <abbr>Doct</abbr>
+                                <expan>Doctor</expan>
+                            </choice>
+                            <persName>George Boarman</persName> who are to have and possess the same
+                            in fee&#8212;</item>
+                        <item>Item 3d I give and bequeath to my great niece <persName>Mary
+                                Boarman</persName> daughter of <choice>
+                                <abbr>Doct</abbr>
+                                <expan>Doctor</expan>
+                            </choice>
+                            <persName>Geo. Boarman</persName>, my negro Boy
+                                <persName>Baptist</persName> son of <persName>Gracy</persName>
+                        </item>
+                        <item>Item 4th I give and bequeath to <persName>Susanna Boarman</persName>
+                            daughter of <choice>
+                                <abbr>Doctr.</abbr>
+                                <expan>Doctor</expan>
+                            </choice>
+                            <persName>Geo. Boarman</persName>, my negro Girl <persName>
+                                <unclear reason="illegible" cert="low" resp="#jc">Serece</unclear>
+                            </persName> daughter of <persName>Cecy</persName>&#8212;</item>
+
+                        <pb xml:id="leaf002v" facs="cww.00176.005.jpg"/>
+                        <item>Item 5th I give and bequeath to <persName>Frances D.
+                                Gardiner</persName> son of my niece <persName>Dorothy
+                                Gardiner</persName>, my negro Boy <persName>Elly</persName> son of
+                            woman <persName>Gracy</persName> and negro Boy <persName>Davy</persName>
+                            son of woman <persName>Anna</persName>&#8212;</item>
+                        <item>Item 6th I give and bequeath to <persName>Sophia Paign</persName>
+                            daughter of my <choice>
+                                <abbr>decd</abbr>
+                                <expan>deceased</expan>
+                            </choice> nephew <persName>Thomas C. Boarman</persName>, negro Boy <persName>
+                                <unclear reason="illegible" cert="low" resp="#nnk">Gusty</unclear>
+                            </persName> son of negro woman <persName>Anna</persName>&#8212;</item>
+
+                        <item>Item 7th I give and bequeath to <persName>Elizabeth Boarman</persName>
+                            daughter of my nephew <persName>Charles Boarman</persName> my Boy
+                                <persName>Francis</persName> son of woman
+                                <persName>Harriet</persName>
+                        </item>
+                        <item>Item 8th I give and bequeath to <persName>Elizth Gardiner</persName>
+                            widow of a certain <persName>Aloysius Gardiner</persName> late of
+                                <placeName>Prince Georges County</placeName>
+                            <choice>
+                                <abbr>decd</abbr>
+                                <expan>deceased</expan>
+                            </choice> my Boy <persName>Alfred</persName> son of woman
+                                <persName>Harriet</persName>&#8212;</item>
+                        <item>Item 9th I give and bequeath to <persName>Thomas S.
+                                Gardiner</persName> son of my niece <persName>Dorothy
+                                Gardiner</persName>, my Boy <persName>Pius</persName>, son of woman
+                                <persName>Harriet</persName>&#8212;</item>
+                        <item>Item 10th I give and bequeath to my friend <persName>Sarah
+                                Jenkins</persName> now living with me, my negro Boy
+                                <persName>Robert</persName> son of woman <persName>Cecy</persName>,
+                            one Bed and furniture, and one hundred and fifty dollars, also my
+                            wearing apparel&#8212;</item>
+                        <item>Item 11th I give and bequeath to <persName>Rose Ann
+                                Gardiner</persName> daughter of my niece <persName>Dorothy
+                                Gardiner</persName>, my negro Girl <persName>Ally</persName>,
+                            daughter of woman <persName>Cecy</persName>.&#8212;</item>
+                        <item>Item 12th I give and bequeath to <persName>Maria D. Hughes</persName>
+                            daughter of Major <persName>Jno. Hughes</persName>, my negro Boy
+                                <persName>Ambrose</persName> son of woman <persName>Delia
+                                Ann</persName>&#8212;</item>
+                        <item>Item 13th. I give and bequeath to whatever Reverend Gentleman that may
+                            be attending this congregation at my death the sum of fifty
+                            Dollars&#8212;</item>
+                        <item>Item 14th I give and bequeath to the poor of the upper Zekiah
+                            Congregation the sum of one hundred dollars to be paid to such as my
+                            Executors herein after mentioned shall think most
+                            deserving&#8212;</item>
+                        <item>Item 15th I give and bequeath all the residue of my <pb
+                                xml:id="leaf003r" facs="cww.00176.006.jpg"/> Estate to be divided in
+                            equal proportions between <persName>James Edelen</persName> son of my
+                            nephew <choice>
+                                <abbr>Dr.</abbr>
+                                <expan>Doctor</expan>
+                            </choice>
+                            <persName>Richard Edelen</persName>, <persName>Sophia
+                                Gardiner</persName> wife of <persName>George H. Gardiner</persName>,
+                                <persName>Elizabeth Ann Hughes</persName> daughter of <choice>
+                                <abbr>Majr.</abbr>
+                                <expan>Major</expan>
+                            </choice>
+                            <persName>Jno. Hughes</persName> and <persName>Elizabeth
+                                Boarman</persName> daughter of my nephew <persName>A J P
+                                Boarman</persName> to them and their Heirs forever&#8212;</item>
+                    </list>
+
+                    <p>And Lastly I constitute and appoint <persName>John Hughes</persName> and
+                            <persName>George Gardiner</persName> to be Executors of this my last
+                        will and Testament revoking and annulling all others heretofore by me
+                        made&#8212;In testimony I have hereunto set my hand and affixed my seal this
+                            <date when="1837-03-14">14th day of March in the year of our Lord
+                            Eighteen Hundred and thirty seven</date>
+                    </p>
+                    <closer>
+                        <signed>
+                            <persName>Elizabeth Reeves</persName> seal</signed>
+                        <lb/> signed sealed published and declared as and for the last Will and
+                        Testament of <persName>Elizabeth Reeves</persName> in presence of each other
+                        and at the request of the above named testatrice we have subscribed our
+                        names as witnesses thereto<lb/>
+                        <persName>Wm. A Mudd</persName>, <persName>Edward Smith</persName>,
+                            <persName>Stanislaus Farrall</persName>
+                    </closer>
+                </div2>
+
+                <div2 type="section">
+                    <p>On the Back of the aforegoing will it is there written <placeName>Charles
+                            County</placeName> Sct <date when="1840-05-06">May 6th 1840</date> then
+                        came <persName>John Hughes</persName> and <persName>George
+                            Gardiner</persName> Executors of <persName>Elizabeth Reeves</persName>
+                        late of <placeName>Charles County</placeName> deceased and severally made
+                        oath on the Holy Evangely of Almighty God that the within and aforegoing
+                        instrument of writing is the true and whole last will and Testament of said
+                        deceased that hath come to their hands and possession and that they doth not
+                        know of any other.</p>
+                    <closer>
+                        <signed>Test <persName>Aquilla Bateman</persName>
+                            <choice>
+                                <abbr>Regr</abbr>
+                                <expan>Register</expan>
+                            </choice> of wills</signed>
+                    </closer>
+                </div2>
+
+                <div2 type="section">
+                    <p>
+                        <placeName>Charles County</placeName> Sct <date when="1840-05-06">May the
+                            6th 1840</date> then came <persName>Stanilaus Farral</persName> one of
+                        the subscribing witnesses to the within and aforegoing last will and
+                        Testament <choice>
+                            <sic>of of</sic>
+                            <corr>of</corr>
+                        </choice>
+                        <persName>Elizabeth Reeves</persName> late of <placeName>Charles
+                            County</placeName> deceased and made oath on the Holy Evangely of
+                        Almighty God that he did see the Testatrice therein named sign and seal <pb
+                            xml:id="leaf003v" facs="cww.00176.007.jpg"/> this will that he heard her
+                        publish pronounce and declare the same to be her last will and Testament and
+                        that at the time of her so doing she was in the best of his <choice>
+                            <abbr>apprehen</abbr>
+                            <expan>apprehension</expan>
+                        </choice> of sound and disposing mind memory and understanding and that he
+                        together with <persName>William A Mudd</persName> and <persName>Edward
+                            Smith</persName> respectively subscribed their names as witnesses to
+                        this will in the presence and at the request of the Testatrice and in the
+                        presence of each other&#8212;</p>
+                    <closer>Test <signed>
+                            <persName>Aquilla Bateman</persName>
+                            <choice>
+                                <abbr>Regr</abbr>
+                                <expan>Register</expan>
+                            </choice> of wills</signed>
+                    </closer>
+                </div2>
+
+                <div2 type="section">
+                    <dateline>
+                        <placeName>State of Maryland Charles County</placeName> to wit</dateline>
+                    <p>I hereby certify that the aforegoing instrument of writing is a true copy
+                        taken from one of our Record Books of the Orphans Court of
+                            <placeName>Charles County</placeName>
+                    </p>
+                    <p>In testimony whereof I have hereunto subscribed my name and affixed the seal
+                        of the said Court this <date when="1841-01-28">28th day of January in the
+                            year of our Lord one thousand Eight hundred and Forty one</date>
+                    </p>
+                    <closer>Test <persName>Aquilla Bateman</persName>
+                        <choice>
+                            <abbr>Regr</abbr>
+                            <expan>Register</expan>
+                        </choice> of wills for <placeName>Chas County</placeName>
+                    </closer>
+                </div2>
+
+                <div2 type="section">
+                    <ab>A</ab>
+                    <ab>Copy <persName>Elizabeth Reeves</persName>
+                        <lb/> will<lb/>
+                    </ab>
+                    <ab>Cost $1.47</ab>
+                </div2>
+            </div1>
+
+
+            <pb xml:id="leaf004r" facs="cww.00176.008.jpg"/>
+            <div1 type="oath" subtype="mixed">
+                <head type="main">[<hi rend="italic">Form of the Oath for the Verification of the
+                        Petition.</hi>]</head>
+
+                <dateline>
+                    <del>
+                        <placeName>District of Columbia,</placeName>
+                    </del>
+                    <lb/>
+                        <hi rend="italic"><del><placeName>Washington County</placeName>, ss.</del></hi>                    
+                    <placeName><seg type="handwritten">Charles County Md</seg></placeName>
+                </dateline>
+
+                <div2 type="section">
+                    <p>I, <seg type="handwritten">
+                            <persName>Susanna Boarman</persName>
+                        </seg> being duly sworn, do depose and say, that all the several matters and
+                        things which are set forth and stated in the foregoing petition, as of my
+                        own knowledge, are true in substance and in fact; and that all the several
+                        other matters and things therein set forth and stated, as from the
+                        information of others, I believe to be true in substance and in fact.</p>
+                    <closer> (Signed by) <signed>
+                            <seg type="handwritten">
+                                <persName>Susanna Boarman</persName>
+                            </seg>
+                        </signed>
+                    </closer>
+                </div2>
+
+                <div2 type="section">
+                    <p>Sworn to and subscribed before me this <date when="1862-05-08">
+                            <seg type="handwritten">8th</seg> day of <seg type="handwritten"
+                                >May,</seg> A. D. 1862</date>.</p>
+                    <closer> (Signed by) <signed>
+                            <seg type="handwritten">
+                                <persName>Wm. L. McDaniel</persName>
+                                <lb/> Justice of the peace</seg>
+                        </signed>
+                    </closer>
+                </div2>
+
+                <div2 type="section">
+                    <dateline>
+                        <seg type="handwritten">
+                            <placeName>State of Maryland</placeName>;<lb/>
+                            <placeName>Charles County</placeName> Sct:</seg>
+                    </dateline>
+                    <p>
+                        <seg type="handwritten">I <persName>Gerard W. Crain</persName> Clerk of the
+                            Circuit Court for <placeName>Charles County</placeName>; do hereby
+                            certify that <persName>William L. McDaniel</persName>
+                            <choice>
+                                <abbr>Esq</abbr>
+                                <expan>Esquire</expan>
+                            </choice>. before whom the aforegoing Affidavit appears to have been
+                            made was at the date thereof a Justice of the Peace of the
+                                <placeName>State of Maryland</placeName>, in &#38; for
+                                <placeName>Charles County</placeName>; duly Commissioned and Sworn,
+                            and that his Signature thereby is genuine;</seg>
+                    </p>
+                    <p>
+                        <seg type="handwritten">In Testimony whereof I hereunto Set my hand and
+                            affixed the Seal of the Circuit Court for <placeName>Charles
+                                County</placeName>; this <date when="1862-05-09">9th day of May Anno
+                                Domini 1862</date>
+                        </seg>
+                    </p>
+                    <closer>
+                        <seg type="handwritten">Test:</seg>
+                        <lb/>
+                        <signed>
+                            <seg type="handwritten">
+                                <persName>G. W. Crain</persName>
+                                <choice>
+                                    <abbr>clk</abbr>
+                                    <expan>clerk</expan>
+                                </choice> of the <choice>
+                                    <abbr>C</abbr>
+                                    <expan>Circuit</expan>
+                                </choice>. <choice>
+                                    <abbr>C</abbr>
+                                    <expan>Court</expan>
+                                </choice>. for <placeName>Chas. Co. Md.</placeName>
+                            </seg>
+                        </signed>
+                    </closer>
+                </div2>
+            </div1>
+
+            <pb xml:id="leaf004v" facs="cww.00176.009.jpg"/>
+
+            <div1 type="cover" subtype="handwritten">
+                <ab>176<lb/> Petition of<lb/>
+                    <persName>Susanna Boarman</persName>
+                </ab>
+                <ab>Filed <date when="1862-05-13">May 13, 1862</date>
+                </ab>
+                <ab>
+                    <persName>Sylvester B. Boarman</persName>
+                    <lb/>
+                    <persName>Thomas C. Magruder</persName>
+                    <lb/>
+                    <choice>
+                        <abbr>Dr</abbr>
+                        <expan>Doctor</expan>
+                    </choice>. <persName>Jas. E. Morgan</persName>
+                </ab>
+            </div1>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e12940">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">W&#8212;&#8212;, C. C.</title>
+                <title level="m" type="sub">a machine readable transcription</title>
+                <principal>Susan C. Lawrence</principal>
+                <principal>Kenneth M. Price</principal>
+                <principal>Kenneth J. Winkle</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2011</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <idno>med.d1e12940</idno>
+                <authority>Civil War Washington</authority>
+                <publisher>University of Nebraska–Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+                </distributor>
+                <date>2011</date>
+                <availability>
+                    <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved.
+                        Redistribution or republication in any medium, except as allowed under the
+                        Fair Use provisions of U.S. copyright law, requires express written consent
+                        from the editors and advance notification of the publisher, the University
+                        of Nebraska–Lincoln.</p>
+                </availability>
+            </publicationStmt>
+            <notesStmt>
+                <note type="project">The following are responsible for particular readings or for
+                    changes to this file, as noted: 
+ <persName xml:id="kw">Kenneth Winkle</persName> 
+                    <persName xml:id="ajh">AJ Howell</persName>
+                    <persName xml:id="mb">Matthew Bosley</persName>
+                    <persName xml:id="el">Elizabeth Lorang</persName>
+                    <persName xml:id="sb">Stacey Berry</persName>
+                    <persName xml:id="et">Elisabeth Tracey</persName>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>The Medical and Surgical History of the War of the Rebellion.
+                        (1861&#8211;65.)</title>
+                    <editor role="compiler">Surgeon General Joseph K. Barnes, United States
+                        Army</editor>
+                    <pubPlace>Washington, D.C.</pubPlace>
+                    <publisher>Government Printing Office</publisher>
+                    <biblScope type="part">Part 1</biblScope>
+                    <biblScope type="volume">Volume 2</biblScope>
+                    <date when="1870">1870</date>
+                    <biblScope type="page">181</biblScope>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <classDecl>
+                <taxonomy xml:id="medsurg">
+                    <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme="#medsurg">
+                    <term>on special wounds and injuries of the head</term>
+                    <term>wounds and injuries of the head</term>
+                    <term>gunshot wounds</term>
+                    <term>gunshot contusions of the cranial bones</term>
+                    <term>gunshot fractures of both tables of the skull</term>
+                    <term>balls splitting on the cranial bones</term>
+                    <term>right ventricle of brain filled with <choice>
+                            <orig>sero-sanguinolent</orig>
+                            <reg>sero-sanguinous</reg>
+                        </choice> fluid</term>
+                    <term>vitreous plate pressing on dura mater, elevated and removed</term>
+                    <term>depressed fracture of parietal bone</term>
+                    <term>periostitis</term>
+                    <term>abscess in posterior lobe of left hemisphere near the longitudinal sinus,
+                        communicated with lateral ventricle</term>
+                    <term>cranium fractured, operative interference deferred</term>
+                    <term>slight paralysis of upper extremity</term>
+                    <term>autopsy performed</term>
+                    <term>parietal bone carious</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+ <change who="#kw" when="2014-05">blessed</change>
+            <change who="#ajh" when="2013-08-19">added figure encoding</change>
+            <change who="#mb" when="2013-07-09">additional proofing of transcription and encoding,
+                edited and added keyword terms</change>
+            <change who="#mb" when="2011-07-21">additional proofing of transcription and
+                encoding</change>
+            <change who="#el" when="2011-11-05">case text extracted and transformed from larger
+                file</change>
+            <change who="#sb" when="2011-02-09">enriched encoding</change>
+            <change who="#sb" when="2011-01-28">validated file</change>
+            <change who="#et" when="2009-08-01">encoded</change>
+            <change who="#sb" when="2008-09-22">initial checking of OCR text against PDF;
+                encoded</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body xml:id="ch1.sc3.0232">
+            <p><hi rend="initialcap">C</hi>ASE.&#8212;<name type="person" key="1552">Private C. C.
+                    W&#8212;&#8212;</name>, <name type="organization" key="177">Co. I, 6th Wisconsin
+                    Volunteers</name>, aged twenty-one years, was wounded at <name type="BATTLE"
+                    key="3"><choice>
+                        <orig>Spottsylvania</orig>
+                        <reg>Spotsylvania</reg>
+                    </choice></name>, <date type="injury" when="1864-05-12">May 12th, 1864</date>,
+                and was taken to the field hospital of the 4th division of the Fifth Corps, and
+                after the application of cold lotions to the scalp, was sent to <name type="place"
+                    >City Point</name>, and thence to <name type="place" key="#Washington"
+                    >Washington</name>, where he was admitted into <name type="hospital" key="162"
+                    >Douglas Hospital</name>
+                <date type="transfer" when="1864-05-16">four days after</date> the reception of the
+                injury. Here it was ascertained that the cranium was fractured; but the symptoms
+                were not urgent, being limited to slight paralysis of the right upper extremity, and
+                operative interference was deferred. On <date type="operation" when="1864-05-31">May
+                    31st</date> a conoidal musket ball and several fragments of the left parietal
+                were removed by <name type="person" key="201">Assistant Surgeon W. F. Norris</name>,
+                    <name type="organization" key="190">U. S. A.</name> One large fragment of the
+                vitreous plate was pressing on the dura mater; and this was elevated and removed.
+                    <date type="operation" when="1864-06-01">The next day</date>, symptoms of
+                compression of the brain were manifested. An exploration of the wound was made, and
+                a quantity of pus was evacuated. On <date type="death" when="1864-06-04">June 4th,
+                    1864</date>, twenty-three days after the injury, the case terminated fatally. At
+                the autopsy the arachnoid was found little altered. There was an abscess in the
+                posterior lobe of the left hemisphere, near the longitudinal sinus, of the size of a
+                walnut, with walls of a greenish-yellow color, and communicating with the lateral
+                ventricle. The right ventricle was filled with <choice>
+                    <orig>sero-sanguinolent</orig>
+                    <reg>sero-sanguinous</reg>
+                </choice> fluid. There was a deposition of lymph at the base of the brain, extending
+                from the medulla oblongata to the optic commissure. The specimen and facts connected
+                with it were contributed by <name type="person" key="200">Assistant Surgeon William
+                    Thomson</name>, <name type="organization" key="190">U. S. A.</name> The inner
+                surface of the left parietal, near the fracture, is carious. Externally both
+                parietals present over their entire surface the traces of the results of
+                periostitis. </p>
+            <figure><graphic url="cww.001397.001"/><head>
+                <hi rend="initialcap">F</hi>IG. 95.&#8212;Skull-cap, fractured near the vertex, by a
+                musket ball which has split. <hi rend="italic">Spec</hi>. 3543, Sect. I, A. M. M.</head></figure>
+            <figure><graphic url="cww.001398.001"/><head>
+                <hi rend="initialcap">F</hi>IG. 96.&#8212;Interior view of the specimen, No. 3543,
+                A. M. M.</head></figure>
+        </body>
+    </text>
+</TEI>

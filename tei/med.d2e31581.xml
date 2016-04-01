@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d2e31581">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Moran, M.</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+       <idno>med.d2e31581</idno>
+       <authority>Civil War Washington</authority>
+       <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor>
+       <name>Center for Digital Research in the Humanities</name>
+       <address><addrLine>319 Love Library</addrLine>
+       <addrLine>University of Nebraska–Lincoln</addrLine>
+       <addrLine>Lincoln, NE 68588-4100</addrLine>
+       <addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+    </distributor>
+    <date>2011</date>
+    <availability>
+        <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+         republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+         law, requires express written consent from the editors and advance notification of the
+         publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+     <persName xml:id="mb">Matthew Bosley</persName>
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl>
+     <title level="j">The Medical and Surgical History of the War of the Rebellion. (1861-65.)</title>
+     <pubPlace>Washington, DC</pubPlace>
+     <publisher>Government Printing Office</publisher>
+     <biblScope type="part">Part 2</biblScope>
+     <biblScope type="volume">Volume 2</biblScope>
+     <date when="1876">1876</date>
+     <biblScope type="page">76</biblScope>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+       <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+      <keywords scheme="#medsurg">
+       <term>injuries of the abdomen</term>
+       <term>penetrating wounds of the abdomen</term>
+       <term>wounds of the large intestines</term>
+       <term>punctured and incised wounds</term>
+       <term>incised wound of descending colon without protrusion</term> 
+       <term>enteroraphy unsuccessfully practiced&#179;</term>
+       <term>stabbed in affray in camp</term>
+       <term>dirk knife penetrated abdominal cavity in iliac region</term>
+       <term>general inflammatory reaction</term>
+       <term>wound of walls of descending colon</term>
+       <term>peritonitis</term>
+       <term>symptoms combated by small bleeding from arm</term>       
+       <term>general anesthesia, chloroform</term>
+     </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change who="#mb" when="2012-08-07">copied case from MSHWR, added proofing of transcription and encoding, identified keyword terms</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body> 
+   <p><hi rend="initialcap">C</hi>ASE 234.&#8212;<name type="person" key="xxx">Corporal M. Moran</name>, <name type="organization" key="xxx">Co. H, 111th Pennsylvania</name>, aged 22 years, was stabbed <date type="injury" when="1865-07-26">July 26, 1865</date>, in an affray in camp, near <name type="place" key="#Washington">Washington</name>, and was taken to the regimental hospital. It was ascertained that a dirk knife had penetrated the abdominal cavity, in the left iliac region.  <date type="operation" when="1865-07-27"><date type="transfer" when="1865-07-27">The following day</date></date> the patient was taken to <name type="hospital" key="176">Lincoln Hospital</name>. The wound in the abdomen was inflamed, the lips red and swollen. A general inflammatory reaction had set in, the patient having been in perfect health at the time of receiving the wound. Chloroform was administered, and <name type="person" key="xxx">Acting Assistant Surgeon W. E. Roberts</name> enlarged the wound in the parietes by an incision one and a half inches long. This fully exposed an oblique wound of the walls of the descending colon. The intestine was drawn down, and the division of its tunics was closed by six points of interrupted suture. Symptoms of peritonitis were combated by a small bleeding from the arm, and by full doses of opium, with cold applications and poultices to the abdomen. The progress of the case was not favorably modified, and death resulted, <date type="death" when="1865-07-19">July 19, 1865</date>, thirteen
+    days from the reception of the wound.</p>       
+   <p>&#179; 1. Dr. <hi rend="initialcap">A</hi>. <hi rend="initialcap">P</hi>OST has, in the reports of the New York Hospital (<hi rend="italic">The Annalist</hi>, 1846, Vol. I, p. 26), a case of a stab wound with protrusion of the descending colon, in which a longitudinal incision an inch long was successfully united by two sutures, and the bowel returned. A prophylactic blister was applied, a practice originating, according to Dr. <hi rend="initialcap">P</hi>OST, with the late Dr. <hi rend="initialcap">B</hi>ORROWE, to which the happiest effects were ascribed.  2. Drs. <hi rend="initialcap">M</hi>ASON and <hi rend="initialcap">W</hi>HITNEY, of <name type="place">Prairie du Chien</name>, describe (<hi rend="italic">Chicago Med. Exam.</hi>, 1867, Vol. VIII, p. 21) a dirk wound of the transverse colon, with protrusion, and division of a large branch of the colica media. Two ligatures were placed on the divided artery, and the intestinal wound was united by the glovers' suture, the serous surfaces being carefully approximated. Complete recovery in four weeks.  3. Dr. <hi rend="initialcap">J</hi>. <hi rend="initialcap">P</hi>. <hi rend="initialcap">C</hi>HESNEY (<hi rend="italic">Cincinnati Med. Repertory</hi>, 1869, Vol. II, p. 335) records a successful case of enteroraphy in a stab in the descending colon, with protrusion; the intestinal wound, an inch long, was closed by the glovers' suture.</p>        
+  </body>
+ </text>
+</TEI>

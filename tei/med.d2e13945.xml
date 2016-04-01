@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d2e13945">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Bowen, Charles M.</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+    <idno>med.d2e13945</idno>
+    <authority>Civil War Washington</authority>
+    <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor><name>Center for Digital Research in the
+     Humanities</name><address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address></distributor>
+    <date>2011</date>
+    <availability>
+     <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+      republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+      law, requires express written consent from the editors and advance notification of the
+      publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+ <persName xml:id="kmp">Kenneth M. Price</persName> <persName xml:id="ajh">AJ Howell</persName>
+     <persName xml:id="mb">Matthew Bosley</persName>
+     <persName xml:id="el">Elizabeth Lorang</persName>
+     <persName xml:id="sb">Stacey Berry</persName>
+     <persName xml:id="et">Elisabeth Tracey</persName>
+     <persName xml:id="ss">Sarah Synovec</persName>
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title level="j">The Medical and Surgical History of the War of the Rebellion.
+      (1861-65.)</title><pubPlace>Washington, DC</pubPlace><publisher>Government Printing
+      Office</publisher><biblScope type="part">Part 3</biblScope><biblScope type="volume">Volume
+      2</biblScope><date when="1883">1883</date><biblScope type="page">311</biblScope></bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+     <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <keywords scheme="#medsurg">
+     <term>wounds and injuries of the lower extremities</term>
+     <term>injuries of the shaft of the femur</term>
+     <term>amputations in the shaft of the femur</term>
+     <term>secondary amputations in the shaft of the femur for shot injury</term>
+     <term>secondary amputations in the middle third of the femur</term>
+     <term>cases of recovery after secondary amputation in the middle third of the femur</term>
+     <term>ball entered outer aspect of thigh above knee, fractured femur, passed out directly
+      opposite</term>
+     <term>deep but circumscribed abscess</term>
+     <term>gangrene</term>
+     <term>recurrence of abscesses</term>
+     <term>femur only partially united</term>
+     <term>sciatic nerve injured</term>
+     <term>foot entirely paralysed</term>
+     <term>bone fragments considerably overlapped, callus exceeded necessary for complete
+      union</term>
+     <term>erysipelas</term>
+     <term>phthisis pulmonalis</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+ <change who="#kmp" when="2014-05">blessed</change>
+   <change who="#ajh" when="2013-08-23">added figure encoding</change>
+   <change who="#mb" when="2012-05-22">additional proofing of transcription and encoding, identified
+    keyword terms</change>
+   <change who="#el" when="2011-05-11">case text extracted and transformed from larger file</change>
+   <change who="#sb" when="2011-06-04">Enrich Encoding, Edit and validate</change>
+   <change who="#sb" when="2011-01-28">Validated File</change>
+   <change who="#ss" when="2008-09-22">initial checking of OCR text; encoded P5 Encoding</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+
+   <p><hi rend="initialcap">C</hi>ASE 486.&#8212;<name type="person" key="1104">Private Charles M.
+     Bowen</name>,&#185; <name type="organization" key="455">Co. A, 27th Indiana</name>, aged 19
+    years, was wounded at <name type="BATTLE" key="33">Antietam</name>, <date type="injury"
+     when="1862-09-17">September 17, 1862</date>. He was taken to <name type="place"
+     >Frederick</name> and admitted to No. 1 hospital on <date type="admit" when="1862-09-24"
+     >September 24th</date>. <name type="person" key="xx">Acting Assistant Surgeon J. C.
+     Shimer</name> records the following: "A conoidal ball had entered the outer aspect of the left
+    thigh about five inches above the knee, fractured the femur, and passed out directly opposite.
+    Buck's apparatus was applied. On October 19th, considerable amount of callus had been thrown
+    out, and there was some union; his appetite and general condition were good. <date
+     type="operation" when="1862-10-23">October 23d</date>, a deep but circumscribed abscess on the
+    outer side of middle third of thigh was opened and evacuated. <date type="operation"
+     when="1862-10-30">30th</date>, both the wounds of entrance and exit were enlarged to evacuate
+    pus more freely. December 5th, he has improved greatly; passive motion has been employed to
+    overcome stiffness of the knee." On March 18, 1863, he was able to walk with the aid of
+    crutches, and the wounds had nearly healed. A slight attack of erysipelas yielded readily to
+    treatment. May 21st, the wound took on a gangrenous condition, for which strong nitric acid was
+    applied. On <date type="transfer" when="1863-06-15">June 15th</date>, he was transferred to
+    Baltimore. The wounds looked healthy and his general condition was excellent. He entered the
+    Jarvis Hospital on <date type="admit" when="1863-06-16">the 16th</date>, and was discharged
+     <date type="servicedischarge" when="1863-09-07">September 7, 1863</date>. The femur had only
+    partially united; the sciatic nerve was injured; his leg was partially and his foot entirely
+    paralysed. He received a pension, and was employed as a clerk in the <name type="organization"
+     key="xxx">Interior Department</name>. Owing to a recurrence of abscesses he entered the <name
+     type="hospital" key="446">Providence Hospital</name>, Washington, in the <date type="admit"
+     when="1867">autumn of 1867</date>, and, on <date type="operation" when="1867-11-11">November
+     11th</date>, the limb was amputated in the middle third by <name type="person" key="123">Dr. D.
+     W. Bliss</name>, late Surgeon <name type="organization" key="132">U. S. V.</name> The wound
+    healed well, and a photograph was taken at the <name type="hospital" key="431">Army Medical
+     Museum</name> on <date type="photo" when="1868-01-09">January 9, 1868</date>, at which time the
+    stump was firm and healthy. The specimen was contributed to <name type="hospital" key="431">the
+     Museum</name> by <name type="person" key="123">the operator</name>, and is No. 4914, Surgical
+    Section. The fragments are considerably overlapped, having undergone unusual disturbance, and
+    the amount of callus exceeds what is necessary for complete union. On <date type="pension"
+     when="1871-03-10">March 10, 1871</date>, the patient was a clerk in the <name
+     type="organization" key="xxx">Pension Office</name>; the stump was healthy but his general
+    health poor. He died <date type="death" when="1878-03-17">March 17, 1878</date>, of phthisis
+    pulmonalis.</p>
+   <p>&#185; <hi rend="italic">Circular</hi> No. 3, Surgeon General's Office, Washington, 1871, p.
+    205, <hi rend="initialcap">C</hi>ASE <hi rend="initialcap">DLXXXV</hi>.</p>
+   <figure>
+    <graphic url="cww.001601.001"/>
+    <head><hi rend="initialcap">F</hi>IG. 203.&#8212;Appearance of stump two months after
+     amputation. [From a photograph.]</head>
+   </figure>
+  </body>
+ </text>
+</TEI>

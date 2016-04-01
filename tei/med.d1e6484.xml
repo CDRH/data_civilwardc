@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e6484">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Goldey, James H.</title>
+                <title level="m" type="sub">a machine readable transcription</title>
+                <principal>Susan C. Lawrence</principal>
+                <principal>Kenneth M. Price</principal>
+                <principal>Kenneth J. Winkle</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2011</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <idno>med.d1e6484</idno>
+                <authority>Civil War Washington</authority>
+                <publisher>University of Nebraska–Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+                </distributor>
+                <date>2011</date>
+                <availability>
+                    <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved.
+                        Redistribution or republication in any medium, except as allowed under the
+                        Fair Use provisions of U.S. copyright law, requires express written consent
+                        from the editors and advance notification of the publisher, the University
+                        of Nebraska–Lincoln.</p>
+                </availability>
+            </publicationStmt>
+            <notesStmt>
+                <note type="project">The following are responsible for particular readings or for changes to this file, as noted: 
+                    <persName xml:id="mb">Matthew Bosley</persName>
+                    <persName xml:id="el">Elizabeth Lorang</persName>
+                    <persName xml:id="sb">Stacey Berry</persName>
+                    <persName xml:id="et">Elisabeth Tracey</persName>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>The Medical and Surgical History of the War of the Rebellion. (1861&#8211;65.)</title>
+                    <editor role="compiler">Surgeon General Joseph K. Barnes, United States Army</editor>
+                    <pubPlace>Washington, D.C.</pubPlace>
+                    <publisher>Government Printing Office</publisher>
+                    <biblScope type="part">Part 1</biblScope>
+                    <biblScope type="volume">Volume 2</biblScope>
+                    <date when="1870">1870</date>
+                    <biblScope type="page">103</biblScope>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <classDecl>
+                <taxonomy xml:id="medsurg">
+                    <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme="#medsurg">
+                    <term>on special wounds and injuries of the head</term>
+                    <term>wounds and injuries of the head</term>
+                    <term>gunshot wounds</term>
+                    <term>gunshot contusions of the cranial bones</term> 
+                    <term>contusion of the skull without fracture</term>
+                    <term>exfoliation</term>                    
+                    <term>necrosed bone</term>
+                    <term>exfoliated portion of external table</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change who="#mb" when="2013-05-31">additional proofing of transcription and encoding, edited and added keyword terms</change>
+            <change who="#mb" when="2011-10-06">additional proofing of transcription and encoding</change>
+            <change who="#mb" when="2011-06-15">additional proofing of transcription and encoding</change>
+            <change who="#el" when="2011-11-05">case text extracted and transformed from larger file</change>
+            <change who="#sb" when="2011-02-09">enriched encoding</change>
+            <change who="#sb" when="2011-01-28">validated file</change>
+            <change who="#et" when="2009-08-01">encoded</change>
+            <change who="#sb" when="2008-09-22">initial checking of OCR text against PDF; encoded</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body xml:id="ch1.sc3.0075">            
+                <p><name type="person" key="1237"><hi rend="initialcap">G</hi>OLDEY, <hi
+                            rend="initialcap">J</hi>AMES <hi rend="initialcap">H</hi>.</name>,
+                    Private, <name type="organization" key="100">Co. A, 90th Pennsylvania
+                        Volunteers</name>.  Supposed gunshot scalp wound over occipital, <name
+                        type="BATTLE" key="281">Antietam</name>, <date type="injury"
+                        when="1862-09-17">September 17th, 1862</date>.  Entered hospital at
+                    <name type="place" key="#Washington">Washington</name>, <date type="admit" when="1862-09-23">September 23d</date>.
+                    Transferred to <name type="place">Fort Schuyler Hospital, New York</name>, <date type="transfer"
+                        when="1862-10-07">October 7th</date>. Transferred to <name type="place">Fort Hamilton</name>, <date type="transfer" when="1862-12-01">December
+                            1st</date>.  On <date type="transfer">December 13th</date>, he entered the <name type="hospital">Satterlee Hospital, Philadelphia</name>,
+                    complaining of pain in the occipital region. The wound was closed, but it
+                    reopened on December 18th. On <date type="operation" when="1863-01-18">January 18th, 1863</date>, a circular portion of dead
+                    bone, an inch in diameter, was detected by a probe. The patient had no pain or
+                    derangement of the mental faculties, and walked actively about the ward. About
+                    February 2d, the discharge from the wound was profuse, and the necrosed bone had
+                    not separated. There was no change in his condition until <date type="operation" when="1863-02-25">February 25th</date>, when
+                    the exfoliation was observed to be loose, and it was removed by <name type="person" key="xx">Acting Assistant Surgeon J. N. Moore</name> through a crucial incision. The exfoliation consisted of a
+                    portion of the external table, an inch in diameter, and several smaller pieces.
+                    On <date type="operation" when="1863-03-03">March 3d</date>, yet another piece of the external table was removed. On March 17th,
+                    the wound was nearly healed. The patient felt entirely well; and on <date
+                        type="servicedischarge" when="1863-05-22">May 22d, 1863</date>, he was
+                    discharged from service.  He appears to have had no subsequent trouble, since his
+                    name does not appear on the list of applicants for pension.</p>            
+        </body>
+    </text>
+</TEI>

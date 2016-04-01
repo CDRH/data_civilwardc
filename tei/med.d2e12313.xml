@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d2e12313">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Ellis, H. H.</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+    <idno>med.d2e12313</idno>
+    <authority>Civil War Washington</authority>
+    <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor><name>Center for Digital Research in the
+     Humanities</name><address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address></distributor>
+    <date>2011</date>
+    <availability>
+     <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+      republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+      law, requires express written consent from the editors and advance notification of the
+      publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+ <persName xml:id="kmp">Kenneth M. Price</persName> 
+     <persName xml:id="mb">Matthew Bosley</persName>
+     <persName xml:id="el">Elizabeth Lorang</persName>
+     <persName xml:id="sb">Stacey Berry</persName>
+     <persName xml:id="et">Elisabeth Tracey</persName>
+     <persName xml:id="ss">Sarah Synovec</persName> 
+     <persName xml:id="kk">Kourtney Klein</persName>
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title level="j">The Medical and Surgical History of the War of the Rebellion.
+      (1861-65.)</title><pubPlace>Washington, DC</pubPlace><publisher>Government Printing
+      Office</publisher><biblScope type="part">Part 3</biblScope><biblScope type="volume">Volume
+      2</biblScope><date when="1883">1883</date><biblScope type="page">224, 288</biblScope></bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+     <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <keywords scheme="#medsurg">
+     <term>wounds and injuries of the lower extremities</term> 
+     <term>injuries of the shaft of the femur</term>
+     <term>amputations in the shaft of the femur</term> 
+     <term>intermediary amputations in the shaft of the femur for shot injury</term>
+     <term>intermediary amputations in the lower third of the thigh</term> 
+     <term>successful cases of intermediary amputations in the lower third of the thigh</term> 
+     <term>ball fractured patella extensively, involved joint</term> 
+     <term>synovitis</term>
+     <term>diarrh&#339;a</term> 
+     <term>thigh amputated at lower third</term>
+     <term>h&#230;morrhage</term>
+     <term>patella broken into fragments, fissure extended through inner cartilaginous face of bone</term> 
+     <term>ligation of femoral artery performed below profunda</term>
+     <term>fitted with artificial limb</term>     
+     <term>general anesthesia, ether</term>
+     <term>prostrated from loss of blood, almost died from effects of ether</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+ <change who="#kmp" when="2014-05">blessed</change>
+   <change who="#kk" when="2014-01-29">added figure encoding</change>
+   <change who="#mb" when="2012-05-18">additional proofing of transcription and encoding, identified keyword terms</change>
+   <change who="#el" when="2011-05-11">case text extracted and transformed from larger file</change>
+   <change who="#sb" when="2011-06-04">Enrich Encoding, Edit and validate</change>
+   <change who="#sb" when="2011-01-28">Validated File</change>
+   <change who="#ss" when="2008-09-22">initial checking of OCR text; encoded P5 Encoding</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   
+    <p><hi rend="initialcap">C</hi>ASE 465.&#8212;<name type="person" key="1088">Corporal H. H.
+      Ellis</name>, <name type="organization" key="445">Co. I, 16th New York</name>, aged 23 years,
+     was wounded in the left knee, at <name type="BATTLE" key="xxx">Fredericksburg</name>, <date type="injury" when="1863-05-03">May 3, 1863</date>. <date type="admit" when="1863-05-08">Five days after the injury</date> he was admitted
+     into <name type="hospital" key="162">Douglas Hospital</name>, Washington, whence the following
+     history was received: "On examining the wound it was found that a conical ball had fractured
+     the patella so extensively as to involve the joint. On <date type="operation" when="1863-05-13">May 13th</date>, there were symptoms of
+     synovitis, and the thigh was amputated at the lower third, by the circular method, by <name type="person" key="616">Acting Assistant Surgeon J. E. Smith</name>. Portions of clothing were
+     removed from the amputated knee, and an examination showed that the patella had been broken
+     into numerous fragments, that a fissure extended through the inner cartilaginous face of the
+     bone, and that synovitis had been developed. The patient was broken down with diarrh&#339;a.
+     The stump was dressed with alcohol, and stimulants, quinine, and nutrients were given as
+     largely as possible. The general condition of the patient was so unfavorable that no effort at
+     repair was perceptible in the stump for many days. On May 20th, a h&#230;morrhage of several
+     ounces occurred and was controlled by pressure. During the following night the bleeding
+     recurred so freely as to render a ligation of the femoral artery necessary, which was performed below the profunda on <date type="operation" when="1863-05-21">May 21st</date>.
+     The patient was so prostrated from the loss of blood that he almost died from the effects of
+     the ether. The most careful administration of whiskey, ammonia, valerian, and morphia alone
+     sustained his life during the next forty-eight hours. There was no recurrence of
+     h&#230;morrhage after the ligation, nor did this ligature of the main artery produce the
+     slightest perceptible effect upon the appearance of the stump. The usual changes were resorted
+     to in the various astringents given for the diarrh&#339;a, nitrate of silver, opium, tannin,
+     and sulphuric acid, all proving at first beneficial and then losing their effect. Lemon juice was
+     given, as the patient's stomach would bear it with evident benefit as an antiscorbutic. For
+     weeks the patient hung between life and death. His whole thigh was much swollen and very tender
+     on pressure; the incisions were healthy in appearance, the discharge moderate, and the granulations very tedious. Under a careful treatment he gradually grew stronger, his diarrh&#339;a
+     ceased, and the stump, though yet greatly swollen, became closed excepting at the inner
+     extremity, where the end of the femur protruded, the flaps from the first having been
+     insufficient. On <date type="operation" when="1863-08-09">August 9th</date>, <name type="person" key="616">Dr. Smith</name> was ordered to
+     remove the exfoliating end of the bone, which was loose, and, to his surprise, proved to be a
+     very extensive sequestrum ten inches in length. Considerable h&#230;morrhage supervened, but
+     after the operation convalescence was very rapid, and the stump, no shorter than before, soon
+     closed entirely, being firm and in every way satisfactory. A formation of new bone could be
+     plainly felt in it. The patient regained his flesh and strength, and left the hospital <date type="hospitaldischarge" when="1863-10-23">October
+     26, 1863</date>, his term of service having expired <date type="servicedischarge" when="1863-05-22">May
+      22d</date>." The history, with the sequestrum, represented in <hi rend="initialcap">F</hi>IG.
+     1 of <hi rend="initialcap">P</hi>LATE <hi rend="initialcap">LXIX</hi>, opposite p. 224, and the bones of the amputated
+     knee, were contributed to <name type="hospital" key="431">the Museum</name> by <name
+      type="person" key="200">Assistant Surgeon W. Thomson</name>, <name type="organization"
+      key="190">U. S. A.</name>, in charge of <name type="hospital" key="162">Douglas
+      Hospital</name>. A ligamentous preparation of the latter specimen constitutes No. 1852 of the
+     Surgical Section. The patient was subsequently an inmate of the Post Hospital at <name type="place">Albany</name>, and afterwards entered Central
+     Park Hospital, <name type="place">New York City</name>, to be fitted with an artificial limb by <name
+      type="person" key="xx">Dr. E. D. Hudson</name>. He left for his home <date type="hospitaldischarge" when="1864-06-06">June 6, 1864</date>. His pension
+     was paid <date type="pension" when="1879-06-04">June 4, 1879</date>. (See wood-cut 64, p. 63, <hi rend="italic">Circular</hi> 6, S. G. O.,
+     Washington, Nov. 1, 1865.)</p>
+   
+   <figure>
+    <graphic url="cww.001811.001" />
+   <head> PLATE  LXIX. __ TUBULAR  SEQUESTRA  FROM  AMPUTATIONS  OF  THE  FEMUR.     1.  Spec. 1853.</head>
+   </figure>
+   
+    
+
+   
+  </body>
+ </text>
+</TEI>

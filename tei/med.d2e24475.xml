@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d2e24475">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Holt, H.</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+    <idno>med.d2e24475</idno>
+    <authority>Civil War Washington</authority>
+    <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor><name>Center for Digital Research in the
+     Humanities</name><address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address></distributor>
+    <date>2011</date>
+    <availability>
+     <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+      republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+      law, requires express written consent from the editors and advance notification of the
+      publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+     <persName xml:id="mb">Matthew Bosley</persName>
+     <persName xml:id="el">Elizabeth Lorang</persName>
+     <persName xml:id="sb">Stacey Berry</persName>
+     <persName xml:id="et">Elisabeth Tracey</persName>
+     <persName xml:id="ss">Sarah Synovec</persName>
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title level="j">The Medical and Surgical History of the War of the Rebellion.
+      (1861-65.)</title><pubPlace>Washington, DC</pubPlace><publisher>Government Printing
+      Office</publisher><biblScope type="part">Part 3</biblScope><biblScope type="volume">Volume
+      2</biblScope><date when="1883">1883</date><biblScope type="page">634-635</biblScope></bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+     <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <keywords scheme="#medsurg">
+     <term>wounds and injuries of the lower extremities</term> 
+     <term>wounds and operations in the foot</term>
+     <term>shot wounds of the bones of the foot</term>
+     <term>shot fractures of the bones of the foot</term> 
+     <term>amputations in the foot</term> 
+     <term>secondary amputations in the foot</term> 
+     <term>wounded in foot</term>
+     <term>ball entered top of foot, cut out from sole of foot on the field </term>
+     <term>fractured fifth metatarsal bone</term> 
+     <term>stiffness in jaws, inability to open mouth, trismus</term> 
+     <term>opening above inner malleolus, denuded tibia</term>
+     <term>removed fragments of fifth metatarsal bone with little toe</term>     
+     <term>strangury</term>
+     <term>general anesthesia, ether</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change who="#mb" when="2012-06-19">additional proofing of transcription and encoding, identified keyword terms</change>
+   <change who="#el" when="2011-05-11">case text extracted and transformed from larger file</change>
+   <change who="#sb" when="2011-06-04">Enrich Encoding, Edit and validate</change>
+   <change who="#sb" when="2011-01-28">Validated File</change>
+   <change who="#ss" when="2008-09-22">initial checking of OCR text; encoded P5 Encoding</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>   
+    <p><hi rend="initialcap">C</hi>ASE 935.&#8212;<name type="person" key="1411">Lieutenant H.
+      Holt</name>, <name type="organization" key="121">Co. F, 130th New York</name>, aged 20 years,
+     was wounded in the right foot, at <name type="BATTLE" key="217">Bull Run</name>, <date
+      type="injury" when="1862-08-30">August 30, 1862</date>.  <name type="person" key="938">Surgeon
+      C. L. Allen</name>, <name type="organization" key="132">U. S. V.</name>, described the injury
+     as follows:  "The ball entered at the top of the foot, fracturing the fifth metatarsal bone, and
+     was cut out on the field from the sole of the foot. He went on horseback to <name type="place">Centreville</name>, where
+     during the afternoon of the following day he was placed in an ambulance. <date type="admit" when="1862-09-01">The next day</date> he came
+     to <name type="place" key="#Washington">Washington</name>, taking the cars at Fairfax Station and entering <name type="hospital" key="172">Emory Hospital</name> for a day or two, <date type="transfer" when="1862-09-03">when</date> he
+     removed to a private boarding-house and was attended by a private physician.  On September 28th, foot was swollen; abscesses opened, and the original wounds were all discharging freely. The
+     patient was much emaciated, his countenance expressing suffering and showing the strongly
+     marked hectic flush; appetite gone; thirst considerable; pulse 130, feeble and fluttering; pain
+     and stiffness in the jaws, with inability to open the mouth more than to admit the tip of the
+     little finger between the teeth. This condition (trismus), he stated, had been coming on for
+     two or three days. Huxham's tincture, brandy, beef-essence, etc., with an occasional full dose
+     of morphia was prescribed.  On October 5th another abscess opened.  <date type="operation" when="1862-10-09">October 9th</date>: The patient has
+     slowly and steadily improved in general appearance since my first attendance; pulse 110 to 116
+     with more strength. It was thought advisable to put the patient under the influence of ether
+     and examine and perform any operation considered necessary, <name type="person"
+      key="1235">Surgeons M. Clymer</name> and <name type="person" key="288">J. H. Brinton</name>, <name
+      type="organization" key="132">U. S. V.</name>, being requested to see the case. The foot was
+     still enormously swollen, and the probe passed readily from the wound of entrance to the
+     opening below the external malleolus. In the upper opening four inches above the inner
+     malleolus the probe rapped distinctly upon the denuded tibia. <name type="person" key="1235">Surgeon Clymer</name> made an incision nearly the whole length of the external side of the
+     foot, and removed the fragments of the fifth metatarsal bone together with the little toe.
+     Since it appeared at this stage that all or nearly all the tarsal and metatarsal bones were
+     diseased, as well as the lower third of the tibia, it was decided that amputation was
+     necessary, but that the patient at this time could not endure any further operation. The
+     tonics, stimulants, and nourishments were now crowded as much as possible.  On October 12th the patient had somewhat
+     improved. On the following day tincture of cantharides, in doses of twenty drops every four hours and to be increased if
+     necessary, was prescribed in addition to his other treatment. For three or four days the
+     patient steadily but very slightly improved, after which he evidently failed for a few days. He
+     had taken nearly two ounces of tincture of cantharides and suffered a little of strangury. All
+     remedies except his nourishment and a little brandy were now omitted, and on the following day
+     compound syrup of phosphate of lime and iron was ordered.  On October 23d the patient was still
+     very feeble, but looked a little brighter and had a little appetite; pulse 120 to 130. After
+     this he steadily improved, and by November 1st he had a good appetite, his pulse having
+     gradually lessened to from 80 to 90 per minute.  On November 8th he was dressed and able to sit
+     in a chair, and about two weeks later he first went down stairs on crutches. The wounds on the
+     external side of the foot had completely healed by December 21st, while the openings on the
+     other side, both above and below the malleolus, were still discharging. All the openings healed
+     up about December 31st, but several days after more swelling appeared toward the toes, and on
+     January 3d an opening occurred over the second metatarsal bone, near the distal extremity. This discharged freely for several weeks, denuded
+     bone being detected by the probe.  On January 29th the patient was able to wear his boot all
+     day, and one week afterwards he walked with a cane.  By February 15th the last opening had
+     closed.  On <date type="servicedischarge" when="1863-03-13">March 13, 1863</date>, the patient was
+     mustered out of service, walking with ease by the aid of a cane and without much difficulty
+     without one. He subsequently informed me by letter that he was holding a position on <name type="organization" key="xx">the staff
+      of <name type="person">Brigadier General Pierce</name></name> in Massachusetts."  <name type="person" key="1411">Lieutenant Holt</name> is a pensioner, and was paid <date type="pension" when="1879-02">February, 1879</date>.</p>   
+  </body>
+ </text>
+</TEI>

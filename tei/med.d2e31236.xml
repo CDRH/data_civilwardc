@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d2e31236">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Davis, A. R.</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+       <idno>med.d2e31236</idno>
+       <authority>Civil War Washington</authority>
+       <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor>
+       <name>Center for Digital Research in the Humanities</name>
+       <address><addrLine>319 Love Library</addrLine>
+       <addrLine>University of Nebraska–Lincoln</addrLine>
+       <addrLine>Lincoln, NE 68588-4100</addrLine>
+       <addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+    </distributor>
+    <date>2011</date>
+    <availability>
+        <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+         republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+         law, requires express written consent from the editors and advance notification of the
+         publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+ <persName xml:id="kmp">Kenneth M. Price</persName> 
+     <persName xml:id="mb">Matthew Bosley</persName>
+     <persName xml:id="bt">Ben Tomjack</persName> 
+     <persName xml:id="kk">Kourtney Klein</persName>
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl>
+     <title level="j">The Medical and Surgical History of the War of the Rebellion. (1861-65.)</title>
+     <pubPlace>Washington, DC</pubPlace>
+     <publisher>Government Printing Office</publisher>
+     <biblScope type="part">Part 2</biblScope>
+     <biblScope type="volume">Volume 2</biblScope>
+     <date when="1876">1876</date>
+     <biblScope type="page">891</biblScope>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+       <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+      <keywords scheme="#medsurg">
+       <term>wounds and injuries of the upper extremities</term>
+       <term>wounds and injuries of the elbow joint</term>
+       <term>shot wounds of the elbow joint</term> 
+       <term>excisions at the elbow joint for shot injury</term>
+       <term>secondary excisions at the elbow</term> 
+       <term>fatal secondary excisions at the elbow</term>
+       <term>gunshot wound of arm</term>
+       <term>excision of elbow joint</term> 
+       <term>gunshot fracture of elbow joint</term>
+       <term>ball entered anterior part of elbow, passed directly upward and backward</term>
+       <term>portions of ends of radius, ulna, and humerus taken out</term>
+       <term>diarrh&#339;a, immediate cause of death</term>
+       <term>osteophytic deposits, articular surfaces carious</term>        
+       <term>general anesthesia, chloroform</term>
+     </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+ <change who="#kmp" when="2014-05">blessed</change>
+   <change who="#kk" when="2014-01-17">added figure encoding</change>
+   <change who="#mb" when="2012-07-13">additional proofing of transcription and encoding, identified keyword terms</change>
+   <change who="#bt" when="2011-02-25">checked OCR; added minimal mark-up for personal names, place names, and dates</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>   
+   <p><hi rend="initialcap">C</hi>ASE 1826.&#8212;<name type="person" key="xxx">Private A. R. Davis</name>, <name type="organization" key="xxx">Co. F, 102d Pennsylvania</name>, aged 28 years, was wounded at <name type="BATTLE" key="12">the Wilderness</name>, <date type="injury" when="1864-05-05">May 5, 1864</date>.  <name type="person" key="xxx">Surgeon S. F. Chapin</name>, <name type="organization" key="xxx">139th Pennsylvania</name>, recorded his admission to the field hospital of the 2d division, Sixth Corps, with &#34;a gunshot wound of left arm.&#34;  The patient was sent to <name type="place" key="#Washington">Washington</name>, whence <name type="person" key="72">Surgeon G. L. Pancoast</name>, <name type="organization" key="132">U. S. V.</name>, in charge of <name type="hospital" key="152">Finley Hospital</name>, performed excision of the elbow joint, and described the operation as follows:  &#34;The patient was admitted <date type="transfer" when="1864-05-13">May 13th</date>, with gunshot fracture of left elbow joint, the ball entering the anterior part, passing directly upward and backward. The joint was opened, the parts became much swollen, and anchylosis was taking place rapidly.  <date type="operation" when="1864-06-17">June 17th</date>, excision was performed, under chloroform, by an incision about five inches in length, a portion of the ends of the radius, ulna, and humerus being taken out.  June 30th, patient has been doing very well. Water dressings were applied, and afterward emollient poultice.  Death took place on <date type="death" when="1864-08-22">August 22, 1864</date>. The immediate cause of death was diarrh&#339;a.  The excised bones of the joint, represented in the annexed cut (<hi rend="initialcap">F</hi>IG. 649), were contributed to <name type="hospital" key="431">the Museum</name> by <name type="person" key="72">the operator</name>, and embrace the head and one inch of the shaft of the radius, six fragments representing two inches of the extremity of the humerus, and the upper part of the ulna. The specimen has slight osteophytic deposits upon it, and the articular surfaces are more or less carious.</p>
+   
+   <figure>
+    <graphic url="cww.001724.001" />
+    <head><hi rend="initialcap">F</hi>IG. 649.&#8212;Excised part of elbow.    <hi rend="italic">Spec</hi>. 2583.</head>
+   </figure>
+   
+  </body>
+ </text>
+</TEI>

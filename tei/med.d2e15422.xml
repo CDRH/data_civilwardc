@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d2e15422">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Warrington, J. W.</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+       <idno>med.d2e15422</idno>
+       <authority>Civil War Washington</authority>
+       <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor>
+       <name>Center for Digital Research in the Humanities</name>
+       <address><addrLine>319 Love Library</addrLine>
+       <addrLine>University of Nebraska–Lincoln</addrLine>
+       <addrLine>Lincoln, NE 68588-4100</addrLine>
+       <addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+    </distributor>
+    <date>2011</date>
+    <availability>
+        <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+         republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+         law, requires express written consent from the editors and advance notification of the
+         publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+         <persName xml:id="mb">Matthew Bosley</persName>         
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl>
+        <title level="j">The Medical and Surgical History of the War of the Rebellion. (1861-65.)</title>
+        <pubPlace>Washington, DC</pubPlace>
+        <publisher>Government Printing Office</publisher>
+        <biblScope type="part">Part 3</biblScope>
+        <biblScope type="volume">Volume 2</biblScope>
+        <date when="1883">1883</date>
+        <biblScope type="page">374</biblScope>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+       <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+      <keywords scheme="#medsurg">
+       <term>wounds and injuries of the lower extremities</term> 
+       <term>wounds and injuries of the knee joint</term>
+       <term>shot injuries of the knee joint</term> 
+       <term>shot fractures of the knee joint</term>
+       <term>shot fractures of the bones of the knee joint treated by conservation</term> 
+       <term>recoveries after shot fractures of the bones of the knee joint treated by conservation</term> 
+       <term>ball entered centre of patella, produced stellate fracture</term>
+       <term>ball cut out on field, below tuberosity of tibia</term>
+       <term>wounds healed, patient walked with cane</term>           
+     </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+       <change who="#mb" when="2012-05-25">additional case copied from MSHWR, performed proofing of copy and XML encoding, and key terms identified</change>  
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p><hi rend="initialcap">C</hi>ASE 558.&#8212;<name type="person" key="xxx">Private J. W. Warrington</name>, <name type="organization" key="xxx">Co. C, 110th Ohio</name>, was wounded on <date type="injury" when="1865-04-02">April 2, 1865</date>, at <name type="BATTLE" key="58">Petersburg</name>, by a round ball from a spherical case shell. The ball entered the centre of the patella, and, producing a stellate fracture of that bone, passed
+    downward, backward, and inward, and was cut out, on the field, one and a half inches below the tuberosity of the tibia. On
+    <date type="admit" when="1865-04-12">April 12, 1865</date>, the patient was admitted into <name type="hospital" key="428">Judiciary Square Hospital</name>. There was no pain in the knee joint, and but little
+    swelling. The treatment had been limited to dressings of cold water, which were continued for a few days, and followed by
+    applications of ice.  The patient was removed to <name type="hospital" key="162">Douglas Hospital</name> <date type="transfer" when="1865-06-19">June 19, 1865</date>, when three small necrosed fragments of the
+    patella were removed.  A photograph of the patient, taken <date type="photo" when="1865-07-09">July 9, 1865</date>, is No. 64, <hi rend="italic">Surg. Phot. Series</hi>, A. M. M.  The wounds
+    had healed and the patient walked about with a cane. There was at no time any indication of the formation of pus within the
+    joint. The facts of the case were communicated by <name type="person" key="xxx">Acting Assistant Surgeon H. S. Colton</name>.  Warrington was discharged <date type="servicedischarge" when="1865-07-24">July 24, 1865</date>, and pensioned. He was paid <date type="pension" when="1879-09-04">September 4, 1879</date>.</p>   
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e11611">
+        <teiHeader>
+                <fileDesc>
+                        <titleStmt>
+                                <title level="m" type="main">Fletcher, Patrick</title>
+                                <title level="m" type="sub">a machine readable transcription</title>
+                                <principal>Susan C. Lawrence</principal>
+                                <principal>Kenneth M. Price</principal>
+                                <principal>Kenneth J. Winkle</principal>
+                        </titleStmt>
+                        <editionStmt>
+                                <edition>
+                                        <date>2011</date>
+                                </edition>
+                        </editionStmt>
+                        <publicationStmt>
+                                <idno>med.d1e11611</idno>
+                                <authority>Civil War Washington</authority>
+                                <publisher>University of Nebraska–Lincoln</publisher>
+                                <distributor>
+                                        <name>Center for Digital Research in the Humanities</name>
+                                        <address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+                                </distributor>
+                                <date>2011</date>
+                                <availability>
+                                        <p>Copyright © 2011 by University of Nebraska–Lincoln, all
+                                                rights reserved. Redistribution or republication in
+                                                any medium, except as allowed under the Fair Use
+                                                provisions of U.S. copyright law, requires express
+                                                written consent from the editors and advance
+                                                notification of the publisher, the University of
+                                                Nebraska–Lincoln.</p>
+                                </availability>
+                        </publicationStmt>
+                        <notesStmt>
+                                <note type="project">The following are responsible for particular
+                                        readings or for changes to this file, as noted: 
+                                        <persName xml:id="mb">Matthew Bosley</persName>
+                                        <persName xml:id="el">Elizabeth Lorang</persName>
+                                        <persName xml:id="sb">Stacey Berry</persName>
+                                        <persName xml:id="et">Elisabeth Tracey</persName>
+                                </note>
+                        </notesStmt>
+                        <sourceDesc>
+                                <bibl>
+                                        <title level="j">The Medical and Surgical History of the War
+                                                of the Rebellion</title>
+                                        <pubPlace>Washington, DC</pubPlace>
+                                        <publisher>Government Printing Office</publisher>
+                                        <biblScope type="part">Part 3</biblScope>
+                                        <biblScope type="volume">Volume 1</biblScope>
+                                        <date when="1888">1888</date>
+                                        <biblScope type="page">868</biblScope>
+                                </bibl>
+                        </sourceDesc>
+                </fileDesc>
+                <encodingDesc>
+                        <classDecl>
+                                <taxonomy xml:id="medsurg">
+                                        <bibl>Medical and Surgical History of the War of the
+                                                Rebellion</bibl>
+                                </taxonomy>
+                        </classDecl>
+                </encodingDesc>
+                <profileDesc>
+                        <textClass>
+                                <keywords scheme="#medsurg">
+                                        <term>cardiac diseases</term>
+                                        <term><choice><orig>aneurism</orig><reg>aneurysm</reg></choice></term>
+                                        <term>aorta inch and a half above valves, <choice><orig>aneurism</orig><reg>aneurysm</reg></choice> size of an egg</term>
+                                        <term>rupture of <choice><orig>aneurism</orig><reg>aneurysm</reg></choice> of aorta</term>
+                                        <term>post-mortem examination performed</term>
+                                 </keywords>
+                        </textClass>
+                </profileDesc>
+                <revisionDesc>
+                        <change who="#mb" when="2011-07-15">additional proofing of transcription and encoding</change>
+                        <change who="#el" when="2011-05-11">case text extracted and transformed from
+                                larger file</change>
+                        <change who="#sb" when="2011-02-23">Encoding and Proofing</change>
+                        <change who="#et" when="2009-12-01">Initial Checking OCR Text to PDF file,
+                        </change>
+                </revisionDesc>
+        </teiHeader>
+        <text>
+                <body>
+                        
+                        <p> <hi rend="initialcap">C</hi>ASE 1.&#8212;<name type="person">Private Patrick Fletcher</name>, <name type="organization">Co. H, 4th U. S.
+                                Cav.</name>; age 42; died suddenly while in camp, <date type="death" when="1863-12-09">Dec. 9, 1863</date>.  He
+                                        had not been at surgeon's call during his service of over
+                                        ten months in this regiment, but a comrade stated that he
+                                        would occasionally place his hand to his side, complain of
+                                        pain, and remark that he would die of disease of the heart.
+                                        He had previously served five years in the 3d Art'y and five
+                                        years in the 2d Inf.  On the day before his death he marched
+                                        with his regiment a distance of twenty-five miles. It rained
+                                        all day and was very cold, nearly freezing. He, like every
+                                        one else, had to sleep on the ground in wet clothes. Next
+                                        morning a march of five miles was made and the regiment went
+                                        into camp. Fletcher, while assisting to pitch a tent, fell
+                                        down and, gasping once or twice, died.  <hi rend="italic">Post-mortem</hi> examination: Neck swollen as though the <choice><sic>bloodvessels</sic><corr>blood vessels</corr></choice> were
+                                        engorged. The pericardium was smooth and healthy, but was
+                                        enormously distended with twenty-six ounces of blood-clot
+                                        and serum. The heart was of natural size, but the walls of
+                                        the left ventricle were thicker while those of the right
+                                        appeared somewhat thinner than usual; the endocardium and
+                                        valves were healthy. In the aorta, about an inch and a half
+                                        above the valves, was an aperture a quarter of an inch in
+                                        diameter, opening into an <choice><orig>aneurism</orig><reg>aneurysm</reg></choice> the size of an egg, the
+                                        walls of which adhered firmly to the superior cava and
+                                        pericardium and were as thick as those of the aorta itself
+                                        except at a point where rupture had taken place into the
+                                        pericardial sac,&#8212;[<hi rend="italic">Specimen</hi> 965, Med. Sec., <name type="hospital" key="431">Army Medical Museum</name>]. The left pleura was adherent and the
+                                        lung engorged with venous blood; the right lung was healthy, although much compressed by the liver, which was so
+                                        engorged as to reach the lower border of the third rib. The
+                                        spleen was enlarged; the kidneys healthy.&#8212;<hi rend="italic"><name type="person">Act. Ass' t Surgeon Thomas Bowen</name>, <name type="organization">4th U. S. Cav.</name></hi> </p>
+                        
+                </body>
+        </text>
+</TEI>

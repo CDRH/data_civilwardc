@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e41918">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Kelcher, Thomas</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+    <idno>med.d1e41918</idno>
+    <authority>Civil War Washington</authority>
+    <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor>
+     <name>Center for Digital Research in the Humanities</name>
+     <address><addrLine>319 Love Library</addrLine>
+       <addrLine>University of Nebraska–Lincoln</addrLine>
+       <addrLine>Lincoln, NE 68588-4100</addrLine>
+       <addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+    </distributor>
+    <date>2011</date>
+    <availability>
+     <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+      republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+      law, requires express written consent from the editors and advance notification of the
+      publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+ <persName xml:id="kmp">Kenneth M. Price</persName> <persName xml:id="ajh">AJ Howell</persName>
+     <persName xml:id="mb">Matthew Bosley</persName>
+     <persName xml:id="el">Elizabeth Lorang</persName>
+     <persName xml:id="sb">Stacey Berry</persName>
+     <persName xml:id="ao">Alyssa Olson</persName>
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl>
+     <title level="j">The Medical and Surgical History of the War of the Rebellion.
+      (1861-65.)</title>
+     <pubPlace>Washington, DC</pubPlace>
+     <publisher>Government Printing Office</publisher>
+     <biblScope type="part">Part 2</biblScope>
+     <biblScope type="volume">Volume 1</biblScope>
+     <date when="1879">1879</date>
+     <biblScope type="page">513, 520</biblScope>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+     <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <keywords scheme="#medsurg">
+     <term>diarrh&#339;a and dysentery</term>
+     <term>remarks on the pathology and treatment of diarrh&#339;a and dysentery</term>
+     <term>chronic dysentery</term>
+     <term>post mortem appearances in chronic dysentery</term>
+     <term>morbid anatomy</term>
+     <term>chronic inflammation of the mucous and submucous coats of the intestines without
+      ulceration</term>
+     <term>autopsy performed</term>
+     <term>general anesthesia, ether</term>
+     <term>gunshot fracture of thigh</term>
+     <term>ball entered external surface of thigh at junction of middle and lower thirds, passed
+      transversely inward, comminuted femur, and exited internal surface opposite wound of
+      entrance</term>
+     <term>comminuted fracture of femur</term>
+     <term>abscess at lower border of popliteal space, caused by pressure of splint on posterior
+      surface of thigh</term>
+     <term>erysipelas</term>
+     <term>appearance of gangrene</term>
+     <term>pleurisy</term>
+     <term>apex of each lung studded with tubercles</term>
+     <term>numerous ulcers of mucous membrane of large intestine</term>
+     <term>cysts of descending colon contained lymph, some appeared undergoing ulceration, others
+      already perforated and filled with pus</term>
+     <term>ruptured cysts resembled follicular ulcers</term>
+     <term>observed with microscope delicate nucleated cells resembling white corpuscles of
+      blood</term>
+     <term>acute catarrhal dysentery, passed into chronic flux</term>
+     <term>colon presented cysts containing jelly-like substance</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+ <change who="#kmp" when="2014-05">blessed</change>
+   <change who="#ajh" when="2013-08-21">added figure encoding</change>
+   <change who="#mb" when="2013-02-01">additional proofing of transcription and encoding, edited and
+    added keyword terms, added figures</change>
+   <change who="#el" when="2010-11-05">case text extracted and transformed from larger file</change>
+   <change who="#sb" when="2010-05-01">enrich encoding, proof and edit</change>
+   <change who="#ao" when="2008-10-02">encoding and editing</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>A very similar specimen to that just described is represented in the plate facing page 514,
+    which is reproduced from a photograph of No. 602, Medical Section, and represents the specimen
+    after it had been preserved in alcohol for some time. The following history of the case was
+    furnished by <name type="person" key="xxx">Acting Assistant Surgeon George K. Smith</name>:</p>
+   <p><hi rend="initialcap">C</hi>ASE 900.&#8212;<name type="person" key="xxx">Private Thomas
+     Kelcher</name>, <name type="organization" key="xxx">company E, 28th Massachusetts
+     volunteers</name>; age 29; Irish; enlisted <date type="enlist" when="1864-08-01">August 1,
+     1864</date>. <date type="injury" when="1865-03-25">March 25, 1865</date>, he received a gunshot
+    fracture of the left thigh in action <name type="BATTLE" key="58">near Petersburg,
+     Virginia</name>. He was admitted to the depot field hospital of the Second Army Corps, <name
+     type="place">City Point, Virginia</name>, and on <date type="transfer" when="1865-03-31">the
+     31st</date> was sent on board the <name type="hospital" key="xxx">steamer State of Maine</name>
+    for transfer to <name type="place" key="#Washington">Washington</name>. He was admitted to <name
+     type="hospital" key="171">Armory Square hospital</name>, Washington, D. C., <date type="admit"
+     when="1865-04-01">April 1st</date>. On examination it was found that the ball had entered the
+    external surface of the left thigh at the junction of its middle and lower thirds, and passing
+    transversely inwards comminuted the femur, and made its exit on the internal surface opposite
+    the wound of entrance. <date type="operation" when="1865-04-02">April 2d</date>, he was
+    etherized, the wound of entrance enlarged, and five fragments of bone removed. When admitted to
+     <name type="hospital" key="171">Armory Square</name> this man had an abscess at the lower
+    border of the left popliteal space, caused by the pressure of the end of a splint which had been
+    applied to the posterior surface of the thigh. This caused so much pain and soreness that he
+    could not at first bear extension, but at the end of the month of April this trouble was so much
+    better that he was able to bear extension well. May 10th, he was attacked with the stools
+    containing mucus but no blood, and this continued until his death, with the exception of two or
+    three short intervals. June 15th, he was doing remarkably well; appetite good, tongue clean and
+    bowels regular; but, July 1st, he had a return of the dysentery, which was not subsequently
+    benefited by treatment. July 25th, the injured limb was attacked by erysipelas, and for a little
+    distance around the wound, not exceeding half an inch at any point, it presented the appearance
+    of gangrene. This was treated by the application of solution of bromine. The limb was
+    considerably swollen, and the patient felt great pain near the ankle joint. July 29th, a large
+    patch of the epidermis over the left ankle was raised, and the space beneath filled with
+    dark-colored serum. The true skin presented the bluish color seen in the first stage of
+    gangrene. This appearance continued to extend up the limb until his death, on <date type="death"
+     when="1865-07-30">the following day</date>. The night before his death he had a severe pain in
+    his left side, indicative of pleurisy. <hi rend="italic">Autopsy</hi>
+    <date type="autopsy" when="1865-07-30">8 hours after death</date>: Rigor mortis well marked. The
+    apex of each lung was studded with tubercles. The posterior surface of the lower part of the
+    left lung was covered with lymph, and the pleura at this point was highly inflamed. The heart
+    was normal; the stomach and small intestine were also normal. The mucous membrane of the large
+    intestine throughout its whole extent presented numerous ulcers about a quarter of an inch in
+    diameter, and in the descending portion there were a large number of cysts containing lymph,
+    some of which appeared to be undergoing ulceration, while others, already perforated, were
+    filled with pus. The femoral and iliac veins of the injured side were completely filled with a
+    firm fibrinous clot extending from the knee to the vena cava ascendens. The fractured femur was
+    firmly united, with three-quarters of an inch shortening. [Specimens Nos. 602 and 603, Medical
+    Section, are portions of the colon in this case, and No. 1105, Surgical Section, is the
+    fractured femur.]</p>
+   <p>The large intestine from this case was brought to <name type="hospital" key="431">the
+     Museum</name> immediately after the post mortem examination. When received its mucous surface
+    was of a pale cream color, with livid bluish discoloration around the cysts. These contained a
+    semi-transparent yellowish matter resembling calves'-foot jelly, in which, with the microscope,
+    a few delicate nucleated cells resembling the white corpuscles of the blood were observed to be
+    imbedded. This substance was undoubtedly what is described as pus in the history of the case
+    given below. Many of the cysts had ruptured and their contents escaped, leaving cavities
+    resembling follicular ulcers. I found no other ulcers in any part of the specimen. The specimen,
+    No. 602, Med. Section, represented in the photo-plate, is a portion of the transverse colon,
+    exhibiting some fifty of the cysts described; the action of the alcohol has caused them to
+    collapse, but their position and dimensions can still be recognized; several have so ruptured as
+    to be converted into the cavities just described. No. 603, Medical Section, is a portion of the
+    descending colon from the same case; it contains a small number of similar cysts, and also
+    presents a number of small, irregular, oval cicatrices, such as result from the healing of
+    follicular ulcers. A few of these cicatrices can also be recognized in the photo-plate by the
+    help of a lens.</p>
+   <p>In both the cases just described the death of the patient was undoubtedly hastened by the
+    gunshot wound.</p>
+   <p>The plate facing page 528 gives an excellent idea of the appearances presented by these
+    characteristic cicatrices. It is reproduced from a photograph of a portion of No. 603, Medical
+    Section. The specimen represented is from the case of Thomas Kelcher,. related on page 513. In
+    that case the patient, while under treatment for a gunshot fracture of the thigh, suffered an
+    attack of acute catarrhal dysentery which passed into a chronic flux. His colon presented a
+    number of cysts, containing a jelly-like substance; these were fully described in the place
+    referred to, and are represented in the plate facing page 514, which is reproduced from a
+    photograph of No. 602, Medical Section. But between these cysts and the ulcer-like cavities
+    formed here and there by their rupture there were a considerable number of stellate cicatrices.
+    Several of these cicatrices can be recognized in the plate just mentioned as representing No.
+    602, Medical Section. The photograph of a portion of No. 603, reproduced in the plate now
+    described, was taken one-half larger than nature in order that the surface details might be
+    better seen. In the portion reproduced there are several small, deep, oval cavities which
+    represent the ruptured cysts just referred to. The surface of the intestine exhibits, besides,
+    rather more than a dozen stellate cicatrices, some four or five of which form a conspicuous
+    group near the centre of the plate. Each cicatrix consists of a central smooth area, oval or
+    almost linear in shape, and varying in the specimen from one-twentieth to one-fifth of an inch
+    in long diameter. From this central smooth portion radiate numerous delicate sinuous ridges,
+    which sometimes branch and sometimes anastomose. In the plate, almost as well as in the
+    specimen, the orifices of the glands of Lieberk&#252;hn can readily be recognized with a lens in
+    the interspaces of the network formed by these radiating ridges.</p>
+   <figure>
+    <graphic url="cww.001505.001"/>
+    <head><hi rend="initialcap">P</hi>LATE XXVIII. TRANSVERSE COLON WITH CYSTS. No. 602. MEDICAL
+     SECTION.</head>
+   </figure>
+   <figure>
+    <graphic url="cww.001506.001"/>
+    <head><hi rend="initialcap">P</hi>LATE XXXV. COLON, WITH CICATRICES OF FOLLICULAR ULCERS. No.
+     603. MEDICAL SECTION. [ENLARGED ONE-HALF.]</head>
+   </figure>
+  </body>
+ </text>
+</TEI>

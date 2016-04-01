@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e9476">
+        <teiHeader>
+                <fileDesc>
+                        <titleStmt>
+                                <title level="m" type="main">Riley, Martin</title>
+                                <title level="m" type="sub">a machine readable transcription</title>
+                                <principal>Susan C. Lawrence</principal>
+                                <principal>Kenneth M. Price</principal>
+                                <principal>Kenneth J. Winkle</principal>
+                        </titleStmt>
+                        <editionStmt>
+                                <edition>
+                                        <date>2011</date>
+                                </edition>
+                        </editionStmt>
+                        <publicationStmt>
+                                <idno>med.d1e9476</idno>
+                                <authority>Civil War Washington</authority>
+                                <publisher>University of Nebraska–Lincoln</publisher>
+                                <distributor>
+                                        <name>Center for Digital Research in the Humanities</name>
+                                        <address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+                                </distributor>
+                                <date>2011</date>
+                                <availability>
+                                        <p>Copyright © 2011 by University of Nebraska–Lincoln, all
+                                                rights reserved. Redistribution or republication in
+                                                any medium, except as allowed under the Fair Use
+                                                provisions of U.S. copyright law, requires express
+                                                written consent from the editors and advance
+                                                notification of the publisher, the University of
+                                                Nebraska–Lincoln.</p>
+                                </availability>
+                        </publicationStmt>
+                        <notesStmt>
+                                <note type="project">The following are responsible for particular
+                                        readings or for changes to this file, as noted: 
+                                        <persName xml:id="mb">Matthew Bosley</persName>
+                                        <persName xml:id="el">Elizabeth Lorang</persName>
+                                        <persName xml:id="sb">Stacey Berry</persName>
+                                        <persName xml:id="et">Elisabeth Tracey</persName>
+                                </note>
+                        </notesStmt>
+                        <sourceDesc>
+                                <bibl>
+                                        <title level="j">The Medical and Surgical History of the War of the Rebellion</title>
+                                        <pubPlace>Washington, DC</pubPlace>
+                                        <publisher>Government Printing Office</publisher>
+                                        <biblScope type="part">Part 3</biblScope>
+                                        <biblScope type="volume">Volume 1</biblScope>
+                                        <date when="1888">1888</date>
+                                        <biblScope type="page">387</biblScope>
+                                </bibl>
+                        </sourceDesc>
+                </fileDesc>
+                <encodingDesc>
+                        <classDecl>
+                                <taxonomy xml:id="medsurg">
+                                        <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+                                </taxonomy>
+                        </classDecl>
+                </encodingDesc>
+                <profileDesc>
+                        <textClass>
+                                <keywords scheme="#medsurg">
+                                        <term>the continued fevers</term>
+                                        <term>post-mortem records of continued fevers</term>                                       
+                                        <term>cases reported as typhoid fever, the clinical history insufficient or absent</term>
+                                        <term>Peyer's patches ulcerated and the large intestine also implicated</term>      
+                                        <term>bronchial tubes contained purulent secretion</term>
+                                        <term>small point of pus found at apex of heart</term>
+                                        <term>mitral valve thickened and roughened</term>
+                                        <term>stomach nearly filled with bile</term>
+                                        <term>ileum inflamed and Peyer's patches ulcerated</term>
+                                        <term>ascending colon congested in spots</term>                                        
+                                </keywords>
+                        </textClass>
+                </profileDesc>
+                <revisionDesc>
+                        <change who="#mb" when="2013-04-08">additional proofing of transcription and encoding, edited and added keyword terms</change>
+                        <change who="#mb" when="2011-10-03">additional proofing of transcription and encoding</change>                        
+                        <change who="#mb" when="2011-06-23">additional proofing of transcription and encoding</change>
+                        <change who="#el" when="2011-05-11">case text extracted and transformed from larger file</change>
+                        <change who="#sb" when="2011-02-23">Encoding and Proofing</change>
+                        <change who="#et" when="2009-12-01">Initial Checking OCR Text to PDF file,</change>
+                </revisionDesc>
+        </teiHeader>
+        <text>
+                <body xml:id="ch4.sc4.1.00191">                        
+                                <p><hi rend="initialcap">C</hi>ASE 191.&#8212;<name
+                                                type="person" key="719">Private Martin Riley</name>,
+                                                <name type="organization" key="700">Co. C, 122d
+                                                Pa.</name>; admitted <date type="admit"
+                                                when="1863-04-21">April 21, 1863</date>.  Continued
+                                        fever.  Died <date type="death" when="1863-05-24">May
+                                                24</date>.  <hi rend="italic">Post-mortem</hi>
+                                        examination <date type="autopsy" when="1863-05-25">twenty hours after death</date>: The body was much
+                                        emaciated. The lungs were healthy, but the bronchial tubes
+                                        contained a purulent secretion. The heart was softened and
+                                        pale; a small point of pus was found at its apex; the mitral
+                                        valve was thickened and slightly roughened. The stomach was
+                                        nearly filled with bile. The liver was healthy; the
+                                        gall-bladder nearly empty. The duodenum and jejunum were
+                                        normal; the ileum inflamed and Peyer's patches ulcerated;
+                                        the ascending colon congested in spots, the transverse and
+                                        descending portions healthy. The kidneys were normal.&#8212;<hi rend="italic"><name
+                                                  type="person" key="181">Act. Ass't. Surg. A. H.
+                                                  Haven</name>, <name type="hospital" key="173">Harewood Hospital</name>, Washington, D. C.</hi></p>                        
+                </body>
+        </text>
+</TEI>

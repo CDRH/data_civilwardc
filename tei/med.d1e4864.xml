@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e4864">
+        <teiHeader>
+                <fileDesc>
+                        <titleStmt>
+                                <title level="m" type="main">Graves, Edwin</title>
+                                <title level="m" type="sub">a machine readable transcription</title>
+                                <principal>Susan C. Lawrence</principal>
+                                <principal>Kenneth M. Price</principal>
+                                <principal>Kenneth J. Winkle</principal>
+                        </titleStmt>
+                        <editionStmt>
+                                <edition>
+                                        <date>2011</date>
+                                </edition>
+                        </editionStmt>
+                        <publicationStmt>
+                                <idno>med.d1e4864</idno>
+                                <authority>Civil War Washington</authority>
+                                <publisher>University of Nebraska–Lincoln</publisher>
+                                <distributor>
+                                        <name>Center for Digital Research in the Humanities</name>
+                                        <address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+                                </distributor>
+                                <date>2011</date>
+                                <availability>
+                                        <p>Copyright © 2011 by University of Nebraska–Lincoln, all
+                                                rights reserved. Redistribution or republication in
+                                                any medium, except as allowed under the Fair Use
+                                                provisions of U.S. copyright law, requires express
+                                                written consent from the editors and advance
+                                                notification of the publisher, the University of
+                                                Nebraska–Lincoln.</p>
+                                </availability>
+                        </publicationStmt>
+                        <notesStmt>
+                                <note type="project">The following are responsible for particular
+                                        readings or for changes to this file, as noted:
+                                        <persName xml:id="mb">Matthew Bosley</persName>
+                                        <persName xml:id="el">Elizabeth Lorang</persName>
+                                        <persName xml:id="sb">Stacey Berry</persName>
+                                        <persName xml:id="et">Elisabeth Tracey</persName>
+                                </note>
+                        </notesStmt>
+                        <sourceDesc>
+                                <bibl>
+                                        <title level="j">The Medical and Surgical History of the War
+                                                of the Rebellion</title>
+                                        <pubPlace>Washington, DC</pubPlace>
+                                        <publisher>Government Printing Office</publisher>
+                                        <biblScope type="part">Part 3</biblScope>
+                                        <biblScope type="volume">Volume 1</biblScope>
+                                        <date when="1888">1888</date>
+                                        <biblScope type="page">249</biblScope>
+                                </bibl>
+                        </sourceDesc>
+                </fileDesc>
+                <encodingDesc>
+                        <classDecl>
+                                <taxonomy xml:id="medsurg">
+                                        <bibl>Medical and Surgical History of the War of the
+                                                Rebellion</bibl>
+                                </taxonomy>
+                        </classDecl>
+                </encodingDesc>
+                <profileDesc>
+                        <textClass>
+                                <keywords scheme="#medsurg">
+                                        <term>clinical records</term>
+                                        <term>the continued fevers</term>
+                                        <term>typho-malarial and typhoid fevers</term>
+                                        <term>Seminary Hospital cases</term>
+                                        <term>case-books of Seminary Hospital, D. C.</term>
+                                        <term>typhoid fever</term>
+                                        <term>typhoid but malarial element prominent</term>
+                                </keywords>
+                        </textClass>
+                </profileDesc>
+                <revisionDesc>
+                        <change who="#mb" when="2011-10-07">additional proofing of transcription and encoding</change>
+                        <change who="#mb" when="2011-06-10">additional proofing of transcription and encoding</change>
+                        <change who="#el" when="2011-05-11">case text extracted and transformed from
+                                larger file</change>
+                        <change who="#sb" when="2011-02-23">Encoding and Proofing</change>
+                        <change who="#et" when="2009-12-01">Initial Checking OCR Text to PDF file,
+                        </change>
+                </revisionDesc>
+        </teiHeader>
+        <text>
+                <body xml:id="ch4.sc2.3.00122">
+                        
+                                <p><hi rend="initialcap">C</hi>ASE 122.&#8212;<hi rend="italic"
+                                                >Death in eight days. Diagnosis&#8212;typhoid,
+                                                but symptoms and treatment those of remittent
+                                                fever.</hi>&#8212;<name type="person" key="580"
+                                                >Private Edwin Graves</name>, <name
+                                                type="organization" key="329">Co. D, 86th N. Y.
+                                                Vols.</name>; age 20; was admitted <date
+                                                type="admit" when="1862-03-17">March 17,
+                                                        1862</date>. He was taken sick about <date type="injury" when="1862-03-12">the 12th</date> with pain in
+                                        the chest, headache, nausea, a feeling of general swelling
+                                        and much debility, succeeded by a chill, fever and profuse
+                                        perspiration, which symptoms recurred daily about 11 A. M.;
+                                        he had also much annoyance from a numb feeling in his
+                                        fingers. On admission the pulse was rapid and weak, the skin
+                                        hot and moist, the tongue moist, red and slightly coated;
+                                        the patient's appetite was poor and he had some
+                                        diarrh&#339;a and pyrosis; he stated that the chill and
+                                        fever occurred at the same time in rapid alternations in
+                                        different parts of the body, the paroxysms lasting two or
+                                        three hours. Twenty-four grains of quinine were directed to
+                                        be taken during the day. He was delirious during the 18th;
+                                        his pulse rapid and weak, skin natural, tongue moist and
+                                        coated white. Punch and beef-essence were given every two
+                                        hours, he died delirious on the morning of <date
+                                                type="death" when="1862-03-19">the 19th</date>. </p>
+                        
+                </body>
+        </text>
+</TEI>

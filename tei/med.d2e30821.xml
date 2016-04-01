@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d2e30821">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Collett, J. R.</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+       <idno>med.d2e30821</idno>
+       <authority>Civil War Washington</authority>
+       <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor>
+       <name>Center for Digital Research in the Humanities</name>
+       <address><addrLine>319 Love Library</addrLine>
+       <addrLine>University of Nebraska–Lincoln</addrLine>
+       <addrLine>Lincoln, NE 68588-4100</addrLine>
+       <addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+    </distributor>
+    <date>2011</date>
+    <availability>
+        <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+         republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+         law, requires express written consent from the editors and advance notification of the
+         publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+ <persName xml:id="kmp">Kenneth M. Price</persName> 
+     <persName xml:id="mb">Matthew Bosley</persName>
+     <persName xml:id="cm">Clint Mink</persName> 
+     <persName xml:id="kk">Kourtney Klein</persName>
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl>
+     <title level="j">The Medical and Surgical History of the War of the Rebellion. (1861-65.)</title>
+     <pubPlace>Washington, DC</pubPlace>
+     <publisher>Government Printing Office</publisher>
+     <biblScope type="part">Part 2</biblScope>
+     <biblScope type="volume">Volume 2</biblScope>
+     <date when="1876">1876</date>
+     <biblScope type="page">939</biblScope>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+       <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+      <keywords scheme="#medsurg">
+       <term>wounds and injuries of the upper extremities</term> 
+       <term>wounds and operations in the forearm</term>
+       <term>shot wounds of the forearm</term>
+       <term>shot fractures of the forearm</term>
+       <term>excisions in the continuity of the bones of the forearm for shot injury</term>       
+       <term>primary excisions in the shaft of the ulna, of the radius, or of both bones</term>
+       <term>recoveries after primary excision in the forearm</term>
+       <term>excisions in the shaft of the radius</term> 
+       <term>gunshot wound destroyed use of left hand</term> 
+       <term>right arm also injured</term>
+       <term>shell struck left hand in palm, severed and fractured metacarpal bones of middle and ring fingers</term>
+       <term>fractured both radius and ulna up to upper end of the middle third</term> 
+       <term>right elbow joint is anchylosed, cannot be flexed</term>
+       <term>gunshot wound of left forearm, fractured radius and ulna through shafts</term>
+       <term>carpus injured and portion removed, second and third fingers carried away at injury</term>
+       <term>extensor tendons contracted, permanently extending portion of hand</term>
+       <term>thumb and first and fourth fingers flexed, leaving deformed hand</term>
+       <term>fracture between condyles of right humerus, olecranon process of ulna forced upward into fracture, joint anchylosed</term>        
+     </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+ <change who="#kmp" when="2014-05">blessed</change>
+   <change who="#kk" when="2014-01-31">added figure encoding</change>
+   <change who="#mb" when="2012-07-05">additional proofing of transcription and encoding, identified keyword terms</change>
+   <change who="#cm" when="2011-02-24">checked OCR; added minimal mark-up for personal names, place names, and dates</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>   
+ <p><hi rend="initialcap">C</hi>ASE 1896.&#8212;<name type="person" key="xxx">Private J. R. Collett</name>, <name type="organization" key="xxx">Co. B, 7th Kentucky</name>, aged 18 years, was wounded and captured at <name type="battle" key="36">Richmond</name>, <date type="injury" when="1862-08-30">August 30, 1862</date>. Having been paroled by the enemy immediately after the battle, he remained in hospital at <name type="place">Richmond</name> for
+    <date type="hospitaldischarge" when="1862-11">about two months</date>, and was then allowed to proceed to his home, where he was treated for a time by a private physician. He
+    subsequently rejoined his regiment, and was discharged from service <date type="servicedischarge" when="1864-03-16">March 16, 1864</date>, because of &#34;the effects of a gunshot wound
+    which entirely destroyed the use of his left hand, his right arm also being injured.&#34;  <name type="person" key="xxx">Examiner E. J. Vaughan</name>, of <name type="place">Louisville</name>,
+    <date type="pension" when="1865-07-21">July 21, 1865</date>, certified:  &#34;A part of an exploded shell struck the left hand in the palm and passed back and up, severing and fracturing the metacarpal bones of
+    the middle and ring fingers, and fracturing both the radius and ulna up to the upper end of the middle third. The right elbow joint is partially anchylosed
+    from the wound by the fragment of shell and his gun striking it, and cannot be flexed. The hand is not only useless, but it is in the way, and will have to be amputated.&#34;  <name type="person" key="xxx">Examiner W. W. Potter</name> of <name type="place" key="#Washington">Washington, D. C.</name>, reported, <date type="pension" when="1869-05-14">May 14, 1869</date>:  &#34;Has received a gunshot wound of the left forearm, fracturing the radius and ulna through the shafts, a large number of pieces having been removed. The carpus has sustained extensive injury and a portion appears to have been removed. The extensor tendons are contracted, completely and permanently extending that portion of the hand remaining.
+    The second and third fingers were carried away at the time of the injury, and the thumb with the first and fourth fingers are
+    flexed, thus leaving a deformed and shapeless hand. The other injury was a fracture between the condyles of the right humerus.
+    The olecranon process of the ulna has forced itself upward into the fracture. Union taking place in this condition leaves the
+    joint partially anchylosed; flexion cannot be carried to a right angle, nor extension completely performed.&#34;  The pensioner has
+    been for some years employed at the <name type="organization" key="xxx">Treasury Department</name>. In <date type="photo" when="1868-03">March, 1868</date>, he visited <name type="hospital" key="431">the Museum</name>, where a cast of his left
+    arm (<hi rend="initialcap">F</hi>IG. 687) was obtained. According to <name type="person" key="xxx">the pensioner</name>, <name type="person" key="xxx">Surgeon W. Berry</name>, <name type="organization" key="xxx">7th Kentucky</name>, excised the greater portion of the shaft of the radius on <date type="operation" when="1864-09-02">the third day after the injury</date>.  The pensioner was paid <date type="pension" when="1875-09-04">September 4, 1875</date>.</p>
+
+   <figure>
+    <graphic url="cww.001832.001" />
+    <head><hi rend="initialcap">F</hi>IG. 687.&#8212;Deformity resulting from shot injuries of left hand and forearm treated by excision of a large segment of the shaft of the radius.    [From a cast in the Museum.]    <hi rend="italic">Spec</hi>. 5004.</head>
+   </figure>  
+   
+  </body>
+ </text>
+</TEI>

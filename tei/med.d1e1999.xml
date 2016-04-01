@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e1999">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Hayes, James K.</title>
+<title level="m" type="sub">a machine readable transcription</title>
+<principal>Susan C. Lawrence</principal>
+<principal>Kenneth M. Price</principal>
+<principal>Kenneth J. Winkle</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>med.d1e1999</idno>
+<authority>Civil War Washington</authority>
+<publisher>University of Nebraska–Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright © 2011 by University of Nebraska–Lincoln, all
+        rights reserved. Redistribution or republication in
+        any medium, except as allowed under the Fair Use
+        provisions of U.S. copyright law, requires express
+        written consent from the editors and advance
+        notification of the publisher, the University of
+        Nebraska–Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">The following are responsible for particular
+readings or for changes to this file, as noted:                                         
+<persName xml:id="mb">Matthew Bosley</persName>   
+        <persName xml:id="el">Elizabeth Lorang</persName>
+</note>
+</notesStmt>
+<sourceDesc>
+<bibl>
+<title level="j">The Medical and Surgical History of the War of the Rebellion</title>
+<pubPlace>Washington, DC</pubPlace>
+<publisher>Government Printing Office</publisher>
+<biblScope type="part">Part 3</biblScope>
+<biblScope type="volume">Volume 1</biblScope>
+<date when="1888">1888</date>
+<biblScope type="page">581</biblScope>
+</bibl>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<classDecl>
+<taxonomy xml:id="medsurg">
+<bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+</taxonomy>
+</classDecl>
+</encodingDesc>
+<profileDesc>
+<textClass>
+<keywords scheme="#medsurg">
+<term>diseases allied to or associated with</term>
+<term>the paroxysmal and continued fevers</term>
+<term>cerebro-spinal fever</term>
+<term>clinical and post-mortem records</term>
+<term>headache, assumed to be result of debauch</term>  
+<term>persistent coma</term>
+<term>effused blood between membranes of brain</term>
+<term>large clot on side of right hemisphere of brain</term>
+<term>coagulation of blood inconsistent with theory of cerebro-spinal fever</term>
+</keywords>
+</textClass>
+</profileDesc>
+<revisionDesc>
+        <change when="2013-08-26" who="#el">changed idno of file</change>
+<change who="#mb" when="2013-04-17">copied case from MSHWR, added proofing of transcription and encoding, identified keyword terms and figures</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>                        
+<p>From the footnote of <hi rend="initialcap">C</hi>ASE 99 on p. 581 of Part 3, Vol. 1:</p>
+<p>. . . Dr. <hi rend="initialcap">D.</hi> <hi rend="initialcap">W.</hi> <hi rend="initialcap">P</hi>RENTISS submitted as a case of spotted fever the following, which appears on the records of the hospital as one of cerebral apoplexy:  <name type="person" key="xxx">Private James K. Hayes</name>, <name type="organization" key="109">Co. C, 10th V. R. Corps</name>, was admitted <date type="admit" when="1865-01-07">Jan. 7, 1865</date>, with headache, assumed to be the result of a debauch. Next day persistent coma came on, and he died on <date type="death" when="1865-01-10">the 10th</date>.   <hi rend="italic">Post-mortem</hi> examination: Rigor mortis well marked. There was a quantity, about eight ounces, of effused blood between the membranes of the brain and a large clot on the side of the right hemisphere; the substance of the brain was healthy. There were old adhesions of the lungs, and, in the heart, slight induration of the aortic valves.  The other organs not examined.&#8212;<hi rend="italic"><name type="hospital" key="175">Stanton Hospital</name>, Washington, D. C.</hi>   The coagulation of the blood is inconsistent with the theory of cerebro-spinal fever in this case . . . </p>                      
+</body>
+</text>
+</TEI>

@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e19431">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title level="m" type="main">L&#8212;&#8212;, G. P.</title>
+        <title level="m" type="sub">a machine readable transcription</title>
+        <principal>Susan C. Lawrence</principal>
+        <principal>Kenneth M. Price</principal>
+        <principal>Kenneth J. Winkle</principal>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <date>2011</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <idno>med.d1e19431</idno>
+        <authority>Civil War Washington</authority>
+        <publisher>University of Nebraska–Lincoln</publisher>
+        <distributor>
+          <name>Center for Digital Research in the Humanities</name>
+          <address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+        </distributor>
+        <date>2011</date>
+        <availability>
+          <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution
+            or republication in any medium, except as allowed under the Fair Use provisions of U.S.
+            copyright law, requires express written consent from the editors and advance
+            notification of the publisher, the University of Nebraska–Lincoln.</p>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="project">The following are responsible for particular readings or for changes to
+          this file, as noted: 
+ <persName xml:id="kmp">Kenneth M. Price</persName> <persName xml:id="ajh">AJ Howell</persName>
+          <persName xml:id="mb">Matthew Bosley</persName>
+          <persName xml:id="el">Elizabeth Lorang</persName>
+          <persName xml:id="sb">Stacey Berry</persName>
+          <persName xml:id="et">Elisabeth Tracey</persName>
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>
+          <title>The Medical and Surgical History of the War of the Rebellion.
+            (1861&#8211;65.)</title>
+          <editor role="compiler">Surgeon General Joseph K. Barnes, United States Army</editor>
+          <pubPlace>Washington, D.C.</pubPlace>
+          <publisher>Government Printing Office</publisher>
+          <biblScope type="part">Part 1</biblScope>
+          <biblScope type="volume">Volume 2</biblScope>
+          <date when="1870">1870</date>
+          <biblScope type="page">492</biblScope>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <classDecl>
+        <taxonomy xml:id="medsurg">
+          <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="#medsurg">
+          <term>wounds and injuries of the chest</term>
+          <term>gunshot wounds of the chest</term>
+          <term>penetrating gunshot wounds of the chest</term>
+          <term>complicated gunshot wounds of the lung</term>
+          <term>air entered and escaped freely from wound</term>
+          <term>entry of ball on the back, passed inward and upward</term>
+          <term>fractured transverse process, chipped eighth rib, fractured fifth rib</term>
+          <term>lung perforated by bullet through lower lobe</term>
+          <term>lung compressed and collapsed</term>
+          <term>autopsy performed</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+ <change who="#kmp" when="2014-05">blessed</change>
+      <change who="#ajh" when="2013-08-20">added figure encoding</change>
+      <change who="#mb" when="2011-12-21">additional proofing of transcription and encoding</change>
+      <change who="#el" when="2011-05-11">case text extracted and transformed from larger
+        file</change>
+      <change who="#sb" when="2011-02-09">enriched encoding</change>
+      <change who="#sb" when="2011-01-28">validated file</change>
+      <change who="#et" when="2009-08-01">encoded</change>
+      <change who="#sb" when="2008-09-22">initial checking of OCR text against PDF; encoded
+      </change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+
+      <p>
+        <hi rend="initialcap">C</hi>ASE.&#8212;<name type="person">Private G. P.
+          L&#8212;&#8212;</name>, <name type="organization">Co. F, 4th New York Artillery</name>,
+        aged 28 years, was admitted into <name type="hospital" key="162">Douglas Hospital</name>,
+        Washington, <date type="admit" when="1865-04-05">April 5th, 1865</date>, with a penetrating
+        gunshot wound of the chest, received at <name type="BATTLE" key="283">South Side Railroad,
+          Virginia</name>, on <date type="injury" when="1865-04-02">April 2d</date>. He stated that
+        he spat blood upon the reception of injury. Pleurisy of the right side was well marked, with
+        slight emphysema of the cellular tissue near the posterior wound, from which issued a thin
+        sero-purulent fluid. The pulse and respiration were rapid; air entered and escaped freely
+        from the posterior wound; the patient rapidly grew worse in spite of a generous diet and
+        supporting treatment, and died on <date type="death" when="1865-04-09">April 9th,
+          1865</date>. Fifteen hours subsequently the entry of the ball was noticed on the back, a
+        little to the right of the spinous process of the ninth dorsal vertebra, whence it had
+        passed inward and upward, fracturing the transverse process, chipping the eighth rib,
+        fracturing the fifth, and escaping from the axilla of the same side. The right pleural
+        cavity contained thirty-four ounces of a dark, offensive, sero-purulent fluid. The parietal
+        and visceral pleur&#230; were covered with a greenish, soft, cacoplastic lymph, and the
+        right lung, perforated by the bullet through the lower lobe, was compressed and collapsed.
+        There was a slight serous effusion in the left pleural cavity: the remaining thoracic and
+        abdominal viscera appeared healthy. Two specimens accompanying this history were contributed
+        to the <name type="hospital" key="431">Army Medical Museum</name> by <name type="person"
+          key="201">Assistant Surgeon W. F. Norris</name>, <name type="organization" key="190">U. S.
+          A.</name> The first, No. 2411 of the Surgical Section, consists of the seventh, eighth,
+        and ninth dorsal vertebr&#230;, with the fifth, seventh, and eighth ribs of the right side.
+        The right transverse process of the eighth vertebra and the dorsal extremity of the
+        corresponding rib are chipped by a bullet. The fifth rib is obliquely broken, and comminuted
+        on its internal surface, with a transverse fracture externally. The second, a preparation of
+        the lung, is shown in the adjoining cut. (See <hi rend="initialcap">F</hi>IG. 234.) </p>
+
+      <figure>
+        <graphic url="cww.001470.001"/>
+        <head>
+          <hi rend="initialcap">F</hi>IG. 234.&#8212;Preparation of the right lung, showing
+          perforation by a bullet. <hi rend="italic">Spec</hi>. 2707, Sect. I, A. M. M.</head>
+      </figure>
+
+    </body>
+  </text>
+</TEI>

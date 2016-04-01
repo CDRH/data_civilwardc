@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d2e31577">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">McDowell, J. T.</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+       <idno>med.d2e31577</idno>
+       <authority>Civil War Washington</authority>
+       <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor>
+       <name>Center for Digital Research in the Humanities</name>
+       <address><addrLine>319 Love Library</addrLine>
+       <addrLine>University of Nebraska–Lincoln</addrLine>
+       <addrLine>Lincoln, NE 68588-4100</addrLine>
+       <addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+    </distributor>
+    <date>2011</date>
+    <availability>
+        <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+         republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+         law, requires express written consent from the editors and advance notification of the
+         publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+     <persName xml:id="mb">Matthew Bosley</persName>
+     <persName xml:id="ts">Tom Schmidt</persName>     
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl>
+     <title level="j">The Medical and Surgical History of the War of the Rebellion. (1861-65.)</title>
+     <pubPlace>Washington, DC</pubPlace>
+     <publisher>Government Printing Office</publisher>
+     <biblScope type="part">Part 2</biblScope>
+     <biblScope type="volume">Volume 2</biblScope>
+     <date when="1876">1876</date>
+     <biblScope type="page">71</biblScope>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+       <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+      <keywords scheme="#medsurg">
+       <term>injuries of the abdomen</term>
+       <term>penetrating wounds of the abdomen</term>
+       <term>wounds of the small intestines</term>
+       <term>gunshot wounds</term>
+       <term>wounds of the ileum</term> 
+       <term>wounded in abdomen</term>
+       <term>shot through sacrum, sacrum much comminuted</term>
+       <term>ball came out above pubes</term>
+       <term>f&#230;ces escaped externally</term>
+       <term>peritonitis</term>
+       <term>death after few days with symptoms of peritonitis</term>
+       <term>post-mortem examination performed</term>       
+       <term>bullet entered ala of sacrum, emerged in hypogastric region above pubes</term>
+       <term>fold of small intestine twice perforated</term>
+       <term>gas and f&#230;ces passed into gluteal muscles</term>
+     </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change who="#mb" when="2012-08-08">additional proofing of transcription and encoding, identified keyword terms</change>
+   <change who="#ts" when="2011-02-20">checked OCR; added minimal mark-up for personal names, place names, and dates</change>   
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body> 
+   <p><hi rend="initialcap">C</hi>ASE 224.&#8212;<name type="person" key="xxx">Private J. T. McDowell</name>, <name type="organization" key="xxx">Co. H, 21st New Jersey</name>, aged 25 years, was wounded in abdomen at <name type="BATTLE" key="10">Chancellorsville</name>, <date type="injury" when="1863-05-03">May 3, 1863</date>. He was taken to the field hospital of the 2nd division of the Sixth Corps, and was subsequently conveyed by ambulance to <name type="place" key="#Washington">Washington</name>, and admitted, on <date type="transfer" when="1863-05-08">the 8th</date>, into <name type="hospital" key="162">Douglas Hospital</name>.  <name type="person" key="xxx">Acting Assistant Surgeon H. L. M. Burritt</name>, who had charge of the case, states that the "patient was shot through the sacrum, which was much comminuted; the ball came out about an inch above the pubes. F&#230;ces escaped freely externally; no natural action of the bowels took place. Two grains of morphia were given daily and extra diet ordered. The patient was failing when he was admitted, but lingered <date type="death" when="1863-05">a few days</date>, and gradually sank, with symptoms of peritonitis.   A <hi rend="italic">post-mortem</hi> examination was made six hours after death: The bullet entered at the left ala of the sacrum and emerged in the hypogastric region, one inch above the pubes. The peritoneum was deeply injected, and the peritoneal sac contained a dark greenish and sanguinous mixture; and serous effusion. A fold of the small intestine was twice perforated by the ball, but the bladder was uninjured. Gas and f&#230;ces passed from behind into the gluteal muscles."</p>     
+  </body>
+ </text>
+</TEI>

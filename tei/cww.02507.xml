@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="cww.02507">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Letters From "Ethiop." Number II</title>
+                <title level="m" type="sub">a machine readable transcription</title>
+                <editor role="editor">R. J. Weir</editor>
+                <principal>Susan C. Lawrence</principal>
+                <principal>Elizabeth Lorang</principal>
+                <principal>Kenneth M. Price</principal>
+                <principal>Kenneth J. Winkle</principal>
+                <respStmt>
+                    <resp>transcription and encoding</resp>
+                    <persName xml:id="ak">Alex Kinnaman</persName>
+                    <persName xml:id="el">Elizabeth Lorang</persName>
+                    <persName xml:id="bw">R. J. Weir</persName>
+                    <persName xml:id="kk">Kourtney Klein</persName>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2015</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <idno>cww.02507</idno>
+                <distributor>Civil War Washington</distributor>
+                <publisher>University of Nebraska Lincoln</publisher>
+                <address>
+                    <addrLine>Center for Digital Research in the Humanities</addrLine>
+                    <addrLine>319 Love Library</addrLine>
+                    <addrLine>University of Nebraska-Lincoln</addrLine>
+                    <addrLine>P.O. Box 884100</addrLine>
+                    <addrLine>Lincoln, NE 68588-4100</addrLine>
+                </address>
+                <address>
+                    <addrLine>
+                        <email>cdrh@unl.edu</email>
+                    </addrLine>
+                </address>
+                <date>2015</date>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+                        <p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License (http://creativecommons.org/licenses/by-nc-sa/3.0/). Derivatives must be credited to Civil War Washington and R. J. Weir, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct xml:id="letter">
+                    <analytic>
+                        <author ref="#ethiop">Ethiop</author>
+                        <title type="main" level="a">Letters From "Ethiop"</title>
+                        <title type="sub" level="a">Number II</title>
+                    </analytic>
+                    <monogr>
+                        <title xml:id="paper" level="j">The Anglo-African</title>
+                        <imprint>
+                            <date xml:id="issue_date" when="1863-09-05">5 September 1863</date>                    
+                        </imprint>
+                        <biblScope type="pp">[2]</biblScope>                    
+                    </monogr>           
+                </biblStruct>
+                
+                <biblStruct xml:id="issue">               
+                    <monogr>
+                        <title level="j" sameAs="#paper"/>
+                        <imprint>
+                            <date sameAs="#issue_date"/>                  
+                        </imprint>              
+                    </monogr>                   
+                </biblStruct>                        
+            </sourceDesc>       
+        </fileDesc>
+        <encodingDesc> 
+            <p>This electronic text is a semi-diplomatic transcription of the source text. Hyphenation, punctuation, variant spellings, and errors present in the source text have been retained. The transcription does not attempt to capture all aspects of the original formatting or layout.</p>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <persName xml:id="ethiop">Wilson, William J.</persName>
+                <persName xml:id="rh">Hamilton, Robert</persName>
+                <persName xml:id="th">Hamilton, Thomas</persName>
+                <date when="1863">1863</date>
+            </creation>
+            <langUsage>
+                <language ident="en-US">modern American English</language>
+            </langUsage>
+            <textClass>
+                <classCode scheme="http://id.loc.gov">
+                    <term xml:id="sh85001937">African Americans--Colonization</term>
+                    <term xml:id="sh2009114063">African Americans--Washington (D.C.)</term>
+                    <term xml:id="sh85123313">Slaveholders</term>
+                    <term xml:id="nr93003067">Smith, James McCune, 1813-1865</term>
+                    <term xml:id="dt">United States, Department of the Treasury</term>
+                    <term xml:id="sh85140230">United States--History--Civil War, 1861-1865--Economic aspects</term>
+                    <term xml:id="dp">United States, Patent Office</term>
+                    <term xml:id="sh85141041">United States Capitol (Washington, D.C.)</term>
+                </classCode>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when="2015-04-07" who="#ak">corrected</change>
+            <change when="2015-03-24" who="#el">checked and corrected transcription and encoding; updated TEI header, including keywords</change>
+            <change when="2015-03-03" who="#ak">updated keywords</change>
+            <change when="2015-02-17" who="#ak">checked, corrected</change>
+            <change when="2014-08-06" who="#el">checked transcription and encoding</change>
+            <change when="2014-04-14" who="#el">checked encoding; revised TEI header</change>
+            <change when="2014-04-30" who="#kk">encoded</change>
+            <change when="2014-04" who="#kk">checked transcription</change>
+            <change when="2014-03-31" who="#bw">checked transcription</change>
+            <change when="2014-03" who="#bw">transcribed</change>
+        </revisionDesc>
+    </teiHeader>
+    
+    <facsimile corresp="#issue">
+        <surface xml:id="pp1">
+            <graphic url="aa.18630905.pp1.jpg"/>
+        </surface>
+        <surface xml:id="pp2">
+            <graphic url="aa.18630905.pp2.jpg"/>
+            <zone xml:id="pp2_cropped" corresp="#letter">
+                <graphic url="aa.18630905.pp2a_cropped.jpg"/>
+            </zone>
+        </surface>
+        <surface xml:id="pp3">
+            <graphic url="aa.18630905.pp3.jpg"/>
+        </surface>
+        <surface xml:id="pp4">
+            <graphic url="aa.18630905.pp4.jpg"/>
+        </surface>
+    </facsimile>
+    
+    <text corresp="#letter #pp2_cropped">
+        <body>
+            
+            <head type="main" subtype="authorial" rend="center"><emph rend="italic">LETTERS FROM &#8220;ETHIOP.&#8221;</emph></head>
+            
+            <milestone unit="undeclared" rend="short-bar"/>
+            
+            <head type="sub" subtype="authorial" rend="center">NUMBER II.</head>
+            
+            <opener>
+                <salute><emph rend="smallcaps">Dear Doctor</emph>:</salute>
+            </opener> 
+            
+            <p>Your first look out upon the <lb/>streets of Washington impresses you with the <lb/>feeling of never returning to the North, except <lb/>to settle your affairs. It is to me no marvel <lb/>now that colored men of the South have no <lb/>disposition to remain North, and are ready to <lb/>return as soon as the foul institution of slavery <lb/>is swept away. In the North, boast as we <lb/>may, the whites have everything all their own <lb/>way; in the South, complain as we will, the <lb/>blacks have everything all their own way. <lb/>This may seem strange, yet, nevertheless, it is <lb/>true. Here in the South, it is blacks, blacks, <lb/>blacks everywhere. Blacks on the government <lb/>wagons&#8212;blacks on the drays&#8212;blacks on the <lb/>hacks&#8212;blacks on the dirt-carts&#8212;blacks in the <lb/>hotels, in the barbers shops, in all the houses, <lb/>on all the streets. In the North we placed a <lb/>high estimate upon the few crumbs thrown to <lb/>us (for the service we rendered the Republican <lb/>party to elect honest Abraham Lincoln), in the <lb/>way of appointing a few colored men to places <lb/>in the Custom House; but what think you of <lb/>finding responsible colored men, by scores, <choice><orig>em-<lb/>ployed</orig><reg>employed</reg></choice> here, in the Capitol, in the Treasury, in <lb/>the State Department; in fine, in all the <choice><orig>Depart-<lb/>ments</orig><reg>Departments</reg></choice> of government; an acknowledgment of <lb/>capacity, but more, an evidence of political <lb/>recognition. With us in the North the <choice><orig>employ-<lb/>ment</orig><reg>employment</reg></choice> of colored persons is the exception; here <lb/>it is the rule. With the North the presence of <lb/>the black man is (or was prior to the infamous <lb/>riots) rather a chilling something&#8212;<choice><orig>unde-<lb/>finable</orig><reg>undefinable</reg></choice>&#8212;an objectionable shadow; here it is <lb/>an indispensable necessity, felt and <choice><orig>acknow-<lb/>ledged</orig><reg>acknowledged</reg></choice> by all. You cannot go a single square <lb/>without encountering at least fifteen or twenty <lb/>colored persons any moment in the day.</p>
+            
+            <p>You walk about here as the whites do at <lb/>the North, feeling the place to be wholly your <lb/>own, surrounded by your own people, <choice><orig>well-posi-<lb/>tioned</orig><reg>well-positioned</reg></choice>, and none to disturb the order of things. <lb/>One feels not that cold indifference, too often <lb/>manifested by some of us in the North, towards <lb/>each other, but rather, to cheerfully mingle with <lb/>his people as a matter of choice and of love. I am <lb/>no advocate of colonization, and do not justify <lb/>this feeling, but it steals upon you unawares, <lb/>that the whites ought, and must, some day step <lb/>aside and leave this sunny land to these sunny <lb/>children whose unrequited toil has made it what <lb/>we now find it.</p>
+            
+            <p>The advantage they possess here is that <lb/>they have been taught to labor, know its worth <lb/>and profit by it. The whites, on the contrary, <lb/>under the slave system, are a helpless class; <lb/>and since they can no longer appropriate the <lb/>earnings of others for their own support, must <lb/>yield to the superior class&#8212;these bronzed <lb/>laborers.</p>
+            
+            <p>To afford you an idea of the new process <lb/>going on here, let me give you a single <choice><orig>illus-<lb/>tration</orig><reg>illustration</reg></choice>. A Virginian family, just across the <lb/>Potomac, one of the first in standing and in <lb/>wealth&#8212;one of the F. F. V.'s&#8212;owning a large <lb/>number of slaves; by the misfortunes of <choice><orig>re-<lb/>bellion</orig><reg>rebellion</reg></choice> became sadly reduced. From extreme <lb/>wealth they had arrived at extreme poverty. <lb/>It was brought about in this wise: Their <lb/>wealth consisted, I am informed, chiefly in <lb/>able-bodied men and women, who, when the <lb/>Yankees came to carry them off to a more <lb/>cruel bondage, as they were told, walked off <lb/>themselves to see if it were really so, and have <lb/>not returned. Now what could these scions <lb/>of Virginia's first family do?</p>
+            
+            <p>The old mansion and the old plantation were <lb/>there it is true, but the substance was gone&#8212; <lb/>the shadow only remained. What could they <lb/>do? What did they do? I will tell you. It <lb/>was a bright idea of theirs, and worthy of <lb/>general imitation by all of the F. F. V.'s whom <lb/>fate has similarly treated. This noble family, <lb/>to its credit be it said, instead of going to the <lb/>dogs, saved themselves by (do not laugh) <lb/>opening, what is familiarly called by white <lb/>trash, a <emph rend="italic">nigger boarding house</emph>. I choose to <lb/>call it by what is more correct, a contraband <lb/>boarding house, or, better still, a hotel for <lb/>colored ladies and gentlemen who have recently <lb/>been emancipated.</p>
+            
+            <p>Yes, sir; there, I am told, may be seen old <lb/>mistress and all the household any day tugging <lb/>away at what is needful for the accommodation <lb/>of her sable guests. Imagine, my dear sir, <lb/>"Bet," and "Sue," and "Phillis," and "Pomp," <lb/>and "Sam," and "Cuff," striding those ancient <lb/>halls, arm in arm, or reclining at shade of <lb/>evening beneath the columns of that lofty <lb/>porch, or beneath the shadows of those <lb/>ancestral trees; or worse, seated in the <choice><orig>fes-<lb/>tive</orig><reg>festive</reg></choice> hall in the fine old oaken chairs of those <lb/>ancestors themselves, smacking their lips over <lb/>the viands produced, with the fair descendants <lb/>standing behind them to attend to their various <lb/>commands; imagine this if you can and not <lb/>shed a tear&#8212;be it ever so silent, a single tear. <lb/>Wonderful how "God moves in a mysterious <lb/>way, His wonders to perform."</p>
+            
+            <p>He who works here wins. Mark that. In <lb/>the North the white man may be the laborer&#8212; <lb/>here, speculate as theorists may, the fact is <lb/>indisputable that the black man must ever be <lb/>the <emph rend="italic">worker</emph>, and the worker here must eventually <lb/>become the possessor of the soil. His physical <lb/>character, complete adaptation to the climate <lb/>and numerical strength must ensure this to <lb/>him. White labor here is disgraceful. It will <lb/>be long, if ever, before it is otherwise. It will <lb/>come to honor too late in any case, however, if <lb/>the black man makes proper use of his present <lb/>advantage, for it to enable the white man to <lb/>catch up in the great industrial progress just <lb/>opening up in this section of our country.</p>
+            
+                <p>I defy any black man to walk about here a <lb/>single day and not feel, if he ever had any <choice><orig>mis-<lb/>givings</orig><reg>misgivings</reg></choice>, that after all America is his home, a <lb/>portion of these States his lawful inheritance, <lb/>one day to be guaranteed to him.</p>
+            
+            <p>African colonization schemes; Haytian <lb/>schemes for bettering our condition; and <lb/>Honduras schemes, for our emigration, and <lb/>even Canada schemes, all vanish from before <lb/>the newer and better one, <emph rend="italic">"the new Southern <lb/>life." The individual colored man may rise as <lb/>he pleases, I speak for the great masses.</emph></p>       
+                
+                <p>Washington is the Capital of these United <lb/>States, and hence quite renowned; and yet <lb/>(forgive me for the comparison), it seems to <lb/>me something like the Irishman's flea. "Och! <lb/>Pat says to Jemmie, on seeing a flea for the <lb/>first time in America (he had just come over), <lb/>and attempting to put his finger on it (Irish <lb/>fleas move slower), "Och, shure, and what <lb/>kind of a <emph rend="italic">crathur</emph> is that? You put your finger <lb/>on him and he is not there!" So of Washington. <lb/>It is there, it is not there. Private <choice><orig>Washing-<lb/>ton</orig><reg>Washington</reg></choice>, that which belongs to the individual man, <lb/>has little to boast; so little, that to the eye it <lb/>is not there. Public Washington, Uncle Sam's <lb/>part, is really splendid; so much so, that it is <lb/>truly there to the eye and in fact. True, <lb/>private Washington has her Brown's Hotel, her <lb/>Metropolitan, her Willard's and her National, <lb/>and what is more, her Pennsylvania avenue; <lb/>and a lively, bustling, busy, little street it is, <lb/>too, running its serpentine length from the <lb/>Capitol to the Treasury, a distance, I should <lb/>say, of quite a mile; but then one misses, in <lb/>all this, the piles of white marble, and <choice><orig>aristo-<lb/>cratic</orig><reg>aristocratic</reg></choice> brown stone, massive granite, and the <lb/>cloud-wise <unclear reason="illegible" cert="high">eaves</unclear>, and noon-day shadows of <lb/>your Dey street, and Courtlandt and Barclay <lb/>streets, and your Murray and Warren and <lb/>Chambers streets, etc. etc., to make no mention <lb/>of your incomparable Broadway. "Your <lb/>Broadway," laughingly said a gentleman here <lb/>to me, "must be so named for fun." "They <lb/>did not know any better," said another. "Now <lb/>if it had the width of our Pennsylvania avenue," <lb/>responded a third.</p>
+            
+            <p>All this amused me vastly, though I sought to <lb/>conceal it from my new friends, whose feelings <lb/>I would not willingly injure, for there are no <lb/>finer fellows to be met with any where. I felt <lb/>fully the force of what they wished to impress <lb/>upon me, for Pennsylvania avenue is broad <lb/>indeed; broader than the Phylacterees of the <lb/>old Scribes and Pharisees, so broad that <choice><orig>stand-<lb/>ing</orig><reg>standing</reg></choice> in your own shop door you could not well <lb/>recognize the glum countenance of your <choice><orig>oppo-<lb/>site</orig><reg>opposite</reg></choice> neighbor. Most of the lesser streets seem <lb/>to be run, or to have run themselves without <lb/>much restraint or guidance, into this chief pet <lb/>street of Washington, diagonalwise, a kind of <lb/>acknowledgment of its greatness; and though <lb/>your head is clearer than mine, I scarcely think <lb/>you would deem it safe at your first landing <lb/>here, to venture far from the chief artery avenue <lb/>of Washington without a guide.</p>
+            
+            <p>The public buildings are scattered around <lb/>over the town somewhat as the farmer sows <lb/>his seed over his entire field. They have not <lb/>been permitted to come up all, in any one nook <lb/>or corner, but equal distribution of Uncle Sam's <lb/>golden seeds seems to have been the theme. <lb/>The Capitol is in this corner, and the Treasury <lb/>in that, the Post Office is here and Patent Office <lb/>there, and so on to the end. I ventured to <choice><orig>re-<lb/>mark</orig><reg>remark</reg></choice> that, "when this cruel war is over," the <lb/>nation might deem it best to remove the seat <lb/>of government to some other location. "Never," <lb/>said a gentleman present, with much vehemence; <lb/>"the nation has spent too many millions here <lb/>to do that." I could not at first understand <lb/>this assertion, and confessed<unclear resp="#el" reason="illegible" cert="medium">.</unclear> I hoped there <lb/>was not any selfishness connected with it; but <lb/>when I was brought into closer proximity with <lb/>these gorgeous buildings of Uncle Sam's, and <lb/>further permitted to penetrate their interior, I <lb/>could well understand how the lavish <choice><orig>expendi-<lb/>ture</orig><reg>expenditure</reg></choice> of the nation's wealth will be a great <lb/>bar to the removal of its Capitol. More anon.</p>
+            
+            <closer>
+                <salute rend="center">Yours truly,</salute>
+                <signed rend="right"><emph rend="smallcaps">Ethiop</emph>.</signed>
+            </closer>
+            
+            <note type="newspaper-editorial"><emph rend="italic">To James McCune Smith, M.D.</emph></note>
+            
+        </body>
+    </text>
+    
+</TEI>
+

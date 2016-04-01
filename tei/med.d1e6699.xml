@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e6699">
+        <teiHeader>
+                <fileDesc>
+                        <titleStmt>
+                                <title level="m" type="main">Beanson, Peter A.</title>
+                                <title level="m" type="sub">a machine readable transcription</title>
+                                <principal>Susan C. Lawrence</principal>
+                                <principal>Kenneth M. Price</principal>
+                                <principal>Kenneth J. Winkle</principal>
+                        </titleStmt>
+                        <editionStmt>
+                                <edition>
+                                        <date>2011</date>
+                                </edition>
+                        </editionStmt>
+                        <publicationStmt>
+                                <idno>med.d1e6699</idno>
+                                <authority>Civil War Washington</authority>
+                                <publisher>University of Nebraska–Lincoln</publisher>
+                                <distributor>
+                                        <name>Center for Digital Research in the Humanities</name>
+                                        <address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+                                </distributor>
+                                <date>2011</date>
+                                <availability>
+                                        <p>Copyright © 2011 by University of Nebraska–Lincoln, all
+                                                rights reserved. Redistribution or republication in
+                                                any medium, except as allowed under the Fair Use
+                                                provisions of U.S. copyright law, requires express
+                                                written consent from the editors and advance
+                                                notification of the publisher, the University of
+                                                Nebraska–Lincoln.</p>
+                                </availability>
+                        </publicationStmt>
+                        <notesStmt>
+                                <note type="project">The following are responsible for particular
+                                        readings or for changes to this file, as noted: 
+                                        <persName xml:id="mb">Matthew Bosley</persName>
+                                        <persName xml:id="el">Elizabeth Lorang</persName>
+                                        <persName xml:id="sb">Stacey Berry</persName>
+                                        <persName xml:id="et">Elisabeth Tracey</persName>
+                                </note>
+                        </notesStmt>
+                        <sourceDesc>
+                                <bibl>
+                                        <title level="j">The Medical and Surgical History of the War of the Rebellion</title>
+                                        <pubPlace>Washington, DC</pubPlace>
+                                        <publisher>Government Printing Office</publisher>
+                                        <biblScope type="part">Part 3</biblScope>
+                                        <biblScope type="volume">Volume 1</biblScope>
+                                        <date when="1888">1888</date>
+                                        <biblScope type="page">345</biblScope>
+                                </bibl>
+                        </sourceDesc>
+                </fileDesc>
+                <encodingDesc>
+                        <classDecl>
+                                <taxonomy xml:id="medsurg">
+                                        <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+                                </taxonomy>
+                        </classDecl>
+                </encodingDesc>
+                <profileDesc>                        
+                        <textClass>
+                                <keywords scheme="#medsurg">
+                                        <term>post-mortem records</term>
+                                        <term>continued fevers</term>
+                                        <term>typho-malarial fever</term>
+                                        <term>entered as typho-malarial with or without a record of symptoms to substantiate the diagnosis</term>
+                                        <term>Peyer's patches ulcerated, ileum or small intestine only affected</term>
+                                        <term>erysipelas</term>
+                                        <term>purulent discharge from ear</term>  
+                                        <term>convulsive twitchings of limbs</term>
+                                        <term>pharynx, larynx and trachea inflamed and ulcerated</term>
+                                        <term>epiglottis ulcerated on both sides</term>
+                                        <term>small abscess between cricoid cartilage and pharynx</term>
+                                        <term>Peyer's patches ulcerated but not elevated</term>
+                                </keywords>
+                        </textClass>
+                </profileDesc>
+                <revisionDesc>
+                        <change who="#mb" when="2013-03-18">additional proofing of transcription and encoding, edited and added keyword terms</change>
+                        <change who="#mb" when="2011-10-06">additional proofing of transcription and encoding</change>
+                        <change who="#mb" when="2011-06-16">additional proofing of transcription and encoding</change>
+                        <change who="#el" when="2011-05-11">case text extracted and transformed from larger file</change>
+                        <change who="#sb" when="2011-02-23">Encoding and Proofing</change>
+                        <change who="#et" when="2009-12-01">Initial Checking OCR Text to PDF file,</change>
+                </revisionDesc>
+        </teiHeader>
+        <text>
+                <body xml:id="ch4.sc4.1.00054">                        
+                                <p><hi rend="initialcap">C</hi>ASE 54.&#8212;<name type="person"
+                                                key="629">Private Peter A. Beanson</name>, <name
+                                                type="organization" key="487">Co. A, 52d N. Y.</name>; age 38; was admitted <date type="admit"
+                                                when="1863-11-23">Nov. 23, 1863</date>, having been
+                                        sick <date type="injury" when="1863-10-20">five weeks</date> with typhoid fever (malarial). There was no
+                                        tenderness in the right iliac region; the tongue was coated
+                                        with a black fur and the skin tinged yellow; he had a
+                                        purulent discharge from the ear.  Persistent
+                                        diarrh&#339;a set in on December 14, with occasional
+                                        delirium and great prostration.  Erysipelas attacked the face
+                                        on the 17th and the patient became comatose and had
+                                        convulsive twitchings of the limbs.  He died <date
+                                                type="death" when="1863-12-18">next day</date>.  <hi
+                                                        rend="italic">Post-mortem</hi> examination on <date type="autopsy" when="1863-12-19">the
+                                        19th</date>: Body not much emaciated. The pharynx, larynx and
+                                        trachea were inflamed and ulcerated; the mucous membrane was
+                                        of a purplish color except about the chord&#230;
+                                        vocales, where it was stone-gray; the epiglottis was
+                                        ulcerated on both sides, the fold of mucous membrane running
+                                        from it to the cornu major on the left side was also
+                                        ulcerated; the mucous membrane over the arytenoid cartilages
+                                        was much tumefied; there was a small abscess between the
+                                        cricoid cartilage and the pharynx. The lungs were congested
+                                        posteriorly but otherwise healthy. The liver was healthy.
+                                        Peyer's patches were ulcerated but not elevated, the ulcers
+                                        blackish and with thick, sharply defined edges; the bases of
+                                        some were so discolored that the dark hue was conspicuous
+                                        through the peritoneum; the solitary glands were not
+                                                seen.&#8212;<hi rend="italic"><name
+                                                  type="person" key="245">Ass't Surg. Harrison
+                                                  Allen</name>, <name type="organization" key="190">U. S. A.</name>, <name type="hospital" key="176">Lincoln Hospital</name>, Washington, D. C.</hi> </p>                        
+                </body>
+        </text>
+</TEI>

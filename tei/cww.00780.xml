@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="cww.00780">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Petition of Ann Green, 28 June 1862</title>
+                <title level="m" type="sub">a machine readable transcription</title>
+                <principal>Susan C. Lawrence</principal>
+                <principal>Kenneth M. Price</principal>
+                <principal>Kenneth J. Winkle</principal>
+                <respStmt>
+                    <resp>transcription and encoding</resp>
+                    <name xml:id="scl">Susan C. Lawrence</name>
+                    <name xml:id="jc">Janel Cayer</name>
+                    <name xml:id="cg">Courtney Geerhart</name>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2013</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <idno>cww.00780</idno>
+                <distributor>Civil War Washington</distributor>
+                <publisher>University of Nebraska–Lincoln</publisher>
+                <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>P.O. Box 884100</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+            </address>
+                <date>2013</date>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+                        <p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike
+                            3.0 Unported License
+                            (http://creativecommons.org/licenses/by-nc-sa/3.0/). Derivatives must be
+                            credited to Civil War Washington, made available non-commercially, and
+                            distributed under the same terms. Requests for permission for commercial
+                            publication or other use should be emailed to the project team.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Petition of Ann Green, 28 June 1862</title>
+                    <date when="1862-06-28">June 28, 1862</date>
+                    <idno>Microcopy 520, Reel 5</idno>
+                    <orgName>National Archives and Records Administration</orgName>
+                    <relatedItem type="original">
+                        <bibl>
+                            <title>Petition of Ann Green, 28 June 1862</title>
+                            <date when="1862-06-28">June 28, 1862</date>
+                            <idno>Record Group 217.6.5</idno>
+                            <orgName>Records of the Accounting Officers of the Department of the
+                                Treasury, 1775–1978, National Archives and Records
+                                Administration</orgName>
+                            <note type="project">Within the National Archives' Archival Description
+                                Catalog, see ARC Identifier 4644616 / MLR Number A1 347
+                                (http://arcweb.archives.gov).</note>
+                        </bibl>
+                    </relatedItem>
+                    <note type="project">Our transcription is based on a digital image of a
+                        microfilm copy of the original.</note>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <particDesc>
+                <person role="petitioner">
+                    <persName>Ann Green</persName>
+                </person>
+                <person role="jp">
+                    <persName>Jenkin Thomas</persName>
+                </person>
+            </particDesc>
+        </profileDesc>
+        <revisionDesc>
+            <change when="2012-10-31" who="#scl">blessed</change>
+            <change when="2012-10-15" who="#jc">updated tei header; fixed values for @facs as
+                necessary; automated checking across files for extra spaces in elements and other
+                encoding inconsistencies and for regular transcription errors</change>
+            <change when="2011-12-06" who="#bj">checked</change>
+            <change when="2011-07-26" who="#cg">transcribed, encoded</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb xml:id="leaf001r" facs="cww.00780.001.jpg"/>
+
+            <div1 type="petition" subtype="mixed">
+                <head type="main">PETITION.</head>
+                <p rend="bold">To the Commissioners under the act of Congress approved the <date
+                        when="1862-04-16">16th of April, 1862</date>, entitled "An act for the
+                    release of certain persons held to service or labor in the District of
+                    Columbia."</p>
+
+                <p>Your Petitioner, <seg type="handwritten">
+                        <persName>Ann Green</persName>
+                    </seg> of <seg type="handwritten">the <placeName>District of
+                            Columbia</placeName>
+                    </seg> by this <seg type="handwritten">her</seg> petition in writing, represents
+                    and states, that <seg type="handwritten">she</seg> is a person loyal to the
+                    United States, who, at the time of the passage of the said act of Congress, held
+                    a claim to service or labor against <seg type="handwritten">ten&#8212;</seg>
+                    person of African descent of the name of <seg type="handwritten">
+                        <persName>Mary Jane</persName>, <persName>Henry</persName>,
+                            <persName>Charles</persName>, <persName>Susanna</persName>,
+                            <persName>Francis</persName> and <persName>John Gustavus Adolphus
+                            Dorsey</persName>&#8212;for and during the life of said persons and the
+                        unexpired term of service of <persName>Thomas Waters</persName>
+                        <persName>Aaron Edmonson</persName>, <persName>Rachel Henry</persName> and
+                            <persName>Phebe Edmonson</persName> until they arrive respectively, at
+                        the age of 35 years, except <persName>Phebe</persName> whose term of service
+                        expires at 30 years of age.</seg>
+                    <del>for and during the life of said</del> and that by said act of Congress said
+                        <seg type="handwritten">person are</seg> discharged and freed of and from
+                    all claim of your petitioner to such service or labor; that at the time of said
+                    discharge said <seg type="handwritten">persons were of the age of viz.
+                            <persName>Mary J. Dorsey</persName> 38, <persName>Henry</persName> 21,
+                            <persName>Charles</persName> 19, <persName>Susanna</persName> 16,
+                            <persName>Francis</persName> 14, <persName>Gustavus</persName> 10
+                            <persName>Thomas Water</persName> 30, <persName>Aaron
+                            Edmonson</persName> about 27, <persName>Rachel</persName> 20 and
+                            <persName>Phebe Edmonson</persName> 22</seg>
+                    <del>of the age of</del> and of the personal description following:<note
+                        type="government" place="foot" xml:id="n1"> Here describe the person, so as
+                        to identify him or her; and if there be more than one slave, describe each
+                        one separately.</note>
+                    <list type="handwritten">
+                        <item><hi rend="underline"><persName>"Mary Jane"</persName></hi>, a bright
+                            mulatto, medium stature, first rate cook, fine disposition &amp; most
+                            faithful servant in all respects.</item>
+                        <item><hi rend="underline"><persName>"Henry"</persName></hi> Bright mulatto,
+                            remarkably honest, faithful, competent &amp; in all respects a most
+                            valuable servant.</item>
+                        <item><hi rend="underline"><persName>"Charles"</persName></hi> Very bright
+                            color, short stature, first rate farm hand &amp; valuable
+                            servant.</item>
+                        <item><hi rend="underline"><persName>"Susanna"</persName></hi>&#8212;Dark
+                            color, capable, amiable &amp; first rate nurse.</item>
+                        <item><hi rend="underline"><persName>"Francis"</persName></hi>&#8212;Dark
+                            color, very quick, bright countenance, very honest upright, capable, and
+                            reliable.</item>
+                        <item><hi rend="underline"><persName>"Gustavis"</persName></hi>, black
+                            color, open bright countenance, a very remarkable child as regards his
+                            instinctive goodness and capability&#8212;</item>
+                        <item><hi rend="underline"><persName>Thomas Waters</persName></hi>, Black,
+                            rather tall, &amp; straight, honest, upright &amp; capable.</item>
+                        <item><hi rend="underline"><persName>Aaron Edmonson</persName></hi>, Tall,
+                            black, rather straight, very active &amp; capable</item>
+                        <item><hi rend="underline"><persName>Rachel Edmonson</persName></hi>, Rather
+                            tall, black, athletic, honest and first rate servant.</item>
+                        <item><hi rend="underline"><persName>Phebe Edmonson</persName></hi>, Very
+                            tall for a woman, black, robust, and capable of great endurance and
+                            determination.</item>
+                    </list>
+                </p>
+
+                <pb xml:id="leaf001v" facs="cww.00780.002.jpg"/>
+
+                <p>That your petitioner acquired <seg type="handwritten">her</seg> claim to the
+                    aforesaid service or labor of said <seg type="handwritten">persons</seg> in
+                    manner following:<note type="government" place="foot" xml:id="n2"> Here state
+                        how the claim was acquired, when, from whom, and for what price or
+                        consideration; and, if held under any written evidence of title, make
+                        exhibit thereof, or refer to the public record where the same may be
+                        found.</note>
+                    <seg type="handwritten">Viz. The mother of the <persName>Dorsey</persName>
+                        family was purchased in <date when="1815">1815</date> &amp; the children
+                        were born and raised in my family. The others inherited from my mother Mrs.
+                            <persName>Rebecca Forrest</persName>. (see her will on file)</seg>
+                </p>
+
+                <p>That your petitioner's claim to the service or labor of said <seg
+                        type="handwritten">persons</seg> was, at the time of said discharge
+                    therefrom, of the value of <seg type="handwritten">$9,400</seg> dollars in
+                        money.<note type="government" place="foot" xml:id="n3"> Here state such
+                        facts, if any there be, touching the value of the petitioner's claim to the
+                        service or labor of the person, as may enhance the same, and also such
+                        facts, if any, touching the moral, mental, and bodily infirmities or defects
+                        of said person, as impair the value of the petitioner's claim to such
+                        service or labor, and conclude such statement with an averment that the
+                        petitioner knows of no other infirmities or defects of said person which
+                        impair the value of petitioner's claim to such service or labor, and that he
+                        believes none other to exist. If the petitioner specify no such infirmity or
+                        defect, then his statement touching the value of his claim should conclude
+                        with an averment that he has no knowledge of any such infirmity or
+                        defect.</note>
+                    <seg type="handwritten">viz: <persName>Mary Jane</persName>, $1000,
+                            <persName>Henry</persName> $1500, <persName>Charles</persName> $1300,
+                            <persName>Susie</persName> $1100, <persName>Francis</persName> $1200,
+                            <persName>Guste</persName> $1200, &amp; for the unexpired term of
+                        service of <persName>Toni</persName> $300, of <persName>Aaron</persName>
+                        $500, of <persName>Rachel</persName> $800, of Phebe $500, which is not less
+                        than their value to me, and they are all perfectly strong, stout, hearty,
+                        healthy, and free from disease.</seg>
+                </p>
+
+                <p>Your petitioner hereby declares that <seg type="handwritten">she</seg> bears true
+                    and faithful allegiance to the Government of the United States, and that <seg
+                        type="handwritten">she</seg> has not borne arms against the United States in
+                    the present rebellion, nor in any way given aid or comfort thereto.</p>
+
+                <p>And your petitioner further states and alleges, that <seg type="handwritten"
+                        >she</seg> has not brought said <seg type="handwritten">persons</seg> into
+                    the District of Columbia since the passage of said act of Congress; and that, at
+                    the time of the passage thereof, said <seg type="handwritten">persons were</seg>
+                    <del>was</del> held to service or labor therein under and by virtue of your
+                    petitioner's claim to such service or labor.</p>
+
+                <p>Your petitioner further states and alleges, that <seg type="handwritten"
+                        >her</seg> said claim to the service or labor of said <seg
+                        type="handwritten">persons</seg> does not originate in or by virtue of any
+                    transfer heretofore made by any person who has in any manner aided or sustained
+                    the present rebellion against the Government of the United States.</p>
+
+                <p>And your petitioner prays the said Commissioners to investigate and determine the
+                    validity of <seg type="handwritten">her</seg> said claim to the service or labor
+                    of said <seg type="handwritten">persons</seg> herein above set forth; and if the
+                    same be found to be valid, that they appraise and apportion the value of said
+                    claim in money, and report the same to the Secretary of the Treasury of the
+                    United States, in conformity to the provisions of said act of Congress.</p>
+
+                <closer> (Signed by) <signed>
+                        <seg type="handwritten">
+                            <persName>Ann Green</persName>
+                        </seg>
+                    </signed>
+                </closer>
+            </div1>
+
+            <pb xml:id="leaf003r" facs="cww.00780.003.jpg"/>
+
+            <div1 type="oath" subtype="mixed">
+                <head type="main">[<hi rend="italic">Form of the Oath for the Verification of the
+                        Petition.</hi>]</head>
+
+                <dateline>
+                    <placeName>District of Columbia</placeName>,
+                    <lb/>
+                    <hi rend="italic"><placeName>Washington County</placeName>, ss.</hi>
+                </dateline>
+
+                <div2 type="section">
+                    <p>I, <seg type="handwritten">
+                            <persName>Ann Green</persName>
+                        </seg> being duly sworn, do depose and say, that all the several matters and
+                        things which are set forth and stated in the foregoing petition, as of my
+                        own knowledge, are true in substance and in fact; and that all the several
+                        other matters and things therein set forth and stated, as from the
+                        information of others, I believe to be true in substance and in fact.</p>
+                    <closer> (Signed by) <signed>
+                            <seg type="handwritten">
+                                <persName>Ann Green</persName>
+                            </seg>
+                        </signed>
+                    </closer>
+                </div2>
+
+                <div2 type="section">
+                    <p>Sworn to and subscribed before me this <date when="1862-06-28">
+                            <seg type="handwritten">28th</seg> day of <seg type="handwritten"
+                                >June</seg> A. D. 1862</date>. </p>
+                    <closer> (Signed by) <signed>
+                            <seg type="handwritten">
+                                <persName>Jenkin Thomas</persName>, J Peace</seg>
+                        </signed>
+                    </closer>
+                </div2>
+            </div1>
+
+            <div1 type="cover" subtype="handwritten">
+                <note type="editorial">The following note, about the filing of the petition, has
+                    been imaged twice in the National Archives microfilm, but the note occurs in
+                    only one place in the petition: written horizontally on the final page, the Oath
+                    for the Verification.</note>
+                <ab>780<lb/>
+                    <persName>Ann Green</persName></ab>
+                <ab>Filed <date when="1862-06-28">June 28, 1862</date></ab>
+            </div1>
+        </body>
+    </text>
+</TEI>

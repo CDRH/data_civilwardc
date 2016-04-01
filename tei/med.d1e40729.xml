@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e40729">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Soukil, Philip</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+       <idno>med.d1e40729</idno>
+       <authority>Civil War Washington</authority>
+       <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor>
+       <name>Center for Digital Research in the Humanities</name>
+       <address><addrLine>319 Love Library</addrLine>
+       <addrLine>University of Nebraska–Lincoln</addrLine>
+       <addrLine>Lincoln, NE 68588-4100</addrLine>
+       <addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+    </distributor>
+    <date>2011</date>
+    <availability>
+        <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+         republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+         law, requires express written consent from the editors and advance notification of the
+         publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+     <persName xml:id="mb">Matthew Bosley</persName>
+     <persName xml:id="el">Elizabeth Lorang</persName>
+     <persName xml:id="sb">Stacey Berry</persName>
+     <persName xml:id="ao">Alyssa Olson</persName>     
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl>
+     <title level="j">The Medical and Surgical History of the War of the Rebellion. (1861-65.)</title>
+     <pubPlace>Washington, DC</pubPlace>
+     <publisher>Government Printing Office</publisher>
+     <biblScope type="part">Part 2</biblScope>
+     <biblScope type="volume">Volume 1</biblScope>
+     <date when="1879">1879</date>
+     <biblScope type="page">107</biblScope>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+       <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+      <keywords scheme="#medsurg">
+       <term>diarrh&#339;a and dysentery</term>
+       <term>fatal cases of diarrh&#339;a and dysentery, with accounts of the morbid appearances observed</term>
+       <term>from Ward Hospital, Newark, New Jersey</term>
+       <term>chronic diarrh&#339;a</term>       
+       <term>solitary glands in descending colon enlarged</term>
+       <term>c&#230;cum and ascending colon thickened and vascular</term>
+       <term>autopsy performed, large intestine alone examined</term>
+     </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change who="#mb" when="2012-10-03">additional proofing of transcription and encoding, identified keyword terms</change>
+   <change who="#el" when="2010-11-05">case text extracted and transformed from larger file</change>
+   <change who="#sb" when="2010-05-01">enrich encoding, proof and edit</change>
+   <change who="#ao" when="2008-10-02">encoding and editing</change>   
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body> 
+   <p>The case is from the case-book of <hi rend="initialcap">W</hi>ARD <hi rend="initialcap">H</hi>OSPITAL, <name type="place">Newark, New Jersey</name>, <name type="person" key="xxx">Assistant Surgeon J. Theodore Calhoun</name>, <name type="organization" key="190">U. S. A.</name>, in charge.</p>    
+   <p><hi rend="initialcap">C</hi>ASE 109.&#8212;<name type="person" key="80">Private Philip Soukil</name>, <name type="organization" key="90">company A, 8th New Jersey volunteers</name>; admitted <date type="admit" when="1865-01-16">January 16, 1865</date>.  Chronic diarrh&#339;a.  [The records of the depot field hospital of the 2d Army Corps, <name type="place">City Point, Virginia</name>, show that this man was admitted <date type="admit" when="1864-12-07">December 7, 1864</date>, for chronic diarrh&#339;a. <date type="transfer" when="1864-12-12">December 12th</date> he was sent on board the <name type="hospital" key="xxx">hospital transport Connecticut</name> and carried to <name type="place" key="#Washington">Washington, D. C.</name>  <date type="transfer" when="1864-12-13">December 13th</date> he was admitted to <name type="hospital" key="173">Harewood hospital</name>; diagnosis chronic diarrh&#339;a.  <date type="furlough" when="1864-12-24">December 24th</date> he was sent to his home on furlough; being too sick to return, he was admitted to this hospital at the date given above, by order of the medical director.]  Died, <date type="death" when="1865-01-17">January 17th</date>.  <hi rend="italic">Autopsy</hi> <date type="autopsy" when="1865-01-18">thirteen hours after death</date>: The large intestine alone was examined. In the c&#230;cum and ascending colon the walls of the gut were very much thickened and very vascular, and the same characteristics were observed in the descending colon and sigmoid flexure. The transverse colon was not thickened, but presented some patches of adherent lymph. The solitary glands in the descending colon were much enlarged. No ulcers were found.&#8212;<name type="person" key="xxx">Acting Assistant Surgeon Joseph D. Osborne</name>.</p>     
+  </body>
+ </text>
+</TEI>

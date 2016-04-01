@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d2e31381">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Rand, C. F.</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+       <idno>med.d2e31381</idno>
+       <authority>Civil War Washington</authority>
+       <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor>
+       <name>Center for Digital Research in the Humanities</name>
+       <address><addrLine>319 Love Library</addrLine>
+       <addrLine>University of Nebraska–Lincoln</addrLine>
+       <addrLine>Lincoln, NE 68588-4100</addrLine>
+       <addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+    </distributor>
+    <date>2011</date>
+    <availability>
+        <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+         republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+         law, requires express written consent from the editors and advance notification of the
+         publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+ <persName xml:id="kw">Kenneth Winkle</persName> 
+     <persName xml:id="mb">Matthew Bosley</persName> 
+     <persName xml:id="kk">Kourtney Klein</persName>
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl>
+     <title level="j">The Medical and Surgical History of the War of the Rebellion. (1861-65.)</title>
+     <pubPlace>Washington, DC</pubPlace>
+     <publisher>Government Printing Office</publisher>
+     <biblScope type="part">Part 2</biblScope>
+     <biblScope type="volume">Volume 2</biblScope>
+     <date when="1876">1876</date>
+     <biblScope type="page">529</biblScope>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+       <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+      <keywords scheme="#medsurg">
+       <term>wounds and injuries of the upper extremities</term>
+       <term>wounds of the shoulder joint</term>
+       <term>decapitations of the humerus for shot injury</term>
+       <term>primary decapitations of the humerus for shot injury</term>
+       <term>successful cases of primary decapitation of the humerus</term>
+       <term>bleeding from wound on the field</term> 
+       <term>head of humerus excised</term>
+       <term>arm hangs by muscles and ligaments, little use of hand</term>
+       <term>arm of no use for manual labor</term> 
+       <term>three inches shortening of limb</term>
+       <term>resection of shoulder necessitated by shot wound</term>       
+       <term>studied medicine, became a practitioner in Washington</term>    
+     </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+ <change who="#kw" when="2014-05">blessed</change>
+   <change who="#kk" when="2014-01-17">added figure encoding</change>
+   <change who="#mb" when="2012-07-23">copied case from MSHWR, added proofing of transcription and encoding, identified keyword terms</change> 
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>   
+   <p><hi rend="initialcap">C</hi>ASE 1500.&#8212;<name type="person" key="xxx">Sergeant C. F. Rand</name>, <name type="organization" key="xxx">Co. K, 12th New York</name>, aged 24 years, was wounded at <name type="battle" key="22"><choice><orig>Gaines's</orig><reg>Gaines'</reg></choice> Mill</name>, <date type="injury" when="1862-06-27">June 27, 1862</date>. There is no hospital record of the case until the patient's arrival at <name type="place">Philadelphia</name>; but, twelve years subsequently, the injured man stated that: &#34;He laid on the field all that night, and was carried to the general field hospital at <name type="place">Savage's Station</name> <date type="admit" when="1862-06-28">the next morning</date>. There was free bleeding from the wound. At <name type="place">Savage's Station</name> the head of the humerus was excised either by <name type="person" key="134">Surgeon E. Bentley</name>, <name type="organization" key="xxx">12th New York</name>, or by <name type="person" key="xxx">Acting Assistant Surgeon J. Swinburne</name>.  From this station, he was sent to <name type="place">Richmond</name>.&#34;  He complained of the road and river transportation. After discharge from the prison hospital he stated that he was exposed at the dock until the arrival of the <name type="hospital" key="xxx">transport Daniel Webster</name>, on which he was conveyed to <name type="place">Philadelphia</name>. He entered <name type="hospital" key="xxx">Satterlee Hospital</name> on <date type="transfer" when="1862-07-30">July 30, 1862</date>, and was discharged <date type="servicedischarge" when="1862-08-30">a month subsequently</date> and pensioned, <name type="person" key="137">Surgeon I. I. Hayes</name> certifying: &#34;Resection of shoulder, necessitated by shot wound.&#34;  This pensioner re-enlisted in the <name type="organization" key="109">Veteran Reserves</name>, and was appointed in <date type="enlist" when="1863-11"><date type="promotion" when="1863-11">November, 1863</date></date>, a second lieutenant, and assigned, in May, 1864, to duty at <name type="hospital" key="162">Douglas Hospital</name>.  <name type="person" key="200">Assistant Surgeon W. Thomson</name>, <name type="organization" key="190">U. S. A.</name>, had prepared a photograph, which is copied in Figure 4 of <hi rend="initialcap">P</hi>LATE <hi rend="initialcap">XIV</hi>, opposite page 529, and furnished a copy to <name type="hospital" key="431">the Museum</name> with the following memorandum: &#34;This officer can use his arm at table, and plays well on the banjo.&#34;  On <date type="servicedischarge" when="1868-01-01">January 1, 1868</date>, <name type="person" key="xxx">Lieutenant Rand</name> was discharged. <name type="person" key="xxx">Examiner John Root</name>, of <name type="place">Batavia, New York</name>, in <date type="pension" when="1869-06">June, 1869</date>, reported: &#34;The arm hangs by the muscles and ligaments, and for manual labor is of no use;&#34; and, in <date type="pension" when="1873-09">September, 1873</date>, <name type="person" key="xxx">Examiner J. O. Stanton</name> reported: &#34;About three inches of shortening of the limb. Cannot raise the arm. Has little use of the hand.&#34;  This pensioner was paid in <date type="pension" when="1874-09">September, 1874</date>.  He availed of the opportunities afforded by his assignment to hospital duty to study medicine, and, receiving a diploma from one of the medical colleges in Washington, became a practitioner there.  In addition, he occupies a responsible position in the <name type="organization" key="xxx">Post Office Department</name>.  The result of the primary excision in this case is very satisfactory.</p> 
+   
+   <figure>
+    <graphic url="cww.001715.001" />
+    <head>PLATE  XIV.   RESULTS  OF  EXCISIONS  OF  THE  HEAD  OF  THE  HUMERUS.    <hi rend="initialcap">F</hi>IG.  IV.    Lieut. C. T. Rand.</head> 
+   </figure> 
+   
+  </body>
+ </text>
+</TEI>

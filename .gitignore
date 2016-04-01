@@ -1,0 +1,5 @@
+# ignore config files except examples
+**/*.yml
+!**/*.example.yml
+
+.DS_Store

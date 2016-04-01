@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d2e4880">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Tucker, T. O.</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+    <idno>med.d2e4880</idno>
+    <authority>Civil War Washington</authority>
+    <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor><name>Center for Digital Research in the
+     Humanities</name><address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address></distributor>
+    <date>2011</date>
+    <availability>
+     <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+      republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+      law, requires express written consent from the editors and advance notification of the
+      publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+     <persName xml:id="mb">Matthew Bosley</persName>
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title level="j">The Medical and Surgical History of the War of the Rebellion.
+      (1861-65.)</title><pubPlace>Washington, DC</pubPlace><publisher>Government Printing
+      Office</publisher><biblScope type="part">Part 3</biblScope><biblScope type="volume">Volume
+      2</biblScope><date when="1883">1883</date><biblScope type="page">86</biblScope></bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+     <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <keywords scheme="#medsurg">
+     <term>wounds and injuries of the lower extremities</term>                                                                 
+     <term>wounds and injuries of the hip joint</term>
+     <term>shot fractures at the hip joint</term>
+     <term>shot fractures at the hip joint unsuccessfully treated by conservation</term>
+     <term>involved parts of joint not indicated</term>
+     <term>wound of the right groin</term> 
+     <term>shot wound of hip joint</term>      
+    </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change who="#mb" when="2012-02-15">additional case copied from MSHWR, performed proofing of copy and XML encoding, and key terms identified</change>     
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   
+   <p> <hi rend="initialcap">C</hi>ASE 203.&#8212;<name type="person" key="xxx">Private T. O. Tucker</name>, <name type="organization" key="xxx">Co. D, 61st Pennsylvania</name>, aged 39 years, was wounded at <name type="BATTLE" key="3"><choice><orig>Spottsylvania</orig><reg>Spotsylvania</reg></choice></name>, <date type="injury" when="1864-05-15">May 15, 1864</date>, by a shell. He was taken to the field hospital of the 2d division, Sixth Corps, where <name type="person" key="xxx">Surgeon S. J. Allen</name>, <name type="organization" key="xxx">4th Vermont</name>, noted: &#34;Wound of the right groin.&#34; On <date type="transfer" when="1864-05-26">May 26, 1864</date>, he was admitted into the <name type="hospital" key="187">Second Division Hospital</name> at <name type="place">Alexandria</name>. He died <date type="death" when="1864-05-27">the following day</date>. <name type="person" key="xxx">Surgeon T. R. Spencer</name>, <name type="organization" key="132">U. S. V.</name>, reported the cause of death &#34;shot wound of the right hip joint.&#34; </p>
+   
+  </body>
+ </text>
+</TEI>

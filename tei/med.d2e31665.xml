@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d2e31665">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Harrold, J. S.</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+       <idno>med.d2e31665</idno>
+       <authority>Civil War Washington</authority>
+       <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor>
+       <name>Center for Digital Research in the Humanities</name>
+       <address><addrLine>319 Love Library</addrLine>
+       <addrLine>University of Nebraska–Lincoln</addrLine>
+       <addrLine>Lincoln, NE 68588-4100</addrLine>
+       <addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+    </distributor>
+    <date>2011</date>
+    <availability>
+        <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+         republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+         law, requires express written consent from the editors and advance notification of the
+         publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+     <persName xml:id="mb">Matthew Bosley</persName>
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl>
+     <title level="j">The Medical and Surgical History of the War of the Rebellion. (1861-65.)</title>
+     <pubPlace>Washington, DC</pubPlace>
+     <publisher>Government Printing Office</publisher>
+     <biblScope type="part">Part 2</biblScope>
+     <biblScope type="volume">Volume 2</biblScope>
+     <date when="1876">1876</date>
+     <biblScope type="page">99-100</biblScope>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+       <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+      <keywords scheme="#medsurg">
+       <term>injuries of the abdomen</term>
+       <term>penetrating wounds of the abdomen</term>
+       <term>wounds of the large intestines</term>
+       <term>gunshot wounds</term>
+       <term>cases of recovery</term> 
+       <term>ball voided at stool</term>
+       <term>missile appeared to penetrate wall of transverse colon anteriorly</term>
+       <term>ball entered below umbilicus near median line</term>
+       <term>ball entered abdomen midway between pubes and umbilicus in median line, passed on and channelled bowel in its course</term>
+       <term>active service appears subsequent to date of discharge, wounded six different times</term>
+       <term>shot in forearm, destroyed shaft of ulna, injured forearm muscles, complete anchylosis of elbow joint, forearm useless</term>
+       <term>wounded in abdomen, ball entered midway of umbilical region, passed into intestine and discharged at stool</term>
+       <term>irritation caused lower bowels to discharge pus</term>
+       <term>pain and difficult micturition</term>       
+     </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change who="#mb" when="2012-08-24">copied case from MSHWR, added proofing of transcription and encoding, identified keyword terms</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body> 
+   <p><hi rend="initialcap">C</hi>ASE 296.&#8212;<name type="person" key="xxx">Lieutenant J. S. Harrold</name>, <name type="organization" key="xxx">Co. H, 14th Indiana</name>, aged 22 years, was wounded at <name type="BATTLE" key="10">Chancellorsville</name>, <date type="injury" when="1863-05-03">May 3, 1863</date>, by a conical ball, which entered an inch and a quarter below the umbilicus and a quarter of an inch to the left of the median line. The patient was sent by rail to <name type="place">Aquia Creek</name>, and thence, on the <name type="hospital" key="xxx">transport steamer Mary Washington</name>, to <name type="place">Georgetown</name>, and was admitted to <name type="hospital" key="156">Seminary Hospital</name> on <date type="admit" when="1863-05-06">May 6th</date>, where <name type="person" key="xxx">Acting Assistant Surgeon Woodbury</name> reported that &#34;the appearance of the wounded man was good; there was slight pain in the abdomen, and nausea; the bowels moved very frequently; the wound looked well. The appearances indicated that the ball, entering the abdomen midway between the pubes and umbilicus, in the median line, had passed on, channeling the bowel in its course. The patient's statement is, that he has been troubled with giddiness and nausea&#8212;had also pain and difficult micturition&#8212;and no appetite; took medicine from several surgeons on the boat, but does not know its nature.  On the morning of May 8th, he had slight pain in the abdomen, and at four in the afternoon there was a yellow, scanty, alvine dejection, that contained a mini&#233; ball.  After this the patient was comparatively comfortable, but there was nausea and some diarrh&#339;a, and he was directed to take one-eighth of a grain of sulphate of morphia in mint water. There was vomiting in the morning, and diarrh&#339;a recurred, but not in a severe form, and he was ordered an injection of starch and laudanum, which was repeated on the 14th, when the patient looked much better, and the wound was in excellent condition.  On the 18th, vomiting and epigastric pain recurred, and required the use of fomentations and neutral mixture. The nausea and irritability of the bowels returned, at intervals, until the 10th of June, but there was a gradual improvement in the general condition notwithstanding these drawbacks.  On <date type="furlough" when="1863-05-13">the 13th</date>, the officer went home on leave of absence.  On <date type="servicedischarge" when="1863-09-19">September 19th</date>, he was mustered out, and afterward pensioned. Though recorded as discharged at this date, this officer would appear to have seen much active service subsequently, since the report of <name type="person" key="xxx">Pension Examiner J. T. Belles</name>, <date type="pension" when="1867-03-04">March 4, 1867</date>, states that he was &#34;wounded at six different times, and in different parts of the body, of which I will only mention two, as either of them alone is sufficient to entitle him to a full pension. First, he was shot in the left forearm, destroying the shaft of the ulna and causing its removal, and injuring the muscles of the part, thereby causing complete anchylosis of elbow joint, rendering the forearm useless; second, wounded in the abdomen, the ball entering at a point above it, midway of the umbilical region, and passing into the intestine, and subsequently discharged at stool. This caused considerable derangement of the muscles of the abdomen and bowels. There is sufficient irritation to cause the lower part of the bowels to discharge considerable pus. Exercise is very painful.&#34;  He was still a pensioner in <date type="pension" when="1872-09">September, 1872</date>.</p>       
+  </body>
+ </text>
+</TEI>

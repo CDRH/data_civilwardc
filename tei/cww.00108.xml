@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="cww.00108">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Petition of John T. Kelly, 8 May 1862</title>
+                <title level="m" type="sub">a machine readable transcription</title>
+                <principal>Susan C. Lawrence</principal>
+                <principal>Kenneth M. Price</principal>
+                <principal>Kenneth J. Winkle</principal>
+                <respStmt>
+                    <resp>transcription and encoding</resp>
+                    <name xml:id="scl">Susan C. Lawrence</name>
+                    <name xml:id="el">Elizabeth Lorang</name>
+                    <name xml:id="jc">Janel Cayer</name>
+                    <name xml:id="cg">Courtney Geerhart</name>
+                    <name xml:id="rr">Rhiannon Root</name>
+                    <name xml:id="rv">Robert Voss</name>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2013</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <idno>cww.00108</idno>
+                <distributor>Civil War Washington</distributor>
+                <publisher>University of Nebraska–Lincoln</publisher>
+                <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>P.O. Box 884100</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+            </address>
+                <date>2013</date>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+                        <p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike
+                            3.0 Unported License
+                            (http://creativecommons.org/licenses/by-nc-sa/3.0/). Derivatives must be
+                            credited to Civil War Washington, made available non-commercially, and
+                            distributed under the same terms. Requests for permission for commercial
+                            publication or other use should be emailed to the project team.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Petition of John T. Kelly, 8 May 1862</title>
+                    <date when="1862-05-08">May 8, 1862</date>
+                    <idno>Microcopy 520, Reel 2</idno>
+                    <orgName>National Archives and Records Administration</orgName>
+                    <relatedItem type="original">
+                        <bibl>
+                            <title>Petition of John T. Kelly, 8 May 1862</title>
+                            <date when="1862-05-08">May 8, 1862</date>
+                            <idno>Record Group 217.6.5</idno>
+                            <orgName>Records of the Accounting Officers of the Department of the
+                                Treasury, 1775&#8211;1978, National Archives and Records
+                                Administration</orgName>
+                            <note type="project">Within the National Archives' Archival Description
+                                Catalog, see ARC Identifier 4644616 / MLR Number A1 347
+                                (http://arcweb.archives.gov).</note>
+                        </bibl>
+                    </relatedItem>
+                    <note type="project">Our transcription is based on a digital image of a
+                        microfilm copy of the original.</note>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <particDesc>
+                <person role="petitioner">
+                    <persName>John T. Kelly</persName>
+                </person>
+                <person role="jp">
+                    <persName>Robert White</persName>
+                </person>
+            </particDesc>
+        </profileDesc>
+        <revisionDesc>
+            <change when="2013-01-20" who="#jc">revised schema declaration</change>
+            <change when="2012-03" who="#scl">blessed</change>
+            <change when="2012-03-16" who="#jc">proofed for and corrected transcription and encoding
+                errors</change>
+            <change when="2012-02-15" who="#el">automated checking across files for extra spaces in
+                elements and other encoding inconsistencies and for regular transcription
+                errors</change>
+            <change when="2012-02-14" who="#el">updated tei header; fixed values for @facs as
+                necessary</change>
+            <change when="2012-01-27" who="#jc">checked</change>
+            <change when="2011-08-25" who="#cg">checked</change>
+            <change when="2011-05-31" who="#rr">checked</change>
+            <change when="2011-03-31" who="#rv">transcribed, encoded</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+
+            <pb xml:id="leaf001r" facs="cww.00108.001.jpg"/>
+
+            <div1 type="petition" subtype="mixed">
+                <head type="main">PETITION.</head>
+                <p rend="bold">To the Commissioners under the act of Congress approved the <date
+                        when="1862-04-16">16th of April, 1862</date>, entitled "An act for the
+                    release of certain persons held to service or labor in the District of
+                    Columbia."</p>
+
+                <p>Your Petitioner, <seg type="handwritten">
+                        <persName>John T. Kelly</persName>
+                    </seg> of <seg type="handwritten">
+                        <placeName>Georgetown D.C.</placeName>
+                    </seg> by this <seg type="handwritten">his</seg> petition in writing, represents
+                    and states, that <seg type="handwritten">he</seg> is a person loyal to the
+                    United States, who, at the time of the passage of the said act of Congress, held
+                    a claim to service or labor against <seg type="handwritten">a Male Person named
+                            <persName>William Jones</persName> a</seg> person of African descent of
+                    the name of <seg type="handwritten">
+                        <persName>William Jones</persName>
+                    </seg> for and during <del>the life of said</del>
+                    <seg type="handwritten">the term of Five Years from the <date when="1861-04-22"
+                            >22nd day of April 1861</date> to the <date when="1866-04-22">22nd day
+                            of April 1866</date>
+                    </seg> and that by said act of Congress said <seg type="handwritten">
+                        <persName>William Jones</persName> was</seg> discharged and freed of and
+                    from all claim of your petitioner to such service or labor; that at the time of
+                    said discharge said <seg type="handwritten">
+                        <persName>William Jones</persName> was</seg> of the age of <seg
+                        type="handwritten">thirty one Years</seg> and of the personal description
+                        following:<note type="government" place="foot" xml:id="n1">Here describe the
+                        person, so as to identify him or her; and if there be more than one slave,
+                        describe each one separately.</note><seg type="handwritten">5 feet 8 inches
+                        high of a Dark Color</seg></p>
+
+                <pb xml:id="leaf001v" facs="cww.00108.002.jpg"/>
+
+                <!-- The order of leaves has been transcribed according to the reading order of the petition. The supplemental bill of sale (as filed) was pasted onto the verso of the petition's first page, making it possible to interpret the bill of sale as the second page of the petition. For our purposes, however, it might make more sense to preserve the reading order in our transcription, as I have done here. Please review. JC, 2012-01-27.-->
+
+                <p>That your petitioner acquired <seg type="handwritten">his</seg> claim to the
+                    aforesaid service or labor of said <seg type="handwritten">
+                        <persName>William Jones</persName>
+                    </seg> in manner following:<note type="government" place="foot" xml:id="n2">Here
+                        state how the claim was acquired, when, from whom, and for what price or
+                        consideration; and, if held under any written evidence of title, make
+                        exhibit thereof, or refer to the public record where the same may be
+                        found.</note><seg type="handwritten">at a Sheriff's Sale in
+                            <placeName>Baltimore County Maryland</placeName> for the Sum of Four
+                        hundred &#38; fifty dollars as per copy of the Records from
+                            <placeName>Baltimore County Court</placeName> herewith filed</seg></p>
+
+                <p>That your petitioner's claim to the service or labor of said <seg
+                        type="handwritten">
+                        <persName>William Jones</persName>
+                    </seg> was, at the time of said discharge therefrom, of the value of <seg
+                        type="handwritten">four hundred &#38; fifty</seg> dollars in money.<note
+                        type="government" place="foot" xml:id="n3">Here state such facts, if any
+                        there be, touching the value of the petitioner's claim to the service or
+                        labor of the person, as may enhance the same, and also such facts, if any,
+                        touching the moral, mental, and bodily infirmities or defects of said
+                        person, as impair the value of the petitioner's claim to such service or
+                        labor, and conclude such statement with an averment that the petitioner
+                        knows of no other infirmities or defects of said person which impair the
+                        value of petitioner's claim to such service or labor, and that he believes
+                        none other to exist. If the petitioner specify no such infirmity or defect,
+                        then his statement touching the value of his claim should conclude with an
+                        averment that he has no knowledge of any such infirmity or defect.</note>
+                </p>
+
+                <p>Your petitioner hereby declares that <seg type="handwritten">he</seg> bears true
+                    and faithful allegiance to the Government of the United States, and that <seg
+                        type="handwritten">he</seg> has not borne arms against the United States in
+                    the present rebellion, nor in any way given aid or comfort thereto.</p>
+
+                <p>And your petitioner further states and alleges, that <seg type="handwritten"
+                        >he</seg> has not brought said <seg type="handwritten">
+                        <persName>William Jones</persName>
+                    </seg> into the <placeName>District of Columbia</placeName> since the passage of
+                    said act of Congress; and that, at the time of the passage thereof, said <seg
+                        type="handwritten">
+                        <persName>William Jones</persName>
+                    </seg> was held to service or labor therein under and by virtue of your
+                    petitioner's claim to such service or labor.</p>
+
+                <p>Your petitioner further states and alleges, that <seg type="handwritten"
+                        >his</seg> said claim to the service or labor of said <seg
+                        type="handwritten">
+                        <persName>William Jones</persName>
+                    </seg> does not originate in or by virtue of any transfer heretofore made by any
+                    person who has in any manner aided or sustained the present rebellion against
+                    the Government of the United States.</p>
+
+                <p>And your petitioner prays the said Commissioners to investigate and determine the
+                    validity of <seg type="handwritten">his</seg> said claim to the service or labor
+                    of said <seg type="handwritten">
+                        <persName>William Jones</persName>
+                    </seg> herein above set forth; and if the same be found to be valid, that they
+                    appraise and apportion the value of said claim in money, and report the same to
+                    the Secretary of the Treasury of the United States, in conformity to the
+                    provisions of said act of Congress.</p>
+
+                <closer> (Signed by) <signed>
+                        <seg type="handwritten">
+                            <persName>John T. Kelly</persName>
+                        </seg>
+                    </signed>
+                </closer>
+            </div1>
+
+            <pb xml:id="leaf002r" facs="cww.00108.003.jpg"/>
+
+            <div1 type="billofsale" subtype="handwritten">
+                <dateline>
+                    <placeName>State of Maryland</placeName>
+                    <lb/> Vs<lb/>
+                    <persName>William Jones</persName>
+                    <lb/> In the Circuit Court for <placeName>Baltimore County</placeName>
+                    <lb/>
+                    <date when="1861-03"> March Term 1861</date>
+                </dateline>
+                <ab>Indict: for <hi rend="underline">Larceny</hi>
+                    <lb/> Plea non cul: <gap reason="illegible" extent="one word" unit="chars"
+                        quantity="6"/>
+                    <lb/> Jury found Verdict "Guilty"</ab>
+
+                <p>
+                    <date when="1861-03-31">31 March 1861</date> Judgment that Prisoner be sold out
+                    of the State of <placeName>Maryland</placeName> for the balance of the Term for
+                    which he is a slave to wit until the <date when="1866-04-22">22nd Day of April
+                        1866</date>.</p>
+
+                <p>
+                    <date when="1861-04-03">3rd April 1861</date>. <persName>William
+                        Jones</persName> was sold to <persName>John T. Kelly</persName> of the
+                        <placeName>District of Columbia</placeName> for the Sum of Four Hundred and
+                    Fifty Dollars to serve as a slave out of the State of
+                        <placeName>Maryland</placeName> until the <date when="1866-04-22">22nd day
+                        of April 1866</date>
+                    <persName>F. J. Wheeler</persName>
+                    <choice>
+                        <abbr>Shff.</abbr>
+                        <expan>Sheriff</expan>
+                    </choice>
+                    <choice>
+                        <abbr>Sheff's</abbr>
+                        <expan>Sheriff's</expan>
+                    </choice> Report of sale filed</p>
+
+                <p>
+                    <placeName>Baltimore County</placeName> Sct I <persName>George H.
+                        Carman</persName>, Clerk of the Circuit Court for <placeName>Baltimore
+                        County</placeName> do certify that the above is a true copy of the Judgement
+                    of the Court and the Sheriff's Execution thereof taken from the Criminal Docket
+                    of said Court for the <date when="1861-03">March Term 1861</date>
+                </p>
+
+                <p>In Testimony whereof I hereto set my hand and affix the Seal of said Court the
+                        <date when="1861-04-03">third day of April 1861</date>
+                </p>
+                <closer>
+                    <signed>
+                        <persName>Geo. H. Carman</persName>
+                        <lb/>
+                        <choice>
+                            <abbr>Clk</abbr>
+                            <expan>clerk</expan>
+                        </choice>
+                    </signed>
+                </closer>
+            </div1>
+
+            <pb xml:id="leaf003r" facs="cww.00108.004.jpg"/>
+            <div1 type="oath" subtype="mixed">
+                <head type="main">[<hi rend="italic">Form of the Oath for the Verification of the
+                        Petition.</hi>]</head>
+
+                <dateline>
+                    <placeName>District of Columbia</placeName>,
+                    <lb/>
+                    <hi rend="italic"><placeName>Washington County</placeName>, ss.</hi>
+                </dateline>
+
+                <div2 type="section">
+                    <p>I, <seg type="handwritten">
+                            <persName>John T. Kelly</persName>
+                        </seg> being duly sworn, do depose and say, that all the several matters and
+                        things which are set forth and stated in the foregoing petition, as of my
+                        own knowledge, are true in substance and in fact; and that all the several
+                        other matters and things therein set forth and stated, as from the
+                        information of others, I believe to be true in substance and in fact.</p>
+                    <closer> (Signed by) <signed>
+                            <seg type="handwritten">
+                                <persName>John T. Kelley</persName>
+                            </seg>
+                        </signed>
+                    </closer>
+                </div2>
+
+                <div2 type="section">
+                    <p>Sworn to and subscribed before me this <date when="1862-05-07">
+                            <seg type="handwritten">7th</seg> day of <seg type="handwritten"
+                                >May</seg> A.D. 1862</date>
+                    </p>
+                    <closer> (Signed by) <signed>
+                            <seg type="handwritten">
+                                <persName>Robert White</persName>
+                                <lb/> J. Peace</seg>
+                        </signed>
+                    </closer>
+                </div2>
+            </div1>
+
+            <div1 type="cover" subtype="handwritten">
+                <note type="editorial">The following note, about the filing of the petition, has
+                    been imaged twice in the National Archives microfilm, but the note occurs in
+                    only one place in the petition: written horizontally on the final page, the Oath
+                    for the Verification.</note>
+                <ab>108<lb/> Petition of <persName>John T. Kelly</persName>
+                </ab>
+                <ab>Filed <date when="1862-05-08">May 8, 1862</date>
+                </ab>
+                <ab>
+                    <persName>R. P. Jackson</persName>
+                    <lb/> Atty for Petitioner </ab>
+            </div1>
+        </body>
+    </text>
+</TEI>

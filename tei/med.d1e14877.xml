@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e14877">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Duffy, James</title>
+                <title level="m" type="sub">a machine readable transcription</title>
+                <principal>Susan C. Lawrence</principal>
+                <principal>Kenneth M. Price</principal>
+                <principal>Kenneth J. Winkle</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2011</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <idno>med.d1e14877</idno>
+                <authority>Civil War Washington</authority>
+                <publisher>University of Nebraska–Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+                </distributor>
+                <date>2011</date>
+                <availability>
+                    <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved.
+                        Redistribution or republication in any medium, except as allowed under the
+                        Fair Use provisions of U.S. copyright law, requires express written consent
+                        from the editors and advance notification of the publisher, the University
+                        of Nebraska–Lincoln.</p>
+                </availability>
+            </publicationStmt>
+            <notesStmt>
+                <note type="project">The following are responsible for particular readings or for changes to this file, as noted: 
+                    <persName xml:id="mb">Matthew Bosley</persName>
+                    <persName xml:id="el">Elizabeth Lorang</persName>
+                    <persName xml:id="sb">Stacey Berry</persName>
+                    <persName xml:id="et">Elisabeth Tracey</persName>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>The Medical and Surgical History of the War of the Rebellion. (1861&#8211;65.)</title>
+                    <editor role="compiler">Surgeon General Joseph K. Barnes, United States Army</editor>
+                    <pubPlace>Washington, D.C.</pubPlace>
+                    <publisher>Government Printing Office</publisher>
+                    <biblScope type="part">Part 1</biblScope>
+                    <biblScope type="volume">Volume 2</biblScope>
+                    <date when="1870">1870</date>
+                    <biblScope type="page">215</biblScope>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <classDecl>
+                <taxonomy xml:id="medsurg">
+                    <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme="#medsurg">
+                    <term>on special wounds and injuries of the head</term>
+                    <term>wounds and injuries of the head</term>
+                    <term>gunshot wounds</term>
+                    <term>gunshot fractures of the cranial bones</term> 
+                    <term>removal of fragments after gunshot fractures of the skull</term>
+                    <term>exfoliation and removal of necrosed or detached fragments of cranial bones after gunshot injuries</term>
+                    <term>recovered, slight disabilities, returned to duty</term>
+                    <term>piece of shell fractured parietal bones at apex</term>
+                    <term>large depression in skull, fifteen pieces of bone removed</term>
+                    <term>fainting spells and dizziness, cannot bear sun exposure</term>                    
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change who="#mb" when="2013-07-22">additional proofing of transcription and encoding, edited and added keyword terms</change>
+            <change who="#mb" when="2011-07-26">additional proofing of transcription and encoding</change>
+            <change who="#el" when="2011-11-05">case text extracted and transformed from larger file</change>
+            <change who="#sb" when="2011-02-09">enriched encoding</change>
+            <change who="#sb" when="2011-01-28">validated file</change>
+            <change who="#et" when="2009-08-01">encoded</change>
+            <change who="#sb" when="2008-09-22">initial checking of OCR text against PDF; encoded</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body xml:id="ch1.sc3.281">            
+                <p><hi rend="initialcap">C</hi>ASE.&#8212;<name type="person" key="1619">Private
+                        James Duffy</name>, <name type="organization" key="336">Co. A, 116th
+                            Pennsylvania Volunteers</name>, aged 33 years, was wounded at the battle of <name
+                                type="BATTLE" key="10">Chancellorsville, Virginia</name>, <date
+                        type="injury" when="1863-05-03">May 3d, 1863</date>, by a piece of shell,
+                    which fractured the parietal bones at the apex.  He was, on <date type="admit" when="1863-05-03">the same day</date>,
+                    admitted to the regimental hospital near <name type="place">Falmouth, Virginia</name>; on <date
+                        type="transfer" when="1863-05-08">May 8th</date>, sent to the <name
+                        type="hospital" key="165">Mount Pleasant Hospital</name>, Washington, and,
+                    on the <date type="transfer" when="1863-05-12">12th</date>, transferred to the
+                    <name type="hospital">Satterlee Hospital, Philadelphia</name>.  He recovered under simple treatment and was
+                    returned to duty on the <date type="duty" when="1863-10-24">24th of October,
+                        1863</date>.  He was discharged <date type="servicedischarge"
+                        when="1865-07-21">July 21st, 1865</date>, and pensioned.  <name type="person"
+                            key="1618">Pension Examiner Thomas B. Reed</name>, in <date type="pension" when="1867-10">October, 1867</date>, reports
+                    that there is a large depression in the skull, and that fifteen pieces of bone
+                    have been removed. The man is subject to fainting spells and dizziness, and
+                    cannot bear exposure to the sun.</p>            
+        </body>
+    </text>
+</TEI>

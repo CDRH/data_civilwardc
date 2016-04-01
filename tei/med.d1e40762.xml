@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e40762">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Gleek, George A.</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+       <idno>med.d1e40762</idno>
+       <authority>Civil War Washington</authority>
+       <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor>
+       <name>Center for Digital Research in the Humanities</name>
+       <address><addrLine>319 Love Library</addrLine>
+       <addrLine>University of Nebraska–Lincoln</addrLine>
+       <addrLine>Lincoln, NE 68588-4100</addrLine>
+       <addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+    </distributor>
+    <date>2011</date>
+    <availability>
+        <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+         republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+         law, requires express written consent from the editors and advance notification of the
+         publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+     <persName xml:id="mb">Matthew Bosley</persName>
+     <persName xml:id="el">Elizabeth Lorang</persName>
+     <persName xml:id="sb">Stacey Berry</persName>
+     <persName xml:id="ao">Alyssa Olson</persName>     
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl>
+     <title level="j">The Medical and Surgical History of the War of the Rebellion. (1861-65.)</title>
+     <pubPlace>Washington, DC</pubPlace>
+     <publisher>Government Printing Office</publisher>
+     <biblScope type="part">Part 2</biblScope>
+     <biblScope type="volume">Volume 1</biblScope>
+     <date when="1879">1879</date>
+     <biblScope type="page">122</biblScope>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+       <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+      <keywords scheme="#medsurg">
+       <term>diarrh&#339;a and dysentery</term>
+       <term>fatal cases of diarrh&#339;a and dysentery, with accounts of the morbid appearances observed</term>
+       <term>from Cuyler Hospital, Philadelphia, Pennsylvania</term>
+       <term>chronic diarrh&#339;a three months</term>
+       <term>incontinence of urine</term>
+       <term>omentum almost devoid of fat</term>
+       <term>ulcers near ileoc&#230;cal valve</term>  
+       <term>autopsy performed</term>
+     </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change who="#mb" when="2012-10-11">additional proofing of transcription and encoding, identified keyword terms</change>
+   <change who="#el" when="2010-11-05">case text extracted and transformed from larger file</change>
+   <change who="#sb" when="2010-05-01">enrich encoding, proof and edit</change>
+   <change who="#ao" when="2008-10-02">encoding and editing</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body> 
+   <p>Case from the case-book of the <hi rend="initialcap">C</hi>UYLER <hi rend="initialcap">H</hi>OSPITAL, <name type="place">Philadelphia, Pennsylvania</name>, <name type="person" key="xxx">Assistant Surgeon Henry S. Schell</name>, <name type="organization" key="190">U. S. A.</name>, in charge at the time the case was recorded:</p>
+   <p><hi rend="initialcap">C</hi>ASE 184.&#8212;<name type="person" key="91">Wagoner George A. Gleek</name>, <name type="organization" key="101">company I, 1st Michigan cavalry</name>; age 37; admitted <date type="transfer" when="1864-08-30">August 30, 1864</date>.  Chronic diarrh&#339;a of three months' standing.  [The register of the post hospital of the cavalry division, <name type="hospital" key="90">Camp Stoneman</name>, D. C., shows that this man was admitted to that hospital <date type="admit" when="1864-08-02">August 2, 1864</date>, with diarrh&#339;a, and sent to <name type="hospital" key="176">Lincoln hospital</name> <date type="transfer" when="1864-08-11">August 11th</date>. He appears on the register of <name type="hospital" key="176">Lincoln hospital</name>, Washington, D. C., admitted <date type="admit" when="1864-08-12">August 12th</date>&#8212;incontinence of urine&#8212;sent to <name type="place">Philadelphia</name> <date type="transfer" when="1864-08-29">August 29th</date>.]  He was much emaciated, and his skin had a peculiar tan color. He had no appetite, was much debilitated, and kept his bed the greater part of the time. He had frequent stools and considerable abdominal pain. The treatment adopted was tonic, astringent, and anodyne, with nutritious food, and stimulus graduated according to his condition. He slowly sank, and died <date type="death" when="1864-10-24">October 24th</date>.  <hi rend="italic">Autopsy</hi> <date type="autopsy" when="1864-10-25">next day</date>: Rigor mortis well marked; body greatly emaciated. The brain was not examined. There were extensive pleuritic adhesions, both old and recent, on the left side; both lungs contained abundant pigment deposits. The heart and pericardium were healthy. The omentum almost entirely devoid of fat. The stomach was slightly congested. The spleen enlarged. The small intestines presented numerous ulcers in the neighborhood of the ileoc&#230;cal valve. The remaining viscera appeared to be normal.</p>      
+  </body>
+ </text>
+</TEI>

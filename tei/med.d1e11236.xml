@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e11236">
+        <teiHeader>
+                <fileDesc>
+                        <titleStmt>
+                                <title level="m" type="main">Bates, James W.</title>
+                                <title level="m" type="sub">a machine readable transcription</title>
+                                <principal>Susan C. Lawrence</principal>
+                                <principal>Kenneth M. Price</principal>
+                                <principal>Kenneth J. Winkle</principal>
+                        </titleStmt>
+                        <editionStmt>
+                                <edition>
+                                        <date>2011</date>
+                                </edition>
+                        </editionStmt>
+                        <publicationStmt>
+                                <idno>med.d1e11236</idno>
+                                <authority>Civil War Washington</authority>
+                                <publisher>University of Nebraska–Lincoln</publisher>
+                                <distributor>
+                                        <name>Center for Digital Research in the Humanities</name>
+                                        <address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+                                </distributor>
+                                <date>2011</date>
+                                <availability>
+                                        <p>Copyright © 2011 by University of Nebraska–Lincoln, all
+                                                rights reserved. Redistribution or republication in
+                                                any medium, except as allowed under the Fair Use
+                                                provisions of U.S. copyright law, requires express
+                                                written consent from the editors and advance
+                                                notification of the publisher, the University of
+                                                Nebraska–Lincoln.</p>
+                                </availability>
+                        </publicationStmt>
+                        <notesStmt>
+                                <note type="project">The following are responsible for particular readings or for changes to this file, as noted: 
+                                        <persName xml:id="mb">Matthew Bosley</persName>
+                                        <persName xml:id="el">Elizabeth Lorang</persName>
+                                        <persName xml:id="sb">Stacey Berry</persName>
+                                        <persName xml:id="et">Elisabeth Tracey</persName>
+                                </note>
+                        </notesStmt>
+                        <sourceDesc>
+                                <bibl>
+                                        <title level="j">The Medical and Surgical History of the War of the Rebellion</title>
+                                        <pubPlace>Washington, DC</pubPlace>
+                                        <publisher>Government Printing Office</publisher>
+                                        <biblScope type="part">Part 3</biblScope>
+                                        <biblScope type="volume">Volume 1</biblScope>
+                                        <date when="1888">1888</date>
+                                        <biblScope type="page">786-787</biblScope>
+                                </bibl>
+                        </sourceDesc>
+                </fileDesc>
+                <encodingDesc>
+                        <classDecl>
+                                <taxonomy xml:id="medsurg">
+                                        <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+                                </taxonomy>
+                        </classDecl>
+                </encodingDesc>
+                <profileDesc>
+                        <textClass>
+                                <keywords scheme="#medsurg">
+                                        <term>diseases attributed to non-miasmatic exposures</term>
+                                        <term>diseases of the respiratory organs</term>
+                                        <term>pneumonia</term>
+                                        <term>post-mortem records of catarrhal cases</term> 
+                                        <term>lobar pneumonias</term>
+                                        <term>secondary pneumonias</term>
+                                        <term>broncho-pneumonia with implication of the pleura</term>	
+                                        <term>unconnected with the eruptive fever</term>                                        
+                                        <term>cysts in both kidneys, pelves distended, ureters enlarged</term>
+                                        <term>admitted with acute bronchitis</term>
+                                        <term>trachea and larynx contained rust-colored <choice><orig>sputa</orig><reg>sputum</reg></choice></term>
+                                        <term>both lungs congested, rust-colored fluid exuded</term>
+                                </keywords>
+                        </textClass>
+                </profileDesc>
+                <revisionDesc>
+                        <change who="#mb" when="2013-03-08">additional proofing of transcription and encoding, edited and added keyword terms</change>
+                        <change who="#mb" when="2011-07-08">additional proofing of transcription and encoding</change>
+                        <change who="#el" when="2011-05-11">case text extracted and transformed from larger file</change>
+                        <change who="#sb" when="2011-02-23">Encoding and Proofing</change>
+                        <change who="#et" when="2009-12-01">Initial Checking OCR Text to PDF file,</change>
+                </revisionDesc>
+        </teiHeader>
+        <text>
+                <body>                        
+                        <p> <hi rend="initialcap">C</hi>ASE 23.&#8212;<name type="person">Private James W. Bates</name>, <name type="organization">Co. F, 25th N. Y.
+                                Cav.</name>; age 53; was admitted <date type="admit" when="1864-12-05">Dec. 5, 1864</date>, with acute
+                                        bronchitis. Counter-irritants, expectorants and stimulants
+                                        were employed.  He died on <date type="death" when="1864-12-18">the 18th</date>.   <hi rend="italic">Post-mortem</hi> examination: Body well developed. The trachea and larynx
+                                contained a quantity of frothy rust-colored <choice><orig>sputa</orig><reg>sputum</reg></choice>. There
+                                        were slight pleuritic adhesions on both sides and each
+                                        cavity contained about an ounce of thin liquid. Both lungs
+                                        were greatly congested; on section a large quantity of
+                                        frothy rust-colored fluid exuded, but no portion of either
+                                        lung sank in water; the right lung weighed fifty-two ounces,
+                                        the left twenty-eight and a half. The left cavities of the
+                                        heart contained small fibrinous clots. The liver was
+                                        considerably congested and weighed fifty-three ounces and a
+                                        half; the spleen seven ounces. There were cysts in both
+                                        kidneys; the pelves were distended and the ureters enlarged to about half an inch in diameter. The
+                                        intestines were normal.  [<hi rend="italic">Specimens</hi> 455 and 456, <name type="hospital" key="431">A. M. M.</name>,
+                                        are from this case, and show the enlargement of the pelves
+                                        and distention of the ureters, together with the cysts, the
+                                        largest of which is about the size of a shellbark.]&#8212;<hi rend="italic"><name type="person" key="246">Act. Ass't Surgeon H. M. Dean</name>, <name type="hospital" key="176">Lincoln Hospital</name>, Washington, D. C.</hi> </p>                        
+                </body>
+        </text>
+</TEI>

@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e16662">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title level="m" type="main">H&#8212;&#8212;, W&#8212;&#8212;</title>
+        <title level="m" type="sub">a machine readable transcription</title>
+        <principal>Susan C. Lawrence</principal>
+        <principal>Kenneth M. Price</principal>
+        <principal>Kenneth J. Winkle</principal>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <date>2011</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <idno>med.d1e16662</idno>
+        <authority>Civil War Washington</authority>
+        <publisher>University of Nebraska–Lincoln</publisher>
+        <distributor>
+          <name>Center for Digital Research in the Humanities</name>
+          <address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+        </distributor>
+        <date>2011</date>
+        <availability>
+          <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution
+            or republication in any medium, except as allowed under the Fair Use provisions of U.S.
+            copyright law, requires express written consent from the editors and advance
+            notification of the publisher, the University of Nebraska–Lincoln.</p>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="project">The following are responsible for particular readings or for changes to
+          this file, as noted: 
+ <persName xml:id="kmp">Kenneth M. Price</persName> 
+          <persName xml:id="ajh">AJ Howell</persName>
+          <persName xml:id="mb">Matthew Bosley</persName>
+          <persName xml:id="el">Elizabeth Lorang</persName>
+          <persName xml:id="sb">Stacey Berry</persName>
+          <persName xml:id="et">Elisabeth Tracey</persName>
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>
+          <title>The Medical and Surgical History of the War of the Rebellion.
+            (1861&#8211;65.)</title>
+          <editor role="compiler">Surgeon General Joseph K. Barnes, United States Army</editor>
+          <pubPlace>Washington, D.C.</pubPlace>
+          <publisher>Government Printing Office</publisher>
+          <biblScope type="part">Part 1</biblScope>
+          <biblScope type="volume">Volume 2</biblScope>
+          <date when="1870">1870</date>
+          <biblScope type="page">263-264</biblScope>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <classDecl>
+        <taxonomy xml:id="medsurg">
+          <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="#medsurg">
+          <term>on special wounds and injuries of the head</term>
+          <term>wounds and injuries of the head</term>
+          <term>gunshot wounds</term>
+          <term>gunshot fractures of the cranial bones</term>
+          <term>trephining after gunshot fractures of the skull</term>
+          <term>trephining practiced, fatal termination</term>
+          <term>conoidal ball caused gaping ragged wound antero-posteriorly over left parietal,
+            fractured bone</term>
+          <term>probe passed into wound to touch dura mater</term>
+          <term>pupils contracted and fixed, dysphagia, constant tingling in right arm and
+            hand</term>
+          <term>extensive comminution of internal table of bone toward vertex</term>
+          <term>dura mater lacerated by small puncture made by spicula</term>
+          <term>general anesthesia, ether</term>
+          <term>symptoms of compression of brain</term>
+          <term>surface of cerebrum disorganized and pulpy, convolutions obliterated, white and gray
+            matter undistinguishable</term>
+          <term>autopsy</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+ <change who="#kmp" when="2014-05">blessed</change>
+      <change who="#ajh" when="2013-08-19">added figure encoding</change>
+      <change who="#mb" when="2013-08-14">additional proofing of transcription and encoding, edited
+        and added keyword terms</change>
+      <change who="#mb" when="2011-08-08">additional proofing of transcription and encoding</change>
+      <change who="#el" when="2011-11-05">case text extracted and transformed from larger
+        file</change>
+      <change who="#sb" when="2011-02-09">enriched encoding</change>
+      <change who="#sb" when="2011-01-28">validated file</change>
+      <change who="#et" when="2009-08-01">encoded</change>
+      <change who="#sb" when="2008-09-22">initial checking of OCR text against PDF; encoded</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p><hi rend="initialcap">C</hi>ASE.&#8212;<name type="person">Private W&#8212;&#8212;
+          H&#8212;&#8212;</name>, <name type="organization" key="xx">Co. B, 4th Michigan
+          Volunteers</name>, was wounded at the battle of <name type="BATTLE" key="4"
+          >Fredericksburg, Virginia</name>, <date type="injury" when="1862-12-13">December 13th,
+          1862</date>, by a conoidal ball, which caused a gaping ragged wound an inch and a half
+        long, antero-posteriorly over the left parietal, fracturing the bone. A probe could be
+        passed through the opening so as to touch the dura mater. He was admitted to the hospital of
+        the 1st division, Fifth Corps, and on <date type="transfer" when="1862-12-16">December
+          16th</date>, sent to <name type="hospital" key="163">Eckington Hospital</name>,
+        Washington, D. C. He was rational, but his mind was confused; the pulse was 80 and normal;
+        the skin moderately warm; pupils somewhat contracted and fixed; some dysphagia, but no
+        paralysis existed, and he complained of a constant tingling in his right arm and hand. On
+          <date type="operation" when="1862-12-19">the 19th</date>, his memory was entirely gone.
+        The operation of trephining was decided upon; the patient was etherized, and <name
+          type="person" key="xx">Acting Assistant Surgeon Henry W. Fisher</name> elongated the
+        original wound and made another section, forming a &#8868; shaped incision. Upon turning
+        back the flaps an extensive irregular fracture was discovered, also a small piece of bone
+        was found driven down half its thickness below the surface. At its posterior edge a small
+        fragment of lead was impacted. The trephine was applied and a button removed, revealing
+        extensive comminution of the internal table toward the vertex. A tongue of bone, extending
+        from the opening made by the trephine to a radiating fracture was removed by a Hays's saw,
+        and two irregular fragments of the inner table, besides numerous small spicul&#230;, were
+        removed. The dura mater was discolored but not lacerated save by a small puncture made by
+        one of the spicul&#230;. All extraneous substances having been removed, the wound was closed
+        and cold water dressings were applied. On December 20th, the patient was semi-comatose, but
+        quite rational when spoken to. The <date type="operation" when="1862-12-21">next
+          morning</date> the pupils became contracted, the coma deepened, and all the symptoms of
+        compression of the brain appeared. Thinking that there might be a clot under the dura mater.
+          <name type="person" key="xx">Dr. Fisher</name> made a small <choice>
+          <orig>crucial</orig>
+          <reg>cruciate</reg>
+        </choice> incision in the membrane, but no clot was found. The wound of the scalp and the
+        dura mater were covered with an ash-colored, semi-fluid, sloughy matter; but on cleaning the
+        dura mater it was found not to be sloughing, but roughened and livid. No improvement took
+        place and the patient gradually sank until three o'clock P. M., <date type="death"
+          when="1862-12-21">December 21st</date>, when he died. On removing the calvarium, the
+        membranes were found congested, but without change of texture, save the roughening and
+        discoloration before noted immediately about the wound. On removing the membrane, the
+        surface of the cerebrum was found to be in a disorganized pulpy condition for a space of an
+        inch and a half. The convolutions were obliterated, the white and gray portions being
+        undistinguishable, and the tissue a disorganized sanious mass, so thin that several drops
+        ran, by their own gravity, out upon the table. The rest of the brain was healthy. This
+        disorganization was found to extend down to a level with the lateral ventricle and inward
+        almost to the outer margin of the ventricle. The adjacent wood-cut represents the specimen,
+        and shows the vault of the cranium, with a disk and twelve fragments removed by the trephine
+        from the left parietal bone. The opening of the operation measures three-fourths by one and
+        a quarter inches, and a fissure traverses the bone diagonally from the anterior superior to
+        the posterior inferior angle. The specimen and history were contributed by <name
+          type="person" key="xx">Acting Assistant Surgeon S. A. Starrow</name>.</p>
+      <figure>
+        <graphic url="cww.001414.001"/>
+        <head>
+          <hi rend="initial cap">F</hi>IG. 127.&#8212;<choice>
+            <orig>Calvaria</orig>
+            <reg>Calvarium</reg>
+          </choice> and fragments from a case of trephining after gunshot fracture. <hi
+            rend="italic">Spec</hi>. 496, Sect. I, A. M. M.</head>
+      </figure>
+    </body>
+  </text>
+</TEI>

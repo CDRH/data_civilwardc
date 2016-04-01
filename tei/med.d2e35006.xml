@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d2e35006">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Wick, Isadore</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+    <idno>med.d2e35006</idno>
+    <authority>Civil War Washington</authority>
+    <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor>
+     <name>Center for Digital Research in the Humanities</name>
+     <address><addrLine>319 Love Library</addrLine>
+       <addrLine>University of Nebraska–Lincoln</addrLine>
+       <addrLine>Lincoln, NE 68588-4100</addrLine>
+       <addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+    </distributor>
+    <date>2011</date>
+    <availability>
+     <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+      republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+      law, requires express written consent from the editors and advance notification of the
+      publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: <persName xml:id="ajh">AJ Howell</persName>
+     <persName xml:id="el">Elizabeth Lorang</persName>
+     <persName xml:id="sb">Stacey Berry</persName>
+     <persName xml:id="et">Elisabeth Tracey</persName>
+     <persName xml:id="ss">Sarah Synovec</persName>
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl>
+     <title level="j">The Medical and Surgical History of the War of the Rebellion.
+      (1861-65.)</title>
+     <pubPlace>Washington, DC</pubPlace><publisher>Government Printing Office</publisher>
+     <biblScope type="part">Part 3</biblScope>
+     <biblScope type="volume">Volume 2</biblScope>
+     <date when="1883">1883</date>
+     <biblScope type="page">839</biblScope>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+     <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <keywords scheme="#medsurg">
+     <term>wounds and complications</term>
+     <term>hospital gangrene</term>
+     <term>circular ampuation</term>
+     <term>right thigh ampuation on field</term>
+     <term>comminuted fracture of tibia by mini&#233; ball</term>
+     <term>tedious granulation</term>
+     <term>free discharge</term>
+     <term>typhoid symptoms</term>
+     <term>limb removed after death</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change who="#ajh" when="2013-02-18">additional proofing of transcription and encoding, edited
+    and added keyword terms, added figures</change>
+   <change who="#el" when="2011-05-11">case text extracted and transformed from larger file</change>
+   <change who="#sb" when="2011-06-04">Enrich Encoding, Edit and validate</change>
+   <change who="#sb" when="2011-01-28">Validated File</change>
+   <change who="#ss" when="2008-09-22">initial checking of OCR text; encoded P5 Encoding</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>In <date type="injury" when="1863-02">February, 1863</date>, a number of cases of hospital
+    gangrene occurred at the <name type="hospital" key="162">Douglas Hospital</name>, Washington, D.
+    C., and were observed by <name type="person" key="200">Assistant Surgeon William Thomson</name>,
+     <name type="organization" key="190">U. S. A.</name>, who, in a special report to the Surgeon
+    General, gives the following interesting account of the pathology and treatment of the cases. In
+    several instances later information has been added to the cases cited by <name type="person"
+     key="200">Dr. Thomson</name>: <!--<ref xml:id="n01" target="#n48" n="1" /> --></p>
+
+   <p>"On the 26th of December, 1862, about two hundred wounded from the battle of <name
+     type="BATTLE" key="251">Fredericksburg</name> were received into the <name type="hospital"
+     key="162">Douglas Hospital</name>.</p>
+
+   <p>&quot;CASE V.&#8212;<name type="person" key="xxx">Isadore Wick</name>, <name
+     type="organization" key="xxx">Co. D, 1st New York Artillery</name>, aged 32 years, had his
+    right thigh amputated on the field, for comminuted fracture of the tibia, received <date type="injury" when="1862-12-13">December 13</date>,
+    1862, at <name type="battle" key="251">Fredericksburg</name>, caused by a mini&#233; ball. He was admitted <date type="admit" when="1862-12-26">December 26th</date>. I regret that I
+    can give no account of his progress, but I learn that the flaps had been insufficient, and that
+    the stump had been closing by tedious granulation. There had been a free discharge, and his
+    general condition was, therefore, unfitted to withstand the depressing influence of hospital
+    gangrene. His bed was on the same side of the ward, and in close proximity to the first case
+    reported. The operation had been a circular one; the granulation had entirely covered the end of
+    the bone, and there was, when seen on the 18th of February, only a narrow strip, not yet
+    cicatrized between the margins of skin. This was now covered with a gray slough and had the
+    characteristic fetid odor. It was dressed simply with the creasote solution, my faith in the
+    acid treatment having been shaken by the reports of medical officers who had visited the cases
+    at Annapolis. February 23d : The case was now considered an unequivocal one of hospital
+    gangrene, and was removed to the ward selected for such cases. The cicatricial tissue had all
+    yielded to the sloughing, and the subcutaneous connective tissue had been destroyed for two
+    inches beneath the skin at the outer angle of the original incisions. No change was made in the
+    local treatment, as the creasote was a perfect deodorant, and as good results were hoped for
+    from its local use, as had been reported from Annapolis. The destruction was limited to the
+    connective tissue until March 9th, when there was a margin of sphacelus half an inch wide in the
+    true skin. The constitutional symptoms had been growing more grave. His mental despondency was
+    most marked, his face pale and anxious, his pupils dilated, his pulse 100 per minute and feeble,
+    and his skin very moist; a free diarrh&#339;a had also commenced. The tonics and stimulants,
+    having produced anorexia and nausea, were replaced by a mixture of tincture of opium and
+    hydrochloric acid in such proportions that he took gtt. xvi of tr. opii and git. iv of acid,
+    hydrochlor. every fourth hour. Beef essence and milk punch were given as freely as his stomach
+    would tolerate them, llth : As his general condition became less favorable the local action was
+    changed from molecular death to sphacelus. The whole face of the stump has now a margin of black
+    mortification of the skin, outside of which was the usual areola of purple congestion the
+    complete stasis of to-day becoming the sphacelus of to-morrow. The end of the femur, protected
+    by rosy granulations, now protrudes from the black mass of sphacelus. the integument having
+    become loosened by the destruction of the subcutaneous connective tissue and retracted. The
+    presence of this mass of putrefaction seems to add to the nervous prostration, if indeed the
+    absorption of such peccant material is not its sole cause. Pure nitric acid had been applied
+    several times, but it had been found impossible to convey it into the depths of the ulcer. <date type="death" when="1863-03-21">21st</date>
+    : No change except for the worse had occurred. Stimulating poultices of cinchona, ginger, and
+    flaxseed had been used locally, but with no benefit. Antiseptics, such as the solutions of
+    chloride of soda, creasote, and per manganate of potash, were necessary to purity the ward and
+    render it endurable for his attendants. Nutrients and stimulants had been pushed to the last
+    extent, and opium had been largely given for its supposed specific effect in the disease as well
+    as to allay suffering. The symptoms had been typhoid for several days; emaciation had gone on
+    rapidly ; there had been subsultus tendinum and muttering delirium with extreme prostration
+    until this date, when death occurred. The limb was removed after death and the specimen sent to
+    the <name type="hospital" key="431">Army Medical Museum</name>. [<hi rend="italic">Specimen</hi> 1000, <hi rend="italic">Surg. Sect</hi> ] The sphacelus had involved all
+    the tissues for five inches above the divided bone, and there seems to have been a faint effort
+    to form a line of demarcation.</p>
+
+   <p>&quot;This was, at first, a very mild case, with no very decided constitutional depression
+    until the system seemed to be poisoned by the absorption of the products of the gangrene, when
+    the ulceration became more rapid, and was finally, as the strength succumbed, converted into
+    uncontrollable and rapidly extending sphacelus, accounting satisfactorily for the unfortunate
+    result. The treatment locally had been, first, weak solution of creasote, made soluble by one
+    drachm of alcohol, four drops to one ounce of water; and second, strong nitric acid, never fully
+    applied, however, to the depths of the diseased tissues. The constitutional treatment was
+    stimulating, sustaining, and tonic.</p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e9866">
+        <teiHeader>
+                <fileDesc>
+                        <titleStmt>
+                                <title level="m" type="main">Shaw, Robert E.</title>
+                                <title level="m" type="sub">a machine readable transcription</title>
+                                <principal>Susan C. Lawrence</principal>
+                                <principal>Kenneth M. Price</principal>
+                                <principal>Kenneth J. Winkle</principal>
+                        </titleStmt>
+                        <editionStmt>
+                                <edition>
+                                        <date>2011</date>
+                                </edition>
+                        </editionStmt>
+                        <publicationStmt>
+                                <idno>med.d1e9866</idno>
+                                <authority>Civil War Washington</authority>
+                                <publisher>University of Nebraska–Lincoln</publisher>
+                                <distributor>
+                                        <name>Center for Digital Research in the Humanities</name>
+                                        <address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+                                </distributor>
+                                <date>2011</date>
+                                <availability>
+                                        <p>Copyright © 2011 by University of Nebraska–Lincoln, all
+                                                rights reserved. Redistribution or republication in
+                                                any medium, except as allowed under the Fair Use
+                                                provisions of U.S. copyright law, requires express
+                                                written consent from the editors and advance
+                                                notification of the publisher, the University of
+                                                Nebraska–Lincoln.</p>
+                                </availability>
+                        </publicationStmt>
+                        <notesStmt>
+                                <note type="project">The following are responsible for particular
+                                        readings or for changes to this file, as noted: 
+                                        <persName xml:id="mb">Matthew Bosley</persName>
+                                        <persName xml:id="el">Elizabeth Lorang</persName>
+                                        <persName xml:id="sb">Stacey Berry</persName>
+                                        <persName xml:id="et">Elisabeth Tracey</persName>
+                                </note>
+                        </notesStmt>
+                        <sourceDesc>
+                                <bibl>
+                                        <title level="j">The Medical and Surgical History of the War of the Rebellion</title>
+                                        <pubPlace>Washington, DC</pubPlace>
+                                        <publisher>Government Printing Office</publisher>
+                                        <biblScope type="part">Part 3</biblScope>
+                                        <biblScope type="volume">Volume 1</biblScope>
+                                        <date when="1888">1888</date>
+                                        <biblScope type="page">390</biblScope>
+                                </bibl>
+                        </sourceDesc>
+                </fileDesc>
+                <encodingDesc>
+                        <classDecl>
+                                <taxonomy xml:id="medsurg">
+                                        <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+                                </taxonomy>
+                        </classDecl>
+                </encodingDesc>
+                <profileDesc>
+                        <textClass>
+                                <keywords scheme="#medsurg">
+                                        <term>the continued fevers</term>
+                                        <term>post-mortem records of continued fevers</term>                                       
+                                        <term>cases reported as typhoid fever, the clinical history insufficient or absent</term>
+                                        <term>condition of Peyer's patches not stated, the ileum or the small intestine ulcerated</term>   
+                                        <term>typhoid fever</term>
+                                        <term>typhoid ulceration below four feet of ileo-c&#230;cal valve</term>
+                                        <term>ulcers superficial and mostly in centres of congested patches</term>
+                                </keywords>
+                        </textClass>
+                </profileDesc>
+                <revisionDesc>
+                        <change who="#mb" when="2013-04-11">additional proofing of transcription and encoding, edited and added keyword terms</change>
+                        <change who="#mb" when="2011-10-03">additional proofing of transcription and encoding</change>
+                        <change who="#mb" when="2011-06-24">additional proofing of transcription and encoding</change>
+                        <change who="#el" when="2011-05-11">case text extracted and transformed from larger file</change>
+                        <change who="#sb" when="2011-02-23">Encoding and Proofing</change>
+                        <change who="#et" when="2009-12-01">Initial Checking OCR Text to PDF file,</change>
+                </revisionDesc>
+        </teiHeader>
+        <text>
+                <body xml:id="ch4.sc4.1.00221">                        
+                                <p><hi rend="initialcap">C</hi>ASE 221.&#8212;<name
+                                                type="person" key="731">Private Robert E.
+                                                Shaw</name>, <name type="organization" key="221">Co.
+                                                K, 111th N. Y.</name>; age 23; was admitted <date
+                                                type="admit" when="1863-06-26">June 26, 1863</date>,
+                                        with typhoid fever, and died <date type="death"
+                                                when="1863-08-10">August 10</date>.   <hi
+                                                rend="italic">Post-mortem</hi> examination
+                                        <date type="autopsy" when="1863-08-11">twenty-five hours after death</date>: Body rigid, not emaciated.
+                                        Lungs normal excepting cadaveric changes, right weighing
+                                        eighteen ounces, left seventeen ounces; right cavities of
+                                        heart containing a large clot, fibrinous with a bloody
+                                        admixture, extending a long distance into the pulmonary
+                                        artery. Liver pale and flabby; spleen soft and decomposing;
+                                        small intestine healthy to within four feet of the
+                                        ileo-c&#230;cal valve, below this point extensive
+                                        typhoid ulceration existed, the ulcers being superficial and
+                                        situated for the most part in the centre of large congested
+                                        patches; large intestine healthy; kidneys very soft and
+                                        flabby, congested in their cortical substance.&#8212;<hi
+                                                rend="italic"><name type="person" key="245">Ass't
+                                                  Surg. H. Allen</name>, <name type="organization"
+                                                  key="190">U. S. A.</name>, <name type="hospital"
+                                                  key="176">Lincoln Hospital</name>, Washington, D. C.</hi></p>                        
+                </body>
+        </text>
+</TEI>

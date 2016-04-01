@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e41889">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Zinke, Julius</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+    <idno>med.d1e41889</idno>
+       <authority>Civil War Washington</authority>
+       <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor>
+       <name>Center for Digital Research in the Humanities</name>
+       <address><addrLine>319 Love Library</addrLine>
+       <addrLine>University of Nebraska–Lincoln</addrLine>
+       <addrLine>Lincoln, NE 68588-4100</addrLine>
+       <addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+    </distributor>
+    <date>2011</date>
+    <availability>
+        <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+         republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+         law, requires express written consent from the editors and advance notification of the
+         publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+     <persName xml:id="mb">Matthew Bosley</persName>
+     <persName xml:id="el">Elizabeth Lorang</persName>
+     <persName xml:id="sb">Stacey Berry</persName>
+     <persName xml:id="ao">Alyssa Olson</persName>      
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl>
+     <title level="j">The Medical and Surgical History of the War of the Rebellion. (1861-65.)</title>
+     <pubPlace>Washington, DC</pubPlace>
+     <publisher>Government Printing Office</publisher>
+     <biblScope type="part">Part 2</biblScope>
+     <biblScope type="volume">Volume 1</biblScope>
+     <date when="1879">1879</date>
+     <biblScope type="page">308</biblScope>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+       <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+      <keywords scheme="#medsurg">
+       <term>diarrh&#339;a and dysentery</term>
+       <term>remarks on the pathology and treatment of diarrh&#339;a and dysentery</term>
+       <term>acute diarrh&#339;a</term>                    
+       <term>post mortem appearances in acute diarrh&#339;a</term>
+       <term>morbid anatomy</term>
+       <term>lesions observed in the large intestine</term>       
+       <term>autopsy performed</term> 
+       <term>catarrh</term>
+       <term>diarrh&#339;a, one month's standing</term>
+       <term>pain in region of heart, running back to angle of scapula</term>
+       <term>short of breath, dyspn&#339;a, dry and hacking cough</term>
+       <term>loud murmur distinctly heard coincident with first heart sound</term>
+       <term>heart enlarged</term>
+       <term>burst <choice><orig>aneurismal</orig><reg>aneurysmal</reg></choice> sac above semilunar valves of aorta</term>
+       <term>aorta atheromatous</term>
+       <term>apices of both lungs contained calcareous deposits and other indications of tubercle</term>       
+       <term>mucous membrane of colon had prominent solitary follicles, central spot of black pigment in each, areola of black pigment around each follicle</term>       
+     </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change who="#mb" when="2013-01-30">additional proofing of transcription and encoding, edited and added keyword terms, added figures</change>
+   <change who="#el" when="2010-11-05">case text extracted and transformed from larger file</change>
+   <change who="#sb" when="2010-05-01">enrich encoding, proof and edit</change>
+   <change who="#ao" when="2008-10-02">encoding and editing</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body> 
+   <p><hi rend="initialcap">C</hi>ASE 883.&#8212;<name type="person" key="95">Private Julius Zinke</name>, <name type="organization" key="105">company G, 98th Pennsylvania veteran volunteers</name>; age 54; was mustered into service <date type="enlist" when="1864-03-05">March 5, 1864</date>, to serve three years. He had previously served out a three years' enlistment which had just expired.  The register of the field hospital of the Second Division, Sixth Army Corps, reports him admitted <date type="admit" when="1864-11-23">November 23d</date>; catarrh; returned to duty <date type="duty" when="1864-12-01">December 1st</date>. It appears from the company muster-rolls, however. that he was again taken on sick-report and sent to general hospital in <name type="place" key="#Washington">Washington</name>, <date type="transfer" when="1864-12-14">December 14th</date>. It appears from the case-book of the <name type="hospital" key="162">Douglas hospital</name>, Washington, D. C., that he was admitted to that hospital <date type="admit" when="1864-12-16">December 16, 1864</date>. suffering with diarrh&#339;a. said to be of a month's standing, and with some cough.  The diarrh&#339;a yielded to treatment, and he was furloughed, returning to hospital about <date type="admit" when="1865-04-01">April 1, 1865</date>. At that time he stated that his diarrh&#339;a was quite well, but that he suffered much pain in the region of the heart, running back to the angle of the scapula. He was somewhat short of breath, an&#230;mic, and had a dry, hacking cough. The action of the heart was strong and rapid, and a murmur was distinctly heard coincident with the first sound; this murmur was so loud that it could be heard all over the region of the organ, which was evidently enlarged. He stated that he had suffered from trouble in the region of the heart for two years, during which time, however, he had been able to do duty in the field, carrying his knapsack. During the three weeks preceding his death he did not seem to suffer very much, but had a continual slight pain in the region of the heart, a short, dry cough and some dyspn&#339;a; the action of the heart was rapid but regular. He was up and about the ward every day, and did not need to have his head very much elevated in order to sleep.  On the morning of <date type="death" when="1865-05-09">May 9th</date> he was suddenly seized with a sort of spasm; his breathing became very short and spasmodic, and the action of the heart intermittent. This lasted for about half an hour, when he quietly expired.  <hi rend="italic">Autopsy</hi> <date type="autopsy" when="1865-05-10">fifteen hours after death</date>: Rigor mortis well marked. The heart was somewhat enlarged. Just above the semilunar valves of the aorta there was an <choice><orig>aneurismal</orig><reg>aneurysmal</reg></choice> sac capable of containing about two ounces of fluid. The sac had burst, the blood making its way between the middle and external coats of the aorta to a point a little above the left auricle, being prevented from communicating with the pericardial sac by a copious deposit of lymph, which, however, was so soft that it was torn during the examination, thus making the communication complete. The mitral valves were somewhat thickened and rough: the aortic valves large but healthy; the aorta slightly atheromatous. The pericardium was firmly adherent to nearly the whole surface of the heart and could be removed with difficulty. The apices of both lungs contained calcareous deposits and other indications of obsolete tubercle. The mucous membrane of the colon was somewhat softened; its solitary follicles all prominent and distinct, with a central spot of black pigment in each; just around each follicle was an areola of black pigment. The other organs were healthy.  <name type="person" key="xxx">Acting Assistant Surgeon David L. Haight</name>.  The specimens were forwarded to <name type="hospital" key="431">the Museum</name> by <name type="person" key="201">Assistant Surgeon Wm. F. Norris</name>, <name type="organization" key="190">U. S. A.</name></p>   
+   <p>Nos. 546 and 547, Medical Section, <name type="hospital" key="431">Army Medical Museum</name>, are from this case.  No. 546 is the heart and a portion of the aorta, presenting the <choice><orig>aneurism</orig><reg>aneurysm</reg></choice> above described.  No. 547 is a portion of the descending colon, in which, by transmitted light, a few of the solitary follicles can still be discerned in the alcoholic preparation as opaque spots; most of them, however, have become invisible to the naked eye.</p>
+   <p>The chromo-lithograph facing page 308 is from a water-color drawing representing the appearances presented by this piece of colon in the recent state; in the lettering of the plate the word dysentery has been erroneously used. The surface of the mucous membrane is salmon-colored, with greenish streaks due to diffuse pigment deposit. In many places the vessels can be discerned as delicate red arborizations. Each of the solitary glands is marked by a central dot of pigment surrounded by a little pigment ring.  Nos. 642 to 650, Microscopical Section, are a series of perpendicular cuts of this colon, and will be described further on.</p>
+   <p>It will be observed that in this case the diarrh&#339;a from which the patient had suffered had not troubled him for some time before death, so that the specimen represents a period when the inflammatory process was well advanced towards resolution. Doubtless slight anatomical lesions such as these&#8212;an undue degree of vascularity, abnormal pigmentation, and a moderate degree of enlargement of the closed glands&#8212;remaining behind after an attack of diarrh&#339;a are among the conditions which render those who have suffered from that disease more liable to be again attacked, if exposed anew to the causes of the disease, than healthy persons under similar circumstances.</p>
+   <p><hi rend="initialcap">P</hi>LATE  VIII.   COLON  WITH  PIGMENT  DEPOSITS.   In and around the solitary Glands.&#8212;Dysentery.</p>
+  </body>
+ </text>
+</TEI>

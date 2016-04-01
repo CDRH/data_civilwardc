@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d2e26210">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Anderson, John</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+    <idno>med.d2e26210</idno>
+    <authority>Civil War Washington</authority>
+    <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor><name>Center for Digital Research in the
+     Humanities</name><address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address></distributor>
+    <date>2011</date>
+    <availability>
+     <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+      republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+      law, requires express written consent from the editors and advance notification of the
+      publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+     <persName xml:id="ajh">AJ Howell</persName>
+     <persName xml:id="el">Elizabeth Lorang</persName>
+     <persName xml:id="sb">Stacey Berry</persName>
+     <persName xml:id="et">Elisabeth Tracey</persName>
+     <persName xml:id="ss">Sarah Synovec</persName>
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title level="j">The Medical and Surgical History of the War of the Rebellion.
+      (1861-65.)</title><pubPlace>Washington, DC</pubPlace><publisher>Government Printing
+      Office</publisher><biblScope type="part">Part 3</biblScope><biblScope type="volume">Volume
+      2</biblScope><date when="1883">1883</date><biblScope type="page">716-717</biblScope></bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+     <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <keywords scheme="#medsurg">
+     <term>wounds and complications</term> 
+     <term>shot wounds</term>
+     <term>effects of missiles and projectiles on bony structure</term>
+     <term>gunshot wound of thigh, upper third</term>
+     <term>ball penetrated front of limb at inner side of femoral vessels, passed backward and outward, lodged beneath the skin</term> 
+     <term>typhoid appearance</term>      
+     <term>bullet struck shaft of femur on postero-inner side</term>     
+     <term>autopsy performed</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change who="#ajh" when="2012-06-19">additional proofing of transcription and encoding, identified keyword terms</change>
+   <change who="#el" when="2011-05-11">case text extracted and transformed from larger file</change>
+   <change who="#sb" when="2011-06-04">Enrich Encoding, Edit and validate</change>
+   <change who="#sb" when="2011-01-28">Validated File</change>
+   <change who="#ss" when="2008-09-22">initial checking of OCR text; encoded P5 Encoding</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+    <p><hi rend="initialcap">C</hi>ASE 1056.&#8212;<name type="person" key="1460">Private John Anderson</name>, <name type="organization" key="368">Co. G, 76th New York</name>, aged 30
+     years, was wounded at <name type="BATTLE" key="16">Cold Harbor</name>, <date type="injury" when="1864-06-06">June 6, 1864</date>. He was at once conveyed to the depot field hospital of the Fifth Army Corps, and on <date type="transfer"
+      when="1864-06-12">June 12th</date> was transferred to <name type="hospital" key="175">Stanton Hospital</name>, Washington.  <name type="person" key="70">Surgeon John A. Lidell</name>,
+      <name type="organization" key="132">U. S. V.</name>, reported:  "Was admitted for a gunshot wound of the left thigh in the upper third, inflicted by a
+     conical musket ball, which penetrated the front of the limb at the inner side of the femoral vessels, and, passing backward and outward through the limb, lodged beneath the skin. It was
+     extracted by an incision from behind. When he came to the hospital, <date type="transfer" when="1864-06-12">six days after the injury</date>, it was thought that the wound was only a flesh one. His general condition was fair, or rather below par at that time. Simple dressings to wound were ordered, and nutrients and stimulants were allowed. Subsequently the wound did well, and he appeared in a fair way to recover for a time.  July 1st, it was observed that he was failing in strength and
+     emaciating. Stimulants and the supporting treatment were continued with tinct. ferri muriat.  Afterwards he sank into a typhoid condition, the skin becoming warmer than natural, but without
+     sweats, the pulse frequent and feeble, the tongue dry and red, with almost entire loss of appetite. He also became somnolent, and toward the last it was difficult to rouse him. He did
+     not have any chills.  He died <date type="death" when="1864-07-18">July 18th</date>. The amount of discharge from the wound was at no time great, but the thigh remained swelled and inflamed
+     all the while.  On making an autopsy it was found that the bullet, had struck the shaft of the femur on its postero-inner side, two or three inches below the trochanter, <hi rend="italic">grazing and bruising it</hi>. The aperture of exit had healed. There was an abscess about the place of injury of the bone as large as an orange, and pus had also burrowed among the muscles of the thigh. There was a large deposit of new bone about the contused portion of the femur. A
+     longitudinal section was made with a saw. New osseous tissue was also found deposited in the medullary canal. The marrow presented the red inflammatory appearance described by <name type="person">Virchow</name>.
+     There was no thrombosis, nor any lesion whatever of the veins and arteries. The cadaver was considerably emaciated and resembled in its general appearance that produced by typhoid fever.
+     There was no lesion of the intestines or any other of the internal organs. For an account of the autopsy and for much other interesting information concerning this case, the writer&#185; is indebted to <name type="person" key="459">Assistant Surgeon George A. Mursick</name>, <name type="organization" key="132">U. S. V.</name>"</p>
+   <p>&#185; <hi rend="initialcap">L</hi>IDELL (<hi rend="initialcap">J. A.</hi>), <hi rend="italic">On Contusion and Contused Wounds of Bone, etc.</hi>, in <hi rend="italic"> Am. Jour. Med. Sci.</hi>, 1865, Vol. L, p. 26.</p>
+  </body>
+ </text>
+</TEI>

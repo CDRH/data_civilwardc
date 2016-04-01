@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d2e29348">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Fletcher, Alexander</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+       <idno>med.d2e29348</idno>
+       <authority>Civil War Washington</authority>
+       <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor>
+       <name>Center for Digital Research in the Humanities</name>
+       <address><addrLine>319 Love Library</addrLine>
+       <addrLine>University of Nebraska–Lincoln</addrLine>
+       <addrLine>Lincoln, NE 68588-4100</addrLine>
+       <addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+    </distributor>
+    <date>2011</date>
+    <availability>
+        <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+         republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+         law, requires express written consent from the editors and advance notification of the
+         publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+         <persName xml:id="mb">Matthew Bosley</persName>         
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl>
+        <title level="j">The Medical and Surgical History of the War of the Rebellion. (1861-65.)</title>
+        <pubPlace>Washington, DC</pubPlace>
+        <publisher>Government Printing Office</publisher>
+        <biblScope type="part">Part 3</biblScope>
+        <biblScope type="volume">Volume 2</biblScope>
+        <date when="1883">1883</date>
+        <biblScope type="page">823</biblScope>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+       <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+      <keywords scheme="#medsurg">
+       <term>wounds and  complications</term>
+       <term>tetanus</term>
+       <term>gunshot flesh wounds of arm and side over lower ribs</term>
+       <term>tetanus in form of both trismus and opisthotonos</term> 
+       <term>death from tetanus</term>
+       <term>ball entered over lower ribs, passed down between muscles of abdomen over Poupart's ligament and under femoral vessels, wounded the crural nerve, lodged near middle third of femur</term>       
+       <term>autopsy performed</term>
+     </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+       <change who="#mb" when="2012-06-27">additional case copied from MSHWR, performed proofing of copy and XML encoding, and key terms identified</change>  
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>   
+   <p><hi rend="initialcap">C</hi>ASE 1204.&#8212;<name type="person" key="xxx">Private Alexander Fletcher</name>, <name type="organization" key="xxx">Co. F, 31st Maine</name>, aged 21 years, was wounded at <name type="BATTLE" key="12">the Wilderness</name>, <date type="injury" when="1864-05-06">May 6, 1864</date>.  He was removed to the field hospital of the 2d division, Ninth Army Corps, and was transferred on <date type="transfer" when="1864-05-12">May 12th</date> to <name type="hospital" key="162">Douglas Hospital</name>, Washington.  <name type="person" key="200">Assistant Surgeon W. Thomson</name>, <name type="organization" key="190">U. S. A.</name>, reported:  &#34;Gunshot flesh wounds of left arm, and side over lower ribs.  On <date type="injury" when="1864-05-20">May 20th</date> tetanus in the form both of trismus and opisthotonos appeared. Equal quantities of laudanum and tincture of valerian were given in teaspoonful doses every two hours, which alleviated the symptoms somewhat.  Death resulted on <date type="death" when="1864-05-31">May 31, 1864</date>, from tetanus.  At the autopsy it was found that the ball had entered over the lower ribs and passed down between the muscles of the abdomen over Poupart's ligament and under the femoral vessels, wounded the crural nerve, and lodged near the middle third of the femur.&#34;  The specimen of the lacerated crural nerve was contributed to the <name type="hospital" key="431">Army Medical Museum</name> by <name type="person" key="200">Dr. Thomson</name>, and is numbered 3538 of the <hi rend="italic">Surgical Section</hi>.</p>      
+  </body>
+ </text>
+</TEI>

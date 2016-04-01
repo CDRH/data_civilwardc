@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d2e31316">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Hotz, R.</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+       <idno>med.d2e31316</idno>
+       <authority>Civil War Washington</authority>
+       <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor>
+       <name>Center for Digital Research in the Humanities</name>
+       <address><addrLine>319 Love Library</addrLine>
+       <addrLine>University of Nebraska–Lincoln</addrLine>
+       <addrLine>Lincoln, NE 68588-4100</addrLine>
+       <addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+    </distributor>
+    <date>2011</date>
+    <availability>
+        <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+         republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+         law, requires express written consent from the editors and advance notification of the
+         publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+ <persName xml:id="kmp">Kenneth M. Price</persName> 
+     <persName xml:id="mb">Matthew Bosley</persName>
+     <persName xml:id="nb">Nate Bernth</persName>
+     <persName xml:id="kk">Kourtney Klein</persName>
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl>
+     <title level="j">The Medical and Surgical History of the War of the Rebellion. (1861-65.)</title>
+     <pubPlace>Washington, DC</pubPlace>
+     <publisher>Government Printing Office</publisher>
+     <biblScope type="part">Part 2</biblScope>
+     <biblScope type="volume">Volume 2</biblScope>
+     <date when="1876">1876</date>
+     <biblScope type="page">929</biblScope>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+       <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+      <keywords scheme="#medsurg">
+       <term>wounds and injuries of the upper extremities</term>
+       <term>wounds and operations in the forearm</term>
+       <term>shot wounds of the forearm</term> 
+       <term>shot fractures of the forearm</term>
+       <term>shot fractures of the forearm treated by expectation</term> 
+       <term>fractures of the radius treated by expectation</term>
+       <term>successful cases of shot fracture of the radius</term>
+       <term>gunshot wound of arm</term> 
+       <term>ball entered lower part of posterior left forearm, exited immediately opposite entrance, fractured radius</term>
+       <term>large portion of radius necrosed</term>       
+       <term>extended necrosis of diaphysis</term>
+       <term>long cylindrical sequestra eliminated</term>    
+     </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+ <change who="#kmp" when="2014-05">blessed</change>
+   <change who="#kk" when="2014-01-17">added figure encoding</change>
+   <change who="#mb" when="2012-07-17">additional proofing of transcription and encoding, identified keyword terms</change>
+   <change who="#nb" when="2011-02-22">checked OCR; added minimal mark-up for personal names, place names, and dates</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>   
+   <p><hi rend="initialcap">C</hi>ASE 1877.&#8212;<name type="person" key="xxx">Private R. Hotz</name>, <name type="organization" key="xxx">Co. I, 183d Pennsylvania</name>, aged 29 years, was wounded at <name type="BATTLE" key="16">Cold Harbor</name>, <date type="injury" when="1864-06-03">June 3, 1864</date>, and admitted to the field hospital of the 1st division, Second Corps, where <name type="person" key="xxx">Surgeon W. S. Cooper</name>, <name type="organization" key="xxx">125th New York</name>, noted: &#34;Gunshot wound of arm.&#34;  On <date type="transfer" when="1864-06-07">June 7th</date>, the wounded man entered <name type="hospital" key="173">Harewood Hospital</name>, Washington, and <date type="transfer" when="1864-06">several days afterward</date> he was transferred to <name type="place">Philadelphia</name>.  <name type="person" key="xxx">Surgeon L. Taylor</name>, <name type="organization" key="190">U. S. A.</name>, in charge of McClellan Hospital, made the following detailed report of the case: &#34;He was wounded by a mini&#233; ball, which entered on the lower part of the posterior surface of the left forearm and came out immediately opposite the orifice of entrance, fracturing the radius, through which it passed. The patient was admitted to this hospital on <date type="transfer" when="1864-06-13">June 13th</date>, the lower wound being in a sloughing condition. It ceased sloughing by June 20th, and did well until July 1st, when the opening began again to increase in size.  On <date type="operation" when="1864-07-28">July 28th</date>, an abscess, pointing half way up the forearm, was opened; a probe introduced detected the presence of necrosed bone. The wound caused by the entrance of the ball had healed entirely about this time, while that of exit continued sloughing at intervals until September 1st, when it began to present a healthy appearance. It was now evident that a large portion of the radius was entirely necrosed.  On <date type="operation" when="1864-09-03">September 3d</date>, an incision was made from the cicatrized wound of entrance to near the elbow, on the posterior surface of the forearm, passing through the opening previously made, July 28th; the muscles were partly cut and partly torn apart, when a portion of the radius, six inches long, was found nearly loose, and was removed without any trouble. It was partly surrounded by callus. The wound was closed with sutures and adhesive plaster, and has since done well. The operation was performed by <name type="person" key="xxx">Acting Assistant Surgeon W. L. Wells</name>.  October 30th, the patient has some motion of the little finger, and there is prospect of the hand becoming useful to a slight degree.&#34;  The sequestrum was contributed to <name type="hospital" key="431">the Museum</name> by <name type="person" key="xxx">the operator</name>, and is represented in the annexed wood-cut (<hi rend="initialcap">F</hi>IG. 669). Its middle third occupies the totality of the bone, about one-third of the circumference being wanting at the extremities. There is an osseous deposit upon the middle of    the specimen. The patient was discharged from service <date type="servicedischarge" when="1865-02-01">February 1, 1865</date>, and pensioned.</p>  
+   
+   <figure>
+    <graphic url="cww.001729.001" />
+    <head><hi rend="initialcap">F</hi>IG. 669.&#8212;Sequestrum from left radius.     <hi rend="italic">Spec</hi>. 3672.</head>
+   </figure>
+   
+  </body>
+ </text>
+</TEI>

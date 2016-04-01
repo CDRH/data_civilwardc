@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e8889">
+        <teiHeader>
+                <fileDesc>
+                        <titleStmt>
+                                <title level="m" type="main">Donohue, Frank</title>
+                                <title level="m" type="sub">a machine readable transcription</title>
+                                <principal>Susan C. Lawrence</principal>
+                                <principal>Kenneth M. Price</principal>
+                                <principal>Kenneth J. Winkle</principal>
+                        </titleStmt>
+                        <editionStmt>
+                                <edition>
+                                        <date>2011</date>
+                                </edition>
+                        </editionStmt>
+                        <publicationStmt>
+                                <idno>med.d1e8889</idno>
+                                <authority>Civil War Washington</authority>
+                                <publisher>University of Nebraska–Lincoln</publisher>
+                                <distributor>
+                                        <name>Center for Digital Research in the Humanities</name>
+                                        <address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+                                </distributor>
+                                <date>2011</date>
+                                <availability>
+                                        <p>Copyright © 2011 by University of Nebraska–Lincoln, all
+                                                rights reserved. Redistribution or republication in
+                                                any medium, except as allowed under the Fair Use
+                                                provisions of U.S. copyright law, requires express
+                                                written consent from the editors and advance
+                                                notification of the publisher, the University of
+                                                Nebraska–Lincoln.</p>
+                                </availability>
+                        </publicationStmt>
+                        <notesStmt>
+                                <note type="project">The following are responsible for particular
+                                        readings or for changes to this file, as noted: 
+                                        <persName xml:id="mb">Matthew Bosley</persName>
+                                        <persName xml:id="el">Elizabeth Lorang</persName>
+                                        <persName xml:id="sb">Stacey Berry</persName>
+                                        <persName xml:id="et">Elisabeth Tracey</persName>
+                                </note>
+                        </notesStmt>
+                        <sourceDesc>
+                                <bibl>
+                                        <title level="j">The Medical and Surgical History of the War of the Rebellion</title>
+                                        <pubPlace>Washington, DC</pubPlace>
+                                        <publisher>Government Printing Office</publisher>
+                                        <biblScope type="part">Part 3</biblScope>
+                                        <biblScope type="volume">Volume 1</biblScope>
+                                        <date when="1888">1888</date>
+                                        <biblScope type="page">383</biblScope>
+                                </bibl>
+                        </sourceDesc>
+                </fileDesc>
+                <encodingDesc>
+                        <classDecl>
+                                <taxonomy xml:id="medsurg">
+                                        <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+                                </taxonomy>
+                        </classDecl>
+                </encodingDesc>
+                <profileDesc>
+                        <textClass>
+                                <keywords scheme="#medsurg">
+                                        <term>the continued fevers</term>
+                                        <term>post-mortem records of continued fevers</term>                                       
+                                        <term>cases reported as typhoid fever, the clinical history insufficient or absent</term>
+                                        <term>Peyer's patches ulcerated and the large intestine also implicated</term>   
+                                        <term>typhoid fever</term>
+                                        <term>complete deafness</term>    
+                                        <term>both lungs had blackish-brown fluid, which also filled the bronchi</term>
+                                        <term>aorta somewhat contracted and deeply congested</term>
+                                        <term>cicatrix-like puckering with surrounding congestion in aorta beyond semilunar valves</term>
+                                        <term>mucous membrane of upper small intestine presented ulcers in Peyer's patches</term>
+                                        <term>lower small intestine had ragged excoriating ulcers, did not involve Peyer's patches</term>
+                                        <term>mucous membrane of large intestine had ulcers on ileo-c&#230;cal valve and in c&#230;cum</term>
+                                </keywords>
+                        </textClass>
+                </profileDesc>
+                <revisionDesc>
+                        <change who="#mb" when="2013-04-02">additional proofing of transcription and encoding, edited and added keyword terms</change>
+                        <change who="#mb" when="2011-10-04">additional proofing of transcription and encoding</change>
+                        <change who="#mb" when="2011-06-22">additional proofing of transcription and encoding</change>
+                        <change who="#el" when="2011-05-11">case text extracted and transformed from larger file</change>
+                        <change who="#sb" when="2011-02-23">Encoding and Proofing</change>
+                        <change who="#et" when="2009-12-01">Initial Checking OCR Text to PDF file,</change>
+                </revisionDesc>
+        </teiHeader>
+        <text>
+                <body xml:id="ch4.sc4.1.00165">                        
+                                <p><hi rend="initialcap">C</hi>ASE 165.&#8212;<name
+                                                type="person" key="699">Sergeant Frank
+                                                Donohue</name>, <name type="organization" key="693">Co. A, 17th Pa. Cav.</name>, was admitted <date
+                                                type="admit" when="1863-02-19">Feb. 19, 1863</date>,
+                                        having been sick <date type="injury" when="1862-12">for two months</date> with typhoid fever. He was
+                                        completely deaf.  On March 1 he had sore throat, severe
+                                        headache and constipation.  On the 15th his stomach became
+                                        irritable and there was soreness in the bowels with
+                                        diarrh&#339;a. Later the stools became dark-looking but
+                                        less frequent.  He died on <date type="death" when="1863-03-25">the 25th</date>.  <hi rend="italic">Post-mortem</hi> examination <date type="autopsy" when="1863-03-27">forty-eight hours after death</date>: Body well developed and not emaciated. The
+                                        right lung weighed sixteen ounces and a half and the left
+                                        twenty-one ounces and a quarter; posteriorly the lower lobe
+                                        of the right lung was full of blackish-brown fluid, which
+                                        also filled the bronchi; similar appearances were found in
+                                        spots in the left lung. The heart weighed nine ounces and
+                                        contained no clots; the aorta was somewhat contracted,
+                                        deeply congested, and three inches beyond the semilunar
+                                        valves was a cicatrix-like puckering with intense
+                                        surrounding congestion. The liver was pale and weighed
+                                        fifty-eight ounces and a half; the spleen soft, reddened,
+                                        weighed twelve ounces and a half; the pancreas natural,
+                                        three ounces and three-quarters; the stomach healthy. The
+                                        mucous membrane of the upper part of the small intestine was
+                                        yellowish and presented several roundish ulcers with
+                                        well-defined edges in Peyer's patches and one patch, a half
+                                        inch in diameter, enlarged and indurated; lower down the
+                                        ulcers were more ragged and apparently did not involve
+                                        Peyer's patches; in the last fifteen inches of the ileum the
+                                        mucous membrane was of a reddish-slate color, the solitary
+                                        glands brownish, and there were ragged excoriating ulcers in
+                                        many of which was a thick yellowish exudation. The mucous
+                                        membrane of the large intestine was of a dull slate color,
+                                        presenting one ulcer on the ileo-c&#230;cal valve, one
+                                        at the commencement of the c&#230;cum and a third four
+                                        inches beyond. The kidneys were flabby and much
+                                                congested.&#8212;<hi rend="italic"><name
+                                                  type="person" key="245">Ass't Surg. Harrison
+                                                  Allen</name>, <name type="organization" key="190">U. S. A.</name>, <name type="hospital" key="176">Lincoln Hospital</name>, Washington, D. C.</hi></p>                        
+                </body>
+        </text>
+</TEI>

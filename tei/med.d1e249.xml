@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e249">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Nafus, Sidney</title>
+<title level="m" type="sub">a machine readable transcription</title>
+<principal>Susan C. Lawrence</principal>
+<principal>Kenneth M. Price</principal>
+<principal>Kenneth J. Winkle</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>med.d1e249</idno>
+<authority>Civil War Washington</authority>
+<publisher>University of Nebraska–Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright © 2011 by University of Nebraska–Lincoln, all
+rights reserved. Redistribution or republication in
+any medium, except as allowed under the Fair Use
+provisions of U.S. copyright law, requires express
+written consent from the editors and advance
+notification of the publisher, the University of
+Nebraska–Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">The following are responsible for particular
+readings or for changes to this file, as noted: 
+    <persName xml:id="mb">Matthew Bosley</persName>
+    <persName xml:id="el">Elizabeth Lorang</persName>
+<persName xml:id="sb">Stacey Berry</persName>
+<persName xml:id="et">Elisabeth Tracey</persName>
+</note>
+</notesStmt>
+<sourceDesc>
+<bibl>
+<title level="j">The Medical and Surgical History of the War
+of the Rebellion</title>
+<pubPlace>Washington, DC</pubPlace>
+<publisher>Government Printing Office</publisher>
+<biblScope type="part">Part 3</biblScope>
+<biblScope type="volume">Volume 1</biblScope>
+<date when="1888">1888</date>
+<biblScope type="page">116</biblScope>
+</bibl>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<classDecl>
+<taxonomy xml:id="medsurg">
+<bibl>Medical and Surgical History of the War of the
+Rebellion</bibl>
+</taxonomy>
+</classDecl>
+</encodingDesc>
+<profileDesc>
+<textClass>
+<keywords scheme="#medsurg">
+<term>clinical records</term>
+<term>malarial disease</term>     
+    <term>chronic dysentery</term>
+    <term>typhoid fever </term>
+    <term>typho-malarial fever</term>
+    <term>intermittent fever</term>
+</keywords>
+</textClass>
+</profileDesc>
+<revisionDesc>
+    <change who="#mb" when="2011-10-20">additional proofing of transcription and encoding</change>
+<change who="#el" when="2011-05-24">additional proofing of transcription and encoding</change>
+<change who="#el" when="2011-05-11">case text extracted and transformed from larger file</change>
+<change who="#sb" when="2011-02-23">encoded; proofed</change>
+<change who="#et" when="2009-12-01">initial checking of OCR text; encoded</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body  xml:id="ch3.sc2.0039">
+<p><hi rend="italic">Remittent following typhoid.</hi>&#8212;<hi rend="initialcap">C</hi>ASE 39.&#8212;<name type="person" key="844">Private Sidney Nafus</name>,
+    <name type="organization" key="446">Co. F, 143d Pa. Vols.</name>; age 22. [This man entered <name type="hospital" key="175">Stanton Hospital</name>, Washington, <date type="admit" when="1863-06-15">June 15, 1863</date>; Diagnosis&#8212;debility; and was transferred to <name type="place">Satterlee Hospital, Philadelphia</name>, on <date type="transfer" when="1863-06-17">the 17th</date>; Diagnosis&#8212;chronic dysentery. He was returned to duty <date type="duty" when="1863-08-28">August 28</date>, but contracted typhoid fever <date when="1863-10-02">October 2</date>, and was confined to bed for four weeks. On <date type="admit" when="1863-11-23">November 23</date> he was admitted to <name type="hospital" key="162">Douglas hospital</name>, Washington, as a convalescent from typho-malarial fever, and on <date type="transfer" when="1863-11-27">the 27th</date> was transferred to <name type="place">Satterlee Hospital</name>; diagnosis&#8212;intermittent fever.] On <date when="1863-12-13">December 13</date> he was reported as much improved, and the quinine and carbonate of iron, which he had been taking, was omitted. On <date when="1863-12-28">the 18th</date> he had a paroxysm of fever, which was repeated next day; pulse 120; tongue coated and somewhat dry; skin moist; headache; tenderness in the epigastric and right hypochondriac regions. Quinine in three-grain doses was given every two hours. The fever continued, but with diminishing intensity for a week, the skin being sallow and dry, the tongue white coated, the bowels regular or constipated. The medicine was omitted on <date when="1863-12-28">the 28th</date>; but on <date when="1864-01-01">January 1, 1864</date>, the heart's action became much increased, pulse 138 and skin hot and dry. Digitalis was given and a blister applied to the chest. Next day the skin was cool and the pulse reduced to 96. After this he was treated occasionally with digitalis, but he remained weak for a long time. He was put on guard duty <date when="1864-04-25">April 25</date>.&#8212;<hi rend="italic"><name type="place">Satterlee Hospital</name>, <name type="place">Philadelphia, Pa</name>.</hi></p>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d2e18726">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Heath, L.</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+    <idno>med.d2e18726</idno>
+    <authority>Civil War Washington</authority>
+    <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor><name>Center for Digital Research in the
+     Humanities</name><address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address></distributor>
+    <date>2011</date>
+    <availability>
+     <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+      republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+      law, requires express written consent from the editors and advance notification of the
+      publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+ <persName xml:id="kmp">Kenneth M. Price</persName> <persName xml:id="ajh">AJ Howell</persName>
+     <persName xml:id="mb">Matthew Bosley</persName>
+     <persName xml:id="el">Elizabeth Lorang</persName>
+     <persName xml:id="sb">Stacey Berry</persName>
+     <persName xml:id="et">Elisabeth Tracey</persName>
+     <persName xml:id="ss">Sarah Synovec</persName>
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title level="j">The Medical and Surgical History of the War of the Rebellion.
+      (1861-65.)</title><pubPlace>Washington, DC</pubPlace><publisher>Government Printing
+      Office</publisher><biblScope type="part">Part 3</biblScope><biblScope type="volume">Volume
+      2</biblScope><date when="1883">1883</date><biblScope type="page">449</biblScope></bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+     <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <keywords scheme="#medsurg">
+     <term>wounds and injuries of the lower extremities</term>
+     <term>wounds and operations in the leg</term>
+     <term>shot fractures of the bones of the leg</term>
+     <term>excisions in the continuity of the bones of the leg for shot injury</term>
+     <term>primary excisions in the shaft of the tibia, of the fibula, or of both bones</term>
+     <term>fatal cases of primary excision in the continuity of the leg</term>
+     <term>shot fracture of leg</term>
+     <term>excision performed but not recorded</term>
+     <term>wound about junction of upper and middle thirds of tibia</term>
+     <term>tibia shattered about inch above and below points of resection</term>
+     <term>h&#230;morrhage from femoral artery, vessel ligated</term>
+     <term>py&#230;mia</term>
+     <term>resection of continuity of bone performed on day of injury</term>
+     <term>amputation at lower third of thigh</term>
+     <term>general anesthesia, ether</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+ <change who="#kmp" when="2014-05">blessed</change>
+   <change who="#ajh" when="2013-08-23">added figure encoding</change>
+   <change who="#mb" when="2012-06-06">additional proofing of transcription and encoding, identified
+    keyword terms</change>
+   <change who="#el" when="2011-05-11">case text extracted and transformed from larger file</change>
+   <change who="#sb" when="2011-06-04">Enrich Encoding, Edit and validate</change>
+   <change who="#sb" when="2011-01-28">Validated File</change>
+   <change who="#ss" when="2008-09-22">initial checking of OCR text; encoded P5 Encoding</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p><hi rend="initialcap">C</hi>ASE 711.&#8212;<name type="person" key="1259">Sergeant L.
+     Heath</name>, <name type="organization" key="162">Co. D, 2d Michigan</name>, aged 22 years,
+    received a shot fracture of the right leg, before <name type="BATTLE" key="7">Petersburg</name>,
+     <date type="injury" when="1864-06-18">June 18, 1864</date>. He was admitted to the field
+    hospital of the 3d division, Ninth Corps, where excision was performed but not recorded. <name
+     type="person" key="905">Assistant Surgeon A. Ingram</name>, <name type="organization" key="190"
+     >U. S. A.</name>, contributed the pathological specimen, shown in the annexed cut (<hi
+     rend="initialcap">F</hi>IG. 274), with the following report: "The patient entered <name
+     type="hospital" key="428">Judiciary Square Hospital</name>, Washington, <date type="admit"
+     when="1864-07-01">July 1st</date>, with a wound about the junction of the upper and middle
+    thirds of the tibia. Resection of about two inches of the continuity of the bone was performed
+    on <date type="operation" when="1864-06-18">the day of the injury</date>. The tibia was somewhat
+    shattered for about an inch above and below the points of resection. Amputation at the lower
+    third of the thigh was performed in this hospital on <date type="operation" when="1864-07-07"
+     >July 7th</date>, by <name type="person" key="1258">Acting Assistant Surgeon J. H.
+     Thompson</name>, the condition of the injured parts and the constitutional state of the patient
+    rendering the operation necessary. The circular method was chosen and ether was used as the
+    an&#230;sthetic. Tonics and stimulants were administered after the operation. H&#230;morrhage to
+    the amount of six ounces occurred from the femoral artery on <date type="operation"
+     when="1864-07-12">July 12th</date>, when the vessel was taken up in Scarpa's triangle. Death
+    occurred from py&#230;mia <date type="death" when="1864-07-28">July 28, 1864</date>. The
+    specimen (No. 2867, <hi rend="italic">Surg. Sect.</hi>) consists of the upper half of the
+    injured tibia and shows the extremities to be somewhat irregularly necrosed.</p>
+   <figure>
+    <graphic url="cww.001630.001"/>
+    <head><hi rend="initialcap">F</hi>IG. 274.&#8212;Upper half of right tibia. Two inches of shaft
+     have been excised. <hi rend="italic">Spec</hi>. 2867.</head>
+   </figure>
+  </body>
+ </text>
+</TEI>

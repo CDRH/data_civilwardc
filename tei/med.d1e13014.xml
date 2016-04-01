@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e13014">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Scholl, Simon B.</title>
+                <title level="m" type="sub">a machine readable transcription</title>
+                <principal>Susan C. Lawrence</principal>
+                <principal>Kenneth M. Price</principal>
+                <principal>Kenneth J. Winkle</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2011</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <idno>med.d1e13014</idno>
+                <authority>Civil War Washington</authority>
+                <publisher>University of Nebraska–Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+                </distributor>
+                <date>2011</date>
+                <availability>
+                    <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved.
+                        Redistribution or republication in any medium, except as allowed under the
+                        Fair Use provisions of U.S. copyright law, requires express written consent
+                        from the editors and advance notification of the publisher, the University
+                        of Nebraska–Lincoln.</p>
+                </availability>
+            </publicationStmt>
+            <notesStmt>
+                <note type="project">The following are responsible for particular readings or for changes to this file, as noted: 
+                    <persName xml:id="mb">Matthew Bosley</persName>
+                    <persName xml:id="el">Elizabeth Lorang</persName>
+                    <persName xml:id="sb">Stacey Berry</persName>
+                    <persName xml:id="et">Elisabeth Tracey</persName>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>The Medical and Surgical History of the War of the Rebellion. (1861&#8211;65.)</title>
+                    <editor role="compiler">Surgeon General Joseph K. Barnes, United States Army</editor>
+                    <pubPlace>Washington, D.C.</pubPlace>
+                    <publisher>Government Printing Office</publisher>
+                    <biblScope type="part">Part 1</biblScope>
+                    <biblScope type="volume">Volume 2</biblScope>
+                    <date when="1870">1870</date>
+                    <biblScope type="page">182</biblScope>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <classDecl>
+                <taxonomy xml:id="medsurg">
+                    <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme="#medsurg">
+                    <term>on special wounds and injuries of the head</term>
+                    <term>wounds and injuries of the head</term>
+                    <term>gunshot wounds</term>
+                    <term>gunshot contusions of the cranial bones</term> 
+                    <term>gunshot fractures of both tables of the skull</term>
+                    <term>balls splitting on the cranial bones</term>
+                    <term>musket ball fractured frontal bone in median line and to left, then split into two parts, , the </term>
+                    <term>part of ball lodged beneath right scalp</term>
+                    <term>part of ball splintered crista galli and lodged over ethmoidal cells, roof of which partially destroyed</term>
+                    <term>fatal result attributed to rudimentary state of the frontal sinus, pre-existing anatomical variation</term>
+                    <term>left pupil contracted, right pupil widely dilated, both insensible to light</term>
+                    <term>large abscess in lower part of anterior right hemisphere</term>
+                    <term>spicul&#230; of bone penetrated membranes</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change who="#mb" when="2013-07-09">additional proofing of transcription and encoding, edited and added keyword terms</change>
+            <change who="#mb" when="2011-07-21">additional proofing of transcription and encoding</change>
+            <change who="#el" when="2011-11-05">case text extracted and transformed from larger file</change>
+            <change who="#sb" when="2011-02-09">enriched encoding</change>
+            <change who="#sb" when="2011-01-28">validated file</change>
+            <change who="#et" when="2009-08-01">encoded</change>
+            <change who="#sb" when="2008-09-22">initial checking of OCR text against PDF; encoded</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body xml:id="ch1.sc3.0233">            
+                <p><hi rend="initialcap">C</hi>ASE.&#8212;<name type="person" key="1553">Sergeant Simon B. Scholl</name>, <name type="organization" key="331">Co. E, 82d Pennsylvania Volunteers</name>, aged 21 years, was wounded at the battle of <name type="BATTLE" key="250"><choice><orig>Spottsylvania</orig><reg>Spotsylvania</reg></choice></name>, <date type="injury" when="1864-05">May, 1864</date>, by a musket ball which penetrated and
+                    fractured the frontal bone a little to the left of and involving the median
+                    line, making an opening three-fourths by one-half inch; then split into two
+                    parts, one of which lodged beneath the scalp at a corresponding point on right
+                    side, the other splintered the crista galli in its course and lodged just over
+                    the ethmoidal cells, the roof of which it partially destroyed.  The patient was
+                    insensible a short time previous to being admitted to the 3d division of the Sixth Corps Hospital.  On <date type="transfer" when="1864-05-24">May 24th</date> he
+                    was sent to <name type="hospital" key="165">Mount Pleasant Hospital</name>,
+                    Washington, and on <date type="operation" when="1864-05-30"><date type="transfer" when="1864-05-30">May 30th</date></date> to
+                    <name type="hospital">Cuyler Hospital, Philadelphia</name>.  On admission to the latter hospital he was much
+                    exhausted and depressed, becoming towards evening feverish, with pain in head. A
+                    portion of the ball was removed from beneath the scalp by counter opening.  For
+                    two weeks the only prominent symptoms were headache, constipation, and vomiting,
+                    followed afterward by insomnia and great jactation.  On June 18th the patient
+                    became almost completely comatose. He could be aroused only with difficulty and
+                    relapsed almost immediately. The left pupil became contracted, while the right
+                    was widely dilated, both being insensible to light.  He died <date type="death" when="1864-06-18">June 18th, 1864</date>.  At the autopsy the membranes were
+                    found to contain a fine arterial injection, the venous trunks also being
+                    considerably engorged. The brain presented a moderate degree of interstitial
+                    congestion. A large abscess was found in the lower part of the anterior lobe of
+                    the right hemisphere, containing about three ounces of greenish, flocculent pus,
+                    mingled with broken-down brain substance. Several spicul&#230; of bone were found
+                    penetrating the membranes, and a small clot of coagulable lymph showed at once
+                    the original seat of injury, and the point at which suppuration had begun. A
+                    point of interest in this case was the rudimentary state of the frontal sinus,
+                    an anatomical variation from the customary condition, to which may probably be
+                    attributed the fatal result, since the portion of the ball which in this case
+                    penetrated the cranium, would in an ordinary skull have lodged in the frontal
+                    sinus.   The case is reported by <name type="person" key="374">Assistant Surgeon Henry S. Schell</name>, <name type="organization" key="190">U. S. A.</name></p>            
+        </body>
+    </text>
+</TEI>

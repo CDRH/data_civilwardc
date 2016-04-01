@@ -1,0 +1,432 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="cww.00967">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="m" type="main">Petition of Charlotte Becket and Children, 29 July 1862</title>
+            <title level="m" type="main">Evidence Relating to the Petition of Charlotte Beckett &#38; Children, 1 October 1862</title>
+            <title level="m" type="sub">a machine readable transcription</title>
+            <principal>Susan C. Lawrence</principal>
+            <principal>Kenneth M. Price</principal>
+            <principal>Kenneth J. Winkle</principal>
+            <respStmt>
+               <resp>transcription and encoding</resp>
+               <name xml:id="jc">Janel Cayer</name>
+                <name xml:id="el">Elizabeth Lorang</name>
+            <name xml:id="kjw">Kenneth J. Winkle</name>
+</respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2012</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <idno>cww.00967</idno>
+            <distributor>Civil War Washington</distributor>
+            <publisher>University of Nebraska–Lincoln</publisher>
+            <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>P.O. Box 884100</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+            </address>
+            <date>2012</date>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+                  <p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License (http://creativecommons.org/licenses/by-nc-sa/3.0/). Derivatives must be credited to Civil War Washington, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+               </licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl xml:id="rg21">
+               <title>Petition of Charlotte Becket and Children, 29 July 1862</title>
+               <date when="1862-07-29">July 29, 1862</date>
+               <idno>Microcopy 433, Reel 3</idno>
+               <orgName>National Archives and Records Administration</orgName>
+               <relatedItem type="original">
+                  <bibl>
+                     <title>Petition of Charlotte Becket and Children, 29 July 1862</title>
+                     <date when="1862-07-29">July 29, 1862</date>
+                     <idno type="rg">Record Group 21</idno>
+                     <orgName>Records of the District Courts of the United States, 1685&#8211;2004, National Archives and Records Administration</orgName>
+                     <orgName>Emancipation Records, compiled 1862&#8211;1863</orgName>
+                     <note type="project">Within the National Archives' Archival Description Catalog, see ARC Identifier 4314547 / MLR Number NC-2 33 (http://arcweb.archives.gov).</note>
+                  </bibl>
+               </relatedItem>
+               <note type="project">Our transcription is based on a digital image of a microfilm copy of the original.</note>
+            </bibl>
+            
+            <bibl xml:id="rg217">
+               <title>Evidence Relating to the Petition of Charlotte Beckett and Children, 1 October 1862</title>
+               <date when="1862-10-01">October 1, 1862</date>
+               <idno>Microcopy 520, Reel 6</idno>
+               <orgName>National Archives and Records Administration</orgName>
+               <relatedItem type="original">
+                  <bibl>
+                     <title>Evidence Relating to the Petition of Charlotte Beckett and children, 1 October 1862</title>
+                     <date when="1862-10-01">October 1, 1862</date>
+                     <idno type="rg">Record Group 217.6.5</idno>
+                     <orgName>Records of the Accounting Officers of the Department of the Treasury, 1775&#8211;1978, National Archives and Records Administration</orgName>
+                     <note type="project">Within the National Archives' Archival Description Catalog, see ARC Identifier 4644616 / MLR Number A1 347 (http://arcweb.archives.gov).</note>
+                  </bibl>
+               </relatedItem>
+               <note type="project">Our transcription is based on a digital image of a microfilm copy of the original.</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      
+      <profileDesc>
+         <particDesc>
+            <person role="petitioner-slave">
+               <persName>
+                  Charlotte Becket
+               </persName>
+            </person>
+            <person role="petitioner-slave">
+               <persName>
+                    George Becket
+               </persName>
+            </person>
+            <person role="petitioner-slave">
+               <persName>
+                  Xavier Becket
+               </persName>
+            </person>
+            <person role="petitioner-slave">
+               <persName>
+                  Marianne Becket
+               </persName>
+            </person>
+            <person role="petitioner-slave">
+               <persName>
+                  Boromea Becket
+               </persName>
+            </person>
+            <person role="owner">
+               <persName>
+                    Mary Bibb
+               </persName>
+            </person>
+         </particDesc>
+      </profileDesc>
+      <revisionDesc>
+<change when="2013-05-20" who="#jc">blessed</change>
+<change when="2013-05-08" who="#kjw">blessed</change>
+          <change when="2013-02-05" who="#el">checked</change>
+         <change when="2012-06-29" who="#jc">transcribed, encoded</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+        <body>
+           
+           <!-- Begins with the text of the petition. -->
+           
+           <pb xml:id="leaf001r" facs="cww.00967.001.jpg"/>
+           
+           <div1 type="petition" corresp="#rg21" subtype="handwritten">
+              
+              <div2 type="document">
+                 <opener>
+                    <salute>To <persName>John A Smith</persName> <choice><abbr>Esq.</abbr><expan>Esquire</expan></choice> Clerk of the Circuit Court of the <placeName>District of Columbia</placeName>
+                    </salute>
+                    <salute>Sir</salute>
+                 </opener>
+                    <p><persName>Mary R Bibb</persName> having claim to the service or labor of <persName><hi rend="underline">Charlotte Becket</hi></persName> the undersigned &#38; to her children <persName>George Becket</persName>, <persName>Xavier Becket</persName>, <persName>Marianne Becket</persName> &#38; <persName>Boromea Becket</persName> and having neglected to file her schedule or statement in writing as provided in the 9th section of an act of Congress entitled to an act for the release of certain persons held to service or labor in the <placeName>District of Columbia</placeName> approved <date when="1862-04-16">April 16, 1862</date> you will please file this schedule or petition in pursuance of an act supplementary thereto approved <date when="1862-07-12">July 12, 1862</date> The Petitioner files this her Petition for herself &#38; her said Children &#38; shows that she &#38; all her said Children have resided in said <placeName>District</placeName> for more than three years last past &#38; still resides in said <placeName>District</placeName> by the consent of said <persName>Mrs Bibb</persName></p>
+                 <p>Schedule
+                       <table>
+                          <row>
+                             <cell>Name</cell>
+                             <cell>Age</cell>
+                             <cell>Sex</cell>
+                             <cell>Remarks</cell>
+                          </row>
+                          <row>
+                             <cell><persName>Charlotte Becket</persName></cell>
+                             <cell>36</cell>
+                             <cell>female</cell>
+                             <cell>Dark Brown</cell>
+                          </row>
+                          <row>
+                             <cell><persName>George Beckett</persName></cell>
+                             <cell>8</cell>
+                             <cell>male</cell>
+                             <cell>4 ft 5 inches Brown</cell>
+                          </row>
+                          <row>
+                             <cell><persName>Xavier Becket</persName></cell>
+                             <cell>6</cell>
+                             <cell>male</cell>
+                             <cell>Brown</cell>
+                          </row>
+                          <row>
+                             <cell><persName>Marianne</persName> <choice><abbr>do</abbr><expan>ditto</expan></choice></cell>
+                             <cell>4</cell>
+                             <cell>female</cell>
+                             <cell>Brown</cell>
+                          </row>
+                          <row>
+                              <cell><persName>Boromea</persName> <choice><abbr>do</abbr><expan>ditto</expan></choice></cell>
+                             <cell>2</cell>
+                             <cell>male</cell>
+                             <cell>Brown</cell>
+                          </row>
+                       </table>
+                 </p>
+                 
+                 <closer>
+                    <signed>Charlotte Beckett</signed>
+                 </closer>
+
+              </div2>
+              
+              <pb xml:id="leaf002r" facs="cww.00967.002.jpg"/>
+              
+              <div2 type="document">
+                 <p>The commissioners, satisfied on testimony of <persName>Jesse Johnson</persName> and <persName>Harriet Williams</persName> (colored) <persName>Edward Swan</persName>, and <persName>Elizabeth Leonard</persName> of the truth of the within statement, order the same to be so reported to the Clerk of the Circuit Court of the <persName>Dist. of Columbia</persName>.</p>
+                 <closer>
+                    <signed><persName>Wm R Woodward</persName> <lb/>
+                    Clerk <choice><abbr>Emn</abbr><expan>Emancipation</expan></choice> <choice><abbr>Comrs</abbr><expan>Commissioners</expan></choice>
+                    </signed><lb/>
+                    <date when="1862-07-29">29th July 1862</date>
+                 </closer>
+              </div2>
+              
+              <div2 type="document">
+                 <p><date when="1862-10-01">October 1st 1862.</date> On a rehearsing of this case at the instance of the former Owner the Commissioners decide (Mr. <persName>King</persName> dissenting) that it was in evidence that the woman and her children have been in the <placeName>District of Columbia</placeName> from the latter part of <date when="1862-04">April last</date> to the present time; and that their alleged owner has made no legal effort to reclaim them except that a Warrant was taken out for their arrest as fugitives which has never been served. Nor an effort to serve it, proved. The Slaves are therefore entitled to their free papers under the 4th Section of the amended act approved <date when="1862-07-12">July 12th 1862</date>, but under the circumstances of the case the Commissioners agree to recommend that Compensation shall be made to <persName>Mrs Bibb</persName> for the persons thus emancipated.</p>
+                 <closer>
+                    <signed><persName>Wm R Woodward</persName><lb/>
+                    Clerk</signed><lb/>
+                    <note type="authorial">Mr. <persName>King</persName> dissenting</note>
+                 </closer>
+              </div2>
+              
+              <pb xml:id="leaf001v" facs="cww.00967.003.jpg"/>
+              
+              <div2 type="cover">
+                 <div3 type="section">
+                    <ab><unclear reason="damage" cert="high" resp="#jc">paid</unclear></ab>
+                    <ab><persName>Charlotte Becket</persName> for herself &#38; for her children</ab>
+                    <ab><persName>George Becket</persName></ab>
+                    <ab><persName>Xavier Becket</persName></ab>
+                    <ab><persName>Marianne Becket</persName></ab>
+                    <ab><persName>Bormea Becket</persName></ab>
+                 </div3>
+                 
+                 <div3 type="section">
+                    <ab>Filed <date when="1862-07-29">July 29th 1862</date></ab>
+                    <ab>Recorded in Manumission Record No. 2 folios 102 &#38; 103</ab>
+                 </div3>
+                 
+                 <div3 type="section">
+                    <ab>Certificate given to all Identified by <persName>Day</persName>.</ab>
+                 </div3>
+              </div2> 
+              
+           </div1>
+           
+           <!-- Evidence pertaining to the case begins here. -->
+                    
+           <pb xml:id="leaf003r" facs="cww.00967.004.jpg"/>
+           
+           <div1 type="evidence" corresp="#rg217" subtype="mixed">
+                <div2 type="section" subtype="handwritten">
+                    <dateline><date when="1862-06-29">July 29</date>.</dateline>
+               
+                <div3 type="procedural" subtype="handwritten">
+                    <ab><persName>Charlotte Beckett</persName> and <persName>George</persName>, <persName>Zavier</persName>, <persName>Mary Ann</persName> and <persName>Bohemia Beckett</persName></ab>
+                    <ab>Servants of <persName>Mary Bibb</persName></ab>
+                </div3>
+                
+              <div3 type="testimony" subtype="handwritten">
+                   <p><persName>Jesse Johnson</persName>. I know these servants. Mother and children. They belonged to <persName>Mrs Bibb</persName> and have for the last 4 or 5 years lived here Mrs <persName>Bibb</persName> lived here in this <placeName>district</placeName>. I have known servants from children.</p>
+                </div3>
+               
+              <div3 type="testimony" subtype="handwritten">
+                  <p><persName>Harriet Williams</persName>. I know this woman. These are her children. I was raised with them. They with me belonged to <persName>Mrs Bibb</persName>.</p>
+               </div3>
+              
+              <div3 type="testimony" subtype="handwritten">
+                 <p><persName>Edward Swan</persName>. I know <persName>Charlotte</persName>. Have seen her at the house of Judge <persName>Bibb</persName> before his death and since his death at <persName>Mrs Bibbs</persName> I supposed she belonged to some member of the family, but to whom, Mr or Mrs <persName>Bibb</persName> or <persName>Mrs Dyer</persName></p>
+              </div3>
+               
+              <div3 type="procedure" subtype="handwritten">
+                    <ab>Certificate withheld for further testimony</ab>
+              </div3>           
+                </div2>
+              
+              <div2 type="section" subtype="handwritten">
+                  
+                  <dateline><hi rend="underline"><date when="1862-07-30">July 30th</date></hi></dateline>
+                  
+                  <div3 type="testimony" subtype="handwritten">
+                      <p>Mrs <persName>Elizabeth Leonard</persName> Know servant as servant of <persName>Mrs Bibb</persName> for 7 or 8 years as property of <persName>Mrs Bibb</persName>. She was living in <placeName>Georgetown</placeName> as <persName>Mrs Bibb</persName>. <persName>Mrs Bibb</persName> had her hired with Capt <persName>Whipple</persName>. I know these as her children. I live close to them. I know the whole family</p>
+                  </div3>
+              </div2>
+               
+               <div2 type="section" subtype="handwritten">
+              
+              <div3 type="procedural" subtype="handwritten">
+                 <ab>Certificate ordered and sent.</ab>
+              </div3>
+               </div2>
+               
+               <div2 type="section" subtype="handwritten">
+              <div3 type="testimony" subtype="handwritten">
+                 <p><date when="1862-09-19">Sept 19</date>. <persName>Mrs Bibb</persName> represents that certificate erroneously ordered &#38; asked for witnesses to be <choice><abbr>sum.</abbr><expan>summoned</expan></choice></p>
+              </div3>
+              
+              <div3 type="testimony" subtype="handwritten">
+                 <dateline><date when="1862-09-20">Septr 20</date>.</dateline>
+                 <p><persName>Benjamin Cooley</persName>. I do not know that servants belonged to <persName>Mrs Bibb</persName>. I know <persName>Mrs Bibb</persName> employed me to carry them up to country. Could tell time by referring to my waybill. Cant say when, was this year just before Emancipation Bill passed. I know it was before because I carried good many before and never any after. I carried none up after law passed. I carried them up to <persName>Mr Stokes</persName> the nearest point on road to <persName>Mrs Bibb</persName>. I didnt drive but attend to waybills &#38; collected fare and saw negroes. Cant identify them if I was 
+                 
+                 <pb xml:id="leaf003v" facs="cww.00967.005.jpg"/>
+                    
+                    to see them.</p>
+              </div3>
+              
+              <div3 type="testimony" subtype="handwritten">
+                 <p><persName>James Lydon</persName>. I know servants. First knowledge I had of them, my sister was living with <persName>Mrs Bibb</persName> while Judge <persName>Bibb</persName> was living they lived in <placeName>Maryland</placeName> in Summer &#38; <placeName>Georgetown</placeName> in winter rented one of her houses. woman used to be at house He and servants were gone away to <placeName>Maryland</placeName>. servant woman told me she had run away from <persName>Mrs Bibb</persName>. This was sometime after Bill passed</p>
+              </div3>
+                   </div2>
+              
+              <div2 type="section">
+              <div3 type="procedural" subtype="handwritten">
+                 <ab>Pos<lb/>
+                 Postponed until <date when="1862-09-25">Thursday Sep 25.</date> 11 O'Clock.</ab>
+              </div3>
+              </div2>
+              
+              <div2 type="section" subtype="handwritten">
+                  <dateline><date when="1862-09-25">Thursday 25th.</date></dateline>
+              <div3 type="testimony" subtype="handwritten">
+                 <p><persName>Elizabeth Leonard</persName>. Servant always admitted that she was owned by <persName>Mrs Bibb</persName> as her mistress. These are her children lived in <placeName>Georgetown</placeName> some years. dont know how many years. I do not know whether they were here <date when="1862-04-16">16th April</date>. Cant say when they went away. I only know except what I heard afterwards. I dont know where she was at time of passage of act. Dont recollect when act passed. Dont trouble myself about such matters.</p>
+                 <p>I saw her (woman three or four times) cant say whether before or act.</p>
+              </div3>
+              
+              <div3 type="procedural" subtype="handwritten">
+                 <ab><choice><abbr>Exd</abbr><expan>Examined</expan></choice> by Mr. <persName>Mattingly</persName>. How long since the act that she saw her.</ab>
+              </div3>
+              
+              
+              <div3 type="procedural" subtype="handwritten"> 
+                  <ab>By <choice><abbr>Commns</abbr><expan>Commissioners</expan></choice>.</ab>
+              </div3>
+                  
+              <div3 type="testimony" subtype="handwritten">
+                 <p>I afterwards <choice><orig>heared</orig><reg>heard</reg></choice> that <persName>Mrs Bibb</persName> had taken her up in Country, but I do not know Did not say on former examination that <choice><abbr>servt</abbr><expan>servant</expan></choice> was here on <date when="1862-04-16">16th April</date>. When I was before examined I did not know <persName>Mrs Bibb</persName> whether <persName>Mrs Bibb</persName> had taken servant up or not.</p>
+              </div3>
+                  
+              <div3 type="testimony" subtype="handwritten">
+                 <p><persName>H. Key Hunter</persName>. I know servants about 12 years. I do not remember when Emancipation law passed but know that it was passed. When President signed Bill servants were in <placeName>Montgomery Co Md</placeName>. Dont recollect time but act created considerable excitement <gap reason="illegible" extent="about one words" quantity="4" unit="chars"/> <unclear reason="illegible" cert="medium" resp="#jc">living</unclear> before act passed servants were in <placeName>Georgetown</placeName>. left County after President signed Bill or at least womans husband came and took her off.</p>
+              </div3>
+             
+           <pb xml:id="leaf004r" facs="cww.00967.006.jpg"/>
+              
+                  <div3 type="testimony" subtype="handwritten">
+              <p><gap reason="torn" extent="about one word" quantity="4" unit="chars"/>ex. Have lived in <placeName>Montg Co</placeName> for a year. Was there at time of passage of act. I was not at <persName>Mrs Bibbs</persName> on day of passage of act. I did not see these servants any where in state of <placeName>Maryland</placeName> on that day. I did see them in <placeName>Maryland</placeName> before act was signed by President two or three days in <placeName>Montgomery County</placeName>. They were on <unclear reason="illegible" cert="low" resp="#jc">Clappers</unclear> Mill road. road to <placeName>Pooleville</placeName> where <persName>Mrs Bibb</persName> was boarding them. two or three days before Act was signed by President perhaps longer. Have known them <unclear reason="illegible" cert="low" resp="#jc">for years</unclear>. I am a distant connection of <persName>Mrs Bibbs</persName>.</p>
+                 <p>Three were in <placeName>District</placeName> some time before Presidents signing act. dont know how long. and also in <placeName>Maryland</placeName> <persName>Mrs Bibb</persName> has a farm in <placeName>Maryland</placeName>. I think it was about 8 weeks before Bill was signed that woman ran away. woman had children dont know how many <choice><orig>heared</orig><reg>heard</reg></choice> she had 4. know 2 of them. Did not see her husband brought her away <choice><orig>heared</orig><reg>heard</reg></choice> so. I reside just above <placeName>Rockville</placeName> in <placeName>Montgomery County</placeName>. <persName>Mrs Bibb</persName> at that time, unless I am very much mistaken was in <placeName>Washington</placeName> on business, at time servants left. She was here as near as I recollect about week. I do not think she knew while here that servants had left not until she returned to county. a day after she got back. I suppose she knew they had left for the <placeName>District</placeName>. I think she came down shortly after to <placeName>District</placeName> to see about servants. I know she came down but how soon after or how long she remained I dont remember. I know <persName>Mrs Bibb</persName> reside in <placeName>Georgetown</placeName> at one time. I think it has bee about 18 months since she resided in <placeName>Georgetown</placeName>. No I dont think it has been so long. When in <placeName>Georgetown</placeName> she resided in her own house. When she first left <placeName>Georgetown</placeName> she went to <placeName>Montgomery County</placeName>. She did not keep house when she first went to county. She went up with intention of going on her own farm but couldnt get possession. She might have known that she could not get possession. She <unclear reason="illegible" cert="low" resp="#jc">to one</unclear> did there and had these servants with her. When she first went there these servants were hired out in <placeName>District</placeName>. She has not been house keeping on account of the servants leaving her
+                    
+              <pb xml:id="leaf004v" facs="cww.00967.007.jpg"/>
+                    
+                 she has been keeping house about 4 months. I do not remember what month she <unclear reason="illegible" cert="low" resp="#jc">commencing</unclear> keeping house. I think it was in <date when="1862-05">May</date>. While so working she was frequently in <placeName>District</placeName>.</p>
+              </div3>                 
+              
+              <div3 type="testimony" subtype="handwritten">
+                 <ab>Re. Ex.</ab>
+                  <p>I know the fact that prior to passage of act, <persName>Mrs Bibb</persName> was a bona fide resident of <placeName>Maryland</placeName>, and her coming to <placeName>District</placeName> was mainly temporary, was boarding, now in possession of her farm.</p>
+              </div3>
+                               
+              <div3 type="testimony" subtype="handwritten">
+                 <p><persName>Leonard L. Clements</persName>. I know Charlotte dont know children. <persName>Mrs Bibb</persName> made an application to me to carry these servants to <placeName>Maryland</placeName> she asked me if I could take them up for her. That was the day Bill passed the Senate. I had one of my fathers to go up and she thought they could go too. I said I could not. She said she would have to send take them up by stage nest day. I did not see them go. I reside in <placeName>Georgetown</placeName>. I was an acquaintance and friend of <persName>Mrs Bibbs</persName> &#38; she had no one to attend to her business. and she knew I supposed I had a servant of fathers to to take up. I did not see the servants go up <persName>Mrs Bibb</persName> was boarding at my fathers in county at time.</p>
+              </div3>
+              
+              <div3 type="testimony" subtype="handwritten">
+                 <p><persName>Mary Long</persName>. I know Charlotte and all children. I know <persName>George</persName> well <persName>Charlotte</persName> and children were hired in <placeName>Georgetown</placeName>. <persName>George</persName> was hired at our house. <persName>Mrs Bibb</persName> sent for <persName>George</persName> and took him away with her to the country about <date when="1861-10-01">1st of last October</date>. I do not know when <persName>Charlotte</persName> and other children went up to country. They were hired at <choice><abbr>Genl</abbr><expan>General</expan></choice> <persName>Whipples</persName>. Seen them frequently in Spring but know noting about them going to Country.</p>
+              </div3>
+              
+              <div3 type="testimony" subtype="handwritten">
+                 <p><persName>Harriet Williams</persName> <choice><abbr>Re Ex</abbr><expan>Reexamined</expan></choice>. Servants were here when Bill was passed but not when Bill was signed. They were in <placeName>Montgomery Co Md</placeName>. They were in <placeName>Montgomery</placeName> 3 or 4 weeks after Bill was signed. <persName>George</persName> was carried up when my children were carried up. It was some time before last spring. It was when <choice><abbr>Gen</abbr><expan>General</expan></choice> <persName>Whipple</persName> rented house last spring a year ago.</p>
+              </div3>
+              
+              <pb xml:id="leaf005r" facs="cww.00967.008.jpg"/>
+              
+              <div3 type="testimony" subtype="handwritten">
+                 <p>Cross by <persName>W T M</persName>. I saw <persName>Charlotte</persName> &#38; children day after they came down. Cant remember when that was. what month. <persName>Mrs Bibb</persName> endeavored to persuade me to leave at same time <persName>Charlotte</persName> left. She told us that if we went up quietly that when the President vetoed the Bill she would send us right back. She did not say if the law set us free but she said if the President allowed her anything for us she would send us back. <persName>Mrs Bibb</persName> said she wanted us to go quietly and make no noise and if the President allowed her anything for us she would send us right back that we might as well go quietly as she could get us any how if we run away. She did also say that if the President vetoed the bill (I did not know what she meant) or allowed her anything for us she would send us right back. This was to me and <persName>Charlotte</persName>. no body else in the room but us three.</p>
+              </div3>
+              
+              
+              <div3 type="procedural" subtype="handwritten">
+                 <ab>Adjourned until <date when="1862-09-29">Monday 29th</date>.</ab>
+              </div3>
+              </div2>
+               
+               <div2 type="section" subtype="handwritten">
+                   <dateline><date when="1862-09-29">Monday Septr 29th</date>.</dateline>
+                       
+              <div3 type="testimony" subtype="handwritten">                 
+                 <p><persName>Jane E. Dennis</persName> (affirmed) am acquainted with <persName>Mrs Bibb</persName> Is a cousin of mine. Know her servant <persName>Charlotte</persName>. I know from <persName>Charlottes</persName> statement, she was at my house. It was some time after Bill was law, much after. <persName>Mrs Bibb</persName> knew that servant had run away and was searching for her. in the city she called at my house. I advised her to take children home. were in want from <persName>Charlottes</persName> showing. week perhaps dont recollect, after <persName>Charlotte</persName> was at my house that <persName>Mrs Bibb</persName> came.</p>
+              </div3>
+              
+              <div3 type="testimony" subtype="handwritten">
+                  <ab><choice><abbr>X Exd.</abbr><expan>Cross Examined</expan></choice></ab>
+                 <p> I know not of my own knowledge where <choice><abbr>sert</abbr><expan>servant</expan></choice> was <date when="1862-04-16">16 Apl</date>. Have seen <persName>Charlotte</persName> since passage of act. Some time I saw her at my house complained most of <persName>Mrs Bibb</persName> taking her away from town. that if she had thought it had become a law she would not have gone up. said she was in <placeName>Montgomery</placeName> at passage of act. that her husband went <gap reason="illegible" extent="about two words" quantity="11" unit="chars"/> and brought her down. do not know of any promise was held to her to get her to go up. only heard her say that her mistress said she <gap reason="illegible" extent="one word" unit="chars" quantity="3"/> not become a law or she would not have gone. I know <persName>Mrs Bibb</persName> placed a high regard on servant. They thought a good deal of each other.</p>
+              </div3>
+              
+              <div3 type="testimony" subtype="handwritten">
+                 <p><persName>Mary M. Dyer</persName>. <persName>Mrs Bibb</persName> is an aunt of mine by marriage. <persName>Charlotte</persName> she was a sister of the woman belonging to my mother. <persName>Mrs Bibb</persName> was at our house to see our woman to know where <persName>Charlotte</persName> had gone about a week or ten days after <persName>Mrs Bibb</persName> said <persName>Charlotte</persName> had run away. Have not seen <persName>Charlotte</persName> since that. Dont think she has been to our house.</p>
+              </div3>
+              
+              <div3 type="testimony" subtype="handwritten">
+                  <ab>X by <persName>Swan</persName>.</ab>
+                  <p>Did not know where servants were at time of passage of act</p>
+              </div3>
+              
+              <pb xml:id="leaf005v" facs="cww.00967.009.jpg"/>
+              
+              <div3 type="testimony" subtype="handwritten">
+                 <p><persName>Benj Cooley</persName>. <persName>Charlotte</persName> is the servant sent up by <persName>Mrs Bibb</persName> <persName>Charlotte</persName> admits 1/2 an hour ago that her children were also carried up. It was a short</p>
+              </div3>
+              
+              <div3 type="procedural" subtype="handwritten">
+                 <ab>Postponed until tomorrow</ab>
+              </div3>
+               </div2>
+                     
+            <div2 type="cover" subtype="handwritten">
+                <ab><persName>Charlotte Beckett &#38; children</persName></ab>
+                <ab><date when="1862-10-01"><choice><abbr>Oct</abbr><expan>October</expan></choice> 1, 1862</date></ab>
+            </div2>
+              
+              <pb xml:id="leaf006r" facs="cww.00967.010.jpg"/>
+              
+              <div2 type="warrant" subtype="mixed">
+                 <opener>
+                    <salute><placeName>District of Columbia</placeName>, To wit:</salute>
+                    <salute>THE UNITED STATES OF AMERICA,</salute>
+                    <salute><del>TO THE MARSHAL OF THE <placeName>DISTRICT OF COLUMBIA</placeName></del> Greeting:</salute>
+                 </opener>
+                 <p>Whereas, a certain <seg type="handwritten"><persName>Mary R. Bibb</persName></seg>, a citizen of, and residing in <placeName><seg type="handwritten">Montgomery</seg> County</placeName>, in the <placeName>State of <seg type="handwritten">Maryland</seg></placeName>, having made oath according to the law that <seg type="handwritten">she</seg> is the lawful owner and possessor of certain negro slave<seg type="handwritten">s</seg> named <seg type="handwritten"><persName>Charlotte (Jackson or Becket)</persName> &#38; her four children, <persName>George</persName>, <persName>Zavier</persName>, <persName>Marry Ann</persName> and <persName>Frances Borromeo</persName>,</seg> <del>about years of age,</del> slave<seg type="handwritten">s</seg> for life, owing service and labor under the laws of the said State as such slave<seg type="handwritten">s</seg> for life within the said State, and that said negro<seg type="handwritten">es have</seg> absconded and <seg type="handwritten">are</seg> fugitive<seg type="handwritten">s</seg> from the service and labor so due and owing, and <seg type="handwritten">are</seg> now within <del>your bailiwick</del> <seg type="handwritten">the <placeName>District of Columbia</placeName></seg></p>
+                 <p>Therefore, you are hereby commanded to arrest the bod<seg type="handwritten">ies</seg> of the said alleged fugitive<seg type="handwritten">s</seg> and have <seg type="handwritten">them</seg> before <seg type="handwritten">me, a Commissioner duly appointed by</seg> the Circuit Court of the <placeName>District of Columbia</placeName>, forthwith to do and receive whatever may be considered by <del>the Court</del> <seg type="handwritten">me</seg> in the premises.</p>
+                 <p>Hereof fail not at your peril, and have you then and this writ.</p>
+                 <p>Witness <del>the Hon. <persName>Jas. Dunlap</persName>, Chief Judge of said Court.</del> <seg type="handwritten">my hand &#38; seal</seg></p>
+                 <p>Issued this <seg type="handwritten">29th</seg> day of <seg type="handwritten">June AD,</seg> 1862.</p>
+                 <closer>
+                    <signed><seg type="handwritten"><persName>Walter S. Cod</persName> Seal<lb/> <choice><abbr>Commr</abbr><expan>Commissioner</expan></choice></seg></signed><lb/>
+                    <seg type="handwritten">To <persName>John Gross</persName><lb/>
+                       <placeName>Georgetown</placeName></seg>
+                 </closer>
+              </div2>
+              
+              <pb xml:id="leaf006v" facs="cww.00967.011.jpg"/>
+              
+              <div2 type="cover" subtype="handwritten">
+                 <ab>Re. <persName>Mrs Bibb</persName> claiming negress <persName>Charlotte</persName> &#38; four children</ab>
+                 <ab>Warrant</ab>
+              </div2>
+            </div1>
+        </body>
+    </text>
+</TEI>

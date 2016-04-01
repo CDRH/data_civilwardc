@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e3037">
+        <teiHeader>
+                <fileDesc>
+                        <titleStmt>
+                                <title level="m" type="main">Teats, Frank</title>
+                                <title level="m" type="sub">a machine readable transcription</title>
+                                <principal>Susan C. Lawrence</principal>
+                                <principal>Kenneth M. Price</principal>
+                                <principal>Kenneth J. Winkle</principal>
+                        </titleStmt>
+                        <editionStmt>
+                                <edition>
+                                        <date>2011</date>
+                                </edition>
+                        </editionStmt>
+                        <publicationStmt>
+                                <idno>med.d1e3037</idno>
+                                <authority>Civil War Washington</authority>
+                                <publisher>University of Nebraska–Lincoln</publisher>
+                                <distributor>
+                                        <name>Center for Digital Research in the Humanities</name>
+                                        <address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+                                </distributor>
+                                <date>2011</date>
+                                <availability>
+                                        <p>Copyright © 2011 by University of Nebraska–Lincoln, all
+                                                rights reserved. Redistribution or republication in
+                                                any medium, except as allowed under the Fair Use
+                                                provisions of U.S. copyright law, requires express
+                                                written consent from the editors and advance
+                                                notification of the publisher, the University of
+                                                Nebraska–Lincoln.</p>
+                                </availability>
+                        </publicationStmt>
+                        <notesStmt>
+                                <note type="project">The following are responsible for particular
+                                        readings or for changes to this file, as noted: 
+                                        <persName xml:id="mb">Matthew Bosley</persName>
+                                        <persName xml:id="el">Elizabeth Lorang</persName>
+                                        <persName xml:id="sb">Stacey Berry</persName>
+                                        <persName xml:id="et">Elisabeth Tracey</persName>
+                                </note>
+                        </notesStmt>
+                        <sourceDesc>
+                                <bibl>
+                                        <title level="j">The Medical and Surgical History of the War
+                                                of the Rebellion</title>
+                                        <pubPlace>Washington, DC</pubPlace>
+                                        <publisher>Government Printing Office</publisher>
+                                        <biblScope type="part">Part 3</biblScope>
+                                        <biblScope type="volume">Volume 1</biblScope>
+                                        <date when="1888">1888</date>
+                                        <biblScope type="page">229</biblScope>
+                                </bibl>
+                        </sourceDesc>
+                </fileDesc>
+                <encodingDesc>
+                        <classDecl>
+                                <taxonomy xml:id="medsurg">
+                                        <bibl>Medical and Surgical History of the War of the
+                                                Rebellion</bibl>
+                                </taxonomy>
+                        </classDecl>
+                </encodingDesc>
+                <profileDesc>
+                        <textClass>
+                                <keywords scheme="#medsurg">
+                                        <term>clinical records</term>
+                                        <term>continued fevers</term>
+                                        <term>remittent fever</term>
+                                        <term>typho-malarial and typhoid fevers</term>
+                                        <term>Seminary Hospital cases</term>
+                                </keywords>
+                        </textClass>
+                </profileDesc>
+                <revisionDesc>
+                        <change who="#mb" when="2011-10-11">additional proofing of transcription and encoding</change>
+                        <change who="#mb" when="2011-06-06">additional proofing of transcription and encoding</change>
+                        <change who="#el" when="2011-05-11">case text extracted and transformed from
+                                larger file</change>
+                        <change who="#sb" when="2011-02-23">Encoding and Proofing</change>
+                        <change who="#et" when="2009-12-01">Initial Checking OCR Text to PDF file,
+                        </change>
+                </revisionDesc>
+        </teiHeader>
+        <text>
+                <body xml:id="ch4.sc2.3.00054">
+                        
+                        <p><hi rend="initialcap">C</hi>ASE 54.&#8212;<name type="person"
+                                                key="512">Private Frank Teats</name>, <name
+                                                type="organization" key="434">Co. C. 5th N. Y.
+                                                        Cav.</name>; age 22; was taken sick <date type="injury" when="1861-09-19">Sept. 19, 1861</date>,
+                                        with giddiness, chills, epistaxis and pain in the back, and
+                                        admitted on the <date type="admit" when="1861-09-23"
+                                                >23d</date> as a case of remittent fever. His face
+                                        was flushed, <pb n="230" xml:id="med.00004.230"/>
+                                        <fw type="sub">CLINICAL RECORDS OF</fw>eyes suffused, pulse
+                                        85, quick and strong, skin hot and moist, tongue slightly
+                                        white in the middle and red at the edges, appetite lost,
+                                        bowels unmoved. He had headache, a slight cough and hurried
+                                        respiration, 25 per minute. A small dose (one and a half
+                                        drachms) of sulphate of magnesia with one-eighth of a grain
+                                        of tartar emetic was given, and Dover's powder ordered to be
+                                        taken at bedtime. He rested well, had one stool during the
+                                        night, and next morning his countenance was natural. In the
+                                        evening the face was again flushed, the eyes dull, pulse 92,
+                                        tongue moist and white but with the papill&#230; at the
+                                        tip projecting; appetite small. He had headache, cough with
+                                        difficulty of expectoration, and a pain in the chest and
+                                        abdomen from having taken capsicum by mistake. Six grains of
+                                        quinine and three of Dover's powder were given every two
+                                        hours until three such doses were taken. On the 25th there
+                                        was no fever nor headache; the skin was warm and moist, the
+                                        tongue moist and coated light brown, the pulse 98; the
+                                        bowels were moved once; there was epistaxis at night. Next
+                                        day the pulse was 78, and there was one stool with gurgling
+                                        in the right iliac region and dysuria, but the cough had
+                                        ceased and the appetite had returned. Extract of buchu was
+                                        given. He was returned to duty on the <date type="duty"
+                                                when="1861-09-30">30th</date>. </p>
+                        
+                </body>
+        </text>
+</TEI>

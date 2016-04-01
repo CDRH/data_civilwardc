@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e10170">
+        <teiHeader>
+                <fileDesc>
+                        <titleStmt>
+                                <title level="m" type="main">Stowell, Marshall</title>
+                                <title level="m" type="sub">a machine readable transcription</title>
+                                <principal>Susan C. Lawrence</principal>
+                                <principal>Kenneth M. Price</principal>
+                                <principal>Kenneth J. Winkle</principal>
+                        </titleStmt>
+                        <editionStmt>
+                                <edition>
+                                        <date>2011</date>
+                                </edition>
+                        </editionStmt>
+                        <publicationStmt>
+                                <idno>med.d1e10170</idno>
+                                <authority>Civil War Washington</authority>
+                                <publisher>University of Nebraska–Lincoln</publisher>
+                                <distributor>
+                                        <name>Center for Digital Research in the Humanities</name>
+                                        <address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+                                </distributor>
+                                <date>2011</date>
+                                <availability>
+                                        <p>Copyright © 2011 by University of Nebraska–Lincoln, all
+                                                rights reserved. Redistribution or republication in
+                                                any medium, except as allowed under the Fair Use
+                                                provisions of U.S. copyright law, requires express
+                                                written consent from the editors and advance
+                                                notification of the publisher, the University of
+                                                Nebraska–Lincoln.</p>
+                                </availability>
+                        </publicationStmt>
+                        <notesStmt>
+                                <note type="project">The following are responsible for particular
+                                        readings or for changes to this file, as noted: 
+                                        <persName xml:id="mb">Matthew Bosley</persName>
+                                        <persName xml:id="el">Elizabeth Lorang</persName>
+                                        <persName xml:id="sb">Stacey Berry</persName>
+                                        <persName xml:id="et">Elisabeth Tracey</persName>
+                                </note>
+                        </notesStmt>
+                        <sourceDesc>
+                                <bibl>
+                                        <title level="j">The Medical and Surgical History of the War of the Rebellion</title>
+                                        <pubPlace>Washington, DC</pubPlace>
+                                        <publisher>Government Printing Office</publisher>
+                                        <biblScope type="part">Part 3</biblScope>
+                                        <biblScope type="volume">Volume 1</biblScope>
+                                        <date when="1888">1888</date>
+                                        <biblScope type="page">574</biblScope>
+                                </bibl>
+                        </sourceDesc>
+                </fileDesc>
+                <encodingDesc>
+                        <classDecl>
+                                <taxonomy xml:id="medsurg">
+                                        <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+                                </taxonomy>
+                        </classDecl>
+                </encodingDesc>
+                <profileDesc>
+                        <textClass>
+                                <keywords scheme="#medsurg">
+                                        <term>diseases allied to or associated with</term>
+                                        <term>the paroxysmal and continued fevers</term>
+                                        <term>cerebro-spinal fever</term>
+                                        <term>clinical and post-mortem records</term>
+                                        <term>cases at the hospitals of Alexandria, Va.</term>                                           
+                                        <term>typhoid fever</term>
+                                        <term>lips covered with sordes</term>
+                                        <term>pain in head, abdominal tenderness and vomiting</term>
+                                        <term>post-mortem examination performed</term>
+                                        <term>choroid plexus roughened by pseudo-membrane</term>
+                                        <term>brain covered with patches of opaque green lymph</term>
+                                        <term>ventricles filled with serum and pus</term>
+                                        <term>lungs crepitant, dark-red color, smaller tubes contained muco-pus</term>
+                                        <term>mesenteric glands enlarged</term>
+                                        <term>ileum was congested mesenteric side but not ulcerated</term>
+                                        <term>mucous membrane of colon presented bluish oval dark spots from transverse colon to rectum</term>                                        
+                                </keywords>
+                        </textClass>
+                </profileDesc>
+                <revisionDesc>
+                        <change who="#mb" when="2013-04-12">additional proofing of transcription and encoding, edited and added keyword terms</change>
+                        <change who="#mb" when="2012-03-07">additional proofing of transcription and encoding, identified keyword terms</change>
+                        <change who="#mb" when="2011-06-27">additional proofing of transcription and encoding</change>                        
+                        <change who="#el" when="2011-05-11">case text extracted and transformed from larger file</change>
+                        <change who="#sb" when="2011-02-23">Encoding and Proofing</change>
+                        <change who="#et" when="2009-12-01">Initial Checking OCR Text to PDF file,</change>
+                </revisionDesc>
+        </teiHeader>
+        <text>
+                <body>                        
+                        <p> <hi rend="italic">Case at the Hospitals of <name type="place">Alexandria, Va.</name></hi></p><p><hi rend="initialcap">C</hi>ASE 69.&#8212;<name type="person"
+                                                key="823">Private Marshall Stowell</name>, <name
+                                                type="organization" key="727">Co. E, 189th N. Y.</name>; age 16; was admitted <date type="admit"
+                                                when="1864-11-30">Nov. 30, 1864</date>, with typhoid
+                                        fever. He was restless and noisy, his face flushed, eyes
+                                        suffused, tongue dry, swollen and with the papill&#230;
+                                        much enlarged in the middle and at the base, mouth and
+                                        throat dry and sore, teeth and lips covered with sordes,
+                                        pulse frequent and irregular, skin hot and dry; but there
+                                        was no diarrh&#339;a.  He was treated with cold to the
+                                        head, sinapisms to the feet and abdomen, hyosciamus,
+                                        brandy-punch, beef-tea and a few doses of turpentine and
+                                        chlorate of potash.  On December 10, having been alternately
+                                        restless and quiet in the meantime, he was seized with pain
+                                        in the head, much abdominal tenderness and vomiting, morning
+                                        and evening, of a thick brownish liquid. The tenderness
+                                        increased and the patient became very
+                                        irritable&#8212;pulse 130&#8212;until the 13th, when
+                                        there was less pain, some appetite and a better pulse, 100.  But on the 16th he became somewhat comatose. As there had
+                                        been no stool for a week oil of turpentine was given with
+                                        the effect of producing a full natural evacuation; but the
+                                        coma gradually increased with quickened and labored
+                                        breathing, and he died <date type="death" when="1864-12-20">December 20</date>.   <hi rend="italic">Post-mortem</hi> examination: Body emaciated; face
+                                        pale; surface showing a little stasis but no
+                                        petechi&#230; or spots. The surface of the brain was
+                                        congested and covered with patches of opaque green lymph;
+                                        the lateral, middle and fourth ventricles were filled with
+                                        serum and sticky pus; the substance of the brain was not
+                                        softened. The posterior and lower portion of the right lung
+                                        was mostly crepitant but of a dark-red color, and its
+                                        smaller tubes contained muco-pus; the posterior and upper
+                                        part of the left lung was dark-red and softened but
+                                        crepitant. The right side of the heart was distended with a
+                                        firm white clot and with thick but fluid black blood. The
+                                        liver was pale and had yellowish spots extending from its
+                                        surface into its substance; the spleen, about the size of
+                                        the fist, was firm and of a light red-brown color. The
+                                        kidneys were fatty and granular; the bladder distended,
+                                        reaching to within three inches of the umbilicus. The
+                                        mesenteric glands were enlarged. The ileum was congested on
+                                        its mesenteric side but not ulcerated. The colon contained a
+                                        moderate quantity of f&#230;ces of normal appearance and
+                                        presented oval dark spots of a bluish tinge on the mucous
+                                        membrane from the transverse colon to the rectum.  [<hi rend="italic">Specimen</hi> 520, Med. Sect., <name type="hospital" key="431">Army Medical
+                                        Museum</name>, shows part of the left lateral ventricle, the
+                                        choroid plexus, roughened by pseudo-membrane, with shreds of
+                                        lymph hanging from various parts of the ventricular
+                                        lining.]</p>                        
+                </body>
+        </text>
+</TEI>

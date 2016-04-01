@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e11103">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">B&#8212;&#8212;, Francis</title>
+                <title level="m" type="sub">a machine readable transcription</title>
+                <principal>Susan C. Lawrence</principal>
+                <principal>Kenneth M. Price</principal>
+                <principal>Kenneth J. Winkle</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2011</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <idno>med.d1e11103</idno>
+                <authority>Civil War Washington</authority>
+                <publisher>University of Nebraska–Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+                </distributor>
+                <date>2011</date>
+                <availability>
+                    <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved.
+                        Redistribution or republication in any medium, except as allowed under the
+                        Fair Use provisions of U.S. copyright law, requires express written consent
+                        from the editors and advance notification of the publisher, the University
+                        of Nebraska–Lincoln.</p>
+                </availability>
+            </publicationStmt>
+            <notesStmt>
+                <note type="project">The following are responsible for particular readings or for
+                    changes to this file, as noted: 
+ <persName xml:id="kmp">Kenneth M. Price</persName> 
+                    <persName xml:id="ajh">AJ Howell</persName>
+                    <persName xml:id="mb">Matthew Bosley</persName>
+                    <persName xml:id="el">Elizabeth Lorang</persName>
+                    <persName xml:id="sb">Stacey Berry</persName>
+                    <persName xml:id="et">Elisabeth Tracey</persName>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>The Medical and Surgical History of the War of the Rebellion.
+                        (1861&#8211;65.)</title>
+                    <editor role="compiler">Surgeon General Joseph K. Barnes, United States
+                        Army</editor>
+                    <pubPlace>Washington, D.C.</pubPlace>
+                    <publisher>Government Printing Office</publisher>
+                    <biblScope type="part">Part 1</biblScope>
+                    <biblScope type="volume">Volume 2</biblScope>
+                    <date when="1870">1870</date>
+                    <biblScope type="page">159-160</biblScope>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <classDecl>
+                <taxonomy xml:id="medsurg">
+                    <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme="#medsurg">
+                    <term>on special wounds and injuries of the head</term>
+                    <term>wounds and injuries of the head</term>
+                    <term>gunshot wounds</term>
+                    <term>gunshot contusions of the cranial bones</term>
+                    <term>gunshot fractures of both tables of the skull</term>
+                    <term>linear or capillary fissure</term>
+                    <term>linear fissure with very slight depression of the inner table</term>
+                    <term>gunshot wound of forehead, probably by musket ball, caused little external
+                        injury</term>
+                    <term>typhoid fever</term>
+                    <term>linear fissure of frontal bone, fracture of internal plate with necrosis
+                        of posterior wall of both frontal sinuses</term>
+                    <term>pus in both frontal sinuses</term>
+                    <term>slightly depressed fracture over superciliary ridge, fragment of internal
+                        table detached</term>
+                    <term>discharge of blood and pus from ear, pus only from other ear</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+ <change who="#kmp" when="2014-05">blessed</change>
+            <change who="#ajh" when="2013-08-19">added figure encoding</change>
+            <change who="#mb" when="2013-07-02">additional proofing of transcription and encoding,
+                edited and added keyword terms</change>
+            <change who="#mb" when="2011-07-06">additional proofing of transcription and
+                encoding</change>
+            <change who="#el" when="2011-11-05">case text extracted and transformed from larger
+                file</change>
+            <change who="#sb" when="2011-02-09">enriched encoding</change>
+            <change who="#sb" when="2011-01-28">validated file</change>
+            <change who="#et" when="2009-08-01">encoded</change>
+            <change who="#sb" when="2008-09-22">initial checking of OCR text against PDF;
+                encoded</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body xml:id="ch1.sc3.0187">
+            <p><hi rend="initialcap">C</hi>ASE.&#8212;<name type="person" key="1433">Private Francis
+                    B&#8212;&#8212;</name>, <name type="organization" key="492">Co. A, 10th Vermont
+                    Volunteers</name>, aged 40 years, was wounded in one of the engagements at the
+                crossing of the <name type="battle" key="xx">Rapidan River, Virginia</name>, in
+                    <date type="injury" when="1864-05">May, 1864</date>, in the forehead by a
+                gunshot missile, probably a musket ball, which caused only very little external
+                injury. He was admitted to the Baptist Church, 3d division, Sixth Corps Hospital, at
+                    <name type="place">Fredericksburg</name>, thence conveyed to <name type="place"
+                    key="#Washington">Washington</name>, and admitted <date type="admit"
+                    when="1864-05-26">May 26th</date> into the <name type="hospital" key="176"
+                    >Lincoln Hospital</name>, being then extremely prostrated. No serious injury to
+                the head was suspected, but an attack of typhoid fever was anticipated, the tongue
+                being somewhat coated. The intellect was unimpaired. He seemed to improve and was
+                soon able to leave the ward. He continued so for two or three days when he again
+                took to his bed, complaining of slight pain in the head, but manifesting no
+                aberration of mind. Coma and subsultus tendinum supervened; discharge of blood and
+                pus from the right, and pus only from the left, ear occurred, and death ensued on
+                    <date type="death" when="1864-06-06">June 6th, 1864</date>. At the autopsy a
+                slight linear fissure of the frontal bone was observed, and on removing the <choice>
+                    <orig>calvaria</orig>
+                    <reg>calvarium</reg>
+                </choice> a fracture of the internal plate and necrosis to the extent of
+                three-fourths by one and a fourth inches was found to exist; including within its
+                limits part of the posterior wall of both frontal sinuses, in which some half a
+                drachm of pus had formed. The brain in the region of the fracture was softened. The
+                adjoining wood-cuts (<hi rend="initialcap">F</hi>IGS. 67 and 68) <choice>
+                    <sic>shows</sic>
+                    <corr>show</corr>
+                </choice> the linear but slightly depressed fracture which existed over the right
+                superciliary ridge, and a portion of the fragment of the internal table which was
+                detached. The frontal sinuses are unusually capacious; the walls are very thin. The
+                specimen and notes of the case were contributed by <name type="person" key="243"
+                    >Assistant Surgeon J. C. McKee</name>, <name type="organization" key="190">U. S.
+                    A.</name></p>
+            <figure>
+                <graphic url="cww.001381.001"/>
+                <head><hi rend="initialcap">F</hi>IG. 67.&#8212;Section of the frontal bone showing
+                    a linear fracture over the right superciliary ridge. <hi rend="italic"
+                    >Spec</hi>. 2492, Sect. I, A. M. M.</head>
+            </figure>
+            <figure>
+                <graphic url="cww.001382.001"/>
+                <head><hi rend="initialcap">F</hi>IG. 68.&#8212;Exterior view of the foregoing
+                    specimen.</head>
+            </figure>
+        </body>
+    </text>
+</TEI>

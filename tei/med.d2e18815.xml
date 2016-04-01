@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d2e18815">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Fuller, G.</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+    <idno>med.d2e18815</idno>
+    <authority>Civil War Washington</authority>
+    <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor><name>Center for Digital Research in the
+     Humanities</name><address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address></distributor>
+    <date>2011</date>
+    <availability>
+     <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+      republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+      law, requires express written consent from the editors and advance notification of the
+      publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+ <persName xml:id="kmp">Kenneth M. Price</persName> <persName xml:id="ajh">AJ Howell</persName>
+     <persName xml:id="mb">Matthew Bosley</persName>
+     <persName xml:id="el">Elizabeth Lorang</persName>
+     <persName xml:id="sb">Stacey Berry</persName>
+     <persName xml:id="et">Elisabeth Tracey</persName>
+     <persName xml:id="ss">Sarah Synovec</persName>
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title level="j">The Medical and Surgical History of the War of the Rebellion.
+      (1861-65.)</title><pubPlace>Washington, DC</pubPlace><publisher>Government Printing
+      Office</publisher><biblScope type="part">Part 3</biblScope><biblScope type="volume">Volume
+      2</biblScope><date when="1883">1883</date><biblScope type="page">453</biblScope></bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+     <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <keywords scheme="#medsurg">
+     <term>wounds and injuries of the lower extremities</term>
+     <term>wounds and operations in the leg</term>
+     <term>shot fractures of the bones of the leg</term>
+     <term>excisions in the continuity of the bones of the leg for shot injury</term>
+     <term>intermediary excisions in the continuity of the bones of the leg</term>
+     <term>recoveries after intermediary excisions in the continuity of the bones of the leg</term>
+     <term>ball passed through leg near ankle, shattered lower third of fibula</term>
+     <term>removed fibula near ankle joint</term>
+     <term>muscle grew fast to tibia, destroyed action of tendons</term>
+     <term>general anesthesia, ether</term>
+     <term>general anesthesia, chloroform</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+ <change who="#kmp" when="2014-05">blessed</change>
+
+   <change who="#ajh" when="2013-08-23">added figure encoding</change>
+   <change who="#mb" when="2012-06-06">additional proofing of transcription and encoding, identified
+    keyword terms</change>
+   <change who="#el" when="2011-05-11">case text extracted and transformed from larger file</change>
+   <change who="#sb" when="2011-06-04">Enrich Encoding, Edit and validate</change>
+   <change who="#sb" when="2011-01-28">Validated File</change>
+   <change who="#ss" when="2008-09-22">initial checking of OCR text; encoded P5 Encoding</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p><hi rend="initialcap">C</hi>ASE 713.&#8212;<name type="person" key="1261">Private G.
+     Fuller</name>, <name type="organization" key="385">Co. H, 19th Maine</name>, age 18 years, was
+    wounded in the left leg, at <name type="BATTLE" key="98">Ream's Station</name>, <date
+     type="injury" when="1864-08-25">August 25, 1864</date>, and entered <name type="hospital"
+     key="172">Emory Hospital</name>, Washington, <date type="admit" when="1864-08-28">three days
+     afterwards</date>. <name type="person" key="1058">Acting Assistant Surgeon J. M. Downs</name>
+    forwarded the specimen (<hi rend="initialcap">F</hi>IG. 275), with the following description of
+    the injury: "The wound was produced by a musket ball, which passed through the leg near the
+    ankle, shattering the lower third of the fibula in its course. Upon examination the operation of
+    excision was thought advisable, and was performed, on <date type="operation" when="1864-08-29"
+     >August 29th</date>, by <name type="person" key="884">Surgeon N. R. Moseley</name>, <name
+     type="organization" key="132">U. S. V.</name>, who removed two and a half inches of the fibula
+    near the ankle joint through an incision three and a half inches long. Ether and chloroform
+    constituted the an&#230;sthetic." The patient was subsequently transferred to Webster Hospital,
+     <name type="place">Manchester</name>, and on <date type="servicedischarge" when="1865-05-27"
+     >May 27, 1865</date>, he was mustered out of service and pensioned. Various examining surgeons
+    certified to the injury and operation, and <name type="person" key="xx">Dr. C. B.
+    Pearson</name>, of <name type="place" key="xx">Spring Green, Wisconsin</name>, <date
+     type="pension" when="1973-02-05">February 5, 1873</date>, added: "The wound is healed, but the
+    muscle has grown fast to the tibia so as to destroy action of the tendons," etc. Subsequent
+    examiners corroborate the previous reports. The pensioner was paid <date type="pension"
+     when="1879-12-04">December 4, 1879</date>. </p>
+   <figure>
+    <graphic url="cww.001631.001"/>
+    <head><hi rend="initialcap">F</hi>IG. 275.&#8212;Two and a half inches of fibula excised. <hi
+      rend="italic">Spec</hi>. 1910.</head>
+   </figure>
+  </body>
+ </text>
+</TEI>

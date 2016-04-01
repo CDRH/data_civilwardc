@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e3404">
+        <teiHeader>
+                <fileDesc>
+                        <titleStmt>
+                                <title level="m" type="main">Patchen, W.</title>
+                                <title level="m" type="sub">a machine readable transcription</title>
+                                <principal>Susan C. Lawrence</principal>
+                                <principal>Kenneth M. Price</principal>
+                                <principal>Kenneth J. Winkle</principal>
+                        </titleStmt>
+                        <editionStmt>
+                                <edition>
+                                        <date>2011</date>
+                                </edition>
+                        </editionStmt>
+                        <publicationStmt>
+                                <idno>med.d1e3404</idno>
+                                <authority>Civil War Washington</authority>
+                                <publisher>University of Nebraska–Lincoln</publisher>
+                                <distributor>
+                                        <name>Center for Digital Research in the Humanities</name>
+                                        <address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+                                </distributor>
+                                <date>2011</date>
+                                <availability>
+                                        <p>Copyright © 2011 by University of Nebraska–Lincoln, all
+                                                rights reserved. Redistribution or republication in
+                                                any medium, except as allowed under the Fair Use
+                                                provisions of U.S. copyright law, requires express
+                                                written consent from the editors and advance
+                                                notification of the publisher, the University of
+                                                Nebraska–Lincoln.</p>
+                                </availability>
+                        </publicationStmt>
+                        <notesStmt>
+                                <note type="project">The following are responsible for particular
+                                        readings or for changes to this file, as noted:
+                                        <persName xml:id="ajh">AJ Howell</persName>
+                                        <persName xml:id="mb">Matthew Bosley</persName>
+                                        <persName xml:id="el">Elizabeth Lorang</persName>
+                                        <persName xml:id="sb">Stacey Berry</persName>
+                                        <persName xml:id="et">Elisabeth Tracey</persName>
+                                </note>
+                        </notesStmt>
+                        <sourceDesc>
+                                <bibl>
+                                        <title level="j">The Medical and Surgical History of the War
+                                                of the Rebellion</title>
+                                        <pubPlace>Washington, DC</pubPlace>
+                                        <publisher>Government Printing Office</publisher>
+                                        <biblScope type="part">Part 3</biblScope>
+                                        <biblScope type="volume">Volume 1</biblScope>
+                                        <date when="1888">1888</date>
+                                        <biblScope type="page">233</biblScope>
+                                </bibl>
+                        </sourceDesc>
+                </fileDesc>
+                <encodingDesc>
+                        <classDecl>
+                                <taxonomy xml:id="medsurg">
+                                        <bibl>Medical and Surgical History of the War of the
+                                                Rebellion</bibl>
+                                </taxonomy>
+                        </classDecl>
+                </encodingDesc>
+                <profileDesc>
+                        <textClass>
+                                <keywords scheme="#medsurg">
+                                        <term>continued fevers</term>
+                                        <term>clinical records</term>
+                                        <term>evidence of malarial affection</term>
+                                        <term>typhoid fever</term>                                                              
+                                        <term>typho-malarial and typhoid fevers</term>
+                                        <term>mental dullness</term> 
+                                        <term>sordes</term>
+                                        <term>vibices</term> 
+                                        <term>right iliac and hepatic tenderness</term> 
+                                        <term>anorexia</term>
+                                        <term>Seminary Hospital cases</term>
+                                </keywords>
+                        </textClass>
+                </profileDesc>
+                <revisionDesc>
+                        <change who="#ajh" when="2013-06-03">additional proofing of transcription and encoding, identified keyword terms</change>
+                        <change who="#mb" when="2011-10-11">additional proofing of transcription and encoding</change>
+                        <change who="#mb" when="2011-06-06">additional proofing of transcription and encoding</change>
+                        <change who="#el" when="2011-05-11">case text extracted and transformed from
+                                larger file</change>
+                        <change who="#sb" when="2011-02-23">Encoding and Proofing</change>
+                        <change who="#et" when="2009-12-01">Initial Checking OCR Text to PDF file,
+                        </change>
+                </revisionDesc>
+        </teiHeader>
+        <text>
+                <body xml:id="ch4.sc2.3.00068">
+                        
+                                <p><hi rend="initialcap">C</hi>ASE 68.&#8212;<hi rend="italic"
+                                        >Mental <choice><orig>dulness</orig><reg>dullness</reg></choice>; sordes; vibices; right iliac and
+                                                hepatic tenderness, but no diarrh&#339;a nor
+                                                rose-colored spots; improvement about the end of the
+                                                3d week.</hi>&#8212;<name type="person"
+                                                key="526">Private W. Patchen</name>, <name
+                                                type="organization" key="98">Co. F, 74th N. Y.
+                                                Vols.</name>; age 18; was admitted <date
+                                                type="admit" when="1861-11-02">Nov. 2, 1861</date>,
+                                        having been taken sick <date type="injury" when="1861-10">two weeks before</date> with chills,
+                                        anorexia and pain in the back. The case on admission was
+                                        diagnosed typhoid fever. On the 3d the patient was dull and
+                                        stupid, his eyes suffused, cheeks congested, pulse 100, skin
+                                        hot and dry, tongue dry and clean, lips and teeth covered
+                                        with sordes, appetite lost; there was some tenderness and
+                                        gurgling in the right iliac region; twelve grains of quinine
+                                        were given at once, followed after a time by a half-ounce
+                                        dose of castor oil and by turpentine emulsion every three
+                                        hours. Next day one stool was passed; the patient had some
+                                        cough and hepatic tenderness, and vibices appeared on the
+                                        chest. On the 6th he had tinnitus aurium. On the 8th he
+                                        seemed better; his tongue was red at the tip and edges and
+                                        coated white in the centre; his bowels had been moved but
+                                        once since the day following his admission. He improved
+                                        gradually after this, and was transferred to <name type="place">Baltimore, Md.</name>,
+                                                <date type="transfer" when="1861-12-03">December
+                                                3</date>. </p>
+                        
+                </body>
+        </text>
+</TEI>

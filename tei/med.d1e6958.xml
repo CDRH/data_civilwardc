@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e6958">
+        <teiHeader>
+                <fileDesc>
+                        <titleStmt>
+                                <title level="m" type="main">Fowler, Wallace T.</title>
+                                <title level="m" type="sub">a machine readable transcription</title>
+                                <principal>Susan C. Lawrence</principal>
+                                <principal>Kenneth M. Price</principal>
+                                <principal>Kenneth J. Winkle</principal>
+                        </titleStmt>
+                        <editionStmt>
+                                <edition>
+                                        <date>2011</date>
+                                </edition>
+                        </editionStmt>
+                        <publicationStmt>
+                                <idno>med.d1e6958</idno>
+                                <authority>Civil War Washington</authority>
+                                <publisher>University of Nebraska–Lincoln</publisher>
+                                <distributor>
+                                        <name>Center for Digital Research in the Humanities</name>
+                                        <address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+                                </distributor>
+                                <date>2011</date>
+                                <availability>
+                                        <p>Copyright © 2011 by University of Nebraska–Lincoln, all
+                                                rights reserved. Redistribution or republication in
+                                                any medium, except as allowed under the Fair Use
+                                                provisions of U.S. copyright law, requires express
+                                                written consent from the editors and advance
+                                                notification of the publisher, the University of
+                                                Nebraska–Lincoln.</p>
+                                </availability>
+                        </publicationStmt>
+                        <notesStmt>
+                                <note type="project">The following are responsible for particular
+                                        readings or for changes to this file, as noted: 
+                                        <persName xml:id="mb">Matthew Bosley</persName>                                        
+                                        <persName xml:id="el">Elizabeth Lorang</persName>
+                                        <persName xml:id="sb">Stacey Berry</persName>
+                                        <persName xml:id="et">Elisabeth Tracey</persName>
+                                </note>
+                        </notesStmt>
+                        <sourceDesc>
+                                <bibl>
+                                        <title level="j">The Medical and Surgical History of the War
+                                                of the Rebellion</title>
+                                        <pubPlace>Washington, DC</pubPlace>
+                                        <publisher>Government Printing Office</publisher>
+                                        <biblScope type="part">Part 3</biblScope>
+                                        <biblScope type="volume">Volume 1</biblScope>
+                                        <date when="1888">1888</date>
+                                        <biblScope type="page">346</biblScope>
+                                </bibl>
+                        </sourceDesc>
+                </fileDesc>
+                <encodingDesc>
+                        <classDecl>
+                                <taxonomy xml:id="medsurg">
+                                        <bibl>Medical and Surgical History of the War of the
+                                                Rebellion</bibl>
+                                </taxonomy>
+                        </classDecl>
+                </encodingDesc>
+                <profileDesc>
+                        <textClass>
+                                <keywords scheme="#medsurg">
+                                        <term>post-mortem records</term>
+                                        <term>continued fevers</term>
+                                        <term>typho-malarial fever</term>
+                                        <term>entered as typho-malarial with or without a record of symptoms to substantiate the diagnosis</term>                                        
+                                        <term>Peyer's patches ulcerated, ileum or small intestine only affected</term>
+                                        <term>perforation of middle ileum, result of ulceration in Peyer's patch</term>
+                                        <term>peritoneal cavity contained turbid yellow liquid emitting unpleasant f&#230;cal odor</term>
+                                        <term>rusty <choice><orig>sputa</orig><reg>sputum</reg></choice></term>
+                                        <term>omentum inflamed, intestines interadherent</term>
+                                </keywords>
+                        </textClass>
+                </profileDesc>
+                <revisionDesc>
+                        <change who="#mb" when="2013-03-19">additional proofing of transcription and encoding, edited and added keyword terms</change>
+                        <change who="#mb" when="2011-10-06">additional proofing of transcription and encoding</change>
+                        <change who="#mb" when="2011-06-16">additional proofing of transcription and encoding</change>
+                        <change who="#el" when="2011-05-11">case text extracted and transformed from larger file</change>
+                        <change who="#sb" when="2011-02-23">Encoding and Proofing</change>
+                        <change who="#et" when="2009-12-01">Initial Checking OCR Text to PDF file,</change>
+                </revisionDesc>
+        </teiHeader>
+        <text>
+                <body xml:id="ch4.sc4.1.00064">                        
+                                <p><hi rend="initialcap">C</hi>ASE 64.&#8212;<name type="person"
+                                                key="637">Private Wallace T. Fowler</name>, <name
+                                                type="organization" key="661">Co. C, 42d
+                                                Mass.</name>; age 19; was admitted <date
+                                                type="admit" when="1864-10-29">Oct. 29, 1864</date>,
+                                        having been taken sick <date type="injury" when="1864-10-22">a week before</date> with a decided chill
+                                        followed by hot skin, thirst, severe headache and backache
+                                        and a diarrh&#339;a of two or three passages daily. On
+                                        admission there was no delirium, epistaxis, deafness nor
+                                        tympanites; pulse 120; tongue furred and dry; some bronchial
+                                        irritation.  Diagnosis&#8212;typho-malarial fever.  He
+                                        improved under small doses of blue-pill and ipecacuanha,
+                                        acetate of potash, squill and spirit of nitre until November
+                                        12, when his respiration became hurried and his pulse
+                                        accelerated.  On the 15th he expectorated rusty <choice><orig>sputa</orig><reg>sputum</reg></choice>,
+                                        although none of the physical signs of pneumonia were
+                                        present.  Until the day of his death, <date type="death"
+                                                when="1864-11-17">the 17th</date>, he did not appear to
+                                        be very ill. Pain in the epigastrium, feeble pulse, great
+                                        prostration and vomiting, at first of green liquid and
+                                        afterwards of matters resembling coffee-grounds, preceded
+                                        death for some hours; his mind was clear to the last.  <hi
+                                                rend="italic">Post-mortem</hi> examination <date type="autopsy" when="1864-11-18">sixteen
+                                        hours after death</date>: Not much emaciation; suggillation
+                                        posteriorly. Omentum inflamed; intestines reddened and
+                                        interadherent; peritoneal cavity containing two pints of a
+                                        turbid yellow liquid emitting an unpleasant f&#230;cal
+                                        odor. There was a perforation one-eighth of an inch in
+                                        diameter about the middle of the ileum, the result of
+                                        ulceration in one of Peyer's patches  [<hi rend="italic">Specimen</hi> No. 439, Med. Sect., <name
+                                                type="hospital" key="431">Army Medical
+                                        Museum</name>],  and there were several thickened and ulcerated
+                                        patches near the perforation and in the lower part of the
+                                        ileum. Spleen enlarged and softened; liver dark. Other
+                                        organs not examined.&#8212;<hi rend="italic"><name
+                                                  type="person" key="134">Surg. E. Bentley</name>,
+                                                  <name type="organization" key="132">U. S.
+                                                  V.</name>, <name type="hospital" key="187">Second
+                                                  Division Hospital</name>, Alexandria, Va.</hi> </p>                        
+                </body>
+        </text>
+</TEI>

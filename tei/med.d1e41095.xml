@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e41095">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Pitts, John A.</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+    <idno>med.d1e41095</idno>
+       <authority>Civil War Washington</authority>
+       <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor>
+       <name>Center for Digital Research in the Humanities</name>
+       <address><addrLine>319 Love Library</addrLine>
+       <addrLine>University of Nebraska–Lincoln</addrLine>
+       <addrLine>Lincoln, NE 68588-4100</addrLine>
+       <addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+    </distributor>
+    <date>2011</date>
+    <availability>
+        <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+         republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+         law, requires express written consent from the editors and advance notification of the
+         publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+     <persName xml:id="mb">Matthew Bosley</persName>
+     <persName xml:id="el">Elizabeth Lorang</persName>
+     <persName xml:id="sb">Stacey Berry</persName>
+     <persName xml:id="ao">Alyssa Olson</persName>
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl>
+     <title level="j">The Medical and Surgical History of the War of the Rebellion. (1861-65.)</title>
+     <pubPlace>Washington, DC</pubPlace>
+     <publisher>Government Printing Office</publisher>
+     <biblScope type="part">Part 2</biblScope>
+     <biblScope type="volume">Volume 1</biblScope>
+     <date when="1879">1879</date>
+     <biblScope type="page">170-171</biblScope>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+       <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+      <keywords scheme="#medsurg">
+       <term>diarrh&#339;a and dysentery</term>
+       <term>fatal cases of diarrh&#339;a and dysentery, with accounts of the morbid appearances observed</term>
+       <term>from Lincoln Hospital, Washington, D. C.</term>
+       <term>chronic diarrh&#339;a</term>
+       <term>abdomen sunken and painful to touch</term>
+       <term>spleen capsule greenish and somewhat corrugated, interior reddish chocolate-brown color, Malpighian corpuscles and trabecul&#230; prominent</term>
+       <term>lower ileum congested, one greenish exudation near the ileoc&#230;cal valve</term>
+       <term>large intestine extensively ulcerated, ulcers of ovoid form with long diameter transverse to course of intestine, varied in size from split-pea to pin's head</term>
+       <term>greenish exudation of lymph surrounded ulcers an between ulcers</term>       
+       <term>autopsy performed</term>       
+     </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change who="#mb" when="2012-11-13">additional proofing of transcription and encoding, identified keyword terms</change>
+   <change who="#el" when="2010-11-05">case text extracted and transformed from larger file</change>
+   <change who="#sb" when="2010-05-01">enrich encoding, proof and edit</change>
+   <change who="#ao" when="2008-10-02">encoding and editing</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body> 
+   <p>Case from the case-book of <name type="hospital" key="176"><hi rend="initialcap">L</hi>INCOLN <hi rend="initialcap">H</hi>OSPITAL</name>, Washington, D. C.; <name type="person" key="242">Assistant Surgeon Roberts Bartholow</name>, <name type="organization" key="190">U. S. A.</name>, in charge from August 21st to December, 1863.</p>            
+   <p><hi rend="initialcap">C</hi>ASE 371.&#8212;<name type="person" key="xxx">Corporal John A. Pitts</name>, <name type="organization" key="xxx">company B, 7th Wisconsin volunteers</name>; age 35; admitted <date type="admit" when="1863-06-24">June 24, 1863</date>.  Chronic diarrh&#339;a.  This man was healthy when enlisted. He was first taken sick while on duty near <name type="place">Falmouth, Virginia</name>, about <date type="injury" when="1863-05">a month and a half ago</date>. Has now four or five watery light-colored passages daily.  September 1st: About the beginning of last month the patient seemed in a fair way to recover. He is now much worse, the passages numbering eight or more daily; the abdomen is sunken and painful to the touch, the tongue dry and red. He is very much emaciated.  Died, <date type="death" when="1863-09-10">September 10th</date>.  <hi rend="italic">Autopsy</hi> <date type="autopsy" when="1863-09-11">twenty hours after death</date>: Body slightly emaciated; some rigor mortis; height five feet seven inches. The brain was firm, and weighed fifty-four ounces; the vessels of the pia mater contained rather less blood than usual; the ventricles were empty. The mucous membrane of the &#339;sophagus was of a greenish-blue color, in its lower part it was slightly yellow; that of the trachea was pale, slightly purple between the rings; there was a small quantity of frothy mucus at the bifurcation of the bronchial tubes. The lungs were crepitant throughout, but congested posteriorly, especially in the lower lobes; on section of these a good deal of venous blood exuded, mixed with frothy scrum. The heart weighed nine ounces; its right cavities contained a small fibrinous clot which extended into the pulmonary artery; the left cavities were contracted and empty. The liver was healthy, and weighed fifty-one ounces and a half; the gall-bladder contained five drachms of thick greenish bile of the consistency of molasses. The pancreas was normal, and weighed two ounces. The spleen weighed four ounces and a half; its capsule was greenish and somewhat corrugated; it was lobed at its upper extremity; its interior of a reddish chocolate-brown color; the Malpighian corpuscles and the trabecul&#230; were prominent. The kidneys were healthy; the right weighed five ounces and a half, the left five ounces. The mucous membrane of the stomach was a greenish color, with minute bloody points at the pyloric extremity. The small intestine was healthy, except that the lower part of the ileum was much congested, and presented at one spot, near the ileoc&#230;cal valve, a greenish exudation. The large intestine was extensively ulcerated throughout its whole course; the ulcers were generally of an ovoid form, their long diameter transverse to the course of the intestine; they varied in size from that of a split-pea to that of a pin's head, many of them surrounded by a greenish exudation of lymph; and a similar exudation appeared on the mucous surface between the ulcers.&#8212;<name type="person" key="245">Assistant Surgeon Harrison Allen</name>, <name type="organization" key="190">U. S. A.</name>&#8432; </p>
+   <p>&#8432; September 14, 1864, <name type="person" key="245">Dr. Allen</name> presented to the Pathological Society of Philadelphia a brief &#34;<hi rend="italic">Synopsis of Autopsies made at <name type="hospital" key="176">Lincoln General Hospital</name></hi>,&#34; to which the reader is referred.&#8212;(Proceedings of the Pathological Society of Philadelphia, in the American Journal of the Medical Sciences, January, 1865, page 133.)  In this paper he analyzes the appearances observed in forty-one cases of diarrh&#339;a and dysentery, thirty-five of fever, twenty-one of pneumonia, and five of diphtheria. The notes of <name type="person" key="245">Dr. Allen</name>'s autopsies, from which the accounts here presented have been condensed, were not contained in the case-books of <name type="hospital" key="176">Lincoln hospital</name> turned in to the <name type="organization" key="xxx">Surgeon General's Office</name> at the close of the war, but have since been copied into them from the originals, loaned for the purpose.</p>
+  </body>
+ </text>
+</TEI>

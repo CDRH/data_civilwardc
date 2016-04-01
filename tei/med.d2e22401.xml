@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d2e22401">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Roberts, W.</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+    <idno>med.d2e22401</idno>
+    <authority>Civil War Washington</authority>
+    <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor><name>Center for Digital Research in the
+     Humanities</name><address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address></distributor>
+    <date>2011</date>
+    <availability>
+     <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+      republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+      law, requires express written consent from the editors and advance notification of the
+      publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+     <persName xml:id="mb">Matthew Bosley</persName>
+     <persName xml:id="el">Elizabeth Lorang</persName>
+     <persName xml:id="sb">Stacey Berry</persName>
+     <persName xml:id="et">Elisabeth Tracey</persName>
+     <persName xml:id="ss">Sarah Synovec</persName>
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title level="j">The Medical and Surgical History of the War of the Rebellion.
+      (1861-65.)</title><pubPlace>Washington, DC</pubPlace><publisher>Government Printing
+      Office</publisher><biblScope type="part">Part 3</biblScope><biblScope type="volume">Volume
+      2</biblScope><date when="1883">1883</date><biblScope type="page">591</biblScope></bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+     <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <keywords scheme="#medsurg">
+     <term>wounds and injuries of the lower extremities</term> 
+     <term>wounds and operations at the ankle joint</term>
+     <term>shot fractures of the bones of the ankle joint</term>
+     <term>excisions at the ankle joint for shot injury</term> 
+     <term>intermediary excisions at the ankle joint</term> 
+     <term>fatal intermediary excisions at the ankle joint</term>
+     <term>ball passed backward, fractured external malleolus and opened ankle joint</term>
+     <term>resection of ankle joint, excised lower articular extremities of tibia and fibula</term> 
+     <term>diarrh&#339;a</term>      
+     <term>general anesthesia, ether</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change who="#mb" when="2012-06-13">additional proofing of transcription and encoding, identified keyword terms</change>   
+   <change who="#el" when="2011-05-11">case text extracted and transformed from larger file</change>
+   <change who="#sb" when="2011-06-04">Enrich Encoding, Edit and validate</change>
+   <change who="#sb" when="2011-01-28">Validated File</change>
+   <change who="#ss" when="2008-09-22">initial checking of OCR text; encoded P5 Encoding</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>   
+    <p><hi rend="initialcap">C</hi>ASE 853.&#8212;<name type="person" key="1375">Sergeant W.
+      Roberts</name>, <name type="organization" key="457">Co. I, 7th New York Artillery</name>, aged
+     35 years, was wounded in the left ankle, at <name type="BATTLE" key="16">Cold Harbor</name>,
+      <date type="injury" when="1864-06-10">June 10, 1864</date>, by a conoidal ball, which passed
+     from before backward, fracturing the external malleolus and opening the ankle joint.  He entered
+     <name type="hospital" key="173">Harewood Hospital</name>, Washington, <date type="admit" when="1864-06-15">five days afterwards</date>, at
+     which time his constitutional state was very poor, the injured parts were in a very bad
+     condition, and the wound discharged fetid pus.  Resection of the ankle joint was performed on
+     <date type="operation" when="1864-06-24">June 24th</date> by <name type="person" key="158">Surgeon R. B. Bontecou</name>, <name
+      type="organization" key="132">U. S. V.</name>, who exposed the articulation by incisions over
+     the malleoli and excised the lower articular extremities of the tibia and fibula. Sulphuric
+     ether was used.  The patient did well up to July 1st. From that period diarrh&#339;a set in and
+     he gradually sank. There were no py&#230;mic symptoms. He died <date type="death"
+      when="1864-07-06">July 6,1864</date>, from exhaustion. The history was reported by <name type="person" key="158">the operator</name>.</p>   
+  </body>
+ </text>
+</TEI>

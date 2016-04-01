@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e11646">
+        <teiHeader>
+                <fileDesc>
+                        <titleStmt>
+                                <title level="m" type="main">Gideon, Randolph</title>
+                                <title level="m" type="sub">a machine readable transcription</title>
+                                <principal>Susan C. Lawrence</principal>
+                                <principal>Kenneth M. Price</principal>
+                                <principal>Kenneth J. Winkle</principal>
+                        </titleStmt>
+                        <editionStmt>
+                                <edition>
+                                        <date>2011</date>
+                                </edition>
+                        </editionStmt>
+                        <publicationStmt>
+                                <idno>med.d1e11646</idno>
+                                <authority>Civil War Washington</authority>
+                                <publisher>University of Nebraska–Lincoln</publisher>
+                                <distributor>
+                                        <name>Center for Digital Research in the Humanities</name>
+                                        <address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+                                </distributor>
+                                <date>2011</date>
+                                <availability>
+                                        <p>Copyright © 2011 by University of Nebraska–Lincoln, all
+                                                rights reserved. Redistribution or republication in
+                                                any medium, except as allowed under the Fair Use
+                                                provisions of U.S. copyright law, requires express
+                                                written consent from the editors and advance
+                                                notification of the publisher, the University of
+                                                Nebraska–Lincoln.</p>
+                                </availability>
+                        </publicationStmt>
+                        <notesStmt>
+                                <note type="project">The following are responsible for particular
+                                        readings or for changes to this file, as noted: 
+                                        <persName xml:id="mb">Matthew Bosley</persName>
+                                        <persName xml:id="el">Elizabeth Lorang</persName>
+                                        <persName xml:id="sb">Stacey Berry</persName>
+                                        <persName xml:id="et">Elisabeth Tracey</persName>
+                                </note>
+                        </notesStmt>
+                        <sourceDesc>
+                                <bibl>
+                                        <title level="j">The Medical and Surgical History of the War
+                                                of the Rebellion</title>
+                                        <pubPlace>Washington, DC</pubPlace>
+                                        <publisher>Government Printing Office</publisher>
+                                        <biblScope type="part">Part 3</biblScope>
+                                        <biblScope type="volume">Volume 1</biblScope>
+                                        <date when="1888">1888</date>
+                                        <biblScope type="page">879</biblScope>
+                                </bibl>
+                        </sourceDesc>
+                </fileDesc>
+                <encodingDesc>
+                        <classDecl>
+                                <taxonomy xml:id="medsurg">
+                                        <bibl>Medical and Surgical History of the War of the
+                                                Rebellion</bibl>
+                                </taxonomy>
+                        </classDecl>
+                </encodingDesc>
+                <profileDesc>
+                        <textClass>
+                                <keywords scheme="#medsurg">
+                                        <term>certain local diseases</term>
+                                        <term>idiopathic peritonitis</term>
+                                        <term>posterior duodenum perforated</term>
+                                        <term>severe and persistent vomiting</term>
+                                </keywords>
+                        </textClass>
+                </profileDesc>
+                <revisionDesc>
+                        <change who="#mb" when="2011-07-15">additional proofing of transcription and encoding</change>
+                        <change who="#el" when="2011-05-11">case text extracted and transformed from
+                                larger file</change>
+                        <change who="#sb" when="2011-02-23">Encoding and Proofing</change>
+                        <change who="#et" when="2009-12-01">Initial Checking OCR Text to PDF file,
+                        </change>
+                </revisionDesc>
+        </teiHeader>
+        <text>
+                <body>
+                        
+                        <p> <hi rend="initialcap">C</hi>ASE 1.&#8212;<name type="person">Private Randolph Gideon</name>, <name type="organization">Co. C, 2d Tenn.</name>;
+                                age 35; a paroled prisoner; was admitted <date type="admit" when="1863-05-02">May 2, 1863</date>, having
+                                        been taken sick while <hi rend="italic">en route</hi> from Richmond, Va., to his
+                                        home. He had severe and persistent vomiting, ejecting a
+                                        watery fluid mixed with bile and portions of undigested
+                                        food. He was more or less comatose from the first, but
+                                        sometimes answered questions rationally. There was no
+                                        epigastric or hepatic tenderness, and no evidence of pain
+                                        except on the 12th, when he complained of his right hip.
+                                        His tongue was dry, thirst excessive, urine copious and
+                                        passed involuntarily, and his bowels, although constipated,
+                                        were readily moved by enemata. Oxalate of cerium, creasote,
+                                        bismuth, morphia and chloroform with counter-irritants were
+                                        employed, without success, to check the vomiting. Only
+                                        raw eggs and small quantities of milk were retained.
+                                        Nourishing enemata were frequently administered.  He died on
+                                <date type="death" when="1863-05-14">the 14th</date>.  <hi rend="italic">Post-mortem</hi> examination: Body moderately
+                                        emaciated. The brain was not examined. The thoracic viscera
+                                        were healthy. The liver was rather larger than normal, but
+                                        healthy. The stomach was normal in size and contained some
+                                        watery fluid; its mucous membrane was reddened and its
+                                        pyloric orifice contracted. At the commencement of the
+                                        duodenum there was a firm well-marked constriction, reducing
+                                        its calibre to less than half an inch in diameter. Around
+                                        this portion of the intestine were deposits of coagulable
+                                        lymph, and immediately below, on the posterior aspect of the
+                                        gut, was a perforation with thickened and introverted edges.
+                                        The gall-bladder was distended. The kidneys were normal.&#8212;<hi rend="italic"><name type="person">Ass't Surgeon Charles B. White</name>, <name type="organization" key="190">U. S. A.</name>, <name type="hospital">Pittsburgh Hospital</name>, Pa.</hi> </p>
+                        
+                </body>
+        </text>
+</TEI>

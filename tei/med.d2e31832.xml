@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d2e30000">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Boles, H.</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+       <idno>med.d2e30000</idno>
+       <authority>Civil War Washington</authority>
+       <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor>
+       <name>Center for Digital Research in the Humanities</name>
+       <address><addrLine>319 Love Library</addrLine>
+       <addrLine>University of Nebraska–Lincoln</addrLine>
+       <addrLine>Lincoln, NE 68588-4100</addrLine>
+       <addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+    </distributor>
+    <date>2011</date>
+    <availability>
+        <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+         republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+         law, requires express written consent from the editors and advance notification of the
+         publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+     <persName xml:id="mb">Matthew Bosley</persName>
+     <persName xml:id="at">Alex Thomas</persName>
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl>
+     <title level="j">The Medical and Surgical History of the War of the Rebellion. (1861-65.)</title>
+     <pubPlace>Washington, DC</pubPlace>
+     <publisher>Government Printing Office</publisher>
+     <biblScope type="part">Part 2</biblScope>
+     <biblScope type="volume">Volume 2</biblScope>
+     <date when="1876">1876</date>
+     <biblScope type="page">387</biblScope>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+       <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+      <keywords scheme="#medsurg">
+       <term>injuries of the pelvis</term>
+       <term>injuries of the genital organs</term>
+       <term>wounds of the penis</term>
+       <term>wounds of the urethra</term>
+       <term>organic stricture</term> 
+       <term>double stricture of urethra following gonorrh&#339;a</term>
+       <term>stricture dilated by silver sounds</term>
+       <term>no an&#230;sthetic</term>
+       <term>incontinence of urine</term>
+       <term>traumatic urethritis from frequent catheterism</term>
+       <term>treatment continued as out-door patient</term>
+       <term>cured in twenty-eight days</term>       
+     </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change who="#mb" when="2012-09-04">additional proofing of transcription and encoding, identified keyword terms</change>
+   <change who="#at" when="2011-02-25">checked OCR; added minimal mark-up for personal names, place names, and dates</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body> 
+   <p><hi rend="initialcap">C</hi>ASE 1091.&#8212;<name type="person" key="xxx">H. Boles</name>, <name type="organization" key="xxx">quartermaster's service</name>, aged 21 years, was admitted into <name type="hospital" key="xxx">Post Hospital</name>, Washington, <date type="admit" when="1866-06-04">June 4, 1866</date>. <name type="person" key="200">Assistant Surgeon W. Thomson</name>, <name type="organization" key="190">U. S. A.</name>, reported: "Double stricture of the urethra, following gonorrh&#339;a of several months duration; the stricture existing since <date type="injury" when="1865-07">July, 1865</date>.  There was one firm and unyielding stricture in the spongy portion of the urethra, and another one, less tense, in the membranous portion; there was no discharge from the urethra; there was incontinence of urine.  On <date type="operation" when="1866-06-05">June 5th</date>, <name type="person" key="xxx">Acting Assistant Surgeon G. P. Hanawalt</name> commenced dilating the stricture by means of silver sounds, introduced twice daily, no an&#230;sthetic being used. The patient's constitutional condition was good at the time, and there was but little sensibility of the urethra, which had been already treated by <name type="person" key="xxx">Dr. R. K. Stone</name> with Holt's dilator. In the evening, a No. 1 sound was introduced with slight difficulty. On <date type="operation" when="1866-06-06">the following day</date>, a No. 2 sound was carried into the bladder, and a No. 3 into the first stricture. On <date type="operation" when="1866-06-07">the 7th</date>, the No. 3 was passed into the bladder. On the 10th and 11th, there was traumatic urethritis from too frequent catheterism. He left hospital on the 12th, but returned on the 20th, and was discharged from hospital <date type="hospitaldischarge" when="1866-06-25">June 25, 1866</date>, his treatment being continued as an out-door patient. On <date type="operation" when="1866-06-27">the 27th</date>, the next to the largest sound was introduced. On <date type="operation" when="1866-07-03">July 3d</date>, the patient himself introduced a large-sized bougie without difficulty.  He was cured in twenty-eight days, urinating in a full stream."</p>     
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e651">
+        <teiHeader>
+                <fileDesc>
+                        <titleStmt>
+                                <title level="m" type="main">Ingraham, John</title>
+                                <title level="m" type="sub">a machine readable transcription</title>
+                                <principal>Susan C. Lawrence</principal>
+                                <principal>Kenneth M. Price</principal>
+                                <principal>Kenneth J. Winkle</principal>
+                        </titleStmt>
+                        <editionStmt>
+                                <edition>
+                                        <date>2011</date>
+                                </edition>
+                        </editionStmt>
+                        <publicationStmt>
+                                <idno>med.d1e651</idno>
+                                <authority>Civil War Washington</authority>
+                                <publisher>University of Nebraska–Lincoln</publisher>
+                                <distributor>
+                                        <name>Center for Digital Research in the Humanities</name>
+                                        <address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+                                </distributor>
+                                <date>2011</date>
+                                <availability>
+                                        <p>Copyright © 2011 by University of Nebraska–Lincoln, all
+                                                rights reserved. Redistribution or republication in
+                                                any medium, except as allowed under the Fair Use
+                                                provisions of U.S. copyright law, requires express
+                                                written consent from the editors and advance
+                                                notification of the publisher, the University of
+                                                Nebraska–Lincoln.</p>
+                                </availability>
+                        </publicationStmt>
+                        <notesStmt>
+                                <note type="project">The following are responsible for particular
+                                        readings or for changes to this file, as noted: 
+                                        <persName xml:id="mb">Matthew Bosley</persName>
+                                        <persName xml:id="el">Elizabeth Lorang</persName>
+                                        <persName xml:id="sb">Stacey Berry</persName>
+                                        <persName xml:id="et">Elisabeth Tracey</persName>
+                                </note>
+                        </notesStmt>
+                        <sourceDesc>
+                                <bibl>
+                                        <title level="j">The Medical and Surgical History of the War
+                                                of the Rebellion</title>
+                                        <pubPlace>Washington, DC</pubPlace>
+                                        <publisher>Government Printing Office</publisher>
+                                        <biblScope type="part">Part 3</biblScope>
+                                        <biblScope type="volume">Volume 1</biblScope>
+                                        <date when="1888">1888</date>
+                                        <biblScope type="page">134</biblScope>
+                                </bibl>
+                        </sourceDesc>
+                </fileDesc>
+                <encodingDesc>
+                        <classDecl>
+                                <taxonomy xml:id="medsurg">
+                                        <bibl>Medical and Surgical History of the War of the
+                                                Rebellion</bibl>
+                                </taxonomy>
+                        </classDecl>
+                </encodingDesc>
+                <profileDesc>
+                        <textClass>
+                                <keywords scheme="#medsurg">
+                                        <term>post-mortem records</term>
+                                        <term>pathology of malarial disease</term>
+                                        <term>remittent fever</term>
+                                </keywords>
+                        </textClass>
+                </profileDesc>
+                <revisionDesc>
+                        <change who="#mb" when="2011-10-20">additional proofing of transcription and encoding</change>
+                        <change who="#mb" when="2011-05-26">additional proofing of transcription and encoding</change>
+                        <change who="#el" when="2011-05-11">case text extracted and transformed from
+                                larger file</change>
+                        <change who="#sb" when="2011-02-23">Encoding and Proofing</change>
+                        <change who="#et" when="2009-12-01">Initial Checking OCR Text to PDF file,
+                        </change>
+                </revisionDesc>
+        </teiHeader>
+        <text>
+                <body xml:id="ch3.sc4.0069">
+                        
+                                <p><hi rend="initialcap">C</hi>ASE 69.&#8212;<name type="person"
+                                                key="856">Private John Ingraham</name>, 
+                                        <name type="organization" key="484">Co. C, 17th. U. S. Inf'y</name>;          
+                                                age 23; was admitted <date
+                                                type="admit" when="1863-11-23">November 23,
+                                                1863</date>, with remittent fever. He died <date
+                                                type="death" when="1863-11-26">November 26</date>.
+                                                <hi rend="italic">Post-mortem</hi> examination: Body
+                                        not much emaciated: rigor mortis well marked. There was some
+                                        venous congestion in the membranes of the brain. The right
+                                        lung weighed thirty-three ounces; its upper lobe contained
+                                        tubercles, some of which were cretefied. and beneath these a
+                                        cavity the size of a horse-chestnut; the middle lobe was
+                                        healthy; the lower lobe splenified. The left lung weighed
+                                        twenty-four ounces; it was firmly bound to the thoracic
+                                        parietes by old adhesions, which also obliterated the
+                                        division of the lobes; the posterior portion of its lower
+                                        lobe was splenified and contained some tubercular deposits.
+                                        The bronchial glands were large and black. The right auricle
+                                        of the heart was greatly distended by fluid blood; there
+                                        were no clots in any of the cavities. The liver was bronzed
+                                        and weighed fifty-two ounces; the gall-bladder contained
+                                        twenty-five drachms of bile. The spleen was firm and of a
+                                        dark mahogany color. The pancreas was quite white but not
+                                        very firm; it weighed three ounces. The kidneys were very
+                                        much congested. The stomach was enormously distended with a
+                                        muddy-green liquid. The mucous membrane of the small
+                                        intestine was congested throughout and intensely purple; the
+                                        valvu&#230; conniventes were prominent; Peyer's patches were not
+                                        elevated; the solitary follicles near the
+                                        ileo-c&#230;cal valve were conspicuous, their summits
+                                        being of a deeper purple than the adjacent mucous membrane.
+                                        The large intestine was normal.&#8212;<hi rend="italic"
+                                                  ><name type="person" key="245">Ass't Surg.
+                                                  Harrison Allen</name>, <name type="organization"
+                                                  key="190">U. S. A.</name>, <name type="hospital"
+                                                  key="176">Lincoln Hospital</name>, Washington, D.
+                                                C.</hi>
+                                </p>
+                                        </body>
+        </text>
+</TEI>

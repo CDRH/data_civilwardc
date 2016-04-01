@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d2e31369">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Green, W.</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+       <idno>med.d2e31369</idno>
+       <authority>Civil War Washington</authority>
+       <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor>
+       <name>Center for Digital Research in the Humanities</name>
+       <address><addrLine>319 Love Library</addrLine>
+       <addrLine>University of Nebraska–Lincoln</addrLine>
+       <addrLine>Lincoln, NE 68588-4100</addrLine>
+       <addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+    </distributor>
+    <date>2011</date>
+    <availability>
+        <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+         republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+         law, requires express written consent from the editors and advance notification of the
+         publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+ <persName xml:id="kmp">Kenneth M. Price</persName> 
+     <persName xml:id="mb">Matthew Bosley</persName>
+     <persName xml:id="mh">Minda Haas</persName>
+     <persName xml:id="kk">Kourtney Klein</persName>
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl>
+     <title level="j">The Medical and Surgical History of the War of the Rebellion. (1861-65.)</title>
+     <pubPlace>Washington, DC</pubPlace>
+     <publisher>Government Printing Office</publisher>
+     <biblScope type="part">Part 2</biblScope>
+     <biblScope type="volume">Volume 2</biblScope>
+     <date when="1876">1876</date>
+     <biblScope type="page">987</biblScope>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+       <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+      <keywords scheme="#medsurg">
+       <term>wounds and injuries of the upper extremities</term>
+       <term>wounds and operations in the forearm</term> 
+       <term>shot wounds of the forearm</term>
+       <term>amputations in the continuity of the forearm for shot injury</term> 
+       <term>secondary amputations in the forearm for shot injury</term>
+       <term>recoveries after secondary amputations in the forearm</term>
+       <term>wounded in forearm</term> 
+       <term>ball entered arm anteriorly on radial aspect above radio-carpal articulation, escaped posteriorly at ulnar aspect, fracturing radius and ulna</term>
+       <term>comminuted oblique fracture of radius an inch from articulation of carpus</term>
+       <term>transverse fracture of the ulna</term>
+       <term>radius driven into interosseous space, injured posterior interosseous artery, h&#230;morrhage proceeded</term>
+       <term>necrosis of fractured parts</term> 
+       <term>forearm amputated at middle third for secondary h&#230;morrhage</term>       
+       <term>secondary h&#230;morrhage presumed from radial artery</term>    
+     </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+ <change who="#kmp" when="2014-05">blessed</change>
+   <change who="#kk" when="2014-01-17">added figure encoding</change>
+   <change who="#mb" when="2012-07-20">additional proofing of transcription and encoding, identified keyword terms</change>
+   <change who="#mh" when="2011-02-23">checked OCR; added minimal mark-up for personal names, place names, and dates</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>  
+   <p><hi rend="initialcap">C</hi>ASE 1929.&#8212;<name type="person" key="xxx">Private W. Green</name>, <name type="organization" key="xx">Co. C, 35th Massachusetts</name>, aged 23 years, was wounded in the right forearm, at <name type="BATTLE" key="33">Antietam</name>, <date type="injury" when="1862-09-17">September 17, 1862</date>, and admitted to <name type="hospital" key="82">Capitol Hospital</name>, Washington, <date type="admit" when="1862-09-23">six days afterward</date>.  <name type="person" key="xxx">Assistant Surgeon E. DeW. Breneman</name>, <name type="organization" key="190">U. S. A.</name>, contributed the specimen (<hi rend="initialcap">F</hi>IG. 715), and reported the following history: "The ball entered the arm anteriorly one inch above the radio-carpal articulation, on radial aspect, fracturing that bone, and escaped posteriorly at the ulnar aspect, fracturing that bone also. The patient was admitted to <name type="hospital" key="xxx">Satterlee Hospital</name>, <date type="transfer" when="1862-10-12">October 12th</date>, his arm in pasteboard splints. It was greatly tumefied and he was in intense pain. Placed the limb upon a straight splint, well padded, and had cold water constantly applied.  On the evening of <date type="injury" when="1862-10-19">October 19th</date>, secondary h&#230;morrhage supervened, presumed to be from the radial artery; the forearm was amputated by <name type="person" key="xxx">Acting Assistant Surgeon N. P. Hickman</name>, by the circular method, at the middle third, by the advice of <name type="person" key="294">Assistant Surgeon J. S. Billings</name>, <name type="organization" key="190">U. S. A.</name>  I made an examination of the amputated portion and found a comminuted oblique fracture of the radius, commencing an inch from the articulation of the carpus; also a transverse fracture of the ulna, with the formation of a capsular ligament, thus producing a false joint; and a detached portion of the radius driven into the interosseous space and injuring the posterior interosseous artery, from which the h&#230;morrhage proceeded. Considerable callus was thrown out between the injured portions of each bone posteriorly, and at this part of the radius nature also made an attempt to form a capsular ligament. The radio-carpal articulation was uninjured."  This patient was transferred to the care of <name type="person" key="xxx">Assistant Surgeon A. H. Smith</name>, <name type="organization" key="190">U. S. A.</name>, who reports, <date type="injury" when="1862-10-23">October 23rd</date>, that "he had removed pieces of bone occasionally, and that the wound was nearly healed."  The patient was discharged <date type="servicedischarge" when="1863-01-17">January 17, 1863</date>, pensioned, and was paid <date type="pension" when="1875-09-04">September 4, 1875</date>.  The specimen (<hi rend="initialcap">F</hi>IG. 715) shows the lower halves of the bones of the forearm, with necrosis of the fractured parts and slight osseous deposits above the lines of necrosis.</p>
+   
+   <figure>
+    <graphic url="cww.001744.001" />
+    <head><hi rend="initialcap">F</hi>IG. 715.&#8212;Necrosed bones of forearm after secondary amputation.    <hi rend="italic">Spec</hi>. 880.</head>
+   </figure> 
+   
+  </body>
+ </text>
+</TEI>

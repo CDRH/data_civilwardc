@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e5026">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Gold, George</title>
+                <title level="m" type="sub">a machine readable transcription</title>
+                <principal>Susan C. Lawrence</principal>
+                <principal>Kenneth M. Price</principal>
+                <principal>Kenneth J. Winkle</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2011</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <idno>med.d1e5026</idno>
+                <authority>Civil War Washington</authority>
+                <publisher>University of Nebraska–Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+                </distributor>
+                <date>2011</date>
+                <availability>
+                    <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved.
+                        Redistribution or republication in any medium, except as allowed under the
+                        Fair Use provisions of U.S. copyright law, requires express written consent
+                        from the editors and advance notification of the publisher, the University
+                        of Nebraska–Lincoln.</p>
+                </availability>
+            </publicationStmt>
+            <notesStmt>
+                <note type="project">The following are responsible for particular readings or for changes to this file, as noted: 
+                    <persName xml:id="mb">Matthew Bosley</persName>
+                    <persName xml:id="el">Elizabeth Lorang</persName>
+                    <persName xml:id="sb">Stacey Berry</persName>
+                    <persName xml:id="et">Elisabeth Tracey</persName>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>The Medical and Surgical History of the War of the Rebellion. (1861&#8211;65.)</title>
+                    <editor role="compiler">Surgeon General Joseph K. Barnes, United States Army</editor>
+                    <pubPlace>Washington, D.C.</pubPlace>
+                    <publisher>Government Printing Office</publisher>
+                    <biblScope type="part">Part 1</biblScope>
+                    <biblScope type="volume">Volume 2</biblScope>
+                    <date when="1870">1870</date>
+                    <biblScope type="page">84</biblScope>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <classDecl>
+                <taxonomy xml:id="medsurg">
+                    <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme="#medsurg">
+                    <term>on special wounds and injuries of the head</term>
+                    <term>wounds and injuries of the head</term>
+                    <term>gunshot wounds</term>
+                    <term>gunshot wounds of the scalp</term> 
+                    <term>py&#230;mia, pyemia</term>
+                    <term>secondary hemorrhage from wounds of scalp</term>
+                    <term>successfully treated by ligating wounded vessel</term>
+                    <term>fatal termination</term>
+                    <term>musket ball struck scalp, passed backwards, lay bare skull and denuded pericranium</term>
+                    <term>in middle of wound space sagittal suture passed and met coronal suture at anterior border</term>
+                    <term>left chest pain resembling pleurisy</term>  
+                    <term>dullness on percussion over right lung</term>
+                    <term>yellow serum in left pleura, none in right</term>
+                    <term>lower lobe of left lung in gray hepatization</term>
+                    <term>upper lobe of left lung and lower lobe of right lung in red hepatization</term>
+                    <term>circumscribed deposits of pus in both lungs</term>
+                    <term>pus along coronal and sagittal sutures, dissecting scalp from bone</term>
+                    <term>pus between bone and dura mater</term>                 
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change who="#mb" when="2013-05-24">additional proofing of transcription and encoding, edited and added keyword terms</change>
+            <change who="#mb" when="2011-10-07">additional proofing of transcription and encoding</change>
+            <change who="#mb" when="2011-06-09">additional proofing of transcription and encoding</change>            
+            <change who="#el" when="2011-11-05">case text extracted and transformed from larger file</change>
+            <change who="#sb" when="2011-02-09">enriched encoding</change>
+            <change who="#sb" when="2011-01-28">validated file</change>
+            <change who="#et" when="2009-08-01">encoded</change>
+            <change who="#sb" when="2008-09-22">initial checking of OCR text against PDF; encoded</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body xml:id="ch1.sc3.0034">            
+                <p><hi rend="initialcap">C</hi>ASE.&#8212;<name type="person" key="335">Private
+                        George Gold</name>, <name type="organization" key="148">Co. I, 155th
+                        Pennsylvania Volunteers</name>, aged 23 years, was admitted to <name
+                        type="hospital" key="173">Harewood Hospital</name> on <date type="admit"
+                        when="1864-10-07">October 7th, 1864</date>. He had been wounded at <name type="battle" key="xx">Poplar
+                            Grove Church</name>, on <date type="injury" when="1864-09-30">September 30th</date>, by
+                    a musket ball, which struck the scalp, passing from before backwards, tearing up
+                    a portion about three inches in length by one inch in breadth, laying bare the
+                    skull and denuding it of its pericranium for the space of three inches in length
+                    and one inch in breadth, through the middle of which space the sagittal suture
+                    passed, meeting the coronal at the anterior border.  The patient was carefully
+                    watched for symptoms indicative of cerebral or meningeal inflammation; but none
+                    were manifested up to the moment of his death, unless a slight drowsiness,
+                    which, at the time, was attributed to the administration of eight grains of
+                    Dover's powder, might be so regarded.  He was up and about the ward, complaining
+                    of nothing except the wound in the scalp, and receiving no treatment, except
+                    simple dressings, until the morning of October 18th, when he spoke of a slight
+                    pain in the left side of the chest, over the lower lobe of the lung. There was
+                    some dullness on percussion over the part complained of, but no marked physical
+                    signs of inflammatory mischief.  On October 19th, the patient was worse. The pain
+                    in the left chest was more severe, resembling that of pleurisy; the pulse was
+                    full and frequent; the tongue brown and rather dry; there was very little cough,
+                    and no expectoration. On percussion, the right side was very dull over the lower
+                    lobe, less so over the upper lobe. The respiratory murmurs were nearly if not
+                    quite normal, over the whole of the right lung. Examination by auscultation
+                    unsatisfactory, on account of the turbulent action of the heart and the catching
+                    character of the respiration. There was no cephalic or nervous symptoms.  On
+                    October 20th, the patient appeared more comfortable in the early part of the
+                    day, the respiration less labored, and pulse more quiet, and tongue more moist;
+                    towards the latter part of the day, however, the symptoms increased in severity.
+                    Great dullness over whole of left side of chest was noticed, and greatly
+                    diminished resonance on the right side. The vesicular murmur was heard over a
+                    small portion of the superior lobe of the left lung only. Moist friction sounds
+                    over nearly the whole of the left lung could be heard, together with bronchial
+                    respiration, and, at some circumscribed parts, a very coarse crepitation. On the
+                    right side the vesicular murmur was rather faint, and greatly obscured by
+                    bronchial respiration.  On October 21st, there was less pain and
+                    dyspn&#339;a, very little cough, with a soft infrequent pulse, pale
+                    countenance, and increasing dullness on percussion over the right side. Towards
+                    the latter part of the day there was less drowsiness.  The patient died at
+                    half-past eight o'clock, on <date type="death" when="1864-10-22">October 22d, 1864</date>. He was perfectly sensible and rational within ten minutes of
+                    his death.   A <hi rend="italic">post mortem</hi> examination was made <date type="autopsy" when="1864-10-22">three hours
+                    afterwards</date>. Cadaveric rigidity was strongly marked; the skin of the chest and
+                    face was of a deeply jaundiced hue. On making an opening into the chest, about
+                    twenty ounces of yellow serum was found in the left pleura, none in the right.
+                    The pleural cavities of both sides, but particularly the left, were covered to a
+                    considerable extent with coagulable lymph of considerable firmness. The left
+                    costal and pulmonary pleural were bound strongly together by broad, thick bands,
+                    the result of some former disease. There were also a few much less firm
+                    attachments on the right side. The lower lobe of the left lung was in a state of
+                    gray hepatization, the upper lobe in that of red hepatization, and in both, at
+                    various points, were found circumscribed deposits of pus, containing from
+                    one-half a drachm to a drachm each. The lower lobe of the right lung was in a
+                    state of red hepatization, and the middle and upper lobes were greatly
+                    congested. In the lower lobe were found two or three purulent deposits, which
+                    appeared to form centres of inflammation, or metastatic foci. The wound along
+                    the scalp appeared as during life. Pus was found along the coronal and sagittal
+                    sutures, throughout the whole extent, dissecting the scalp from the bone, to the
+                    breadth of one inch. The skull was roughened, and deprived of pericranium to
+                    that extent. The portion of the wound which had been originally denuded had
+                    begun to exfoliate, a line of separation being visible around it. On removing
+                    the calvaria, a thin layer of pus was found between the bone and dura mater,
+                    extending along the sagittal and coronal sutures to the same extent as on the
+                    external surface, the amount of pus within the skull being less than one drachm.
+                    There was a narrow strip of the dura mater each side of these sutures which was
+                    inflamed; at other parts this membrane was healthy. The arachnoid and pia mater
+                    were perfectly normal. The brain and its ventricles, the cerebellum, medulla
+                    oblongata, and roots of all the cerebral nerves, were carefully examined, and no
+                    lesions were discovered. The heart and its valves, the vena cava and azygos, the
+                    pulmonary veins and arteries, the jugulars, and the blood-vessels of the brain,
+                    were in a normal condition. The liver was apparently healthy.   <name
+                        type="person" key="336">Acting Assistant Surgeon Cobb</name> recorded the
+                    case. </p>            
+        </body>
+    </text>
+</TEI>

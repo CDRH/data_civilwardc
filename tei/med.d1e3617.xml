@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e3617">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">R&#8212;&#8212;, John</title>
+                <title level="m" type="sub">a machine readable transcription</title>
+                <principal>Susan C. Lawrence</principal>
+                <principal>Kenneth M. Price</principal>
+                <principal>Kenneth J. Winkle</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2011</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <idno>med.d1e3617</idno>
+                <authority>Civil War Washington</authority>
+                <publisher>University of Nebraska–Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+                </distributor>
+                <date>2011</date>
+                <availability>
+                    <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved.
+                        Redistribution or republication in any medium, except as allowed under the
+                        Fair Use provisions of U.S. copyright law, requires express written consent
+                        from the editors and advance notification of the publisher, the University
+                        of Nebraska–Lincoln.</p>
+                </availability>
+            </publicationStmt>
+            <notesStmt>
+                <note type="project">The following are responsible for particular readings or for
+                    changes to this file, as noted: 
+ <persName xml:id="kw">Kenneth Winkle</persName> 
+                    <persName xml:id="ajh">AJ Howell</persName>
+                    <persName xml:id="mb">Matthew Bosley</persName>
+                    <persName xml:id="el">Elizabeth Lorang</persName>
+                    <persName xml:id="sb">Stacey Berry</persName>
+                    <persName xml:id="et">Elisabeth Tracey</persName>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>The Medical and Surgical History of the War of the Rebellion.
+                        (1861&#8211;65.)</title>
+                    <editor role="compiler">Surgeon General Joseph K. Barnes, United States
+                        Army</editor>
+                    <pubPlace>Washington, D.C.</pubPlace>
+                    <publisher>Government Printing Office</publisher>
+                    <biblScope type="part">Part 1</biblScope>
+                    <biblScope type="volume">Volume 2</biblScope>
+                    <date when="1870">1870</date>
+                    <biblScope type="page">59</biblScope>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <classDecl>
+                <taxonomy xml:id="medsurg">
+                    <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme="#medsurg">
+                    <term>on special wounds and injuries of the head</term>
+                    <term>wounds and injuries of the head</term>
+                    <term>miscellaneous injuries of the head</term>
+                    <term>trephining</term>
+                    <term>depression of parietal bone, depressed fragment of vitreous plate</term>
+                    <term>general anesthetic, ether</term>
+                    <term>wounded in street affray</term>
+                    <term>wounds of head from thrown stones</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+ <change who="#kw" when="2014-05">blessed</change>
+            <change who="#ajh" when="2013-08-09">added figure encoding</change>
+            <change who="#mb" when="2013-05-17">additional proofing of transcription and encoding,
+                edited and added keyword terms</change>
+            <change who="#mb" when="2011-10-10">additional proofing of transcription and
+                encoding</change>
+            <change who="#mb" when="2011-06-07">additional proofing of transcription and
+                encoding</change>
+            <change who="#el" when="2011-11-05">case text extracted and transformed from larger
+                file</change>
+            <change who="#sb" when="2011-02-09">enriched encoding</change>
+            <change who="#sb" when="2011-01-28">validated file</change>
+            <change who="#et" when="2009-08-01">encoded</change>
+            <change who="#sb" when="2008-09-22">initial checking of OCR text against PDF;
+                encoded</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body xml:id="ch1.sc2.0025">
+            <p><hi rend="initialcap">C</hi>ASE.&#8212;<name type="person" key="222">Private John
+                    R&#8212;&#8212;</name>, <name type="organization" key="162">Co. H, 2d Michigan
+                    Volunteers</name>, aged 41 years, was wounded on <date type="injury"
+                    when="1865-07-17">July 17th, 1865</date>, in a street affray, receiving four
+                wounds of the head from stones thrown at him. He was admitted to <name
+                    type="hospital" key="171">Armory Square Hospital</name>, Washington, D. C., on
+                    <date type="admit" when="1865-07-18">the following day</date>. He was perfectly
+                conscious, yet had marked contraction of the pupils, with accelerated pulse, and a
+                tremulous voice. There was considerable ecchymosis about the orbits. The first wound
+                examined was over the frontal eminence, and penetrated no further than the
+                aponeurosis of the occipito-frontalis muscle. The second was in the centre of the
+                coronal suture, and slightly denuded the pericranium. The third was in the right
+                temporal region, and likewise was a scalp wound. The fourth was on the right
+                parietal eminence; and, upon a close examination, it was discovered that a minute
+                depression of the bone, half an inch in diameter, existed, evidently produced by a
+                blow from the sharp edge of the stone. The patient was a stout, muscular man, in
+                good health; he suffered no nausea, and little pain. He was <date type="operation"
+                    when="1865-07-18">immediately</date> placed under the influence of ether, and
+                    <name type="person" key="123">Surgeon D.W. Bliss</name>, <name
+                    type="organization" key="132">U. S. V.</name>, after shaving the scalp, made a
+                crucial incision three inches in length, having the wound at the intersection of the
+                incisions, and then, reflecting the flaps, applied the crown of a trephine and
+                removed a disk of bone, which was found to include, with remarkable exactness, a
+                depressed fragment of the vitreous plate. Between the diploe and depressed lamina
+                there was a coagulum. The dura mater was uninjured. The wound was partly closed by
+                four sutures, an opening being left over the perforation, into which a pledget of
+                charpie was inserted. The patient recovered favorably from the an&#230;sthetic, and
+                was put to bed and ordered to observe perfect quiet and strict diet. The case
+                proceeded without an unfavorable symptom. On July 23d, the sutures were removed. On
+                    <date when="1865-07-24">July 24th</date>, the compress of charpie was taken
+                away, and a healthy granulating surface appeared beneath. These facts in regard to
+                the case were reported by <name type="person" key="290">Assistant Surgeon Charles A.
+                    Leale</name>, <name type="organization" key="132">U. S. V.</name> The
+                pathological specimen was presented to the <name type="hospital" key="431">Army
+                    Medical Museum</name> by the operator, and is represented in Photograph No. 87
+                of the Surgical Section of the <name type="hospital" key="431">Army Medical
+                    Museum</name>, and in the accompanying wood-cut, (<hi rend="initialcap"
+                >F</hi>IG. 24.) The disk is seven-eighths of an inch in diameter, and is slightly
+                reduced in the illustration. On <date type="transfer" when="1865-08-24">August 24th,
+                    1865</date>, the patient was transferred to Harper Hospital at <name
+                    type="place">Detroit, Michigan</name>. The case continued to progress favorably,
+                and the man recovered without a bad symptom. He was discharged from service on <date
+                    type="servicedischarge" when="1865-09-08">September 8th, 1865</date>. </p>
+            <figure>
+                <graphic url="cww.001361.001"/>
+                <head><hi rend="initialcap">F</hi>IG. 24.&#8212;External and internal views of a button of
+                bone removed for a depressed fracture by a blow from a stone.&#8212;<hi
+                    rend="italic">Spec</hi>. 1452, Sect. I, A. M. M.</head></figure>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d2e31325">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Lamareaux, A.</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+       <idno>med.d2e31325</idno>
+       <authority>Civil War Washington</authority>
+       <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor>
+       <name>Center for Digital Research in the Humanities</name>
+       <address><addrLine>319 Love Library</addrLine>
+       <addrLine>University of Nebraska–Lincoln</addrLine>
+       <addrLine>Lincoln, NE 68588-4100</addrLine>
+       <addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+    </distributor>
+    <date>2011</date>
+    <availability>
+        <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+         republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+         law, requires express written consent from the editors and advance notification of the
+         publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+ <persName xml:id="kmp">Kenneth M. Price</persName> 
+     <persName xml:id="mb">Matthew Bosley</persName>
+     <persName xml:id="nb">Nate Bernth</persName>
+     <persName xml:id="kk">Kourtney Klein</persName>
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl>
+     <title level="j">The Medical and Surgical History of the War of the Rebellion. (1861-65.)</title>
+     <pubPlace>Washington, DC</pubPlace>
+     <publisher>Government Printing Office</publisher>
+     <biblScope type="part">Part 2</biblScope>
+     <biblScope type="volume">Volume 2</biblScope>
+     <date when="1876">1876</date>
+     <biblScope type="page">931</biblScope>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+       <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+      <keywords scheme="#medsurg">
+       <term>wounds and injuries of the upper extremities</term>
+       <term>wounds and operations in the forearm</term>
+       <term>shot wounds of the forearm</term> 
+       <term>shot fractures of the forearm</term>
+       <term>shot fractures of the forearm treated by expectation</term> 
+       <term>fractures of the radius treated by expectation</term>
+       <term>fatal cases of shot fracture of the radius treated by expectation</term>
+       <term>gunshot wound of arm</term> 
+       <term>gunshot fracture of radius</term>
+       <term>ball entered forearm from behind, fractured radius near head, lodged in arm above elbow joint</term>
+       <term>profuse h&#230;morrhage at injury</term>
+       <term>secondary h&#230;morrhage, multiple</term>
+       <term>brachial artery ligated in continuity</term>
+       <term>radius fractured just below head</term>
+       <term>radial artery severed by bullet</term>
+       <term>incipient pneumonia</term>            
+     </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+ <change who="#kmp" when="2014-05">blessed</change>
+   <change who="#kk" when="2014-01-17">added figure encoding</change>
+   <change who="#mb" when="2012-07-17">additional proofing of transcription and encoding, identified keyword terms</change>
+   <change who="#nb" when="2011-02-22">checked OCR; added minimal mark-up for personal names, place names, and dates</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>   
+   <p><hi rend="initialcap">C</hi>ASE 1883.&#8212;<name type="person" key="xxx">Corporal A. Lamareaux</name>, <name type="organization" key="xxx">Co. E, 124th New York</name>, aged 20 years, was wounded near <name type="BATTLE" key="79">Hatcher's Run</name>, <date type="injury" when="1865-04-01">April 1, 1865</date>, and admitted to the field hospital of the 3d division, Second Corps, where <name type="person" key="xxx">Surgeon O. Everts</name>, <name type="organization" key="xxx">20th Indiana</name>, recorded: &#34;Gunshot wound of left arm.&#34;  On <date type="transfer" when="1865-04-05">April 5th</date>, the man entered <name type="hospital" key="162">Douglas Hospital</name>, Washington, whence <name type="person" key="201">Assistant Surgeon W. F. Norris</name>, <name type="organization" key="190">U. S. A.</name>, contributed the specimen (<hi rend="initialcap">F</hi>IG. 673), together with the following description of the injury and operations which he performed: &#34;Gunshot fracture of left radius. The ball was found to have entered the forearm from behind, fracturing the radius near its head, and lodging above the elbow joint in the arm. When admitted, the general condition of the patient was unfavorable, being feverish and without appetite; pulse 110. He stated that there was profuse h&#230;morrhage at the time of the injury. The parts were not healthy looking, the arm somewhat swollen and hot, and the hand &#339;dematous.  On <date type="operation" when="1865-04-06">April 6th</date> the bullet was extracted, two counter-openings being made. On April 9th, secondary h&#230;morrhage occurred to the amount of six ounces, which ceased spontaneously. Another h&#230;morrhage occurred on the 13th, and two attacks took place on the 14th, the last two being very slight, The parts were still much swollen and painful, discharge profuse, tongue dry, and countenance pale. Patient has considerable pain in chest, and dyspn&#339;a, but no cough, and is rapidly losing strength.  On <date type="operation" when="1865-04-15">April 15th</date> there was h&#230;morrhage, amounting to three ounces, at 8 A. M., which ceased upon slight compression of the brachial, but recurred at 12 M. to the amount of eight ounces, when the brachial artery was ligated in its continuity. The areolar tissue was found filled with clots of blood. The patient was almost moribund, and the operation was only a temporary measure, and was performed to render the patient comfortable, without expectation of saving life.  He died of exhaustion, at 2 A. M. the following day, <date type="death" when="1865-04-16">April 16, 1865</date>.  The autopsy, <date type="autopsy" when="1865-04-16">twelve hours after death</date>, showed that the radius had been fractured just below the head, also that the radial artery had been severed by the bullet, and that the elbow joint had become secondarily involved. Incipient pneumonia existed in the posterior lobes of both lungs. The other organs were healthy. The specimen consists of the upper halves of the bones of the forearm.&#34;</p>  
+   
+   <figure>
+    <graphic url="cww.001731.001" />
+    <head><hi rend="initialcap">F</hi>IG. 673.&#8212;Shot fracture of radius.     <hi rend="italic">Spec</hi>. 4186.</head>
+   </figure> 
+   
+  </body>
+ </text>
+</TEI>
+ 

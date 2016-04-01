@@ -1,0 +1,579 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="cww.00116">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Petition of Sarah Davis, 9 May 1862</title>
+                <title level="m" type="sub">a machine readable transcription</title>
+                <principal>Susan C. Lawrence</principal>
+                <principal>Kenneth M. Price</principal>
+                <principal>Kenneth J. Winkle</principal>
+                <respStmt>
+                    <resp>transcription and encoding</resp>
+                    <name xml:id="kjw">Kenneth J. Winkle</name>
+                    <name xml:id="jc">Janel Cayer</name>
+                    <name xml:id="rv">Robert Voss</name>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2013</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <idno>cww.00116</idno>
+                <distributor>Civil War Washington</distributor>
+                <publisher>University of Nebraska–Lincoln</publisher>
+                <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>P.O. Box 884100</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+            </address>
+                <date>2013</date>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+                        <p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike
+                            3.0 Unported License
+                            (http://creativecommons.org/licenses/by-nc-sa/3.0/). Derivatives must be
+                            credited to Civil War Washington, made available non-commercially, and
+                            distributed under the same terms. Requests for permission for commercial
+                            publication or other use should be emailed to the project team.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Petition of Sarah Davis, 9 May 1862</title>
+                    <date when="1862-05-09">May 9, 1862</date>
+                    <idno>Microcopy 520, Reel 2</idno>
+                    <orgName>National Archives and Records Administration</orgName>
+                    <relatedItem type="original">
+                        <bibl>
+                            <title>Petition of Sarah Davis, 9 May 1862</title>
+                            <date when="1862-05-09">May 9, 1862</date>
+                            <idno>Record Group 217.6.5</idno>
+                            <orgName>Records of the Accounting Officers of the Department of the
+                                Treasury, 1775–1978, National Archives and Records
+                                Administration</orgName>
+                            <note type="project">Within the National Archives' Archival Description
+                                Catalog, see ARC Identifier 4644616 / MLR Number A1 347
+                                (http://arcweb.archives.gov).</note>
+                        </bibl>
+                    </relatedItem>
+                    <note type="project">Our transcription is based on a digital image of a
+                        microfilm copy of the original.</note>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <particDesc>
+                <person role="petitioner">
+                    <persName>Sarah Davis</persName>
+                </person>
+                <person role="jp">
+                    <persName>James Cull</persName>
+                </person>
+            </particDesc>
+        </profileDesc>
+        <revisionDesc>
+            <change when="2013-03-21" who="#jc">blessed</change>
+            <change when="2013-03-19" who="#kjw">blessed</change>
+            <change when="2013-01-08" who="#jc">changed "abbr" to "sic" at line 119</change>
+            <change when="2012-11-09" who="#jc">updated tei header; fixed values for @facs as
+                necessary; automated checking across files for extra spaces in elements and other
+                encoding inconsistencies and for regular transcription errors</change>
+            <change when="2012-10-18" who="#jc">checked</change>
+            <change when="2011-03-31" who="#rv">transcribed, encoded</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+
+            <pb xml:id="leaf001r" facs="cww.00116.001.jpg"/>
+
+            <div1 type="petition" subtype="mixed">
+                <head type="main">PETITION.</head>
+                <p rend="bold">To the Commissioners under the act of Congress approved the <date
+                        when="1862-04-16">16th of April, 1862</date>, entitled "An act for the
+                    release of certain persons held to service or labor in the District of
+                    Columbia."</p>
+
+                <p>Your Petitioner, <seg type="handwritten">Mrs. <persName>Sarah Davis</persName>
+                    </seg> of <seg type="handwritten">
+                        <placeName>Washington City D.C.</placeName>
+                    </seg> by this <seg type="handwritten">her</seg> petition in writing, represents
+                    and states, that <seg type="handwritten">she</seg> is a person loyal to the
+                    United States, who, at the time of the passage of the said act of Congress, held
+                    a claim to service or labor against <seg type="handwritten">
+                        <persName>Hannah West</persName> and her two sons <persName>Aleck</persName>
+                        &#38; <persName>Hampton</persName>. <persName>Julia</persName> and her two
+                        children named one <persName>Annie</persName> &#38; the other a
+                        male&#8212;also <persName>Susan Joyce</persName>&#8212;all being</seg>
+                        person<seg type="handwritten">s</seg> of African descent of the name<seg
+                        type="handwritten">s</seg> of <seg type="handwritten">as above
+                        mentioned</seg> for and during the life of said <seg type="handwritten">
+                        <persName>Sarah Davis</persName>, her heirs, executors, &#38;c.</seg> and
+                    that by said act of Congress <seg type="handwritten">of</seg> said <seg
+                        type="handwritten">
+                        <date when="1862-04-16">16 of April 1862</date> the above mentioned negroes
+                        were</seg> discharged and freed of and from all claim of your petitioner to
+                    such service or labor; that at the time of said discharge said <seg
+                        type="handwritten">negroes were</seg>
+                    <del>of the age<seg type="handwritten">s</seg> of</del>
+                    <space atLeast="1"/> and of the personal description following:<note
+                        type="government" place="foot" xml:id="n1">Here describe the person, so as
+                        to identify him or her; and if there be more than one slave, describe each
+                        one separately.</note>
+                    <list type="handwritten">
+                        <item>
+                            <persName>Hannah West</persName> about 55 years
+                            female&#8212;black</item>
+                        <item>
+                            <persName>Aleck</persName> son of above aged 28 or 30 male bright
+                            mulatto</item>
+                        <item>
+                            <persName>Toby</persName> alias <persName>Hampton</persName>
+                            do&#8212;25&#8212;Do Do&#8212;Do</item>
+                        <item>
+                            <persName>Julia</persName>
+                            <choice>
+                                <sic>neice</sic>
+                                <corr>niece</corr>
+                            </choice> of <persName>Hannah</persName> about 30&#8212;female
+                            black&#8212;</item>
+                        <item>
+                            <persName>Annie</persName> Child of <persName>Julia</persName> about 8
+                            or 9 female Mulatto bright</item>
+                        <item> child of <persName>Julia</persName> aged one year male
+                            Black&#8212;</item>
+                        <item>
+                            <persName>Susan Joyce</persName> aged about 30 year female &#38;
+                            Black&#8212;</item>
+                    </list>
+                </p>
+
+                <pb xml:id="leaf001v" facs="cww.00116.002.jpg"/>
+
+                <p>That your petitioner acquired <seg type="handwritten">her</seg> claim to the
+                    aforesaid service or labor of said <seg type="handwritten">seven negroes</seg>
+                    in manner following:<note type="government" place="foot" xml:id="n2">Here state
+                        how the claim was acquired, when, from whom, and for what price or
+                        consideration; and, if held under any written evidence of title, make
+                        exhibit thereof, or refer to the public record where the same may be
+                        found.</note>
+                    <seg type="handwritten">to <persName>Hannah</persName> and her children
+                            <persName>Aleck</persName> and <persName>Toby</persName> or
+                            <persName>Hampton</persName> by and in virtue of a deed of gift from my
+                        mother Mrs <persName>Sarah Walker</persName> dated the <date
+                            when="1808-11-12">12th of Nov 1808</date>&#8212;and herein enclosed
+                        marked A. to <persName>Susan Joyce</persName> by purchase from
+                            <persName>Ellen Wilcoxen</persName> the bill of sale herein also
+                        presented and marked B. dated on the <date when="1842-10-19">19th of Oct one
+                            thousand eight hundred and forty two</date> and to
+                            <persName>Julia</persName> and her child called
+                            <persName>Annie</persName> or <persName>Amelia</persName> by purchase
+                        from my sister in law Mrs. <persName>Lucy B. Walker</persName> in pay of a
+                        debt due from my <choice>
+                            <abbr>dec'd</abbr>
+                            <expan>deceased</expan>
+                        </choice> brother <persName>Zacharias Walker</persName> marked C and herein
+                        enclosed.</seg>
+                </p>
+
+                <p>That your petitioner's claim to the service or labor of said <seg
+                        type="handwritten">seven negroes</seg> was, at the time of said discharge
+                    therefrom, of the value of <seg type="handwritten">many</seg> dollars in
+                        money.<note type="government" place="foot" xml:id="n3">Here state such
+                        facts, if any there be, touching the value of the petitioner's claim to the
+                        service or labor of the person, as may enhance the same, and also such
+                        facts, if any, touching the moral, mental, and bodily infirmities or defects
+                        of said person, as impair the value of the petitioner's claim to such
+                        service or labor, and conclude such statement with an averment that the
+                        petitioner knows of no other infirmities or defects of said person which
+                        impair the value of petitioner's claim to such service or labor, and that he
+                        believes none other to exist. If the petitioner specify no such infirmity or
+                        defect, then his statement touching the value of his claim should conclude
+                        with an averment that he has no knowledge of any such infirmity or
+                        defect.</note>
+                    <seg type="handwritten">the amount whereof she cannot calculate as she raised
+                        them also and never estimated the value in money but will state&#8212;that
+                        no money could have bought <persName>Hannah</persName> or her
+                        children&#8212;she <persName>Hannah</persName> has been of no service for a
+                        year being very heavy having a sore leg and gouty&#8212;for
+                            <persName>Aleck</persName>, my son was offered eighteen hundred dollars
+                        by <choice>
+                            <abbr>Col</abbr>
+                            <expan>Colonel</expan>
+                        </choice>. <persName>Singleton</persName> of <placeName>Miss</placeName> and
+                            refused&#8212;<persName>Aleck</persName> is a very valuable house <choice>
+                            <abbr>servt</abbr>
+                            <expan>servant</expan>
+                        </choice> and cook&#8212;I consider <persName>Toby</persName> more valuable
+                        than his brother <persName>Julia</persName> is <choice>
+                            <sic>neice</sic>
+                            <corr>niece</corr>
+                        </choice> to <persName>Hannah</persName> in the prime of life and
+                        health&#8212;and is an elegant cook, washer and
+                            ironer&#8212;<persName>Susan</persName> I bought to keep her from being
+                        sold away from her family as her mistress Mrs. <persName>Wilcoxen</persName>
+                        was in indigent circumstances and obliged to part from her</seg>
+                </p>
+
+                <p>Your petitioner hereby declares that <seg type="handwritten">she</seg> bears true
+                    and faithful allegiance to the Government of the United States, and that <seg
+                        type="handwritten">she or any of her family</seg> has not borne arms against
+                    the United States in the present rebellion, nor in any way given aid or comfort
+                    thereto.</p>
+
+                <p>And your petitioner further states and alleges, that <seg type="handwritten"
+                        >she</seg> has not brought said <seg type="handwritten">seven negroes </seg>
+                    into the <placeName>District of Columbia</placeName> since the passage of said
+                    act of Congress; and that, at the time of the passage thereof, said <seg
+                        type="handwritten">seven negroes were</seg>
+                    <del>was</del> held to service or labor therein under and by virtue of your
+                    petitioner's claim to such service or labor.</p>
+
+                <p>Your petitioner further states and alleges, that <seg type="handwritten"
+                        >the</seg> said claim<seg type="handwritten">s</seg> to the service or labor
+                    of said <seg type="handwritten"> seven negroes</seg> do not originate in or by
+                    virtue of any transfer heretofore made by any person who has in any manner aided
+                    or sustained the present rebellion against the Government of the United
+                    States.</p>
+
+                <p>And your petitioner prays the said Commissioners to investigate and determine the
+                    validity of <seg type="handwritten">the</seg> said claim to the service or labor
+                    of said <seg type="handwritten">negroes</seg> herein above set forth; and if the
+                    same be found to be valid, that they appraise and apportion the value of said
+                    claim in money, and report the same to the Secretary of the Treasury of the
+                    United States, in conformity to the provisions of said act of Congress.</p>
+
+                <closer> (Signed by) <signed>
+                        <seg type="handwritten">
+                            <persName>Sarah Davis</persName>
+                        </seg>
+                    </signed>
+                </closer>
+            </div1>
+
+            <pb xml:id="leaf002r" facs="cww.00116.003.jpg"/>
+            <div1 type="deed" subtype="handwritten">
+                <div2 type="section">
+                    <fw>A.</fw>
+                    <ab>
+                        <persName>Sarah Walker</persName>
+                        <lb/> to<lb/>
+                        <persName>Sarah Davis</persName> &#38;<lb/>
+                        <persName>John Davis</persName>
+                        <lb/> as Deed of Gift<lb/> Ok</ab>
+                    <ab>Received <date when="1810-11-20">November 20th 1810</date> to be recorded
+                        and same day was recorded in Liber Z. No 25. folio 239 240 one of the Land
+                        records of <placeName>Washington County</placeName>
+                        <placeName>District of Columbia</placeName> &#38; Examined by</ab>
+                    <closer>
+                        <signed>
+                            <persName>Wm Brent</persName>
+                            <unclear reason="illegible" cert="low" resp="#jc">
+                                <choice>
+                                    <abbr>clk</abbr>
+                                    <expan>clerk</expan>
+                                </choice>
+                            </unclear>
+                        </signed>
+                    </closer>
+                </div2>
+
+                <pb xml:id="leaf002v" facs="cww.00116.004.jpg"/>
+                <div2 type="section">
+                    <ab>
+                        <date when="1810-11-12">12th Nov 1810</date>
+                        <persName>Hannah</persName>
+                        <lb/>
+                        <persName>Alexander</persName> 16<lb/>
+                        <persName>Hampton</persName> 9 </ab>
+                </div2>
+
+                <pb xml:id="leaf003v" facs="cww.00116.005.jpg"/>
+                <div2 type="section">
+                    <p>Know all men by these presents, that I <persName>Sarah Walker</persName> of
+                        the <persName>City of Washington in the District of Columbia</persName>, in
+                        consideration of the natural love and affection, which I have and bear unto
+                        my beloved daughter <persName>Sarah Davis</persName>, and also for divers
+                        other good causes and considerations, me the said <persName>Sarah
+                            Walker</persName> hereunto moving have given, granted and confirmed, and
+                        by these presents do give, grant and confirm unto the said <persName>Sarah
+                            Davis</persName> all and singular the goods and chattels following that
+                        is to say one <choice>
+                            <sic>negroe</sic>
+                            <corr>negro</corr>
+                        </choice> by named <persName>Jerry</persName> during the natural life of her
+                        the said <persName>Sarah Davis</persName>, and after her death to her the
+                        said <persName>Sarah Davis</persName>'s children lawfully begotten by her
+                        said husband <persName>John Davis</persName> and also one <choice>
+                            <sic>negroe</sic>
+                            <corr>negro</corr>
+                        </choice> Girl named <persName>Hannah</persName> to the said <persName>Sarah
+                            Davis</persName> and her Husband <persName>John Davis</persName>
+                        aforesaid, during their natural lives, and after their death, to the
+                        children of the said <persName>Sarah Davis</persName>, lawfully begotten by
+                        her said Husband <persName>John Davis</persName>; To have hold &#38; enjoy
+                        all and singular the said goods and chattels, and personal estate aforesaid
+                        unto the said <persName>Sarah Davis</persName> and <persName>John
+                            Davis</persName> during their natural lives as aforesaid and after their
+                        death to the children of the said <persName>Sarah Davis</persName> lawfully
+                        begotten by her said husband <persName>John Davis</persName>, aforesaid,
+                        their executors, administrators and assigns, to their only proper use and
+                        behoof of the said <persName>Sarah Davis</persName> and <persName>John
+                            Davis</persName> during their natural lives and of the children of the
+                        said <persName>Sarah Davis</persName> lawfully begotten as aforesaid by her
+                        said husband <persName>John Davis</persName> their executors, administrators
+                        and assigns forever; and I <pb xml:id="leaf003r" facs="cww.00116.006.jpg"/>
+                        the said <persName>Sarah Walker</persName> all and singular the said goods,
+                        chattels and personal estate and other the premises to the said
+                            <persName>Sarah Davis</persName> and <persName>John Davis</persName> her
+                        said Husband and the children of the said <persName>Sarah Davis</persName>
+                        by her said husband <persName>John Davis</persName>, their executors,
+                        administrators and assigns, against me the said <persName>Sarah
+                            Walker</persName> my executors and administrators, and all and every
+                        other person and persons whatsoever, shall and will warrant and forever
+                        defend by these presents; of all and singular which said goods, chattels,
+                        personal estate and other the premises, I the said <persName>Sarah
+                            Walker</persName> have put the said <persName>Sarah Davis</persName> and
+                        her said husband <persName>John Davis</persName> &#38; after their death the
+                        children of the said <persName>Sarah Davis</persName> lawfully begotten as
+                        aforesaid by her said husband <persName>John Davis</persName> in full
+                        possession by delivering to them the said <persName>Sarah Davis</persName>
+                        and <persName>John Davis</persName> her husband both on their part and on
+                        the part of the children of the said <persName>Sarah Davis</persName>
+                        lawfully begotten as aforesaid by her said Husband <persName>John
+                            Davis</persName> one spoon at the time of sealing and delivering these
+                        presents, in the name of the whole premises hereby granted.</p>
+                    <p>In witness whereof I the said <persName>Sarah Walker</persName> have hereunto
+                        subscribed my name and affixed my seal this <date when="1810-11-12">12th day
+                            of November the year of our Lord one thousand eight hundred and
+                            ten</date>
+                    </p>
+                    <closer>
+                        <signed>
+                            <persName>Sarah Walker</persName> L. P</signed>
+                        <lb/> Signed sealed &#38; delivered in the presence of <signed>
+                            <persName>Saml W Smallwood</persName>
+                        </signed>
+                    </closer>
+                </div2>
+
+                <pb xml:id="leaf004v" facs="cww.00116.007.jpg"/>
+                <div2 type="section">
+                    <dateline>
+                        <placeName>District of Columbia</placeName>
+                        <lb/>
+                        <placeName>Washington County</placeName>&#8212;to wit,</dateline>
+                    <p>Be it remembered that on this <date when="1810-11-12">12th day of November in
+                            the year of our Lord one thousand eight hundred and ten</date>, before
+                        me the subscriber a Justice of the Peace in and for the county aforesaid
+                        personally appears, <persName>Sarah Walker</persName> party grantor in the
+                        within and aforegoing deed, and acknowledged the same to be her act and deed
+                        according to the true intent meaning thereof</p>
+                    <closer>Acknowledged before <signed>
+                            <persName>Saml W. Smallwood</persName>
+                        </signed>
+                    </closer>
+                </div2>
+            </div1>
+
+            <pb xml:id="leaf004r" facs="cww.00116.008.jpg"/>
+            <div1 type="billofsale" subtype="handwritten">
+                <div2 type="section">
+                    <fw>B</fw>
+                    <ab>pd 50</ab>
+                    <ab>
+                        <persName>Ellen Willcoxen</persName>
+                        <lb/> to<lb/> Sarah Davis<lb/>
+                        <choice>
+                            <abbr>B</abbr>
+                            <expan>Bill</expan>
+                        </choice> of Sale </ab>
+                    <ab>
+                        <choice>
+                            <abbr>Recd</abbr>
+                            <expan>Recived</expan>
+                        </choice>
+                        <date when="1842-10-28">28th Oct 1842</date> To be recorded &#38; the same
+                        day was recorded in Liber WB No 96 folios 488 &#38; 489 one of the Land
+                        records of <placeName>Washington County</placeName>
+                        <placeName>Dis of Columbia</placeName> &#38; examined by</ab>
+                    <closer>
+                        <signed>
+                            <persName>W Brent</persName>
+                            <choice>
+                                <abbr>Clk</abbr>
+                                <expan>Clerk</expan>
+                            </choice>
+                        </signed>
+                    </closer>
+                </div2>
+
+                <pb xml:id="leaf005v" facs="cww.00116.009.jpg"/>
+                <div2 type="section">
+                    <p>Know all men by these <choice>
+                            <sic>presants</sic>
+                            <corr>presents</corr>
+                        </choice> that I <persName>Ellen Willcoxen</persName> of the <placeName>City
+                            of Washington</placeName> in the <placeName>District of
+                            Columbia</placeName> for and in consideration of the sum of two hundred
+                        and fifty dollars <choice>
+                            <sic>currant</sic>
+                            <corr>current</corr>
+                        </choice> money to me in hand paid by <persName>Sarrah Davis</persName> of
+                        the City and District aforesaid the receipt whereof I do hereby acknowledge
+                        have granted bargained and sold and by these <choice>
+                            <sic>presants</sic>
+                            <corr>presents</corr>
+                        </choice> do grant bargain and sell unto the said <choice>
+                            <orig>Sarrah</orig>
+                            <reg>Sarah</reg>
+                        </choice> Davis my negro slave girl <persName>Susan Joyce</persName> aged
+                        about fourteen years which slave <persName>Susan Joyce</persName> I will
+                        warrant and defend to the said <persName>Sarah Davis</persName> her heirs
+                        executors administrators and assigns against me my heirs executors
+                        administrators and assigns and against all and every person or persons
+                        whomsoever&#8212;</p>
+                    <p>In witness whereof I have hereunto set my hand and seal this <date
+                            when="1842-10-19">
+                            <choice>
+                                <sic>ninteenth</sic>
+                                <corr>nineteenth</corr>
+                            </choice> day October eighteen hundred and forty two</date>.</p>
+                    <closer>
+                        <signed>her X mark <persName>Ellen Willcoxen</persName> seal</signed>
+                        <lb/> Signed sealed and delivered in the presence of <signed>
+                            <persName>James Marshall</persName>
+                        </signed>
+                        <signed>
+                            <persName>Samuel Scott</persName>
+                        </signed>
+                    </closer>
+                </div2>
+
+                <div2 type="section">
+                    <dateline>
+                        <placeName>District of Columbia</placeName>
+                        <lb/>
+                        <placeName>Washington County</placeName> to wit</dateline>
+                    <p>On this <date when="1842-10-19">19th day of October 1842</date> before the
+                        subscribed one of the Justice of the peace in and for said County personally
+                        appears <persName>Ellen Willcoxen</persName> and acknowledges the above
+                        instrument of <choice>
+                            <sic>Writeing</sic>
+                            <corr>Writing</corr>
+                        </choice> to be her act and deed for the purposes therein mentioned and for
+                        no other purpose.</p>
+                    <closer>
+                        <signed>
+                            <persName>James Marshall</persName> J. Peace.</signed>
+                    </closer>
+                </div2>
+            </div1>
+
+            <pb xml:id="leaf005r" facs="cww.00116.010.jpg"/>
+            <div1 type="billofsale" subtype="handwritten">
+                <div2 type="section">
+                    <ab>
+                        <persName>Lucy B. Walker</persName>
+                        <lb/> to<lb/>
+                        <persName>Sarah Davis</persName>
+                    </ab>
+                    <ab>Bill of Sale</ab>
+                    <ab>C.</ab>
+                </div2>
+
+                <pb xml:id="leaf006v" facs="cww.00116.011.jpg"/>
+
+                <div2 type="section">
+                    <dateline>
+                        <placeName>District of Columbia</placeName>
+                        <lb/>
+                        <placeName>Washington County</placeName> to wit:</dateline>
+                    <p>Received of Mrs. <persName>Sarah Davis</persName>, this <date
+                            when="1859-04-08">eighth day of April Eighteen hundred and fifty
+                            nine</date>, the sum of five hundred and thirty-four dollars ($534.) it
+                        being <choice>
+                            <sic>infull</sic>
+                            <corr>in full</corr>
+                        </choice> for the purchase of servant girl <persName>Julia</persName>, and
+                        her child, <persName>Amelia</persName>, and their future increase, which I
+                        warrant slaves for life, given under my hand and seal this day and year
+                        above mentioned</p>
+                    <closer>
+                        <signed>
+                            <persName>Lucy B. Walker</persName> Seal</signed>
+                        <lb/> Test: <signed>
+                            <persName>Saml Cox</persName>
+                        </signed>
+                    </closer>
+                </div2>
+            </div1>
+
+            <pb xml:id="leaf006r" facs="cww.00116.012.jpg"/>
+            <div1 type="oath" subtype="mixed">
+                <head type="main">[<hi rend="italic">Form of the Oath for the Verification of the
+                        Petition.</hi>]</head>
+
+                <dateline>
+                    <placeName>District of Columbia</placeName>,
+                    <lb/>
+                    <hi rend="italic"><placeName>Washington County</placeName>, ss.</hi>
+                </dateline>
+
+                <div2 type="section">
+                    <p>I, <seg type="handwritten">
+                            <persName>Sarah Davis</persName> of the <placeName>City of
+                                Washington</placeName>
+                        </seg> being duly sworn, do depose and say, that all the several matters and
+                        things which are set forth and stated in the foregoing petition, as of my
+                        own knowledge, are true in substance and in fact; and that all the several
+                        other matters and things therein set forth and stated, as from the
+                        information of others, I believe to be true in substance and in fact.</p>
+                    <closer> (Signed by) <signed>
+                            <seg type="handwritten">
+                                <persName>Sarah Davis</persName>
+                            </seg>
+                        </signed>
+                    </closer>
+                </div2>
+
+                <div2 type="section">
+                    <p>Sworn to and subscribed before me this <date when="1862-05-08">
+                            <seg type="handwritten">8th</seg> day of <seg type="handwritten"
+                                >May</seg> A.D. 1862</date>
+                    </p>
+                    <closer> (Signed by) <signed>
+                            <seg type="handwritten">
+                                <persName>Jas. Cull</persName> J. P. seal</seg>
+                        </signed>
+                    </closer>
+                </div2>
+            </div1>
+
+            <div1 type="cover" subtype="handwritten">
+                <note type="editorial">The following note, about the filing of the petition, has
+                    been imaged twice in the National Archives microfilm, but the note occurs in
+                    only one place in the petition: written horizontally on the final page, the Oath
+                    for the Verification.</note>
+                <ab>116<lb/> Petition of<lb/>
+                    <persName>Sarah Davis</persName>
+                    <unclear reason="illegible" cert="low" resp="#jc">of abes</unclear>
+                </ab>
+                <ab>Filed <date when="1862-05-09">May 9, 1862</date>
+                </ab>
+                <ab>
+                    <persName>Abe G. Davis</persName>
+                    <lb/>
+                    <persName>William E. Howard</persName>
+                </ab>
+            </div1>
+        </body>
+    </text>
+</TEI>

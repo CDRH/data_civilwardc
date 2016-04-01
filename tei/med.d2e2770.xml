@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d2e2770">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Rapp, D.</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+    <idno>med.d2e2770</idno>
+    <authority>Civil War Washington</authority>
+    <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor><name>Center for Digital Research in the
+     Humanities</name><address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address></distributor>
+    <date>2011</date>
+    <availability>
+     <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+      republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+      law, requires express written consent from the editors and advance notification of the
+      publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+ <persName xml:id="kw">Kenneth Winkle</persName> 
+     <persName xml:id="ajh">AJ Howell</persName>
+     <persName xml:id="mb">Matthew Bosley</persName>
+     <persName xml:id="el">Elizabeth Lorang</persName>
+     <persName xml:id="sb">Stacey Berry</persName>
+     <persName xml:id="et">Elisabeth Tracey</persName>
+     <persName xml:id="ss">Sarah Synovec</persName>
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title level="j">The Medical and Surgical History of the War of the Rebellion.
+      (1861-65.)</title><pubPlace>Washington, DC</pubPlace><publisher>Government Printing
+      Office</publisher><biblScope type="part">Part 3</biblScope><biblScope type="volume">Volume
+      2</biblScope><date when="1883">1883</date><biblScope type="page">44-46</biblScope></bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+     <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <keywords scheme="#medsurg">
+     <term>wounds and injuries of the lower extremities</term>
+     <term>flesh wounds of the lower extremities</term>
+     <term>complications of shot flesh wounds of the lower extremities</term>
+     <term>h&#230;morrhage</term>
+     <term>ligations of blood-vessels of the lower limbs after flesh wounds</term>
+     <term>ligation of the femoral artery</term>
+     <term>bullet entered posterior aspect of thigh, below gluteal fold</term>
+     <term>bullet divided both femoral artery and vein</term>
+     <term>h&#230;morrhage at injury, immediate want of sensibility in leg and foot</term>
+     <term>gunshot wound of left thigh</term>
+     <term>free communication between divided artery and vein permitted arterial blood to return by
+      vein, evinced by pulsation backward toward heart</term>
+     <term><choice>
+       <orig>aneurism</orig>
+       <reg>aneurysm</reg>
+      </choice> developed at divided proximal vessels</term>
+     <term>traumatic <choice>
+       <orig>aneurism</orig>
+       <reg>aneurysm</reg>
+      </choice></term>
+     <term>general anesthesia, ether</term>
+     <term>post-mortem examination performed</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+ <change who="#kw" when="2014-05">blessed</change>
+   <change who="#ajh" when="2013-08-21">added figure encoding</change>
+   <change who="#mb" when="2012-02-07">additional proofing of transcription and encoding</change>
+   <change who="#el" when="2011-05-11">case text extracted and transformed from larger file</change>
+   <change who="#sb" when="2011-06-04">Enrich Encoding, Edit and validate</change>
+   <change who="#sb" when="2011-01-28">Validated File</change>
+   <change who="#ss" when="2008-09-22">Sarah Synovec initial checking of OCR text; encoded P5
+    Encoding</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+
+   <p>
+    <hi rend="initialcap">C</hi>ASE 98.&#8212;<name type="person" key="916">Private D. Rapp</name>,
+     <name type="organization" key="350">Co. K, 7th Indiana</name>, aged 20 years, was wounded at
+     <name type="BATTLE" key="272">Robinson's Creek</name>, <date type="injury" when="1863-11-30"
+     >November 30, 1863</date>. He was admitted to the field hospital of the 1st division, First
+    Corps, where <name type="person" key="xx">Surgeon G. W. Metcalf</name>, <name
+     type="organization" key="368">76th New York</name>, noted: &#34;Gunshot wound of left
+    thigh.&#34; On <date type="transfer" when="1863-12-06">December 6th</date>, the wounded man was
+    transferred to <name type="hospital" key="162">Douglas Hospital</name>, Washington. <date
+     type="operation" when="1863-12-09">Three days afterwards</date> he was operated on by <name
+     type="person" key="200">Assistant Surgeon W. Thomson</name>, <name type="organization"
+     key="190">U. S. A.</name>, who furnished the following detailed report of the case: &#34;He was
+    a well developed and very muscular man and had been apparently in good health. At the moment of
+    injury he was retreating, and was struck by a bullet on the posterior aspect of the left thigh a
+    short distance below the gluteal fold, which passed through the limb to the inside of the bone,
+    divided both femoral artery and vein, and made its exit three and a half inches below Poupart's
+    ligament, at the point of election in ligating the femoral in Scarpa's space. There was profuse
+    h&#230;morrhage at the time of injury, and an immediate want of sensibility in the leg and foot.
+    When examined on the 7th of December, the whole limb was found warm and the collateral
+    circulation had been established; but there was no pulsation in either of the tibial arteries.
+    At the superior margin of the wound of exit there was a small tense swelling, which pulsated
+    synchronously with the systole of the heart. An <choice>
+     <orig>aneurismal</orig>
+     <reg>aneurysmal</reg>
+    </choice> thrill, resembling the loud purring of a cat, was distinctly felt, extending along the
+    course of the vessels into the pelvis, but not communicating laterally. The little finger was
+    introduced into the wound at the time of the operation, and the pulsation and thrill were found
+    to be closely localized and confined to the divided ends of the femoral vessels. There was no
+    extensive effusion of blood into the tissues of the thigh, and hence this was not in the strict
+    surgical sense of the word a traumatic <choice>
+     <orig>aneurism</orig>
+     <reg>aneurysm</reg>
+    </choice>. It was concluded that the sac was composed only of the sheath, which had been united
+    by inflammation after the division and retraction of its vessels, and had then been some what
+    distended after the heart had regained its force. It was also suggested by <name type="person"
+     key="70">Surgeon Lidell</name>, who kindly saw the case with me, that there was a free
+    communication between the divided artery and vein in this sac which permitted the arterial blood
+    to return freely by the vein, as evinced by the pulsation communicating with such force backward
+    toward the heart in the line of the vessels. It was unmistakable that there existed a wound of
+    the femoral artery sufficient to cause its obliteration, that an <choice>
+     <orig>aneurism</orig>
+     <reg>aneurysm</reg>
+    </choice> was being developed at the divided proximal extremity, and that the proper surgical
+    procedure would be to secure the ends of the vessel at the point of the injury. It was
+    determined to emulate the example of Mr. Syme, to lay open boldly the sac by a free incision and
+    search for and secure the bleeding orifices. It was hoped that the profunda had escaped injury
+    and every precaution was to be used to secure the femoral below its origin. A small
+    h&#230;morrhage on <date type="operation" when="1863-12-09">December 9th</date> rendered
+    immediate interference necessary, and the following operation was then done with the assistance
+    of <name type="person" key="70">Surgeon Lidell</name> and the medical officers of the hospital.
+    After the patient had been fully etherized and the femoral artery thoroughly compressed on the
+    pubes by the thumb of a reliable assistant, as evinced by the loss of pulsation in the tumor, an
+    incision four inches in length was made through the skin and fasci&#230;, immediately over the
+    tumor and including the gunshot wound, in a line parallel with the sartorius. A second incision
+    was now made into the tumor, which was dilated instantly by the finger to the size of the first.
+    Distal h&#230;morrhage was anticipated, and it caused but little surprise when a most profuse
+    dark colored torrent poured out from the incision. The lower angle of the incision was rapidly
+    searched in vain for the source of the h&#230;morrhage, and it was feared that it might come
+    from the dark softened depth of the track of the ball. No pressure on the artery had the least
+    controlling effect upon it. The removal of the sponge was followed instantly by a boiling dark
+    torrent of venous blood, which so quickly filled the cavity as to prevent any examination. So
+    profuse and uncontrollable was the flow that visions of ligating the external iliac were vividly
+    presented to the mind. When the flow was found to arise from the superior angle of the incision
+    numerous and ineffectual efforts were made to secure the vessel, but the parts were so hardened
+    by local inflammation that the forceps glided over them as it would over a cartilaginous
+    surface. This point, from whence the dark blood seemed to flow, was finally compressed by the
+    point of the left index finger, and by means of the nail of the small finger of the right hand a
+    vessel was isolated, a ligature passed around it with an <choice>
+     <orig>aneurism</orig>
+     <reg>aneurysm</reg>
+    </choice> needle, and this h&#230;morrhage, most embarrassing because uncontrolled by pressure,
+    was finally suppressed. The first ligature was applied at the superior angle of the incision to
+    the proximal extremity of the divided femoral vein, from which this unexpected and most annoying
+    artery and vein, h&#230;morrhage escaped by regurgitation from the <choice>
+     <orig>saphena</orig>
+     <reg>saphenous</reg>
+    </choice>. The blood found its way into the limb by means of arteries arising from the iliac
+    above the point compressed, was finding its way back by the <choice>
+     <orig>saphena</orig>
+     <reg>saphenous</reg>
+    </choice>, enlarged to compensate for the occlusion of the femoral, was poured into the femoral
+    a short distance above its divided proximal extremity, and then regurgitated through the stump
+    of the femoral into the superior angle of the incision. The proximal end of the femoral artery,
+    from which a crimson tide escaped on relieving the pressure slightly, was now easily found, and
+    this was ligated. The wound was now thoroughly cleansed of all clots of blood. The femoral
+    artery and vein, denuded of their sheath for a distance of two inches, were clearly seen at the
+    bottom of the wound, their divided extremities having become adherent to the neighboring tissues
+    during the inflammatory action of the previous ten days. As a precautionary measure a ligature
+    was cast around the femoral artery at the lower angle of the wound, and some little difficulty
+    was experienced in discriminating between the artery and vein, owing to the fact that from ten
+    days disuse the vein in becoming an impervious cord had become similar in size, color, and
+    consistency to the artery. A small orifice was observed in the vein near its distal extremity,
+    and from this occurred a free black flow on moving the limb. This was also included in a
+    ligature. The wound was now closed by one or two sutures and the patient placed in his bed. A
+    brief recapitulation may give clearness to the above account. The first vessel tied was,
+    therefore, the proximal extremity of the femoral vein near the entrance of the <choice>
+     <orig>saphena</orig>
+     <reg>saphenous</reg>
+    </choice>; the second, the femoral artery a short distance below the origin of the profunda,
+    both at the superior angle of the incision; the third, the femoral artery at the lower angle of
+    the incision and two inches from its distal extremity; the fourth, the femoral vein near its
+    distal extremity at the centre of the incision, and to control a flow from an incision through
+    its coats, which may have been made accidentally. The profunda had not been seen, and it was
+    hoped that it would suffice to keep up the circulation. No important arterial channels had been
+    interfered with by the operation, and a successful issue might be expected. The man was
+    stimulated, took morphia, and his leg was covered closely in bed with blankets to preserve the
+    animal warmth. This man had lost blood freely at the time of the injury; he had been subjected
+    to a very long and fatiguing transport in ambulances and cars before reaching the hospital, and
+    for seven days his food had not been as good or sufficient as might have been desired for one
+    about to undergo such an operation. He was pallid and haggard looking, and iron, nutrients, and
+    stimulants were freely ordered. There was great pain and restlessness during the ensuing night,
+    and large quantities of morphia were required to procure sleep. December 10th, no interference
+    with the circulation; leg and foot both warm. The whole limb is swollen, and bloody serum
+    escapes freely at the point of the injury. December 12th, the restlessness has been the most
+    marked symptom, caused seemingly by constant and severe but indescribable pain in the limb. The
+    pulse is 120, the countenance pale and haggard, the tongue dry and coated, and the general
+    symptoms indicate great nervous prostration. Large quantities of morphia have been found
+    requisite. The whole limb and foot are much swollen and &#339;dematous. On the evening
+    unmistakable signs of sphacelus appeared, the foot became cold, and a hue of purple
+    discoloration was observed as high up as the ankle. The neuralgic pain and restlessness still
+    continued. On <date type="death" when="1863-12-13">December 13th</date>, all the symptoms were
+    worse. The discoloration, the dark purple hue of gangrene, extended rapidly upward, particularly
+    on the inside of the limb. The whole thigh became crepitant, the pulse more rapid and feeble. He
+    became more and more depressed, and finally died at 12 o'clock at night. These final scenes all
+    surgeons can imagine. The <hi rend="italic">post-mortem</hi> revealed nothing interesting in the
+    great cavities. The whole thigh and leg were found gangrenous as far as the point of the injury.
+    The vessels were dissected, spread upon a board, and a most faithful picture was made of them by
+    the artist under <name type="person" key="288">Dr. Brinton</name>'s direction. Only the proximal
+    extremities of the vessels were found in the softened gangrenous mass; but they threw light upon
+    the history of the case. The artery was divided below the origin of the profunda, which was
+    uninjured, but not enlarged, as one would expect if the whole force of the circulation had been
+    directed toward it by the obliteration of the main artery. In ten days the profunda should here
+    have been as large as the femoral, if all the blood brought to the divided femoral had been
+    seeking a passage through its calibre. Its undilated condition gives color to the idea that most
+    of the blood brought to the divided femoral extremity found its way quickly back by the divided
+    femoral vein; that the pressure was thus relieved, and that the profunda received only its usual
+    supply of blood. That the limb was nourished by a collateral circulation, arising above the brim
+    of the pelvis, is clear from the fact that no pressure on the external iliac would restrain the
+    flow of blood from the <choice>
+     <orig>saphena</orig>
+     <reg>saphenous</reg>
+    </choice> through the femoral vein. The <choice>
+     <orig>saphena</orig>
+     <reg>saphenous</reg>
+    </choice> vein is normal, and its relation with the femoral indicates how easily the
+    regurgitating h&#230;morrhage was caused, as no valves are there to prevent it. For several
+    days&#8212;from the 9th to the 12th&#8212;there were no signs of an interference with the
+    circulation, but at that time gangrene appeared and spread with great rapidity. This may have
+    been due to the recent phlebitis of the profunda vein, which is now filled with a pink firm
+    coagulum. The irritation caused by the operation, or due to the passage of the ball, may have
+    induced the inflammation of this vein, now so vital to the support of the circulation. This
+    seems to have been a wound of an artery, resulting in an <choice>
+     <orig>aneurism</orig>
+     <reg>aneurysm</reg>
+    </choice> the sac of which was composed of the re-united sheaths and enlarged probably by some
+    dissection upward, in which a free passage of blood took place from the artery to the vein. No
+    question as to the propriety of the operation now exists in my mind, since, as the sequel shows,
+    no digital compression over the femoral would have sufficed to prevent or control a secondary
+    h&#230;morrhage.&#34; The two specimens were contributed by the operator, <name type="person"
+     key="200">Dr. William Thomson</name> (see <hi rend="initialcap">F</hi>IG. 19). The case is
+    cited by <name type="person" key="70">Dr. Lidell</name>&#185;. </p>
+
+   <p> &#185; <hi rend="initialcap">L</hi>IDELL (<hi rend="initialcap">J</hi>. <hi rend="initialcap"
+     >A</hi>.). <hi rend="italic"/>On the Wounds of Blood-Vessels, Traumatic H&#230;morrhage,
+    Traumatic <choice>
+     <orig>Aneurism</orig>
+     <reg>Aneurysm</reg>
+    </choice>, and Traumatic Gangrene, in Surgical Memoirs of the War of the Rebellion, collected
+    and published by the United States Sanitary Commission<hi rend="italic"/>, 1870, Vol. I
+    (Surgical), p. 143. </p>
+
+   <figure>
+    <graphic url="cww.001518.001"/>
+    <head><hi rend="initialcap">F</hi>IG. 19.&#8212;Ligation of femoral artery and vein. <hi
+      rend="italic">Specs</hi>. 2249, 2250.</head>
+   </figure>
+  </body>
+ </text>
+</TEI>

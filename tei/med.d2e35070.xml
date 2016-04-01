@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d2e30000">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Kenney, M.</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+    <idno>med.d2e35070</idno>
+    <authority>Civil War Washington</authority>
+    <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor>
+     <name>Center for Digital Research in the Humanities</name>
+     <address><addrLine>319 Love Library</addrLine>
+       <addrLine>University of Nebraska–Lincoln</addrLine>
+       <addrLine>Lincoln, NE 68588-4100</addrLine>
+       <addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+    </distributor>
+    <date>2011</date>
+    <availability>
+     <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+      republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+      law, requires express written consent from the editors and advance notification of the
+      publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+     <persName xml:id="mb">Matthew Bosley</persName>
+     <persName xml:id="ajh">AJ Howell</persName>
+     <persName xml:id="at">Alex Thomas</persName>
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl>
+     <title level="j">The Medical and Surgical History of the War of the Rebellion.
+      (1861-65.)</title>
+     <pubPlace>Washington, DC</pubPlace>
+     <publisher>Government Printing Office</publisher>
+     <biblScope type="part">Part 2</biblScope>
+     <biblScope type="volume">Volume 2</biblScope>
+     <date when="1876">1876</date>
+     <biblScope type="page">315</biblScope>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+     <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <keywords scheme="#medsurg">
+     <term>injuries of pelvis</term>
+     <term>injuries of parts contained in the pelvis</term>
+     <term>gunshot wounds of bladder</term>
+     <term>wounds of the rectum</term>
+     <term>stercoral fistul&#230; after shot wounds of the rectum</term>
+     <term>shot in street affray</term>
+     <term>ball entered buttock and passed through rectum, emerged in inner femoral region</term> 
+     <term>ragged wound in rectum near anus</term> 
+     <term>f&#230;cal matter passed by orifice in thigh</term>     
+     <term>wound-track in thigh dilated with compressed sponge to promote elimination of fragments from ischium</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change who="#mb" when="2012-09-20">additional proofing of transcription and encoding, identified keyword terms</change>
+   <change who="#ajh" when="2012-08-16">additional proofing of transcription and encoding, identified keyword terms</change>
+   <change who="#at" when="2011-02-25">checked OCR; added minimal mark-up for personal names, place names, and dates</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p><hi rend="initialcap">C</hi>ASE 912.&#8212;<name type="person" key="xxx">Private M. Kenney</name>, <name type="organization" key="xxx">Co. K, 2d Cavalry</name>, aged 27, was shot in a  street affray at <name type="place" key="#Washington">Washington</name>, <date type="injury" when="1861-09-19">September 19, 1861</date>. He was taken to the <name type="hospital" key="445">E Street Infirmary</name>. <name type="person" key="xxx">Medical Cadet E. R. Hutchins</name> recorded&#185; that a pistol ball entered the left buttock, passed through the rectum, and emerged in the inner right femoral region. The finger introduced in the rectum discovered a ragged wound about three and a half inches from the anus. F&#230;cal matter passed by the orifice in the thigh.  On <date type="operation" when="1861-09-22">September 22d</date>, the sphincter was divided; but f&#230;ces continued to pass by the wound in the thigh until October 4th, when the natural evacuations took place, with great relief.  The wound-track in the thigh was unavailingly dilated with compressed sponge to promote elimination of fragments from the ischium, and on <date type="operation" when="1862-02-19">February 19, 1862</date>, an incision was made and some pieces of necrosed bone were removed.  <name type="person" key="xxx">Assistant Surgeon S. H. Storrow</name>, <name type="organization" key="190">U.S. A.</name>, reports that this man recovered completely, and was discharged <date type="servicedischarge" when="1862-07-09">July 9, 1862</date>.</p>
+   <p>&#185; <hi rend="initialcap">H</hi>UTCHINS (<hi rend="initialcap">E. R.</hi>), <hi rend="italic">Boston Med. and Surg. Journal</hi>, 1862, Vol. LXV, p. 255, Vol. LXVI, p. 113.</p>   
+  </body>
+ </text>
+</TEI>

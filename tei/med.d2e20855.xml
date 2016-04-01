@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d2e20855">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Loud, H.</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+    <idno>med.d2e20855</idno>
+    <authority>Civil War Washington</authority>
+    <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor><name>Center for Digital Research in the
+     Humanities</name><address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address></distributor>
+    <date>2011</date>
+    <availability>
+     <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+      republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+      law, requires express written consent from the editors and advance notification of the
+      publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+ <persName xml:id="kmp">Kenneth M. Price</persName> <persName xml:id="ajh">AJ Howell</persName>
+     <persName xml:id="mb">Matthew Bosley</persName>
+     <persName xml:id="el">Elizabeth Lorang</persName>
+     <persName xml:id="sb">Stacey Berry</persName>
+     <persName xml:id="et">Elisabeth Tracey</persName>
+     <persName xml:id="ss">Sarah Synovec</persName>
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title level="j">The Medical and Surgical History of the War of the Rebellion.
+      (1861-65.)</title><pubPlace>Washington, DC</pubPlace><publisher>Government Printing
+      Office</publisher><biblScope type="part">Part 3</biblScope><biblScope type="volume">Volume
+      2</biblScope><date when="1883">1883</date><biblScope type="page">541</biblScope></bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+     <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <keywords scheme="#medsurg">
+     <term>wounds and injuries of the lower extremities</term>
+     <term>wounds and operations in the leg</term>
+     <term>shot fractures of the bones of the leg</term>
+     <term>amputations in the continuity of the leg for shot fractures</term>
+     <term>secondary amputations in the continuity of the leg for shot injury</term>
+     <term>secondary amputations in the upper third of the leg for shot injury</term>
+     <term>fatal cases of secondary amputations in the upper third of the leg for shot injury</term>
+     <term>wound of ankle by musket ball</term>
+     <term>gangrene, bones of ankle joint necrosed</term>
+     <term>tibia and fibula denuded of periosteum</term>
+     <term>amputation of leg at junction of upper and middle thirds</term>
+     <term>general anesthesia, ether</term>
+     <term>general anesthesia, chloroform</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+ <change who="#kmp" when="2014-05">blessed</change>
+   <change who="#ajh" when="2013-08-23">added figure encoding</change>
+   <change who="#mb" when="2012-06-11">additional proofing of transcription and encoding, identified
+    keyword terms</change>
+   <change who="#el" when="2011-05-11">case text extracted and transformed from larger file</change>
+   <change who="#sb" when="2011-06-04">Enrich Encoding, Edit and validate</change>
+   <change who="#sb" when="2011-01-28">Validated File</change>
+   <change who="#ss" when="2008-09-22">initial checking of OCR text; encoded P5 Encoding</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+
+   <p><hi rend="initialcap">C</hi>ASE 791.&#8212;<name type="person" key="1314">Private H.
+     Loud</name>, <name type="organization" key="505">Co. A, 183d Pennsylvania</name>, aged 18
+    years, was wounded at <name type="BATTLE" key="12">the Wilderness</name>, <date type="injury"
+     when="1864-05-08">May 8, 1864</date>. <name type="person" key="xx">Surgeon J. E.
+    Pomfret</name>, <name type="organization" key="457">7th New York Artillery</name>, reported his
+    admission to the field hospital of the 1st division, Second Corps, with wound of left ankle by a
+    musket ball." <name type="person" key="884">Surgeon N. R.Moseley</name>, <name
+     type="organization" key="132">U. S. V.</name>, who amputated the fractured limb, reported the
+    following result of the case: "The wounded man was admitted on <date type="transfer"
+     when="1864-05-28">May 28th</date> to <name type="hospital" key="172">Emory Hospital</name>,
+    Washington, where the soft parts became gangrenous and the bones of the ankle joint necrosed;
+    tibia and fibula denuded of periosteum some three inches above the wound. Flap amputation of the
+    leg at the junction of the upper and middle thirds was performed on <date type="operation"
+     when="1864-08-23">August 23d</date>, chloroform and ether constituting the an&#230;sthetic. The
+    after-treatment consisted of cold-water dressings, tonics, stimulants, and nourishing diet.
+    Redundant granulations required the application of caustics about three weeks after the
+    amputation. The patient's condition varied much after the operation, alternately recuperating
+    and declining. He became weaker, yet, being young, hopes were entertained of his recovery until
+    within a couple of weeks of his decease, when his appetite failed and he sank rapidly. Death
+    occurred on <date type="death" when="1864-10-14">October 14, 1864</date>, from exhaustion and
+    nervous irritability." The bones of the stump (<hi rend="italic">Spec</hi>. 3318), exhibiting
+    but little healthy action and showing sequestra which are about separating from each bone, were
+    contributed to <name type="hospital" key="431">the Museum</name> by <name type="person"
+     key="884">the operator</name>, and are represented in the adjoining wood-cut (<hi
+     rend="initialcap">F</hi>IG. 317). </p>
+   <figure>
+    <graphic url="cww.001644.001"/>
+    <head><hi rend="initialcap">F</hi>IG. 317.&#8212;Bones of stump of left leg seven weeks after
+     amputation. <hi rend="italic">Spec.</hi> 3318.</head>
+   </figure>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d2e3854">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Caswell, T.</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+    <idno>med.d2e3854</idno>
+    <authority>Civil War Washington</authority>
+    <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor><name>Center for Digital Research in the
+     Humanities</name><address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address></distributor>
+    <date>2011</date>
+    <availability>
+     <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+      republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+      law, requires express written consent from the editors and advance notification of the
+      publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+     <persName xml:id="mb">Matthew Bosley</persName>
+     <persName xml:id="el">Elizabeth Lorang</persName>
+     <persName xml:id="sb">Stacey Berry</persName>
+     <persName xml:id="et">Elisabeth Tracey</persName>
+     <persName xml:id="ss">Sarah Synovec</persName>
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title level="j">The Medical and Surgical History of the War of the Rebellion.
+      (1861-65.)</title><pubPlace>Washington, DC</pubPlace><publisher>Government Printing
+      Office</publisher><biblScope type="part">Part 3</biblScope><biblScope type="volume">Volume
+      2</biblScope><date when="1883">1883</date><biblScope type="page">59</biblScope></bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+     <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <keywords scheme="#medsurg">
+     <term>wounds and injuries of the lower extremities</term>                                                                 
+     <term>flesh wounds of the lower extremities</term>
+     <term>complications of shot flesh wounds of the lower extremities</term>
+     <term>deformities after shot flesh wounds in the lower limbs</term>
+     <term>tenotomy</term>
+     <term>wounded in leg</term> 
+     <term>severe contraction of tendo-achilles</term> 
+     <term>tenotomy performed by dividing tendo-achilles</term>
+     <term>Ball entered midway between knee and ankle, passing directly across leg</term> 
+     <term></term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change who="#mb" when="2012-02-10">additional proofing of transcription and encoding</change>
+   <change who="#el" when="2011-05-11">case text extracted and transformed from larger file</change>
+   <change who="#sb" when="2011-06-04">Enrich Encoding, Edit and validate</change>
+   <change who="#sb" when="2011-01-28">Validated File</change>
+   <change who="#ss" when="2008-09-22">Sarah Synovec initial checking of OCR text; encoded P5 Encoding</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   
+   <p> <hi rend="initialcap">C</hi>ASE 130.&#8212;<name type="person" key="xxx">Private T. Caswell</name>, <name type="organization" key="xxx">Co. C, 6th New Hampshire</name>, aged 30 years, was wounded in the right leg, at <name type="BATTLE" key="127">Bull Run</name>, <date type="injury" when="1862-08-29">August 29, 1862</date>. He was admitted to the <name type="hospital" key="170">Georgetown College Hospital</name>, subsequently transferred to <name type="hospital" key="xxx">Satterlee, Philadelphia</name>, and lastly to Lovell, <name type="place">Portsmouth Grove</name>. <name type="person" key="xxx">Assistant Surgeon W. F. Cormick</name>, <name type="organization" key="190">U. S. A.</name>, in charge of the latter, reported:
+    &#34;Wound healed with severe contraction of the tendo-achilles, resulting from extensive and repeated sloughing. On <date type="operation" when="1863-10-05">October 5, 1863</date>, tenotomy was performed, by dividing the tendo-achilles, by <name type="person" key="xxx">Acting Assistant Surgeon J. W. Cushing</name>. The wound
+    caused by the operation healed by November 23th, and the splints, etc., were removed, the foot and ankle resuming their former
+    positions and functions. On December 15th the patient was able to walk without crutch or cane. He was discharged from
+    service <date type="servicedischarge" when="1863-12-30">December 30, 1863</date>.&#34; <name type="person" key="xxx">Examiner W. G. Perry</name>, of <name type="place">Exeter, N. H.</name>, <date type="pension" when="1864-02-17">February 17, 1864</date>, certified:  &#34;Ball entered the outside about midway between the knee and ankle joints, passing directly across the leg.   &#42;   &#42;   There is contraction of the tendo-achilles,
+    which has been partially relieved by division, but he cannot bring his heel entirely down. Standing causes pain.&#34; In
+    <date type="pension" when="1869-10">October, 1869</date>, he reported that contraction in the use of the leg had produced irritation of the eschar, resulting in ulceration.
+    <name type="person" key="xxx">Examiner E. B. Hammond</name> stated, <date type="pension" when="1875-09-11">September 11, 1875</date>:  &#34;The foot is reduced in size, the leg is weak, etc. &#34; The pensioner
+    was paid <date type="pension" when="1876-06-04">June 4, 1876</date>.  </p>
+   
+  </body>
+ </text>
+</TEI>

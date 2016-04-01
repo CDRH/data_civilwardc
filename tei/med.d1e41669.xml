@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e41669">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Clancey, Michael</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+    <idno>med.d1e41669</idno>
+       <authority>Civil War Washington</authority>
+       <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor>
+       <name>Center for Digital Research in the Humanities</name>
+       <address><addrLine>319 Love Library</addrLine>
+       <addrLine>University of Nebraska–Lincoln</addrLine>
+       <addrLine>Lincoln, NE 68588-4100</addrLine>
+       <addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+    </distributor>
+    <date>2011</date>
+    <availability>
+        <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+         republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+         law, requires express written consent from the editors and advance notification of the
+         publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+     <persName xml:id="mb">Matthew Bosley</persName>     
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl>
+     <title level="j">The Medical and Surgical History of the War of the Rebellion. (1861-65.)</title>
+     <pubPlace>Washington, DC</pubPlace>
+     <publisher>Government Printing Office</publisher>
+     <biblScope type="part">Part 2</biblScope>
+     <biblScope type="volume">Volume 1</biblScope>
+     <date when="1879">1879</date>
+     <biblScope type="page">200</biblScope>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+       <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+      <keywords scheme="#medsurg">
+       <term>diarrh&#339;a and dysentery</term>
+       <term>fatal cases of diarrh&#339;a and dysentery, with accounts of the morbid appearances observed</term>
+       <term>from the Third Division of the Alexandria Hospital, Virginia</term>
+       <term>diarrh&#339;a</term>
+       <term>wounds and injuries of the upper extremities</term>
+       <term>injuries of the shaft of the humerus</term>
+       <term>amputations of the arm for shot injury</term>
+       <term>secondary amputations in the upper third of the arm</term>
+       <term>cough and pain in upper chest with <choice><orig>dulness</orig><reg>dullness</reg></choice> on percussion</term>
+       <term>rude respiration and mucous rale</term>
+       <term>abscess near anus</term>
+       <term>pericardium filled with serum and lymph</term>
+       <term>both lungs contained tubercles and vomic&#230;, upper left lung most diseased</term>
+       <term>liver and kidneys fatty</term>
+       <term>mesenteric glands enlarged</term>
+       <term>tubercular ulceration of ileum</term>
+       <term>mucous membrane of colon presented numerous ulcers</term>
+       <term>vermiform appendix adherent to upper rectum, </term>
+       <term>cavities of appendix and rectum communicated through ulceration</term>
+       <term>incomplete fistula near anus led to abscess cavity</term>  
+       <term>ileum presented irregular ulcers, opposite which were minute tubercles on peritoneal surface</term>       
+       <term>mucous membrane of lower rectum presented small follicular ulcers</term>
+       <term>small fistulous orifices at margin of anus communicated with abscess-cavity</term>
+       <term>autopsy performed</term>       
+     </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change who="#mb" when="2013-01-10">copied case from MSHWR, added proofing of transcription and encoding, identified keyword terms and figures</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body> 
+   <p>Case from the case-book of the <name type="hospital" key="501"><hi rend="initialcap">T</hi>HIRD <hi rend="initialcap">D</hi>IVISION</name> of the <name type="place" key="#Alexandria"><hi rend="initialcap">A</hi>LEXANDRIA</name> <hi rend="initialcap">H</hi>OSPITAL, <name type="person" key="134">Surgeon Edwin Bentley</name>, <name type="organization" key="132">U. S. V.</name>, in charge:</p>
+   <p><hi rend="initialcap">C</hi>ASE 524.&#8212;<name type="person" key="xxx">Private Clancey</name>, <name type="organization" key="109">102d company, 2d battalion, Veteran Reserve Corps</name>; age 26; admitted <date type="admit" when="1864-05-25">May 25, 1864</date>.  Diarrh&#339;a.  Had been sick three weeks. This man was wounded in the left arm at <name type="battle" key="71">Malvern Hill</name>, <date type="injury" when="1862-07-01">July 1, 1862</date>, in consequence of which he suffered amputation of the humerus at the junction of the middle and upper thirds <date type="operation" when="1862-08-15">August 15th</date>. He was subsequently transferred to the <name type="organization" key="109">Veteran Reserve Corps</name>. The first notes of the case were taken August 25, 1864. He had then from eight to twelve feculent stools daily, with some nausea and griping. Alteratives and astringents were prescribed. A few weeks later he complained of cough and pain in the upper part of his chest. On percussion, considerable <choice><orig>dulness</orig><reg>dullness</reg></choice> was observed below the left clavicle and extending over the upper portion of the left lung; over the same region rude respiration and a slight mucous rale were heard. His diarrh&#339;a now averaged from five to six passages daily. Cod-liver oil and syrup of iodide of iron were added to the former remedies, but without permanent benefit. He began to emaciate, became very low-spirited, lost his appetite, and soon took to his bed. Finally the stools became involuntary, and he died <date type="death" when="1864-12-13">December 13th</date>.  Some two weeks before death an abscess formed near the anus and discharged a thick dark-colored pus.  <hi rend="italic">Autopsy</hi> <date type="autopsy" when="1864-12-14">Autopsy twenty-four hours after death</date>: The body was greatly emaciated. The pericardium was filled with serum mixed with lymph. Both lungs contained tubercles and vomic&#230;, the upper part of the left lung being most extensively diseased. The spleen was normal; the liver and kidneys fatty; the mesenteric glands enlarged. There was tubercular ulceration of the ileum. The mucous membrane of the colon was thickened and presented numerous ulcers. The vermiform appendix was adherent to tlie upper part of the rectum, and the cavities of the two communicated through an ulceration. On the left side of the anus was an incomplete fistula leading to an abscess cavity the size of a walnut.&#8212;Acting Assistant Surgeon W. C. Minor.   [Nos. 463 and 464, Medical Section, <name type="hospital" key="431">Army Medical Museum</name>, are from this case.  No. 463 is from the upper portion of the ileum, and presents near its centre a group of small irregular ulcers, opposite which, on the peritoneal surface, there are a number of minute tubercles.  No. 464 is the lower part of the rectum, with a portion of the skin surrounding the anus; the mucous membrane is thickened, and presents numerous small follicular ulcers; at the margin of the anus there are two small fistulous orifices communicating with an abscess-cavity rather larger than a walnut, situated in the areolar tissue just outside the sphincter ani.]</p>    
+  </body>
+ </text>
+</TEI>

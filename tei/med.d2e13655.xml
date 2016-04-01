@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d2e13655">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Riley, Peter</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+    <idno>med.d2e13655</idno>
+    <authority>Civil War Washington</authority>
+    <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor><name>Center for Digital Research in the
+     Humanities</name><address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address></distributor>
+    <date>2011</date>
+    <availability>
+     <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+      republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+      law, requires express written consent from the editors and advance notification of the
+      publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+ <persName xml:id="kw">Kenneth Winkle</persName> <persName xml:id="ajh">AJ Howell</persName>
+     <persName xml:id="mb">Matthew Bosley</persName>
+     <persName xml:id="el">Elizabeth Lorang</persName>
+     <persName xml:id="sb">Stacey Berry</persName>
+     <persName xml:id="et">Elisabeth Tracey</persName>
+     <persName xml:id="ss">Sarah Synovec</persName>
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title level="j">The Medical and Surgical History of the War of the Rebellion.
+      (1861-65.)</title><pubPlace>Washington, DC</pubPlace><publisher>Government Printing
+      Office</publisher><biblScope type="part">Part 3</biblScope><biblScope type="volume">Volume
+      2</biblScope><date when="1883">1883</date><biblScope type="page">307</biblScope></bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+     <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <keywords scheme="#medsurg">
+     <term>wounds and injuries of the lower extremities</term>
+     <term>injuries of the shaft of the femur</term>
+     <term>amputations in the shaft of the femur</term>
+     <term>secondary amputations in the shaft of the femur for shot injury</term>
+     <term>secondary amputations in the upper third of the shaft of the femur</term>
+     <term>fatal cases of secondary amputations in the upper third of the thigh</term>
+     <term>amputation performed twenty-two months after injury, wound reopened, femur protruded
+      through fistulous passage</term>
+     <term>gunshot fracture of thigh, upper third</term>
+     <term>gunshot fracture of femur</term>
+     <term>ball entered anterior surface of thigh below anterior superior spinous process of ilium,
+      produced compound comminuted fracture of upper third of femur, lodged in muscular substance of
+      thigh posteriorly</term>
+     <term>ball entered inner aspect of thigh, fractured femur opposite great trochanter</term>
+     <term>limb distorted and marked with fistulous passages, from one lower portion of femur
+      protrudes</term>
+     <term>py&#230;mia</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+ <change who="#kw" when="2014-05">blessed</change>
+   <change who="#ajh" when="2013-08-23">added figure encoding</change>
+   <change who="#mb" when="2012-05-21">additional proofing of transcription and encoding, identified
+    keyword terms</change>
+   <change who="#el" when="2011-05-11">case text extracted and transformed from larger file</change>
+   <change who="#sb" when="2011-06-04">Enrich Encoding, Edit and validate</change>
+   <change who="#sb" when="2011-01-28">Validated File</change>
+   <change who="#ss" when="2008-09-22">initial checking of OCR text; encoded P5 Encoding</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+
+   <p><hi rend="initialcap">C</hi>ASE 480.&#8212;<name type="person" key="1100">Private P.
+     Riley</name>, <name type="organization" key="235">Co. A, 10th New York</name>, aged 24 years,
+    was wounded at <name type="person" key="16">Cold Harbor</name>, <date type="injury"
+     when="1864-06-03">June 3, 1864</date>, and admitted to the field hospital of the 2d division,
+    Second Corps. <name type="person" key="xx">Surgeon J. F. Dyer</name>, <name type="organization"
+     key="386">19th Massachusetts</name>, recorded: "Gunshot fracture of left thigh, upper third."
+     <name type="person" key="243">Surgeon J. C. McKee</name>, <name type="organization" key="190"
+     >U. S. A.</name>, contributed a photograph, which is shown in the wood-cut (<hi
+     rend="initialcap">F</hi>IG. 199), and reported as follows: "Admitted to <name type="hospital"
+     key="176">Lincoln Hospital</name>, Washington, <date type="admit" when="1864-06-11">June
+     11th</date>, with a gunshot fracture of the left femur, the ball entering the anterior surface
+    of the thigh four inches below the anterior superior spinous process of ilium, passing directly
+    backward, producing a compound comminuted fracture of the upper third of the femur, and lodging
+    in the muscular substance of the thigh posteriorly. Extension and counter-extension were used,
+    but removed on account of the inflammation of the parts and the severe pain produced. Three
+    weeks after admission free incisions were made for the discharge of pus. The patient slowly
+    recovered, with four and a half inches shortening of the limb." He was mustered out of service
+     <date type="discharge" when="1865-08-01">August 1, 1865</date>, and pensioned. A cast of the
+    injured limb in this case was also contributed by <name type="person" key="243">Dr.
+    McKee</name>, and constitutes specimen 4051 of the Surgical Section of <name type="hospital"
+     key="431">the Museum</name>. (See <hi rend="italic">Cat. Surg. Sect.</hi>, 1866, p. 535.) <name
+     type="person" key="200">Examiner W. H. Thomson</name>, of <name type="place" key="xx">New York
+     City</name>, certified, <date type="pension" when="1866-01-22">January 22, 1866</date>: "A ball
+    entered the inner aspect of the left thigh and fractured the femur opposite the great
+    trochanter. The limb is now much distorted and marked with fistulous passages, from one of
+    which, at the anterior upper third of the limb, the end of the lower portion of the femur
+    protrudes. He should not have been discharged from hospital in that condition." <name
+     type="person" key="xx">Dr. M. M. Marsh</name>, Surgeon at the Lincoln Hospital, <name
+     type="place">New York City</name>, certified: "That in the month of <date type="operation"
+     when="1866-04">April, 1866</date>, <name type="person" key="1100">Peter Riley</name> came into
+    the hospital for an operation on a shattered femur in its upper third, the lower fragment of
+    bone protruding. Amputation was performed, and the patient died of py&#230;mia <date
+     type="death" when="1866-05-07">May 7, 1866</date>, and in consequence of the injury received in
+    the service as the remote cause." (See <hi rend="italic">Photo. Series</hi>, A. M. M., No.
+    117.)</p>
+   <figure>
+    <graphic url="cww.001599.001"/>
+    <head><hi rend="initialcap">F</hi>IG. 199.&#8212;Appearance of limb a year after injury. [From a
+     photograph.]</head>
+   </figure>
+
+  </body>
+ </text>
+</TEI>

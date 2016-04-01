@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d2e35004">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Kosack, Otto</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+    <idno>med.d2e35004</idno>
+    <authority>Civil War Washington</authority>
+    <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor>
+     <name>Center for Digital Research in the Humanities</name>
+     <address><addrLine>319 Love Library</addrLine>
+       <addrLine>University of Nebraska–Lincoln</addrLine>
+       <addrLine>Lincoln, NE 68588-4100</addrLine>
+       <addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+    </distributor>
+    <date>2011</date>
+    <availability>
+     <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+      republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+      law, requires express written consent from the editors and advance notification of the
+      publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: <persName xml:id="ajh">AJ Howell</persName>
+     <persName xml:id="el">Elizabeth Lorang</persName>
+     <persName xml:id="sb">Stacey Berry</persName>
+     <persName xml:id="et">Elisabeth Tracey</persName>
+     <persName xml:id="ss">Sarah Synovec</persName>
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl>
+     <title level="j">The Medical and Surgical History of the War of the Rebellion.
+      (1861-65.)</title>
+     <pubPlace>Washington, DC</pubPlace><publisher>Government Printing Office</publisher>
+     <biblScope type="part">Part 3</biblScope>
+     <biblScope type="volume">Volume 2</biblScope>
+     <date when="1883">1883</date>
+     <biblScope type="page">838</biblScope>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+     <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <keywords scheme="#medsurg">
+     <term>wounds and complications</term>
+     <term>hospital gangrene</term>
+     <term>ligations of the common carotid</term>
+     <term>struck by shell, middle of leg</term>
+     <term>amputation of leg at middle</term>
+     <term>open wound commenced to slough</term>
+     <term>anaemic, very pallid, haggard, expression of great depression in features</term>
+     <term>burning pain in stump</term>
+     <term>ulcer with yellowish-gray pultaceous slough, serous and fetid discharge</term>
+     <term>artificial leg</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change who="#ajh" when="2013-02-13">additional proofing of transcription and encoding, edited
+    and added keyword terms, added figures</change>
+   <change who="#el" when="2011-05-11">case text extracted and transformed from larger file</change>
+   <change who="#sb" when="2011-06-04">Enrich Encoding, Edit and validate</change>
+   <change who="#sb" when="2011-01-28">Validated File</change>
+   <change who="#ss" when="2008-09-22">initial checking of OCR text; encoded P5 Encoding</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+
+   <p>In <date type="injury" when="1863-02">February, 1863</date>, a number of cases of hospital
+    gangrene occurred at the <name type="hospital" key="162">Douglas Hospital</name>, Washington, D.
+    C., and were observed by <name type="person" key="200">Assistant Surgeon William Thomson</name>,
+     <name type="organization" key="190">U. S. A.</name>, who, in a special report to the Surgeon
+    General, gives the following interesting account of the pathology and treatment of the cases. In
+    several instances later information has been added to the cases cited by <name type="person"
+     key="200">Dr. Thomson</name>.<!--<ref xml:id="n01" target="#n48" n="1" /> --></p>
+   
+   <p>"On the 26th of December, 1862, about two hundred wounded from the battle of <name type="BATTLE" key="251">Fredericksburg    
+   </name> were received into the <name type="hospital" key="162">Douglas Hospital</name>.</p>
+
+   <p>&quot;CASE I.&#8212;<name type="person" key="xxx">Sergeant Otto Kosack</name>, <name
+     type="organization" key="xxx">Co. K, 2d Maryland</name>, who had been struck by a shell, <date
+     type="injury" when="1862-12-13">December 13, 1862</date>, which made it necessary to amputate
+    his left leg at the middle. The operation was done ten minutes after the injury. He was received
+    here on tin- <date type="admit" when="1862-12-25">25th of December</date>. The stump closed by
+    granulation, a small portion of the tibia having been removed by exfoliation. The cicatrization
+    had been almost complete, when, a few days previous to the 17th, the still open wound commenced
+    to slough. He was anaemic, very pallid, haggard, and with an expression of great depression in
+    his features ; his pulse was very feeble and rapid ; he had been feeling very badly for several
+    days, and complained of a burning pain in the stump. -On the outer side of the tibia there was
+    an ulcer one inch in diameter, covered with a yellowish-gray pultaceous slough, and a serous and
+    very fetid discharge ; the edges were thickened and everted, and an areola of purple livid
+    congestion extended for half an inch from the margin, which was undermined. This sore was at
+    once treated with pure nitric acid, applied both to the ulcer and to the areola ; the ulcer was
+    dressed with an antiseptic solution of creasote, and citrate of iron and quinine, with
+    stimulants and nutrients, were freely given. On the 18th the sloughing had extended to the
+    border of yesterday s livid areola, but was now more superficial, and the areola, which had
+    likewise invaded the surrounding skin, was more florid. The ulcer was now two inches in
+    diameter. As there was some doubt as to its specific character, the patient was not removed from
+    the ward until the 23d, when he was transferred, with several others, to a small ward prepared
+    in the brick building, and completely isolated from the other wounded men. The iron and quinine
+    were found to disturb his stomach and destroy his appetite, and was replaced by a mixture of
+    nitromuriatic acid and tincture of opium. March 3d: The sore was now perfectly healthy and was
+    granulating rapidly. [The patient was discharged <date type="discharge" when="1864-06-15">June
+     15, 1864</date>, and was a pensioner in <date type="pension" when="1882">1882</date>. A plaster
+    cast of the stump is preserved in the <name type="hospital" key="431">Army Medical Museum</name>
+    and is numbered 6706 of the Sunjicul Section. ] </p>
+
+   <p>&quot;This was a mild case, treated in its iucipieucy with nitric acid most thoroughly. The
+    ulceration had not extended so deeply, nor so far beneath the margin of the skin, as to make it
+    almost impossible to reach every portion of the diseased surface. There was no scorbutis. The
+    gums were firm and hard. The patient was very pallid, his heart feeble, and his pupils dilated.
+    The mucous membranes were very pale, and the expression of the face haggard and anxious. He
+    recovered rapidly with a good stump, and was seen, several months after, walking with great ease
+    on an artificial leg.</p>
+  </body>
+ </text>
+</TEI>

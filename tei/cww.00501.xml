@@ -1,0 +1,346 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="cww.00501">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Petition of William Nottingham, 28 May 1862</title>
+                <title level="m" type="sub">a machine readable transcription</title>
+                <principal>Susan C. Lawrence</principal>
+                <principal>Kenneth M. Price</principal>
+                <principal>Kenneth J. Winkle</principal>
+                <respStmt>
+                    <resp>transcription and encoding</resp>
+                    <name xml:id="kjw">Kenneth J. Winkle</name>
+                    <name xml:id="jc">Janel Cayer</name>
+                    <name xml:id="bj">Brittany Jones</name>
+                    <name xml:id="rv">Robert Voss</name>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2013</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <idno>cww.00501</idno>
+                <distributor>Civil War Washington</distributor>
+                <publisher>University of Nebraska–Lincoln</publisher>
+                <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>P.O. Box 884100</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+            </address>
+                <date>2013</date>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+                        <p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike
+                            3.0 Unported License
+                            (http://creativecommons.org/licenses/by-nc-sa/3.0/). Derivatives must be
+                            credited to Civil War Washington, made available non-commercially, and
+                            distributed under the same terms. Requests for permission for commercial
+                            publication or other use should be emailed to the project team.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Petition of William Nottingham, 28 May 1862</title>
+                    <date when="1862-05-28">May 28, 1862</date>
+                    <idno>Microcopy 520, Reel 4</idno>
+                    <orgName>National Archives and Records Administration</orgName>
+                    <relatedItem type="original">
+                        <bibl>
+                            <title>Petition of William Nottingham, 28 May 1862</title>
+                            <date when="1862-05-28">May 28, 1862</date>
+                            <idno>Record Group 217.6.5</idno>
+                            <orgName>Records of the Accounting Officers of the Department of the
+                                Treasury, 1775–1978, National Archives and Records
+                                Administration</orgName>
+                            <note type="project">Within the National Archives' Archival Description
+                                Catalog, see ARC Identifier 4644616 / MLR Number A1 347
+                                (http://arcweb.archives.gov).</note>
+                        </bibl>
+                    </relatedItem>
+                    <note type="project">Our transcription is based on a digital image of a
+                        microfilm copy of the original.</note>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <particDesc>
+                <person role="petitioner">
+                    <persName>William Nottingham</persName>
+                </person>
+                <person role="jp">
+                    <persName>Thomas C. Donn</persName>
+                </person>
+            </particDesc>
+        </profileDesc>
+        <revisionDesc>
+            <change when="2013-01-10" who="#jc">blessed</change>
+            <change when="2013-01-09" who="#kjw">blessed</change>
+            <change when="2012-10-02" who="#jc">updated tei header; fixed values for @facs as
+                necessary; automated checking across files for extra spaces in elements and other
+                encoding inconsistencies and for regular transcription errors</change>
+            <change when="2011-04-28" who="#rv">finshed, checked</change>
+            <change when="2011-01-21" who="#bj">transcribed, encoded</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb xml:id="leaf001r" facs="cww.00501.001.jpg"/>
+
+            <div1 type="petition" subtype="mixed">
+                <head type="main">PETITION.</head>
+                <p rend="bold">To the Commissioners under the act of Congress approved the <date
+                        when="1862-04-16">16th of April, 1862</date>, entitled "An act for the
+                    release of certain persons held to service or labor in the District of
+                    Columbia."</p>
+
+                <p>Your Petitioner, <seg type="handwritten">
+                        <persName>Wm Nottingham</persName>
+                    </seg> of <seg type="handwritten">
+                        <placeName>Washington, D.C.</placeName>
+                    </seg> by this <seg type="handwritten">his</seg> petition in writing, represents
+                    and states, that <seg type="handwritten">he</seg> is a person loyal to the
+                    United States, who, at the time of the passage of the said act of Congress, held
+                    a claim to service or labor against <seg type="handwritten">two</seg> person
+                        <seg type="handwritten">s</seg> of African descent of the name <seg
+                        type="handwritten">s</seg> of <seg type="handwritten">
+                        <persName>Cagy Ware</persName> and <persName>Charles Green</persName>
+                    </seg> for and during the life of said <seg type="handwritten">persons</seg> and
+                    that by said act of Congress said <seg type="handwritten">persons were</seg>
+                    discharged and freed of and from all claim of your petitioner to such service or
+                    labor; that at the time of said discharge said <seg type="handwritten">persons
+                        were</seg> of the age <seg type="handwritten">s</seg> of <seg
+                        type="handwritten">fifty and fifteen years</seg> and of the personal
+                    description following:<note type="government" place="foot" xml:id="n1">Here
+                        describe the person, so as to identify him or her; and if there be more than
+                        one slave, describe each one separately.</note>
+                    <list type="handwritten">
+                        <item><persName>Cagy Ware</persName>, female, aged 50 years. <choice>
+                                <sic>Mullatto</sic>
+                                <corr>Mulatto</corr>
+                            </choice>. strong and healthy a good cook and house servant. valued at
+                            $400.</item>
+                        <item><persName>Charles Green</persName>-male, aged 15 years. copper color.
+                            has lost the left forefinger being cut off at the joint (bound to me
+                            until he arrives at the age of 21 years) valued at $300.</item>
+                    </list>
+                </p>
+
+                <pb xml:id="leaf001v" facs="cww.00501.002.jpg"/>
+
+                <p>That your petitioner acquired <seg type="handwritten">his</seg> claim to the
+                    aforesaid service or labor of said <seg type="handwritten">persons</seg> in
+                    manner following:<note type="government" place="foot" xml:id="n2">Here state how
+                        the claim was acquired, when, from whom, and for what price or
+                        consideration; and, if held under any written evidence of title, make
+                        exhibit thereof, or refer to the public record where the same may be
+                        found.</note>
+                    <list type="handwritten">
+                        <item>He purchased <persName>Cagy Ware</persName> from <persName>Luther
+                                Leland</persName> of <placeName>Charles Co Md</placeName> for the
+                            sum of $225 as will appear by Bill of sale herewith filed</item>
+                        <item><persName>Chas Green</persName> was bound to him by his father until
+                            he should arrive at the age of 21 years&#8212;Indenture herewith
+                            filed</item>
+                    </list>
+                </p>
+
+                <p>That your petitioner's claim to the service or labor of said <seg
+                        type="handwritten">persons</seg> was, at the time of said discharge
+                    therefrom, of the value of <seg type="handwritten">seven hundred</seg> dollars
+                    in money.<note type="government" place="foot" xml:id="n3">Here state such facts,
+                        if any there be, touching the value of the petitioner's claim to the service
+                        or labor of the person, as may enhance the same, and also such facts, if
+                        any, touching the moral, mental, and bodily infirmities or defects of said
+                        person, as impair the value of the petitioner's claim to such service or
+                        labor, and conclude such statement with an averment that the petitioner
+                        knows of no other infirmities or defects of said person which impair the
+                        value of petitioner's claim to such service or labor, and that he believes
+                        none other to exist. If the petitioner specify no such infirmity or defect,
+                        then his statement touching the value of his claim should conclude with an
+                        averment that he has no knowledge of any such infirmity or defect.</note>
+                    <seg type="handwritten">all of said persons are healthy, active, honest &#38;
+                        industrious and were very serviceable to me.</seg></p>
+
+                <ab type="handwritten">They have no moral, mental or bodily defects or infirmities
+                    (with the exception of <persName>Charles</persName> aforesaid) to the best of
+                    his knowledge.</ab>
+
+                <p>Your petitioner hereby declares that <seg type="handwritten">he</seg> bears true
+                    and faithful allegiance to the Government of the United States, and that <seg
+                        type="handwritten">he</seg> has not borne arms against the United States in
+                    the present rebellion, nor in any way given aid or comfort thereto.</p>
+
+                <p>And your petitioner further states and alleges, that <seg type="handwritten"
+                        >he</seg> has not brought said <seg type="handwritten">persons</seg> into
+                    the District of Columbia since the passage of said act of Congress; and that, at
+                    the time of the passage thereof, said <seg type="handwritten">persons were</seg>
+                    <del>was</del> held to service or labor therein under and by virtue of your
+                    petitioner's claim to such service or labor.</p>
+
+                <p>Your petitioner further states and alleges, that <seg type="handwritten"
+                        >his</seg> said claim to the service or labor of said <seg
+                        type="handwritten">persons</seg> does not originate in or by virtue of any
+                    transfer heretofore made by any person who has in any manner aided or sustained
+                    the present rebellion against the Government of the United States.</p>
+
+                <p>And your petitioner prays the said Commissioners to investigate and determine the
+                    value of <seg type="handwritten">his</seg> said claim to the service or labor of
+                    said <seg type="handwritten">persons</seg> herein above set forth; and if the
+                    same be found to be valid, that they appraise and apportion the value of said
+                    claim in money, and report the same to the Secretary of the Treasury of the
+                    United States, in conformity to the provisions of said act of Congress.</p>
+
+                <closer> (Signed by) <signed>
+                        <seg type="handwritten">
+                            <persName>Wm Nottingham</persName>
+                        </seg>
+                    </signed>
+                </closer>
+            </div1>
+
+            <pb xml:id="leaf002r" facs="cww.00501.003.jpg"/>
+
+            <div1 type="billofsale" subtype="handwritten">
+                <p>Know all man by these presents this <persName>Luther L Leland</persName>
+                    <placeName>Charles County State of MD</placeName> for and consideration of the
+                    sum of two hundred and twenty five dollars to me in hand paid by Mr
+                        <persName>William Nottingham</persName> at <gap reason="illegible"
+                        extent="one or two words" quantity="8" unit="chars"/> the sealing and
+                    delivering these presents the <gap reason="illegible" extent="about two words"
+                        quantity="10" unit="chars"/> I hereby acknowledge have Bargained and Sold,
+                    and by these presents do bargain and sell unto the said William Nottingham a
+                    certain negro woman slave named <persName>Cagy</persName> to have and hold to
+                    the said above described and sold <gap reason="illegible"
+                        extent="two or three words" quantity="8" unit="chars"/> said
+                        <persName>William Nottingham</persName> his executors administrators and
+                    assigns forever and I hereby warrant and defend against the claim or claims of
+                    all persons whatsoever by these presents in witness I have hereunto set my hand
+                    and affixed my seal this <date when="1858-10-26">26th day of Oct 1858</date>
+                </p>
+
+                <closer>
+                    <signed>
+                        <persName>Luther L Leland</persName> seal </signed>
+                </closer>
+            </div1>
+
+            <pb xml:id="leaf003r" facs="cww.00501.004.jpg"/>
+            <div1 type="indenture" subtype="handwritten">
+                <p>This Indenture witnesseth that <persName>Charles H. Green</persName> of
+                        <placeName>Washington City in the District of Columbia</placeName> now aged
+                    twelve years and ten months by and with the consent of Henry Green his father
+                    hereupon, hath voluntary and of his own free will and consent put and bound
+                    himself apprentice to <persName>William Nottingham</persName> of
+                        <placeName>Washington City D.C.</placeName> to learn sufficiently the Trade
+                    of <choice>
+                        <sic>carpenting</sic>
+                        <corr>carpentry</corr>
+                    </choice> so as to enable him to Procure an honest <choice>
+                        <sic>livelyhood</sic>
+                        <corr>livelihood</corr>
+                    </choice> and as an apprentice to serve from the date here of for and during the
+                    full end and term of eight years and two months until the said <persName>Chas.
+                        G. Green</persName> shall have attained the age of twenty one which will be
+                    on the <date>16th day of September 1867</date> during all which time the said
+                    apprentice shall serve his master faithfully honestly and industriously his
+                    secrets keys and <choice>
+                        <sic>lawfull</sic>
+                        <corr>lawful</corr>
+                    </choice> commands every where readily obey at all times protect and lawfully
+                    preserve the good and prosperity of his said master and not suffer or allow any
+                    to be injured or wasted he shall not buy sell or traffic with his own goods or
+                    the goods of others nor be absent from his said master service day or night
+                    without <pb xml:id="leaf003v" facs="cww.00501.005.jpg"/> leave but in all things
+                    behave himself as a <choice>
+                        <sic>faithfull</sic>
+                        <corr>faithful</corr>
+                    </choice> apprentice ought to do during the said term and the said master shall
+                    clothe and provide for the said apprentice in sickness and in health and <choice>
+                        <sic>suply</sic>
+                        <corr>supply</corr>
+                    </choice> him with available food and clothing and shall so employ said
+                    apprentice in such a manner that he shall be qualified at the end of the
+                    aforesaid term to earn an honest <choice>
+                        <sic>livelyhood</sic>
+                        <corr>livelihood</corr>
+                    </choice> and at the end of said term shall give unto the aforesaid apprentice a
+                    new suite of Sunday clothing over and above his other clothing and the further
+                    sum of fifteen dollars and for the true performance of all and singular the
+                    covenant, and agreements aforesaid the said parties bind themselves each unto
+                    the other primarily these presents.</p>
+                <p>In witness whereof the parties aforesaid have hereunto set their hands and seals
+                    the <date when="1859-07-15">15th day of July 1859</date>
+                </p>
+                <closer>
+                    <signed>his X mark <persName>Charles H. Green</persName> seal</signed>
+                    <signed>his X mark <persName>Henry Green</persName> seal</signed>
+                    <signed><persName>Wm Nottingham</persName> seal</signed><lb/> Signed sealed and
+                    Delivered in presence of <signed><persName>Jas. Cull</persName> J. P.</signed>
+                </closer>
+            </div1>
+
+
+            <pb xml:id="leaf004r" facs="cww.00501.006"/>
+            <div1 type="oath" subtype="mixed">
+                <head type="main">[<hi rend="italic">Form of the Oath for the Verification of the
+                        Petition.</hi>]</head>
+
+                <dateline>
+                    <placeName>District of Columbia</placeName>,
+                    <lb/>
+                    <hi rend="italic"><placeName>Washington County</placeName>, ss.</hi>
+                </dateline>
+
+                <div2 type="section">
+                    <p>I, <seg type="handwritten">
+                            <persName>William Nottingham</persName>
+                        </seg> being duly sworn, do depose and say, that all the several matters and
+                        things which are set forth and stated in the foregoing petition, as of my
+                        own knowledge, are true in substance and in fact; and that all the several
+                        other matters and things therein set forth and stated, as from the
+                        information of others, I believe to be true in substance and in fact.</p>
+                    <closer> (Signed by) <signed>
+                            <seg type="handwritten">
+                                <persName>Wm Nottingham</persName>
+                            </seg>
+                        </signed>
+                    </closer>
+                </div2>
+
+                <div2 type="section">
+                    <p>Sworn to and subscribed before me this <date when="1862-05-28">
+                            <seg type="handwritten">28th</seg> day of <seg type="handwritten"
+                                >May</seg> A. D. 1862</date>. </p>
+                    <closer> (Signed by) <signed>
+                            <seg type="handwritten">
+                                <persName>Thomas C. Donn</persName><lb/> Justice of the Peace for
+                                    <placeName>Washington County</placeName>
+                                <placeName>District of Columbia</placeName>
+                            </seg>
+                        </signed>
+                    </closer>
+                </div2>
+            </div1>
+
+            <div1 type="cover" subtype="handwritten">
+                <note type="editorial">The following note, about the filing of the petition, has
+                    been imaged twice in the National Archives microfilm, but the note occurs in
+                    only one place in the petition: written horizontally on the final page, the Oath
+                    for the Verification.</note>
+                <ab>501<lb/>
+                    <persName>William Nottingham</persName><lb/> Petition</ab>
+                <ab>Filed <date when="1862-05-28">May 28, 1862</date></ab>
+                <ab>Witnesses<lb/>
+                    <persName>Joseph G. Carroll</persName><lb/>
+                    <persName>Thompson Van Kenwick</persName></ab>
+            </div1>
+        </body>
+    </text>
+</TEI>

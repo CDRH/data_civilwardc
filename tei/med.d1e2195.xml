@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e2195">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Rogers, Thomas K.</title>
+                <title level="m" type="sub">a machine readable transcription</title>
+                <principal>Susan C. Lawrence</principal>
+                <principal>Kenneth M. Price</principal>
+                <principal>Kenneth J. Winkle</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2011</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <idno>med.d1e2195</idno>
+                <authority>Civil War Washington</authority>
+                <publisher>University of Nebraska–Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+                </distributor>
+                <date>2011</date>
+                <availability>
+                    <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved.
+                        Redistribution or republication in any medium, except as allowed under the
+                        Fair Use provisions of U.S. copyright law, requires express written consent
+                        from the editors and advance notification of the publisher, the University
+                        of Nebraska–Lincoln.</p>
+                </availability>
+            </publicationStmt>
+            <notesStmt>
+                <note type="project">The following are responsible for particular readings or for
+                    changes to this file, as noted: 
+ <persName xml:id="kw">Kenneth Winkle</persName> <persName xml:id="ajh">AJ Howell</persName>
+                    <persName xml:id="mb">Matthew Bosley</persName>
+                    <persName xml:id="el">Elizabeth Lorang</persName>
+                    <persName xml:id="sb">Stacey Berry</persName>
+                    <persName xml:id="et">Elisabeth Tracey</persName>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>The Medical and Surgical History of the War of the Rebellion.
+                        (1861&#8211;65.)</title>
+                    <editor role="compiler">Surgeon General Joseph K. Barnes, United States
+                        Army</editor>
+                    <pubPlace>Washington, D.C.</pubPlace>
+                    <publisher>Government Printing Office</publisher>
+                    <biblScope type="part">Part 1</biblScope>
+                    <biblScope type="volume">Volume 2</biblScope>
+                    <date when="1870">1870</date>
+                    <biblScope type="page">22</biblScope>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <classDecl>
+                <taxonomy xml:id="medsurg">
+                    <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme="#medsurg">
+                    <term>wounds and injuries of the head</term>
+                    <term>incised and punctured wounds</term>
+                    <term>incised fractures of the cranium</term>
+                    <term>depressed skull fracture</term>
+                    <term>wounded by sabre-cut</term>
+                    <term>sabre-cut over left supra-orbital ridge</term>
+                    <term>fractured frontal bone</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+ <change who="#kw" when="2014-05">blessed</change>
+            <change who="#el" when="2014-07-21">corrected value of @url on graphic</change>
+            <change who="#el" when="2014-07-03">corrected typo in figure head</change>
+            <change who="#ajh" when="2013-08-09">added figure encoding</change>
+            <change who="#mb" when="2011-10-17">additional proofing of transcription and
+                encoding</change>
+            <change who="#mb" when="2011-06-01">additional proofing of transcription and
+                encoding</change>
+            <change who="#el" when="2011-11-05">case text extracted and transformed from larger
+                file</change>
+            <change who="#sb" when="2011-02-09">enriched encoding</change>
+            <change who="#sb" when="2011-01-28">validated file</change>
+            <change who="#et" when="2009-08-01">encoded</change>
+            <change who="#sb" when="2008-09-22">initial checking of OCR text against PDF; encoded
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body xml:id="ch1.sc1.0062">
+
+            <p><name type="person" key="1142"><hi rend="italic">Rogers, Thomas K.</hi></name>,
+                Private, <name type="organization" key="747">Co. C, 5th Alabama Infantry</name>,
+                aged 41 years, was wounded near <name type="battle" key="xx">Petersburg,
+                    Virginia</name>, <date type="injury" when="1865-04-02">April 2d, 1865</date>, by
+                a sabre-cut over the left supra-orbital ridge extending upwards and backwards two
+                inches, and fracturing the frontal bone. On <date type="admit" when="1865-04-08"
+                    >April 8th</date>, he was admitted to <name type="hospital" key="176">Lincoln
+                    Hospital</name>, Washington. A few days after his admission his photograph was
+                taken for the collection of Photographs of Surgical Cases of the <name
+                    type="hospital" key="431">Army Medical Museum</name>. The picture is No. 6 of
+                Volume 3 of that series. It is well copied in the right-hand figure of the group in
+                Plate I. On <date when="1865-04-20">April 20th</date>, the patient showing symptoms
+                of compression, <name type="person" key="243">Surgeon J. Cooper McKee</name>, <name
+                    type="organization" key="190">U. S. Army</name>, applied the trephine about one
+                inch above the supra-orbital ridge and elevated the depressed bone. On May 27th, the
+                patient was recovering rapidly, having manifested no bad symptoms since the removal
+                of the bone. The large incision in the integument was cicatrizing favorably,
+                covering the dura mater, so that pulsation was no longer visible. On <date
+                    type="discharge" when="1865-06-14">June 14th, 1865</date>, the patient had
+                completely recovered, and, upon taking the oath of allegiance, he was released.</p>
+           
+            <figure>
+                <graphic url="cww.001354.001"/>
+                <head><hi rend="initialcap">P</hi>LATE <hi rend="initialcap">I</hi>, facing p. 4. SABRE
+                WOUNDS OF THE HEAD. Private T. K. Rogers. 5th Al<hi rend="superscript">a</hi>.
+                    (Rebel) Inf.</head></figure>
+        </body>
+    </text>
+</TEI>

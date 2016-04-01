@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d2e5302">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Christopher, T. C.</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+    <idno>med.d2e5302</idno>
+    <authority>Civil War Washington</authority>
+    <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor><name>Center for Digital Research in the
+     Humanities</name><address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address></distributor>
+    <date>2011</date>
+    <availability>
+     <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+      republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+      law, requires express written consent from the editors and advance notification of the
+      publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+ <persName xml:id="kmp">Kenneth M. Price</persName> 
+     <persName xml:id="ajh">AJ Howell</persName>
+     <persName xml:id="mb">Matthew Bosley</persName>
+     <persName xml:id="el">Elizabeth Lorang</persName>
+     <persName xml:id="sb">Stacey Berry</persName>
+     <persName xml:id="et">Elisabeth Tracey</persName>
+     <persName xml:id="ss">Sarah Synovec</persName>
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title level="j">The Medical and Surgical History of the War of the Rebellion.
+      (1861-65.)</title><pubPlace>Washington, DC</pubPlace><publisher>Government Printing
+      Office</publisher><biblScope type="part">Part 3</biblScope><biblScope type="volume">Volume
+      2</biblScope><date when="1883">1883</date><biblScope type="page">105</biblScope></bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+     <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <keywords scheme="#medsurg">
+     <term>wounds and injuries of the lower extremities</term>
+     <term>wounds and injuries of the hip joint</term>
+     <term>shot fractures at the hip joint</term>
+     <term>excision at the hip after shot injury</term>
+     <term>intermediary excisions</term>
+     <term>ball entered below and behind trochanter major</term>
+     <term>fragments of neck and head of femur removed</term>
+     <term>acetabulum eroded</term>
+     <term>general anesthesia, ether</term>
+     <term>autopsy performed</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+ <change who="#kmp" when="2014-05">blessed</change>
+   <change who="#ajh" when="2013-08-21">added figure encoding</change>
+   <change who="#mb" when="2012-02-16">additional proofing of transcription and encoding, identified
+    keyword terms</change>
+   <change who="#el" when="2011-05-11">case text extracted and transformed from larger file</change>
+   <change who="#sb" when="2011-06-04">Enrich Encoding, Edit and validate</change>
+   <change who="#sb" when="2011-01-28">Validated File</change>
+   <change who="#ss" when="2008-09-22">Sarah Synovec initial checking of OCR text; encoded P5
+    Encoding</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+
+
+   <p><hi rend="initialcap">C</hi>ASE 245.&#8212;<name type="person" key="950">Private <hi
+      rend="italic">T. C. Christopher</hi></name>, <name type="organization" key="391">Co. D, 18th
+     South Carolina</name>, aged 21 years, a robust man, was wounded at <name type="battle"
+     key="xxx">Williamsburg, Virginia</name>, <date type="injury" when="1862-05-05">May 5,
+     1862</date>, by a conoidal musket ball, which entered about two inches below and behind the
+    left trochanter major, and passed forward, upward, and inward. He was stooping at the time he
+    received the injury. He was made prisoner, and sent to <name type="place">York River</name>, and
+    thence on a hospital steamer to <name type="place" key="#Washington">Washington</name>, and
+    placed in <name type="hospital" key="163">Cliffburne Hospital</name>, <date type="admit"
+     when="1862-05-17">May 17th</date>. His pulse was 100, and he complained of severe pain in the
+    hip and knee. The tissues about the hip were much swollen; the limb was everted, and shortened
+    one and a half inches. The opening made by the bullet was very small, and discharged a thin
+    sanious pus. There was no orifice of exit. The patient was etherized, and careful exploration of
+    the wound revealed a fracture of the inner portion of the neck and probably of the head of the
+    femur. It was decided that excision should be performed, and the patient was placed upon a
+    soothing and supporting regimen preparatory to the operation. <date type="operation"
+     when="1862-05-20">May 20th</date>, <name type="person" key="294">Assistant Surgeon J. S.
+     Billings</name>, <name type="organization" key="190">U. S. A.</name>, made a curvilinear
+    incision, four inches in length, one inch behind the great trochanter, that revealed the
+    condition of the parts. Fragments of the inner extremity of the neck were removed piecemeal. The
+    head was then removed from the cotyloid cavity, except a small fragment which was extracted from
+    an intermuscular space. The ball was now discovered lying in the obturator externus muscle, and
+    extracted. Little blood was lost, and reaction took place. Water dressing was applied, and a
+    grain of sulphate of morphia administered. Eversion of the foot was corrected by fastening the
+    limb by straps of adhesive plaster to an upright piece of wood screwed to the foot of the
+    bedstead, and, the latter being raised, adequate extension and counter-extension were secured.
+    On May 21st, the patient reported a comfortable night, but now had a very irritable stomach,
+    with frequent vomiting. His skin was cool and clammy; his pulse small and feeble at 115. He was
+    ordered aromatic spirits of ammonia in small doses, brandy, egg-nog, and beef essence, with
+    sinapisms to the epigastrium. On May 23d, the irritability of the stomach had subsided. The
+    patient was weaker; stimulants and concentrated nourishment were given. On May 24th, the patient
+    rapidly grew weaker. Capillary h&#230;morrhage took place from the surfaces of the incision, but
+    was readily checked by the application of a solution of persulphate of iron. Enemata of beef
+    essence and brandy were administered, and these articles also by the mouth. The patient sank
+    rapidly, and died <date type="death" when="1862-05-24">May 24th</date>, five days after the
+    operation. At the autopsy, twelve hours after death, the soft parts about the seat of injury
+    were found dark in color and softened. The acetabulum was eroded. A clot of blood of three
+    ounces was found between the peritoneum and iliacus externus muscle. The innominatum and
+    superior portion of the femur were removed, and, together with the excised fragments, forwarded
+    to the <name type="hospital" key="431">Army Medical Museum</name>, and numbered 19 of the
+    Surgical Section, having been mounted among its earliest specimens, and it is represented in the
+    wood-cut (<hi rend="initialcap">F</hi>IG. 57).&#8212;(<hi rend="italic">Circ.</hi> 6, S. G. O.,
+    1865, p. 62, and <hi rend="italic">Circ.</hi> 2, S. G. O., 1869, pp. 35, 135.)</p>
+
+   <figure><graphic url="cww.001532.001"/><head>
+    <hi rend="initialcap">F</hi>IG. 57.&#8212;Transverse shot fracture of the anatomical neck of the
+    left femur, with caries. <hi rend="italic">Spec</hi>. 19.</head></figure>
+
+  </body>
+ </text>
+</TEI>

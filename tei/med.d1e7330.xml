@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e7330">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Kennedy, Thomas</title>
+                <title level="m" type="sub">a machine readable transcription</title>
+                <principal>Susan C. Lawrence</principal>
+                <principal>Kenneth M. Price</principal>
+                <principal>Kenneth J. Winkle</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2011</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <idno>med.d1e7330</idno>
+                <authority>Civil War Washington</authority>
+                <publisher>University of Nebraska–Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+                </distributor>
+                <date>2011</date>
+                <availability>
+                    <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved.
+                        Redistribution or republication in any medium, except as allowed under the
+                        Fair Use provisions of U.S. copyright law, requires express written consent
+                        from the editors and advance notification of the publisher, the University
+                        of Nebraska–Lincoln.</p>
+                </availability>
+            </publicationStmt>
+            <notesStmt>
+                <note type="project">The following are responsible for particular readings or for
+                    changes to this file, as noted: 
+ <persName xml:id="kmp">Kenneth M. Price</persName> 
+                    <persName xml:id="ajh">AJ Howell</persName>
+                    <persName xml:id="mb">Matthew Bosley</persName>
+                    <persName xml:id="el">Elizabeth Lorang</persName>
+                    <persName xml:id="sb">Stacey Berry</persName>
+                    <persName xml:id="et">Elisabeth Tracey</persName>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>The Medical and Surgical History of the War of the Rebellion.
+                        (1861&#8211;65.)</title>
+                    <editor role="compiler">Surgeon General Joseph K. Barnes, United States
+                        Army</editor>
+                    <pubPlace>Washington, D.C.</pubPlace>
+                    <publisher>Government Printing Office</publisher>
+                    <biblScope type="part">Part 1</biblScope>
+                    <biblScope type="volume">Volume 2</biblScope>
+                    <date when="1870">1870</date>
+                    <biblScope type="page">111</biblScope>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <classDecl>
+                <taxonomy xml:id="medsurg">
+                    <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme="#medsurg">
+                    <term>on special wounds and injuries of the head</term>
+                    <term>wounds and injuries of the head</term>
+                    <term>gunshot wounds</term>
+                    <term>gunshot contusions of the cranial bones</term>
+                    <term>contusion of the skull without fracture</term>
+                    <term>encephalitis</term>
+                    <term>conoidal pistol ball contused parietal bone near descending branch of
+                        lambdoidal suture</term>
+                    <term>ague, chill daily</term>
+                    <term>injury found near middle of posterior edge of parietal bone</term>
+                    <term>missile found against skull, inches from point of injury</term>
+                    <term>meninges thickened and blackened and firmly adherent to <choice>
+                            <orig>calvaria</orig>
+                            <reg>calvarium</reg>
+                        </choice></term>
+                    <term>brain substance softened</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+ <change who="#kmp" when="2014-05">blessed</change>
+            <change who="#ajh" when="2013-08-16">added figure encoding</change>
+            <change who="#mb" when="2013-06-05">additional proofing of transcription and encoding,
+                edited and added keyword terms</change>
+            <change who="#mb" when="2011-06-17">additional proofing of transcription and
+                encoding</change>
+            <change who="#el" when="2011-11-05">case text extracted and transformed from larger
+                file</change>
+            <change who="#sb" when="2011-02-09">enriched encoding</change>
+            <change who="#sb" when="2011-01-28">validated file</change>
+            <change who="#et" when="2009-08-01">encoded</change>
+            <change who="#sb" when="2008-09-22">initial checking of OCR text against PDF;
+                encoded</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body xml:id="ch1.sc3.0093">
+            <p><name type="person" key="371"><hi rend="initialcap">K</hi>ENNEDY, <hi
+                        rend="initialcap">T</hi>HOMAS</name>, Private, <name type="organization"
+                    key="150">Co. M, 1st Massachusetts Heavy Artillery</name>, aged 30, was wounded,
+                at the battle of <name type="BATTLE" key="7">Petersburg, Virginia</name>, <date
+                    type="injury" when="1864-06-16">June 16th, 1864</date>, by a conoidal pistol
+                ball, which contused the right parietal bone, near the right descending branch of
+                the lambdoidal suture. He was conveyed to Washington, and admitted, on <date
+                    type="admit" when="1864-06-21">the 21st</date>, into the <name type="hospital"
+                    key="176">Lincoln Hospital</name>. Simple dressings were applied, as the injury
+                was considered slight. He was furloughed on <date type="furlough" when="1864-07-16"
+                    >July 16th</date>, but returned on <date type="admit" when="1864-07-29">the 29th
+                    of the same month</date>. He stated that during his absence from the hospital he
+                had suffered from ague, and, for the last ten days, had experienced a chill daily. A
+                careful examination of the wound was now made, and a roughness of the external table
+                of the skull was detected. He was much prostrated, but complained of no pain or
+                uneasiness about the head. His pulse was frequent and feeble, tongue dry and red,
+                and the abdomen tympanitic and painful. Three grains of calomel, with one-fourth of
+                a grain of opium, were ordered every three hours, until the third dose had been
+                taken; meantime, tonics and stimulants were given, and afterwards continued in
+                liberal doses. Sinapisms were applied to the epigastric region and extremities. No
+                perceptible improvement in his condition, however, was obtained. He died on the
+                afternoon of <date type="death" when="1864-07-31">the 31st</date>, remaining fully
+                sensible and able to answer questions intelligently until within two or three hours
+                of his death. At the autopsy, the seat of injury was found to be near the middle of
+                the posterior edge of the right parietal bone. The missile had glanced downward and
+                forward, and was found lying against the skull, two inches from the point of injury.
+                The pericranium was separated a distance of three and three-quarter inches along the
+                track of the missile, and beneath it the bone was spongy and porous. The line of
+                separation from healthy bone was well-marked. Upon the removal of the skull-cap, a
+                slight sponginess of the internal table, beneath the point of impact, was observed.
+                (See <hi rend="initialcap">F</hi>IG. 35.) The meninges, for some distance around the
+                seat of injury, were very much thickened and blackened, and firmly adherent to the <choice>
+                    <orig>calvaria</orig>
+                    <reg>calvarium</reg>
+                </choice>. The brain substance was softened, and the vessels very much congested.
+                The heart, liver, and spleen were flabby. The case is reported by <name
+                    type="person" key="246">Acting Assistant Surgeons Dean</name> and <name
+                    type="person" key="370">Atwater.</name>
+            </p>
+            <figure>
+                <graphic url="cww.001365.001"/>
+                <head><hi rend="intitialcap">F</hi>IG. 35.&#8212;Showing the extent of necrosis in a <choice>
+                    <orig>calvaria</orig>
+                    <reg>calvarium</reg>
+                </choice> sixteen days after a gunshot contusion. <hi rend="italic">Spec</hi>. 2920,
+                    Sect. I, A. M. M.</head>
+            </figure>
+        </body>
+    </text>
+</TEI>

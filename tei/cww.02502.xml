@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="cww.02502">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Letter From Washington</title>
+                <title level="m" type="sub">a machine readable transcription</title>
+                <editor role="co-editor">R. J. Weir</editor>
+                <principal>Susan C. Lawrence</principal>
+                <principal>Elizabeth Lorang</principal>
+                <principal>Kenneth M. Price</principal>
+                <principal>Kenneth J. Winkle</principal>
+                <respStmt>
+                    <resp>transcription and encoding</resp>
+                    <persName xml:id="el">Elizabeth Lorang</persName>
+                    <persName xml:id="bw">Becca Weir</persName>
+                    <persName xml:id="kk">Kourtney Klein</persName>
+                    <persName xml:id="ak">Alex Kinnaman</persName>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2015</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <idno>cww.02502</idno>
+                <distributor>Civil War Washington</distributor>
+                <publisher>University of Nebraska Lincoln</publisher>
+                <address>
+                    <addrLine>Center for Digital Research in the Humanities</addrLine>
+                    <addrLine>319 Love Library</addrLine>
+                    <addrLine>University of Nebraska-Lincoln</addrLine>
+                    <addrLine>P.O. Box 884100</addrLine>
+                    <addrLine>Lincoln, NE 68588-4100</addrLine>
+                </address>
+                <address>
+                    <addrLine>
+                        <email>cdrh@unl.edu</email>
+                    </addrLine>
+                </address>
+                <date>2015</date>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+                        <p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License (http://creativecommons.org/licenses/by-nc-sa/3.0/). Derivatives must be credited to Civil War Washington and R. J. Weir, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct xml:id="letter">
+                    <analytic>
+                        <author ref="#logic">Bob Logic</author>
+                        <title level="a">Letter from Washington</title>
+                    </analytic>
+                    <monogr>
+                        <title xml:id="paper" level="j">The Anglo-African</title>
+                        <imprint>
+                            <date xml:id="issue_date" when="1863-08-01">1 August 1863</date>                    
+                        </imprint>
+                        <biblScope type="pp">[1]</biblScope>                    
+                    </monogr>           
+                </biblStruct>
+                
+                <biblStruct xml:id="issue">               
+                    <monogr>
+                        <title level="j" sameAs="#paper"/>
+                        <imprint>
+                            <date sameAs="#issue_date"/>                  
+                        </imprint>              
+                    </monogr>                   
+                </biblStruct>                        
+            </sourceDesc>       
+        </fileDesc>
+        <encodingDesc> 
+            <p>This electronic text is a semi-diplomatic transcription of the source text. Hyphenation, punctuation, variant spellings, and errors present in the source text have been retained. The transcription does not attempt to capture all aspects of the original formatting or layout.</p>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <persName xml:id="logic">Unknown</persName>
+                <persName xml:id="rh">Hamilton, Robert</persName>
+                <persName xml:id="th">Hamilton, Thomas</persName>
+                <date when="1863">1863</date>
+            </creation>
+            <langUsage>
+                <language ident="en-US">modern American English</language>
+            </langUsage>
+            <textClass>
+                <classCode scheme="http://authorities.loc.gov">
+                    <term xml:id="sh2009113992">African American soldiers--History--19th century</term>
+                    <term xml:id="sh2009114063">African Americans--Washington (D.C.)</term>
+                    <term xml:id="sh85032407">Copperhead movement</term>
+                    <term xml:id="sh85039267">Draft Riot, New York, N.Y., 1863</term>
+                    <term xml:id="n80044891">Lee, Robert E. (Robert Edward), 1807-1870</term>
+                    <term xml:id="sh95002101">Port Hudson (La.)--History--Siege, 1863</term>
+                    <term xml:id="n50014569">Toussaint Louverture, 1743-1803</term>
+                    <term xml:id="n93053256">United States. Colored Troops</term>
+                    <term xml:id="sh2007100004">United States--History--Civil War, 1861-1865--Participation, African American</term>
+                </classCode>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when="2015-03-26" who="#el">checked transcription and encoding and made necessary changes; updated TEI header, including keywords</change>
+            <change when="2015-03-03" who="#ak">added keywords</change>
+            <change when="2015-02-23" who="#ak">checked, updated xml:id</change>
+            <change when="2014-11-05" who="#ak">checked transcription and endcoding</change>
+            <change when="2014-04-14" who="#el">checked encoding; revised TEI header</change>
+            <change when="2014-04-16" who="#kk">transcribed, encoded</change>
+        </revisionDesc>
+    </teiHeader>
+    
+    <facsimile corresp="#issue">
+        <surface xml:id="pp1">
+            <graphic url="aa.18630801.pp1.jpg"/>
+            <zone xml:id="pp1_cropped" corresp="#letter">
+                <graphic url="aa.18630801.pp1_cropped.jpg"/>
+            </zone>
+        </surface>
+        <surface xml:id="pp2">
+                <graphic url="aa.18630801.pp2.jpg"/>
+            </surface>
+        <surface xml:id="pp3">
+            <graphic url="aa.18630801.pp3.jpg"/>
+        </surface>
+        <surface xml:id="pp4">
+            <graphic url="aa.18630801.pp4.jpg"/>
+        </surface>
+    </facsimile>
+    
+    <text corresp="#letter #pp1_cropped">
+        
+        <body>
+            
+            <head type="main" subtype="authorial" rend="center">Letter from Washington</head>
+            
+            <milestone unit="undeclared" rend="short-bar"/>
+            
+            <opener>
+            <dateline rend="right">Washington, July 18th, 1863.</dateline>
+            </opener>    
+            
+            <p>The enrollment for drafting has been going on <lb/>in the City for some days, and it is very amusing <lb/>to see the excitement it has produced among both <lb/>colored and white.  The excitement among some <lb/>of the whites <choice><orig>originate</orig><reg>originates</reg></choice> from a want of disposition <lb/>to help the Government to put down the <choice><orig>rebel-<lb/>lion</orig><reg>rebellion</reg></choice>, because they don't want to "fight for <choice><orig>nig-<lb/>gers</orig><reg>niggers</reg></choice>."  They are willing to fight for "the <choice><orig>consti-<lb/>tution</orig><reg>constitution</reg></choice> as it was."  What absurdity!  What sane <lb/>man could ever think for a moment to restore <lb/>the Union as it was!  It is just as impossible as <lb/>it would be for the leopard to change his spots. <lb/>The excitement among our colored friends is <lb/>caused by they being somewhat in a fog, that is <lb/>they want to know what they are going to fight <lb/>for.  A strange question to my mind, when we <lb/>as a people look around us, and see what the <lb/>Government is doing for us.  Shall we be idle <lb/>spectators to the whole scene?  Not at all, by <lb/>no means.  Take for example this district; a <lb/>free district, every man has his word, and having <lb/>the law upon his side, it is his own fault, if he <lb/>suffers himself to be imposed upon.  What care <lb/>I about prejudice, if I have law.  Let us stand <lb/>up like men and go into this war with brave <lb/>hearts, and those rights the Government cannot <lb/>give us, let us fight for them, we cannot expect <lb/>to be <lb/> 
+                <floatingText>
+                    <body>
+                        <lg type="stanza">
+                            <l>Carried to the skies</l>
+                            <l>On flowery beds of ease</l>
+                            <l>Whilst others fought to gain the prize,</l>
+                            <l>And sailed through bloody seas.</l>
+                        </lg>
+                    </body>
+                </floatingText>
+            </p>
+            
+            <p>Whilst I was writing the foregoing part of my <lb/>letter, two men came in with large portfolios in <lb/>their hands, and as they approached me with "How <lb/>do you do sir?" and I very politely responding <lb/>to their salutations, they asked me my name. <lb/>I could then readily perceive that they were the <lb/>enrollers.  I told them my names.  The next <lb/>question was my age.  This question was a <lb/>poser.  Here I was in a dilemma, too old for the <lb/>draft; and being a great ladies man I told my <lb/>age in a very stammering manner, but to my <lb/>mortification, as soon as they learned my age, <lb/>they turned upon their heels and said: "We have <lb/>got no use for you."  The old familiar words came <lb/>across my mind instantly <lb/>
+                <floatingText>
+                    <body>
+                        <l>"Would that I were a boy again."</l>
+                    </body>
+                </floatingText>
+            </p>
+            
+            <p>Men of color, my fellow-citizens, do not stop <lb/>to ask the question: "What are we going to <lb/>fight for?" but enlist, buckle on your armour, <lb/>and with strong arms and brave hearts go into <lb/>this war and fight for your rights.  Did <choice><orig>Tous-<lb/>saint</orig><reg>Toussaint</reg></choice> L'Ouverture stop to ask that question?  Did <lb/>his followers stop to ask that question.  No, no, <lb/>not at all.  They rose up with all their strength <lb/>and struck blow after blow for freedom, and this <lb/>day their posterity are enjoying the fruits of <lb/>their victories.  Let us as people emulate their <lb/>example.</p>
+            
+            <p>In <choice><orig>connexion</orig><reg>connection</reg></choice> with this subject, I am proud to <lb/>say that the First Colored Regiment is full, and <lb/>two companies of the Second Regiment mustered <lb/>in.  I had the pleasure of making them a visit <lb/>the other day, and I was highly delighted at the <lb/>kind reception I met with.  So soon as I entered <lb/>the camp, I heard one of them exclaim: "Why, <lb/>yonder' a Bob the Logician!" and such a <choice><orig>shak-<lb/>ing</orig><reg>shaking</reg></choice> of hands.  When I got home, my arm felt, <lb/>as if it had been using sledgehammers all day, <lb/>and here let me assure you when these boys get <lb/>into battle, somebody will be hurt.  They have <lb/>a splendid camp ground, comfortably located. <lb/>In a word, they have everything they can desire.</p>
+            
+            <p>I had an invitation to attend the mass <choice><orig>con-<lb/>vention</orig><reg>convention</reg></choice> at Poughkeepsie, for the encouragement <lb/>of enlistment of colored men for the war.  I <choice><orig>re-<lb/>gret</orig><reg>regret</reg></choice> that circumstances deprived me of the <lb/>pleasure of being there.  I do not suppose there <lb/>could be a convention for any object that would <lb/>delight me so much as the object of abovenamed <lb/>convention.</p>
+            
+            <p>There is no news of any importance in our <lb/>city at present.  The fall of Vicksburg and Port <lb/>Hudson gladdens the hearts of all good Union <lb/>men, while the hearts of the Secesh in our midst <lb/>drop and give way.  But the news of the <choice><orig>un-<lb/>fortunate</orig><reg>unfortunate</reg></choice> riots in your City seem to give the <lb/>Copperheads new life.  They think the time has <lb/>arrived when the republic must fall.  But how <lb/>vain is their hopes.  This riot in New York will <lb/>be a lasting disgrace upon that City.  The fiends <lb/>used the draft as a pretext for the purpose of <lb/>carrying out their hellish designs on poor <choice><orig>inoffen-<lb/>sive</orig><reg>inoffensive</reg></choice> and <choice><orig>defenceless</orig><reg>defenseless</reg></choice> colored people.  Their <choice><orig>at-<lb/>tack</orig><reg>attack</reg></choice> upon the Orphan Asylum in my opinion is <lb/>an unpardonable crime, and God will bring his <lb/>withering curse upon the perpetrators.  The <choice><orig>ex-<lb/>citement</orig><reg>excitement</reg></choice> occasioned by the riots in your City <choice><orig>re-<lb/>minds</orig><reg>reminds</reg></choice> me of that when the Rebel General Lee <lb/>was about to make his raid into Pennsylvania. <lb/>There is a very large family here in this city of <lb/>our people (when I say our people I mean the <lb/>colored people), the father of which is Mr. <choice><orig>Tim-<lb/>idty</orig><reg>Timidty</reg></choice> Weakback.  He has many children, <choice><orig>grand-<lb/>children</orig><reg>grandchildren</reg></choice> and great-grandchildren.  In a word, <lb/>the family is too numerous to count.  When Lee's <lb/>whereabouts was a mystery, they would say: <lb/>"Washington's gone!"  "How so?"  says I. <lb/>"The rebels are at the gates of the City."  "Why, <lb/>says I, if they were only at the gates, I would be <lb/>satisfied, but they have been in the City ever <lb/>since the rebellion broke out."  I must confess, <lb/>I am not only amused, but vexed at this <choice><orig>Weak-<lb/>back</orig><reg>Weakback</reg></choice> family.  As soon as the Government meets <lb/>with a reverse, and Washington is threatened by <lb/>the rebels, they then begin to give way in the <lb/>back and knees.  They forget to remember that <lb/>God doeth all things well, that whatever may be <lb/>our reverses and the prolongation of the war, it <lb/>will be for the benefit of the colored man.</p>
+            
+            <closer>
+                <signed>BOB LOGIC.</signed>
+            </closer>
+            
+        </body>
+    </text>
+</TEI>
+

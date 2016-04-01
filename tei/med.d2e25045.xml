@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d2e25045">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Scanton, J.</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+    <idno>med.d2e25045</idno>
+    <authority>Civil War Washington</authority>
+    <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor>
+     <name>Center for Digital Research in the Humanities</name>
+     <address><addrLine>319 Love Library</addrLine>
+       <addrLine>University of Nebraska–Lincoln</addrLine>
+       <addrLine>Lincoln, NE 68588-4100</addrLine>
+       <addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+    </distributor>
+    <date>2011</date>
+    <availability>
+     <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+      republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+      law, requires express written consent from the editors and advance notification of the
+      publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+ <persName xml:id="kw">Kenneth Winkle</persName> <persName xml:id="ajh">AJ Howell</persName>
+     <persName xml:id="mb">Matthew Bosley</persName>
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl>
+     <title level="j">The Medical and Surgical History of the War of the Rebellion.
+      (1861-65.)</title>
+     <pubPlace>Washington, DC</pubPlace><publisher>Government Printing Office</publisher>
+     <biblScope type="part">Part 3</biblScope>
+     <biblScope type="volume">Volume 2</biblScope>
+     <date when="1883">1883</date>
+     <biblScope type="page">723</biblScope>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+     <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <keywords scheme="#medsurg">
+     <term>wounds and complications</term>
+     <term>shot wounds</term>
+     <term>effect of missiles and projectiles on bony structure</term>
+     <term>complete fractures</term>
+     <term>ball entered above external condyle of femur, passed directly through from front to
+      rear</term>
+     <term>comminuted shaft of femur</term>
+     <term>infiltration of soft parts from ilium to tibia</term>
+     <term>amputation of thigh at middle third</term>
+     <term>extensive longitudinal fracture into joint, complicated with oblique fracture in lowest
+      third</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+ <change who="#kw" when="2014-05">blessed</change>
+   <change who="#ajh" when="2013-08-23">added figure encoding</change>
+   <change who="#mb" when="2013-02-11">copied case from MSHWR, added proofing of transcription and
+    encoding, identified keyword terms and figures</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p><hi rend="initialcap">C</hi>ASE 1069.&#8212;<name type="person" key="xxx">Private J.
+     Scanton</name>, <name type="organization" key="xxx">Co. A, 3d Maryland</name>, was wounded at
+     <name type="battle" key="68">Cedar Mountain</name>, <date type="injury" when="1862-08-09"
+     >August 9, 1862</date>, by a musket ball, which entered above the external condyle of the left
+    femur and passed directly through from front to rear, badly comminuting the shaft to the extent
+    of four inches. He was admitted into the <name type="hospital" key="185">Mansion House
+     Hospital</name> at <name type="place" key="#Alexandria">Alexandria</name>
+    <date type="admit" when="1862-08">several days afterwards</date>. Infiltration of the soft parts
+    from the anterior superior spinous process of the ilium to the spine of the tibia followed the
+    injury. Amputation of the thigh at the middle third by the circular method was performed by
+     <name type="person" key="xxx">Assistant Surgeon P. Adolphus</name>, <name type="organization"
+     key="190">U. S. A.</name>, on <date type="operation" when="1862-08-15">August 15th</date>. and
+    the case resulted fatally on <date type="death" when="1862-08-20">August 20, 1862</date>. The
+    history of the case, with the amputated portion of the femur, was contributed by <name
+     type="person" key="xxx">Surgeon J. E. Summers</name>, <name type="organization" key="190">U. S.
+     A.</name> The bone is numbered specimen 42 of the <hi rend="italic">Surgical Section</hi> of
+     <name type="hospital" key="431">the Museum</name>, and exhibits an extensive longitudinal
+    fracture implicating the joint, and being complicated with an oblique fracture in the lowest
+    third (<hi rend="initialcap">F</hi>IG. 411).</p>
+   <figure>
+    <graphic url="cww.001669.001"/>
+    <head><hi rend="initialcap">F</hi>IG. 411.&#8212;Lower half of left femur. <hi rend="italic"
+      >Spec</hi>. 42.</head>
+   </figure>
+  </body>
+ </text>
+</TEI>

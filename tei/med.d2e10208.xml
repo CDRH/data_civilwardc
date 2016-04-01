@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d2e10208">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Fitzgerald, T.</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+    <idno>med.d2e10208</idno>
+    <authority>Civil War Washington</authority>
+    <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor><name>Center for Digital Research in the
+     Humanities</name><address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address></distributor>
+    <date>2011</date>
+    <availability>
+     <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+      republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+      law, requires express written consent from the editors and advance notification of the
+      publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+ <persName xml:id="kmp">Kenneth M. Price</persName> 
+     <persName xml:id="ajh">AJ Howell</persName>
+     <persName xml:id="mb">Matthew Bosley</persName>
+     <persName xml:id="el">Elizabeth Lorang</persName>
+     <persName xml:id="sb">Stacey Berry</persName>
+     <persName xml:id="et">Elisabeth Tracey</persName>
+     <persName xml:id="ss">Sarah Synovec</persName>
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title level="j">The Medical and Surgical History of the War of the Rebellion.
+      (1861-65.)</title><pubPlace>Washington, DC</pubPlace><publisher>Government Printing
+      Office</publisher><biblScope type="part">Part 3</biblScope><biblScope type="volume">Volume
+      2</biblScope><date when="1883">1883</date><biblScope type="page">209</biblScope></bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+     <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <keywords scheme="#medsurg">
+     <term>wounds and injuries of the lower extremities</term>
+     <term>injuries of the shaft of the femur</term>
+     <term>excisions in the shaft of the femur</term>
+     <term>excisions in the continuity of the femur for shot injury</term>
+     <term>intermediary excisions in the shaft of the femur</term>
+     <term>fatal cases of intermediary excision in the shaft of the femur</term>
+     <term>compound fracture of lower third of femur</term>
+     <term>wound suppurated profusely</term>
+     <term>diarrh&#339;a</term>
+     <term>an&#230;mia</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+ <change who="#kmp" when="2014-05">blessed</change>
+   
+   <change who="#ajh" when="2013-08-22">added figure encoding</change>
+   <change who="#mb" when="2012-05-09">additional proofing of transcription and encoding, identified
+    keyword terms</change>
+   <change who="#el" when="2011-05-11">case text extracted and transformed from larger file</change>
+   <change who="#sb" when="2011-06-04">Enrich Encoding, Edit and validate</change>
+   <change who="#sb" when="2011-01-28">Validated File</change>
+   <change who="#ss" when="2008-09-22">Sarah Synovec initial checking of OCR text; encoded P5
+    Encoding</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+
+   <p><hi rend="initialcap">C</hi>ASE 421.&#8212;<name type="person" key="1064">Private T.
+     Fitzgerald</name>, <name type="organization" key="430">Co. C, 38th New York</name>, aged 27
+    years, was wounded at <name type="BATTLE" key="10">Chancellorsville</name>, <date type="injury"
+     when="1863-05-02">May 2, 1863</date>, and treated at a field hospital until <date type="admit"
+     when="1863-06-15">June 15th</date>, when he was conveyed to <name type="place"
+     key="#Washington">Washington</name>. <name type="person" key="459">Assistant Surgeon G. A.
+     Mursick</name>, <name type="organization" key="132">U. S. V.</name>, reported: "The patient was
+    admitted to <name type="hospital" key="175">Stanton Hospital</name> with compound fracture of
+    the lower third of tho right femur. Resection of a portion of the bone was performed on <date
+     type="operation" when="1863-05-19">May 19th</date>, before admission to this hospital. The
+    wound suppurated profusely, and his condition was unfavorable. Water dressings were used, and
+    Hodgen's splint was applied to the limb. Six ounces of whiskey were administered daily. There
+    was no attempt at union of the bone and no abatement of the discharge. By July 2d the patient
+    had become pale, an&#230;mic, and emaciated, when muriated tincture of iron was prescribed in
+    doses of twenty drops three times a day. The patient was also troubled with anorexia, and on
+    July 5th diarrh&#339;a came on, for which astringents, consisting of opium and tannin, and
+    subsequently tincture of catechu and opium, were administered. Death occurred on <date
+     type="death" when="1863-07-10">July 10, 1863</date>." A section of the injured femur was
+    contributed by <name type="person" key="70">Surgeon J. A. Lidell</name>, <name
+     type="organization" key="132">U. S. V.</name>, and is shown in the wood-cut (<hi
+     rend="initialcap">F</hi>IG. 171). The specimen exhibits considerable deposit of callus,
+    imprisoning the necrosed fragments but not uniting the extremities.</p>
+   <figure><graphic url="cww.001577.001"/><head>
+    <hi rend="initialcap">F</hi>IG. 171.&#8212;Section of right femur fractured in lowest third. <hi
+     rend="italic">Spec</hi>. 1522.</head></figure>
+
+  </body>
+ </text>
+</TEI>

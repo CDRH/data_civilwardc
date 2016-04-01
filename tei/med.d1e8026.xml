@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e8026">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Benson, Stephen D.</title>
+                <title level="m" type="sub">a machine readable transcription</title>
+                <principal>Susan C. Lawrence</principal>
+                <principal>Kenneth M. Price</principal>
+                <principal>Kenneth J. Winkle</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2011</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <idno>med.d1e8026</idno>
+                <authority>Civil War Washington</authority>
+                <publisher>University of Nebraska–Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+                </distributor>
+                <date>2011</date>
+                <availability>
+                    <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved.
+                        Redistribution or republication in any medium, except as allowed under the
+                        Fair Use provisions of U.S. copyright law, requires express written consent
+                        from the editors and advance notification of the publisher, the University
+                        of Nebraska–Lincoln.</p>
+                </availability>
+            </publicationStmt>
+            <notesStmt>
+                <note type="project">The following are responsible for particular readings or for changes to this file, as noted: 
+                    <persName xml:id="mb">Matthew Bosley</persName>                    
+                    <persName xml:id="el">Elizabeth Lorang</persName>
+                    <persName xml:id="sb">Stacey Berry</persName>
+                    <persName xml:id="et">Elisabeth Tracey</persName>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>The Medical and Surgical History of the War of the Rebellion. (1861&#8211;65.)</title>
+                    <editor role="compiler">Surgeon General Joseph K. Barnes, United States Army</editor>
+                    <pubPlace>Washington, D.C.</pubPlace>
+                    <publisher>Government Printing Office</publisher>
+                    <biblScope type="part">Part 1</biblScope>
+                    <biblScope type="volume">Volume 2</biblScope>
+                    <date when="1870">1870</date>
+                    <biblScope type="page">117</biblScope>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <classDecl>
+                <taxonomy xml:id="medsurg">
+                    <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme="#medsurg">
+                    <term>on special wounds and injuries of the head</term>
+                    <term>wounds and injuries of the head</term>
+                    <term>gunshot wounds</term>
+                    <term>gunshot contusions of the cranial bones</term> 
+                    <term>contusion of the skull without fracture</term>
+                    <term>deafness</term>
+                    <term>conoidal ball entered side of head behind meatus auditorius externus, emerged close to acromion process of contralateral scapula</term>
+                    <term>entirely unconscious several hours</term>
+                    <term>much mental aberration</term>
+                    <term>entrance and exit wounds discharged freely</term>
+                    <term>confusion of thought, impairment of memory</term>                        
+                    <term>total deafness of wounded ear</term>   
+                    <term>abscesses formed about mastoid process</term>
+                    <term>disabilities total</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change who="#mb" when="2013-06-10">additional proofing of transcription and encoding, edited and added keyword terms</change>            
+            <change who="#mb" when="2011-10-05">additional proofing of transcription and encoding</change>
+            <change who="#mb" when="2011-06-21">additional proofing of transcription and encoding</change>
+            <change who="#el" when="2011-11-05">case text extracted and transformed from larger file</change>
+            <change who="#sb" when="2011-02-09">enriched encoding</change>
+            <change who="#sb" when="2011-01-28">validated file</change>
+            <change who="#et" when="2009-08-01">encoded</change>
+            <change who="#sb" when="2008-09-22">initial checking of OCR text against PDF; encoded</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body xml:id="ch1.sc3.0109">            
+                <p><name type="person" key="426"><hi rend="initialcap">B</hi>ENSON, <hi
+                            rend="initialcap">S</hi>TEPHEN <hi rend="initialcap">D</hi>.</name>,
+                    Sergeant, <name type="organization" key="236">Co. A, 31st Maine
+                        Volunteers</name>, aged 20 years, was wounded at the battle of <name type="BATTLE"
+                            key="250"><choice><orig>Spottsylvania</orig><reg>Spotsylvania</reg></choice> Court House, Virginia</name>, <date
+                        type="injury" when="1864-05-12">May 12th, 1864</date>, by a conoidal ball,
+                    which entered the left side of the head, one inch behind the meatus auditorius
+                    externus, on a line with its opening, and emerged close to the acromion process
+                    of the right scapula.  He was entirely unconscious for several hours, but had
+                    some realization of pain in the evening, when he made an ineffectual effort to
+                    get on his feet.  He was admitted to the hospital of the 2d division of the Ninth
+                        Corps, and, on <date type="transfer" when="1864-05-24">May 24th</date>, was sent
+                    to the <name type="hospital" key="173">Harewood Hospital</name>, Washington. For
+                    about three weeks there was much mental aberration, especially at night.  <name
+                        type="person" key="425">Assistant Surgeon Sumner A. Patten</name>, who
+                    reports the case, examined the patient on <date type="injury" when="1864-06-20">June 20th, 1864</date>. The wounds of
+                    entrance and of exit discharged freely. There was numbness of the left side of
+                    the head, and deafness of the left ear. The scalp in the vicinity of the wound
+                    was much swollen. On rising to his feet, he was so dizzy that he was compelled
+                    to lay hold of something to avoid falling. Occasionally small pieces of necrosed
+                    bone were discharged from the left ear.  <name type="person" key="426">Sergeant
+                        Benson</name>, commissioned as lieutenant, on <date type="duty"
+                        when="1864-08-01">August 1st</date>, returned to his regiment, but, on <date
+                        type="resigned" when="1864-12-05">December 5th, 1864</date>, resigned.  On
+                    <date type="injury" when="1866-04-02">April 2d, 1866</date>, <name type="person" key="425">Doctor Patten</name> wrote that
+                    this officer had not been able to labor since the reception of the injury; that
+                    there was a constant feeling of weakness, although his appetite was generally
+                    good. Confusion of thought and impairment of memory were also well-marked
+                    effects of the injury. His general health was deteriorated, and he weighed but
+                    144 pounds, having weighed 163 when he enlisted.  In <date type="pension"
+                        when="1868-09">September, 1868</date>, <name type="person" key="427">Examining Surgeon E. F. Sanger</name> reported that this pensioner,
+                    residing in <name type="place">Bangor, Maine</name>, had total deafness of the left ear, and that his
+                    general health was very poor, and his disabilities total. In a previous
+                    communication, <name type="person" key="429">Pension Examiner J. C.
+                        Weston</name> reported that frequent abscesses formed about the mastoid
+                    process, due probably to caries. </p>            
+        </body>
+    </text>
+</TEI>

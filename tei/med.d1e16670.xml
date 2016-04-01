@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e16670">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title level="m" type="main">H&#8212;&#8212;, J. C.</title>
+        <title level="m" type="sub">a machine readable transcription</title>
+        <principal>Susan C. Lawrence</principal>
+        <principal>Kenneth M. Price</principal>
+        <principal>Kenneth J. Winkle</principal>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <date>2011</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <idno>med.d1e16670</idno>
+        <authority>Civil War Washington</authority>
+        <publisher>University of Nebraska–Lincoln</publisher>
+        <distributor>
+          <name>Center for Digital Research in the Humanities</name>
+          <address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+        </distributor>
+        <date>2011</date>
+        <availability>
+          <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution
+            or republication in any medium, except as allowed under the Fair Use provisions of U.S.
+            copyright law, requires express written consent from the editors and advance
+            notification of the publisher, the University of Nebraska–Lincoln.</p>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="project">The following are responsible for particular readings or for changes to
+          this file, as noted: 
+ <persName xml:id="kmp">Kenneth M. Price</persName> <persName xml:id="ajh">AJ Howell</persName>
+          <persName xml:id="mb">Matthew Bosley</persName>
+          <persName xml:id="el">Elizabeth Lorang</persName>
+          <persName xml:id="sb">Stacey Berry</persName>
+          <persName xml:id="et">Elisabeth Tracey</persName>
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>
+          <title>The Medical and Surgical History of the War of the Rebellion.
+            (1861&#8211;65.)</title>
+          <editor role="compiler">Surgeon General Joseph K. Barnes, United States Army</editor>
+          <pubPlace>Washington, D.C.</pubPlace>
+          <publisher>Government Printing Office</publisher>
+          <biblScope type="part">Part 1</biblScope>
+          <biblScope type="volume">Volume 2</biblScope>
+          <date when="1870">1870</date>
+          <biblScope type="page">264</biblScope>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <classDecl>
+        <taxonomy xml:id="medsurg">
+          <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="#medsurg">
+          <term>on special wounds and injuries of the head</term>
+          <term>wounds and injuries of the head</term>
+          <term>gunshot wounds</term>
+          <term>gunshot fractures of the cranial bones</term>
+          <term>trephining after gunshot fractures of the skull</term>
+          <term>trephining practiced, fatal termination</term>
+          <term>conoidal ball entered lower occipital bone, fractured and depressed inner table,
+            lodged in diplo&#235;, plugged lateral sinus on right side of brain</term>
+          <term>symptoms of compression, convulsions caused by depressed portion of bone and
+            pressure of ball on brain</term>
+          <term>autopsy</term>
+          <term>disorganized pulpy condition of posterior lobe of brain, emitted offensive
+            odor</term>
+          <term>fracture extended from entrance to foramen magnum. The </term>
+          <term>ball found in posterior lobe of cerebrum</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+ <change who="#kmp" when="2014-05">blessed</change>
+      <change who="#ajh" when="2013-08-19">added figure encoding</change>
+      <change who="#mb" when="2013-08-14">additional proofing of transcription and encoding, edited
+        and added keyword terms</change>
+      <change who="#mb" when="2011-08-09">additional proofing of transcription and encoding</change>
+      <change who="#el" when="2011-11-05">case text extracted and transformed from larger
+        file</change>
+      <change who="#sb" when="2011-02-09">enriched encoding</change>
+      <change who="#sb" when="2011-01-28">validated file</change>
+      <change who="#et" when="2009-08-01">encoded</change>
+      <change who="#sb" when="2008-09-22">initial checking of OCR text against PDF; encoded</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p><hi rend="initialcap">C</hi>ASE.&#8212;<name type="person">Corporal J. C.
+          H&#8212;&#8212;</name>, <name type="organization" key="xx">Co. E, 2d New Jersey
+          Volunteers</name>, aged 37 years, was wounded at the battle of <name type="BATTLE" key="3"
+          >Spottsylvania Court-house, Virginia</name>, <date type="injury" when="1864-05-14">May
+          14th, 1864</date>, by a conoidal ball, which entered the lower part of the occipital bone,
+        fractured and depressed the inner table, and lodged in the diplo&#235;, plugging up the
+        lateral sinus on the right side of the brain. He was admitted on <date type="admit"
+          when="1864-05-14">the same day</date> to the hospital of the 1st division, Sixth Corps,
+        and thence, on <date type="transfer" when="1864-05-19">the 19th</date>, sent to the <name
+          type="hospital" key="173">Harewood Hospital</name>, Washington, D. C. On <date
+          type="operation" when="1864-05-21">the 21st</date>, the parts were in a healthy condition,
+        with a moderate amount of suppuration, and the patient's constitutional condition was
+        remarkably good. <name type="person" key="158">Surgeon R. B. Bontecou</name>, <name
+          type="organization" key="132">U. S. V.</name>, applied the trephine, but did not remove
+        the ball, for fear of h&#230;morrhage from the lateral sinus and immediate death. The
+        patient did not exhibit any symptoms of compression until <date type="operation"
+          when="1864-05-26">the 26th</date>, when he was seized with convulsions, caused by the
+        depressed portion of bone and the pressure of the ball on the brain. The trephine was again
+        applied, and the depressed bone was removed, but the ball had receded from sight, and could
+        not be found. After the operation, the convulsions ceased, a passive delirium supervened and
+        continued until the <date type="death" when="1864-06-04">4th of June, 1864</date>, when
+        death occurred. The autopsy revealed a disorganized pulpy condition of the posterior lobe of
+        the brain, emitting an extremely offensive odor. The fracture extended from orifice of
+        entrance to the foramen magnum. The ball was found in the posterior lobe of the cerebrum, at
+        the depth of about two inches. The specimen is a large section of the cranium with a
+        conoidal ball suspended in a perforation of the occipital bone. The opening measures one
+        inch by one and one-fourth inches, and is partly caused by the operation of trephining. A
+        fissure passes down ward and inward to the foramen magnum. The specimen and history were
+        contributed by <name type="person" key="158">Surgeon R. B. Bontecou</name> ,<name
+          type="organization" key="132">U. S. V.</name> and are further illustrated in the Surgical
+        Photograph Series, A. M. M., Volume VII, page 1. </p>
+      <figure>
+        <graphic url="cww.001415.001"/>
+        <head><hi rend="initialcap">F</hi>IG. 128.&#8212;Section of the occipital bone, with a
+          musket ball, which plugged the lateral sinus. <hi rend="italic">Spec</hi>. 3040, Sect. I,
+          A. M. M.</head>
+      </figure>
+    </body>
+  </text>
+</TEI>

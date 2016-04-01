@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d2e30985">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Ott, F.</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+       <idno>med.d2e30985</idno>
+       <authority>Civil War Washington</authority>
+       <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor>
+       <name>Center for Digital Research in the Humanities</name>
+       <address><addrLine>319 Love Library</addrLine>
+       <addrLine>University of Nebraska–Lincoln</addrLine>
+       <addrLine>Lincoln, NE 68588-4100</addrLine>
+       <addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+    </distributor>
+    <date>2011</date>
+    <availability>
+        <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+         republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+         law, requires express written consent from the editors and advance notification of the
+         publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+ <persName xml:id="kw">Kenneth Winkle</persName> 
+     <persName xml:id="mb">Matthew Bosley</persName>
+     <persName xml:id="sp">Scott Pulverenti</persName>
+     <persName xml:id="kk">Kourtney Klein</persName>     
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl>
+     <title level="j">The Medical and Surgical History of the War of the Rebellion. (1861-65.)</title>
+     <pubPlace>Washington, DC</pubPlace>
+     <publisher>Government Printing Office</publisher>
+     <biblScope type="part">Part 2</biblScope>
+     <biblScope type="volume">Volume 2</biblScope>
+     <date when="1876">1876</date>
+     <biblScope type="page">885</biblScope>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+       <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+      <keywords scheme="#medsurg">
+       <term>wounds and injuries of the upper extremities</term>
+       <term>wounds and operations of the elbow joint</term>
+       <term>shot wounds of the elbow</term>
+       <term>shot fractures of the elbow</term>
+       <term>excisions at the elbow joint for shot injury</term> 
+       <term>secondary excisions at the elbow</term> 
+       <term>recoveries after secondary excisions at the elbow</term>
+       <term>slight gunshot wound of arm</term>
+       <term>gunshot flesh-wound of forearm</term> 
+       <term>excised elbow joint</term>
+       <term>removed part of humerus, head of radius, and olecranon process of ulna</term>
+       <term>ulceration and destruction of cartilages</term>
+       <term>injured limb two inches shorter than its fellow</term>
+       <term>limb useless for labor</term>
+       <term>cannot grasp with hand</term>       
+     </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+ <change who="#kw" when="2014-05">blessed</change>
+   <change who="#kk" when="2014-01-22">added figure encoding</change>
+   <change who="#mb" when="2012-07-09">additional proofing of transcription and encoding, identified keyword terms</change>
+   <change who="#sp" when="2011-02-24">checked OCR; added minimal mark-up for personal names, place names, and dates</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>   
+   <p><hi rend="initialcap">C</hi>ASE 1817.&#8212;<name type="person" key="xxx">Corporal F. Ott</name>, <name type="organization" key="xxx">Co. E, 93d Pennsylvania</name>, aged 35 years, was wounded <date type="injury" when="1865-03-25">March 25, 1865</date>, in an assault on <name type="place">Fort Steadman</name>, in the lines about <name type="place">Petersburg</name>. <name type="person" key="xxx">Surgeon S. F. Chapin</name>, <name type="organization" key="xxx">139th Pennsylvania</name>, reported his admission to the hospital of the 2d division of the Sixth Corps, with &#34;a slight gunshot wound of the right arm by a mini&#233; ball.&#34;  The patient was transferred to the Sixth Corps depot hospital at <name type="place">City Point</name>, where <name type="person" key="xxx">Assistant Surgeon J. S. Ely</name>, <name type="organization" key="132">U. S. V.</name>, reported:  &#34;A gunshot flesh-wound of the right forearm.&#34;  The patient was sent, <date type="transfer" when="1865-03-27">March 27, 1865</date>, on the <name type="hospital" key="xxx">hospital transport &#34;State of Maine&#34;</name> to <name type="place" key="#Washington">Washington</name>, and entered <name type="hospital" key="152">Finley Hospital</name>, <date type="transfer" when="1865-03-29">March 29, 1865</date>. The wound, as reported by <name type="person" key="xxx">Acting Assistant Surgeon C. J. Polk</name>, who has published an account of the case,&#185; was regarded as trivial for more than a week. Py&#230;mic symptoms supervened. It was discovered that the joint was affected with suppurative inflammation, and on <date type="operation" when="1865-05-06">May 6, 1865</date>, <name type="person" key="72">Surgeon G. L. Pancoast</name>, <name type="organization" key="132">U. S. V.</name>, excised the joint, &#34;removing an inch of the humerus and the half of the head of the radius, and the olecranon process of the ulna.&#34;  The preparation (<hi rend="initialcap">F</hi>IG. 638) was presented to <name type="hospital" key="431">the Museum</name> by <name type="person" key="72">Dr. Pancoast</name> (<hi rend="italic">Cat. Surg. Sect.</hi>, 1866, p. 154). There has been no fracture of the articular extremities, but ulceration and destruction of the cartilages evidently
+    existed. There is a transverse section of the humerus above the trochlea, half an inch from the point at which the bone was ultimately sawn.  The case progressed favorably, and the patient was discharged <date type="servicedischarge" when="1865-08-01">August 1, 1865</date>, and pensioned.  <name type="person" key="xxx">Examiner M. D. Benedict</name>, of <name type="place" key="#Washington">Washington</name>, reported, <date type="pensions" when="1865-08-01">at that date</date>:  &#34;He had compound comminuted fracture (!!) of the right elbow joint: the entire joint was removed by excision; limb entirely useless for labor.&#34;  <name type="person" key="xxx">Examiner W. B. Lowman</name>, of <name type="place">Johnstown, Pennsylvania</name>, reported, <date type="pension" when="1873-09-06">September 6, 1873</date>:  &#34;Resection of right elbow joint; the limb is two inches shorter than its fellow; the arm is but of little use; he cannot grasp anything with his hand.  Address, Scalp Level, <name type="place">Cambria County, Pennsylvania</name>.&#34;</p>
+   <p>&#185; <hi rend="initialcap">P</hi>OLK (<hi rend="initialcap">C. J.</hi>), <hi rend="italic">Rare Cases in Surgery</hi>, in <hi rend="italic">The [Philadelphia] Medical and Surgical Reporter</hi>, 1874, Vol. XXXI, p. 44.   The operation by Dr. <hi rend="initialcap">P</hi>ANCOAST is the second case reported.</p>
+   
+   <figure>
+    <graphic url="cww.001705.001" />
+    <head><hi rend="initialcap">F</hi>IG. 638.&#8212;Excised bones of right elbow.     <hi rend="italic">Spec</hi>. 4287.</head>
+   </figure>    
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e41332">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Hilgert, Jacob</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+    <idno>med.d1e41332</idno>
+       <authority>Civil War Washington</authority>
+       <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor>
+       <name>Center for Digital Research in the Humanities</name>
+       <address><addrLine>319 Love Library</addrLine>
+       <addrLine>University of Nebraska–Lincoln</addrLine>
+       <addrLine>Lincoln, NE 68588-4100</addrLine>
+       <addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+    </distributor>
+    <date>2011</date>
+    <availability>
+        <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+         republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+         law, requires express written consent from the editors and advance notification of the
+         publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+     <persName xml:id="mb">Matthew Bosley</persName>
+     <persName xml:id="el">Elizabeth Lorang</persName>
+     <persName xml:id="sb">Stacey Berry</persName>
+     <persName xml:id="ao">Alyssa Olson</persName>
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl>
+     <title level="j">The Medical and Surgical History of the War of the Rebellion. (1861-65.)</title>
+     <pubPlace>Washington, DC</pubPlace>
+     <publisher>Government Printing Office</publisher>
+     <biblScope type="part">Part 2</biblScope>
+     <biblScope type="volume">Volume 1</biblScope>
+     <date when="1879">1879</date>
+     <biblScope type="page">186-187</biblScope>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+       <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+      <keywords scheme="#medsurg">
+       <term>diarrh&#339;a and dysentery</term>
+       <term>fatal cases of diarrh&#339;a and dysentery, with accounts of the morbid appearances observed</term>
+       <term>from Columbian College Hospital, Washington, D. C.</term>
+       <term>diarrh&#339;a and consumption</term>
+       <term>chronic bronchitis</term>
+       <term>severe cough, large quantities of muco-purulent <choice><orig>sputa</orig><reg>sputum</reg></choice> streaked with blood</term>
+       <term><choice><orig>dulness</orig><reg>dullness</reg></choice> on percussion over upper third of lung, tubular respiration heard</term>
+       <term>both lungs contained numerous minute tubercles, cavity about size of orange near apex of lung</term>
+       <term>large and puckered cicatrix-like depression on surface of upper lobe of lung</term>
+       <term>pleuritic adhesions</term>
+       <term>tubercular ulcers of both small and large intestines, mesenteric glands enlarged</term>
+       <term>upper lobe of lung shows large number of minute tubercles, cavity size of orange at top of lobe</term>
+       <term>upper lobe of left lung presented large and much puckered cicatrix-like depression on convex surface</term>
+       <term>upper jejunum presented three small tubercular ulcers</term>
+       <term>upper ileum presented large oval tubercular ulcer</term>
+       <term>lower ileum presented Peyer's patch as seat of three small tubercular ulcers</term>
+       <term>lower ileum, ileoc&#230;cal valve, and part of c&#230;cum had transverse ulcer just above valve</term>
+       <term>c&#230;cum thickened and ulcerated</term>
+       <term>vermiform appendix deeply ulcerated</term>
+       <term>transverse colon presented deep ulcers</term>       
+       <term>autopsy performed</term>       
+     </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change who="#mb" when="2012-11-29">additional proofing of transcription and encoding, identified keyword terms</change>
+   <change who="#el" when="2010-11-05">case text extracted and transformed from larger file</change>
+   <change who="#sb" when="2010-05-01">enrich encoding, proof and edit</change>
+   <change who="#ao" when="2008-10-02">encoding and editing</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body> 
+   <p>The notes of the next case were forwarded, with the specimens, from <name type="hospital" key="157"><hi rend="initialcap">C</hi>OLUMBIAN <hi rend="initialcap">C</hi>OLLEGE <hi rend="initialcap">H</hi>OSPITAL</name>, Washington, D. C., <name type="person" key="126">Surgeon Thomas R. Crosby</name>, <name type="organization" key="132">U. S. V.</name>, in charge:</p>
+   <p><hi rend="initialcap">C</hi>ASE 434.&#8212;<name type="person" key="xxx">Private Jacob Hilgert</name>, <name type="organization" key="xxx">company E, 104th Pennsylvania volunteers</name>; admitted from <name type="hospital" key="164">Stone hospital</name> <date type="admit" when="1865-01-10">January 10, 1865</date>.  Diarrh&#339;a and consumption.  [This man is borne on the register of <name type="hospital" key="164">Stone hospital</name>, Washington, D. C., admitted <date type="admit" when="1864-12-09">December 9, 1864</date>&#8212;chronic bronchitis&#8212;sent to <name type="hospital" key="xxx">Columbian hospital</name> <date type="transfer" when="1865-01-10">January 10th</date>.]  He had a distressing diarrh&#339;a, together with a severe cough, and expectorated large quantities of muco-purulent <choice><orig>sputa</orig><reg>sputum</reg></choice> streaked with blood. There was <choice><orig>dulness</orig><reg>dullness</reg></choice> on percussion over the upper third of the right lung, and tubular respiration was heard on both sides.  Treatment: Cod-liver oil with six ounces of whiskey daily.  Diet: Milk, beefsteak and toast. The cod-liver oil appeared to increase his diarrh&#339;a, and, January 16th, fusel-oil in five-drop doses was substituted, to be taken in his whiskey.  January 25th: The expectoration is more copious, and his strength is failing; appetite very poor; he has four or five stools daily.  He died <date type="death" when="1865-02-06">February 6th</date>.&#8212;<name type="person" key="xxx">Acting Assistant Surgeon H. D. Vosburgh</name>.  <hi rend="italic">Autopsy</hi> <date type="autopsy" when="1865-02-07">fourteen hours after death</date>: Both lungs contained numerous minute tubercles; near the apex of the right lung there was a cavity about the size of an orange, and on the surface of the upper lobe of the left lung a large and much puckered cicatrix-like depression was observed; there were pleuritic adhesions on the right side. Both small and largo intestines presented tubercular ulcers. The mesenteric glands were enlarged.   [Nos. 480 to 487, Medical Section, <name type="hospital" key="431">Army Medical Museum</name>, are from this case.  No. 480 is the upper lobe of the right lung, the cut surface of which shows a large number of minute tubercles. At the top of the lobe there is a cavity the size of an orange, with distinct firm walls.  No. 481 is the upper lobe of the left lung, presenting on its convex surface a large and much puckered cicatrix-like depression.  No. 482 is a portion of the upper part of the jejunum, presenting three small tubercular ulcers.  No. 483 is from the upper part of the ileum of the same patient, and presents a large oval tubercular ulcer the long diameter of which is transverse to the gut.  No. 484 is from the lower part of the ileum of the same patient, and presents a Peyer's patch which is the seat of three small tubercular ulcers.  No. 485 is the lower extremity of the ileum, with the ileoc&#230;cal valve and part of the c&#230;cum; there is a transverse ulcer just above the valve, and the c&#230;cum is thickened and ulcerated.  No. 486 is the vermiform appendix, which is deeply ulcerated.  No. 487 is a portion of the transverse colon, which is thickened, and presents a number of deep ulcers.]</p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e19570">
+                <teiHeader>
+                                <fileDesc>
+                                                <titleStmt>
+                                                                <title level="m" type="main">Herrick, Henry</title>
+                                                  <title level="m" type="sub">a machine readable
+                                                  transcription</title>
+                                                  <principal>Susan C. Lawrence</principal>
+                                                  <principal>Kenneth M. Price</principal>
+                                                  <principal>Kenneth J. Winkle</principal>
+                                                </titleStmt>
+                                                <editionStmt>
+                                                  <edition><date>2011</date></edition>
+                                                </editionStmt>
+                                                <publicationStmt>
+                                                  <idno>med.d1e19570</idno>
+                                                  <authority>Civil War Washington</authority>
+                                                  <publisher>University of
+                                                  Nebraska–Lincoln</publisher>
+                                                  <distributor><name>Center for Digital Research in
+                                                  the
+                                                  Humanities</name><address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address></distributor>
+                                                  <date>2011</date>
+                                                  <availability>
+                                                  <p>Copyright © 2011 by University of
+                                                  Nebraska–Lincoln, all rights reserved.
+                                                  Redistribution or republication in any medium,
+                                                  except as allowed under the Fair Use provisions of
+                                                  U.S. copyright law, requires express written
+                                                  consent from the editors and advance notification
+                                                  of the publisher, the University of
+                                                  Nebraska–Lincoln.</p>
+                                                  </availability>
+                                                </publicationStmt>
+                                                <notesStmt>
+                                                  <note type="project">The following are responsible
+                                                  for particular readings or for changes to this
+                                                  file, as noted: 
+                                                                  <persName xml:id="mb">Matthew Bosley</persName>
+                                                                  <persName xml:id="el">Elizabeth Lorang</persName>
+                                                  <persName xml:id="sb">Stacey Berry</persName>
+                                                  <persName xml:id="et">Elisabeth Tracey</persName>
+                                                  </note>
+                                                </notesStmt>
+                                                <sourceDesc>
+                                                  <bibl><title>The Medical and Surgical History of
+                                                  the War of the Rebellion.
+                                                  (1861&#8211;65.)</title><editor role="compiler">Surgeon General Joseph K. Barnes, United States
+                                                  Army</editor><pubPlace>Washington,
+                                                  D.C.</pubPlace><publisher>Government Printing
+                                                  Office</publisher><biblScope type="part">Part 1</biblScope>
+                                                  <biblScope type="volume">Volume 2</biblScope><date
+                                                  when="1870">1870</date><biblScope type="page">501</biblScope></bibl>
+                                                </sourceDesc>
+                                </fileDesc>
+                                <encodingDesc>
+                                                <classDecl>
+                                                  <taxonomy xml:id="medsurg">
+                                                  <bibl>Medical and Surgical History of the War of
+                                                  the Rebellion</bibl>
+                                                  </taxonomy>
+                                                </classDecl>
+                                </encodingDesc>
+                                <profileDesc>
+                                                <textClass>
+                                                  <keywords scheme="#medsurg">
+                                                                  <term>wounds and injuries of the chest</term> 
+                                                                  <term>gunshot wounds of the chest</term>
+                                                                  <term>penetrating gunshot wounds of the chest</term>
+                                                                  <term>treatment by hermetically sealing</term>
+                                                                  <term>ball entered anteriorly between second and third ribs, passed out behind scapula</term>
+                                                                  <term>ball injured apex of lung</term>
+                                                                  <term>disability permanent</term>                                                                  
+                                                  </keywords>
+                                                </textClass>
+                                </profileDesc>
+                                <revisionDesc>
+                                                <change who="#mb" when="2011-12-22">additional proofing of transcription and encoding</change>                                                
+                                                <change who="#el" when="2011-05-11">case text extracted and transformed from larger file</change>
+                                                <change who="#sb" when="2011-02-09">enriched
+                                                  encoding</change>
+                                                <change who="#sb" when="2011-01-28">validated
+                                                  file</change>
+                                                <change who="#et" when="2009-08-01">encoded</change>
+                                                <change who="#sb" when="2008-09-22">initial checking
+                                                  of OCR text against PDF; encoded </change>
+                                </revisionDesc>
+                </teiHeader>
+                <text>
+                                <body>
+                                                
+                                                <p> <hi rend="initialcap">C</hi>ASE.&#8212;<name type="person" key="xxx">Private Henry Herrick</name>, <name type="organization" key="xxx">Co.
+                                                  H, 5th Michigan Volunteers</name>, aged 20 years, was
+                                                                wounded at <name type="BATTLE" key="xxx">Petersburg, Virginia</name>, <date type="injury" when="1864-06-16">June 16th, 1864</date>,
+                                                  by a conoidal ball, which entered anteriorly
+                                                  between the second and third ribs, injured the
+                                                  apex of the right lung, and passed out behind the
+                                                  scapula. He was taken to the hospital of the
+                                                  Second Corps, where the wound was hermetically
+                                                  sealed. On <date type="transfer" when="1864-06-24">the 24th</date>, he was transferred to <name type="hospital" key="165">Mount Pleasant Hospital</name>, Washington. On <date type="transfer" when="1865-01-04">January 4th,
+                                                  1865</date>, he was sent to Harper Hospital, <name type="place">Detroit,
+                                                                  Michigan</name>, whence he was discharged from service on
+                                                                <date type="servicedischarge" when="1865-02-05">February 5th, 1865</date>. A communication from the
+                                                                <name type="person">Commissioner of Pensions</name>, dated <date type="pension" when="1868-04-08">April 8th, 1868</date>,
+                                                  states that Herrick is a pensioner, his disability
+                                                  being rated one-half and permanent. The case is
+                                                  reported by <name type="person" key="xxx">Surgeon O. Everts</name>, <name type="organization" key="xxx">20th Indiana
+                                                  Volunteers</name>. </p>
+                                                
+                                </body>
+                </text>
+</TEI>

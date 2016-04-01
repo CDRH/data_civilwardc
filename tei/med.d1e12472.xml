@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e12472">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Daley, John</title>
+                <title level="m" type="sub">a machine readable transcription</title>
+                <principal>Susan C. Lawrence</principal>
+                <principal>Kenneth M. Price</principal>
+                <principal>Kenneth J. Winkle</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2011</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <idno>med.d1e12472</idno>
+                <authority>Civil War Washington</authority>
+                <publisher>University of Nebraska–Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+                </distributor>
+                <date>2011</date>
+                <availability>
+                    <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved.
+                        Redistribution or republication in any medium, except as allowed under the
+                        Fair Use provisions of U.S. copyright law, requires express written consent
+                        from the editors and advance notification of the publisher, the University
+                        of Nebraska–Lincoln.</p>
+                </availability>
+            </publicationStmt>
+            <notesStmt>
+                <note type="project">The following are responsible for particular readings or for changes to this file, as noted: 
+                    <persName xml:id="mb">Matthew Bosley</persName>
+                    <persName xml:id="el">Elizabeth Lorang</persName>
+                    <persName xml:id="sb">Stacey Berry</persName>
+                    <persName xml:id="et">Elisabeth Tracey</persName>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>The Medical and Surgical History of the War of the Rebellion. (1861&#8211;65.)</title>
+                    <editor role="compiler">Surgeon General Joseph K. Barnes, United States Army</editor>
+                    <pubPlace>Washington, D.C.</pubPlace>
+                    <publisher>Government Printing Office</publisher>
+                    <biblScope type="part">Part 1</biblScope>
+                    <biblScope type="volume">Volume 2</biblScope>
+                    <date when="1870">1870</date>
+                    <biblScope type="page">176</biblScope>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <classDecl>
+                <taxonomy xml:id="medsurg">
+                    <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme="#medsurg">
+                    <term>on special wounds and injuries of the head</term>
+                    <term>wounds and injuries of the head</term>
+                    <term>gunshot wounds</term>
+                    <term>gunshot contusions of the cranial bones</term> 
+                    <term>gunshot fractures of both tables of the skull</term>
+                    <term>gunshot fractures of both tables of the cranium with depression</term>
+                    <term>gunshot depressed fractures of cranial bones followed by epilepsy</term>
+                    <term>conoidal musket ball wounded head</term>                    
+                    <term>convulsions of an epileptiform character, recovered</term>                    
+                    <term>depressed fracture of frontal bones</term>
+                    <term>disability total and permanent</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change who="#mb" when="2013-07-08">additional proofing of transcription and encoding, edited and added keyword terms</change>
+            <change who="#mb" when="2011-07-21">additional proofing of transcription and encoding</change>            
+            <change who="#el" when="2011-11-05">case text extracted and transformed from larger file</change>
+            <change who="#sb" when="2011-02-09">enriched encoding</change>
+            <change who="#sb" when="2011-01-28">validated file</change>
+            <change who="#et" when="2009-08-01">encoded</change>
+            <change who="#sb" when="2008-09-22">initial checking of OCR text against PDF; encoded</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body xml:id="ch1.sc3.0218">            
+                <p><hi rend="initialcap">C</hi>ASE.&#8212;<name type="person" key="1533">Sergeant John Daley</name>, <name type="organization" key="789">Co. C, 57th
+                        Massachusetts Volunteers</name>, aged 36 years, was wounded in the head at
+                    the battle of <name type="BATTLE" key="12">the Wilderness, Virginia</name>,
+                        <date type="injury" when="1864-05-06">May 6th, 1864</date>, by a conoidal
+                    musket ball.  He was sent to Washington on <date type="admit"
+                        when="1864-05-16">the 16th</date>, and was admitted into the <name
+                        type="hospital" key="176">Lincoln Hospital</name>, where no fracture was
+                    suspected. On <date type="transfer" when="1864-07-18">July 18th</date> he was
+                    sent north, and on <date type="admit" when="1864-08-25">August 25th</date> was admitted to the hospital at <name type="place">Readville,
+                        Massachusetts</name>. On <date type="transfer" when="1864-10-24">October 24th</date> he was sent to the <name type="hospita">Dale Hospital, Worcester</name>, where it was ascertained that the frontal bone was fractured and depressed.  Convulsions of an epileptiform character supervened, but the patient finally
+                    recovered, and was discharged the service <date type="servicedischarge"
+                        when="1865-01-16">January 16th, 1865</date>.  He was pensioned, and on <date type="pension" when="1867-07-20">July
+                            20th, 1867</date>, was reported by <name type="person" key="1532">Pension Examiner
+                        Oramel Martin</name>, to be completely and permanently disabled.</p>            
+        </body>
+    </text>
+</TEI>

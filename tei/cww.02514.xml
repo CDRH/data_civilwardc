@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="cww.02514">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Alexandria, VA</title>
+                <title level="m" type="sub">a machine readable transcription</title>
+                <editor role="co-editor">R. J. Weir</editor>
+                <principal>Susan C. Lawrence</principal>
+                <principal>Elizabeth Lorang</principal>
+                <principal>Kenneth M. Price</principal>
+                <principal>Kenneth J. Winkle</principal>
+                <respStmt>
+                    <resp>transcription and encoding</resp>
+                    <persName xml:id="ak">Alex Kinnaman</persName>
+                    <persName xml:id="el">Elizabeth Lorang</persName>
+                    <persName xml:id="bw">Becca Weir</persName>
+                    <persName xml:id="kk">Kourtney Klein</persName>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2015</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <idno>cww.02514</idno>
+                <distributor>Civil War Washington</distributor>
+                <publisher>University of Nebraska Lincoln</publisher>
+                <address>
+                    <addrLine>Center for Digital Research in the Humanities</addrLine>
+                    <addrLine>319 Love Library</addrLine>
+                    <addrLine>University of Nebraska-Lincoln</addrLine>
+                    <addrLine>P.O. Box 884100</addrLine>
+                    <addrLine>Lincoln, NE 68588-4100</addrLine>
+                </address>
+                <address>
+                    <addrLine>
+                        <email>cdrh@unl.edu</email>
+                    </addrLine>
+                </address>
+                <date>2015</date>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+                        <p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License (http://creativecommons.org/licenses/by-nc-sa/3.0/). Derivatives must be credited to Civil War Washington and R. J. Weir, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct xml:id="letter">
+                    <analytic>
+                        <author ref="#rh">R. H.</author>
+                        <title level="a">Alexandria, VA</title>
+                    </analytic>
+                    <monogr>
+                        <title xml:id="paper" level="j">The Anglo-African</title>
+                        <imprint>
+                            <date xml:id="issue_date" when="1863-10-31">31 October 1863</date>                    
+                        </imprint>
+                        <biblScope type="pp">[3]</biblScope>                    
+                    </monogr>           
+                </biblStruct>
+                
+                <biblStruct xml:id="issue">               
+                    <monogr>
+                        <title level="j" sameAs="#paper"/>
+                        <imprint>
+                            <date sameAs="#issue_date"/>                  
+                        </imprint>              
+                    </monogr>                   
+                </biblStruct>                        
+            </sourceDesc>       
+        </fileDesc>
+        <encodingDesc> 
+            <p>This electronic text is a semi-diplomatic transcription of the source text. Hyphenation, punctuation, variant spellings, and errors present in the source text have been retained. The transcription does not attempt to capture all aspects of the original formatting or layout.</p>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <persName xml:id="rh">Hamilton, Robert</persName>
+                <persName xml:id="th">Hamilton, Thomas</persName>
+                <date when="1863">1863</date>
+            </creation>
+            <langUsage>
+                <language ident="en-US">modern American English</language>
+            </langUsage>
+            <textClass>
+                <classCode scheme="http://authorities.loc.gov">
+                    <term xml:id="sh2004002512">African American schools</term>
+                    <term xml:id="sh2009114063">African Americans--Washington (D.C.)</term>
+                    <term xml:base="sh91004215">Alexandria (Va.)--History</term>
+                    <term xml:id="sh94005987">Freedmen--United States</term>
+                    <term xml:id="no2004049910">Hinton, T. H. C.</term>
+                    <term xml:id="n85220659">Meade, George Gordon, 1815-1872</term>
+                    <term xml:id="sh85143770">Virginia--History--Civil War, 1861-1865--Social aspects</term>
+                </classCode>
+                <classCode scheme="http://civilwardc.org">
+                    <term>Chase, Mary E.</term>
+                    <term>Hamilton, Robert, 1819-1870</term>
+                    <term>Johnson, Charles</term>
+                    <term>Simms, Paris</term>
+                    <term>Slavery--Virginia</term>
+                </classCode>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when="2015-04-07" who="#ak">corrected</change>
+            <change when="2015-03-31" who="#el">checked and corrected transcription and encoding; updated TEI header, including keywords</change>
+            <change when="2015-03-30" who="#ak">added keywords</change>
+            <change when="2015-02-24" who="#ak">checked, corrected, updated xml:id</change>
+            <change when="2014-11-10" who="#ak">corrected transcription and encoding</change>
+            <change when="2014-04-14" who="#el">checked encoding; revised TEI header</change>
+            <change when="2014-04-28" who="#kk">transcribed, encoded</change>
+        </revisionDesc>
+    </teiHeader>
+    
+    <facsimile corresp="#issue">
+        <surface xml:id="pp1">
+            <graphic url="aa.18631031.pp1.jpg"/>
+        </surface>
+        <surface xml:id="pp2">
+                <graphic url="aa.18631031.pp2.jpg"/>
+        </surface>
+        <surface xml:id="pp3">
+            <graphic url="aa.18631031.pp3.jpg"/>
+            <zone xml:id="pp3_cropped" corresp="#letter">
+                <graphic url="aa.18631031.pp3_cropped.jpg"/>
+            </zone>
+        </surface>
+        <surface xml:id="pp4">
+            <graphic url="aa.18631031.pp4.jpg"/>
+        </surface>
+    </facsimile>
+    
+    <text corresp="#letter #pp3_cropped">
+        <body>
+            
+            <head type="main" subtype="authorial" rend="center"><emph rend="italic">ALEXANDRIA, VA.</emph></head>
+            
+            <opener>
+                <salute><emph rend="italic">Editorial Correspondence:</emph></salute>
+            </opener>
+            
+            <div>
+                <p><emph rend="smallcaps">The</emph> above named city having for long years <lb/>maintained the reputation of being the greatest <lb/>slave-mart in the country; our mind invariably <lb/>turned to it as a place more deserving of <choice><orig>de-<lb/>struction</orig><reg>destruction</reg></choice> than Sodom and Gomorrah or any of <lb/>the cities of the plains of Nod.</p>
+                
+                <p>Our anxiety to visit it was very great, as <lb/>we wanted to gaze upon its streets, and upon <lb/>the slave-pens, of which we had read so much; <lb/>but we will confess that it was not without <lb/>some fear that we consented to go thither, for <lb/>although it is within the Union lines, it <lb/>contains this day more secessionists than <lb/>any place of its size in the country.  Its <lb/>colored population all testify to this fact, as <lb/>they receive more insults in that place in one <lb/>week, than they do in Washington during a <lb/>whole year.</p>
+                
+                <p>Our paper would fail in size, were we to <choice><orig>at-<lb/>tempt</orig><reg>attempt</reg></choice> to chronicle all the outrages which have <lb/>been committed upon our people there lately; <lb/>but one example must suffice.  On the 19th of <lb/>last month, Mr. Paris Simms, a peaceable and <lb/>unoffending colored man, was stabbed by a <lb/>Union soldier (so called), in the day time, <lb/>without the slightest provocation; but we are <lb/>happy to say that the offender was caught, and <lb/>is now in jail.</p>
+                
+                <p>On the morning of the 20th <choice><orig>ult.</orig><reg>ultimate</reg></choice>, we were <lb/>invited by Mr. Chas. Johnson, a gentleman of <lb/>color, sutler to the 3d Wisconsin Volunteers, <lb/>to take a ride with him to Alexandria, and we <lb/>gladly accepted the invitation.</p>
+                
+                <p>In passing over the Long Bridge which <lb/>leads out of Washington, we met several of <lb/>Mr. J's. wagons driven by white men.  The <lb/>greeting was very cordial and the men received <lb/>their orders with as much cheerfulness as <lb/>though he had been as white as snow.  We <lb/>have since learned that Mr. J. is a man of much <lb/>influence and is highly respected by the whole <lb/>12th Corps of which his regiment forms a <lb/>part.</p>
+                
+                <p>On entering Alexandria the curse of slavery <lb/>is broadly manifest, dilapidation and sloth <lb/>stare you in the face on every hand except <lb/>where the new order of things is cropping out. <lb/>Many of the houses are without paint; fences <lb/>are broken down&#8212;and tidiness is seen nowhere <lb/>except about a few of the better built houses <lb/>now occupied by Union men and Northern <lb/>troops&#8212;the latter, by the way, occupy some of <lb/>the best houses in town, once the property of <lb/>secessionists.</p>
+                
+                <p>The number of colored people in the city is <lb/>very great, and increasing daily, which is <lb/>owing to the fact that all making their escape <lb/>to Mead's army are forwarded by railway to <lb/>this place, where they get plenty of work and <lb/>good wages.  One of the most pleasing facts <lb/>about these people is the rapidity with which <lb/>they acquire the habits and feelings of freemen. <lb/>There is a settlement of them in the Northern <lb/>part of the city, called Petersburg (because <lb/>most of them came from that part of Virginia), <lb/>that occupies about three blocks.  Here they <lb/>enjoy the rights and begin to realize the <choice><orig>re-<lb/>sponsibilities</orig><reg>responsibilities</reg></choice> of freemen.  We shall not very <lb/>soon forget an expression that fell from the <lb/>mouth of one of them as he left his humble <lb/>home at early morn, to pursue his daily <choice><orig>avoca-<lb/>tion</orig><reg>avocation</reg></choice>.  Ourself and friend Hinton were taking <lb/>an early stroll at the time when we heard the <lb/>question and its ever memorable answer. <lb/>First Contraband&#8212;"How is you old boy?" <choice><orig>Se-<lb/>cond</orig><reg>Second</reg></choice> Contraband&#8212;<emph rend="italic">"Everything is lovely."</emph>  Ah! <lb/>thought we, how appropriate the answer, and <lb/>how countless the volumes that it speaks.  The <lb/>question was a personal one; but the answer <lb/>speaks of liberty, secured to himself and the <lb/>dear ones in that humble shanty&#8212;of health <lb/>vouchsafed to all beneath its roof&#8212;of constant <lb/>and remunerated labor, secured to him by the <lb/>government, and of all the blessings of <choice><orig>free-<lb/>dom</orig><reg>freedom</reg></choice> which he then enjoyed.  Yes, our long <lb/>oppressed brother, <emph rend="italic">"everything is lovely,"</emph> now; <lb/>but the beauties of the coming time, when the <lb/>rays of the sun of liberty shall penetrate every <lb/>lowly cabin in the South, shall so far transcend <lb/>those of the present, that they will appear as <lb/>but the glimmerings of the early morn, to the <lb/>effulgence of the noonday's sun.</p>
+                
+                <floatingText>
+                    <body>
+                        <l>"There's a good time coming boys,</l>
+                        <l>Wait a little longer."</l>
+                    </body>
+                </floatingText>
+                
+                <p>We had a very pleasant visit to the schools <lb/>of Alexandria, the largest of which is kept by <lb/>the Rev. Messrs. &#8212;&#8212;, gentlemen of color, <lb/>in an old, but commodious school house, built <lb/>for poor whites, by funds left by Gen. <choice><orig>Wash-<lb/>ington</orig><reg>Washington</reg></choice>.  None that believe in the return of <lb/>spirits to this earth, can doubt that his has many <lb/>times left its heavenly abode to visit, and look <lb/>with approval upon the scenes now witnessed <lb/>in that old building erected by his munificence. <lb/>The children showed great perfection in the <choice><orig>re-<lb/>cital</orig><reg>recital</reg></choice> of their lessons and their singing was most <lb/>excellent.  There was one boy in this school <lb/>who, although he had been there but a very <lb/>short time, could write better than one of his <lb/>teachers and can spell any word in the <choice><orig>spell-<lb/>ing-book</orig><reg>spelling-book</reg></choice> without seeing it.</p>
+                
+                <p>Miss Mary E. Chase, a young lady of <choice><orig>daunt-<lb/>less</orig><reg>dauntless</reg></choice> courage, and who knows how to maintain <lb/>the reputation of her native South for <choice><orig>hospi-<lb/>tality</orig><reg>hospitality</reg></choice>, also teaches school here.  Her scholars <lb/>are all small, but they all looked as though <lb/>they had come out of a band box.  Their <lb/>spelling and reading were excellent, but their <lb/>great delight was in singing.  We left a song <lb/>of four eight-line stanzas with their teacher, <lb/>and on returning four days after we found that <lb/>they had learned every word of it, and their <lb/>little eyes sparkled with delight, as they at the <lb/>top of their voice poured it forth in song.</p>
+            </div>
+            
+            <div>
+                <head type="main" subtype="authorial" rend="center">THE SCHOOL FOR CONTRABANDS.</head>
+                
+                <p>This school is situated in a portion of the <lb/>barracks erected for the contrabands, and is <lb/>taught by a white gentleman, who having lost <lb/>his health while campaigning in Virginia, <lb/>found congenial employment in teaching these <lb/>despised ones.  His school is very full, and is <lb/>kept in the most perfect order.  The children <lb/>show wonderful aptitude.  We saw a class of <lb/>them who had been but <emph rend="italic">three weeks in school <lb/>read short sentences on the black board.</emph>  Their <lb/>teacher appeared to be very proud of them, as <lb/>well he might, for the scene presented by them <lb/>was truly wonderful.</p>
+                
+                <p>Many of the children were still dressed in <lb/>summer clothes although the season is so far <lb/>advanced&#8212;some of the clothing was in tatters. <lb/></p>
+                
+                <p>Mr. Hinton addressed them in some remarks <lb/>
+                    well suited to their capacity, but at the same <lb/>time earnest and eloquent.  We, by invitation <lb/>added a few words, and sung an anti-slavery <lb/>song, in which the little ones joined us most <lb/>heartily.</p>
+                
+                <p>Of the freedmen and their "superintendent," <lb/>of the other schools, and of the people, <choice><orig>institu-<lb/>tions</orig><reg>institutions</reg></choice> and churches of Alexandria, we will give <lb/>some account of in our next.</p>
+            </div> 
+            
+            <closer>
+                <signed rend="right">R. H.</signed>
+            <dateline>Washington, D. C., Oct. 20, 1863.</dateline>
+            </closer>
+        </body>
+    </text>
+    
+</TEI>
+

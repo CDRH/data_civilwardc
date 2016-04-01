@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d2e31859">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Harkness, W. A.</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+       <idno>med.d2e31859</idno>
+       <authority>Civil War Washington</authority>
+       <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor>
+       <name>Center for Digital Research in the Humanities</name>
+       <address><addrLine>319 Love Library</addrLine>
+       <addrLine>University of Nebraska–Lincoln</addrLine>
+       <addrLine>Lincoln, NE 68588-4100</addrLine>
+       <addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+    </distributor>
+    <date>2011</date>
+    <availability>
+        <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+         republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+         law, requires express written consent from the editors and advance notification of the
+         publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+     <persName xml:id="mb">Matthew Bosley</persName>
+     <persName xml:id="jy">Jingyao Yu</persName>
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl>
+     <title level="j">The Medical and Surgical History of the War of the Rebellion. (1861-65.)</title>
+     <pubPlace>Washington, DC</pubPlace>
+     <publisher>Government Printing Office</publisher>
+     <biblScope type="part">Part 2</biblScope>
+     <biblScope type="volume">Volume 2</biblScope>
+     <date when="1876">1876</date>
+     <biblScope type="page">214</biblScope>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+       <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+      <keywords scheme="#medsurg">
+       <term>injuries of the pelvis</term>
+       <term>shot fractures of the pelvic bones</term>
+       <term>shot fractures of the ilium</term> 
+       <term>wound of bowels</term>
+       <term>flesh wound of abdomen</term>
+       <term>gunshot wound of abdomen</term>
+       <term>ball passed beneath umbilicus, injured bone by escaping through ilium</term>
+       <term>painful tumor marks track of ball</term>
+       <term>ball entered abdomen at median line above pubes, fractured ilium at anterior superior spinous process</term>
+       <term>irritation extended to bladder</term>
+       <term>pain at seat of fracture owing to necrosed spicul&#230; of bone</term>
+       <term>can perform no hard labor</term>       
+     </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change who="#mb" when="2012-09-05">additional proofing of transcription and encoding, identified keyword terms</change>
+   <change who="#jy" when="2011-02-24">checked OCR; added minimal mark-up for personal names, place names, and dates</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body> 
+   <p><hi rend="initialcap">C</hi>ASE 620.&#8212;<name type="person" key="xxx">Private W. A. Harkness</name>, <name type="organization" key="xxx">Co. K, 7th Rhode Island</name>, aged 35 years, was wounded at <name type="BATTLE" key="16">Cold Harbor</name>, <date type="injury" when="1864-06-03">June 3, 1864</date>. At the regimental hospital the injury was recorded as a "wound of the bowels."  On <date type="transfer" when="1864-06-07">the 7th</date>, he was transferred to <name type="hospital" key="167">Carver Hospital</name>, Washington, whence <name type="person" key="102">Surgeon O. A. Judson</name> reported the case as a "flesh wound of the abdomen."  On <date type="transfer" when="1864-09-26">September 26th</date>, he was admitted into Lovell Hospital, <name type="place">Portsmouth Grove</name>, and discharged the service <date type="servicedischarge" when="1865-01-26">January 26, 1865</date>.  <name type="person" key="xxx">Surgeon Charles O'Leary</name>, <name type="organization" key="132">U. S. V.</name>, notes upon the monthly report as follows: "Gunshot wound of the abdomen; the ball passed beneath the umbilicus, injuring the bone by escaping through the ilium. A painful tumor marks the track of the ball."  He was pensioned, and <name type="person" key="xxx">Examining Surgeon Robert Millar</name>, of <name type="place">Providence</name> reported, <date type="pension" when="1870-01-21">January 21, 1870</date>, that the "ball entered the abdomen at the median line, about two inches above the pubes, passed outward toward the left side, fracturing the left ilium at the anterior superior spinous process, and emerged about two inches beyond. The irritation seems to have extended to the bladder, and if he stands he has a constant desire to urinate; any heavy lifting produces pain and <choice><orig>fulness</orig><reg>fullness</reg></choice> in this region. He also has pain at the seat of the fracture, which has recently increased, probably owing to some necrosed spicul&#230; of bone. He says that he can perform no hard labor which requires standing or lifting."  He was last paid on <date type="pension" when="1872-12-04">December 4, 1872</date>.</p>    
+  </body>
+ </text>
+</TEI>

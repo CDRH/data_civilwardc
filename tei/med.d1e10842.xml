@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e10842">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title level="m" type="main">S&#8212;&#8212;, Conrad</title>
+        <title level="m" type="sub">a machine readable transcription</title>
+        <principal>Susan C. Lawrence</principal>
+        <principal>Kenneth M. Price</principal>
+        <principal>Kenneth J. Winkle</principal>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <date>2011</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <idno>med.d1e10842</idno>
+        <authority>Civil War Washington</authority>
+        <publisher>University of Nebraska–Lincoln</publisher>
+        <distributor>
+          <name>Center for Digital Research in the Humanities</name>
+          <address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+        </distributor>
+        <date>2011</date>
+        <availability>
+          <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution
+            or republication in any medium, except as allowed under the Fair Use provisions of U.S.
+            copyright law, requires express written consent from the editors and advance
+            notification of the publisher, the University of Nebraska–Lincoln.</p>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="project">The following are responsible for particular readings or for changes to
+          this file, as noted: 
+ <persName xml:id="kw">Kenneth Winkle</persName> <persName xml:id="ajh">AJ Howell</persName>
+          <persName xml:id="mb">Matthew Bosley</persName>
+          <persName xml:id="el">Elizabeth Lorang</persName>
+          <persName xml:id="sb">Stacey Berry</persName>
+          <persName xml:id="et">Elisabeth Tracey</persName>
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>
+          <title>The Medical and Surgical History of the War of the Rebellion.
+            (1861&#8211;65.)</title>
+          <editor role="compiler">Surgeon General Joseph K. Barnes, United States Army</editor>
+          <pubPlace>Washington, D.C.</pubPlace>
+          <publisher>Government Printing Office</publisher>
+          <biblScope type="part">Part 1</biblScope>
+          <biblScope type="volume">Volume 2</biblScope>
+          <date when="1870">1870</date>
+          <biblScope type="page">143-144</biblScope>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <classDecl>
+        <taxonomy xml:id="medsurg">
+          <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="#medsurg">
+          <term>on special wounds and injuries of the head</term>
+          <term>wounds and injuries of the head</term>
+          <term>gunshot wounds</term>
+          <term>gunshot contusions of the cranial bones</term>
+          <term>gunshot fractures of the inner table of the skull</term>
+          <term>fractures of the vitreous table of the skull without fracture or depression of the
+            outer table</term>
+          <term>musket ball produced scalp wound on top of head, across sagittal suture and parallel
+            to and behind coronal suture</term>
+          <term>inflammation of brain</term>
+          <term>depressed fracture of vitreous table of parietals</term>
+          <term>periosteal exfoliation of outer table of cranial bone</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+ <change who="#kw" when="2014-05">blessed</change>
+      <change who="#ajh" when="2013-08-19">added figure encoding</change>
+      <change who="#mb" when="2013-07-01">additional proofing of transcription and encoding, edited
+        and added keyword terms</change>
+      <change who="#mb" when="2011-06-30">additional proofing of transcription and encoding</change>
+      <change who="#el" when="2011-11-05">case text extracted and transformed from larger
+        file</change>
+      <change who="#sb" when="2011-02-09">enriched encoding</change>
+      <change who="#sb" when="2011-01-28">validated file</change>
+      <change who="#et" when="2009-08-01">encoded</change>
+      <change who="#sb" when="2008-09-22">initial checking of OCR text against PDF; encoded
+      </change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body xml:id="ch1.sc3.0183">
+      <p><hi rend="initialcap">C</hi>ASE 9.&#8212;<name type="person" key="1420">Private Conrad
+          S&#8212;&#8212;</name>, <name type="organization" key="787">54th New York
+          Volunteers</name>, aged &#8212; years, was wounded at the <name type="BATTLE" key="127"
+          >second battle of Manassas</name>, <date type="injury" when="1862-08-30">August 30th,
+          1862</date>, by a musket ball which produced a scalp wound on the top of the head, across
+        the sagittal suture, parallel to and an inch behind the coronal suture. He was admitted to
+          <name type="hospital" key="152">Finley Hospital</name>, at Washington, on <date
+          type="admit" when="1862-09-03">September 3d</date>, and died of &#34;inflammation of the
+        brain&#34; on <date type="death" when="1862-10-20">October 20th, 1862</date>. The records of
+          <name type="hospital" key="152">Finley Hospital</name> give no particulars of the progress
+        and treatment of the case, nor of the the cranium was sent to the <name type="hospital"
+          key="431">Army Medical Museum</name> by <name type="person" key="1101">Surgeon Israel
+          Moses</name>, <name type="organization" key="132">U. S. Vols.</name> It shows an
+        exfoliation of the outer table a quarter of an inch by one inch, the surrounding bone being
+        cribriform and spongy. The thin oval necrosed scale is not fractured or displaced. The
+        vitreous table is fissured and slightly depressed. The wood-cuts give a satisfactory
+        representation of the nature and extent of the lesions. (<hi rend="initialcap">F</hi>IG. 50
+        and <hi rend="initialcap">F</hi>IG. 51.) </p>
+      <figure>
+        <graphic url="cww.001376.001"/>
+        <head><hi rend="initialcap">F</hi>IG. 50.&#8212;Depressed fracture of the vitreous table of
+          the parietals an inch behind the coronal suture. <hi rend="italic">Spec</hi>. 646, Sect.
+          I, A. M. M.</head>
+      </figure>
+
+      <figure>
+        <graphic url="cww.001377.001"/>
+        <head><hi rend="initialcap">F</hi>IG. 51.&#8212;Exterior view of the same specimen, showing
+          an exfoliation from contusion of the skull. <hi rend="italic">Spec</hi>. 646, Sect. I, A.
+          M. M.</head>
+      </figure>
+
+    </body>
+  </text>
+</TEI>

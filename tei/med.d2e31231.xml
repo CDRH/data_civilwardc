@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d2e31231">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Thompson, G.</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+       <idno>med.d2e31231</idno>
+       <authority>Civil War Washington</authority>
+       <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor>
+       <name>Center for Digital Research in the Humanities</name>
+       <address><addrLine>319 Love Library</addrLine>
+       <addrLine>University of Nebraska–Lincoln</addrLine>
+       <addrLine>Lincoln, NE 68588-4100</addrLine>
+       <addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+    </distributor>
+    <date>2011</date>
+    <availability>
+        <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+         republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+         law, requires express written consent from the editors and advance notification of the
+         publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+ <persName xml:id="kw">Kenneth Winkle</persName> 
+     <persName xml:id="mb">Matthew Bosley</persName>
+     <persName xml:id="bt">Ben Tomjack</persName>
+     <persName xml:id="kk">Kourtney Klein</persName>
+     <persName xml:id="el">Elizabeth Lorang</persName>
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl>
+     <title level="j">The Medical and Surgical History of the War of the Rebellion. (1861-65.)</title>
+     <pubPlace>Washington, DC</pubPlace>
+     <publisher>Government Printing Office</publisher>
+     <biblScope type="part">Part 2</biblScope>
+     <biblScope type="volume">Volume 2</biblScope>
+     <date when="1876">1876</date>
+     <biblScope type="page">888</biblScope>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+       <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+      <keywords scheme="#medsurg">
+       <term>wounds and injuries of the upper extremities</term>
+       <term>wounds and injuries of the elbow joint</term>
+       <term>shot wounds of the elbow joint</term> 
+       <term>excisions at the elbow joint for shot injury</term>
+       <term>secondary excisions at the elbow</term> 
+       <term>recoveries after secondary excisions at the elbow</term>
+       <term>gunshot fracture of elbow</term>
+       <term>ball entered posterior surface of arm near internal condyle, passed through elbow joint, fractured olecranon process and upper end of ulna</term> 
+       <term>resection of elbow joint performed</term>
+       <term>limb shortened two inches</term>
+       <term>arm useless for manual labor</term>
+       <term>elbow joint remains a false joint</term>       
+       <term>general anesthesia, chloroform</term>
+     </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+ <change who="#kw" when="2014-05">blessed</change>
+   <change who="#el" when="2014-07-03">corrected typo in figure head</change>
+   <change who="#kk" when="2014-01-17">added figure encoding</change>
+   <change who="#mb" when="2012-07-13">additional proofing of transcription and encoding, identified keyword terms</change>
+   <change who="#bt" when="2011-02-25">checked OCR; added minimal mark-up for personal names, place names, and dates</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>   
+   <p><hi rend="initialcap">C</hi>ASE 1825.&#8212;<name type="person" key="xxx">Private G. Thompson</name>, <name type="organization" key="xxx">Co. E, 15th New Jersey</name>, aged 21 years, was wounded at <name type="BATTLE" key="12">the Wilderness</name>, <date type="injury" when="1864-05-05">May 5, 1864</date>. <name type="person" key="xxx">Surgeon E. F. Taylor</name>, <name type="organization" key="xxx">1st New Jersey</name>, recorded his admission to the field hospital of the 1st division, Sixth Corps, with &#34;gunshot fracture of left elbow.&#34;  On <date type="transfer" when="1864-05-11">May 11th</date>, the patient entered <name type="hospital" key="152">Finley Hospital</name>, Washington, where he was operated on by <name type="person" key="72">Surgeon G. L. Pancoast</name>, <name type="organization" key="132">U. S. V.</name>, who reported as follows:  &#34;The ball entered on the posterior surface of the arm near the internal condyle, and passed through the elbow joint, fracturing the olecranon process and the upper end of the ulna.  <date type="operation" when="1864-06-07">June 7th</date>, parts much swollen and inflamed; constitutional state of patient good. Resection of the elbow joint was performed, chloroform being used as the an&#230;sthetic. Favorable progress followed. The treatment consisted of water dressings, tonics, and stimulants. The patient rapidly recovered.&#34;  The specimen, represented in the annexed cut (<hi rend="initialcap">F</hi>IG. 648), shows the excised parts, consisting of nearly two inches from the lower extremity of the humerus, the head of the radius, and the upper portion of the ulna cut half an inch below the coronoid process. The articular surfaces are eroded. It was contributed by the operator.  The patient was discharged <date type="servicedischarge" when="1865-02-21">February 21, 1865</date>, and pensioned.  <name type="person" key="xxx">Examiner J. Nichols</name>, of <name type="place" key="#Washington">Washington, D. C.</name>, <date type="pension" when="1865-02-23">February 23, 1865</date>, certified:  &#34;Gunshot fracture of left elbow joint, with resection. Not yet entirely healed. Limb shortened about two inches,&#34; etc.  <name type="person" key="xxx">Examiner C. Hodge, <choice><orig>jr.</orig><reg>Jr.</reg></choice></name>, certifies, <date type="pension" when="1867-03-04">March 4, 1867</date>:  &#34;The joint is entirely cut out and the arm thereby rendered entirely useless for manual labor.&#34;  <name type="person" key="xxx">Drs. J. B. Coleman</name>, <name type="person" key="xxx">C. Hodge, <choice><orig>jr.</orig><reg>Jr.</reg></choice></name>, and <name type="person" key="xxx">W. W. L. Phillips</name>, of the <name type="organization" key="xxx">Trenton Board</name>, reported, <date type="pension" when="1873-09-08">September 8, 1873</date>:  &#34;Ball destroyed the elbow joint, from which bones were removed, and there remains a false joint.&#34;  The pensioner was paid <date type="pension" when="1875-09-04">September 4, 1875</date>.</p>
+   
+   <figure>
+    <graphic url="cww.001723.001" />
+    <head><hi rend="initialcap">F</hi>IG. 648.&#8212;Bones of left elbow excised for shot injury.    <hi rend="italic">Spec</hi>. 2465.</head>
+   </figure>
+   
+  </body>
+ </text>
+</TEI>

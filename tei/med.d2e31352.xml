@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d2e31352">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Pattne, J.</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+       <idno>med.d2e31352</idno>
+       <authority>Civil War Washington</authority>
+       <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor>
+       <name>Center for Digital Research in the Humanities</name>
+       <address><addrLine>319 Love Library</addrLine>
+       <addrLine>University of Nebraska–Lincoln</addrLine>
+       <addrLine>Lincoln, NE 68588-4100</addrLine>
+       <addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+    </distributor>
+    <date>2011</date>
+    <availability>
+        <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+         republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+         law, requires express written consent from the editors and advance notification of the
+         publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+ <persName xml:id="kw">Kenneth Winkle</persName> 
+     <persName xml:id="mb">Matthew Bosley</persName>
+     <persName xml:id="hf">Heather Furrow</persName> 
+     <persName xml:id="kk">Kourtney Klein</persName>
+     <persName xml:id="el">Elizabeth Lorang</persName>
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl>
+     <title level="j">The Medical and Surgical History of the War of the Rebellion. (1861-65.)</title>
+     <pubPlace>Washington, DC</pubPlace>
+     <publisher>Government Printing Office</publisher>
+     <biblScope type="part">Part 2</biblScope>
+     <biblScope type="volume">Volume 2</biblScope>
+     <date when="1876">1876</date>
+     <biblScope type="page">869</biblScope>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+       <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+      <keywords scheme="#medsurg">
+       <term>wounds and injuries of the upper extremities</term>
+       <term>wounds and injuries of the elbow joint</term> 
+       <term>shot wounds of the elbow joint</term>
+       <term>excisions at the elbow joint for shot injury</term> 
+       <term>intermediary excisions at the elbow</term>
+       <term>recoveries after intermediary excision at the elbow</term>
+       <term>ball extracted on the field</term> 
+       <term>gunshot fracture of elbow joint</term>
+       <term>fractured olecranon process and condyles of humerus</term>
+       <term>removed humerus above condyles and heads of radius and ulna</term>
+       <term>lower extremity of humerus excised</term>
+       <term>complete oblique fracture of lower shaft of humerus, complicated with perpendicular fracture through trochlea</term> 
+       <term>fitted with apparatus</term>
+       <term>limb shortened two and three-fourths inches</term>
+       <term>valuable use of arm and hand</term>
+       <term>forearm flail, no use of arm</term>        
+       <term>general anesthesia, chloroform</term>
+     </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+ <change who="#kw" when="2014-05">blessed</change>
+   <change who="#el" when="2014-07-03">updated attribute values for figure images</change>
+   <change who="#kk" when="2014-01-17">added figure encoding</change>
+   <change who="#mb" when="2012-07-19">additional proofing of transcription and encoding, identified keyword terms</change>
+   <change who="#hf" when="2011-02-23">checked OCR; added minimal mark-up for personal names, place names, and dates</change>   
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>  
+   <p><hi rend="initialcap">C</hi>ASE 1793.&#8212;<name type="person" key="xxx">Corporal J. Pattne</name>, <name type="organization" key="xxx">Co. C, 39th New York</name>, age 20 years, was wounded at <name type="BATTLE" key="12">the Wilderness</name>, <date type="injury" when="1864-05-06">May 6, 1864</date>. The ball was extracted on the field and the wound dressed in a Second Corps hospital.  He was sent to <name type="place" key="#Washington">Washington</name> on <date type="transfer" when="1864-05-13">May 13th</date>, was admitted to <name type="hospital" key="152">Finley Hospital</name>, where he was operated on by <name type="person" key="72">Surgeon G. L. Pancoast</name>, <name type="organization" key="132">U. S. V.</name>, who reported: &quot;Gunshot fracture of elbow joint, fracturing the olecranon process and condyles of the humerus.  On <date type="operation" when="1864-05-25">May 25th</date> the patient was chloroformed, and the humerus one inch above the condyles, and the heads of the radius and ulna were removed. At the time of operation the joint was much swollen and painful; there was great discharge of pus, and of small pieces of bone occasionally; the olecranon was movable. His constitutional condition was not very good.  Cold-water dressings were used, and the wound healed kindly by healthy granulations.&quot;  The specimen, shown in the wood-cut (<hi rend="initialcap">F</hi>IG. 622), was contributed by <name type="person" key="72">the operator</name>. It consists of three inches of the lower extremity of the left humerus excised. The specimen shows a complete oblique fracture in the lowest part of the shaft, complicated with a perpendicular one directly through the trochlea, of which the central portion is missing. On the posterior upper border of the transverse fracture is a moderate collection of callus. The olecranon was fractured but was not preserved with the specimen.  The patient remained in <name type="hospital" key="152">Finley Hospital</name> until <date type="transfer" when="1865-07-13">July 13, 1865</date>, when he was transferred to <name type="place">New York</name> and entered De Camp Hospital, whence he was discharged the service <date type="servicedischarge" when="1865-11-07">November 7, 1865</date>, and pensioned.  On <date type="pension" when="1865-11-16">November 16th</date> the patient was fitted with an apparatus by <name type="person" key="xxx">Dr. E. D. Hudson</name>, who reported that the limb was shortened two and three-fourths inches, with an interspace of one and a quarter inches.  On <date type="photo" when="1865-12-25">December 25, 1865</date>, the photograph of the patient, represented in the cut (<hi rend="initialcap">F</hi>IG. 623) was taken, and was contributed to the <name type="hospital" key="431">Army Medical Museum</name> by <name type="person" key="xxx">Assistant Surgeon Warren Webster</name>, <name type="organization" key="190">U. S. A.</name>  The wound was at that time completely healed, and the pensioner enjoyed valuable use of his arm and hand.  <name type="person" key="xxx">Examiner T. F. Smith</name>, of <name type="place">New York</name>, January 30, 1866, reported: &quot;Bullet shot of right elbow, with resection of the elbow joint; the forearm hangs like a flail, so that he has no use of it.  The pensioner was last paid <date type="pension" when="1870-03-04">March 4, 1870</date>, since which time he has not been heard from by the <name type="organization" key="xxx">Pension Bureau</name>.</p>
+   
+   <figure>
+    <graphic url="cww.001738.001" />
+    <head><hi rend="initialcap">F</hi>IG. 622.&#8212;Posterior view of the lower extremity of a right humerus excised for shot injury.</head>
+   </figure> 
+   
+   <figure>
+    <graphic url="cww.001739.001" />
+    <head><hi rend="initialcap">F</hi>IG. 623.&#8212;Appearance of cicatrix twenty-one months after an excision of right elbow.</head>
+   </figure> 
+   
+  </body>
+ </text>
+</TEI>

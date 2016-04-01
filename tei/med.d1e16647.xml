@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e16647">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title level="m" type="main">C&#8212;&#8212;, L&#8212;&#8212;</title>
+        <title level="m" type="sub">a machine readable transcription</title>
+        <principal>Susan C. Lawrence</principal>
+        <principal>Kenneth M. Price</principal>
+        <principal>Kenneth J. Winkle</principal>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <date>2011</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <idno>med.d1e16647</idno>
+        <authority>Civil War Washington</authority>
+        <publisher>University of Nebraska–Lincoln</publisher>
+        <distributor>
+          <name>Center for Digital Research in the Humanities</name>
+          <address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+        </distributor>
+        <date>2011</date>
+        <availability>
+          <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution
+            or republication in any medium, except as allowed under the Fair Use provisions of U.S.
+            copyright law, requires express written consent from the editors and advance
+            notification of the publisher, the University of Nebraska–Lincoln.</p>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="project">The following are responsible for particular readings or for changes to
+          this file, as noted: 
+ <persName xml:id="kmp">Kenneth M. Price</persName> <persName xml:id="ajh">AJ Howell</persName>
+          <persName xml:id="mb">Matthew Bosley</persName>
+          <persName xml:id="el">Elizabeth Lorang</persName>
+          <persName xml:id="sb">Stacey Berry</persName>
+          <persName xml:id="et">Elisabeth Tracey</persName>
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>
+          <title>The Medical and Surgical History of the War of the Rebellion.
+            (1861&#8211;65.)</title>
+          <editor role="compiler">Surgeon General Joseph K. Barnes, United States Army</editor>
+          <pubPlace>Washington, D.C.</pubPlace>
+          <publisher>Government Printing Office</publisher>
+          <biblScope type="part">Part 1</biblScope>
+          <biblScope type="volume">Volume 2</biblScope>
+          <date when="1870">1870</date>
+          <biblScope type="page">262</biblScope>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <classDecl>
+        <taxonomy xml:id="medsurg">
+          <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="#medsurg">
+          <term>on special wounds and injuries of the head</term>
+          <term>wounds and injuries of the head</term>
+          <term>gunshot wounds</term>
+          <term>gunshot fractures of the cranial bones</term>
+          <term>trephining after gunshot fractures of the skull</term>
+          <term>trephining practiced, fatal termination</term>
+          <term>round ball comminuted and depressed right parietal bone below sagittal suture</term>
+          <term>paraplegia</term>
+          <term>left side nearly insensible, tongue could protrude only partially</term>
+          <term>dura mater and surface of brain torn, bleeding from branch of temporal artery</term>
+          <term>pus and blood continually discharged from wound</term>
+          <term>general anesthesia, chloroform</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+ <change who="#kmp" when="2014-05">blessed</change>
+      <change who="#ajh" when="2013-08-19">added figure encoding</change>
+      <change who="#mb" when="2013-08-14">additional proofing of transcription and encoding, edited
+        and added keyword terms</change>
+      <change who="#mb" when="2011-08-08">additional proofing of transcription and encoding</change>
+      <change who="#el" when="2011-11-05">case text extracted and transformed from larger
+        file</change>
+      <change who="#sb" when="2011-02-09">enriched encoding</change>
+      <change who="#sb" when="2011-01-28">validated file</change>
+      <change who="#et" when="2009-08-01">encoded</change>
+      <change who="#sb" when="2008-09-22">initial checking of OCR text against PDF; encoded</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p><hi rend="initialcap">C</hi>ASE.&#8212;<name type="person">Private L&#8212;&#8212;
+          C&#8212;&#8212;</name>, <name type="organization" key="xx">Co. B, 2d Pennsylvania
+          Reserves</name>, was wounded at <name type="battle" key="48">Chantilly, Virginia</name>,
+          <date type="injury" when="1862-09-01">September 1st, 1862</date>, by a round ball, which
+        comminuted and depressed the right parietal bone, two inches below the sagittal suture. He
+        became insensible and remained so for about fifteen minutes, when he recovered and walked
+        about. He was admitted to the <name type="hospital" key="173">Harewood Hospital</name>,
+        Washington, D. C., on <date type="admit" when="1862-09-04">the 4th</date>, having full power
+        over his limbs and a good appetite. Gradually he began to feel depressed, then confined
+        himself to his bed, and finally, on <date type="injury" when="1862-09-07">the 7th</date>,
+        was seized with paraplegia. On the evening of the 9th, he had become unconscious. A
+        cathartic was administered, which operated freely, and the next morning the patient was
+        fully conscious again and complained of pain in the head. At five o clock P. M., of <date
+          type="operation" when="1862-09-11">the following day</date> he was unable to move, and his
+        voice thick and inarticulate. His left side was nearly insensible, but warm, and he could
+        protrude his tongue only partially. On examining the wound, a depression of the size of a
+        twenty-five cent piece was found, but evidently no ball lodged in the brain. Chloroform was
+        administered, and the fragments being so pressed into each other, that neither elevator nor
+        forceps could remove them, the trephine was applied by <name type="person" key="1101"
+          >Surgeon I. Moses</name>, <name type="organization" key="132">U. S. V.</name>, and the
+        bone sawed nearly through, which loosened the pieces so that they were readily removed. The
+        dura mater and surface of the brain were torn. Bleeding from a small branch of the temporal
+        artery was easily checked, and the parts were covered with ice-cold water. Three and a half
+        hours after the operation he had considerably improved; the severe pain which he had
+        complained of for days previous to operation and the paraplegia were relieved. He slept
+        soundly on the night of the 11th, but on the following morning a constant gurgling in his
+        throat could be heard. Pus and blood were continually discharged from the wound, which
+        looked well. He sank rapidly, became comatose on the morning of <date type="death"
+          when="1862-09-13">the 13th</date>, and died in the afternoon of that day. The pathological
+        specimen, No. 131, Sect. I, A. M. M., shows a partially trephined segment of the right
+        parietal bone, with five fragments, embracing one square inch. The outer table and
+        diplo&#235; were cut through, but not removed, by the trephine applied on the sound bone at
+        the edge of the fracture. The specimen and history were contributed by <name type="person"
+          key="1101">Surgeon I. Moses</name>, <name type="organization" key="132">U. S. V.</name>
+      </p>
+      <figure>
+        <graphic url="cww.001412.001"/>
+        <head><hi rend="initialcap">F</hi>IG. 126.&#8212;Segment of parietal bone with fragments,
+          from a case of trephining after gunshot fracture. <hi rend="italic">Spec</hi>. 131, Sect.
+          I, A.M.M.</head>
+      </figure>
+    </body>
+  </text>
+</TEI>

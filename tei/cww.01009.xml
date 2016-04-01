@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="cww.01009">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>                
+                <title level="m" type="main">Petition of Ophelia Calvert, 16 August 1862</title>
+                <title level="m" type="main">Evidence Relating to the Petition of Ophelia Calvert, 16 August 1862</title>
+                <title level="m" type="sub">a machine readable transcription</title>
+                <principal>Susan C. Lawrence</principal>
+                <principal>Kenneth M. Price</principal>
+                <principal>Kenneth J. Winkle</principal>
+                <respStmt>
+                    <resp>transcription and encoding</resp>
+<name xml:id="kjw">Kenneth J. Winkle</name>
+                    <name xml:id="jc">Janel Cayer</name>
+                    <name xml:id="km">Kevin McMullen</name>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2012</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <idno>cww.01009</idno>
+                <distributor>Civil War Washington</distributor>
+                <publisher>University of Nebraska–Lincoln</publisher>
+                <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>P.O. Box 884100</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+            </address>
+                <date>2012</date>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+                        <p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License (http://creativecommons.org/licenses/by-nc-sa/3.0/). Derivatives must be credited to Civil War Washington, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl xml:id="rg21">
+                    <title>Petition of Ophelia Calvert, 16 August 1862</title>                   
+                    <date when="1862-08-16">August 16, 1862</date>
+                    <idno>Microcopy 433, Reel 3</idno>                
+                    <orgName>National Archives and Records Administration</orgName>
+                    <relatedItem type="original">
+                        <bibl>
+                            <title>Petition of Ophelia Calvert, 16 August 1862</title>                           
+                            <date when="1862-08-16">August 16, 1862</date>
+                            <idno type="rg">Record Group 21</idno>
+                            <orgName>Records of the District Courts of the United States, 1685&#8211;2004, National Archives and Records Administration</orgName>
+                            <orgName>Emancipation Records, compiled 1862&#8211;1863</orgName>
+                            <note type="project">Within the National Archives' Archival Description Catalog, see ARC Identifier 4314547 / MLR Number NC-2 33 (http://arcweb.archives.gov).</note>
+                        </bibl>
+                    </relatedItem>
+                    <note type="project">Our transcription is based on a digital image of a microfilm copy of the original.</note>
+                </bibl>
+                
+                <bibl xml:id="rg217">
+                    <title>Evidence Relating to the Petition of Ophelia Calvert, 16 August 1862</title>                    
+                    <date when="1862-08-16">August 16, 1862</date>
+                    <idno>Microcopy 520, Reel 6</idno>
+                    <orgName>National Archives and Records Administration</orgName>
+                    <relatedItem type="original">
+                        <bibl>
+                            <title>Evidence Relating to the Petition of Ophelia Calvert, 16 August 1862</title>           
+                            <date when="1862-08-16">August 16, 1862</date>
+                            <idno type="rg">Record Group 217.6.5</idno>
+                            <orgName>Records of the Accounting Officers of the Department of the Treasury, 1775&#8211;1978, National Archives and Records Administration</orgName>
+                            <note type="project">Within the National Archives' Archival Description Catalog, see ARC Identifier 4644616 / MLR Number A1 347 (http://arcweb.archives.gov).</note>
+                        </bibl>
+                    </relatedItem>
+                    <note type="project">Our transcription is based on a digital image of a microfilm copy of the original.</note>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <particDesc>
+                <person role="owner">
+                    <persName>Thomas J. Galt</persName>
+                </person>
+                <person role="petitioner-slave">
+                    <persName>Ophelia Calvert</persName>
+                </person>
+            </particDesc>
+        </profileDesc>
+        <revisionDesc>
+<change when="2013-03-21" who="#jc">blessed</change>
+<change when="2013-03-19" who="#kjw">blessed</change>
+            <change when="2012-09-20" who="#jc">checked</change>
+            <change when="2012-07-23" who="#km">transcribed, encoded</change>
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            <!-- Begins with the text of the petition. -->
+            
+            <pb xml:id="leaf001r" facs="cww.01009.001.jpg"/>
+            
+            
+            <div1 type="petition" subtype="mixed" corresp="#rg21">                
+                                
+                <div2 type="document" subtype="mixed">
+                    
+                                 
+                    <opener>
+                        <salute>To <persName>John A. Smith</persName> <choice><abbr>Esq.</abbr><expan>Esquire</expan></choice>, Clerk of the Circuit Court of the <placeName>District of Columbia</placeName></salute>
+                        <salute>Sir:</salute>
+                    </opener>
+                    
+                    <p><seg type="handwritten">Thomas J. Galt</seg> of <seg type="handwritten"><placeName>Washington DC</placeName></seg> having claim to the service or labor of the undersigned, and having refused or neglected to file in your office the statement in writing or schedule provided for in the 9th section of the Act of Congress, entitled "An act for the release of certain persons held to service or labor in said <placeName>District</placeName>," approved <date when="1862-04-16">April 16, 1862</date>, you will please file this petition or schedule in lieu thereof, in pursuance of the provisions of an act supplementary to said act which said last mentioned act was approved <date when="1862-07-12">July 12, 1862</date>. This petitioner further state that the undersigned <seg type="handwritten">has</seg> resided in said <placeName>District</placeName> since <del>the and ha resided therein since</del> the <date when="1862-04-16"><seg type="handwritten">16</seg> day of <seg type="handwritten">April</seg> 1862</date>, by and with the consent of <seg type="handwritten">her</seg> said <seg type="handwritten">Master</seg></p>
+                    <table>
+                        <row>
+                            <cell>Name,</cell>
+                            <cell>Age,</cell>
+                            <cell>Sex,</cell>
+                            <cell>Remarks,</cell>
+                        </row>
+                        <row rend="handwritten">
+                            <cell><persName>Ophelia Calvert</persName></cell>
+                            <cell>19 years</cell>
+                            <cell>female</cell>
+                            <cell>dark chestnut</cell>
+                        </row>
+                    </table>
+                    
+                    <closer rend="handwritten">
+                        <signed>her X mark <persName>Ophelia Calvert</persName> <lb/>
+                            Witness<lb/>
+                            <persName>Chs <unclear reason="illegible" cert="low" resp="#jc">McNamee</unclear></persName></signed>
+                    </closer>
+                </div2>
+                
+                <pb xml:id="leaf001v" facs="cww.01009.002.jpg"/>
+                
+                <div2 type="cover" subtype="handwritten">
+                    <div3 type="section">
+                        <ab><persName>Thomas J. Galt</persName></ab>
+                        <ab>by <persName>Ophelia Calvert</persName></ab>
+                        <ab>Filed <date when="1862-08-16">16 August 1862</date></ab>
+                        <ab>Recorded in Manumission Record No 2 folios 118 &#38; 119</ab>
+                    </div3>
+                                        
+                    <div3 type="section">
+                        <p>The Commissioners, satisfied on the testimony of <persName>Nelly Gault</persName> &#38; <persName>Charles McNamee</persName> of the truth of the within statement order the same to be so reported to the Clerk of the Circuit Court of the <placeName>District of Columbia</placeName></p>
+                        <closer>
+                            <dateline><date when="1862-04-16">Aug. 16, 1862</date>.</dateline>
+                            <signed><persName>Wm. R. Woodward</persName><lb/>
+                            Clerk to Commissioners</signed>
+                            </closer>
+                    </div3>
+                    
+                    <div3 type="section">                        
+                        <ab><choice><abbr>Cert</abbr><expan>Certificate</expan></choice> given <choice><abbr>Idfd</abbr><expan>Identified</expan></choice> <persName>C McNamee</persName></ab>
+                    </div3>
+                </div2>
+            </div1>
+            
+            <!-- Evidence pertaining to the case begins here. -->
+                        
+            <pb xml:id="leaf002r" facs="cww.01009.003.jpg"/>
+            <div1 type="evidence" corresp="#rg217" subtype="mixed">
+                
+                <dateline><seg type="handwritten"><date when="1862-08-16">Augt 16</date>.</seg></dateline>
+                
+                <div2 type="procedural" subtype="handwritten">
+                    <ab><persName>Ophelia Calvert</persName></ab>
+                    <ab>servant of <persName>Thomas J. Galt</persName></ab>
+                </div2>
+                
+                <div2 type="testimony" subtype="handwritten">                    
+                    <ab><persName>Nelly Galt</persName>. I know this colored woman her name is <persName>Ophelia Calvert</persName>. she belonged to my father <persName>Thomas J. Galt</persName>. I have known her all my life. she was here on <date when="1862-04-16">16 April 1862</date> and b</ab>
+                </div2>
+                
+                <div2 type="testimony" subtype="handwritten">    
+                    <ab><persName>Charles McNamee</persName>. <persName>Mrs Galt</persName> came with the servant and little daughter <persName>Nelly</persName> this morning to the clerks office for the sake of getting <persName>Ophelia Calvert</persName> free papers</ab>
+                </div2>
+                
+                <div2 type="procedural" subtype="handwritten">
+                    <ab><choice><abbr>cert</abbr><expan>certificate</expan></choice> ordered</ab>
+                </div2>
+                
+                <pb xml:id="leaf003v" facs="cww.01009.004.jpg"/>
+                <div2 type="cover" subtype="mixed">
+                    <ab type="handwritten"><persName>Ophelia Calvert</persName></ab>
+                    <ab type="handwritten"><date when="1862-08-16">August 16</date>.</ab>
+                    <ab>Office of the Commissioners under the act of <date when="1862-04-16">April 16, 1862</date>, entitled, "An act for the release of certain persons held to service or labor in the <placeName>District of Columbia</placeName>,"</ab>
+                    <dateline>City Hall, <placeName>Washington City, D. C., ,<date when="1862">1862</date>.</placeName></dateline>
+                </div2>
+            </div1>            
+        </body>
+    </text>
+</TEI>
+                
+                
+                
+                
+                
+

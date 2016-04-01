@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e11009">
+        <teiHeader>
+                <fileDesc>
+                        <titleStmt>
+                                <title level="m" type="main">Morse, William</title>
+                                <title level="m" type="sub">a machine readable transcription</title>
+                                <principal>Susan C. Lawrence</principal>
+                                <principal>Kenneth M. Price</principal>
+                                <principal>Kenneth J. Winkle</principal>
+                        </titleStmt>
+                        <editionStmt>
+                                <edition>
+                                        <date>2011</date>
+                                </edition>
+                        </editionStmt>
+                        <publicationStmt>
+                                <idno>med.d1e11009</idno>
+                                <authority>Civil War Washington</authority>
+                                <publisher>University of Nebraska–Lincoln</publisher>
+                                <distributor>
+                                        <name>Center for Digital Research in the Humanities</name>
+                                        <address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+                                </distributor>
+                                <date>2011</date>
+                                <availability>
+                                        <p>Copyright © 2011 by University of Nebraska–Lincoln, all
+                                                rights reserved. Redistribution or republication in
+                                                any medium, except as allowed under the Fair Use
+                                                provisions of U.S. copyright law, requires express
+                                                written consent from the editors and advance
+                                                notification of the publisher, the University of
+                                                Nebraska–Lincoln.</p>
+                                </availability>
+                        </publicationStmt>
+                        <notesStmt>
+                                <note type="project">The following are responsible for particular readings or for changes to this file, as noted: 
+                                        <persName xml:id="mb">Matthew Bosley</persName>
+                                        <persName xml:id="el">Elizabeth Lorang</persName>
+                                        <persName xml:id="sb">Stacey Berry</persName>
+                                        <persName xml:id="et">Elisabeth Tracey</persName>
+                                </note>
+                        </notesStmt>
+                        <sourceDesc>
+                                <bibl>
+                                        <title level="j">The Medical and Surgical History of the War of the Rebellion</title>
+                                        <pubPlace>Washington, DC</pubPlace>
+                                        <publisher>Government Printing Office</publisher>
+                                        <biblScope type="part">Part 3</biblScope>
+                                        <biblScope type="volume">Volume 1</biblScope>
+                                        <date when="1888">1888</date>
+                                        <biblScope type="page">769</biblScope>
+                                </bibl>
+                        </sourceDesc>
+                </fileDesc>
+                <encodingDesc>
+                        <classDecl>
+                                <taxonomy xml:id="medsurg">
+                                        <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+                                </taxonomy>
+                        </classDecl>
+                </encodingDesc>
+                <profileDesc>
+                        <textClass>
+                                <keywords scheme="#medsurg">
+                                        <term>diseases attributed to non-miasmatic exposures</term>
+                                        <term>diseases of the respiratory organs</term>
+                                        <term>pneumonia</term>
+                                        <term>post-mortem records</term> 
+                                        <term>lobar pneumonias</term>
+                                        <term>associated with pericarditis</term>
+                                        <term>admitted with pain in left side</term>
+                                        <term><choice><orig>dulness</orig><reg>dullness</reg></choice> over lung</term>
+                                        <term>tubular respiration</term>
+                                        <term>mucous r&#226;les</term>
+                                        <term>dyspn&#339;a urgent</term>
+                                        <term>copious sanguineo-purulent expectoration</term>
+                                        <term>pleura contained sero-purulent liquid</term>
+                                        <term>serum in pericardium</term>
+                                        <term>liver and spleen enlarged</term>
+                                        <term>lung solid and exuded pus</term>
+                                </keywords>
+                        </textClass>
+                </profileDesc>
+                <revisionDesc>
+                        <change who="#mb" when="2013-03-07">additional proofing of transcription and encoding, edited and added keyword terms</change>
+                        <change who="#mb" when="2011-07-05">additional proofing of transcription and encoding</change>
+                        <change who="#el" when="2011-05-11">case text extracted and transformed from larger file</change>
+                        <change who="#sb" when="2011-02-23">Encoding and Proofing</change>
+                        <change who="#et" when="2009-12-01">Initial Checking OCR Text to PDF file,</change>
+                </revisionDesc>
+        </teiHeader>
+        <text>
+                <body>                        
+                        <p><hi rend="initialcap">C</hi>ASE 76.&#8212;<name type="person">Private William Morse</name>, <name type="organization">Co. I, 16th Vt.</name>; age
+                                30; admitted <date type="admit" when="1863-04-14">April 14, 1863</date>, with pain in left side; cough; urgent dyspn&#339;a; pulse 120 and feeble; respiration 30; <choice><orig>dulness</orig><reg>dullness</reg></choice> over entire right lung and tubular respiration along
+                                the posterior border of the scapula; <choice><orig>dulness</orig><reg>dullness</reg></choice> over lower half
+                                of left lung, mucous r&#226;les over upper half.  23d: Pain in
+                                        both lungs increased; dyspn&#339;a urgent; diarrh&#339;a with pain
+                                        in abdomen; copious sanguineo-purulent expectoration;
+                                        free diaphoresis.  Died <date type="death" when="1863-04-26">26th</date>.   <hi rend="italic">Post-mortem</hi> examination: Right
+                                        pleura, much thickened with lymph, contained three pints
+                                        sero-purulent liquid; lung solid, exuding a little pus on
+                                        pressure. Left pleura contained two pints of sero-purulent
+                                        liquid; lung in second stage of inflammation. Six ounces of
+                                        serum, with floating particles of lymph, in pericardium;
+                                        villous-shaped lymph coating the heart. Liver and spleen
+                                        somewhat enlarged. Mucous coat of stomach injected, of
+                                        small intestine reddened and softened,&#8212;<hi rend="italic"><name type="hospital" key="189">Third Division Hospital</name>, <name type="place">Alexandria, Va.</name></hi></p>                       
+                </body>
+        </text>
+</TEI>

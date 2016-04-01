@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e2669">
+        <teiHeader>
+                <fileDesc>
+                        <titleStmt>
+                                <title level="m" type="main">Butler, Warren G.</title>
+                                <title level="m" type="sub">a machine readable transcription</title>
+                                <principal>Susan C. Lawrence</principal>
+                                <principal>Kenneth M. Price</principal>
+                                <principal>Kenneth J. Winkle</principal>
+                        </titleStmt>
+                        <editionStmt>
+                                <edition>
+                                        <date>2011</date>
+                                </edition>
+                        </editionStmt>
+                        <publicationStmt>
+                                <idno>med.d1e2669</idno>
+                                <authority>Civil War Washington</authority>
+                                <publisher>University of Nebraska–Lincoln</publisher>
+                                <distributor>
+                                        <name>Center for Digital Research in the Humanities</name>
+                                        <address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+                                </distributor>
+                                <date>2011</date>
+                                <availability>
+                                        <p>Copyright © 2011 by University of Nebraska–Lincoln, all
+                                                rights reserved. Redistribution or republication in
+                                                any medium, except as allowed under the Fair Use
+                                                provisions of U.S. copyright law, requires express
+                                                written consent from the editors and advance
+                                                notification of the publisher, the University of
+                                                Nebraska–Lincoln.</p>
+                                </availability>
+                        </publicationStmt>
+                        <notesStmt>
+                                <note type="project">The following are responsible for particular
+                                        readings or for changes to this file, as noted: 
+                                        <persName xml:id="ajh">AJ Howell</persName>
+                                        <persName xml:id="mb">Matthew Bosley</persName>
+                                        <persName xml:id="el">Elizabeth Lorang</persName>
+                                        <persName xml:id="sb">Stacey Berry</persName>
+                                        <persName xml:id="et">Elisabeth Tracey</persName>
+                                </note>
+                        </notesStmt>
+                        <sourceDesc>
+                                <bibl>
+                                        <title level="j">The Medical and Surgical History of the War
+                                                of the Rebellion</title>
+                                        <pubPlace>Washington, DC</pubPlace>
+                                        <publisher>Government Printing Office</publisher>
+                                        <biblScope type="part">Part 3</biblScope>
+                                        <biblScope type="volume">Volume 1</biblScope>
+                                        <date when="1888">1888</date>
+                                        <biblScope type="page">226-227</biblScope>
+                                </bibl>
+                        </sourceDesc>
+                </fileDesc>
+                <encodingDesc>
+                        <classDecl>
+                                <taxonomy xml:id="medsurg">
+                                        <bibl>Medical and Surgical History of the War of the
+                                                Rebellion</bibl>
+                                </taxonomy>
+                        </classDecl>
+                </encodingDesc>
+                <profileDesc>
+                        <textClass>
+                                <keywords scheme="#medsurg">
+                                        <term>clinical records</term>
+                                        <term>continued fevers</term>
+                                        <term>typho-malarial and typhoid fevers</term>
+                                        <term>Seminary Hospital cases</term>
+                                        <term>typhoid cases</term>
+                                        <term>typhoid fever</term>
+                                        <term>pneumonia</term>
+                                        <term>measles</term>
+                                        <term>profuse perspiration</term> 
+                                        <term>rose-spots</term>
+                                        <term>severe sore throat</term> 
+                                        <term>tormina and frequent nausea</term> 
+                                        <term>tinnitus aurium and dizziness</term>
+                                </keywords>
+                        </textClass>
+                </profileDesc>
+                <revisionDesc>
+                        <change who="#ajh" when="2013-05-29">additional proofing of transcription and encoding, identified keyword terms</change>
+                        <change who="#mb" when="2011-10-13">additional proofing of transcription and encoding</change>
+                        <change who="#mb" when="2011-06-02">additional proofing of transcription and encoding</change>
+                        <change who="#el" when="2011-05-11">case text extracted and transformed from
+                                larger file</change>
+                        <change who="#sb" when="2011-02-23">Encoding and Proofing</change>
+                        <change who="#et" when="2009-12-01">Initial Checking OCR Text to PDF file,
+                        </change>
+                </revisionDesc>
+        </teiHeader>
+        <text>
+                <body xml:id="ch4.sc2.3.00039">
+                        
+                        <p><hi rend="initialcap">C</hi>ASE 39.&#8212;<hi rend="italic"
+                                                >Pneumonia occurring after the appearance of profuse
+                                                perspiration and rose-spots.</hi>&#8212;<name
+                                                type="person" key="499">Private Warren G.
+                                                Butler</name>, <name type="organization" key="630"
+                                                >Co. I, 2d Me.</name>; age 22; was admitted <date
+                                                type="admit" when="1862-03-02">March 2, 1862</date>.
+                                        Diagnosis&#8212;pneumonia. This man had measles with
+                                        severe sore throat in <date type="injury" when="1861-09">September, 1861</date>. On the 4th he had
+                                        headache and deafness; his cheeks were flushed and hot;
+                                        pulse weak and rapid; skin hot and moist, showing on the
+                                        abdomen some eruption, which disappeared on pressure; tongue
+                                        dry and coated; two watery stools were passed; cough was
+                                        troublesome, the respiration natural. Next day there was
+                                        profuse perspiration and great thirst, the tongue remaining
+                                        dry and coated; the bowels were constipated and the patient
+                                        suffered from tormina and frequent nausea, tinnitus aurium
+                                        and dizziness; the breathing became rapid and the cough
+                                        aggravated. Ten grains of calomel were given with three of
+                                        jalap. On the following day there was much tendency to
+                                        stupor; four watery stools were passed during the night,
+                                        after which the bowels became quiet. Little change occurred
+                                        during the next two or three days. On the 10th profuse
+                                        perspiration occurred; the expectorated matters were
+                                        exceedingly viscid. Milk-punch, cod-liver oil and carbonate
+                                        of ammonia were given. On the 11th the skin was natural, the
+                                        pulse rapid and weak, the tongue moist, clean and tremulous,
+                                        but the appetite remained poor; three watery stools were
+                                        passed and the cough continued. During the next two days the
+                                        quantity of the sputa diminished. On the 13th there was
+                                        occasional nausea, and on the 14th the deafness was
+                                        increased, although otherwise the patient seemed better, as
+                                        the bowels were regular, the skin natural, the cough
+                                        lessened and the sputa less viscid and more frothy. The
+                                        deafness increased until the 19th, after which it lessened;
+                                        the cough prevented sleep at night and the appetite did not return; the tongue was clean
+                                        but unnaturally red in color. On the 25th, the last day on
+                                        which the symptoms were entered, the appetite was improving.
+                                        The patient was furloughed on <date type="furlough" when="1862-04-08">April 8</date>. </p>
+                        
+                </body>
+        </text>
+</TEI>

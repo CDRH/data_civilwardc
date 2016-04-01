@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e11133">
+        <teiHeader>
+                <fileDesc>
+                        <titleStmt>
+                                <title level="m" type="main">Vandercrook, Dan.</title>
+                                <title level="m" type="sub">a machine readable transcription</title>
+                                <principal>Susan C. Lawrence</principal>
+                                <principal>Kenneth M. Price</principal>
+                                <principal>Kenneth J. Winkle</principal>
+                        </titleStmt>
+                        <editionStmt>
+                                <edition>
+                                        <date>2011</date>
+                                </edition>
+                        </editionStmt>
+                        <publicationStmt>
+                                <idno>med.d1e11133</idno>
+                                <authority>Civil War Washington</authority>
+                                <publisher>University of Nebraska–Lincoln</publisher>
+                                <distributor>
+                                        <name>Center for Digital Research in the Humanities</name>
+                                        <address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+                                </distributor>
+                                <date>2011</date>
+                                <availability>
+                                        <p>Copyright © 2011 by University of Nebraska–Lincoln, all
+                                                rights reserved. Redistribution or republication in
+                                                any medium, except as allowed under the Fair Use
+                                                provisions of U.S. copyright law, requires express
+                                                written consent from the editors and advance
+                                                notification of the publisher, the University of
+                                                Nebraska–Lincoln.</p>
+                                </availability>
+                        </publicationStmt>
+                        <notesStmt>
+                                <note type="project">The following are responsible for particular readings or for changes to this file, as noted: 
+                                        <persName xml:id="mb">Matthew Bosley</persName>
+                                        <persName xml:id="el">Elizabeth Lorang</persName>
+                                        <persName xml:id="sb">Stacey Berry</persName>
+                                        <persName xml:id="et">Elisabeth Tracey</persName>
+                                </note>
+                        </notesStmt>
+                        <sourceDesc>
+                                <bibl>
+                                        <title level="j">The Medical and Surgical History of the War of the Rebellion</title>
+                                        <pubPlace>Washington, DC</pubPlace>
+                                        <publisher>Government Printing Office</publisher>
+                                        <biblScope type="part">Part 3</biblScope>
+                                        <biblScope type="volume">Volume 1</biblScope>
+                                        <date when="1888">1888</date>
+                                        <biblScope type="page">777</biblScope>
+                                </bibl>
+                        </sourceDesc>
+                </fileDesc>
+                <encodingDesc>
+                        <classDecl>
+                                <taxonomy xml:id="medsurg">
+                                        <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+                                </taxonomy>
+                        </classDecl>
+                </encodingDesc>
+                <profileDesc>
+                        <textClass>
+                                <keywords scheme="#medsurg">
+                                        <term>diseases attributed to non-miasmatic exposures</term>
+                                        <term>disease of the respiratory organs</term>
+                                        <term>pneumonia</term>
+                                        <term>lobar pneumonia</term>
+                                        <term>post-mortem records</term>
+                                        <term>in gangrene</term>
+                                        <term>on admission fever, delirium, and pneumonia of right side</term>
+                                        <term>typhoid fever</term>
+                                        <term>coexisting tuberculosis</term>
+                                        <term><choice><orig>sputa</orig><reg>sputum</reg></choice> profuse and fetid, odor of breath intolerable</term>
+                                        <term>pleuritic adhesions involving lower lobe</term>                                        
+                                        <term>gangrene of half of lung</term>
+                                        <term>tubercular deposits in apices of both lungs</term>
+                                </keywords>
+                        </textClass>
+                </profileDesc>
+                <revisionDesc>
+                        <change who="#mb" when="2013-03-08">additional proofing of transcription and encoding, edited and added keyword terms</change>
+                        <change who="#mb" when="2011-07-06">additional proofing of transcription and encoding</change>
+                        <change who="#el" when="2011-05-11">case text extracted and transformed from larger file</change>
+                        <change who="#sb" when="2011-02-23">Encoding and Proofing</change>
+                        <change who="#et" when="2009-12-01">Initial Checking OCR Text to PDF file,</change>
+                </revisionDesc>
+        </teiHeader>
+        <text>
+                <body>
+                        <p> <hi rend="initialcap">C</hi>ASE 138.&#8212;<name type="person">Dan. Vandercrook</name>, <name type="organization">Co. D, 17th Pa. Cav.</name>;
+                                age 21; admitted <date type="admit" when="1863-06-15">June 15, 1863</date>.  Diagnosis: Typhoid fever.  On admission there was much fever with delirium and
+                                        pneumonia of the right side.  On the 20th he coughed a good
+                                        deal and expectorated profusely, the fever having meanwhile
+                                        abated, leaving him rational.  By the 27th he was noticeably
+                                        gaining strength, but on the 29th his cough became constant, <choice><orig>sputa</orig><reg>sputum</reg></choice> profuse, grumous and fetid and the odor of his breath
+                                        intolerable.  He grew rapidly worse, and died <date type="death" when="1863-07-03">July 3</date>.  <hi rend="italic">Post-mortem</hi> examination: Pleuritic adhesions on right side,
+                                        involving lower lobe; gangrene of half of right lung and
+                                        inflammation and softening of the other half; tubercular
+                                        deposits in apices of lungs.&#8212;<hi rend="italic"><name type="person" key="xx">Act. Ass't Surgeon
+                                                W. J. Hazelton</name>, <name type="hospital" key="214">Fairfax Seminary</name>, Va.</hi> </p>                        
+                </body>
+        </text>
+</TEI>

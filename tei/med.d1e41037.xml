@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e41037">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Edgely, Charles E.</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+    <idno>med.d1e41037</idno>
+       <authority>Civil War Washington</authority>
+       <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor>
+       <name>Center for Digital Research in the Humanities</name>
+       <address><addrLine>319 Love Library</addrLine>
+       <addrLine>University of Nebraska–Lincoln</addrLine>
+       <addrLine>Lincoln, NE 68588-4100</addrLine>
+       <addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+    </distributor>
+    <date>2011</date>
+    <availability>
+        <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+         republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+         law, requires express written consent from the editors and advance notification of the
+         publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+     <persName xml:id="mb">Matthew Bosley</persName>
+     <persName xml:id="el">Elizabeth Lorang</persName>
+     <persName xml:id="sb">Stacey Berry</persName>
+     <persName xml:id="ao">Alyssa Olson</persName>
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl>
+     <title level="j">The Medical and Surgical History of the War of the Rebellion. (1861-65.)</title>
+     <pubPlace>Washington, DC</pubPlace>
+     <publisher>Government Printing Office</publisher>
+     <biblScope type="part">Part 2</biblScope>
+     <biblScope type="volume">Volume 1</biblScope>
+     <date when="1879">1879</date>
+     <biblScope type="page">164</biblScope>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+       <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+      <keywords scheme="#medsurg">
+       <term>diarrh&#339;a and dysentery</term>
+       <term>fatal cases of diarrh&#339;a and dysentery, with accounts of the morbid appearances observed</term>
+       <term>from Lincoln Hospital, Washington, D. C.</term>
+       <term>chronic diarrh&#339;a</term>
+       <term>sick three weeks, also debility, chills, and cough</term>
+       <term>pneumonia, subcrepitant rales, puerile respiration, bronchial respiration and bronchophony</term>
+       <term>lung much congested, consolidated lobules, bronchial tubes congested, extensive old pleuritic adhesions</term>
+       <term>lung substance friable and exuded pus on pressure</term>
+       <term>pericardium contained greenish-yellow serum</term>
+       <term>ileum congested and distended with gas, Peyer's patches thickened and injected</term>
+       <term>mucous membrane of c&#230;cum and rectum dark-purple color</term>
+       <term>transverse colon intensely congested</term>       
+       <term>autopsy performed</term>       
+     </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change who="#mb" when="2012-11-06">additional proofing of transcription and encoding, identified keyword terms</change>
+   <change who="#el" when="2010-11-05">case text extracted and transformed from larger file</change>
+   <change who="#sb" when="2010-05-01">enrich encoding, proof and edit</change>
+   <change who="#ao" when="2008-10-02">encoding and editing</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body> 
+   <p>Case from the case-book of <name type="hospital" key="176"><hi rend="initialcap">L</hi>INCOLN <hi rend="initialcap">H</hi>OSPITAL</name>, Washington, D. C.; <name type="person" key="241">Surgeon Henry Bryant</name>, <name type="organization" key="132">U. S. V.</name>, in charge to May, 1863.</p>
+   <p><hi rend="initialcap">C</hi>ASE 353.&#8212;<name type="person" key="xxx">Private Charles E. Edgely</name>, <name type="organization" key="xxx">company F, 13th New Hampshire volunteers</name>; age 21; admitted <date type="admit" when="1863-02-18">February 18, 1863</date>.  Chronic diarrh&#339;a.  Had been sick three weeks, the symptoms being debility, chills, cough, and diarrh&#339;a. When admitted he was much emaciated, but slept pretty well, and had a good appetite.  February 20th: Pneumonia supervened. He had a slight chill, and took to his bed complaining of cough and excessive weakness; subcrepitant rales were heard on both sides; after a few days the rales on the right side were replaced by puerile respiration, on the left side by bronchial respiration and bronchophony.  Died, <date type="death" when="1863-03-07">March 7th</date>.  <hi rend="italic">Autopsy</hi> <date type="autopsy" when="1863-03-08">nine hours and a half after death</date>: The body was very rigid and slightly emaciated. The brain weighed fifty-two ounces and a half; it was firm and of a flesh color. On section the puncta vasculosa were quite conspicuous; the pia mater was congested; the subarachnoid fluid abundant. The right lung weighed twenty-two ounces and a quarter, the left thirty-eight and a half; the lower lobe of the right lung was very much congested; its upper lobe contained a few consolidated lobules. The right bronchial tubes were congested. There were extensive old pleuritic adhesions on the right side. The lower lobe of the left lung was in a state of gray hepatization; its substance was friable, and exuded pus on pressure. Recent pleurisy was manifested by false membrane covering the whole surface of the lower lobe, most of the upper, and binding the lobes together. The bronchial tubes proceeding from the hepatized lobe were obstructed by white fibrinous plugs. The heart was firm, its valves normal; in its right side was a firm fibrinous clot which extended into the pulmonary artery; a similar clot in the left side extended into the aorta; in the left side there were also some black coagula. The pericardium contained an ounce of light greenish-yellow serum. The liver weighed seventy-four ounces and a half; it was congested, firm, its acini distinct; the gall-bladder contained ten drachms of light straw-colored bile. The spleen weighed fifteen ounces; it was quite firm, and of a dark-purple color with whitish spots. The pancreas weighed three ounces and a quarter; it was quite full of blood. The suprarenal capsules wore small, of a light coffee-color, and soft. The right kidney weighed six ounces and a half, the left seven and a quarter; both were pale, but firm. There was some congestion in the stomach, the mucous membrane of which was soft. In the upper part of the jejunum the mucous membrane was congested and of a dark-purple color; below, the congestion was irregular, and regions of apparently healthy mucous membrane were observed. The ileum was congested and distended with gas. Peyer's patches were slightly thickened and injected. The mucous membrane of the c&#230;cum had a dark-purple color; the ascending colon was but slightly congested, the transverse colon intensely so, the descending colon appeared healthy; the rectum presented the same dark-purple congestion which was observed in the c&#230;cum.&#8212;<name type="person" key="244">Assistant Surgeon George M. McGill</name>, <name type="organization" key="190">U. S. A.</name></p>
+  </body>
+ </text>
+</TEI>

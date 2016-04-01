@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d2e7820">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Higgins, O. C.</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+    <idno>med.d2e7820</idno>
+    <authority>Civil War Washington</authority>
+    <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor><name>Center for Digital Research in the
+     Humanities</name><address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address></distributor>
+    <date>2011</date>
+    <availability>
+     <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+      republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+      law, requires express written consent from the editors and advance notification of the
+      publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+ <persName xml:id="kmp">Kenneth M. Price</persName> <persName xml:id="ajh">AJ Howell</persName>
+     <persName xml:id="mb">Matthew Bosley</persName>
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title level="j">The Medical and Surgical History of the War of the Rebellion.
+      (1861-65.)</title><pubPlace>Washington, DC</pubPlace><publisher>Government Printing
+      Office</publisher><biblScope type="part">Part 3</biblScope><biblScope type="volume">Volume
+      2</biblScope><date when="1883">1883</date><biblScope type="page">176</biblScope></bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+     <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <keywords scheme="#medsurg">
+     <term>wounds and injuries of the lower extremities</term>
+     <term>injuries of the shaft of the femur</term>
+     <term>shot fractures of the shaft of the femur</term>
+     <term>partial shot fractures of the shaft of the femur</term>
+     <term>diarrh&#339;a</term>
+     <term>ball entered middle third of thigh anteriorly, exploded, scattered fragments of lead
+      through thigh</term>
+     <term>partial fracture of femur</term>
+     <term>femur shows local necrosis and profuse suppuration</term>
+     <term>post-mortem examination</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+ <change who="#kmp" when="2014-05">blessed</change>
+   <change who="#ajh" when="2013-08-22">added figure encoding</change>
+   <change who="#mb" when="2012-03-01">additional case copied from MSHWR, performed proofing of copy
+    and XML encoding, and key terms identified</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+
+   <p>
+    <hi rend="initialcap">C</hi>ASE 359.&#8212;<name type="person" key="xxx">Private O. C.
+     Higgins</name>, <name type="organization" key="xxx">Co. D, 31st Maine</name>, aged 24 years,
+    was wounded before <name type="BATTLE" key="7">Petersburg</name>, <date type="injury"
+     when="1864-06-23">June 23, 1864</date>. <name type="person" key="xxx">Surgeon J. Harris</name>,
+     <name type="organization" key="xxx">7th Rhode Island</name>, reported his admission into the
+    field hospital of the 2d division, Ninth Corps, with a &#34;shot wound of thigh caused by a
+    musket ball.&#34; From the field hospital the wounded man passed to the Depot Hospital at <name
+     type="place">City Point</name>, and thence, on <date type="transfer" when="1864-07-03">July
+     3d</date>, to the <name type="hospital" key="512">Third Division Hospital</name> at <name
+     type="place">Alexandria</name>. <name type="person" key="134">Surgeon E. Bentley</name>, <name
+     type="organization" key="132">U. S. V.</name>, in charge of the latter, reported the following
+    description of the injury and its result: &#34;A conical explosive ball entered the external
+    aspect of the middle third of the right thigh anteriorly, and, exploding, scattered fragments of
+    lead through the thigh and partially fractured the femur, not, however, preventing the patient
+    from using his leg at will. Water dressings were applied. When admitted the patient was not in
+    good condition, having been suffering from diarrh&#339;a for some time, for which astringents
+    were given. On July 6th, he was somewhat improved. The cold-water dressings were changed to
+    warm. By July 10th the diarrh&#339;al discharges had ceased, but the wound was very much
+    inflamed. On <date type="injury" when="1864-07-15">July 15th</date>, a slight discharge of dark
+    and unhealthy pus set in, and flaxseed poultices were applied. Tonics and stimulants were
+    administered. On July 21st, the patient felt better, and his treatment was continued. Two days
+    later there were dark and unhealthy discharges from the wound, but the patient looked bright and
+    his tongue was cleaning. Death occurred suddenly at 4 A. M., on <date type="death"
+     when="1864-07-24">July 24, 1864</date>, the patient having been given water to drink about an
+    hour previously by the nurse, and no signs of rapid exhaustion being then apparent. The <hi
+     rend="italic">post-mortem</hi> examination, made nine hours after death, showed the thigh
+    filled with fragments of the bullet, and a partial fracture of the femur; there was profuse
+    suppuration above and around the bone, and great emaciation. The viscera were found to be
+    perfectly healthy.&#34; The upper two-thirds of the injured femur were contributed to the <name
+     type="hospital" key="431">Army Medical Museum</name> by <name type="person" key="134">Dr.
+     Bentley</name>, and are represented in the wood-cut (<hi rend="initial cap">F</hi>IG. 131). The
+    specimen shows the existence of local necrosis, with trivial osseous deposit near by, and the
+    traces of profuse suppuration following the fragments of lead are seen in the roughening of the
+    shaft. </p>
+   <figure>
+    <graphic url="cww.001558.001"/>
+    <head>
+     <hi rend="initial cap">F</hi>IG. 131.&#8212;Partial shot fracture of right femur. <hi
+      rend="italic">Spec</hi>. 3339.</head>
+   </figure>
+
+  </body>
+ </text>
+</TEI>

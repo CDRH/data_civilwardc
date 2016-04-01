@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d2e25059">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Calef, Jonathan</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+    <idno>med.d2e25059</idno>
+       <authority>Civil War Washington</authority>
+       <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor>
+       <name>Center for Digital Research in the Humanities</name>
+       <address><addrLine>319 Love Library</addrLine>
+       <addrLine>University of Nebraska–Lincoln</addrLine>
+       <addrLine>Lincoln, NE 68588-4100</addrLine>
+       <addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+    </distributor>
+    <date>2011</date>
+    <availability>
+        <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+         republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+         law, requires express written consent from the editors and advance notification of the
+         publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+     <persName xml:id="mb">Matthew Bosley</persName>   
+     <persName xml:id="el">Elizabeth Lorang</persName>
+     <persName xml:id="sb">Stacey Berry</persName>
+     <persName xml:id="et">Elisabeth Tracey</persName>
+     <persName xml:id="ss">Sarah Synovec</persName>
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl>
+     <title level="j">The Medical and Surgical History of the War of the Rebellion. (1861-65.)</title>
+     <pubPlace>Washington, DC</pubPlace><publisher>Government Printing Office</publisher>
+     <biblScope type="part">Part 3</biblScope>
+     <biblScope type="volume">Volume 2</biblScope>
+     <date when="1883">1883</date>
+     <biblScope type="page">756</biblScope>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+       <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+      <keywords scheme="#medsurg">
+       <term>wounds and complications</term>       
+       <term>shot wounds</term>      
+       <term>effects of missiles and projectiles on <choice><orig>blood-vessels</orig><reg>blood vessels</reg></choice></term>
+       <term>occlusion of common carotid by impacted ball</term>
+       <term>edges of fractured bone retained in apposition by bandage</term>
+       <term>arterial h&#230;morrhage six days after injury</term>   
+       <term>secondary h&#230;morrhage</term>
+       <term>gunshot wound of side of face and neck, injured by sentry</term>
+       <term>ball struck lower jaw, deflected to pass obliquely through common carotid artery and </term>   
+       <term>ball lodge in sheath of vessel, occluded completely proximal end of divided artery</term>
+       <term>divided carotid artery occluded on side toward heart (proximal) by impacted ball</term>
+       <term>h&#230;morrhage from traumatic <choice><orig>aneurism</orig><reg>aneurysm</reg></choice></term>           
+       <term>died by syncope in attack of h&#230;morrhage</term>   
+     </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change who="#mb" when="2013-02-14">additional proofing of transcription and encoding, edited and added keyword terms, added figures</change>
+   <change who="#el" when="2011-05-11">case text extracted and transformed from larger file</change>
+   <change who="#sb" when="2011-06-04">Enrich Encoding, Edit and validate</change>
+   <change who="#sb" when="2011-01-28">Validated File</change>
+   <change who="#ss" when="2008-09-22">initial checking of OCR text; encoded P5 Encoding</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body> 
+   <p>Missiles and foreign bodies lodging sometimes act as plugs, restraining for a time h&#230;morrhage from a wounded blood-vessel. An interesting case of occlusion of the common carotid by an impacted ball is related by <name type="person" key="70">Surgeon John A. Lidell</name>:&#185;</p>
+   <p><hi rend="initialcap">C</hi>ASE 1101.&#8212; &#34;At the <name type="hospital" key="154">Washington Infirmary</name>, August 15, 1861, through the kindness of <name type="person" key="287">Dr. J. W. S. Gouley</name>, then attached to the medical service of the <name type="organization" key="190">U. S. Army</name>, the author had an opportunity to examine a very interesting preparation of the left common carotid artery and the parts adjacent to it, which had been obtained on the previous day at the autopsy of a soldier who had died from secondary h&#230;morrhage following a gunshot wound of the left side of the face and neck. The ball, which, by the way, was nearly spent, struck the lower jaw well forward and was deflected downward, backward, and a little outward in such a manner as to pass obliquely through the left common carotid artery, and to lodge in the tunics and sheath of that vessel underneath the omo-hyoid muscle, pressing somewhat upon the par vagum, and <hi rend="italic">occluding completely the proximal end of the divided artery.</hi> It was a round ball. The h&#230;morrhage occurred <hi rend="italic">fourteen days</hi> after the wound was inflicted and two or three days after his admission into the infirmary. It came on suddenly, without warning, and was very profuse. The patient lost more than a quart of blood, which flowed in a great stream from his mouth. On the supposition that the h&#230;morrhage proceeded from a lesion of some of the carotid vessels, an effort was made to tie the common carotid above the omo-hyoid muscle, but it had to be abandoned on account of the great profuseness of a flow of blood which took place in the wound of operation, and did not permit the search to be continued in order to secure the bleeding vessel by ligature at the place of injury. It was believed by all the surgeons present that the patient was now so much exhausted by the loss of blood as to make it useless to attempt to tie the common carotid artery below the omo-hyoid muscle, and the next morning he died. Moreover, the source of the h&#230;morrhage was very obscure until it was revealed at the autopsy. <hi rend="italic">It was then found that the divided carotid artery was still occluded on the side of the wound toward the heart (proximal) by the impacted ball; that a false <choice><orig>aneurism</orig><reg>aneurysm</reg></choice> as large as a filbert and elongated in shape had been formed at the distal extremity and on the inner side of the wounded artery just above the omo-hyoid muscle; that the h&#230;morrhage occurred from rupture or spontaneous opening of the sac of this traumatic <choice><orig>aneurism</orig><reg>aneurysm</reg></choice>; that the h&#230;morrhage was not direct, but recurrent in character; and that it could not have been arrested without the application of a ligature to the vessel on the distal side of the wound in it.</hi> The ligation of the common carotid below the omo-hyoid muscle would, therefore, not have done any good, unless the vessel had been tied at the same time at some point beyond the spot where it was wounded and where the traumatic <choice><orig>aneurism</orig><reg>aneurysm</reg></choice> was situated. A remarkable and, so far as the writer knows, an unique feature of this case was, that the traumatic  <choice><orig>aneurism</orig><reg>aneurysm</reg></choice> was formed in connection with the distal end of the divided common carotid artery, the occurrence of which appears to have been favored by the free anastomosis which exists between the terminal branches of both the external and internal carotid arteries of the two sides of the body.&#34;  The above has been identified as the case of <name type="person" key="1474">Corporal Jonathan Calef</name>, <name type="organization" key="523">2d New Hampshire</name>. An abstract of this case has been published by <name type="person" key="1475">Medical Cadet L. H. Bodman</name>, <name type="organization" key="190">U. S. A.</name>,&#178; who states that the man was injured by a sentry, <date type="injury" when="1861-08-07">August 7, 1861</date>. There was considerable h&#230;morrhage at the time of the accident, but when admitted to the hospital <date type="admit" when="1861-08-07">a few hours afterwards</date> he was in a comfortable condition, bleeding having entirely ceased. No search was made for the ball, but the edges of the fractured bone were retained in apposition by means of a suitable bandage, and quiet enjoined. Diet consisted of nutritious soups and beef tea. The patient continued in good condition until the afternoon of the 13th, nearly a week after the reception of the injury, when, lying quietly in bed, he was seized with violent arterial h&#230;morrhage. The blood poured from his mouth, welling up with each pulsation of the heart. Compression over the carotid was instantly resorted to, but a quart of blood had escaped before the h&#230;morrhage was controlled. The patient being now very weak, stimulants were administered and directed to be given frequently through the night. Continuous compression was kept up over the artery. Bleeding recurred twice during the night and was controlled with great difficulty. He sank rapidly, and died on the morning of <date type="death" when="1861-08-14">August 14, 1861</date>, by syncope, in another and terrible attack of h&#230;morrhage.</p>
+   <p>&#185; <hi rend="italic">Surgical Memoirs of the War of the Rebellion, collected and published by the U. S. San. Comm.</hi>, New York, 1870, Surgical Volume I, page 172.</p>
+   <p>&#178; <hi rend="initialcap">B</hi>ODMAN (<hi rend="initialcap">L. H.</hi>), <hi rend="italic">Gunshot Wound of Carotid Artery&#8212;Secondary H&#230;morrhage</hi>, in <hi rend="italic">American Medical Times</hi>, New York, 1862, Vol. IV, p. 67.</p>  
+  </body>
+ </text>
+</TEI>

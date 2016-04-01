@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d2e23768">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Miller, J.</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+    <idno>med.d2e23768</idno>
+    <authority>Civil War Washington</authority>
+    <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor><name>Center for Digital Research in the
+     Humanities</name><address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address></distributor>
+    <date>2011</date>
+    <availability>
+     <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+      republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+      law, requires express written consent from the editors and advance notification of the
+      publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+     <persName xml:id="mb">Matthew Bosley</persName>
+     <persName xml:id="el">Elizabeth Lorang</persName>
+     <persName xml:id="sb">Stacey Berry</persName>
+     <persName xml:id="et">Elisabeth Tracey</persName>
+     <persName xml:id="ss">Sarah Synovec</persName>
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title level="j">The Medical and Surgical History of the War of the Rebellion.
+      (1861-65.)</title><pubPlace>Washington, DC</pubPlace><publisher>Government Printing
+      Office</publisher><biblScope type="part">Part 3</biblScope><biblScope type="volume">Volume
+      2</biblScope><date when="1883">1883</date><biblScope type="page">619</biblScope></bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+     <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <keywords scheme="#medsurg">
+     <term>wounds and injuries of the lower extremities</term> 
+     <term>wounds and operations in the foot</term>
+     <term>shot wounds of the bones of the foot</term>
+     <term>shot fractures of the bones of the foot</term> 
+     <term>shot fractures of the bones of the foot treated by conservation</term> 
+     <term>shot fractures of scaphoid and cuneiform bones</term> 
+     <term>ball entered between scaphoid and internal cuneiform bones, passed out below external malleolus</term>
+     <term>pieces of bone removed from wound of exit</term>     
+     <term>flattening of plantar arch, middle tarsal joint impaired, motion of ankle limited in range</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change who="#mb" when="2012-06-15">additional proofing of transcription and encoding, identified keyword terms</change>   
+   <change who="#el" when="2011-05-11">case text extracted and transformed from larger file</change>
+   <change who="#sb" when="2011-06-04">Enrich Encoding, Edit and validate</change>
+   <change who="#sb" when="2011-01-28">Validated File</change>
+   <change who="#ss" when="2008-09-22">initial checking of OCR text; encoded P5 Encoding</change>   
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>   
+    <p><hi rend="initialcap">C</hi>ASE 893.&#8212;<hi rend="italic">Shot fractures of scaphoid and
+      cuneiform bones.</hi>&#8212;<name type="person" key="1395">Lieutenant J. Miller</name>, <name
+      type="organization" key="135">Co. A, 5th Ohio</name>, aged 26 years, was wounded in the left
+     foot, at <name type="BATTLE" key="68">Cedar Mountain</name>, <date type="injury"
+      when="1862-08-09">August 9, 1862</date>. <name type="person" key="xx">Acting Assistant Surgeon
+       J. A. Murphy</name>, in charge of Third Street Hospital, <name type="place">Cincinnati</name>, reported:  "The ball entered between the scaphoid and internal cuneiform bones and
+     passed out one inch below the external malleolus. The patient was sent to <name type="hospital" key="168">Cliffburn Hospital</name>, at Washington, where <name type="person" key="294">Assistant Surgeon J. S. Billings</name>, <name type="organization" key="190">U. S. A.</name>, on <date type="operation" when="1862-08-14">August 14th</date> enlarged the wound of exit and removed several pieces of bone. The patient
+     remained in said hospital for three months, <date type="furlough" when="1862-11">when</date> he obtained a leave of absence and came to his
+     home (in Cincinnati). He applied for treatment in this hospital in <date type="admit" when="1862-12">December, 1862</date>, when there was still considerable inflammation in
+     the foot. Poultices and cold-water dressings were ordered until the wounds healed. Five small
+     pieces of bone were removed from both the wound of entrance and exit. He is now (April, 1863)
+     able to flex the foot on the leg and walks with a slight halt." <name type="person" key="1395">Lieutenant Miller</name> was discharged from service <date type="servicedischarge" when="1863-06-11">June 11, 1863</date>, and pensioned. The <name type="organization" key="xx">Cincinnati Examining Surgeons</name> have certified to the injury from time to time. In <date type="pension" when="1877">1877</date> they added
+     that "the cicatrix is small, healthy, and adherent. There is some flattening of the plantar
+     arch; middle tarsal joint very much impaired; motion of ankle good but limited in range."  The pensioner was paid <date type="pension" when="1881-03-04">March 4, 1881</date>.</p>   
+  </body>
+ </text>
+</TEI>

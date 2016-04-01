@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e16691">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title level="m" type="main">M&#8212;&#8212;, M.</title>
+        <title level="m" type="sub">a machine readable transcription</title>
+        <principal>Susan C. Lawrence</principal>
+        <principal>Kenneth M. Price</principal>
+        <principal>Kenneth J. Winkle</principal>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <date>2011</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <idno>med.d1e16691</idno>
+        <authority>Civil War Washington</authority>
+        <publisher>University of Nebraska–Lincoln</publisher>
+        <distributor>
+          <name>Center for Digital Research in the Humanities</name>
+          <address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+        </distributor>
+        <date>2011</date>
+        <availability>
+          <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution
+            or republication in any medium, except as allowed under the Fair Use provisions of U.S.
+            copyright law, requires express written consent from the editors and advance
+            notification of the publisher, the University of Nebraska–Lincoln.</p>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="project">The following are responsible for particular readings or for changes to
+          this file, as noted: 
+ <persName xml:id="kw">Kenneth Winkle</persName> <persName xml:id="ajh">AJ Howell</persName>
+          <persName xml:id="mb">Matthew Bosley</persName>
+          <persName xml:id="el">Elizabeth Lorang</persName>
+          <persName xml:id="sb">Stacey Berry</persName>
+          <persName xml:id="et">Elisabeth Tracey</persName>
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>
+          <title>The Medical and Surgical History of the War of the Rebellion.
+            (1861&#8211;65.)</title>
+          <editor role="compiler">Surgeon General Joseph K. Barnes, United States Army</editor>
+          <pubPlace>Washington, D.C.</pubPlace>
+          <publisher>Government Printing Office</publisher>
+          <biblScope type="part">Part 1</biblScope>
+          <biblScope type="volume">Volume 2</biblScope>
+          <date when="1870">1870</date>
+          <biblScope type="page">265</biblScope>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <classDecl>
+        <taxonomy xml:id="medsurg">
+          <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="#medsurg">
+          <term>on special wounds and injuries of the head</term>
+          <term>wounds and injuries of the head</term>
+          <term>gunshot wounds</term>
+          <term>gunshot fractures of the cranial bones</term>
+          <term>trephining after gunshot fractures of the skull</term>
+          <term>trephining practiced, fatal termination</term>
+          <term>conoidal ball comminuted and depressed left parietal bone near upper border to left
+            of longitudinal sinus</term>
+          <term>oozing of medullary brain substance and blood on admission</term>
+          <term>depressed portion of cranium firmly <choice>
+              <orig>imbedded</orig>
+              <reg>embedded</reg>
+            </choice> in the brain</term>
+          <term>membranes and medullary substance of brain lacerated by depressed bone
+            fragments</term>
+          <term>meningeal inflammation and infiltration of purulent matter in region of
+            injury</term>
+          <term>left lateral ventricle distended with blood, piece of bone projected into its
+            cavity</term>
+          <term>general anesthesia, ether</term>
+          <term>autopsy</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+ <change who="#kw" when="2014-05">blessed</change>
+      <change who="#ajh" when="2013-08-19">added figure encoding</change>
+      <change who="#mb" when="2013-08-15">additional proofing of transcription and encoding, edited
+        and added keyword terms</change>
+      <change who="#mb" when="2011-08-10">additional proofing of transcription and encoding</change>
+      <change who="#el" when="2011-11-05">case text extracted and transformed from larger
+        file</change>
+      <change who="#sb" when="2011-02-09">enriched encoding</change>
+      <change who="#sb" when="2011-01-28">validated file</change>
+      <change who="#et" when="2009-08-01">encoded</change>
+      <change who="#sb" when="2008-09-22">initial checking of OCR text against PDF; encoded</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <hi rend="initialcap">C</hi>ASE.&#8212;<name type="person">Private M.
+        M&#8212;&#8212;</name>, <name type="organization" key="xx">Co. C, 48th Pennsylvania
+          Volunteers</name>, aged 45 years, was wounded at the battle of <name type="BATTLE" key="3"><choice>
+            <orig>Spottsylvania</orig>
+            <reg>Spotsylvania</reg>
+          </choice> Court-house, Virginia</name>, <date type="injury" when="1864-05-12">May 12th,
+          1864</date>, by a conoidal ball, which comminuted and depressed the left parietal bone
+        near the upper border to the left of the longitudinal sinus. He was admitted to the hospital
+        of the Ninth Corps and thence sent to the <name type="hospital" key="167">Carver
+          Hospital</name>, Washington, on <date type="transfer" when="1864-05-14">the 14th</date>,
+        somewhat morose and taciturn, and at times manifesting slight symptoms of compressions, but
+        expressing himself quite intelligibly. On the evening of the 15th, he became decidedly
+        comatose. On <date type="operation" when="1864-05-16">the following morning</date> the
+        patient was placed under the influence of ether. <name type="person" key="xx">Acting
+          Assistant Surgeon J. O. French</name> trephined the skull over the affected region and
+        removed several large splinters of the external table. The depressed portion was of an
+        irregular quadrangular shape, measuring an inch or more in its longest diameter, and was
+        firmly <choice>
+          <orig>imbedded</orig>
+          <reg>embedded</reg>
+        </choice> in the brain. The membranes and medullary substance of the brain were lacerated by
+        the depressed fragments, accounting for the slight oozing of medullary substance and blood
+        that had existed ever since his admission. Considerable h&#230;morrhage occurred during the
+        operation, which was controlled by dry lint. The operation relieved the patient from his
+        comatose condition, and he became quite animated, remaining so until the 18th, when coma
+        again set in. Death supervened on <date type="death" when="1864-05-20">the 20th</date>. The
+        autopsy revealed traces of meningeal inflammation and infiltration of purulent matter in the
+        region of the injury. The left lateral ventricle was distended with blood, and a small piece
+        of bone was found projecting into its cavity. The pathological specimen is a disk and three
+        fragments of bone, removed from the cranium. The largest fragment is from the inner table
+        and measures one inch in diameter. The specimen and history were contributed by <name
+          type="person" key="102">Surgeon O. A. Judson</name>, <name type="organization" key="132"
+          >U. S. V.</name>
+      </p>
+      <figure>
+        <graphic url="cww.001418.001"/>
+        <head>
+          <hi rend="initialcap">F</hi>IG. 131.&#8212;Disk and fragments of skull removed by
+          trephining. <hi rend="italic">Spec</hi>. 2302, Sect. I, A. M. M. [Nat. size.]</head>
+      </figure>
+    </body>
+  </text>
+</TEI>

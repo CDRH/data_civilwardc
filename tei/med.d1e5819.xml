@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e5819">
+        <teiHeader>
+                <fileDesc>
+                        <titleStmt>
+                                <title level="m" type="main">Royer, Henry</title>
+                                <title level="m" type="sub">a machine readable transcription</title>
+                                <principal>Susan C. Lawrence</principal>
+                                <principal>Kenneth M. Price</principal>
+                                <principal>Kenneth J. Winkle</principal>
+                        </titleStmt>
+                        <editionStmt>
+                                <edition>
+                                        <date>2011</date>
+                                </edition>
+                        </editionStmt>
+                        <publicationStmt>
+                                <idno>med.d1e5819</idno>
+                                <authority>Civil War Washington</authority>
+                                <publisher>University of Nebraska–Lincoln</publisher>
+                                <distributor>
+                                        <name>Center for Digital Research in the Humanities</name>
+                                        <address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+                                </distributor>
+                                <date>2011</date>
+                                <availability>
+                                        <p>Copyright © 2011 by University of Nebraska–Lincoln, all
+                                                rights reserved. Redistribution or republication in
+                                                any medium, except as allowed under the Fair Use
+                                                provisions of U.S. copyright law, requires express
+                                                written consent from the editors and advance
+                                                notification of the publisher, the University of
+                                                Nebraska–Lincoln.</p>
+                                </availability>
+                        </publicationStmt>
+                        <notesStmt>
+                                <note type="project">The following are responsible for particular
+                                        readings or for changes to this file, as noted: 
+                                        <persName xml:id="mb">Matthew Bosley</persName>
+                                        <persName xml:id="el">Elizabeth Lorang</persName>
+                                        <persName xml:id="sb">Stacey Berry</persName>
+                                        <persName xml:id="et">Elisabeth Tracey</persName>
+                                </note>
+                        </notesStmt>
+                        <sourceDesc>
+                                <bibl>
+                                        <title level="j">The Medical and Surgical History of the War
+                                                of the Rebellion</title>
+                                        <pubPlace>Washington, DC</pubPlace>
+                                        <publisher>Government Printing Office</publisher>
+                                        <biblScope type="part">Part 3</biblScope>
+                                        <biblScope type="volume">Volume 1</biblScope>
+                                        <date when="1888">1888</date>
+                                        <biblScope type="page">338</biblScope>
+                                </bibl>
+                        </sourceDesc>
+                </fileDesc>
+                <encodingDesc>
+                        <classDecl>
+                                <taxonomy xml:id="medsurg">
+                                        <bibl>Medical and Surgical History of the War of the
+                                                Rebellion</bibl>
+                                </taxonomy>
+                        </classDecl>
+                </encodingDesc>
+                <profileDesc>
+                        <textClass>
+                                <keywords scheme="#medsurg">
+                                        <term>post-mortem records</term>
+                                        <term>continued fevers</term>
+                                        <term>typhoid fever</term>
+                                        <term>Peyer's patches ulcerated, large intestine also implicated</term>
+                                </keywords>
+                        </textClass>
+                </profileDesc>
+                <revisionDesc>
+                        <change who="#mb" when="2011-10-07">additional proofing of transcription and encoding</change>
+                        <change who="#mb" when="2011-06-14">additional proofing of transcription and encoding</change>
+                        <change who="#el" when="2011-05-11">case text extracted and transformed from
+                                larger file</change>
+                        <change who="#sb" when="2011-02-23">Encoding and Proofing</change>
+                        <change who="#et" when="2009-12-01">Initial Checking OCR Text to PDF file,
+                        </change>
+                </revisionDesc>
+        </teiHeader>
+        <text>
+                <body xml:id="ch4.sc4.1.00022">
+                        
+                                <p><hi rend="initialcap">C</hi>ASE 22.&#8212;<name type="person"
+                                                key="605">Private Henry Royer</name>, <name
+                                                type="organization" key="643">Co. C, 148th
+                                                Pa.</name>, died <date type="death"
+                                                when="1863-06-30">June 30, 1863</date>, from an
+                                        attack of typhoid fever. <hi rend="italic">Post-mortem</hi>
+                                        examination twenty-four hours after death: Slight cadaveric
+                                        rigidity: much bloody froth issuing from the mouth and
+                                        nostrils. The mucous lining of the stomach was irregularly
+                                        colored; it was of a slaty hue at the pylorus, mottled
+                                        reddish and blackish. Beneath the epithelial lining of the
+                                        duodenum a quantity of gas was found, supposed to be due to
+                                        putrefactive changes. Below this point the mucous membrane
+                                        was of a dull whitish color, very inelastic and easily torn.
+                                        Eight feet from the ileo-c&#230;ecal valve Peyer's
+                                        patches commenced to be involved; at first the upper and
+                                        lower parts of the patch were swollen, livid, not ulcerated,
+                                        the centre being natural; lower down some were entirely
+                                        livid, with no ulceration; about one foot from the valve was
+                                        one very large patch with thick high walls, ulcerated centre
+                                        and numerous small ulcerated points in its area. These
+                                        portions were of a lighter hue than the non-ulcerated
+                                        portions, but none of them perforated the gut; the largest
+                                        patches gave the intestine a honey-combed appearance from
+                                        the peculiarity of the ulceration. The large intestine was
+                                        of a grayish-slate color, its mucous membrane softned but
+                                        not ulcerated.&#8212;<hi rend="italic"><name
+                                                  type="person" key="245">Ass't Surg. Harrison
+                                                  Allen</name>, <name type="organization" key="190"
+                                                  >U. S. A.</name>, <name type="hospital" key="176"
+                                                  >Lincoln Hospital</name>, Washington, D. C.</hi>
+                                </p>
+                        
+                </body>
+        </text>
+</TEI>

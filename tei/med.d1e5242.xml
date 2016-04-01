@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e5242">
+        <teiHeader>
+                <fileDesc>
+                        <titleStmt>
+                                <title level="m" type="main">Kourtz, J. H.</title>
+                                <title level="m" type="sub">a machine readable transcription</title>
+                                <principal>Susan C. Lawrence</principal>
+                                <principal>Kenneth M. Price</principal>
+                                <principal>Kenneth J. Winkle</principal>
+                        </titleStmt>
+                        <editionStmt>
+                                <edition>
+                                        <date>2011</date>
+                                </edition>
+                        </editionStmt>
+                        <publicationStmt>
+                                <idno>med.d1e5242</idno>
+                                <authority>Civil War Washington</authority>
+                                <publisher>University of Nebraska–Lincoln</publisher>
+                                <distributor>
+                                        <name>Center for Digital Research in the Humanities</name>
+                                        <address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+                                </distributor>
+                                <date>2011</date>
+                                <availability>
+                                        <p>Copyright © 2011 by University of Nebraska–Lincoln, all
+                                                rights reserved. Redistribution or republication in
+                                                any medium, except as allowed under the Fair Use
+                                                provisions of U.S. copyright law, requires express
+                                                written consent from the editors and advance
+                                                notification of the publisher, the University of
+                                                Nebraska–Lincoln.</p>
+                                </availability>
+                        </publicationStmt>
+                        <notesStmt>
+                                <note type="project">The following are responsible for particular
+                                        readings or for changes to this file, as noted: 
+                                        <persName xml:id="mb">Matthew Bosley</persName>
+                                        <persName xml:id="el">Elizabeth Lorang</persName>
+                                        <persName xml:id="sb">Stacey Berry</persName>
+                                        <persName xml:id="et">Elisabeth Tracey</persName>
+                                </note>
+                        </notesStmt>
+                        <sourceDesc>
+                                <bibl>
+                                        <title level="j">The Medical and Surgical History of the War
+                                                of the Rebellion</title>
+                                        <pubPlace>Washington, DC</pubPlace>
+                                        <publisher>Government Printing Office</publisher>
+                                        <biblScope type="part">Part 3</biblScope>
+                                        <biblScope type="volume">Volume 1</biblScope>
+                                        <date when="1888">1888</date>
+                                        <biblScope type="page">263</biblScope>
+                                </bibl>
+                        </sourceDesc>
+                </fileDesc>
+                <encodingDesc>
+                        <classDecl>
+                                <taxonomy xml:id="medsurg">
+                                        <bibl>Medical and Surgical History of the War of the
+                                                Rebellion</bibl>
+                                </taxonomy>
+                        </classDecl>
+                </encodingDesc>
+                <profileDesc>
+                        <textClass>
+                                <keywords scheme="#medsurg">
+                                        <term>clinical records</term>
+                                        <term>continued fevers</term>
+                                        <term>superficial gangrene</term>  
+                                        <term>fever cases from various records</term>
+                                        <term>reported as typhoid, many modified by malarial influence</term>
+                                </keywords>
+                        </textClass>
+                </profileDesc>
+                <revisionDesc>
+                        <change who="#mb" when="2011-10-07">additional proofing of transcription and encoding</change>
+                        <change who="#mb" when="2011-06-13">additional proofing of transcription and encoding</change>
+                        <change who="#el" when="2011-05-11">case text extracted and transformed from
+                                larger file</change>
+                        <change who="#sb" when="2011-02-23">Encoding and Proofing</change>
+                        <change who="#et" when="2009-12-01">Initial Checking OCR Text to PDF file,
+                        </change>
+                </revisionDesc>
+        </teiHeader>
+        <text>
+                <body xml:id="ch4.sc2.4.00040">
+                        
+                                <p><hi rend="initialcap">C</hi>ASE 40.&#8212;<hi rend="italic">Superficial gangrenous
+                                                patches.</hi>&#8212;<name type="person"
+                                                key="590">Corp'l J. H. Kourtz</name>, <name
+                                                type="organization" key="610">Co. C, 130th
+                                                Pa.</name>; age 19; was admitted <date type="admit"
+                                                when="1863-04-20">April 20, 1863</date>, having been
+                                        sick since <date type="injury" when="1863-04-01">the 1st</date>. He was considerably emaciated and in bad
+                                        nervous condition; his pulse 90, appetite poor, tongue
+                                        white-coated, dry and cracked, and bowels moved five or six
+                                        times during the twenty-four hours; he had a slight cough
+                                        with thin gray sputa mixed with semi-solid masses of a
+                                        dark-brown color, and there was <choice><orig>dulness</orig><reg>dullness</reg></choice>
+                                        and slight crepitus
+                                        in the right infraclavicular region. Suitable nourishment
+                                        was ordered with sweet spirit of nitre and Dover's powder at
+                                        bedtime. On the 24th two small pustules with inflammatory
+                                        areol&#230; were observed above the left knee. A
+                                        two-grain dose of quinine in sherry was given every two
+                                        hours. By the 29th the centre of these spots had become
+                                        gangrenous and evolved a very offensive odor; a similar but
+                                        larger spot had also developed on the right forearm three
+                                        inches above the wrist. Chloride of zinc solution was used
+                                        locally. The spots enlarged slowly, and on May 3 a pustule
+                                        with a large inflammatory base appeared on the mucous
+                                        membrane of the left side of the lower lip. On the 5th there
+                                        was low delirium; the left side of the face was swollen and
+                                        the gangrenous spot on the lip was as large as a penny and
+                                        increasing rapidly; the diarrh&#339;a meanwhile
+                                        continued. The patient became unconscious and died on 
+                                                <date type="death" when="1863-05-08">the 8th</date>.&#8212;<hi rend="italic"><name
+                                                  type="person" key="589">Act. Ass't Surg. O. P. Sweet</name>, <name type="organization" key="190">U. S. A.</name>, <name type="hospital" key="176">Lincoln Hospital</name>, Washington, D. C. </hi>
+                                </p>
+                        
+                </body>
+        </text>
+</TEI>

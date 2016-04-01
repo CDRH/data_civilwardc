@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d2e31537">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">French, Jason O.</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+       <idno>med.d2e31537</idno>
+       <authority>Civil War Washington</authority>
+       <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor>
+       <name>Center for Digital Research in the Humanities</name>
+       <address><addrLine>319 Love Library</addrLine>
+       <addrLine>University of Nebraska–Lincoln</addrLine>
+       <addrLine>Lincoln, NE 68588-4100</addrLine>
+       <addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+    </distributor>
+    <date>2011</date>
+    <availability>
+        <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+         republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+         law, requires express written consent from the editors and advance notification of the
+         publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+     <persName xml:id="mb">Matthew Bosley</persName>
+     <persName xml:id="mb-o">Miguel Beltran-Orozco</persName>
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl>
+     <title level="j">The Medical and Surgical History of the War of the Rebellion. (1861-65.)</title>
+     <pubPlace>Washington, DC</pubPlace>
+     <publisher>Government Printing Office</publisher>
+     <biblScope type="part">Part 2</biblScope>
+     <biblScope type="volume">Volume 2</biblScope>
+     <date when="1876">1876</date>
+     <biblScope type="page">144</biblScope>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+       <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+      <keywords scheme="#medsurg">
+       <term>injuries of the abdomen</term>
+       <term>penetrating wounds of the abdomen</term>
+       <term>wounds of the liver</term>
+       <term>gunshot wounds</term>
+       <term>recoveries from shot wounds of the liver</term> 
+       <term>shot wound of thorax</term>
+       <term>ball entered at lower margin of eighth rib, emerged near spinous process of first lumbar vertebra</term>
+       <term>depressed from loss of blood</term>
+       <term><choice><orig>jaundical</orig><reg>jaundiced</reg></choice> discoloration of surface</term>
+       <term>urine indicated bilious discoloration</term>
+       <term>general itching</term> 
+       <term>discharge of bilious matter from anterior wound, pus from posterior orifice</term>
+       <term>bile flowed from both wounds</term>
+       <term>exposed hepatic duct</term>
+       <term>permanently disabled</term>   
+     </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change who="#mb" when="2012-08-06">additional proofing of transcription and encoding, identified keyword terms</change>
+   <change who="#mb-o" when="2011-02-20">checked OCR; added minimal mark-up for personal names, place names, and dates</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>  
+   <p><hi rend="initialcap">C</hi>ASE 377.&#8212;<name type="person" key="xxx">Private Jason O. French</name>, <name type="organization" key="xxx">Co. C, 17th Vermont</name>, was wounded at the battle of <name type="BATTLE" key="16">Cold Harbor</name>, <date type="injury" when="1864-06-03">June 3, 1864</date>, and was taken to the Ninth Corps Hospital, where <name type="person" key="xxx">Surgeon J. Harris</name>, <name type="organization" key="xxx">7th Rhode Island</name>, recorded the injury as a shot wound of the thorax. Thence transferred to <name type="place" key="#Washington">Washington</name>, <name type="person" key="xxx">French</name> entered <name type="hospital" key="172">Emory Hospital</name> on <date type="transfer" when="1863-06-07">the 7th</date>, whence <name type="person" key="884">Surgeon N. R. Moseley</name>, <name type="organization" key="132">U. S. V.</name>, reports the following particulars:&#185;  "A mini&#233; ball entered the right side, at the lower margin of the eighth rib, near the angle, and emerged half an inch to the right of the spinous process of the first lumbar vertebra. The countenance was pale, the lips livid, the extremities cold; the pulse 110. There was dyspn&#339;a, nausea, and occasional vomiting.  The patient was much depressed from loss of blood, which had continued to flow at intervals during the three days succeeding the injury. Brandy and beef-tea were administered, and warm frictions to the extremities were employed, until reaction took place.  On June 8th, the pulse was at 100. On this, and on several subsequent days, the bowels were irregular, the stools being sometimes yellow or dark brown, and sometimes clay-colored.  On the 9th, the abdomen was tympanitic and tender, the tongue dry, the pulse 110. <name type="person" key="xxx">Acting Assistant Surgeon P. O. Williams</name> directed a saline cathartic with terebinthinate enemata, and warm fomentations, and wine whey, beef-tea, and chicken-broth.  On the morning of June 10th, there were two copious alvine discharges. There was still much abdominal tension and tenderness, and there was a <choice><orig>jaundical</orig><reg>jaundiced</reg></choice> discoloration of the surface. The urine also indicated a bilious discoloration. The pulse was 108, the extremities cold, the countenance cadaveric. Oil of turpentine and Dover's powder were given internally, and hot fomentations and terebinthinate embrocations were applied to the abdomen.  On June 11th, the abdominal tenderness was mitigated, the pulse was 100, the tongue and skin moist, the extremities warm. The patient complained of general itching. The treatment was continued, a portion of ipecac being added to the Dover's powders.  From June 12th to the 15th, there was gradual improvement. The bowels were regular, the stools clay-colored, the appetite good. A generous milk diet, with Dover's powder and ipecac at bedtime, was directed.  On, June 20th, there was a profuse discharge of bilious matter from the anterior wound; from the posterior orifice pus, with occasional clots of blood, escaped.  On June 25th, large quantities of greenish bile flowed from both wounds. It was inferred that a slough had separated and exposed the right hepatic duct, so copious was the discharge. The general condition was excellent, the patient resting without anodynes. In place of the Dover's powder, tincture of the sesquichloride of iron was ordered.  After July 2nd, the bilious discharge subsided and the stools regained their natural color. Henceforward the patient's convalescence was uninterrupted. On <date type="transfer" when="1864-08-19">August 19th</date>, he was transferred to the Smith Hospital, <name type="place">Brattleboro'</name>, and was discharged from service <date type="servicedischarge" when="1865-07-18">July 18, 1865</date>, and pensioned."  <name type="person" key="xxx">Examiner D. W. Putnam</name>, of <name type="place">Morrisville, Vermont</name>, reports, <date type="pension" when="1872-01-05">January 5, 1872</date>, that the pensioner suffers from dyspn&#339;a, and that he is permanently disabled.</p> 
+   <p>&#185; An abstract of this case has been printed by Dr. <hi rend="initialcap">P</hi>ETER  <hi rend="initialcap">O</hi>.  <hi rend="initialcap">W</hi>ILLIAMS, of Coxsackie, in the <hi rend="italic">Transactions of the Medical Society of the State of New York</hi>, 1866, Article VII, p. 39.</p>    
+  </body>
+ </text>
+</TEI>

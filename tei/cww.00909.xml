@@ -1,0 +1,468 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="cww.00909">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Petition of James Selden, 12 July 1862</title>
+                <title level="m" type="sub">a machine readable transcription</title>
+                <principal>Susan C. Lawrence</principal>
+                <principal>Kenneth M. Price</principal>
+                <principal>Kenneth J. Winkle</principal>
+                <respStmt>
+                    <resp>transcription and encoding</resp>
+                    <name xml:id="jc">Janel Cayer</name>
+                    <name xml:id="nnk">Nima Najafi Kianfar</name>
+                    <name xml:id="kp">Kenneth M. Price</name>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2013</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <idno>cww.00909</idno>
+                <distributor>Civil War Washington</distributor>
+                <publisher>University of Nebraska–Lincoln</publisher>
+                <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>P.O. Box 884100</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+            </address>
+                <date>2013</date>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+                        <p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike
+                            3.0 Unported License
+                            (http://creativecommons.org/licenses/by-nc-sa/3.0/). Derivatives must be
+                            credited to Civil War Washington, made available non-commercially, and
+                            distributed under the same terms. Requests for permission for commercial
+                            publication or other use should be emailed to the project team.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Petition of James Selden, 12 July 1862</title>
+                    <date when="1862-07-12">July 12, 1862</date>
+                    <idno>Microcopy 520, Reel 6</idno>
+                    <orgName>National Archives and Records Administration</orgName>
+                    <relatedItem type="original">
+                        <bibl>
+                            <title>Petition of James Selden, 12 July 1862</title>
+                            <date when="1862-07-12">July 12, 1862</date>
+                            <idno>Record Group 217.6.5</idno>
+                            <orgName>Records of the Accounting Officers of the Department of the
+                                Treasury, 1775–1978, National Archives and Records
+                                Administration</orgName>
+                            <note type="project">Within the National Archives' Archival Description
+                                Catalog, see ARC Identifier 4644616 / MLR Number A1 347
+                                (http://arcweb.archives.gov).</note>
+                        </bibl>
+                    </relatedItem>
+                    <note type="project">Our transcription is based on a digital image of a
+                        microfilm copy of the original.</note>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <particDesc>
+                <person role="petitioner">
+                    <persName>James Selden</persName>
+                </person>
+                <person role="jp">
+                    <persName>L. S. S. Stead</persName>
+                </person>
+            </particDesc>
+        </profileDesc>
+        <revisionDesc>
+            <change when="2013-08-14" who="#jc">revised code for handwritten content on oath page; removed underlining of Woodward</change>
+            <change when="2013-04-29" who="#jc">blessed</change>
+            <change when="2013-04-26" who="#kp">blessed</change>
+            <change when="2013-03-21" who="#jc">performed automated check for regular transcriptions
+                and encoding errors and mistakes at facs</change>
+            <change when="2013-02-15" who="#nnk">proofed</change>
+            <change when="2012-12-10" who="#jc">transcribed and encoded</change>
+        </revisionDesc>
+
+    </teiHeader>
+
+    <text>
+        <body>
+            <pb xml:id="leaf001r" facs="cww.00909.001.jpg"/>
+
+            <div1 type="petition" subtype="mixed">
+                <head type="main">PETITION.</head>
+                <p rend="bold">To the Commissioners under the act of Congress approved the <date
+                        when="1862-04-16">16th of April, 1862</date>, entitled "An act for the
+                    release of certain persons held to service or labor in the <placeName>District
+                        of Columbia</placeName>."</p>
+
+                <p>Your Petitioner, <seg type="handwritten"><persName>James Selden</persName></seg>
+                    of <seg type="handwritten"><placeName>Washington City DC</placeName></seg> by
+                    this <seg type="handwritten">his</seg> petition in writing, represents and
+                    states, that <seg type="handwritten">he</seg> is a person loyal to the
+                        <placeName>United States</placeName>, who, at the time of the passage of the
+                    said act of Congress, held a claim to service or labor against <space
+                        atLeast="1"/> person<seg type="handwritten">s</seg> of African descent of
+                    the name of <seg type="handwritten"><persName>Jim</persName>,
+                            <persName>George</persName>, <persName>Charlotte</persName>,
+                            <persName>Anne</persName>, <persName>Anne</persName>'s
+                        children&#8212;namely <persName>Louisa</persName>, <persName>Jim</persName>,
+                        and <persName>John Lincoln</persName>, <persName>Eliza</persName>, the wife
+                        of <persName>Robert Carter</persName>
+                        <choice>
+                            <abbr>(cold)</abbr>
+                            <expan>colored</expan>
+                        </choice> and <persName>Susan</persName>,</seg> for and during the life of
+                    said <seg type="handwritten">persons of <choice>
+                            <sic>Africa</sic>
+                            <corr>African</corr>
+                        </choice> descent,</seg> and that by said act of Congress said <seg
+                        type="handwritten">persons were</seg> discharged and freed of and from all
+                    claim of your petitioner to such service or labor; that at the time of said
+                    discharge said <seg type="handwritten"><persName>Jim</persName> was</seg> of the
+                    age of <seg type="handwritten">about fifty seven years</seg> and of the personal
+                    description following:<note type="government" place="foot" xml:id="n1">Here
+                        describe the person, so as to identify him or her; and if there be more than
+                        one slave, describe each one separately.</note>
+                    <seg type="handwritten">of ordinary color of negroes, very stout, strong and
+                        active, but of low stature, and a superior farming hand, worth $500.
+                            <persName>George</persName>, about the same color of
+                            <persName>Jim</persName>, about twenty seven years old, tall stout and
+                        active, a fine house servant and carriage driver, worth $1500.
+                            <persName>Charlotte</persName>, about the same color, about sixty years
+                        old, a good cook, washerwoman and nurse, but of low <choice>
+                            <sic>statue</sic>
+                            <corr>stature</corr>
+                        </choice>, worth $250. <persName>Anne</persName>, worth $500, the wife of
+                            <persName>Jim</persName>, of a dark color, strong, compact and well
+                        formed, a good cook, chamber maid and nurse, about forty two years old,
+                        &#38; the mother of Louisa, (who when the deed of trust from <choice>
+                            <abbr>Col</abbr>
+                            <expan>Colonel</expan>
+                        </choice>
+                        <persName>Wm Selden</persName> for the benefit of <choice>
+                            <abbr>Lt</abbr>
+                            <expan>Lieutenant</expan>
+                        </choice>
+                        <persName>Geo L Selden</persName> was made was a sucking baby) a very
+                        superior child, like her father <persName>Jim</persName>, about eight years
+                        old now, and worth $400. <persName>Jim</persName>, the son of
+                            <persName>Jim</persName> and <persName>Anne</persName>, about four years
+                        old, and <persName>John Lincoln</persName> son of said
+                            <persName>Jim</persName> and <persName>Anne</persName>, born a few days
+                        only before <pb xml:id="leaf001v" facs="cww.00909.002.jpg"/> the Act of
+                            <date when="1862-04-16">16 April 1862</date> was passed: the two boys
+                        worth about $350. <persName>Eliza</persName>, a mulatto woman about fifty
+                        seven years old, a <unclear reason="illegible" cert="medium" resp="#nnk"
+                            >superior cook</unclear>, nurse &#38;c worth $400. And
+                            <persName>Susan</persName>, a mulatto woman about forty years old,
+                        strong &#38; well formed, worth $600.</seg></p>
+
+                <p>That your petitioner acquired <space atLeast="1"/> claim to the aforesaid service
+                    or labor of said <seg type="handwritten">persons</seg> in manner following:<note
+                        type="government" place="foot" xml:id="n2">Here state how the claim was
+                        acquired, when, from whom, and for what price or consideration; and, if held
+                        under any written evidence of title, make exhibit thereof, or refer to the
+                        public record where the same may be found.</note>
+                    <seg type="handwritten">About ten years ago, <choice>
+                            <abbr>colo</abbr>
+                            <expan>colored</expan>
+                        </choice>
+                        <gap reason="illegible" extent="less than one word" quantity="1"
+                            unit="chars"/>
+                        <persName>Willm Seldon</persName>, of <placeName>Washington
+                        City</placeName>, borrowed seven thousand dollars of <choice>
+                            <abbr>Lt</abbr>
+                            <expan>Lieutenant</expan>
+                        </choice>
+                        <persName>Geo L. Selden</persName> now in the <placeName>UState</placeName>
+                        Navy, and, in <date when="1855">1855</date>, gave to the said <persName>Geo
+                            L. Selden</persName>'s trustees, of whom your Petitioner is the only
+                        acting one, a deed of trust upon the persons described in this Petition, to
+                            <unclear reason="illegible" cert="low" resp="#jc">secure</unclear> to
+                        the said <persName>Geo. L Selden</persName> payment of the debt: as will
+                        appear by that deed, an extract from which, headed <persName>Wm
+                            Selden</persName> &#38; wife to <persName><unclear reason="illegible"
+                                cert="medium" resp="#nnk">Nutt</unclear></persName>,
+                            <persName>McLean</persName> &#38; <persName>Selden</persName>, and no I
+                        is herewith filed, duly certified.</seg></p>
+                <ab type="handwritten">It is proper to state that through neglect or <unclear
+                        reason="illegible" cert="low" resp="#jc"><choice>
+                            <sic>inadvertence</sic>
+                            <corr>inadvertance</corr>
+                        </choice></unclear> the name of the woman <persName>Susan</persName> was not
+                    stated in the conveyance, though she was then held and owned by <choice>
+                        <abbr>Col</abbr>
+                        <expan>Colonel</expan>
+                    </choice>
+                    <persName>Selden</persName>, who intended then and desires now that she shall be
+                    subject to the said <persName>G. L Selden</persName>'s <unclear
+                        reason="illegible" cert="medium" resp="#nnk">lien</unclear>, as will appear
+                    by his certificate here filed No 2</ab>
+
+                <p>That your petitioner's claim to the service or labor of said <seg
+                        type="handwritten">slaves or servants</seg> was, at the time of said
+                    discharge therefrom, of the value of <seg type="handwritten">four thousand</seg>
+                    dollars in money.<note type="government" place="foot" xml:id="n3">Here state
+                        such facts, if any there be, touching the value of the petitioner's claim to
+                        the service or labor of the person, as may enhance the same, and also such
+                        facts, if any, touching the moral, mental, and bodily infirmities or defects
+                        of said person, as impair the value of the petitioner's claim to such
+                        service or labor, and conclude such statement with an averment that the
+                        petitioner knows of no other infirmities or defects of said person which
+                        impair the value of petitioner's claim to such service or labor, and that he
+                        believes none other to exist. If the petitioner specify no such infirmity or
+                        defect, then his statement touching the value of his claim should conclude
+                        with an averment that he has no knowledge of any such infirmity or
+                        defect.</note><seg type="handwritten">That your Petitioner is not aware of
+                        any defects of infirmities in any of the said slaves or servants, and does
+                        not believe that any exists.</seg></p>
+
+                <p>Your petitioner hereby declares that <seg type="handwritten">he</seg> bears true
+                    and faithful allegiance to the Government of the <placeName>United
+                        States</placeName>, and that <seg type="handwritten">he</seg> has not borne
+                    arms against the <placeName>United States</placeName> in the present rebellion,
+                    nor in any way given aid or comfort thereto.</p>
+
+                <p>And your petitioner further states and alleges, that <seg type="handwritten"
+                        >he</seg> has not brought said <seg type="handwritten">slaves, or persons,
+                        or any of them,</seg> into the <placeName>District of Columbia</placeName>
+                    since the passage of said act of Congress; and that, at the time of the passage
+                    thereof, said <seg type="handwritten">slaves or persons</seg> was held to
+                    service or labor therein under and by virtue of your petitioner's claim to such
+                    service or labor.</p>
+
+                <p>Your petitioner further states and alleges, that <seg type="handwritten"
+                        >his</seg> said claim to the service or labor of said <seg
+                        type="handwritten">slaves or persons</seg> does not originate in or by
+                    virtue of any transfer heretofore made by any person who has in any manner aided
+                    or sustained the present rebellion against the Government of the
+                        <placeName>United States</placeName>.</p>
+
+                <p>And your petitioner prays the said Commissioners to investigate and determine the
+                    validity of <seg type="handwritten">his</seg> said claim to the service or labor
+                    of said <seg type="handwritten">slaves or persons</seg> herein above set forth;
+                    and if the same be found to be valid, that they appraise and apportion the value
+                    of said claim in money, and report the same to the Secretary of the Treasury of
+                    the <placeName>United States</placeName>, in conformity to the provisions of
+                    said act of Congress.</p>
+
+                <ab type="handwritten">It is thought that <persName>George</persName>, one of the
+                    servants deeded <!-- "ended"? --> in trust has gone off, and cannot be
+                    found.</ab>
+
+                <closer> (Signed by) <signed><seg type="handwritten"><persName>Wm
+                            Selden</persName></seg></signed>
+                    <signed><seg type="handwritten"><persName>James Selden</persName>,<lb/> as
+                            Trustee for <persName>Geo. L. Selden</persName></seg></signed>
+                </closer>
+            </div1>
+
+            <pb xml:id="leaf002r" facs="cww.00909.003.jpg"/>
+
+            <div1 type="statement" subtype="handwritten">
+                <div2 type="section">
+                    <ab>No 2<lb/>
+                        <persName>Wm Selden</persName>'s<lb/> Certificate</ab>
+                </div2>
+
+                <pb xml:id="leaf002v" facs="cww.00909.004.jpg"/>
+                <div2 type="section">
+                    <dateline><placeName>District of Columbia</placeName><lb/>
+                        <date when="1862-05-05">May 5 1862</date></dateline>
+                    <p>This is to certify that through <choice>
+                            <sic>inadvertince</sic>
+                            <corr>inadvertance</corr>
+                        </choice> merely the name of <persName>Susan</persName>, (a mulatto woman
+                        about forty or forty two years old, whom I purchased of Mrs <persName>Anne
+                            Safford</persName>, of <placeName>Wood County, Virginia</placeName>, and
+                        who got her from the estate of her brother <choice>
+                            <abbr>Genl</abbr>
+                            <expan>General</expan>
+                        </choice>
+                        <persName>Alexander Hunter</persName>, once Marshal of this
+                            <placeName>District</placeName>) was not included within the deed of
+                        trust to which, in <date when="1855">1855</date>, I executed to <choice>
+                            <abbr>Messrs</abbr>
+                            <expan>Messiuers</expan>
+                        </choice>
+                        <persName>Nutt</persName>, <persName>McLean</persName> &#38;
+                            <persName>Selden</persName>, to secure to <choice>
+                            <abbr>Lt</abbr>
+                            <expan>Lieutenant</expan>
+                        </choice>
+                        <persName>Geo Loyall Selden</persName>, the payment of seven thousand
+                        dollars, with interest, which money I owed him, and for which I have given
+                        him my Bond</p>
+                    <p>And, inasmuch as I then owned <persName>Susan</persName>, had here in my
+                        possession here, and had promised to convey my slaves generally, so I always
+                        considered myself bound in honor to give to <choice>
+                            <abbr>Lt</abbr>
+                            <expan>Lieutenant</expan>
+                        </choice>
+                        <persName>Selden</persName> and his trustees the same right and title to
+                            <persName>Susan</persName> that they had to the other slaves. And my
+                        desire is now that in any action of the commissioners upon the Petition
+                        which <choice>
+                            <abbr>Lt</abbr>
+                            <expan>Lieutenant</expan>
+                        </choice>
+                        <persName>Selden</persName>, or any one for him, may present to the
+                        Commissioners under the act of the <date when="1862-04-16">16 of April
+                            last</date>, they may dispose of <persName>Susan</persName> as a part of
+                        the slaves that Lieutenant held valid right to</p>
+                    <closer>
+                        <signed><persName>Wm Selden</persName></signed><lb/> Witness
+                                <signed><persName>James Selden</persName>,</signed>
+                    </closer>
+                </div2>
+                <div2 type="section">
+                    <p>It is proper to state that <persName>George</persName>, too, one of the
+                        servants, conveyed in trust to <choice>
+                            <abbr>Lt</abbr>
+                            <expan>Lieutenant</expan>
+                        </choice>
+                        <persName>Selden</persName>'s trustees has lately gone away to parts
+                        unknown, and can not be produced</p>
+                    <closer>
+                        <signed><persName>Wm Selden</persName></signed>, <dateline><date
+                                when="1862-05-05">May 5 1862</date></dateline>
+                    </closer>
+                </div2>
+            </div1>
+
+            <pb xml:id="leaf003r" facs="cww.00909.005.jpg"/>
+            <div1 type="deed" subtype="handwritten">
+                <div2 type="section">
+                    <ab>No I</ab>
+                    <ab><persName>Wm Selden</persName> &#38; wife Extract from <gap
+                            reason="illegible" extent="less than one word" quantity="3" unit="chars"
+                        /> of Trust<lb/> To<lb/>
+                        <persName>Wm. D. Nutt</persName><lb/>
+                        <persName>Anthony McLean</persName><lb/> &#38; <persName>James <hi
+                                rend="underline">Selden</hi></persName></ab>
+                    <ab><hi rend="underline">Extract</hi></ab>
+                    <ab><gap reason="illegible" extent="one word" quantity="6" unit="chars"/> &#38;
+                        Extract <hi rend="underline">$1.00</hi></ab>
+                </div2>
+
+                <pb xml:id="leaf003v" facs="cww.00909.006.jpg"/>
+                <div2 type="section">
+                    <ab><persName>William Selden</persName> &#38; wife<lb/> To<lb/>
+                        <persName>William D. Nutt</persName><lb/>
+                        <persName>Anthony McLean</persName><lb/> &#38; <persName>James
+                            Selden</persName></ab>
+                    <ab>Deed of Trust</ab>
+                    <ab>dated the <date when="1855-03-24">24th of March 1855</date>.</ab>
+                    <p>Conveying to the said parties of the Second part, and the Survivors or
+                        Survivor of them his heirs and assigns all those <unclear reason="illegible"
+                            cert="medium" resp="#jc">pieces</unclear> or parcels of land lying and
+                        being in the <placeName>County of Washington</placeName> and
+                            <placeName>District of Columbia</placeName>, being part of the property
+                        Known as the Old <unclear reason="illegible" cert="medium" resp="#jc"
+                            >Racefield</unclear>, and owned by <persName>William Holmead</persName>,
+                        which pieces of land containing in all about Seventy acres more or less were
+                        purchased from the said <persName>William Holmead</persName> and his wife,
+                        and from <persName>Charles Payne</persName> and his wife, as will more fully
+                        appear by reference to their deeds to the said <persName>William
+                            Selden</persName> recorded among the Land Records of said
+                            <placeName>Washington</placeName> and being the same place where the
+                        said <persName>William Selden</persName> has for several summers lately
+                        resided.&#8212;</p>
+                    <p>And the said parties of the first part have in Consideration of the Sum of
+                            <pb xml:id="leaf004r" facs="cww.00909.007.jpg"/> of five dollars to them
+                        in hand paid by the said parties of the second part, the receipt of which
+                        they do hereby acknowledge, have granted bargained and sold and delivered,
+                        and by these presents do grant bargain sell and deliver unto the said
+                        parties of the second part and the Survivors or Survivor of them, his
+                        Executors administrators and assigns, all and Singular all the Stock,
+                        poultry, Slaves and farming utensils now on the place, Consisting of one Bay
+                        horse, one bay mare, one Sorrel Mare and one Sorrel <choice>
+                            <sic>filley</sic>
+                            <corr>filly</corr>
+                        </choice>, and all and Singular the goods and Chattels, household Stuff,
+                        furniture and Kitchen utensils, One negro man named
+                        <persName>Jim</persName>, about fifty years old, <persName>George</persName>
+                        a negro man about twenty years old; <persName>Charlotte</persName> a negro
+                        woman about Sixty years old; <persName>Charlotte</persName> a mulatto woman
+                        about Sixty five years old; <persName>Ann</persName> a black woman about
+                        thirty five years old with her sucking baby, and <persName>Eliza</persName>,
+                        a mulatto woman about fifty years old, the wife of <persName>Robert
+                            Carter</persName>, and all Slaves for life. To Have and To Hold the said
+                        pieces and parcels of land and promises <unclear reason="illegible"
+                            cert="low" resp="#nnk">within</unclear> the <unclear reason="illegible"
+                            cert="medium" resp="#jc">appurtenances</unclear>, and all and Singular
+                        all the said goods and chattels, stock, poultry, furniture and slaves unto
+                        and to the use &#38;c &#38;c&#8212;</p>
+                    <p>In Trust, to secure the payment of seven Thousand dollars to <persName>George
+                            L. Selden</persName> of <pb xml:id="leaf004v" facs="cww.00909.008.jpg"/>
+                        the <placeName>United States</placeName> Navy, borrowed money.</p>
+                    <closer>True Extract <signed><choice>
+                                <abbr>Test</abbr>
+                                <expan>Testimony</expan>
+                            </choice>. <persName>Jno. A. Smith</persName>, <choice>
+                                <abbr>Clk</abbr>
+                                <expan>Clerk</expan>
+                            </choice></signed><lb/> Liber J. A. S. No. 94 <choice>
+                            <abbr>Fol.</abbr>
+                            <expan>Folio</expan>
+                        </choice> 46, &#38;c</closer>
+                </div2>
+            </div1>
+
+            <pb xml:id="leaf005r" facs="cww.00909.010.jpg"/>
+            <div1 type="oath" subtype="mixed">
+                <head type="main">[<hi rend="italic">Form of the Oath for the Verification of the
+                        Petition.</hi>]</head>
+
+                <dateline><placeName>District of Columbia</placeName>,<lb/>
+                    <hi rend="italic"><placeName>Washington County</placeName>, ss.</hi>
+                    <seg type="handwritten"><date when="1862-07-11">July 11th
+                    1862</date></seg></dateline>
+
+                <div2 type="section">
+                    <p>I, <seg type="handwritten"><persName>James Selden</persName>, Trustee for
+                                <persName>Geo L Selden</persName>,</seg> being duly sworn, do depose
+                        and say, that all the several matters and things which are set forth and
+                        stated in the foregoing petition, as of my own knowledge, are true in
+                        substance and in fact; and that all the several other matters and things
+                        therein set forth and stated, as from the information of others, I believe
+                        to be true in substance and in fact.</p>
+                    <closer> (Signed by) <signed><seg type="handwritten"><persName>Jas.
+                                    Selden</persName>,<lb/>
+                                <persName>Wm Selden</persName></seg></signed>
+                    </closer>
+                </div2>
+
+                <div2 type="section">
+                    <p>Sworn to and subscribed before me this <date when="1862-07-12"><seg
+                                type="handwritten">12th</seg> day of <seg type="handwritten"
+                                >July</seg> A. D. 1862</date>.</p>
+                    <closer> (Signed by) <signed><seg type="handwritten"><persName><unclear
+                                        reason="illegible" cert="low" resp="#jc">L. S. S.
+                                        Stead</unclear></persName><lb/> J. P.</seg></signed>
+                    </closer>
+                </div2>
+                <div2 type="section" subtype="handwritten">
+                    <p>Subscribed and sworn to by <persName>William Selden</persName> before me this
+                            <date when="1862-12-26">26th day of December AD 1862</date></p>
+                    <closer>
+                        <signed><persName>Wm R. Woodward</persName><lb/>
+                        </signed> clerk &#38;c</closer>
+                </div2>
+            </div1>
+
+            <div1 type="cover" subtype="handwritten">
+                <ab>909</ab>
+                <ab><persName>James Selden</persName><lb/> Trustee for<lb/>
+                    <persName>George L. Selden</persName></ab>
+                <ab>Filed <date when="1862-07-12">July 12, 1862</date></ab>
+            </div1>
+        </body>
+    </text>
+</TEI>

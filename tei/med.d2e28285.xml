@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d2e28285">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Brown, B. F.</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+    <idno>med.d2e28285</idno>
+    <authority>Civil War Washington</authority>
+    <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor><name>Center for Digital Research in the
+     Humanities</name><address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address></distributor>
+    <date>2011</date>
+    <availability>
+     <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+      republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+      law, requires express written consent from the editors and advance notification of the
+      publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+     <persName xml:id="ajh">AJ Howell</persName>
+     <persName xml:id="el">Elizabeth Lorang</persName>
+     <persName xml:id="sb">Stacey Berry</persName>
+     <persName xml:id="et">Elisabeth Tracey</persName>
+     <persName xml:id="ss">Sarah Synovec</persName>
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title level="j">The Medical and Surgical History of the War of the Rebellion.
+      (1861-65.)</title><pubPlace>Washington, DC</pubPlace><publisher>Government Printing
+      Office</publisher><biblScope type="part">Part 3</biblScope><biblScope type="volume">Volume
+      2</biblScope><date when="1883">1883</date><biblScope type="page">817-818</biblScope></bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+     <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <keywords scheme="#medsurg">
+     <term>wounds and complications</term> 
+     <term>venous h&#230;morrhages</term>
+     <term>sudden entrance of air into veins</term>
+     <term>gunshot wounds of thigh, leg, neck</term> 
+     <term>ball entered neck below angle of jaw, passed through larynx, lodged near where carotid crosses omo-hyoid muscles</term> 
+     <term>thigh amputated in the lower third</term>
+     <term>air supposed to have passed through vein into heart</term>
+     <term>h&#230;morrhage of internal jugular vein</term> 
+     <term>ulceration of anterior surface of the internal jugular vein</term>
+     <term>post-mortem examination performed</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change who="#ajh" when="2012-06-07">additional proofing of transcription and encoding, identified keyword terms</change>
+   <change who="#el" when="2011-05-11">case text extracted and transformed from larger file</change>
+   <change who="#sb" when="2011-06-04">Enrich Encoding, Edit and validate</change>
+   <change who="#sb" when="2011-01-28">Validated File</change>
+   <change who="#ss" when="2008-09-22">initial checking of OCR text; encoded P5 Encoding</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+    <p><hi rend="initialcap">C</hi>ASE 1194.&#8212;<name type="person" key="1504">Private B. F.
+      Brown</name>, <name type="organization" key="95">Co. C, 22d Massachusetts</name>, aged 23
+     years, was admitted into <name type="hospital" key="172">Emory Hospital</name>, Washington,
+      <date type="admit" when="1864-05-13">May 13, 1864</date>, with gunshot wounds of the thigh,
+     leg, and neck, received at the battle of <name type="BATTLE" key="12">the Wilderness</name>,
+      <date type="injury" when="1864-05-07">May 7, 1864</date>.  The thigh had been amputated on the field on <date type="operation" when="1864-05-07">May 7th</date>, in the lower third, by lateral flaps. A
+     ball had entered the neck below the angle of the jaw, passed through the larynx, and lodged
+     near where the carotid crosses the omo-hyoid muscles. On <date type="operation" when="1864-05-16">May 16th</date> the ball was extracted from
+     its position against the carotid by an incision one and a half inches long, one inch below the
+     mastoid process of the temporal bone, by <name type="person" key="880">Acting Assistant Surgeon
+      W. H. Ensign</name>, <name type="organization" key="190">U. S. A.</name> At this date the
+     thigh was healing kindly by first intention. The wound of the neck had an extraordinary
+     appearance. The patient's constitution was slender but not much impaired. Some trouble in
+     swallowing and breathing; cheerful, sleeps well, shows little signs of distress; pulse 90,
+     bowels regular. No medicine given; but good liquid diet with local water dressings. Food has to
+     be administered with a stomach pump. On <date type="death" when="1864-05-17">May 17th</date>
+     h&#230;morrhage to the amount of one quart occurred from the internal jugular vein. Air was
+     supposed to have passed through the vein into the heart. A <hi rend="italic">post-mortem</hi>
+     examination showed the cause of h&#230;morrhage to be ulceration of the anterior surface of the
+     internal jugular vein. The case is reported by <name type="person" key="884">Surgeon N. R.
+      Moseley</name>, <name type="organization" key="132">U. S. V.</name></p>  
+  </body>
+ </text>
+</TEI>

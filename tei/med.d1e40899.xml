@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e40899">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Falls, Augustus C.</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+       <idno>med.d1e40899</idno>
+       <authority>Civil War Washington</authority>
+       <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor>
+       <name>Center for Digital Research in the Humanities</name>
+       <address><addrLine>319 Love Library</addrLine>
+       <addrLine>University of Nebraska–Lincoln</addrLine>
+       <addrLine>Lincoln, NE 68588-4100</addrLine>
+       <addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+    </distributor>
+    <date>2011</date>
+    <availability>
+        <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+         republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+         law, requires express written consent from the editors and advance notification of the
+         publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+     <persName xml:id="mb">Matthew Bosley</persName>
+     <persName xml:id="el">Elizabeth Lorang</persName>
+     <persName xml:id="sb">Stacey Berry</persName>
+     <persName xml:id="ao">Alyssa Olson</persName>
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl>
+     <title level="j">The Medical and Surgical History of the War of the Rebellion. (1861-65.)</title>
+     <pubPlace>Washington, DC</pubPlace>
+     <publisher>Government Printing Office</publisher>
+     <biblScope type="part">Part 2</biblScope>
+     <biblScope type="volume">Volume 1</biblScope>
+     <date when="1879">1879</date>
+     <biblScope type="page">151</biblScope>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+       <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+      <keywords scheme="#medsurg">
+       <term>diarrh&#339;a and dysentery</term>
+       <term>fatal cases of diarrh&#339;a and dysentery, with accounts of the morbid appearances observed</term>
+       <term>from the Douglas Hospital, Washington, D. C.</term>
+       <term>acute diarrh&#339;a</term>
+       <term>erysipelas of face</term>
+       <term>abscess over parotid gland</term>
+       <term>multiple cold abscesses</term>
+       <term>feet swollen, with spots of ecchymosis</term>
+       <term>ecchymosis on chest and lower extremities</term>
+       <term>lung full of softened tubercles</term>
+       <term>small ulcers in colon and rectum</term>
+       <term>mesenteric glands enlarged</term>
+       <term>discrete cheesy tubercles of lung</term>    
+       <term>descending colon presented follicular ulcers, swollen solitary follicles</term>       
+       <term>autopsy performed</term>       
+     </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change who="#mb" when="2012-10-24">additional proofing of transcription and encoding, identified keyword terms</change>
+   <change who="#el" when="2010-11-05">case text extracted and transformed from larger file</change>
+   <change who="#sb" when="2010-05-01">enrich encoding, proof and edit</change>
+   <change who="#ao" when="2008-10-02">encoding and editing</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body> 
+   <p>Case from the case-book and medical descriptive lists of the <name type="hospital" key="162"><hi rend="initialcap">D</hi>OUGLAS <hi rend="initialcap">H</hi>OSPITAL</name>, Washington, D. C., <name type="person" key="200">Assistant Surgeon William Thomson</name>, <name type="organization" key="190">U. S. A.</name>, in charge from February, 1863, to September, 1864, and after September, 1865; <name type="person" key="201">Assistant Surgeon William F. Norris</name> in charge from October, 1864, to September, 1865:</p>
+   <p><hi rend="initialcap">C</hi>ASE 310.&#8212;<name type="person" key="216">Private Augustus C. Falls</name>, <name type="organization" key="234">company K, 1st New York heavy artillery</name>; age 18; admitted from <name type="place" key="244">Fort Marcy</name> <date type="admit" when="1864-08-05">August 5, 1864</date>.  Acute diarrh&#339;a.  The patient stated that he had suffered from diarrh&#339;a <date type="injury" when="1864-08-22">for two weeks</date>, with five or six passages from the bowels daily. His general condition was good. Under treatment the stools diminished in the course of a day or so to two in the twenty-four hours; but the tongue becoming dry, he was ordered, August 7th, to take an ounce and a half of whiskey at dinner.  August 10th: Pulse 100 and feeble. Ordered two ounces of whiskey three times daily.  August 16th: The diarrh&#339;a is checked; pulse 100 and feeble; is losing flesh.  &#8478;. Citrate of iron and quinia two grains, three times a day.  August 17th: Has a little inflammation of the fauces. Prescribed a gargle.  August 25th: There is now no diarrh&#339;a; pulse 90 and stronger; slight conjunctivitis is present, and an abscess has appeared over the left parotid gland.  <date type="operation" when="1864-08-27">August 27th</date>: The abscess was opened, and nearly half an ounce of healthy pus discharged.  September 1st: Slight diarrh&#339;a has again appeared; the abscess is doing well; the patient still loses flesh. Continue the quinine and iron, and the whiskey.  September 7th: Is still losing flesh; has slight cough; pulse 90.  <date type="operation" when="1864-09-08">September 8th</date>: No diarrh&#339;a; discovered a cold abscess in the axilla, which was opened and discharged an ounce and a half of thick healthy pus. On examination eight other cold abscesses were discovered in various parts of the body and limbs; these abscesses were all opened at once. They were situated as follows: One in the right axilla; one on the inner side of the middle third of the arm; one on the inner side of the upper third of the right forearm; one on the inner side of the lower third of the right forearm; one over the left breast; two near the spinal column, just inside of the lower angle of the scapula; one in the lower third of the left thigh, over the course of the femoral artery; one in the calf of the right leg.  September 10th: The abscesses are all doing well except the one in the axilla, which discharges a black unhealthy pus. The patient is becoming much emaciated, but his cough is better, and he has little or no expectoration.  September 14th: Pulse 92 and pretty good. Treatment continued.  September 20th: Nearly all the abscesses have healed; there is no cough.  September 29th: Has a severe attack of erysipelas in the face; pulse 110 and feeble. Ordered three ounces of whiskey every four hours, and tincture of the chloride of iron; face painted with tincture of iodine.  September 30th: The erysipelas is spreading over the whole face; the left eye is closed.  October 2d: The erysipelas is subsiding; pulse 100 and not so feeble.  October 4th: Has been failing for the last twelve hours; pulse 120 and feeble; there is again a little diarrh&#339;a.  October 5th: Was slightly delirious last night; pulse very weak.  Died, <date type="death" when="1864-10-05">October 5th</date>.  Two days before death both feet became swollen, and spots of ecchymosis appeared on them, as well as along the course of the veins of the legs and on the chest. The abscess in the axilla discharged up to the day of his death. <hi rend="italic">Autopsy</hi> <date type="autopsy" when="1864-10-06">sixteen hours after death</date>: Rigor mortis very slight; body very much emaciated; spots of ecchymosis on the chest and lower extremities. The right lung was adherent to the walls of the thorax by bands of false membrane, which were easily torn; there were about three ounces of serum in the right pleural cavity; on section of the right lung it was found full of softened tubercles, especially in its posterior portions; there were two small cavities in the superior lobe, one at its apex, the other in the lower part of the lobe; there were no pleuritic adhesions on the left side; the left pleural sac contained about five ounces of serum; there was a deposit of tubercles in the posterior portion of the left lung, which, however, was not so abundant as in the right lung. The heart was rather small, but healthy. The spleen was healthy. The liver a little enlarged, but otherwise healthy. The right kidney was pale and large, the left healthy. The solitary follicles of the colon were prominent, and there were a number of small ulcers in the colon and rectum. The mesenteric glands were slightly enlarged.&#8212;<name type="person" key="217">Acting Assistant Surgeon David L. Haight</name>.  [Nos. 405 and 406, Medical Section, <name type="hospital" key="431">Army Medical Museum</name>, are from this case. No. 405 is a section of the upper and middle lobes of the right lung, presenting a considerable number of discrete cheesy tubercles of moderate size. No. 406 is a portion of the descending colon, presenting numerous follicular ulcers, in many of which the swollen solitary follicles remain as prominent points in the centres of the ulcers, which extend circularly around them.]</p>   
+  </body>
+ </text>
+</TEI>

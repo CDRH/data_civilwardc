@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="cww.02513">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">From Washington</title>
+                <title level="m" type="sub">a machine readable transcription</title>
+                <editor role="co-editor">R. J. Weir</editor>
+                <principal>Susan C. Lawrence</principal>
+                <principal>Elizabeth Lorang</principal>
+                <principal>Kenneth M. Price</principal>
+                <principal>Kenneth J. Winkle</principal>
+                <respStmt>
+                    <resp>transcription and encoding</resp>
+                    <persName xml:id="ak">Alex Kinnaman</persName>
+                    <persName xml:id="el">Elizabeth Lorang</persName>
+                    <persName xml:id="bw">Becca Weir</persName>
+                    <persName xml:id="kk">Kourtney Klein</persName>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2015</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <idno>cww.02513</idno>
+                <distributor>Civil War Washington</distributor>
+                <publisher>University of Nebraska Lincoln</publisher>
+                <address>
+                    <addrLine>Center for Digital Research in the Humanities</addrLine>
+                    <addrLine>319 Love Library</addrLine>
+                    <addrLine>University of Nebraska-Lincoln</addrLine>
+                    <addrLine>P.O. Box 884100</addrLine>
+                    <addrLine>Lincoln, NE 68588-4100</addrLine>
+                </address>
+                <address>
+                    <addrLine>
+                        <email>cdrh@unl.edu</email>
+                    </addrLine>
+                </address>
+                <date>2015</date>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+                        <p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License (http://creativecommons.org/licenses/by-nc-sa/3.0/). Derivatives must be credited to Civil War Washington and R. J. Weir, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct xml:id="letter">
+                    <analytic>
+                        <author ref="#rh">R. H.</author>
+                        <title level="a">From Washington</title>
+                    </analytic>
+                    <monogr>
+                        <title xml:id="paper" level="j">The Anglo-African</title>
+                        <imprint>
+                            <date xml:id="issue_date" when="1863-10-24">24 October 1863</date>                    
+                        </imprint>
+                        <biblScope type="pp">[2-3]</biblScope>                    
+                    </monogr>           
+                </biblStruct>
+                
+                <biblStruct xml:id="issue">               
+                    <monogr>
+                        <title level="j" sameAs="#paper"/>
+                        <imprint>
+                            <date sameAs="#issue_date"/>                  
+                        </imprint>              
+                    </monogr>                   
+                </biblStruct>                        
+            </sourceDesc>       
+        </fileDesc>
+        <encodingDesc> 
+            <p>This electronic text is a semi-diplomatic transcription of the source text. Hyphenation, punctuation, variant spellings, and errors present in the source text have been retained. The transcription does not attempt to capture all aspects of the original formatting or layout.</p>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <persName xml:id="rh">Hamilton, Robert</persName>
+                <persName xml:id="th">Hamilton, Thomas</persName>
+                <date when="1863">1863</date>
+            </creation>
+            <langUsage>
+                <language ident="en-US">modern American English</language>
+            </langUsage>
+            <textClass>
+                <classCode scheme="http://authorities.loc.gov">
+                    <term xml:id="sh8500180">African American business enterprises</term>
+                    <term xml:id="sh85001817">African American churches</term>
+                    <term xml:id="sh85001818">African American clergy</term>
+                    <term xml:id="sh2009114063">African Americans--Washington (D.C.)</term>
+                    <term xml:id="n96034498">Bowser, David Bustill, 1820-1900</term>
+                    <term xml:id="n92024554">Dean, John, 1813-1863</term>
+                    <term xml:id="n79006779">Lincoln, Abraham, 1809-1865</term>
+                    <term xml:id="n85220659">Meade, George Gordon, 1815-1872</term>
+                    <term xml:id="n90628815">Pierpont, John, 1785-1866</term>
+                    <term xml:id="n50017339">Turner, Henry McNeal, 1834-1915</term>
+                    <term xml:id="sh2010113243">Slavery--United States--History--19th century</term>>
+                    <term xml:id="no00024368">Smith, David, 1784-</term>
+                    <term xml:id="n96039168">Union Bethel Church (Washington, D.C.)</term>
+                    <term></term>
+                </classCode>
+                <classCode scheme="http://civilwardc.org">
+                    <term>Brooks, John Delaware, 1803-1874/75</term>
+                    <term>Dyson, Robert Henry Garland, 1832-?</term>
+                    <term>Groves, Caroline W.</term>
+                    <term>Hamer, Jacob P.</term>
+                    <term>Hamilton, Robert, 1819-1870</term>
+                    <term>Handy, James Anderson, 1826-1911</term>
+                    <term>Hinton, H. C. Thomas</term>
+                    <term>Walker, Lewis</term>
+                </classCode>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when="2015-04-07" who="#ak">corrected</change>
+            <change when="2015-03-31" who="#el">checked and corrected transcription and encoding; updated TEI header, including keywords</change>
+            <change when="2015-03-30" who="#ak">added keywords</change>
+            <change when="2015-02-24" who="#ak">checked, corrected, updated xml:id</change>
+            <change when="2014-11-10" who="#ak">corrected transcription and encoding</change>
+            <change when="2014-04-14" who="#el">checked encoding; revised TEI header</change>
+            <change when="2014-04-28" who="#kk">transcribed, encoded</change>
+        </revisionDesc>
+    </teiHeader>
+    
+    <facsimile corresp="#issue">
+        <surface xml:id="pp1">
+            <graphic url="aa.18631024.pp1.jpg"/>
+        </surface>
+        <surface xml:id="pp2">
+            <graphic url="aa.18631024.pp2.jpg"/>
+            <zone xml:id="pp2_cropped" corresp="#letter">
+                <graphic url="aa.18631024.pp2_cropped.jpg"/>
+            </zone>
+        </surface>
+        <surface xml:id="pp3">
+                <graphic url="aa.18631024.pp3.jpg"/>
+                <zone xml:id="pp3_cropped" corresp="#letter">
+                    <graphic url="aa.18631024.pp3_cropped.jpg"/>
+            </zone>
+        </surface>
+        <surface xml:id="pp4">
+            <graphic url="aa.18631024.pp4.jpg"/>
+        </surface>
+    </facsimile>
+    
+    <text corresp="#letter #pp2_cropped">
+        <body>
+            <head type="main" subtype="authorial" rend="center"><emph rend="italic">FROM WASHINGTON.</emph></head>
+            
+            <milestone unit="undeclared" rend="medium-bar"/>
+            
+            <opener><salute><emph rend="italic">Editorial Correspondence.</emph></salute></opener>
+            
+            <div>
+                <p>So rapid is the whirl of events that we find <lb/>it impossible to write as we desire of things as <lb/>we find them here. The amount of common, <lb/>and therefore good, sense found among the <lb/>leading men is truly wonderful. The needs of <lb/>the country are as transparent to them as to <lb/>any member of President Lincoln's Cabinet; <lb/>and they understand quite as well how the <lb/>woes of that country are to be assuaged.</p>
+                
+                <p>But what is most interesting is the personal <lb/>experience of these men&#8212;aye, of the women <lb/>too! They can tell you of circumstances <lb/>which, although years have passed away since <lb/>some of them occurred, have the power to <choice><orig>cur-<lb/>dle</orig><reg>curdle</reg></choice> the blood in your veins. What an <choice><orig>inex-<lb/>haustible</orig><reg>inexhaustible</reg></choice> storehouse this subject of slavery <lb/>will be to the poets and tale and song-writers <lb/>of the next hundred years, and how many of <lb/>the men whose hand we have had the great <lb/>privilege to grasp will find a place in those <lb/>poems, tales and songs?</p>
+            </div>
+            
+            <div>
+                <head type="main" subtype="authorial" rend="center">THE CHURCHES.</head>
+                
+                <p>The manner in which we have been treated <lb/>by the trustees of many of the churches here <lb/>has not only filled us with gratitude, but <lb/>placed us under peculiar obligations to them. <lb/>The pastors of all these churches have not <lb/>only given their willing consent to the use of <lb/>their edifices by us, but the most of them have <lb/>given their invaluable assistance in filling the <lb/>houses and conducting the meetings.</p>
+                
+                <p>The following are the names of the churches <lb/>and their pastors where we have held <choice><orig>meet-<lb/>ings</orig><reg>meetings</reg></choice>, the trustees and pastors of which will <lb/>please accept our most grateful thanks: Israel <lb/>A. M. E. Church, Rev. H. M. Turner, Pastor; <lb/>Zion Wesley Church, Rev. J. D. Brooks, Pastor; <lb/>Asbury M. E. Church; Union Bethel Church, <lb/>Rev. J. P. Handy, Pastor; John Wesley A. M. <lb/>E. Church, Rev. J. P. Hamer, Pastor; <choice><orig>Gal-<lb/>breath</orig><reg>Galbreath</reg></choice> Chapel, Rev. R. H. Dyson; Third <choice><orig>Bap-<lb/>tist</orig><reg>Baptist</reg></choice> Church, Rev. A. Bouldin, Pastor; Mission <lb/>Chapel, E street, Island, Rev. J. J. Herbert; <lb/>Bethel Church, Good Hope, Rev. D. Smith, <choice><orig>Pas-<lb/>tor</orig><reg>Pastor</reg></choice>.  All of these places were furnished us free <lb/>of charge&#8212;the Israel and Asbury charges <lb/>being furnished us twice on the same terms.</p>
+                
+                <p>Our thanks are also due to the many friends <lb/>who have made our stay in this city so very <lb/>agreeable socially.  To designate by name <lb/>where so much hospitality has been shown <lb/>would not only be invidious, but be in very <lb/>bad taste.</p>
+            </div>
+            
+            <pb corresp="#letter #pp3_cropped"/>
+            
+            <div>
+                
+                <head type="main" subtype="authorial" rend="center">A LADY NARRATOR&#8212;A THRILLING STORY.</head>
+                
+                <p>Mrs. R<gap reason="illegible" quantity="5" unit="chars"/> Williams of this city, who was <lb/>carried away to the South about seven years <lb/>ago, gave an account of her sufferings in and <lb/>escape from that guilty portion of our country, <lb/>on the evening of the 12th instant, in John <lb/>Wesley Church.</p>
+                
+                <p>The house was well filled, and our Northern <lb/>readers may know that if a Washington <choice><orig>audi-<lb/>ence</orig><reg>audience</reg></choice>, who are so used to these tales of <choice><orig>suffer-<lb/>ing</orig><reg>suffering</reg></choice>, could listen with the most intense <choice><orig>excite-<lb/>ment</orig><reg>excitement</reg></choice> to this lady's story, it must have been <lb/>most thrilling.  What was most wonderful <lb/>about it, perhaps, was the manner in which it <lb/>was delivered.  Such calmness, such complete <lb/>mastery over her feelings, when reciting the <lb/>perils through which she and her babe and <choice><orig>fel-<lb/>low-servants</orig><reg>fellow-servants</reg></choice> passed, we never saw equalled. <lb/>Not in one instance did the emotion which <lb/>kept welling up from the fountain of an <choice><orig>over-<lb/>flowing</orig><reg>overflowing</reg></choice> heart get the better of her, and yet <lb/>how easy it was to perceive that a flood of <lb/>tears was continually trying to get the <choice><orig>mas-<lb/>tery</orig><reg>mastery</reg></choice> of that stoicism.  The story of this <choice><orig>wo-<lb/>man's</orig><reg>woman's</reg></choice> wrongs will soon be put to press, <choice><orig>there-<lb/>fore</orig><reg>therefore</reg></choice> we shall refrain from giving any of her <lb/>remarks at this time.</p>
+                
+                <p>As the work will be of deep interest, we will <lb/>endeavor to let our readers know when it shall <lb/>come from the press.</p>
+                
+                <p>At the conclusion of her remarks, we were <lb/>invited to make a few remarks and sing a <lb/>song, but what could we say in the presence <lb/>of a woman who had been a Moses to a large <lb/>number of our brethren, leading them safely <lb/>out of the house of bondage into the Union <lb/>lines?  Our stammering tongue soon lagged, <lb/>and we were glad to take refuge behind one of <lb/>our songs.</p>
+                
+                <p>A handsome collection was lifted, and <choice><orig>pre-<lb/>sented</orig><reg>presented</reg></choice> to the lady by the Rev. Mr. Hamer.</p>
+            </div>
+            
+            <div>
+                <head type="main" subtype="authorial" rend="center">DEATH OF JUDGE DEAN.</head>
+                
+                <p>Our readers may remember that we <choice><orig>pub-<lb/>lished</orig><reg>published</reg></choice>, a short time since, an account of a slave <lb/>trial in this city in which the above-named <lb/>gentleman acted as counsel for the slave.</p>
+                
+                <p>Of course, in coming to Washington, we <lb/>were quite anxious to shake the hand of such <lb/>a faithful friend, and we got an opportunity, <lb/>for we had the good fortune to meet him on <lb/>Pennsylvania avenue.  After an introduction <lb/>by our friend, Mr. Thos. H. C. Hinton, the <lb/>Judge kindly entered into a long conversation, <lb/>giving us much of his personal history during <lb/>his residence here.</p>
+                
+                <p>Judge Dean has done much for the poor <lb/>escaping bondman since he has been here, but <lb/>always without recompense or reward.  The <lb/>nobility of his soul shone out in many ways <lb/>which we could enumerate, testified to by <choice><orig>cred-<lb/>ible</orig><reg>credible</reg></choice> witnesses, but we have reason to believe <lb/>that this will be attended to by abler hands. <lb/>Even when the Judge got in trouble from the <lb/>above-named case, he endeavored to elevate <lb/>the black man.  His bail was $1,000, and <choice><orig>al-<lb/>though</orig><reg>although</reg></choice> he might have secured many white <lb/>men who would have willingly stood for him, <lb/>yet he would not rest until he had given a <lb/>colored man a chance to stand in that <choice><orig>respon-<lb/>sible</orig><reg>responsible</reg></choice> position.  Messrs. G. Snowden and W. <lb/>Lewis gladly stepped forward, and the latter <lb/>gentleman had the honor of standing his bail.</p>
+                
+                <p>On Wednesday evening, 13th <choice><abbr>inst.</abbr><expan>instant</expan></choice>, a <choice><orig>num-<lb/>ber</orig><reg>number</reg></choice> of colored gentlemen proposed to present <lb/>to the Judge, at a meeting which we held in <lb/>Asbury M. E. Church, a splendid cane which <lb/>cost them $40 ; but on the 15th <choice><abbr>inst.</abbr><expan>instant</expan></choice>, after one <lb/>week's illness, this noble man breathed his <lb/>last, and the cane was presented the next day <lb/>to his wife.</p>
+                
+                <p>The funeral took place on Saturday, the 17th, <lb/>from the Unitarian Church, the Rev. John <choice><orig>Pier-<lb/>pont</orig><reg>Pierpont</reg></choice> making a few instructive remarks <choice><orig>pre-<lb/>vious</orig><reg>previous</reg></choice> to the body being conveyed to the tomb. <lb/>Judge Dean has a son in Gen. Meade's army, <lb/>who was able to reach home just in time to <lb/>attend the funeral; so it is a great pleasure <lb/>to know that the splendid token of regard <lb/>aforementioned will fall into the hands of a <lb/>good Union soldier.</p>
+            </div>
+            
+            <div>
+                <head type="main" subtype="authorial" rend="center">DEATH OF CHRISTIAN WASHINGTON.</head>
+                
+                <p>We regret to announce that the above-named <lb/>gentleman, the father of Augustus <choice><orig>Washing-<lb/>ton</orig><reg>Washington</reg></choice>, Esq., of Monrovia, Liberia, and Mrs. C. <lb/>W. Groves, of Harlem, N. Y., is no more.  He <lb/>departed this life the 16th of the present <lb/>month, aged 86 years, his disease being <choice><orig>hem-<lb/>orrhage</orig><reg>hemorrhage</reg></choice> of the lungs.</p>
+                
+                <p>Mrs. Groves arrived in this city on Friday <lb/>evening, and, on visiting the hospital the next <lb/>day, found that her father had been buried the <lb/>day before.  She had no knowledge of her <lb/>father being in this city previous to learning <lb/>that he was <choice><sic>will</sic><corr>ill</corr></choice>, although he had been in <lb/>Washington about three months.</p>
+            </div>
+            
+            <div>
+                <head type="main" subtype="authorial" rend="center">PERSONAL.</head>
+                
+                <p>Among the notables brought to this city by <lb/>the late Odd Fellows' celebration was Mr. <lb/>David B. Bowser, the artist of Philadelphia. <lb/>Mr. B. brought with him a photographed copy <lb/>of his celebrated flag, designed and painted for <lb/>the 6th Regiment U. S. Colored Troops.  The <lb/>copy, which was handsomely framed, he <choice><orig>pre-<lb/>sented</orig><reg>presented</reg></choice> to the President on Tuesday the 13th <lb/>instant.</p>
+                
+                <p>There was no one present at this <choice><orig>presenta-<lb/>tion</orig><reg>presentation</reg></choice> but the President and the artist, but we <lb/>learn from Mr. Bowser that Mr. Lincoln <choice><orig>ex-<lb/>pressed</orig><reg>expressed</reg></choice> much pleasure and gratification on the <lb/>occasion; but we do not believe that he felt a <lb/>tenth part of the joy that friend Bowser did in <lb/>being permitted to present his artistic <choice><orig>produc-<lb/>tion</orig><reg>production</reg></choice> to one who was so worthy of his highest <lb/>regard.  Any person desirous of obtaining a <lb/>copy of the flag can get it by writing to Mr. <lb/>Bowser at Philadelphia.</p>
+            </div>
+            
+            <div>
+                <head type="main" subtype="authorial" rend="center">MR. ROBERT H. BROWN,</head>
+                
+                <p>The celebrated violinist of New York, has <lb/>taken up his residence in this city, and is <lb/>already overrun with business.  He has <choice><orig>gath-<lb/>ered</orig><reg>gathered</reg></choice> about him the nucleus of a splendid <lb/>brass band.</p>
+            </div>
+            
+            <div>
+                <head type="main" subtype="authorial" rend="center">MESSRS. SAMUEL IRELAND AND HERBERT HARRIS</head>
+                
+                <p>Have at much expense fitted up an <choice><orig>establish-<lb/>ment</orig><reg>establishment</reg></choice> on B street, between 10th and 11th <lb/>streets, for the accommodation of the <choice><orig>travel-<lb/>ling</orig><reg>travelling</reg></choice> public, and are doing a splendid business. <lb/>They only accommodate gentlemen.</p>
+            </div>
+            
+            <div>
+                <head type="main" subtype="authorial" rend="center">MR. JOHN D. HODGE</head>
+                
+                <p>Has an hair-dressing establishment under the <lb/>same roof, thus affording every convenience to <lb/>the guests of the house.  From the great need <lb/>of such an establishment in Washington, we <lb/>have no doubt but these gentlemen will all <lb/>meet with very great success.</p>
+            </div>
+            
+            <closer>
+                <signed rend="right">R. H.</signed>
+                <dateline>Washington, Oct. 19, 1863.</dateline>
+            </closer>
+        </body>
+    </text>
+</TEI>
+

@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d2e4468">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Connor, J. W.</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+    <idno>med.d2e4468</idno>
+    <authority>Civil War Washington</authority>
+    <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor><name>Center for Digital Research in the
+     Humanities</name><address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address></distributor>
+    <date>2011</date>
+    <availability>
+     <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+      republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+      law, requires express written consent from the editors and advance notification of the
+      publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+ <persName xml:id="kmp">Kenneth M. Price</persName> <persName xml:id="ajh">AJ Howell</persName>
+     <persName xml:id="mb">Matthew Bosley</persName>
+     <persName xml:id="el">Elizabeth Lorang</persName>
+     <persName xml:id="sb">Stacey Berry</persName>
+     <persName xml:id="et">Elisabeth Tracey</persName>
+     <persName xml:id="ss">Sarah Synovec</persName>
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title level="j">The Medical and Surgical History of the War of the Rebellion.
+      (1861-65.)</title><pubPlace>Washington, DC</pubPlace><publisher>Government Printing
+      Office</publisher><biblScope type="part">Part 3</biblScope><biblScope type="volume">Volume
+      2</biblScope><date when="1883">1883</date><biblScope type="page">83</biblScope></bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+     <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <keywords scheme="#medsurg">
+     <term>wounds and injuries of the lower extremities</term>
+     <term>wounds and injuries of the hip joint</term>
+     <term>shot fractures at the hip joint</term>
+     <term>shot fractures at the hip joint unsuccessfully treated by conservation</term>
+     <term>neck of femur fractured</term>
+     <term>gunshot fracture of thigh in upper third</term>
+     <term>thigh fracture high up, displacement small</term>
+     <term>comminuted fracture in neighborhood of trochanters</term>
+     <term>ball impacted in ischium</term>
+     <term>necropsy performed</term>
+     <term>py&#230;mia</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+ <change who="#kmp" when="2014-05">blessed</change>
+   <change who="#ajh" when="2013-08-21">added figure encoding</change>
+   <change who="#mb" when="2012-02-14">additional proofing of transcription and encoding, identified
+    keyword terms</change>
+   <change who="#el" when="2011-05-11">case text extracted and transformed from larger file</change>
+   <change who="#sb" when="2011-06-04">Enrich Encoding, Edit and validate</change>
+   <change who="#sb" when="2011-01-28">Validated File</change>
+   <change who="#ss" when="2008-09-22">Sarah Synovec initial checking of OCR text; encoded P5
+    Encoding</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+
+   <p><hi rend="initialcap">C</hi>ASE 176.&#8212;<name type="person" key="934">Private J. W.
+     Connor</name>, <name type="organization" key="382">Co. D, 81st Pennsylvania</name>, was wounded
+    at <name type="BATTLE" key="4">Fredericksburg</name>, <date type="injury" when="1862-12-13"
+     >December 13, 1862</date>. <name type="person" key="xx">Surgeon J. E. McDonald</name>, <name
+     type="organization" key="324">79th New York</name>, recorded his entrance into the field
+    hospital of the 1st division, Ninth Corps, with &#34;Gunshot wound of left thigh.&#34; <name
+     type="person" key="70">Surgeon J. A. Lidell</name>, <name type="organization" key="132">U. S.
+     V.</name>, contributed the specimen represented in the adjoining wood-cut (<hi
+     rend="initialcap">F</hi>IG. 40) (<hi rend="italic">Cat. Surg. Sect.</hi>, 1866, p. 243, <hi
+     rend="italic">Spec</hi>. 622), and reported the following history: &#34;Admitted to <name
+     type="hospital" key="175">Stanton Hospital</name>, Washington, <date type="admit"
+     when="1862-12-26">December 26th</date>, with gunshot fracture of left thigh in upper third;
+    ball not extracted. The injured limb was a good deal swelled; pus flowing from the wound.
+    Exploration did not discover the ball; thigh found fractured high up; amount of displacement
+    small. The case did pretty well till <date type="injury" when="1862-12-31">December 31st</date>,
+    when symptoms of py&#230;mia showed themselves. He grew rapidly worse, and died <date
+     type="death" when="1863-01-02">January 2, 1863</date>. The necropsy showed inflammation of the
+    femoral vein, pus in the femoral and iliac veins, a comminuted fracture in the neighborhood of
+    the trochanters, and the ball firmly impacted in the ischium.&#34; The specimen consists of the
+    bones of the hip joint with a portion of the ligaments, the head of the femur being dislocated.
+    The track of the ball is necrosed, but a small quantity of callus has been thrown out on the
+    anterior surface of the femur.</p>
+
+   <figure>
+    <graphic url="cww.001525.001"/>
+    <head>
+     <hi rend="initialcap">F</hi>IG. 40.&#8212;Bones of the left hip joint with dislocation of head
+     of femur. <hi rend="italic">Spec</hi>. 622.</head>
+   </figure>
+
+  </body>
+ </text>
+</TEI>

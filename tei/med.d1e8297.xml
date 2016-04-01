@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e8297">
+        <teiHeader>
+                <fileDesc>
+                        <titleStmt>
+                                <title level="m" type="main">Upton, Nathan</title>
+                                <title level="m" type="sub">a machine readable transcription</title>
+                                <principal>Susan C. Lawrence</principal>
+                                <principal>Kenneth M. Price</principal>
+                                <principal>Kenneth J. Winkle</principal>
+                        </titleStmt>
+                        <editionStmt>
+                                <edition>
+                                        <date>2011</date>
+                                </edition>
+                        </editionStmt>
+                        <publicationStmt>
+                                <idno>med.d1e8297</idno>
+                                <authority>Civil War Washington</authority>
+                                <publisher>University of Nebraska–Lincoln</publisher>
+                                <distributor>
+                                        <name>Center for Digital Research in the Humanities</name>
+                                        <address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+                                </distributor>
+                                <date>2011</date>
+                                <availability>
+                                        <p>Copyright © 2011 by University of Nebraska–Lincoln, all
+                                                rights reserved. Redistribution or republication in
+                                                any medium, except as allowed under the Fair Use
+                                                provisions of U.S. copyright law, requires express
+                                                written consent from the editors and advance
+                                                notification of the publisher, the University of
+                                                Nebraska–Lincoln.</p>
+                                </availability>
+                        </publicationStmt>
+                        <notesStmt>
+                                <note type="project">The following are responsible for particular
+                                        readings or for changes to this file, as noted: 
+                                        <persName xml:id="mb">Matthew Bosley</persName>
+                                        <persName xml:id="el">Elizabeth Lorang</persName>
+                                        <persName xml:id="sb">Stacey Berry</persName>
+                                        <persName xml:id="et">Elisabeth Tracey</persName>
+                                </note>
+                        </notesStmt>
+                        <sourceDesc>
+                                <bibl>
+                                        <title level="j">The Medical and Surgical History of the War of the Rebellion</title>
+                                        <pubPlace>Washington, DC</pubPlace>
+                                        <publisher>Government Printing Office</publisher>
+                                        <biblScope type="part">Part 3</biblScope>
+                                        <biblScope type="volume">Volume 1</biblScope>
+                                        <date when="1888">1888</date>
+                                        <biblScope type="page">379</biblScope>
+                                </bibl>
+                        </sourceDesc>
+                </fileDesc>
+                <encodingDesc>
+                        <classDecl>
+                                <taxonomy xml:id="medsurg">
+                                        <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+                                </taxonomy>
+                        </classDecl>
+                </encodingDesc>
+                <profileDesc>
+                        <textClass>
+                                <keywords scheme="#medsurg">
+                                        <term>the continued fevers</term>
+                                        <term>post-mortem records of continued fevers</term>                                       
+                                        <term>cases reported as typhoid fever, the clinical history insufficient or absent</term>
+                                        <term>Peyer's patches ulcerated and the ileum or small intestine only affected</term>     
+                                        <term>typhoid fever</term>
+                                        <term>solitary glands enlarged and Peyer's patches ulcerated in lower small intestine</term>
+                                        <term>lower lobes of both lungs congested</term>
+                                        <term>pericardium firmly attached to heart</term>                                        
+                                </keywords>
+                        </textClass>
+                </profileDesc>
+                <revisionDesc>
+                        <change who="#mb" when="2013-03-29">additional proofing of transcription and encoding, edited and added keyword terms</change>
+                        <change who="#mb" when="2011-10-04">additional proofing of transcription and encoding</change>
+                        <change who="#mb" when="2011-06-21">additional proofing of transcription and encoding</change>
+                        <change who="#el" when="2011-05-11">case text extracted and transformed from larger file</change>
+                        <change who="#sb" when="2011-02-23">Encoding and Proofing</change>
+                        <change who="#et" when="2009-12-01">Initial Checking OCR Text to PDF file,</change>
+                </revisionDesc>
+        </teiHeader>
+        <text>
+                <body xml:id="ch4.sc4.1.00139">                        
+                                <p><hi rend="initialcap">C</hi>ASE 139.&#8212;<name
+                                                type="person" key="679">Private Nathan Upton</name>,
+                                                <name type="organization" key="685">Co. B, 1st D. C.
+                                                Cav.</name>; age 32; was admitted <date type="admit"
+                                                when="1863-09-06">Sept. 6, 1863</date>, with typhoid
+                                        fever, and died on <date type="death" when="1863-09-19">the 19th</date>.  <hi rend="italic">Post-mortem</hi>
+                                        examination <date type="autopsy" when="1863-09-19">eight hours after death</date>: Rigor mortis well
+                                        marked. The brain substance was healthy; the pia mater
+                                        slightly congested; half a drachm of fluid was found in the
+                                        ventricles. The right lung weighed twenty-four ounces, the
+                                        left fifteen ounces; the lower lobes of both were much
+                                        congested. The right auricle of the heart contained a venous
+                                        clot which extended into the ventricle; the left auricle
+                                        contained a small fibrinous clot; the pericardium was
+                                        everywhere firmly attached to the heart, so that its
+                                        separation was almost impossible without tearing the
+                                        muscular tissue. The liver was healthy; the gall-bladder
+                                        contained three ounces of a thin straw-colored liquid; the
+                                        spleen was firm and dark purple on section, weight thirteen
+                                        ounces and a half. The mucous membrane of the stomach was
+                                        congested. The small intestine was healthy in its upper
+                                        portion, but in its lower part the solitary glands were
+                                        enlarged and Peyer's patches ulcerated. The large intestine
+                                        was healthy. The kidneys were congested; weight of right six
+                                        ounces and a half, of left seven ounces.&#8212;<hi
+                                                rend="italic"><name type="person" key="245">Ass't
+                                                  Surg. Harrison Allen</name>, <name
+                                                  type="organization" key="190">U. S. A.</name>,
+                                                  <name type="hospital" key="176">Lincoln
+                                                  Hospital</name>, Washington, D. C.</hi></p>                        
+                </body>
+        </text>
+</TEI>

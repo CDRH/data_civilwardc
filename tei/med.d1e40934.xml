@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e40934">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Nichols, George</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+       <idno>med.d1e40934</idno>
+       <authority>Civil War Washington</authority>
+       <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor>
+       <name>Center for Digital Research in the Humanities</name>
+       <address><addrLine>319 Love Library</addrLine>
+       <addrLine>University of Nebraska–Lincoln</addrLine>
+       <addrLine>Lincoln, NE 68588-4100</addrLine>
+       <addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+    </distributor>
+    <date>2011</date>
+    <availability>
+        <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+         republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+         law, requires express written consent from the editors and advance notification of the
+         publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+     <persName xml:id="mb">Matthew Bosley</persName>
+     <persName xml:id="el">Elizabeth Lorang</persName>
+     <persName xml:id="sb">Stacey Berry</persName>
+     <persName xml:id="ao">Alyssa Olson</persName>
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl>
+     <title level="j">The Medical and Surgical History of the War of the Rebellion. (1861-65.)</title>
+     <pubPlace>Washington, DC</pubPlace>
+     <publisher>Government Printing Office</publisher>
+     <biblScope type="part">Part 2</biblScope>
+     <biblScope type="volume">Volume 1</biblScope>
+     <date when="1879">1879</date>
+     <biblScope type="page">154</biblScope>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+       <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+      <keywords scheme="#medsurg">
+       <term>diarrh&#339;a and dysentery</term>
+       <term>fatal cases of diarrh&#339;a and dysentery, with accounts of the morbid appearances observed</term>
+       <term>from the Douglas Hospital, Washington, D. C.</term>
+       <term>chronic diarrh&#339;a for a year</term>
+       <term>tormina and tenesmus</term>
+       <term>external piles</term>
+       <term>stools bloody</term>
+       <term>acute pleurisy</term>
+       <term>lung collapsed but connected to thoracic parietes and diaphragm by pleuritic adhesions</term>
+       <term>apex of upper lobe of lung contained tubercular deposits</term>
+       <term>colon ulcerated</term>       
+       <term>autopsy performed</term>       
+     </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change who="#mb" when="2012-10-25">additional proofing of transcription and encoding, identified keyword terms</change>
+   <change who="#el" when="2010-11-05">case text extracted and transformed from larger file</change>
+   <change who="#sb" when="2010-05-01">enrich encoding, proof and edit</change>
+   <change who="#ao" when="2008-10-02">encoding and editing</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body> 
+   <p>Case from the case-book and medical descriptive lists of the <name type="hospital" key="162"><hi rend="initialcap">D</hi>OUGLAS <hi rend="initialcap">H</hi>OSPITAL</name>, Washington, D. C., <name type="person" key="201">Assistant Surgeon William F. Norris</name> in charge from October, 1864, to September, 1865:</p>
+   <p><hi rend="initialcap">C</hi>ASE 322.&#8212;<name type="person" key="233">Sergeant-major George Nichols</name>, <name type="organization" key="243">5th United States cavalry</name>; admitted from <name type="place">Winchester, Virginia</name>, <date type="admit" when="1865-01-18">January 18, 1865</date>.  Chronic diarrh&#339;a.  This patient had suffered from diarrh&#339;a for a year. At times the symptoms were very severe, at other times he had but three or four stools in the twenty-four hours. At present the stools are bloody, and accompanied by tormina and tenesmus. He is greatly debilitated, and had upward of thirty-six scanty stools in the last twenty-four hours. An aperient of castor oil was prescribed, to be followed by quarter of a grain of nitrate of silver and one grain of sulphate of quinia every four hours; also an injection of twenty drops of laudanum in thin starch-water three times a day. Stimulants were also prescribed.  January 21st: The stools have diminished to eight or nine daily. The patient complains of a cough, which he says he has had for some time; the sputa are thin and yellow. An expectorant mixture was prescribed.  January 22d: He complained of external piles; applied an ointment containing tannic acid.  January 24th: Complained of weakness in the back; applied a pitch plaster.  January 26th: Ordered tincture of the chloride of iron three times daily.  February 5th: Has eight or nine passages in the twenty-four hours; is still much debilitated.  &#8478;. Persulphate of iron fifty grains, peppermint water one ounce. Take thirty drops four times a day.  February 10th: There is slight fever and headache, for which a diaphoretic was prescribed.  February 12th: Symptoms of acute pleurisy set in.  Died, <date type="death" when="1865-02-14">February 14th</date>.  <hi rend="italic">Autopsy</hi> <date type="autopsy" when="1865-02-15">twelve hours after death</date>: Body emaciated; rigor mortis well developed. The left lung was collapsed, but connected to the thoracic parietes, and especially to the diaphragm, by pleuritic adhesions; the left pleural sac contained upward of thirty-two ounces of thin yellow serum in which clots of coagulated lymph floated; the superior lobe of the left lung was healthy, its inferior lobe somewhat hepatized; there were slight recent pleuritic adhesions on the right side. The apex of the upper lobe of the right lung contained tubercular deposits; the rest of the lung was healthy. The colon was ulcerated. The other organs were not examined.&#8212;<name type="person" key="208">Acting Assistant Surgeon Carlos Carvallo</name>.</p> 
+  </body>
+ </text>
+</TEI>

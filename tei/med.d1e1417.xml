@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e1417">
+        <teiHeader>
+                <fileDesc>
+                        <titleStmt>
+                                <title level="m" type="main">McQueen, James</title>
+                                <title level="m" type="sub">a machine readable transcription</title>
+                                <principal>Susan C. Lawrence</principal>
+                                <principal>Kenneth M. Price</principal>
+                                <principal>Kenneth J. Winkle</principal>
+                        </titleStmt>
+                        <editionStmt>
+                                <edition>
+                                        <date>2011</date>
+                                </edition>
+                        </editionStmt>
+                        <publicationStmt>
+                                <idno>med.d1e1417</idno>
+                                <authority>Civil War Washington</authority>
+                                <publisher>University of Nebraska–Lincoln</publisher>
+                                <distributor>
+                                        <name>Center for Digital Research in the Humanities</name>
+                                        <address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+                                </distributor>
+                                <date>2011</date>
+                                <availability>
+                                        <p>Copyright © 2011 by University of Nebraska–Lincoln, all
+                                                rights reserved. Redistribution or republication in
+                                                any medium, except as allowed under the Fair Use
+                                                provisions of U.S. copyright law, requires express
+                                                written consent from the editors and advance
+                                                notification of the publisher, the University of
+                                                Nebraska–Lincoln.</p>
+                                </availability>
+                        </publicationStmt>
+                        <notesStmt>
+                                <note type="project">The following are responsible for particular
+                                        readings or for changes to this file, as noted: 
+                                        <persName xml:id="mb">Matthew Bosley</persName>                                        
+                                        <persName xml:id="el">Elizabeth Lorang</persName>
+                                        <persName xml:id="sb">Stacey Berry</persName>
+                                        <persName xml:id="et">Elisabeth Tracey</persName>
+                                </note>
+                        </notesStmt>
+                        <sourceDesc>
+                                <bibl>
+                                        <title level="j">The Medical and Surgical History of the War
+                                                of the Rebellion</title>
+                                        <pubPlace>Washington, DC</pubPlace>
+                                        <publisher>Government Printing Office</publisher>
+                                        <biblScope type="part">Part 3</biblScope>
+                                        <biblScope type="volume">Volume 1</biblScope>
+                                        <date when="1888">1888</date>
+                                        <biblScope type="page">214</biblScope>
+                                </bibl>
+                        </sourceDesc>
+                </fileDesc>
+                <encodingDesc>
+                        <classDecl>
+                                <taxonomy xml:id="medsurg">
+                                        <bibl>Medical and Surgical History of the War of the
+                                                Rebellion</bibl>
+                                </taxonomy>
+                        </classDecl>
+                </encodingDesc>
+                <profileDesc>
+                        <textClass>
+                                <keywords scheme="#medsurg">
+                                        <term>clinical records</term>
+                                        <term>continued fevers</term>
+                                        <term>typho-malarial and typhoid fevers</term>
+                                        <term>typho-malarial fever</term>                                        
+                                </keywords>
+                        </textClass>
+                </profileDesc>
+                <revisionDesc>
+                        <change who="#mb" when="2011-10-18">additional proofing of transcription and encoding</change>                        
+                        <change who="#mb" when="2011-05-27">additional proofing of transcription and encoding</change>                        
+                        <change who="#el" when="2011-05-11">case text extracted and transformed from
+                                larger file</change>
+                        <change who="#sb" when="2011-02-23">Encoding and Proofing</change>
+                        <change who="#et" when="2009-12-01">Initial Checking OCR Text to PDF file,
+                        </change>
+                </revisionDesc>
+        </teiHeader>
+        <text>
+                <body xml:id="ch4.sc2.2.00012">
+                        
+                                <p><hi rend="initialcap">C</hi>ASE 12.&#8212;<name type="person"
+                                                key="453">James McQueen</name>, unassigned recruit,
+                                        was admitted <date type="admit" when="1865-05-19">May 19,
+                                                1865</date>, with typho-malarial fever. He was
+                                        received from the provisional camp, Virginia, in a critical
+                                        condition. His sickness had lasted ten weeks. When admitted
+                                        he was under the influence of a chill, which was followed by
+                                        fever and profuse perspiration. He was delirious most of the
+                                        time. His tongue was coated and very red; bowels regular;
+                                        pulse 110 and feeble, and he experienced much difficulty in
+                                        urinating. Three grains of quinine and Dover's powder were
+                                        directed to be given every three hours, and twenty grains of
+                                        calomel at night, followed by a full dose of castor oil and
+                                        opium in the morning. Brandy was added to the treatment on
+                                        <date when="1865-05-22">the 22d</date>, on which day the fever and perspirations continued,
+                                        with difficulty of swallowing and much gastric irritability.
+                                        Hiccough and subsultus tendinum appeared on <date when="1865-05-23">the 23d</date>, with
+                                        increasing perspiration and involuntary passages on <date when="1865-05-26">the 26d</date>. He appeared a little better on <date when="1865-05-27">the 27d</date>, taking some
+                                        nourishment, although the delirium and the involuntary
+                                        passages continued. Death took place on <date
+                                                type="death" when="1865-05-29"
+                                                >the 29th</date>.&#8212;<hi rend="italic"><name
+                                                  type="hospital" key="214">Fairfax Seminary</name>,
+                                                Va.</hi>
+                                </p>
+                        
+                </body>
+        </text>
+</TEI>

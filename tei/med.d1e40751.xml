@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e40751">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Litzenberg, James</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+    <idno>med.d1e40751</idno>
+    <authority>Civil War Washington</authority>
+    <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor>
+     <name>Center for Digital Research in the Humanities</name>
+     <address><addrLine>319 Love Library</addrLine>
+       <addrLine>University of Nebraska–Lincoln</addrLine>
+       <addrLine>Lincoln, NE 68588-4100</addrLine>
+       <addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+    </distributor>
+    <date>2011</date>
+    <availability>
+     <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+      republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+      law, requires express written consent from the editors and advance notification of the
+      publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: <persName xml:id="mb">Matthew Bosley</persName>
+     <persName xml:id="el">Elizabeth Lorang</persName>
+     <persName xml:id="sb">Stacey Berry</persName>
+     <persName xml:id="ao">Alyssa Olson</persName>
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl>
+     <title level="j">The Medical and Surgical History of the War of the Rebellion.
+      (1861-65.)</title>
+     <pubPlace>Washington, DC</pubPlace>
+     <publisher>Government Printing Office</publisher>
+     <biblScope type="part">Part 2</biblScope>
+     <biblScope type="volume">Volume 1</biblScope>
+     <date when="1879">1879</date>
+     <biblScope type="page">119</biblScope>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+     <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <keywords scheme="#medsurg">
+     <term>diarrh&#339;a and dysentery</term>
+     <term>fatal cases of diarrh&#339;a and dysentery, with accounts of the morbid appearances
+      observed</term>
+     <term>from Satterlee Hospital, West Philadelphia, Pennsylvania</term>
+     <term>diarrh&#339;a</term>
+     <term>rheumatism</term>
+     <term>German</term>
+     <term>apex of lung with tubercle the size of marrow-fat pea and several small ulcerated
+      cavities</term>
+     <term>tubercles about size of pepper grains in lung apex and upper lobe</term>
+     <term>spleen had evidences of old inflammation</term>
+     <term>autopsy performed</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change who="#mb" when="2012-10-10">additional proofing of transcription and encoding, identified
+    keyword terms</change>
+   <change who="#el" when="2010-11-05">case text extracted and transformed from larger file</change>
+   <change who="#sb" when="2010-05-01">enrich encoding, proof and edit</change>
+   <change who="#ao" when="2008-10-02">encoding and editing</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Case from the case-book of the <hi rend="initialcap">S</hi>ATTERLEE <hi rend="initialcap"
+     >H</hi>OSPITAL, <name type="place">West Philadelphia, Pennsylvania</name>, <name type="person"
+     key="137">Surgeon Isaac I. Hayes</name>, <name type="organization" key="132">U. S. V.</name>,
+    in charge. Autopsy made by <name type="person" key="xxx">Dr. Joseph Leidy</name>, Professor of
+    Anatomy in the <name type="organization" key="xxx">University of Pennsylvania</name>. At the
+    time of the organization of this hospital a number of the leading teachers and medical
+    practitioners of <name type="place">Philadelphia</name> volunteered their services as ward
+    physicians, and accordingly received contracts as acting assistant surgeons. To <name
+     type="person" key="xxx">Dr. Leidy</name> was assigned the task of conducting the autopsies, and
+    a report of the results was forwarded by him, at the time, to <name type="organization"
+     key="xxx">the Surgeon General</name>. This report was accompanied y a number of valuable
+    pathological specimens, which have been preserved in the <name type="hospital" key="431">Army
+     Medical Museum</name>. . . . [Many] patients were sent to Satterlee hospital from the <name
+     type="organization" key="xxx">Army of the Potomac</name> . . . and had contracted their disease
+    . . . during the ill-fated Peninsular campaign.</p>
+   <p><hi rend="initialcap">C</hi>ASE 172.&#8212;<name type="person" key="87">Private James
+     Litzenberg</name>, <name type="organization" key="97">company A, 26th Pennsylvania
+     volunteers</name>; age 40; German; admitted from <name type="place" key="#Washington"
+     >Washington, D. C.</name>, <date type="transfer" when="1862-12-12">December 12, 1862</date>.
+    Diarrh&#339;a. [The register of <name type="hospital" key="167">Carver hospital</name>,
+    Washington, shows that this man was admitted to that hospital <date type="admit"
+     when="1862-11-20">November 20, 1862</date>&#8212;diagnosis rheumatism&#8212;and transferred to
+    another hospital <date type="transfer" when="1862-12-11">December 11th</date>.] Died, <date
+     type="death" when="1863-01-22">January 22, 1863</date>. <hi rend="italic">Autopsy</hi>
+    <date type="autopsy" when="1863-01-22">the same day</date>: The body looked as if the patient
+    had been, before his illness, of great vigor and muscular strength, but was now emaciated. Brain
+    healthy. Right lung with old adhesions to the costal pleura; the apex with a tubercle the size
+    of a marrow-fat pea and several small ulcerated cavities; left lung with a few tubercles about
+    the size of pepper grains in its apex and scattered at the back part of the upper lobe.
+    Pericardium with about a teacupful of liquor. Heart flabby, with a large white clot in the right
+    ventricle. Spleen flabby, reddened, and roughened on the surface, (apparently the evidences of
+    an old inflammation;) structure very soft purplish red. Solitary and agminated glands of the
+    ileum slightly enlarged, and opaque white. Colon with the mucous membrane soft, grayish, with a
+    few red streaks of inflammation and a few ecchymosed spots. Remaining organs apparently
+    healthy.&#8212;Acting Assistant Surgeon Joseph Leidy. [Nos. 84 and 85, Medical Section, <name
+     type="hospital" key="431">Army Medical Museum</name>, are from this case. The specimens are
+    successive portions of the ileum, showing pin-head enlargement of the solitary follicles and
+    slight thickening of Peyer's patches.]</p>
+  </body>
+ </text>
+</TEI>

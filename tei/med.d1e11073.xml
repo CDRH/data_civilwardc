@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e11073">
+        <teiHeader>
+                <fileDesc>
+                        <titleStmt>
+                                <title level="m" type="main">Leary, Charles</title>
+                                <title level="m" type="sub">a machine readable transcription</title>
+                                <principal>Susan C. Lawrence</principal>
+                                <principal>Kenneth M. Price</principal>
+                                <principal>Kenneth J. Winkle</principal>
+                        </titleStmt>
+                        <editionStmt>
+                                <edition>
+                                        <date>2011</date>
+                                </edition>
+                        </editionStmt>
+                        <publicationStmt>
+                                <idno>med.d1e11073</idno>
+                                <authority>Civil War Washington</authority>
+                                <publisher>University of Nebraska–Lincoln</publisher>
+                                <distributor>
+                                        <name>Center for Digital Research in the Humanities</name>
+                                        <address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+                                </distributor>
+                                <date>2011</date>
+                                <availability>
+                                        <p>Copyright © 2011 by University of Nebraska–Lincoln, all
+                                                rights reserved. Redistribution or republication in
+                                                any medium, except as allowed under the Fair Use
+                                                provisions of U.S. copyright law, requires express
+                                                written consent from the editors and advance
+                                                notification of the publisher, the University of
+                                                Nebraska–Lincoln.</p>
+                                </availability>
+                        </publicationStmt>
+                        <notesStmt>
+                                <note type="project">The following are responsible for particular readings or for changes to this file, as noted: 
+                                        <persName xml:id="mb">Matthew Bosley</persName>
+                                        <persName xml:id="el">Elizabeth Lorang</persName>
+                                        <persName xml:id="sb">Stacey Berry</persName>
+                                        <persName xml:id="et">Elisabeth Tracey</persName>
+                                </note>
+                        </notesStmt>
+                        <sourceDesc>
+                                <bibl>
+                                        <title level="j">The Medical and Surgical History of the War f the Rebellion</title>
+                                        <pubPlace>Washington, DC</pubPlace>
+                                        <publisher>Government Printing Office</publisher>
+                                        <biblScope type="part">Part 3</biblScope>
+                                        <biblScope type="volume">Volume 1</biblScope>
+                                        <date when="1888">1888</date>
+                                        <biblScope type="page">774</biblScope>
+                                </bibl>
+                        </sourceDesc>
+                </fileDesc>
+                <encodingDesc>
+                        <classDecl>
+                                <taxonomy xml:id="medsurg">
+                                        <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+                                </taxonomy>
+                        </classDecl>
+                </encodingDesc>
+                <profileDesc>
+                        <textClass>
+                                <keywords scheme="#medsurg">
+                                        <term>diseases attributed to non-miasmatic exposures</term>
+                                        <term>diseases of the respiratory organs</term>
+                                        <term>pneumonia</term>
+                                        <term>post-mortem records</term> 
+                                        <term>lobar pneumonias</term>
+                                        <term>cases fatal by hemorrhage into the pleural cavity</term>
+                                        <term>admitted with pleuro-pneumonia</term>
+                                        <term>acute right iliac tenderness</term>
+                                        <term>submucous and sibilant r&#226;les, crepitation in axillary regions, creaking leathery sound posteriorly</term>
+                                        <term>cough raised blood</term>
+                                        <term>thorax filled with blood</term>
+                                        <term>lung nearly gangrenous in places</term>
+                                </keywords>
+                        </textClass>
+                </profileDesc>
+                <revisionDesc>
+                        <change who="#mb" when="2013-03-08">additional proofing of transcription and encoding, edited and added keyword terms</change>
+                        <change who="#mb" when="2011-07-05">additional proofing of transcription and encoding</change>
+                        <change who="#mb" when="2011-07-05">additional proofing of transcription and encoding</change>                        
+                        <change who="#el" when="2011-05-11">case text extracted and transformed from larger file</change>
+                        <change who="#sb" when="2011-02-23">Encoding and Proofing</change>
+                        <change who="#et" when="2009-12-01">Initial Checking OCR Text to PDF file,</change>
+                </revisionDesc>
+        </teiHeader>
+        <text>
+                <body>                        
+                        <p> <hi rend="initialcap">C</hi>ASE 115.&#8212;<name type="person">Private Charles Leary</name>, <name type="organization">22d Pa.</name>; age 26;
+                                was seized, <date type="injury" when="1861-09-20">Sept. 20, 1861</date>, with fever and pain in the
+                                chest.  <date type="admit" when-iso="1861-09-27">27th</date>: Admitted with pleuro-pneumonia. Pulse 98,
+                                        strong; skin cool and moist; tongue red at tip, coated
+                                        grayish-white in centre; stools thin and involuntary;
+                                        acute right iliac tenderness; slight borborygmus; no
+                                        tympanites; dry, hacking cough; slight expectoration;
+                                        submucous and sibilant r&#226;les in upper part of lungs,
+                                        crepitation in axillary regions and a creaking leathery
+                                        sound posteriorly. <date type="death" when="1861-09-28">28th</date>: Sleep much interrupted by cough;
+                                        towards morning raised blood; skin warm, dry; two stools,
+                                        voluntary; dyspn&#339;a; voice low; some delirium.  Evening:
+                                        Chest very sore; voice whispering; raised much blood; pulse
+                                        100, weak; some dyspn&#339;a. While attempting to reach the
+                                        chair, about twelve feet away, he threw up his arms and fell
+                                        but was caught and put in bed by an attendant. He breathed a
+                                        few times with a gurgling sound and died.   <hi rend="italic">Post-mortem</hi> examination: Thorax filled with blood, left lung in some
+                                places nearly gangrenous.&#8212;<hi rend="italic"><name type="hospital" key="156">Seminary Hospital</name>, Georgetown, D. C.</hi> </p>                        
+                </body>
+        </text>
+</TEI>

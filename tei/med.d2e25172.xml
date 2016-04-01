@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d2e25172">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Buob, F.</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+    <idno>med.d2e25172</idno>
+    <authority>Civil War Washington</authority>
+    <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor><name>Center for Digital Research in the
+     Humanities</name><address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address></distributor>
+    <date>2011</date>
+    <availability>
+     <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+      republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+      law, requires express written consent from the editors and advance notification of the
+      publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+     <persName xml:id="mb">Matthew Bosley</persName>
+     <persName xml:id="el">Elizabeth Lorang</persName>
+     <persName xml:id="sb">Stacey Berry</persName>
+     <persName xml:id="et">Elisabeth Tracey</persName>
+     <persName xml:id="ss">Sarah Synovec</persName>
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title level="j">The Medical and Surgical History of the War of the Rebellion.
+      (1861-65.)</title><pubPlace>Washington, DC</pubPlace><publisher>Government Printing
+      Office</publisher><biblScope type="part">Part 3</biblScope><biblScope type="volume">Volume
+      2</biblScope><date when="1883">1883</date><biblScope type="page">651</biblScope></bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+     <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <keywords scheme="#medsurg">
+     <term>miscellaneous injuries</term> 
+     <term>simple and compound fractures</term>
+     <term>fracture of the femur caused by a fall from a bridge</term>
+     <term>mental condition, chronic dementia</term> 
+     <term>lameness of hip, fall from bridge</term> 
+     <term>trochanter flattened and approximated to anterior superior spinous process of ilium</term> 
+     <term>shortening limb, inversion of foot</term>
+     <term>pulmonary tuberculosis, death</term>
+     <term>impacted fracture of neck of femur</term>
+     <term>hemoptysis, pleuritic and pneumonic inflammation</term> 
+     <term>post-mortem examination performed</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change who="#mb" when="2012-06-20">additional proofing of transcription and encoding, identified keyword terms</change> 
+   <change who="#el" when="2011-05-11">case text extracted and transformed from larger file</change>
+   <change who="#sb" when="2011-06-04">Enrich Encoding, Edit and validate</change>
+   <change who="#sb" when="2011-01-28">Validated File</change>
+   <change who="#ss" when="2008-09-22">initial checking of OCR text; encoded P5 Encoding</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>   
+    <p><hi rend="initialcap">C</hi>ASE 971.&#8212;<hi rend="italic">Fracture of the femur caused by
+      a fall from a bridge.</hi>&#8212;<name type="person" key="1428">Private F. Buob</name>, <name
+      type="organization" key="539">Co. C, 108th Ohio</name>, aged 36 years, was admitted to the
+      <name type="hospital" key="161">Government Hospital for the Insane</name> near Washington on
+      <date type="admit" when="1865-05-16">May 16, 1865</date>, his condition being described by the superintendent, <name type="person" key="1429">Dr. C. H. Nichols</name>, as follows:  "The patient's
+     mental condition was that of slight chronic dementia. He was not able to walk up stairs to the
+     ward on account of a lameness of the left hip, the sergeant in charge of him stating that this
+     was caused by a fall from a bridge, which had occurred <date type="injury" when="1865-04">between two and three weeks previous to
+     his admission</date>. His own statement was that in marching across the bridge at night he was
+     accidentally crowded off the side and fell down some distance, striking upon his left hip. As
+     he laid upon his back the injured limb appeared shortened and the toes, turned toward the other
+     foot. By measurement the shortening was found to be three-fourths of an inch. The trochanter
+     was flattened and approximated to the anterior superior spinous process of the ilium. On
+     rotating the limb no point of false motion was discovered and no crepitation. The arc of the
+     movement of the trochanter was less than that of the sound side. When the patient stood erect
+     there was the same shortening and the same inversion of the foot. He could limp about a little
+     by the aid of a chair, bearing considerable of his weight upon the injured limb. The diagnosis
+     of the case was that of an impacted fracture of the neck of the femur. The limb improved
+     rapidly, and in a few weeks the patient walked without inconvenience excepting what arose from
+     the shortening. The general appearance of the man, however, led to the suspicion of pulmonary
+     tuberculosis, and a physical examination of the chest confirmed this suspicion. The
+     tuberculosis advanced with the ordinary phenomena of cough, expectoration, some hemoptysis, and
+     occasional pleuritic and pneumonic inflammation. From this disease the patient died <date
+      type="death" when="1866-01-28">January 28, 1866</date>. The <hi rend="italic">post-mortem</hi>
+     examination of the body proved the correctness of the diagnosis respecting the lung disease.
+     Nothing peculiar was noticed about the acetabulum of the injured side except that the
+     ligamentum teres and the cushion of fat at the bottom were more vascular than on the sound
+     side. The femur presented unmistakable evidence that the injury was an impacted fracture of the
+     neck of the bone, the line of it being partly within and partly without the capsular ligament.
+     By comparison with the sound femur a shortening of three-fourths of an inch was shown, and the
+     impaction was found to be greater anteriorly than posteriorly, thus causing the inversion of
+     the foot. The union of the bone appeared to be firm and sound."  Both the injured and the sound
+     femur were contributed to <name type="hospital" key="431">the Museum</name> by <name type="person" key="1429">the reporter of
+     the case</name> and constitute specimen 2376 of the <hi rend="italic">Surgical Section</hi>. </p>
+   
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e10848">
+        <teiHeader>
+                <fileDesc>
+                        <titleStmt>
+                                <title level="m" type="main">Peters, Joseph</title>
+                                <title level="m" type="sub">a machine readable transcription</title>
+                                <principal>Susan C. Lawrence</principal>
+                                <principal>Kenneth M. Price</principal>
+                                <principal>Kenneth J. Winkle</principal>
+                        </titleStmt>
+                        <editionStmt>
+                                <edition>
+                                        <date>2011</date>
+                                </edition>
+                        </editionStmt>
+                        <publicationStmt>
+                                <idno>med.d1e10848</idno>
+                                <authority>Civil War Washington</authority>
+                                <publisher>University of Nebraska–Lincoln</publisher>
+                                <distributor>
+                                        <name>Center for Digital Research in the Humanities</name>
+                                        <address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+                                </distributor>
+                                <date>2011</date>
+                                <availability>
+                                        <p>Copyright © 2011 by University of Nebraska–Lincoln, all
+                                                rights reserved. Redistribution or republication in
+                                                any medium, except as allowed under the Fair Use
+                                                provisions of U.S. copyright law, requires express
+                                                written consent from the editors and advance
+                                                notification of the publisher, the University of
+                                                Nebraska–Lincoln.</p>
+                                </availability>
+                        </publicationStmt>
+                        <notesStmt>
+                                <note type="project">The following are responsible for particular
+                                        readings or for changes to this file, as noted: 
+                                        <persName xml:id="mb">Matthew Bosley</persName>
+                                        <persName xml:id="el">Elizabeth Lorang</persName>
+                                        <persName xml:id="sb">Stacey Berry</persName>
+                                        <persName xml:id="et">Elisabeth Tracey</persName>
+                                </note>
+                        </notesStmt>
+                        <sourceDesc>
+                                <bibl>
+                                        <title level="j">The Medical and Surgical History of the War of the Rebellion</title>
+                                        <pubPlace>Washington, DC</pubPlace>
+                                        <publisher>Government Printing Office</publisher>
+                                        <biblScope type="part">Part 3</biblScope>
+                                        <biblScope type="volume">Volume 1</biblScope>
+                                        <date when="1888">1888</date>
+                                        <biblScope type="page">760-761</biblScope>
+                                </bibl>
+                        </sourceDesc>
+                </fileDesc>
+                <encodingDesc>
+                        <classDecl>
+                                <taxonomy xml:id="medsurg">
+                                        <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+                                </taxonomy>
+                        </classDecl>
+                </encodingDesc>
+                <profileDesc>
+                        <textClass>
+                                <keywords scheme="#medsurg">
+                                        <term>diseases attributed to non-miasmatic exposures</term>
+                                        <term>diseases of the respiratory organs</term>
+                                        <term>pneumonia</term>
+                                        <term>post-mortem records</term> 
+                                        <term>lobar pneumonias</term>
+                                        <term>post-mortem record prefaced by ante-mortem notes, indicating general course of disease</term>
+                                        <term>admitted with pneumonia of right side</term>
+                                        <term>severe cough, rusty viscid <choice><orig>sputa</orig><reg>sputum</reg></choice></term>
+                                        <term>pleural sac contained serum mixed with pus</term>
+                                        <term>lung infiltrated with pus</term>
+                                        <term><choice><orig>dulness</orig><reg>dullness</reg></choice> and crepitation over lower left lung</term>    
+                                        <term>greater part of right lung infiltrated with pus</term>
+                                        <term>lower left lung hepatized</term>
+                                </keywords>
+                        </textClass>
+                </profileDesc>
+                <revisionDesc>
+                        <change who="#mb" when="2013-04-23">additional proofing of transcription and encoding, edited and added keyword terms</change>
+                        <change who="#mb" when="2013-02-26">additional proofing of transcription and encoding, edited and added keyword terms</change>
+                        <change who="#mb" when="2011-06-30">additional proofing of transcription and encoding</change>
+                        <change who="#el" when="2011-05-11">case text extracted and transformed from larger file</change>
+                        <change who="#sb" when="2011-02-23">Encoding and Proofing</change>
+                        <change who="#et" when="2009-12-01">Initial Checking OCR Text to PDF file,</change>
+                </revisionDesc>
+        </teiHeader>
+        <text>
+                <body>                        
+                        <p> <hi rend="initialcap">C</hi>ASE 7.&#8212;<name type="person">Recruit Joseph Peters</name>, <name type="organization">29th Colored Troops</name>; age 20; was admitted <date type="admit" when="1865-02-20">Feb. 20, 1865</date>, having been sick for
+                                <date type="injury" when="1865-02">several days</date> with pneumonia of the right side. He had a full
+                                strong pulse and severe cough, with rusty viscid <choice><orig>sputa</orig><reg>sputum</reg></choice>. A
+                                        poultice was applied and expectorants administered.  He
+                                        became restless on the 25th and complained of much pain.
+                                        Dover's powder was given.  On March 5 there was <choice><orig>dulness</orig><reg>dullness</reg></choice> over
+                                        the lower part of the left lung and some crepitation was
+                                        heard; the breathing became labored.  On the 8th the patient
+                                        was weak and restless; his pulse feeble; skin cold and
+                                        freely perspiring. Stimulants and beef-extract were given
+                                        every hour; a blister was applied to the left
+                                        side, and two grains of calomel with opium were
+                                        administered hourly for six hours.  Next day his skin was
+                                        warm and he felt easier; but the pulse became small, the
+                                        breathing irregular and labored.  He died on <date type="death" when="1865-03-12">the 12th</date>.   <hi rend="italic">Post-mortem</hi> examination: The right pleural sac contained twenty-eight ounces of serum mixed with pus and the greater
+                                        part of the lung was infiltrated with pus; the lower portion
+                                        of the left lung was hepatized.&#8212;<hi rend="italic"><name type="person" key="xx">Act. Ass't Surgeon S. D. Twining</name>, <name type="hospital" key="210">L'Ouverture Hospital</name>, <name type="place">Alexandria, Va.</name></hi> </p>                        
+                </body>
+        </text>
+</TEI>

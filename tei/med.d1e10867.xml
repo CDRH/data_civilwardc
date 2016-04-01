@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e10867">
+        <teiHeader>
+                <fileDesc>
+                        <titleStmt>
+                                <title level="m" type="main">McGee, Thomas</title>
+                                <title level="m" type="sub">a machine readable transcription</title>
+                                <principal>Susan C. Lawrence</principal>
+                                <principal>Kenneth M. Price</principal>
+                                <principal>Kenneth J. Winkle</principal>
+                        </titleStmt>
+                        <editionStmt>
+                                <edition>
+                                        <date>2011</date>
+                                </edition>
+                        </editionStmt>
+                        <publicationStmt>
+                                <idno>med.d1e10867</idno>
+                                <authority>Civil War Washington</authority>
+                                <publisher>University of Nebraska–Lincoln</publisher>
+                                <distributor>
+                                        <name>Center for Digital Research in the Humanities</name>
+                                        <address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+                                </distributor>
+                                <date>2011</date>
+                                <availability>
+                                        <p>Copyright © 2011 by University of Nebraska–Lincoln, all
+                                                rights reserved. Redistribution or republication in
+                                                any medium, except as allowed under the Fair Use
+                                                provisions of U.S. copyright law, requires express
+                                                written consent from the editors and advance
+                                                notification of the publisher, the University of
+                                                Nebraska–Lincoln.</p>
+                                </availability>
+                        </publicationStmt>
+                        <notesStmt>
+                                <note type="project">The following are responsible for particular readings or for changes to this file, as noted: 
+                                        <persName xml:id="mb">Matthew Bosley</persName>
+                                        <persName xml:id="el">Elizabeth Lorang</persName>
+                                        <persName xml:id="sb">Stacey Berry</persName>
+                                        <persName xml:id="et">Elisabeth Tracey</persName>
+                                </note>
+                        </notesStmt>
+                        <sourceDesc>
+                                <bibl>
+                                        <title level="j">The Medical and Surgical History of the War of the Rebellion</title>
+                                        <pubPlace>Washington, DC</pubPlace>
+                                        <publisher>Government Printing Office</publisher>
+                                        <biblScope type="part">Part 3</biblScope>
+                                        <biblScope type="volume">Volume 1</biblScope>
+                                        <date when="1888">1888</date>
+                                        <biblScope type="page">762</biblScope>
+                                </bibl>
+                        </sourceDesc>
+                </fileDesc>
+                <encodingDesc>
+                        <classDecl>
+                                <taxonomy xml:id="medsurg">
+                                        <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+                                </taxonomy>
+                        </classDecl>
+                </encodingDesc>
+                <profileDesc>
+                        <textClass>
+                                <keywords scheme="#medsurg">
+                                        <term>diseases attributed to non-miasmatic exposures</term>
+                                        <term>diseases of the respiratory organs</term>
+                                        <term>pneumonia</term>
+                                        <term>post-mortem records</term> 
+                                        <term>lobar pneumonias</term>
+                                        <term>post-mortem record prefaced by ante-mortem notes, indicating general course of disease</term>
+                                        <term>admitted with pneumonia of lower lobe of right lung</term>
+                                        <term>incessant vomiting of bilious matters</term>
+                                        <term>serum and lymph in pleur&#230;</term>  
+                                        <term>right lung hepatized, lower edge of left lung solidified</term>
+                                        <term>Confederate refugee</term>
+                                </keywords>
+                        </textClass>
+                </profileDesc>
+                <revisionDesc>
+                        <change who="#mb" when="2013-04-24">additional proofing of transcription and encoding, edited and added keyword terms</change>
+                        <change who="#mb" when="2011-06-30">additional proofing of transcription and encoding</change>
+                        <change who="#el" when="2011-05-11">case text extracted and transformed from larger file</change>
+                        <change who="#sb" when="2011-02-23">Encoding and Proofing</change>
+                        <change who="#et" when="2009-12-01">Initial Checking OCR Text to PDF file,</change>
+                </revisionDesc>
+        </teiHeader>
+        <text>
+                <body>                        
+                        <p> <hi rend="initialcap">C</hi>ASE 20.&#8212;<name type="person">Private Thomas McGee</name>, <name type="organization">Co. F,
+                                1st Ala.</name> (refugee); age 28; admitted <date type="admit" when="1865-02-23">Feb. 23, 1865</date>, with
+                                        pneumonia of lower lobe of right lung. Incessant vomiting of
+                                        bilious matters, amounting to six or eight pints daily;
+                                        tongue moist and clean; pulse feeble and rapid; some cough;
+                                        slight expectoration. Gave opiates and diaphoretics;
+                                        applied oiled-silk jacket.  24th: Pulse weaker; still
+                                        vomiting; hiccough.  25th: Pulse feeble, very rapid; no cough
+                                        or expectoration. Gave whiskey, beef-tea and carbonate of
+                                        ammonia.  26th: Tongue moist. Gave tincture of iron.  28th:
+                                        Pulse almost imperceptible; still vomiting.  March 1: Pulse
+                                        stronger.  3d: Pulse 96, of fair strength; tongue clean;
+                                        entire right lung affected.  6th: Pulse 110.  7th: Pulse 130
+                                        and feeble; no pain; pneumonia in lower part of left lung.  <date type="death" when="1865-03-08">8th</date>: Died at noon.  <hi rend="italic">Post-mortem</hi> examination: Right lung
+                                        hepatized throughout; lower edge of left solidified; two
+                                        pints of serum and much recent lymph in pleur&#230;. Other organs
+                                        healthy.&#8212;<hi rend="italic"><name type="hospital" key="162">Douglas Hospital</name>, Washington, D. C.</hi> </p>                        
+                </body>
+        </text>
+</TEI>

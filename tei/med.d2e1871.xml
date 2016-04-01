@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d2e1871">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Briggs, W. J.</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+    <idno>med.d2e1871</idno>
+    <authority>Civil War Washington</authority>
+    <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor><name>Center for Digital Research in the
+     Humanities</name><address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address></distributor>
+    <date>2011</date>
+    <availability>
+     <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+      republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+      law, requires express written consent from the editors and advance notification of the
+      publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+     <persName xml:id="mb">Matthew Bosley</persName>
+     <persName xml:id="el">Elizabeth Lorang</persName>
+     <persName xml:id="sb">Stacey Berry</persName>
+     <persName xml:id="et">Elisabeth Tracey</persName>
+     <persName xml:id="ss">Sarah Synovec</persName>
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title level="j">The Medical and Surgical History of the War of the Rebellion.
+      (1861-65.)</title><pubPlace>Washington, DC</pubPlace><publisher>Government Printing
+      Office</publisher><biblScope type="part">Part 3</biblScope><biblScope type="volume">Volume
+      2</biblScope><date when="1883">1883</date><biblScope type="page">33-34</biblScope></bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+     <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <keywords scheme="#medsurg">
+     <term>wounds and injuries of the lower extremities</term>                                                                 
+     <term>flesh wounds of the lower extremities</term>
+     <term>shot flesh wounds</term>
+     <term>complications of shot flesh wounds of the lower extremities</term>
+     <term>hospital gangrene</term>
+     <term>evidence of gangrene</term> 
+     <term>ball passed between tibia and fibula, middle of leg</term>    
+     <term>wasting of gastrocnemius muscle from gangrene</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change who="#mb" when="2012-02-03">additional proofing of transcription and encoding</change>
+   <change who="#el" when="2011-05-11">case text extracted and transformed from larger file</change>
+   <change who="#sb" when="2011-06-04">Enrich Encoding, Edit and validate</change>
+   <change who="#sb" when="2011-01-28">Validated File</change>
+   <change who="#ss" when="2008-09-22">Sarah Synovec initial checking of OCR text; encoded P5 Encoding</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   
+    <p> <hi rend="initialcap">C</hi>ASE 72.&#8212;<name type="person" key="899">Private W. J.
+      Briggs</name>, <name type="organization" key="340">Co. A, 102d Pennsylvania</name>, aged 27
+     years, was wounded at <name type="BATTLE" key="257">Chancellorsville</name>, <date
+      type="injury" when="1863-05-03">May 3, 1863</date>. <name type="person" key="243">Assistant
+      Surgeon J. C. McKee</name>, <name type="organization" key="190">U. S. A.</name>, in charge of
+     the General Hospital at <name type="place" key="xx">Pittsburgh</name>, reported the
+     following history: &#34;The ball passed between the tibia and fibula, about the middle of the leg, escaping through the calf opposite the point of entrance.
+     The patient was four days at <name type="hospital" key="xx">Falmouth Hospital</name>, seven
+     days at <name type="hospital" key="162">Douglas</name>, Washington, and was then removed to
+     <name type="hospital" key="xx">Satterlee, Philadelphia</name>. <date type="furlough" when="1863-06-01">Seventeen days after his
+      admission</date> to the latter he was furloughed and came to <name type="place">Pittsburgh</name>. The wound had healed at its
+     entrance and was still discharging at its exit, but was considered fit to travel with. He had
+     several slight chills before leaving Philadelphia, and one of a more severe character after his
+     arrival home, followed by h&#230;morrhage from the posterior wound, which was arrested. <date type="admit" when="1863-06-03">The next day</date> he came to the hospital.
+     The wound presented the unmistakable evidence of gangrene. He was isolated, and nitric acid was
+     freely applied to all parts. The disease was found very extensive, involving the greater part
+     of the calf of the leg. Poultices of charcoal and pyroligneous acid, etc., were applied. The
+     constitutional remedies were quinia, muriated tincture of iron, stimulants, beef-tea, etc. The
+     disease was checked, and the patient is (July 31st) recovering rapidly. The interest in this
+     case is the distance the man carried the contagion, the great rapidity and destructiveness of
+     its attack, apparently uninfluenced by the comforts of a good home and the best of food and
+     nursing.&#34; The patient remained in the hospital until <date type="servicedischarge" when="1864-09-03"
+      >September 3, 1864</date>, when he was mustered out, his term of service having expired. The
+     <name type="organization" key="xx">Pittsburgh Examining Board</name> certified, in <date type="pension" when="1873">1873</date> and
+     <date type="pension" when="1873">1875</date>, that there was wasting of the gastrocnemius muscle from gangrene, and that the resulting
+     adhesions have impaired the action of that muscle and cause pain in the ankle. The pensioner
+     was paid <date type="pension" when="1876-06-04">June 4, 1876</date>. </p>
+   
+  </body>
+ </text>
+</TEI>

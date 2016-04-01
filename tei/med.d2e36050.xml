@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d2e30000">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Douglass, G. E.</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+    <idno>med.d2e36050</idno>
+    <authority>Civil War Washington</authority>
+    <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor>
+     <name>Center for Digital Research in the Humanities</name>
+     <address><addrLine>319 Love Library</addrLine>
+       <addrLine>University of Nebraska–Lincoln</addrLine>
+       <addrLine>Lincoln, NE 68588-4100</addrLine>
+       <addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+    </distributor>
+    <date>2011</date>
+    <availability>
+     <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+      republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+      law, requires express written consent from the editors and advance notification of the
+      publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+     <persName xml:id="mb">Matthew Bosley</persName>
+     <persName xml:id="ajh">AJ Howell</persName>
+     <persName xml:id="at">Alex Thomas</persName>
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl>
+     <title level="j">The Medical and Surgical History of the War of the Rebellion.
+      (1861-65.)</title>
+     <pubPlace>Washington, DC</pubPlace>
+     <publisher>Government Printing Office</publisher>
+     <biblScope type="part">Part 2</biblScope>
+     <biblScope type="volume">Volume 2</biblScope>
+     <date when="1876">1876</date>
+     <biblScope type="page">358</biblScope>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+     <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <keywords scheme="#medsurg">
+     <term>injuries of pelvis</term>
+     <term>injuries of parts contained in the pelvis</term>
+     <term>wounds of the genital organs</term>
+     <term>wounds of the urethra</term> 
+     <term>shots wounds</term>
+     <term>traumatic stricture</term>
+     <term>stricture resulting from shot wounds</term>
+     <term>ball entered near os pubis, passed backward, wounded urethra, exited through buttock near anus</term>
+     <term>difficulty voiding urine</term>
+     <term>walking caused inflammation of parts injured</term>
+     <term>gunshot wound of urethra, disability three-fourths</term>
+     <term>ball entered root of penis adjacent to symphysis pubis, passed through pelvis, wounded urethra</term>
+     <term>catheterism rendered necessary</term>
+     <term>dysuria, dull pains through pelvis</term>
+     <term>abscesses gather and break, discharging bloody matter from urethra</term>
+     <term>soreness and tenderness of testis, pain extending along spermatic cord to abdomen</term>
+     <term>micurition difficult and painful</term>
+     <term>bulb of urethra and prostate gland wounded, and that there is constant and increasing</term>     
+     <term>inflammation in prostate, which suppurates and discharges every month or two</term>
+     <term>unable to stand without pain in urethra</term>     
+     <term>retention of urine, uses catheter, urine frequently contains pus</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change who="#mb" when="2012-09-25">additional proofing of transcription and encoding, edited keyword terms</change>
+   <change who="#ajh" when="2012-08-23">additional proofing of transcription and encoding, identified keyword terms</change>
+   <change who="#at" when="2011-02-25">checked OCR; added minimal mark-up for personal names, place names, and dates</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p><hi rend="initialcap">C</hi>ASE 1033.&#8212;<name type="person" key="xxx">Private G. E. Douglass</name>, <name type="organization" key="xxx">Co. E, 157th New York</name>, aged 29 years, was wounded at <name type="BATTLE" key="10">Chancellorsville</name>, <date type="injury" when="1863-05-03">May 3, 1863</date>, and was sent to <name type="place" key="#Washington">Washington</name> to <name type="hospital" key="169">St. Aloysius Hospital</name>. He was transferred, <date type="transfer" when="1863-10-17">October 17th</date>, to <name type="hospital" key="173">Harewood Hospital</name>.  <name type="person" key="xxx">Acting Assistant Surgeon C. F. Trautmann</name> reported from <name type="hospital" key="173">Harewood</name>: "A mini&#233; ball entered near the left os pubis, and, passing directly backward, wounding in its course the urethra, made its exit through the right buttock about an inch and a half from the anus. When admitted the wound was healed, but the patient had difficulty in voiding urine, and was not able to walk any distance without causing inflammation of the parts injured."  He was discharged for gunshot wound of the urethra, disability three-fourths, and was pensioned.  <name type="person" key="xxx">Examiner B. Smith</name>, <name type="place" key="#Washington">Washington</name>, reported, <date type="pension" when="1863-12-28">December 28, 1863</date>: "Ball entered the root of the penis to the left of the symphysis pubis, and passed through the pelvis, wounding the urethra. Catheterism was rendered necessary for about four months; some constriction of the canal remains, as he frequently has dysuria, and dull pains through the pelvis. A stricture may ultimately result from the injury and entitle him to an increased pension."  On <date type="pension" when="1866-03-12">March 12, 1866</date>, <name type="person" key="xxx">Examiner H.C. Gazlay</name> reported:   &#42;   &#42;   "The wound has healed externally, but abscesses gather and break as often as once in six weeks, discharging bloody matter from the urethra, accompanied by severe pains. This pensioner has also soreness and tenderness of the left testis, and much pain, at times, extending along the spermatic cord to the abdomen; also heat and swelling of the testis during each occasion of the formation of pus. At these times micurition is difficult and painful."  <name type="person" key="xxx">Examiner J. W. Lawrence</name>, <date type="pension" when="1869-09-30">September 30, 1869</date>, states that the bulb of the urethra and the prostate gland were wounded, and that there is constant and increasing inflammation in the prostate, which will suppurate and then discharge every month or two, but is never, entirely well.  The last report of this case is from <name type="person" key="xxx">Examiner C. H. Evans</name>, and is dated <date type="pension" when="1873-09-11">September 11, 1873</date>: "The wounded man is unable to assume a standing position for a long time without severe pain in the urethra. He has an occasional attack of retention of urine and is obliged to use the catheter. His urine frequently contains pus."</p>
+  </body>
+ </text>
+</TEI>

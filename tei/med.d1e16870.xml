@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e16870">
+                <teiHeader>
+                                <fileDesc>
+                                                <titleStmt>
+                                                                <title level="m" type="main">R&#8212;&#8212;, Philip</title>
+                                                  <title level="m" type="sub">a machine readable
+                                                  transcription</title>
+                                                  <principal>Susan C. Lawrence</principal>
+                                                  <principal>Kenneth M. Price</principal>
+                                                  <principal>Kenneth J. Winkle</principal>
+                                                </titleStmt>
+                                                <editionStmt>
+                                                  <edition>
+                                                  <date>2011</date>
+                                                  </edition>
+                                                </editionStmt>
+                                                <publicationStmt>
+                                                  <idno>med.d1e16870</idno>
+                                                  <authority>Civil War Washington</authority>
+                                                  <publisher>University of
+                                                  Nebraska–Lincoln</publisher>
+                                                  <distributor>
+                                                  <name>Center for Digital Research in the
+                                                  Humanities</name>
+                                                  <address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+                                                  </distributor>
+                                                  <date>2011</date>
+                                                  <availability>
+                                                  <p>Copyright © 2011 by University of
+                                                  Nebraska–Lincoln, all rights reserved.
+                                                  Redistribution or republication in any medium,
+                                                  except as allowed under the Fair Use provisions of
+                                                  U.S. copyright law, requires express written
+                                                  consent from the editors and advance notification
+                                                  of the publisher, the University of
+                                                  Nebraska–Lincoln.</p>
+                                                  </availability>
+                                                </publicationStmt>
+                                                <notesStmt>
+                                                  <note type="project">The following are responsible
+                                                  for particular readings or for changes to this
+                                                  file, as noted:                                                   
+                                                                  <persName xml:id="mb">Matthew Bosley</persName>
+                                                                  <persName xml:id="el">Elizabeth Lorang</persName>
+                                                  <persName xml:id="sb">Stacey Berry</persName>
+                                                  <persName xml:id="et">Elisabeth Tracey</persName>
+                                                  </note>
+                                                </notesStmt>
+                                                <sourceDesc>
+                                                  <bibl>
+                                                  <title>The Medical and Surgical History of the War
+                                                  of the Rebellion. (1861&#8211;65.)</title>
+                                                  <editor role="compiler">Surgeon General Joseph
+                                                  K. Barnes, United States Army</editor>
+                                                  <pubPlace>Washington, D.C.</pubPlace>
+                                                  <publisher>Government Printing Office</publisher>
+                                                  <biblScope type="part">Part 1</biblScope>
+                                                  <biblScope type="volume">Volume 2</biblScope>
+                                                  <date when="1870">1870</date>
+                                                  <biblScope type="page">274</biblScope>
+                                                  </bibl>
+                                                </sourceDesc>
+                                </fileDesc>
+                                <encodingDesc>
+                                                <classDecl>
+                                                  <taxonomy xml:id="medsurg">
+                                                  <bibl>Medical and Surgical History of the War of
+                                                  the Rebellion</bibl>
+                                                  </taxonomy>
+                                                </classDecl>
+                                </encodingDesc>
+                                <profileDesc>
+                                                <textClass>
+                                                  <keywords scheme="#medsurg">
+                                                                  <term>wounds and injuries of the head</term> 
+                                                                  <term>trephining after gunshot fractures of the skull</term> 
+                                                                  <term>bone fragments extracted from the cranium</term>                                                                  
+                                                                  <term>general anesthesia, chloroform</term>
+                                                    <term>missile fractured and depressed parietal bone below tuberosity</term>
+                                                    <term>hemorrhage</term>
+                                                    <term>cerebral hemisphere contained abscess</term>
+                                                  </keywords>
+                                                </textClass>
+                                </profileDesc>
+                                <revisionDesc>
+                                                <change who="#mb" when="2011-08-24">additional proofing of transcription and encoding</change>
+                                                <change who="#el" when="2011-11-05">case text
+                                                  extracted and transformed from larger
+                                                  file</change>
+                                                <change who="#sb" when="2011-02-09">enriched
+                                                  encoding</change>
+                                                <change who="#sb" when="2011-01-28">validated
+                                                  file</change>
+                                                <change who="#et" when="2009-08-01">encoded</change>
+                                                <change who="#sb" when="2008-09-22">initial checking
+                                                  of OCR text against PDF; encoded </change>
+                                </revisionDesc>
+                </teiHeader>
+                <text>
+                                <body>
+                                                
+                                                                <p><hi rend="initialcap">C</hi>ASE.&#8212;<name type="person">Private Philip R&#8212;&#8212;</name>, <name type="organization">Co. I, 10th New York
+                                                                                Volunteers</name>, was wounded at the battle of
+                                                                                <name type="BATTLE" key="251">Fredericksburg, Virginia</name>, <date type="injury" when="1862-12-13">December 13th, 1862</date>, by
+                                                  a gunshot missile, which fractured and depressed
+                                                  the left parietal bone, just below the tuberosity.
+                                                  He was admitted into the <name type="hospital">Ascension Church Hospital</name>, Washington, on <date type="admit" when="1862-12-17">the 17th</date>, partially
+                                                  insensible, but answering when spoken to sharply. The pupils were nearly normal, pulse 72, and
+                                                  gradually becoming slower and more suggestive of
+                                                  approaching coma. On <date type="operation" when="1862-12-19">the 19th</date>, the patient was
+                                                  placed under the influence of chloroform, and
+                                                                                <name type="person" key="288">Surgeon J. H. Brinton</name>, <name type="organization" key="132">U. S. V.</name>, assisted by
+                                                                                <name type="person">Surgeon J. C. Dorr</name>, <name type="organization" key="132">U. S. V.</name>, and <name type="person">Dr. Brodie</name> of
+                                                                                <name type="place">Edinborough</name>, performed the operation of
+                                                  trephining. The depressed fragments were elevated
+                                                  and removed, causing considerable h&#230;morrhage,
+                                                  which gradually ceased after the operation. At
+                                                  seven o'clock P. M., the pulse was 66, thready end
+                                                  sharp; patient semi-conscious and complaining of
+                                                  cold. The next morning the pupils were nearly
+                                                  normal; pulse 78; breathing natural, but bowels
+                                                  not open. There was considerable h&#230;morrhage at
+                                                  noon, which was readily checked. Afterward, coma
+                                                  gradually supervened, the pupils became dilated
+                                                  and insensible to light, and involuntary
+                                                  urinations occurred. He continued to sink rapidly,
+                                                  and died on the morning of <date type="death" when="1862-12-22">December 22d, 1862</date>, in
+                                                  a state of complete coma. The pathological
+                                                  specimens are Nos. 528, 965, and 966. The former
+                                                  shows a section of the vault of cranium, with one
+                                                  disk and seven fragments from the left parietal
+                                                  bone. The two latter are wet preparations of the
+                                                  dura mater and the left cerebral hemisphere
+                                                  containing an abscess. The specimens were
+                                                  contributed by <name type="person">Surgeon J. C. Dorr</name>, <name type="organization" key="132">U. S. V.</name></p>
+                                                
+                                </body>
+                </text>
+</TEI>

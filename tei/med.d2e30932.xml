@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d2e30932">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Painter, S.</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+       <idno>med.d2e30932</idno>
+       <authority>Civil War Washington</authority>
+       <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor>
+       <name>Center for Digital Research in the Humanities</name>
+       <address><addrLine>319 Love Library</addrLine>
+       <addrLine>University of Nebraska–Lincoln</addrLine>
+       <addrLine>Lincoln, NE 68588-4100</addrLine>
+       <addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+    </distributor>
+    <date>2011</date>
+    <availability>
+        <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+         republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+         law, requires express written consent from the editors and advance notification of the
+         publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+ <persName xml:id="kw">Kenneth Winkle</persName> 
+     <persName xml:id="mb">Matthew Bosley</persName>
+     <persName xml:id="bl">Ben Lesiak</persName> 
+     <persName xml:id="kk">Kourtney Klein</persName>
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl>
+     <title level="j">The Medical and Surgical History of the War of the Rebellion. (1861-65.)</title>
+     <pubPlace>Washington, DC</pubPlace>
+     <publisher>Government Printing Office</publisher>
+     <biblScope type="part">Part 2</biblScope>
+     <biblScope type="volume">Volume 2</biblScope>
+     <date when="1876">1876</date>
+     <biblScope type="page">955</biblScope>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+       <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+      <keywords scheme="#medsurg">
+       <term>wounds and injuries of the upper extremities</term>
+       <term>wounds and operations of the forearm</term>
+       <term>shot wounds of the forearm</term>
+       <term>shot fractures of the forearm</term>
+       <term>excisions in the continuity of the bones of the forearm for shot injury</term> 
+       <term>intermediary excisions in the bones of the forearm</term> 
+       <term>recoveries after intermediary excisions</term>
+       <term>gunshot wound of forearm</term>
+       <term>gunshot fracture of ulna</term> 
+       <term>ball entered outer side of forearm at middle third, extracted on the field</term>
+       <term>excision of fractured ends</term>
+       <term>loss of pronation and supination, use of wrist joint by anchylosis, and use of all fingers</term>
+       <term>injury to extensor tendons, fingers remain permanently extended</term>
+       <term>flexor and extensor muscles destroyed, with contraction and partial atrophy</term>        
+     </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+ <change who="#kw" when="2014-05">blessed</change>
+   <change who="#kk" when="2014-01-22">added figure encoding</change>
+   <change who="#mb" when="2012-07-06">additional proofing of transcription and encoding, identified keyword terms</change>
+   <change who="#bl" when="2011-02-24">checked OCR; added minimal mark-up for personal names, place names, and dates</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>   
+   <p><hi rend="initialcap">C</hi>ASE 1912.&#8212;<name type="person" key="xxx">Private S. Painter</name>, <name type="organization" key="xxx">Co. K, 122d Ohio</name>, aged 33 years, was wounded at <name type="BATTLE" key="3"><choice><orig>Spottsylvania</orig><reg>Spotsylvania</reg></choice></name>, <date type="injury" when="1864-05-12">May 12, 1864</date>, and admitted to the field hospital of the 3d division, Sixth Corps, where <name type="person" key="xxx">Surgeon R. Barr</name>, <name type="organization" key="xxx">67th Pennsylvania</name>, recorded:  &#34;Gunshot wound of right forearm.&#34;  On <date type="transfer" when="1864-05-21">May 21st</date>, the wounded man entered <name type="hospital" key="152">Finley Hospital</name>, Washington. <name type="person" key="72">Surgeon G. L. Pancoast</name>, <name type="organization" key="132">U. S. V.</name>, reported:  &#34;Gunshot fracture of ulna, the ball entering the outer side of the forearm at the middle third. The missile was extracted by a surgeon on the field. On <date type="operation" when="1864-05-24">May 24th</date>, an operation was performed, consisting of excision of the fractured ends by chain saw and the removal of the spicul&#230;. The wound healed by healthy granulations.&#34;  The specimen, represented in the cut (<hi rend="initialcap">F</hi>IG. 697), consists of the excised part of the ulna, amounting to one and a half inches. It was contributed by the operator. On <date type="servicedischarge" when="1865-02-04">February 4, 1865</date>, the patient was discharged from service and pensioned.  <name type="person" key="xxx">Examiner J. Nichols</name>, of <name type="place" key="#Washington">Washington, D. C.</name>, certified, <date type="pension" when="1865-02-11">February 11, 1865</date>:  &#34;Removal of four inches of shaft. Pronation and supination lost. Loss of use of wrist joint by anchylosis. Loss of use of all the fingers by reason of injury to extensor tendons the fingers all remaining permanently extended. Limb quite useless and will never be restored.&#34;  <name type="person" key="xxx">Examiner H. Culbertson</name>, of <name type="place">Zanesville, Ohio</name>, certified, <date type="pension" when="1870-01-13">January 13, 1870</date>:  &quot; &#42;  &#42;  A portion of the flexor and extensor muscles, etc., on external aspect, are destroyed, producing contraction as well as partial atrophy.  &#42;  &#42;  The elbow joint is normal. The motion of the wrist joint is unimpaired. The upper end of the lower fragment of the ulna is united to the radius by bony union. The function of rotation is obliterated,&#34; etc.  Substantially the same was reported at an examination in<date type="pension" when="1873-09">September, 1873</date>. The pensioner was paid <date type="pension" when="1875-09-04">September 4, 1875</date>.</p>
+   
+   <figure>
+    <graphic url="cww.001700.001" />
+    <head><hi rend="initialcap">F</hi>IG. 697.&#8212;Inch and a half of right ulna.    <hi rend="italic">Spec</hi>. 2480.</head>
+   </figure>   
+   
+  </body>
+ </text>
+</TEI>

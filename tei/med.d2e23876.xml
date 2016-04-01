@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d2e23876">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Wheelwright, C. S.</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+    <idno>med.d2e23876</idno>
+    <authority>Civil War Washington</authority>
+    <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor><name>Center for Digital Research in the
+     Humanities</name><address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address></distributor>
+    <date>2011</date>
+    <availability>
+     <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+      republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+      law, requires express written consent from the editors and advance notification of the
+      publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+     <persName xml:id="mb">Matthew Bosley</persName>
+     <persName xml:id="el">Elizabeth Lorang</persName>
+     <persName xml:id="sb">Stacey Berry</persName>
+     <persName xml:id="et">Elisabeth Tracey</persName>
+     <persName xml:id="ss">Sarah Synovec</persName>
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title level="j">The Medical and Surgical History of the War of the Rebellion.
+      (1861-65.)</title><pubPlace>Washington, DC</pubPlace><publisher>Government Printing
+      Office</publisher><biblScope type="part">Part 3</biblScope><biblScope type="volume">Volume
+      2</biblScope><date when="1883">1883</date><biblScope type="page">620</biblScope></bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+     <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <keywords scheme="#medsurg">
+     <term>wounds and injuries of the lower extremities</term> 
+     <term>wounds and operations in the foot</term>
+     <term>shot wounds of the bones of the foot</term>
+     <term>shot fractures of the bones of the foot</term> 
+     <term>shot fractures of the bones of the foot treated by conservation</term> 
+     <term>ball entered external dorsal aspect of foot anterior to fourth tarso-metatarsal articulation, emerged posterior to metatarso-phalangeal articulation of big toe, having </term> 
+     <term>ball fractured fourth metatarsal bone obliquely, passed beneath other metatarsals</term>
+     <term>seton conducted through both wounds to keep them open and promote suppuration</term>     
+     <term>flexor tendons of middle toes and some ligaments of pedal arch were injured</term>
+     <term>erysipelas</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change who="#mb" when="2012-06-15">additional proofing of transcription and encoding, identified keyword terms</change>   
+   <change who="#el" when="2011-05-11">case text extracted and transformed from larger file</change>
+   <change who="#sb" when="2011-06-04">Enrich Encoding, Edit and validate</change>
+   <change who="#sb" when="2011-01-28">Validated File</change>
+   <change who="#ss" when="2008-09-22">initial checking of OCR text; encoded P5 Encoding</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>   
+    <p><hi rend="initialcap">C</hi>ASE 900.&#8212;<hi rend="italic">Shot fractures of metatarsal
+      bones.</hi>&#8212;<name type="person" key="1397">Private C. S. Wheelwright</name>, <name
+      type="organization" key="152">Co. M, 1st New Jersey Cavalry</name>, aged 26 years, was wounded
+     on picket duty near <name type="place">Warrenton</name>, <date type="injury" when="1864-01-31">January 31, 1864</date>,
+     and admitted to <name type="hospital" key="162">Douglas Hospital</name>, Washington, <date type="admit" when="1864-02-01">the
+     following day</date>.  <name type="person" key="208">Acting Assistant Surgeon C. Carvallo</name>,
+     reported:  "The ball entered the external dorsal aspect of the right foot anterior to the fourth
+     tarso-metatarsal articulation, and emerged posteriorly to the metatarso-phalangeal articulation
+     of the big toe, having fractured the fourth metatarsal bone obliquely and passed beneath the
+     others. Water dressings had been applied before admission and were continued. The foot became
+     red, swollen, and painful, and the patient had considerable fever, anorexia, and pain. Epsom
+     salts, weak diaphoretics, and the dressings soothed the symptoms considerably. On <date type="operation" when="1864-02-08">February 8th</date>
+     the distal fragment of the fourth metatarsal bone was found to be movable, but still attached
+     by its phalangeal articulation, and an effort to remove it proved impossible without injuring
+     that joint. It was therefore decided to leave its removal to nature, and a seton was conducted
+     through both wounds in order to keep them open and promote suppuration. Subsequently an
+     exacerbation of the symptoms manifested itself, after which the foot showed an erysipelatous
+     tendency by swelling, redness, heat, and puffiness. A solution of nitrate of silver with
+     acacia, constantly applied for forty-eight hours, finally subdued the inflammation, when a
+     profuse discharge of healthy pus followed and gave great relief to the patient. Thenceforward
+     the stimulants were substituted by tonics, and water dressings took the place of all former
+     local applications. In a very short time all the swelling and redness had left the foot, and
+     the wound showed such a healthy appearance and discharged such small quantities of pus that I entertained hopes the fractured bone would heal without being removed. I then applied Sentin's
+     starch bandage, which the patient still had on when he went home on furlough on <date
+      type="furlough" when="1864-03-15">March 15th</date>. I afterwards heard that he was attacked
+     with erysipelas and had entered Central Park Hospital, <name type="palce">New York City</name>."  The patient was discharged at the latter hospital <date type="servicedischarge"
+      when="1864-05-20">May 20, 1864</date>, and pensioned.  <name type="person" key="xx">Examining Surgeon J. T. Burdick</name>, of <name
+      type="place" key="xx">Brooklyn, N. Y.</name>, certified that "the flexor tendons of the
+     middle toes and some of the ligaments of the pedal arch were injured."  The pensioner was paid
+     <date type="pension" when="1880-09-04">September 4, 1880</date>.</p>   
+  </body>
+ </text>
+</TEI>

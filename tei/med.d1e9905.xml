@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e9905">
+        <teiHeader>
+                <fileDesc>
+                        <titleStmt>
+                                <title level="m" type="main">Whiting, Eli W.</title>
+                                <title level="m" type="sub">a machine readable transcription</title>
+                                <principal>Susan C. Lawrence</principal>
+                                <principal>Kenneth M. Price</principal>
+                                <principal>Kenneth J. Winkle</principal>
+                        </titleStmt>
+                        <editionStmt>
+                                <edition>
+                                        <date>2011</date>
+                                </edition>
+                        </editionStmt>
+                        <publicationStmt>
+                                <idno>med.d1e9905</idno>
+                                <authority>Civil War Washington</authority>
+                                <publisher>University of Nebraska–Lincoln</publisher>
+                                <distributor>
+                                        <name>Center for Digital Research in the Humanities</name>
+                                        <address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+                                </distributor>
+                                <date>2011</date>
+                                <availability>
+                                        <p>Copyright © 2011 by University of Nebraska–Lincoln, all
+                                                rights reserved. Redistribution or republication in
+                                                any medium, except as allowed under the Fair Use
+                                                provisions of U.S. copyright law, requires express
+                                                written consent from the editors and advance
+                                                notification of the publisher, the University of
+                                                Nebraska–Lincoln.</p>
+                                </availability>
+                        </publicationStmt>
+                        <notesStmt>
+                                <note type="project">The following are responsible for particular
+                                        readings or for changes to this file, as noted: 
+ <persName xml:id="kw">Kenneth Winkle</persName>
+                                        <persName xml:id="ajh">AJ Howell</persName>
+                                        <persName xml:id="mb">Matthew Bosley</persName>
+                                        <persName xml:id="el">Elizabeth Lorang</persName>
+                                        <persName xml:id="sb">Stacey Berry</persName>
+                                        <persName xml:id="et">Elisabeth Tracey</persName>
+                                </note>
+                        </notesStmt>
+                        <sourceDesc>
+                                <bibl>
+                                        <title level="j">The Medical and Surgical History of the War
+                                                of the Rebellion.</title>
+                                        <pubPlace>Washington, DC</pubPlace>
+                                        <publisher>Government Printing Office</publisher>
+                                        <biblScope type="part">Part 3</biblScope>
+                                        <biblScope type="volume">Volume 1</biblScope>
+                                        <date when="1888">1888</date>
+                                        <biblScope type="page">391</biblScope>
+                                </bibl>
+                        </sourceDesc>
+                </fileDesc>
+                <encodingDesc>
+                        <classDecl>
+                                <taxonomy xml:id="medsurg">
+                                        <bibl>Medical and Surgical History of the War of the
+                                                Rebellion</bibl>
+                                </taxonomy>
+                        </classDecl>
+                </encodingDesc>
+                <profileDesc>
+                        <textClass>
+                                <keywords scheme="#medsurg">
+                                        <term>the continued fevers</term>
+                                        <term>post-mortem records of continued fevers</term>
+                                        <term>cases reported as typhoid fever, the clinical history
+                                                insufficient or absent</term>
+                                        <term>condition of Peyer's patches not stated, the ileum or
+                                                the small intestine ulcerated</term>
+                                        <term>ileum perforated by large ulcer</term>
+                                        <term>serum and pus in peritoneal cavity</term>
+                                        <term>gunshot wound, site not specified</term>
+                                        <term>pr&#230;cordial pain</term>
+                                        <term>umbilical and hypogastric pain</term>
+                                        <term>peritoneum brilliant red over some of small intestine,
+                                                deep-red to almost black over other parts</term>
+                                        <term>ileum ulcerated five feet from c&#230;cum</term>
+                                        <term>perforated large ulcer eighteen inches from
+                                                ileo-c&#230;cal valve</term>
+                                        <term>post-mortem examination performed</term>
+                                </keywords>
+                        </textClass>
+                </profileDesc>
+                <revisionDesc>
+ <change who="#kw" when="2014-05">blessed</change>
+                        <change who="#ajh" when="2013-08-19">added figure encoding</change>
+                        <change who="#mb" when="2013-04-11">additional proofing of transcription and
+                                encoding, edited and added keyword terms</change>
+                        <change who="#mb" when="2011-10-03">additional proofing of transcription and
+                                encoding</change>
+                        <change who="#mb" when="2011-06-24">additional proofing of transcription and
+                                encoding</change>
+                        <change who="#el" when="2011-05-11">case text extracted and transformed from
+                                larger file</change>
+                        <change who="#sb" when="2011-02-23">Encoding and Proofing</change>
+                        <change who="#et" when="2009-12-01">Initial Checking OCR Text to PDF
+                                file,</change>
+                </revisionDesc>
+        </teiHeader>
+        <text>
+                <body xml:id="ch4.sc4.1.00224">
+                        <p><hi rend="initialcap">C</hi>ASE 224.&#8212;<name type="person" key="732"
+                                        >Private Eli W. Whiting</name>, <name type="organization"
+                                        key="702">5th Me. Bat'y</name>, was admitted <date
+                                        type="admit" when="1862-09-01">Sept. 1, 1862</date>, with a
+                                gunshot wound received at the battle of <name type="BATTLE"
+                                        key="127">Bull Run</name>. He was sent to his home on
+                                furlough <date type="furlough" when="1862-11-12">November 12</date>,
+                                and was there taken very sick. He returned to hospital <date
+                                        type="admit" when="1863-02-06">February 6, 1863</date>, in a
+                                debilitated condition. On March 18 he was attacked by fever and a
+                                severe pain in the pr&#230;cordial region. On the morning of <date
+                                        type="injury" when="1863-03-24">the 24th</date> he had a
+                                chill, and the seat of the pain changed to the umbilical and
+                                hypogastric regions; he lay on his back with his knees drawn up and
+                                the abdominal walls motionless in respiration; his face was pale and
+                                contracted, showing great distress and anxiety; pulse frequent and
+                                small; tongue red at the tip and edges and furred with yellow in the
+                                centre; thirst extreme; bowels constipated; he had much nausea and
+                                vomited a greenish offensive matter. He was conscious until within
+                                an hour of his death, which took place on the evening of <date
+                                        type="death" when="1863-03-25">the 25th</date>. <hi
+                                        rend="italic">Post-mortem</hi> examination: A large quantity
+                                of serum and pus was found in the peritoneal cavity; the peritoneum
+                                was thickened and congested; it presented a brilliant red appearance
+                                over some parts of the small intestine and a deep-red, almost black,
+                                appearance over other parts. The ileum for about five feet from the
+                                c&#230;cum was more or less ulcerated; it was perforated by a large
+                                ulcer at a point eighteen inches from the ileo-c&#230;cal valve.
+                                [See <hi rend="italic">specimen</hi> 147, Med. Sect., <name
+                                        type="hospital" key="431">Army Medical Museum</name>, and
+                                plate facing this page.]&#8212;<hi rend="italic"><name type="person"
+                                                key="733">Med. Cadet Abner Thorp</name>, <name
+                                                type="organization" key="190">U. S. A.</name>, <name
+                                                type="hospital" key="157">Columbian Hospital</name>,
+                                        Washington, D. C.</hi></p>
+                        <figure>
+                                <graphic url="cww.001375.001"/>
+                                <head>PERFORATING ULCER OF THE ILEUM. The right hand piece shows the
+                                        mucous, the left the peritoneal surface.</head>
+                        </figure>
+                </body>
+        </text>
+</TEI>

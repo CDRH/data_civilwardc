@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="cww.00968">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>                
+                <title level="m" type="main">Petition of Samuel Mackall, 18 July 1862</title>
+                <title level="m" type="main">Evidence Relating to the Petition of Samuel Mackall, 18 July 1862</title>
+                <title level="m" type="sub">a machine readable transcription</title>
+                <principal>Susan C. Lawrence</principal>
+                <principal>Kenneth M. Price</principal>
+                <principal>Kenneth J. Winkle</principal>
+                <respStmt>
+                    <resp>transcription and encoding</resp>
+                    <name xml:id="jc">Janel Cayer</name>
+                    <name xml:id="el">Elizabeth Lorang</name>
+                <name xml:id="kjw">Kenneth J. Winkle</name>
+</respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2012</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <idno>cww.00968</idno>
+                <distributor>Civil War Washington</distributor>
+                <publisher>University of Nebraska–Lincoln</publisher>
+                <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>P.O. Box 884100</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+            </address>
+                <date>2012</date>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+                        <p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License (http://creativecommons.org/licenses/by-nc-sa/3.0/). Derivatives must be credited to Civil War Washington, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl xml:id="rg21">
+                    <title>Petition of Samuel Mackall, 18 July 1862</title>
+                    <date when="1862-07-18">July 18, 1862</date>
+                    <idno>Microcopy 433, Reel 3</idno>                
+                    <orgName>National Archives and Records Administration</orgName>
+                    <relatedItem type="original">
+                        <bibl>
+                            <title>Petition of Samuel Mackall, 18 July 1862</title>
+                            <date when="1862-07-18">July 18, 1862</date>
+                            <idno type="rg">Record Group 21</idno>
+                            <orgName>Records of the District Courts of the United States, 1685&#8211;2004, National Archives and Records Administration</orgName>
+                            <orgName>Emancipation Records, compiled 1862&#8211;1863</orgName>
+                            <note type="project">Within the National Archives' Archival Description Catalog, see ARC Identifier 4314547 / MLR Number NC-2 33 (http://arcweb.archives.gov).</note>
+                        </bibl>
+                    </relatedItem>
+                    <note type="project">Our transcription is based on a digital image of a microfilm copy of the original.</note>
+                </bibl>
+                
+                <bibl xml:id="rg217">
+                    <title>Evidence Relating to the Petition of Samuel Mackall, 18 July 1862</title>
+                    <date when="1862-07-18">July 18, 1862</date>
+                    <idno>Microcopy 520, Reel 6</idno>
+                    <orgName>National Archives and Records Administration</orgName>
+                    <relatedItem type="original">
+                        <bibl>
+                            <title>Evidence Relating to the Petition of Samuel Mackall, 18 July 1862</title>
+                            <date when="1862-07-18">July 18, 1862</date>
+                            <idno type="rg">Record Group 217.6.5</idno>
+                            <orgName>Records of the Accounting Officers of the Department of the Treasury, 1775&#8211;1978, National Archives and Records Administration</orgName>
+                            <note type="project">Within the National Archives' Archival Description Catalog, see ARC Identifier 4644616 / MLR Number A1 347 (http://arcweb.archives.gov).</note>
+                        </bibl>
+                    </relatedItem>
+                    <note type="project">Our transcription is based on a digital image of a microfilm copy of the original.</note>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <particDesc>
+                <person role="owner">
+                    <persName>Matthew Duvall</persName>
+                </person>
+                <person role="petitioner-slave">
+                    <persName>Samuel Mackall</persName>
+                </person>
+            </particDesc>
+        </profileDesc>
+        <revisionDesc>
+<change when="2013-05-20" who="#jc">blessed</change>
+<change when="2013-05-08" who="#kjw">blessed</change>
+            <change when="2013-02-05" who="#el">checked</change>
+            <change when="2012-08-17" who="#jc">transcribed and encoded</change>
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            <!-- Begins with the text of the petition. -->
+            
+            <pb xml:id="leaf001r" facs="cww.00968.001.jpg"/>
+            
+            <div1 type="petition" subtype="handwritten" corresp="#rg21">
+
+                <div2 type="document" subtype="handwritten">
+                    <opener>
+                        <salute>To <persName>John A. Smith</persName>, <choice><abbr>Esq</abbr><expan>Esquire</expan></choice> Clerk of the Circuit Court for the <placeName>District of Columbia</placeName></salute>
+                        <salute>Sir,</salute>
+                    </opener>
+                    <p>You will please file and record in your office the annexed statement and schedule under the provisions of an act of Congress, entitled "An act for the release of certain persons held to service or labor in the <placeName>District of Columbia</placeName>" approved <date when="1862-04-16">April 16th 1862</date>.</p>
+                    
+                    <ab><persName>Samuel Mackall</persName> aged 45 years male, about five feet 4 inches high <choice><orig>mullato</orig><reg>mulatto</reg></choice></ab>
+                    
+                    <p>I was by reason of African descent and acquired title the property of <persName>Matthew Duvall</persName> of <placeName>Prince George County Maryland</placeName>, and held to service or labor in the <placeName>District of Columbia</placeName> at the time of the passage and approval of the above recited Act, the benefit of which is hereby claimed.</p>
+                    
+                    <p>And whereas the said <persName>Matthew Duvall</persName> to whom I owed service and labor, failing to file his Petition claiming the benefits of the Act of Congress aforesaid, this therefore in lieu of his neglect and failure to claim the privileges of the same, in and by virtue of the supplementary act under the second section approved <date when="1862-07-12">July 12th 1862</date>. </p>
+                    <closer>
+                        <signed>his X mark <persName>Samuel Mackall</persName></signed><lb/>
+                        Witness<lb/>
+                        <signed><persName>Wm J Donohoo</persName></signed>
+                    </closer>
+                </div2>                        
+                                        
+                <pb xml:id="leaf001v" facs="cww.00968.002.jpg"/>
+                
+                <div2 type="statement" subtype="handwritten">
+                       <dateline><date when="1862-07-18">July 18, 1862</date>.</dateline>
+                        <p>The Commissioners being satisfied on the testimony of <persName>John F. Coyle</persName> that the facts stated in the within petition are true as therein stated, have ordered the same to be so returned to the Clerk of the Circuit Court of the <placeName>District of Columbia</placeName></p>
+                        <closer>
+                            <signed><persName>Wm. R. Woodward</persName> clerk &#38;c</signed>
+                        </closer>
+                </div2>
+                
+                <pb xml:id="leaf001v2" facs="cww.00968.003.jpg"/>
+                
+                <div2 type="cover" subtype="handwritten">
+                    <div3 type="section">
+                        <ab><hi rend="underline">Paid 50 <choice><abbr>cts</abbr><expan>cents</expan></choice></hi></ab>
+                        <ab><persName>Matthew Duvall's</persName> schedule filed by</ab>
+                        <ab><persName>Samuel Mackall</persName></ab>
+                        <ab>Filed <date when="1862-07-18">18th July 1862</date></ab>
+                        <ab>Recorded in Manumission Record No. 2 folios 81 &#38; 82&#8212;</ab>
+                    </div3>
+                    
+                    <div3 type="section">
+                        <ab><choice><abbr>Cert</abbr><expan>Certificate</expan></choice> given <choice><abbr>Idfd</abbr><expan>Identified</expan></choice> by <persName>W. J. Donoho</persName> <date when="1862-07-18">18th July 1862</date></ab>
+                    </div3>                                                                               
+                </div2>
+            </div1>
+           
+            <!-- Evidence pertaining to the case begins here. -->
+            
+            <pb xml:id="leaf002r" facs="cww.00968.004.jpg"/>
+            <div1 type="evidence" corresp="#rg217" subtype="handwritten">
+                
+                <div2 type="testimony">
+                    <p><persName>Jno. F Coyle</persName> know servant <gap reason="torn" extent="about two words" atLeast="1" unit="chars"/> me last 4 years. I understood <gap reason="torn" extent="about three words" atLeast="1" unit="chars"/> <persName>Duvall</persName>. I have seen Mr <persName>M. Duvall</persName> <gap reason="torn" extent="about two words" atLeast="1" unit="chars"/> him as his servant. I always <gap reason="torn" extent="about two words" atLeast="1" unit="chars"/> <unclear reason="illegible" cert="medium" resp="#jc">a servant</unclear>. Servant was in <placeName>District</placeName> on <gap reason="torn" extent="about two words" atLeast="1" unit="chars"/> and was here some years before. I hired him I believe servant <gap reason="torn" extent="about two words" atLeast="1" unit="chars"/> chased himself of and all but about <gap reason="torn" extent="about two words" atLeast="1" unit="chars"/> the purchase.</p>
+                </div2>
+                
+                <pb xml:id="leaf002v" facs="cww.00968.005.jpg"/>
+                
+                <div2 type="cover">
+                    <ab>Mr. <persName>Duvall's</persName> servant</ab>
+                    <ab><persName>Samuel Mackall</persName></ab>
+                    <ab><date when="1862-07-18">July 18, 1862</date></ab>
+                </div2>
+            </div1>            
+        </body>
+    </text>
+</TEI>
+                
+                
+                
+                
+                
+

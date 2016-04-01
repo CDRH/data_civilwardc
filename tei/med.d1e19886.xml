@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e19886">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title level="m" type="main">Grothenn, Henry</title>
+        <title level="m" type="sub">a machine readable transcription</title>
+        <principal>Susan C. Lawrence</principal>
+        <principal>Kenneth M. Price</principal>
+        <principal>Kenneth J. Winkle</principal>
+      </titleStmt>
+      <editionStmt>
+        <edition><date>2011</date></edition>
+      </editionStmt>
+      <publicationStmt>
+        <idno>med.d1e19886</idno>
+        <authority>Civil War Washington</authority>
+        <publisher>University of Nebraska–Lincoln</publisher>
+        <distributor><name>Center for Digital Research in the
+          Humanities</name><address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address></distributor>
+        <date>2011</date>
+        <availability>
+          <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution
+            or republication in any medium, except as allowed under the Fair Use provisions of U.S.
+            copyright law, requires express written consent from the editors and advance
+            notification of the publisher, the University of Nebraska–Lincoln.</p>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="project">The following are responsible for particular readings or for changes to
+          this file, as noted: 
+ <persName xml:id="kmp">Kenneth M. Price</persName> <persName xml:id="ajh">AJ Howell</persName>
+          <persName xml:id="mb">Matthew Bosley</persName>
+          <persName xml:id="el">Elizabeth Lorang</persName>
+          <persName xml:id="sb">Stacey Berry</persName>
+          <persName xml:id="et">Elisabeth Tracey</persName>
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl><title>The Medical and Surgical History of the War of the Rebellion.
+            (1861&#8211;65.)</title><editor role="compiler">Surgeon General Joseph K. Barnes, United
+            States Army</editor><pubPlace>Washington, D.C.</pubPlace><publisher>Government Printing
+            Office</publisher><biblScope type="part">Part 1</biblScope>
+          <biblScope type="volume">Volume 2</biblScope><date when="1870">1870</date><biblScope
+            type="page">545</biblScope></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <classDecl>
+        <taxonomy xml:id="medsurg">
+          <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="#medsurg">
+          <term>wounds and injuries of the chest</term>
+          <term>operations on the chest</term>
+          <term>ligations</term>
+          <term>ligations of the subclavian</term>
+          <term>traumatic <choice>
+              <orig>aneurism</orig>
+              <reg>aneurysm</reg>
+            </choice></term>
+          <term>circumscribed <choice>
+              <orig>aneurism</orig>
+              <reg>aneurysm</reg>
+            </choice> from gunshot injury</term>
+          <term>general anesthesia, chloroform</term>
+          <term>post-mortem examination performed</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+ <change who="#kmp" when="2014-05">blessed</change>
+
+      <change who="#ajh" when="2013-08-21">added figure encoding</change>
+      <change who="#mb" when="2012-01-10">additional proofing of transcription and encoding</change>
+      <change who="#el" when="2011-05-11">case text extracted and transformed from larger
+        file</change>
+      <change who="#sb" when="2011-02-09">enriched encoding</change>
+      <change who="#sb" when="2011-01-28">validated file</change>
+      <change who="#et" when="2009-08-01">encoded</change>
+      <change who="#sb" when="2008-09-22">initial checking of OCR text against PDF; encoded
+      </change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+
+      <p><hi rend="initialcap">C</hi>ASE 21.&#8212;<name type="person" key="xxx">Sergeant Henry
+          Grothenn</name>, <name type="organization" key="xxx">Co. K, 5th United States
+          Cavalry</name>, aged 28 years, was admitted into the <name type="hospital">McClellan
+          Hospital, Philadelphia</name>, <date type="transfer" when="1863-06-23">June 23d,
+          1863</date>, from <name type="hospital" key="176">Lincoln Hospital</name>, Washington,
+        with an <choice>
+          <orig>aneurism</orig>
+          <reg>aneurysm</reg>
+        </choice> of the right axillary artery, the result of a gunshot wound received at <name
+          type="battle">Beverly Ford, Virginia</name>, <date type="injury" when="1863-06-09">June
+          9th, 1863</date>. The ball had passed in on the anterior part of the arm, near the
+        shoulder-joint, and was cut out at <name type="hospital" key="176">Lincoln Hospital</name>
+        an inch below the interior angle of the scapula. In a report of the case in the <hi
+          rend="italic">American Journal of Medical Sciences</hi>, Vol. XLVII, p. 128, N. S., <name
+          type="person" key="xxx">Acting Assistant Surgeon Isaac Norris</name> says: &#34;When I
+        took charge of the ward, on July 26th, the patient was absent. He returned on the 28th, and
+        after making a careful examination of the arm, the true nature of the disease became
+        manifest, as the pulsation of the tumor at that time about the size of a large
+        horse-chestnut was very apparent, and, upon auscultation, the <choice>
+          <orig>aneurismal</orig>
+          <reg>aneurysmal</reg>
+        </choice> thrill could be distinctly heard, corresponding with the contraction of the left
+        ventricle of the heart. My predecessor had had made an apparatus composed of a compress of
+        lead with screws so arranged that by tightening them any amount of pressure desired could be
+        placed upon the part. The apparatus was adjusted, but after a trial of some thirty hours, it
+        was abandoned on account of the pain it gave the patient, and a padded bandage was
+        substituted, in the faint hope that it might be of use. This was worn for nearly ten days,
+        but it was finally left off, and the treatment was reduced to keeping the arm, as nearly as
+        possible, at perfect rest. On <date type="injury" when="1863-08-16">the 16th of
+          August</date> last, the <choice>
+          <orig>aneurism</orig>
+          <reg>aneurysm</reg>
+        </choice> became much larger, and from the pressure upon the axillary plexus of nerves,
+        caused him great pain. The following evening it was decided to operate and tie the
+        subclavian, despite the hazard attending it. The <choice>
+          <orig>aneurism</orig>
+          <reg>aneurysm</reg>
+        </choice> broke, unfortunately, early the next morning, before the operation could be
+        performed, and the patient lost from thirty to forty ounces of blood. The h&#230;morrhage
+        finally ceased of its own accord, but he was so weakened and exhausted from the great loss
+        he had sustained, that it was the opinion of the medical staff of the hospital, upon
+        consultation, that, if anything was attempted then, he would die under the operation, and
+        that his life might be prolonged for a few hours more by keeping up digital compression upon
+        the artery. This was accordingly done, and the assistants appointed, relieved each other
+        every hour or two, until the arrival of <name type="person" key="xxx">Surgeon R. H.
+          Coolidge</name>, medical inspector of <name type="organization" key="190">the Army</name>,
+        on a chance visit to the hospital, who at once became interested in the case, and thought
+        the subclavian should be tied without delay; the temporary absence of <name type="person"
+          key="xxx">Dr. Taylor</name>, the surgeon in charge, being the objection to its
+        performance. As the patient seemed to be rallying each hour, <name type="person" key="xxx"
+          >Dr. Coolidge</name> decided to return to the hospital <date type="operation"
+          when="1863-08-18">in the afternoon</date>, and operate, if no objection then existed. Upon
+        his return, the h&#230;morrhage again having commenced, he proceeded to ligate the
+        subclavian in the third part of its course. I here give the account of the operation as
+        furnished by the Doctor: &#39;The patient came easily under the influence of the chloroform,
+        and the operation was performed carefully and deliberately. The loss of blood amounted to a
+        few drops only, h&#230;morrhage from the <choice>
+          <orig>aneurism</orig>
+          <reg>aneurysm</reg>
+        </choice> having been completely arrested by a tourniquet. Chloroform was not administered
+        after the operation began. The artery, on being exposed, was found closer to the brachial
+        plexus than usual, and it was also quite deeply seated, the patient being a large muscular
+        man. An armed artery needle having been passed beneath the vessel from below upward and
+        outward and withdrawn, it was found by the operator, and his assistants also, that the
+        inferior cord of the brachial plexus was included in the ligature, a result attributed in
+        part to the want of sufficient curve in the needle. Another one, having a more abrupt curve,
+        being armed and passed beneath the artery, it was elevated by the first ligature, and care
+        taken to exclude the nerve above mentioned. The first ligature was then withdrawn, and
+        several of the medical officers present, having examined the parts, and satisfied themselves
+        that nothing but the artery was embraced in the ligature, the knot was tied, the lips of the
+        incision drawn together, and the patient placed in bed.&#39; Everything seemed to do well
+        until about eight o'clock P. M., when the patient complained of considerable pain in the
+        region of the wound. Morphia was given to him freely, and repeated the following hour, but
+        without the effect of quieting him. The patient, from that time, grew rapidly worse,
+        suffering with great dyspn&#339;a, and <date type="death" when="1863-08-18">at
+          midnight</date> expired, six hours after the operation. The <hi rend="italic"
+          >post-mortem</hi> revealed the unexpected fact that a nerve of considerable size, lying
+        immediately posterior to the artery, had been included in the ligature despite the care that
+        had been taken to prevent it. It is to be regretted that this nerve was not traced to its
+        origin and termination; all that can now be said, is that it was followed as a single cord
+        down to and upon the posterior wall of the <choice>
+          <orig>aneurism</orig>
+          <reg>aneurysm</reg>
+        </choice>. It was certainly neither of the two cords of the brachial plexus, and its
+        situation was, beyond doubt, abnormal, as the nerve included in the ligature was directly
+        opposite the knot, and cannot be seen when the artery was placed in its proper position. It
+        is scarcely necessary to add that no writer on anatomy has described such a nerve, nor has
+        any dissection on record shown the existence of one, previous to this. At the time the
+        ligature was tied, the patient was but slightly under the influence of chloroform, and no
+        pain was manifested until several hours afterwards. The preparation is an exceedingly
+        instructive one, the <choice>
+          <orig>aneurismal</orig>
+          <reg>aneurysmal</reg>
+        </choice> sac being very large, and the course of the artery well shown. The infiltration of
+        blood also into the surrounding cellular tissue was very great.&#34; The specimen,
+        consisting of the <choice>
+          <orig>aneurismal</orig>
+          <reg>aneurysmal</reg>
+        </choice> sac and the subclavian, with a ligature on the third portion, is represented in
+        the accompanying wood-cut (<hi rend="initialcap">F</hi>IG. 250.) It was contributed, with
+        the notes of the case, as subsequently published by <name type="person" key="xxx">Acting
+          Assistant Surgeon Isaac Norris, <choice>
+            <orig>jr.</orig>
+            <reg>Jr.</reg>
+          </choice></name>
+      </p>
+
+      <figure>
+        <graphic url="cww.001476.001"/>
+        <head>
+          <hi rend="initialcap">F</hi>IG. 250.&#8212;Traumatic <choice>
+            <orig>aneurism</orig>
+            <reg>aneurysm</reg>
+          </choice> of the right axillary, with ligation of the subclavian. <hi rend="italic"
+            >Spec</hi>. 2609, Sect. I, A. M. M.</head>
+      </figure>
+
+    </body>
+  </text>
+</TEI>

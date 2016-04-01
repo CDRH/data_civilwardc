@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d2e24915">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Bryan, W. E.</title>
+                <title level="m" type="sub">a machine readable transcription</title>
+                <principal>Susan C. Lawrence</principal>
+                <principal>Kenneth M. Price</principal>
+                <principal>Kenneth J. Winkle</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition><date>2011</date></edition>
+            </editionStmt>
+            <publicationStmt>
+                <idno>med.d2e24915</idno>
+                <authority>Civil War Washington</authority>
+                <publisher>University of Nebraska–Lincoln</publisher>
+                <distributor><name>Center for Digital Research in the
+                    Humanities</name><address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address></distributor>
+                <date>2011</date>
+                <availability>
+                    <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved.
+                        Redistribution or republication in any medium, except as allowed under the
+                        Fair Use provisions of U.S. copyright law, requires express written consent
+                        from the editors and advance notification of the publisher, the University
+                        of Nebraska–Lincoln.</p>
+                </availability>
+            </publicationStmt>
+            <notesStmt>
+                <note type="project">The following are responsible for particular readings or for
+                    changes to this file, as noted: 
+                    <persName xml:id="mb">Matthew Bosley</persName>
+                    <persName xml:id="el">Elizabeth Lorang</persName>
+                    <persName xml:id="sb">Stacey Berry</persName>
+                    <persName xml:id="et">Elisabeth Tracey</persName>
+                    <persName xml:id="ss">Sarah Synovec</persName>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <bibl><title level="j">The Medical and Surgical History of the War of the Rebellion.
+                        (1861-65.)</title><pubPlace>Washington, DC</pubPlace><publisher>Government
+                        Printing Office</publisher><biblScope type="part">Part
+                        3</biblScope><biblScope type="volume">Volume 2</biblScope><date when="1883"
+                        >1883</date><biblScope type="page">650</biblScope></bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <classDecl>
+                <taxonomy xml:id="medsurg">
+                    <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme="#medsurg">
+                    <term>miscellaneous injuries</term> 
+                    <term>simple and compound fractures</term>
+                    <term>fracture of ilium from a fall under a horse</term>
+                    <term>injured in hip by his horse falling upon him</term> 
+                    <term>fracture of crest of ilium</term> 
+                    <term>hip flattened, leg slightly shorter than its fellow</term> 
+                    <term>oblique inguinal hernia, supported by truss</term>                    
+                    <term>inability to follow any occupation</term> 
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change who="#mb" when="2012-06-20">additional proofing of transcription and encoding, identified keyword terms</change>
+            <change who="#el" when="2011-05-11">case text extracted and transformed from larger file</change>
+            <change who="#sb" when="2011-06-04">Enrich Encoding, Edit and validate</change>
+            <change who="#sb" when="2011-01-28">Validated File</change>
+            <change who="#ss" when="2008-09-22">initial checking of OCR text; encoded P5 Encoding</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>            
+                <p><hi rend="initialcap">C</hi>ASE 965.&#8212;<hi rend="italic">Fracture of ilium from a fall under a horse.</hi>&#8212;<name type="person" key="1425">Major
+                        W. E. Bryan</name>, <name type="organization" key="189">3d New Jersey</name>, aged 41 years, was injured in the right hip by his horse falling
+                    upon him, near <name type="place">Brandy Station</name>, <date type="injury" when="1864-02-22">February
+                        22, 1864</date>.  <date type="admit" when="1864-02-24">Two days after the accident</date> he was conveyed to <name type="place" key="#Washington">Washington</name>,
+                    where he entered <name type="hospital" key="171">Armory Square Hospital</name>
+                    and afterwards <name type="hospital" key="156">Georgetown Seminary</name>. <name
+                        type="person" key="123">Surgeon D. W. Bliss</name>, <name
+                        type="organization" key="132">U. S. V.</name>, in charge of the former, and
+                        <name type="person" key="1366">Surgeon H. W. Ducachet</name>, <name
+                        type="organization" key="132">U. S. V.</name>, in charge of the latter, both
+                    described the injury as a "fracture of the right ilium."  Subsequently the
+                    patient was treated for a time in private quarters, and on <date
+                        type="servicedischarge" when="1864-06-23">June 23, 1864</date>, he was discharged
+                    from service, since when he has become a pensioner.  The <name type="organization" key="xx">Philadelphia Examining Board</name>, consisting
+                    of <name type="person" key="xx">Drs. J. Collins</name>, <name type="person"
+                        key="xx">T. S. Harper</name>, <name type="person" key="xx">J. H.
+                        Sherwood</name>, and <name type="person" key="xx">E. A. Smith</name>,
+                    certified, <date type="pension" when="1872-02-07">February 7, 1872</date>: "The pensioner sustained a fracture of the crest of
+                    the right ilium. He complains of constant pain and inability to follow any
+                    occupation, looks delicate, and carries the right hip somewhat higher than the
+                    left."  Subsequent examining boards reported, in <date type="pension" when="1875">1875</date> and <date type="pension" when="1877">1877</date>, that "the hip is
+                    flattened and the leg slightly shorter than its fellow. He alleges pain and
+                    fatigue in the hip, and has oblique inguinal hernia of right side, well
+                    supported by a truss."  The pensioner was paid <date type="pension" when="1881-06-04">June 4, 1881</date>. </p>
+            
+        </body>
+    </text>
+</TEI>

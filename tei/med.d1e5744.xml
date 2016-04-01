@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e5744">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title level="m" type="main">Beckwith, James</title>
+        <title level="m" type="sub">a machine readable transcription</title>
+        <principal>Susan C. Lawrence</principal>
+        <principal>Kenneth M. Price</principal>
+        <principal>Kenneth J. Winkle</principal>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <date>2011</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <idno>med.d1e5744</idno>
+        <authority>Civil War Washington</authority>
+        <publisher>University of Nebraska–Lincoln</publisher>
+        <distributor>
+          <name>Center for Digital Research in the Humanities</name>
+          <address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+        </distributor>
+        <date>2011</date>
+        <availability>
+          <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution
+            or republication in any medium, except as allowed under the Fair Use provisions of U.S.
+            copyright law, requires express written consent from the editors and advance
+            notification of the publisher, the University of Nebraska–Lincoln.</p>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="project">The following are responsible for particular readings or for changes to
+          this file, as noted: 
+          <persName xml:id="mb">Matthew Bosley</persName>
+          <persName xml:id="el">Elizabeth Lorang</persName>
+          <persName xml:id="sb">Stacey Berry</persName>
+          <persName xml:id="et">Elisabeth Tracey</persName>
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>
+          <title level="j">The Medical and Surgical History of the War of the Rebellion</title>
+          <pubPlace>Washington, DC</pubPlace>
+          <publisher>Government Printing Office</publisher>
+          <biblScope type="part">Part 3</biblScope>
+          <biblScope type="volume">Volume 1</biblScope>
+          <date when="1888">1888</date>
+          <biblScope type="page">337</biblScope>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <classDecl>
+        <taxonomy xml:id="medsurg">
+          <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="#medsurg">
+          <term>post-mortem records</term>
+          <term>continued fevers</term>
+          <term>typhoid fever</term>  
+          <term>Peyer's patches ulcerated, ileum or small intestine only affected</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change who="#mb" when="2011-10-07">additional proofing of transcription and encoding</change>
+      <change who="#mb" when="2011-06-14">additional proofing of transcription and encoding</change>
+      <change who="#el" when="2011-05-11">case text extracted and transformed from larger
+        file</change>
+      <change who="#sb" when="2011-02-23">Encoding and Proofing</change>
+      <change who="#et" when="2009-12-01">Initial Checking OCR Text to PDF file, </change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body xml:id="ch4.sc4.1.00016">
+      
+        <p><hi rend="initialcap">C</hi>ASE 16.&#8212;<name type="person" key="549">Private James
+            Beckwith</name>, <name type="organization" key="630">Co. F, 2d Me.</name>; age 23; was
+          admitted <date type="admit" when="1861-09-06">Sept. 6, 1861</date>, with typhoid fever
+          occurring as a relapse. The patient had a full strong pulse, 120, heavily coated and dry
+          tongue, hot and dry skin. One ounce of sulphate of magnesia was ordered. He rested poorly
+          during the night, having had some head symptoms; his bowels were moved twice, although by
+          mistake the Epsom salt had not been taken. His skin at the midnight visit, September 7,
+          was warm and perspiring, tongue dry and brown in the centre, pulse full, 114. Half an
+          ounce of tincture of rhubarb with ten drops of oil of anise was administered, by which the
+          bowels were moved rapidly. In the evening he was unconscious, and during the night
+          delirious with involuntary stools of a brown color. Next day there was rather less fever;
+          pulse 104. Quinine, which had been given the previous day, was continued in eight-grain
+          doses, with whiskey-punch and beef-essence, and an astringent injection at night. His
+          bowels were moved twice on this day, the 8th, and he had tenderness in the right iliac
+          region. During the following night there was walking delirium, and a few minute red spots
+          were discovered, which did not disappear on pressure. At 11 A. M. of the 9th he had a
+          severe congestive chill; during the paroxysm his pulse was strong and rapid; he raved and
+          showed much strength. Morphia was given to quiet him. His bowels were moved involuntarily
+          during the day, and he was very restless, requiring to be held in bed. On the 10th, after
+          a quiet night, he was dull and stupid, his pulse 117, skin hot, face flushed, teeth
+          covered with sordes; in the evening he became drowsy and was quiet during the night.
+          Turpentine emulsion was given. On the 11th his pulse was quick and weak, 130, tongue
+          cracked and protruded with difficulty, stools involuntary, countenance haggard and eyes
+          fixed; he had also subsultus, grinding of the teeth, rose-colored spots and sudamina. In
+          the evening his skin became cool, the prostration increased and the involuntary stools
+          were large and fetid. On <date type="death" when="1861-09-12">the 12th</date> the symptoms
+          were: Pulse 137, soft, small and weak; respiration 14; skin hot and moist; hands and feet
+          cold and clammy; face pale; nose pinched; eyes and mouth half closed; lips livid; nausea;
+          subsultus; black vomiting. He died at 3 P. M. <hi rend="italic">Post-mortem</hi>
+          examination: The ileum was much thickened, inflamed and ulcerated for five feet above the
+          ileo-c&#230;cal valve; Peyer's glands were elevated, extensively ulcerated and
+          perforated in two places near the valve. No f&#230;cal matter was found in the
+          peritoneal cavity. The stomach was not examined.&#8212;<hi rend="italic"><name
+              type="hospital" key="156">Seminary Hospital</name>, Georgetown, D. C.</hi>
+        </p>
+      
+    </body>
+  </text>
+</TEI>

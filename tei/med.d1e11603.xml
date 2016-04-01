@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e11603">
+        <teiHeader>
+                <fileDesc>
+                        <titleStmt>
+                                <title level="m" type="main">Sands, William</title>
+                                <title level="m" type="sub">a machine readable transcription</title>
+                                <principal>Susan C. Lawrence</principal>
+                                <principal>Kenneth M. Price</principal>
+                                <principal>Kenneth J. Winkle</principal>
+                        </titleStmt>
+                        <editionStmt>
+                                <edition>
+                                        <date>2011</date>
+                                </edition>
+                        </editionStmt>
+                        <publicationStmt>
+                                <idno>med.d1e11603</idno>
+                                <authority>Civil War Washington</authority>
+                                <publisher>University of Nebraska–Lincoln</publisher>
+                                <distributor>
+                                        <name>Center for Digital Research in the Humanities</name>
+                                        <address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+                                </distributor>
+                                <date>2011</date>
+                                <availability>
+                                        <p>Copyright © 2011 by University of Nebraska–Lincoln, all
+                                                rights reserved. Redistribution or republication in
+                                                any medium, except as allowed under the Fair Use
+                                                provisions of U.S. copyright law, requires express
+                                                written consent from the editors and advance
+                                                notification of the publisher, the University of
+                                                Nebraska–Lincoln.</p>
+                                </availability>
+                        </publicationStmt>
+                        <notesStmt>
+                                <note type="project">The following are responsible for particular readings or for changes to this file, as noted: 
+                                        <persName xml:id="mb">Matthew Bosley</persName>
+                                        <persName xml:id="el">Elizabeth Lorang</persName>
+                                        <persName xml:id="sb">Stacey Berry</persName>
+                                        <persName xml:id="et">Elisabeth Tracey</persName>
+                                </note>
+                        </notesStmt>
+                        <sourceDesc>
+                                <bibl>
+                                        <title level="j">The Medical and Surgical History of the War of the Rebellion</title>
+                                        <pubPlace>Washington, DC</pubPlace>
+                                        <publisher>Government Printing Office</publisher>
+                                        <biblScope type="part">Part 3</biblScope>
+                                        <biblScope type="volume">Volume 1</biblScope>
+                                        <date when="1888">1888</date>
+                                        <biblScope type="page">867</biblScope>
+                                </bibl>
+                        </sourceDesc>
+                </fileDesc>
+                <encodingDesc>
+                        <classDecl>
+                                <taxonomy xml:id="medsurg">
+                                        <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+                                </taxonomy>
+                        </classDecl>
+                </encodingDesc>
+                <profileDesc>
+                        <textClass>
+                                <keywords scheme="#medsurg">
+                                        <term>on certain local diseases</term>
+                                        <term>cardiac diseases</term>
+                                        <term>rupture of the heart</term>
+                                        <term>considered phenomenal, only recorded case</term> 
+                                        <term>flesh-wound of thigh</term>
+                                        <term>ball impinged on femur without fracturing it</term>
+                                        <term>half an inch opening extended through anterior wall of right ventricle and adherent pericardium</term>   
+                                        <term>post-mortem examination only</term>
+                                        <term>heart of large size, underwent fatty degeneration</term>
+                                        <term>opening in wall of ventricle in direction of muscular fibres</term>
+                                        <term>rupture of the heart not following violent exertion</term>
+                                        <term>gradual effusion of blood compressed lungs</term>
+                                </keywords>
+                        </textClass>
+                </profileDesc>
+                <revisionDesc>
+                        <change who="#mb" when="2013-05-09">additional proofing of transcription and encoding, edited and added keyword terms</change>
+                        <change who="#mb" when="2011-07-14">additional proofing of transcription and encoding</change>
+                        <change who="#el" when="2011-05-11">case text extracted and transformed from larger file</change>
+                        <change who="#sb" when="2011-02-23">Encoding and Proofing</change>
+                        <change who="#et" when="2009-12-01">Initial Checking OCR Text to PDF file,</change>
+                </revisionDesc>
+        </teiHeader>
+        <text>
+                <body>                        
+                        <p> <name type="person">Private William Sands</name>, <name type="organization">Co. A, 147th Pa.</name>, was admitted <date type="admit" when="1863-05-07">May 7,
+                                1863</date>, with a flesh-wound of the thigh, received at
+                                <name type="BATTLE" key="257">Chancellorsville</name> on <date type="injury" when="1863-05-03">the 3d</date>. The patient seemed in good
+                                        condition and complained of nothing apart from his wound.  On
+                                        the morning of <date type="death" when="1863-05-15">the 15th</date>, <name type="person"><hi rend="initialcap">D</hi>r. <hi rend="initialcap">A</hi>. <hi rend="initialcap">P</hi>. <hi rend="initialcap">W</hi>ILLIAMS</name> having been
+                                        called to see him, found him so near death by asphyxia that
+                                        no opportunity was afforded to examine the chest during
+                                        life. At the evening visit on the previous day the patient
+                                        had some fever and complained of restlessness, for which an
+                                        opiate was administered. About midnight his mind wandered
+                                        somewhat, but not more than might be attributed to the
+                                        opiate. After this the nurse on duty noticed that his
+                                        breathing was short and somewhat labored; but as he was
+                                        quiet and made no complaint the attending surgeon was not
+                                        called.   <hi rend="italic">Post-mortem</hi> examination: The ball, which had
+                                        impinged on the femur without fracturing it, was removed
+                                        from the wound, which showed nothing unusual. On elevating
+                                        the sternum the thoracic cavity was found filled with black
+                                        blood. The lungs adhered to the walls of the thorax and the
+                                        diaphragm; the pericardium to the pleura and the diaphragm;
+                                        these adhesions were firm and extensive. The heart,
+                                        enveloped in its pericardium, was carefully removed; the
+                                        pericardium was firmly adherent to the heart. An opening
+                                        nearly half an inch in length was found extending through
+                                        the anterior wall of the right ventricle and its adherent
+                                        pericardium. On stripping off the pericardium the heart,
+                                        which was of large size, appeared paler than natural, having
+                                        evidently undergone fatty degeneration; the opening in
+                                        the wall of the ventricle was in the direction of the
+                                        muscular fibres and was rendered valvular by the intrusion
+                                        of one of the fleshy columns. Every point in the case shows
+                                        that the cause of death was rupture of the heart not
+                                        following any violent exertion. The nurse's statement that
+                                        he noticed the short breath of the patient some hours
+                                        before death, and his asphyxiated appearance when <hi rend="initialcap">D</hi>r.
+                                <hi rend="initialcap">W</hi>ILLIAMS saw him, indicate that death was caused by the
+                                        gradual effusion of blood compressing the lungs. The man
+                                        probably lived four or five hours after the rupture of the
+                                        heart, the columna carnea at the base of the opening
+                                        preventing an immediately fatal hemorrhage. The opening in
+                                        the pericardium and heart could scarcely have been made by
+                                        the knife of the dissector without inflicting injury on the
+                                        fleshy column at the base of the opening, which, it will be
+                                        observed, was uncut; nor would the chest have been suddenly
+                                        filled with blood by a <hi rend="italic">post-mortem</hi> cut in the right
+                                        ventricle, in which was found a large soft clot.&#8212;<hi rend="italic"><name type="person" key="905">Ass't Surgeon Alexander Ingram</name>, <name type="organization" key="190">U. S. A.</name>, <name type="hospital" key="169">St. Aloysius Hospital</name>, Washington, D. C.</hi>  </p>                        
+                </body>
+        </text>
+</TEI>

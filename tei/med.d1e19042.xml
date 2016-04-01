@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e19042">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">McCauley, James</title>
+                <title level="m" type="sub">a machine readable transcription</title>
+                <principal>Susan C. Lawrence</principal>
+                <principal>Kenneth M. Price</principal>
+                <principal>Kenneth J. Winkle</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition><date>2011</date></edition>
+            </editionStmt>
+            <publicationStmt>
+                <idno>med.d1e19042</idno>
+                <authority>Civil War Washington</authority>
+                <publisher>University of Nebraska–Lincoln</publisher>
+                <distributor><name>Center for Digital Research in the
+                    Humanities</name><address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address></distributor>
+                <date>2011</date>
+                <availability>
+                    <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved.
+                        Redistribution or republication in any medium, except as allowed under the
+                        Fair Use provisions of U.S. copyright law, requires express written consent
+                        from the editors and advance notification of the publisher, the University
+                        of Nebraska–Lincoln.</p>
+                </availability>
+            </publicationStmt>
+            <notesStmt>
+                <note type="project">The following are responsible for particular readings or for
+                    changes to this file, as noted: 
+                    <persName xml:id="mb">Matthew Bosley</persName>
+                    <persName xml:id="el">Elizabeth Lorang</persName>
+                    <persName xml:id="sb">Stacey Berry</persName>
+                    <persName xml:id="et">Elisabeth Tracey</persName>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <bibl><title>The Medical and Surgical History of the War of the Rebellion.
+                        (1861&#8211;65.)</title><editor role="compiler">Surgeon General Joseph
+                        K. Barnes, United States Army</editor><pubPlace>Washington,
+                        D.C.</pubPlace><publisher>Government Printing Office</publisher><biblScope
+                        type="part">Part 1</biblScope>
+                    <biblScope type="volume">Volume 2</biblScope><date when="1870"
+                        >1870</date><biblScope type="page">466-467</biblScope></bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <classDecl>
+                <taxonomy xml:id="medsurg">
+                    <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme="#medsurg">
+                    <term>wounds and injuries of the chest</term> 
+                    <term>incised wounds, contusions, and miscellaneous injuries</term>
+                    <term>sabre wounds</term>
+                    <term>sabre thrust of the chest</term>
+                    <term>sabre passed directly through upper lobe of the lung</term>
+                    <term>four sabre cuts of the head</term>
+                    <term>fractured skull, parietal bone </term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change who="#mb" when="2011-12-13">additional proofing of transcription and encoding</change>                                                
+            <change who="#el" when="2011-05-11">case text extracted and transformed from larger file</change>
+            <change who="#sb" when="2011-02-09">enriched encoding</change>
+            <change who="#sb" when="2011-01-28">validated file</change>
+            <change who="#et" when="2009-08-01">encoded</change>
+            <change who="#sb" when="2008-09-22">initial checking of OCR text against PDF; encoded
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            
+            <p> <hi rend="initialcap">C</hi>ASE.&#8212;<name type="person">Private James McCauley</name>, <name type="organization">Co. C, 1st United States Cavalry</name>, aged 21 years,
+                received a sabre thrust of the chest at <name type="BATTLE" key="297">Upperville, Virginia</name>, <date type="injury" when="1863-06-21">June 21st, 1863</date>.
+                    The point entered about two inches above and to the inner edge of the inferior
+                    angle of the right scapula, passed directly through the upper lobe of the right
+                    lung from behind forward, and made its appearance beneath the integument two
+                    inches above the right nipple, producing a discoloration at that point. He also
+                    received four sabre cuts of the head, one of which, over the right parietal
+                    bone, fractured the skull; the others were scalp wounds. He was treated in the
+                    field, and, on <date type="admit" when="1863-06-24">the 24th</date>, was sent to <name type="hospital" key="172">Emory Hospital</name>, Washington. On admission,
+                    he complained of very slight dyspn&#339;a and some constipation, which was obviated
+                    by a potion of castor oil. Pulse 84; tongue clean; appetite good. A bandage
+                    was placed around the chest and cold-water dressings applied. A fragment of
+                    bone was removed from the right parietal bone. He was furloughed on <date type="furlough" when="1863-07-17">July 17th</date>, and returned to duty
+                to <name type="place">Carlisle Barracks</name>, <date type="duty" when="1863-09-11">September 11th, 1863</date>. <name type="person">Pension Examiner J. O. Stanton</name>
+                reports, under date of <date type="pension" when="1871-08-03">August 3d, 1871</date>: "The pensioner states that he frequently
+                    has h&#230;morrhage from the lungs. There seems to be considerable irritability of
+                    the throat and fauces. He is strong and muscular; circulation good." </p>
+            
+        </body>
+    </text>
+</TEI>

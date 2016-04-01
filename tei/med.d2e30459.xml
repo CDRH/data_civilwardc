@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d2e30459">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Hicks, G. S.</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+    <idno>med.d2e30459</idno>
+    <authority>Civil War Washington</authority>
+    <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor>
+     <name>Center for Digital Research in the Humanities</name>
+     <address><addrLine>319 Love Library</addrLine>
+       <addrLine>University of Nebraska–Lincoln</addrLine>
+       <addrLine>Lincoln, NE 68588-4100</addrLine>
+       <addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+    </distributor>
+    <date>2011</date>
+    <availability>
+     <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+      republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+      law, requires express written consent from the editors and advance notification of the
+      publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+ <persName xml:id="kmp">Kenneth M. Price</persName> <persName xml:id="ajh">AJ Howell</persName>
+     <persName xml:id="mb">Matthew Bosley</persName>
+     <persName xml:id="no">Nathan Olson</persName>
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl>
+     <title level="j">The Medical and Surgical History of the War of the Rebellion.
+      (1861-65.)</title>
+     <pubPlace>Washington, DC</pubPlace>
+     <publisher>Government Printing Office</publisher>
+     <biblScope type="part">Part 2</biblScope>
+     <biblScope type="volume">Volume 2</biblScope>
+     <date when="1876">1876</date>
+     <biblScope type="page">787</biblScope>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+     <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <keywords scheme="#medsurg">
+     <term>wounds and injuries of the upper extremities</term>
+     <term>injuries of the shaft of the humerus</term>
+     <term>amputations of the arm for shot injury</term>
+     <term>amputations in the shaft of the humerus</term>
+     <term>secondary amputations in the arm</term>
+     <term>secondary amputations in the continuity</term>
+     <term>secondary amputation at the middle third of the arm</term>
+     <term>fatal cases</term>
+     <term>py&#230;mia</term>
+     <term>compound comminuted fracture of ulna</term>
+     <term>ulna shattered through upper third of shaft</term>
+     <term>Teale's operation performed</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+ <change who="#kmp" when="2014-05">blessed</change>
+   <change who="#ajh" when="2013-08-23">added figure encoding</change>
+   <change who="#mb" when="2012-06-28">additional proofing of transcription and encoding, identified
+    keyword terms</change>
+   <change who="#no" when="2011-02-23">checked OCR; added minimal mark-up for personal names, place
+    names, and dates</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p><hi rend="initialcap">C</hi>ASE 1702.&#8212;<name type="person" key="xxx">Private G. S.
+     Hicks</name>, <name type="organization" key="xxx">Co. A, 12th New York</name>, aged 40 years,
+    was wounded at <name type="BATTLE" key="127">Bull Run</name>, <date type="injury"
+     when="1862-08-30">August 30, 1862</date>, and admitted to <name type="hospital" key="165">Mount
+     Pleasant Hospital</name>, Washington, on <date type="admit" when="1862-08-31">the following
+     day</date>. <name type="person" key="339">Assistant Surgeon C. A. McCall</name>, <name
+     type="organization" key="190">U. S. A.</name>, contributed the specimen (<hi rend="initialcap"
+     >F</hi>IG. 557), with the following notes of the case: &#34;Compound comminuted fracture of
+    right ulna; operation on <date type="operation" when="1862-10-02">October 2d</date>; death on
+     <date type="death" when="1862-10-08">October 8, 1862</date>. The treatment was cold-water
+    dressings to the parts, with tonics and stimulants constitutionally, it being attempted to save
+    the limb. But extensive inflammation set in, with profuse discharge, rendering amputation
+    necessary. Teale's operation was performed. The patient, whose strength had been greatly reduced
+    by the profuse suppuration, began to fail rapidly, and died, six days after the operation, of
+    py&#230;mia.&#34; The specimen consists of &#34;the upper halves of the bones of the right
+    forearm and the lowest third of the humerus; the ulna was shattered throughout the upper third
+    of the shaft and the fragments necrosed.&#34;&#8212;(<hi rend="italic">Cat. Surg. Sect.</hi>,
+    1866, p. 189.)</p>
+   <figure>
+    <graphic url="cww.001686.001"/>
+    <head><hi rend="initialcap">F</hi>IG. 557.&#8212;Shot, comminut'n of ulna, after amputation. <hi
+      rend="italic">Spec</hi>. 166.</head>
+   </figure>
+  </body>
+ </text>
+</TEI>

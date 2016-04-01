@@ -1,0 +1,412 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="cww.00839">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Petition of Mahlon Falconer, 2 July 1862</title>
+                <title level="m" type="sub">a machine readable transcription</title>
+                <principal>Susan C. Lawrence</principal>
+                <principal>Kenneth M. Price</principal>
+                <principal>Kenneth J. Winkle</principal>
+                <respStmt>
+                    <resp>transcription and encoding</resp>
+                    <name xml:id="kp">Kenneth M. Price</name>
+                    <name xml:id="jc">Janel Cayer</name>
+                    <name xml:id="nnk">Nima Najafi Kianfar</name>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2013</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <idno>cww.00839</idno>
+                <distributor>Civil War Washington</distributor>
+                <publisher>University of Nebraska–Lincoln</publisher>
+                <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>P.O. Box 884100</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+            </address>
+                <date>2013</date>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+                        <p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike
+                            3.0 Unported License
+                            (http://creativecommons.org/licenses/by-nc-sa/3.0/). Derivatives must be
+                            credited to Civil War Washington, made available non-commercially, and
+                            distributed under the same terms. Requests for permission for commercial
+                            publication or other use should be emailed to the project team.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Petition of Mahlon Falconer, 2 July 1862</title>
+                    <date when="1862-07-02">July 2, 1862</date>
+                    <idno>Microcopy 520, Reel 6</idno>
+                    <orgName>National Archives and Records Administration</orgName>
+                    <relatedItem type="original">
+                        <bibl>
+                            <title>Petition of Mahlon Falconer, 2 July 1862</title>
+                            <date when="1862-07-02">July 2, 1862</date>
+                            <idno>Record Group 217.6.5</idno>
+                            <orgName>Records of the Accounting Officers of the Department of the
+                                Treasury, 1775–1978, National Archives and Records
+                                Administration</orgName>
+                            <note type="project">Within the National Archives' Archival Description
+                                Catalog, see ARC Identifier 4644616 / MLR Number A1 347
+                                (http://arcweb.archives.gov).</note>
+                        </bibl>
+                    </relatedItem>
+                    <note type="project">Our transcription is based on a digital image of a
+                        microfilm copy of the original.</note>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <particDesc>
+                <person role="petitioner">
+                    <persName>Mahlon Falconer</persName>
+                </person>
+                <person role="jp">
+                    <persName>Edmund F. Brown</persName>
+                </person>
+            </particDesc>
+        </profileDesc>
+        <revisionDesc>
+            <change when="2013-02-11" who="#jc">blessed</change>
+            <change when="2013-02-10" who="#kp">blessed</change>
+            <change when="2012-12-28" who="#jc">updated tei header; fixed values for @facs as
+                necessary; automated checking across files for extra spaces in elements and other
+                encoding inconsistencies and for regular transcription errors</change>
+            <change when="2012-09-28" who="#jc">checked</change>
+            <change when="2012-09-18" who="#nnk">transcribed, encoded</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb xml:id="leaf001r" facs="cww.00839.001.jpg"/>
+
+            <div1 type="petition" subtype="mixed">
+                <head type="main">PETITION.</head>
+                <p rend="bold">To the Commissioners under the act of Congress approved the <date
+                        when="1862-04-16">16th of April, 1862</date>, entitled "An act for the
+                    release of certain persons held to service or labor in the District of
+                    Columbia."</p>
+
+                <p>Your Petitioner, <seg type="handwritten">
+                        <persName>Mahlon Falconer</persName>
+                    </seg> of <seg type="handwritten">
+                        <placeName>Washington City</placeName>
+                    </seg> by this <seg type="handwritten">his</seg> petition in writing, represents
+                    and states, that <seg type="handwritten">he</seg> is a person loyal to the
+                    United States, who, at the time of the passage of the said act of Congress, held
+                    a claim to service or labor against <seg type="handwritten">one female</seg>
+                    person of African descent of the name of <seg type="handwritten">
+                        <persName>Ann Anderson</persName>
+                    </seg> for and during the <del>life of said</del>
+                    <seg type="handwritten">term of years to expire on the <date when="1866-12-21"
+                            >31st day of December 1866</date>, being nearly five years,</seg> and
+                    that by said act of Congress said <seg type="handwritten">
+                        <persName>Ann Anderson</persName> was</seg> discharged and freed of and from
+                    all claim of your petitioner to such service or labor; that at the time of said
+                    discharge said <seg type="handwritten">
+                        <persName>Ann Anderson, was</persName>
+                    </seg> of the age of <seg type="handwritten">twenty two years,</seg> and of the
+                    personal description following:<note type="government" place="foot" xml:id="n1"
+                        >Here describe the person, so as to identify him or her; and if there be
+                        more than one slave, describe each one separately.</note>
+                    <seg type="handwritten">about five feet six inches high, medium size, <choice>
+                            <sic>chesnut</sic>
+                            <corr>chestnut</corr>
+                        </choice> color, good looking and healthy, with no particular marks
+                        recollected. She is a good cook, and house servant.</seg>
+                </p>
+
+                <pb xml:id="leaf001v" facs="cww.00839.003.jpg"/>
+
+                <p>That your petitioner acquired <seg type="handwritten">his</seg> claim to the
+                    aforesaid service or labor of said <seg type="handwritten">
+                        <persName>Ann Anderson</persName>
+                    </seg> in manner following:<note type="government" place="foot" xml:id="n2">Here
+                        state how the claim was acquired, when, from whom, and for what price or
+                        consideration; and, if held under any written evidence of title, make
+                        exhibit thereof, or refer to the public record where the same may be
+                        found.</note>
+                    <seg type="handwritten">Your Petitioner's Wife, is the Daughter of Mr.
+                            <persName>Walter Brown</persName> of <placeName>Howard County
+                            Maryland</placeName>, from whom she received the said
+                            <persName>Ann</persName> as a present, in <date when="1842">1842</date>.
+                        The evidence of title is presented herewith.</seg>
+                </p>
+
+                <p>That your petitioner's claim to the service or labor of said <seg
+                        type="handwritten">
+                        <persName>Ann Anderson</persName>
+                    </seg> was, at the time of said discharge therefrom, of the value of <seg
+                        type="handwritten">five hundred</seg> dollars in money<seg
+                        type="handwritten">,</seg>
+                    <note type="government" place="foot" xml:id="n3">Here state such facts, if any
+                        there be, touching the value of the petitioner's claim to the service or
+                        labor of the person, as may enhance the same, and also such facts, if any,
+                        touching the moral, mental, and bodily infirmities or defects of said
+                        person, as impair the value of the petitioner's claim to such service or
+                        labor, and conclude such statement with an averment that the petitioner
+                        knows of no other infirmities or defects of said person which impair the
+                        value of petitioner's claim to such service or labor, and that he believes
+                        none other to exist. If the petitioner specify no such infirmity or defect,
+                        then his statement touching the value of his claim should conclude with an
+                        averment that he has no knowledge of any such infirmity or defect.</note>
+                    <seg type="handwritten">for the remainder of the term for which she was held to
+                        service. She is a valuable house servant, and your Petitioner knows of no
+                        moral, mental, or bodily infirmities to impair her value, and does not
+                        believe that any such exist.</seg>
+                </p>
+
+                <p>Your petitioner hereby declares that <seg type="handwritten">he</seg> bears true
+                    and faithful allegiance to the Government of the United States, and that <seg
+                        type="handwritten">he</seg> has not borne arms against the United States in
+                    the present rebellion, nor in any way given aid or comfort thereto.</p>
+
+                <p>And your petitioner further states and alleges, that <seg type="handwritten"
+                        >he</seg> has not brought said <seg type="handwritten">
+                        <persName>Ann Anderson</persName>
+                    </seg> into the District of Columbia since the passage of said act of Congress;
+                    and that, at the time of the passage thereof, said <seg type="handwritten">
+                        <persName>Ann Anderson</persName>
+                    </seg> was held to service or labor therein under and by virtue of your
+                    petitioner's claim to such service or labor.</p>
+
+                <p>Your petitioner further states and alleges, that <seg type="handwritten"
+                        >his</seg> said claim to the service or labor of said <seg
+                        type="handwritten">
+                        <persName>Ann Anderson</persName>
+                    </seg> does not originate in or by virtue of any transfer heretofore made by any
+                    person who has in any manner aided or sustained the present rebellion against
+                    the Government of the United States.</p>
+
+                <p>And your petitioner prays the said Commissioners to investigate and determine the
+                    validity of <seg type="handwritten">his</seg> said claim to the service or labor
+                    of said <seg type="handwritten">
+                        <persName>Ann Anderson</persName>
+                    </seg> herein above set forth; and if the same be found to be valid, that they
+                    appraise and apportion the value of said claim in money, and report the same to
+                    the Secretary of the Treasury of the United States, in conformity to the
+                    provisions of said act of Congress.</p>
+
+                <closer> (Signed by) <signed>
+                        <seg type="handwritten">
+                            <persName>Mahlon Falconer</persName>
+                        </seg>
+                    </signed>
+                    <lb/>
+                    <seg type="handwritten">
+                        <address>
+                     <addrLine>Residence No. 566 M St. <choice>
+                           <abbr>btw</abbr>
+                           <expan>between</expan>
+                        </choice>. 7 &#38; 8th. West.</addrLine>
+                  </address>
+                    </seg>
+                </closer>
+            </div1>
+
+            <pb xml:id="leaf002r" facs="cww.00839.002.jpg"/>
+            <div1 type="cover" subtype="handwritten">
+                <div2 type="section">
+                    <ab>Deed of Manumission<lb/> from<lb/>
+                        <persName>Mahlon Falconer</persName> and wife<lb/> to<lb/> Negro
+                            <persName>Ann</persName>
+                    </ab>
+                </div2>
+                <div2 type="section">
+                    <p>
+                        <choice>
+                            <abbr>Recd</abbr>
+                            <expan>Received</expan>
+                        </choice> to be recorded on the <date when="1851-06-09">9th day of June
+                            1851</date>, at 10 o'clock A. M. same day recorded in Liber E.S.N. No.
+                        2. folio 316 &#38;c one of the chattel record Books of <placeName>Howard
+                            District</placeName> of <placeName>Anne Arundel County</placeName> &#38;
+                        examined per,</p>
+                    <closer> (Signed by) <signed>
+                            <persName>W. H. Worthington</persName>
+                            <choice>
+                                <abbr>clk</abbr>
+                                <expan>clerk</expan>
+                            </choice>
+                        </signed>
+                    </closer>
+                </div2>
+                <div2 type="section">
+                    <table>
+                        <row>
+                            <cell>Stamp</cell>
+                            <cell>$1.00</cell>
+                            <cell>Paid</cell>
+                        </row>
+                        <row>
+                            <cell>Record</cell>
+                            <cell>.61</cell>
+                        </row>
+                    </table>
+                </div2>
+            </div1>
+
+            <pb xml:id="leaf003r" facs="cww.00839.004.jpg"/>
+
+            <div1 type="deed" subtype="handwritten">
+                <div2 type="section">
+                    <p>To all persons to whom it doth or may concern. Be it known that I
+                            <persName>Mahlon Falconer</persName> and <persName>Jane D.
+                            Falconer</persName> my wife of <placeName>Howard District</placeName> of
+                            <placeName>Anne Arundel County</placeName> and state of
+                            <placeName>Maryland</placeName>, for divers good causes and
+                        considerations <unclear reason="illegible" cert="high" resp="#nnk"
+                            >we</unclear> thereunto moving do hereby release from Slavery, liberate,
+                        manumit and set free from and after the day and year hereinafter mentioned,
+                        one negro girl named <persName>Ann Anderson</persName> Slave belonging to us
+                        and now in our possession after the <date when="1867-01-01">first day of
+                            January, Eighteen hundred and sixty seven</date>, freed manumitted and
+                        discharged from all manner of servitude to us our Executors or
+                        Administrators and from all manner of claim or right of claim of servitude
+                        or service by us our Executors or Administrators forever. And we do hereby
+                        declare fix and determined, that the state and condition of the issue that
+                        may be born of the said negro, <persName>Ann</persName>, on or before the
+                        first day of January Eighteen hundred and sixty seven, aforesaid shall be
+                        the of servants until such issue shall arrive to the age of Twenty Seven
+                        years and in case any such issue being females and their female descendants
+                        shall have issue during their periods of service, then and in every such
+                        case the state and condition of such issue shall be that of Servants until
+                        such issue shall arrive to the age of Twenty Seven years</p>
+                    <p>In Testimony whereof, we have hereunto set out hands and seals, this <date
+                            when="1851-06-09">ninth day of June in the year of our Lord Eighteen
+                            hundred and fifty one</date>
+                    </p>
+                    <closer>
+                        <signed>
+                            <persName>Mahlon Falconer</persName> seal</signed>
+                        <signed>
+                            <persName>Jane D Falconer</persName> seal</signed>
+                        <lb/> Signed Sealed &#38; Delivered in the presence of us&#8212; <signed>
+                            <persName>Thomas Jenkins</persName>
+                        </signed>
+                        <signed>
+                            <persName>Elisha Falconer</persName>
+                        </signed>
+                    </closer>
+                </div2>
+
+                <pb xml:id="leaf003v" facs="cww.00839.005.jpg"/>
+                <div2 type="section">
+                    <dateline>
+                        <placeName>Howard District</placeName> of <placeName>Anne Arundel
+                            County</placeName> Sct.</dateline>
+                    <p>Be it Remembered that on this <date when="1851-06-09">ninth day of June in
+                            the year of our Lord Eighteen hundred and fifty one</date> personally
+                        appeared <persName>Mahlon Falconer</persName> and <persName>Jane D.
+                            Falconer</persName> his wife parties to the within instrument of writing
+                        before me the subscriber a Justice of the Peace of the state of
+                            <placeName>Maryland</placeName> for the said District and acknowledged
+                        the same to be their Act and deed for the purposes within mentioned</p>
+                    <closer>Acknowledged before, <signed>Mr <persName>
+                                <unclear reason="illegible" cert="low" resp="#kp">Lane</unclear>
+                                Brown</persName>
+                        </signed>
+                    </closer>
+
+                </div2>
+                <div2 type="section">
+                    <p>Received on the aforegoing Deed of Manumission when presented for record one
+                        dollar in lien of stamp under the Act of <date when="1846">1846</date>, ch
+                        61.</p>
+                    <closer>
+                        <signed>
+                            <persName>W. H. Worthington </persName>
+                            <choice>
+                                <abbr>clk</abbr>
+                                <expan>clerk</expan>
+                            </choice>
+                        </signed>
+                    </closer>
+                </div2>
+            </div1>
+
+            <pb xml:id="leaf004r" facs="cww.00839.006.jpg"/>
+
+            <div1 type="oath" subtype="mixed">
+                <head type="main">[<hi rend="italic">Form of the Oath for the Verification of the
+                        Petition.</hi>]</head>
+
+                <dateline>
+                    <placeName>District of Columbia</placeName>,
+                    <lb/>
+                    <hi rend="italic"><placeName>Washington County</placeName>, ss.</hi>
+                </dateline>
+
+                <div2 type="section">
+                    <p>I, <seg type="handwritten">
+                            <persName>Mahlon Falconer</persName>
+                        </seg> being duly sworn, do depose and say, that all the several matters and
+                        things which are set forth and stated in the foregoing petition, as of my
+                        own knowledge, are true in substance and in fact; and that all the several
+                        other matters and things therein set forth and stated, as from the
+                        information of others, I believe to be true in substance and in fact.</p>
+                    <closer> (Signed by) <signed>
+                            <seg type="handwritten">
+                                <persName>Mahlon Falconer</persName>
+                            </seg>
+                        </signed>
+                    </closer>
+                </div2>
+
+                <div2 type="section">
+                    <p>Sworn to and subscribed before me this <date when="1862-06-28">
+                            <seg type="handwritten">28th</seg> day of <seg type="handwritten"
+                                >June</seg>, A. D. 1862</date>.</p>
+                    <closer> (Signed by) <signed>
+                            <seg type="handwritten">
+                                <persName>Edw. F. Brown</persName>
+                                <lb/> Notary Public.</seg>
+                        </signed>
+                    </closer>
+                </div2>
+            </div1>
+
+            <div1 type="cover" subtype="handwritten">
+                <note type="editorial">The following note, about the filing of the petition, has
+                    been imaged twice in the National Archives microfilm, but the note occurs in
+                    only one place in the petition: written horizontally on the final page, the Oath
+                    for the Verification.</note>
+                <ab>839<lb/>
+                    <persName>Maholn Falconer</persName>,<lb/>
+                    <address>
+                  <addrLine>M St. <choice>
+                        <abbr>btw</abbr>
+                        <expan>between</expan>
+                     </choice>. 6 &#38; 7th West.</addrLine>
+               </address>
+                </ab>
+                <ab>Claims 1 Slave<lb/> for nearly 5 years service.</ab>
+                <ab>Refer to<lb/>
+                    <persName>George Thompson</persName>
+                    <lb/>
+                    <address>
+                  <addrLine>570 M Street</addrLine>
+               </address>&#8212;<lb/>
+                    <persName>Elisha Falconer</persName>,<lb/>
+                    <address>
+                  <addrLine>353&#8212;7th St&#8212;<lb/>
+                        near N.Y. Avenue</addrLine>
+               </address>
+                </ab>
+
+            </div1>
+        </body>
+    </text>
+</TEI>

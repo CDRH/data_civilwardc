@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d2e31328">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="m" type="main">Campbell, A. D.</title>
+    <title level="m" type="sub">a machine readable transcription</title>
+    <principal>Susan C. Lawrence</principal>
+    <principal>Kenneth M. Price</principal>
+    <principal>Kenneth J. Winkle</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition><date>2011</date></edition>
+   </editionStmt>
+   <publicationStmt>
+       <idno>med.d2e31328</idno>
+       <authority>Civil War Washington</authority>
+       <publisher>University of Nebraska–Lincoln</publisher>
+    <distributor>
+       <name>Center for Digital Research in the Humanities</name>
+       <address><addrLine>319 Love Library</addrLine>
+       <addrLine>University of Nebraska–Lincoln</addrLine>
+       <addrLine>Lincoln, NE 68588-4100</addrLine>
+       <addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+    </distributor>
+    <date>2011</date>
+    <availability>
+        <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved. Redistribution or
+         republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright
+         law, requires express written consent from the editors and advance notification of the
+         publisher, the University of Nebraska–Lincoln.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note type="project">The following are responsible for particular readings or for changes to
+     this file, as noted: 
+ <persName xml:id="kmp">Kenneth M. Price</persName> 
+     <persName xml:id="mb">Matthew Bosley</persName>
+     <persName xml:id="hf">Heather Furrow</persName> 
+     <persName xml:id="kk">Kourtney Klein</persName>
+    </note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl>
+     <title level="j">The Medical and Surgical History of the War of the Rebellion. (1861-65.)</title>
+     <pubPlace>Washington, DC</pubPlace>
+     <publisher>Government Printing Office</publisher>
+     <biblScope type="part">Part 2</biblScope>
+     <biblScope type="volume">Volume 2</biblScope>
+     <date when="1876">1876</date>
+     <biblScope type="page">849</biblScope>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <classDecl>
+    <taxonomy xml:id="medsurg">
+       <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+      <keywords scheme="#medsurg">
+       <term>wounds and injuries of the upper extremities</term>
+       <term>wounds and injuries of the elbow joint</term> 
+       <term>shot wounds of the elbow joint</term>
+       <term>excisions at the elbow joint for shot injury</term> 
+       <term>primary excisions at the elbow</term>
+       <term>recoveries after primary excisions at the elbow</term>
+       <term>gunshot fracture of elbow joint</term> 
+       <term>resection of elbow joint</term>
+       <term>resection of elbow joint, removed parts of humerus and of radius and ulna</term>
+       <term>operation previous to admission, incision on posterior aspect of arm</term>
+       <term>ball entered outer side of joint, lodged in inner side of upper third of arm</term>
+       <term>ball remained in wound, embedded under pectoral muscle</term> 
+       <term>injured limb shortened four inches</term> 
+       <term>limited use of hand, otherwise arm useless</term>
+       <term>furnished with apparatus</term>    
+     </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+ <change who="#kmp" when="2014-05">blessed</change>
+   <change who="#kk" when="2014-01-31">added figure encoding</change>
+   <change who="#mb" when="2012-07-18">additional proofing of transcription and encoding, identified keyword terms</change>
+   <change who="#hf" when="2011-02-23">checked OCR; added minimal mark-up for personal names, place names, and dates</change>  
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>   
+   <p><hi rend="initialcap">C</hi>ASE 1784.&#8212;<name type="person" key="xxx">Lieutenant A. D. Campbell</name>, <name type="organization" key="xxx">Co. F, 45th Pennsylvania</name>, aged 23 years, was wounded at <name type="BATTLE" key="xxx">Petersburg</name>, <date type="injury" when="1864-07-30">July 30, 1864</date>, and admitted to the field hospital, 2d division, Ninth Corps. <name type="person" key="xxx">Surgeon J. Harris</name>, <name type="organization" key="xxx">7th Rhode Island</name>, recorded: &#34;Gunshot fracture of elbow joint; resection of elbow joint.&#34;  The patient was transferred to the Depot Hospital at <name type="place">City Point</name>, and thence, on <date type="transfer" when="1864-08-25">August 25th</date>, to hospital at <name type="place">Alexandria</name>.  <name type="person" key="134">Surgeon E. Bentley</name>, <name type="organization" key="132">U. S. V.</name>, reported: &#34;Resection of right elbow joint, removing about two inches of humerus and about two inches of radius and ulna. The operation was performed previous to admission, by an incision four inches in length on the posterior aspect of the arm.  Patient furloughed <date type="furlough" when="1864-10-19">October 19, 1864</date>.&#34;  <name type="person" key="xxx">Acting Assistant Surgeon J. H. Longenecker</name> reported his admission to the Officers' Hospital, <name type="place">Annapolis</name>, <date type="transfer" when="1864-11-30">November 30th</date>, and described the injury as follows: &#34;A mini&#233; ball entered outer side of joint, passed upward and lodged in the inner side of upper third of arm. The wound of resection is healed. There are several abscesses forming, and the arm is inflamed and painful. Flaxseed poultices and afterward dry dressings were applied. The patient continued to improve. He was discharged from service <date type="servicedischarge" when="1864-12-12">December 12, 1864</date>.&#34;  <name type="person" key="xxx">Examiner J. Nichols</name>, of <name type="place" key="#Washington">Washington, D. C.</name>, certified, <date type="pension" when="1864-12-13">December 13, 1864</date>: &#34;Wound yet unhealed; ball still remains in wound. Amputation may yet have to be resorted to. Arm useless; prognosis doubtful.&#34;  In <date type="pension" when="1868-12">December, 1868</date>, the pensioner was furnished with an apparatus (<hi rend="initialcap">F</hi>IG. 606) by <name type="person" key="xxx">Dr. E. D. Hudson</name>, of <name type="place">New York</name>, who described &#34;the injured limb as being shortened four inches,&#34; and stated that &#34;the missile was still embedded under the pectoral muscle.&#34;  <name type="person" key="xxx">Examiner J. T. Bundy</name>, of <name type="place">Deposit, N. Y.</name>, reported, <date type="pension" when="1873-09-04">September 4, 1873</date>: &#34;Has a limited use of hand while resting upon a fixed basis, otherwise the arm is useless and rather an encumbrance, frequently becoming inflamed from irritation by spicul&#230; of bone, which are discharged by ulceration.&#34;  This pensioner was paid on <date type="pension" when="1875-06-04">June 4, 1875</date>.</p>   
+  
+   <figure>
+    <graphic url="cww.001830.001" />
+    <head><hi rend="initialcap">F</hi>IG. 606.&#8212;Incomplete recovery after excision at the elbow.    [From a photograph.]</head>
+   </figure>
+   
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e11229">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">A&#8212;&#8212;, William</title>
+                <title level="m" type="sub">a machine readable transcription</title>
+                <principal>Susan C. Lawrence</principal>
+                <principal>Kenneth M. Price</principal>
+                <principal>Kenneth J. Winkle</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2011</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <idno>med.d1e11229</idno>
+                <authority>Civil War Washington</authority>
+                <publisher>University of Nebraska–Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+                </distributor>
+                <date>2011</date>
+                <availability>
+                    <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved.
+                        Redistribution or republication in any medium, except as allowed under the
+                        Fair Use provisions of U.S. copyright law, requires express written consent
+                        from the editors and advance notification of the publisher, the University
+                        of Nebraska–Lincoln.</p>
+                </availability>
+            </publicationStmt>
+            <notesStmt>
+                <note type="project">The following are responsible for particular readings or for
+                    changes to this file, as noted: 
+ <persName xml:id="kmp">Kenneth M. Price</persName> 
+                    <persName xml:id="ajh">AJ Howell</persName>
+                    <persName xml:id="mb">Matthew Bosley</persName>
+                    <persName xml:id="el">Elizabeth Lorang</persName>
+                    <persName xml:id="sb">Stacey Berry</persName>
+                    <persName xml:id="et">Elisabeth Tracey</persName>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>The Medical and Surgical History of the War of the Rebellion.
+                        (1861&#8211;65.)</title>
+                    <editor role="compiler">Surgeon General Joseph K. Barnes, United States
+                        Army</editor>
+                    <pubPlace>Washington, D.C.</pubPlace>
+                    <publisher>Government Printing Office</publisher>
+                    <biblScope type="part">Part 1</biblScope>
+                    <biblScope type="volume">Volume 2</biblScope>
+                    <date when="1870">1870</date>
+                    <biblScope type="page">161</biblScope>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <classDecl>
+                <taxonomy xml:id="medsurg">
+                    <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme="#medsurg">
+                    <term>on special wounds and injuries of the head</term>
+                    <term>wounds and injuries of the head</term>
+                    <term>gunshot wounds</term>
+                    <term>gunshot contusions of the cranial bones</term>
+                    <term>gunshot fractures of both tables of the skull</term>
+                    <term>gunshot fractures of both tables of the cranium without depression</term>
+                    <term>injury to bone slight, not recognized until after death</term>
+                    <term>conoidal ball struck frontal bone between eminences, lacerated muscles
+                        denuded bone of periosteum</term>
+                    <term>pus found upon dura mater beneath seat of injury, abscess extended into
+                        lateral ventricle</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+ <change who="#kmp" when="2014-05">blessed</change>
+            <change who="#ajh" when="2013-08-19">added figure encoding</change>
+            <change who="#mb" when="2013-07-02">additional proofing of transcription and encoding,
+                edited and added keyword terms</change>
+            <change who="#mb" when="2011-07-08">additional proofing of transcription and
+                encoding</change>
+            <change who="#el" when="2011-11-05">case text extracted and transformed from larger
+                file</change>
+            <change who="#sb" when="2011-02-09">enriched encoding</change>
+            <change who="#sb" when="2011-01-28">validated file</change>
+            <change who="#et" when="2009-08-01">encoded</change>
+            <change who="#sb" when="2008-09-22">initial checking of OCR text against PDF;
+                encoded</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body xml:id="ch1.sc3.0189">
+            <p><hi rend="initialcap">C</hi>ASE.&#8212;<name type="person" key="1435">Private William
+                    A&#8212;&#8212;</name>, <name type="organization" key="106">Co. F, 11th
+                    Pennsylvania Volunteers</name>, aged 29 years, was wounded at the battle of
+                    <name type="BATTLE" key="12">the Wilderness, Virginia</name>, <date
+                    type="injury" when="1864-05-07">May 7th, 1864</date>, by a conoidal ball which
+                struck the frontal bone between the eminences, lacerating the muscles for about two
+                inches and denuding the bone of periosteum for about one inch. The wound was
+                considered slight. The patient was treated for several days in a field hospital, and
+                on <date type="transfer" when="1864-05-11">May 11th</date> was sent to the <name
+                    type="hospital" key="176">Lincoln Hospital</name>, at Washington, whence on
+                    <date type="transfer" when="1864-05-18">May 18th</date>, he was transferred to
+                the <name type="hospital">Satterlee Hospital, Philadelphia</name>. Cold water
+                dressings were applied to the wound and the patient was able to be about all the
+                time. He was in good condition and appeared to do well until <date type="injury"
+                    when="1864-05-21"><choice>
+                        <orig>May 31st</orig>
+                        <reg>May 21st</reg>
+                    </choice></date>, when he became irritable, and complained of severe pain in the
+                head. The external wound still looked well. On the following day he became drowsy
+                and suffered from nausea. The pain in the head continued unabated and the pulse was
+                110, but the mind clear. Small doses of creasote and lime-water were given and he
+                was freely purged. On May 24th the nausea subsided and the pulse had risen to 120;
+                no pain in the head, and the patient was rational though dull. On <date type="death"
+                    when="1864-05-25">the 25th</date> the pulse was weak at 130, but the patient
+                seemed perfectly conscious, and his mind was clear, and he declared that he felt
+                perfectly easy, yet he died suddenly at five in the afternoon. This is the report of
+                    <name type="person" key="xx">Acting Assistant Surgeon J. K. Baldwin</name>, yet
+                his ward case book states that the patient survived until the 26th, having low
+                muttering delirium in the early part of that day. The autopsy was made <date
+                    type="autopsy" when="1864-05-27">forty hours after death</date> by <name
+                    type="person" key="xx">Acting Assistant Surgeon Charles P. Tutt</name>. He
+                reported that though the periosteum was removed the external table of the skull was
+                scarcely injured, except by a shaving of lead from the ball firmly imbedded beneath
+                the outer lamina at the inner upper margin of the wound in the periosteum. On
+                removing the calvaria a large amount of pus was found upon the dura mater of the
+                anterior lobe of the left hemisphere beneath the seat of injury. On removing the pus
+                a <choice>
+                    <orig>spiculum</orig>
+                    <reg>spicula</reg>
+                </choice> of bone from the inner table was found to perforate the dura mater and a
+                large abscess extending into the anterior horn of the left lateral ventricle was
+                found beneath. A large effusion of serum was found at the base of the brain, and a
+                yellow deposit was found on the pons Varolii and <choice>
+                    <orig>medula</orig>
+                    <reg>medulla</reg>
+                </choice> oblongata and in the fissures of the cerebellum. A similar deposition of
+                albuminous or puriform matter was also found under the arachnoid near the left
+                ventricle. The viscera of the chest and abdomen were in a normal condition. The
+                clinical history was furnished by <name type="person" key="xx">Acting Assistant
+                    Surgeon J. K. Baldwin</name>, who is also accredited with the specimen, of which
+                an external and internal view is given in the accompanying wood-cuts, (<hi
+                    rend="initialcap">F</hi>IG. 70, and <hi rend="initialcap">F</hi>IG. 71.) The
+                notes of the autopsy were furnished by <name type="person" key="xx">Acting Assistant
+                    Surgeon Tutt</name> who made it. In the external table a portion of bone
+                measuring one-fourth by one inch, a small fragment of which is depressed one line
+                and surrounded by a slight groove, indicated an incipient exfoliation. At the upper
+                inner portion of this oval groove a bit of lead is impacted. The inner table beneath
+                is fissured for one inch beneath the seat of injury.</p>
+            <figure>
+                <graphic url="cww.001384.001"/>
+                <head><hi rend="initialcap">F</hi>IG. 70.&#8212;Contusion and slight fracture of the
+                    frontal bone by a glancing musket ball. <hi rend="italic">Spec</hi>. 2744, Sect.
+                    I, A. M. M.</head>
+            </figure>
+            <figure>
+                <graphic url="cww.001385.001"/>
+                <head><hi rend="initialcap">F</hi>IG. 71.&#8212;Interior view of the foregoing
+                    specimen.</head>
+            </figure>
+        </body>
+    </text>
+</TEI>

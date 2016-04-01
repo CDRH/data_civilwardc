@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e8738">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Krall, Christian</title>
+                <title level="m" type="sub">a machine readable transcription</title>
+                <principal>Susan C. Lawrence</principal>
+                <principal>Kenneth M. Price</principal>
+                <principal>Kenneth J. Winkle</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2011</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <idno>med.d1e8738</idno>
+                <authority>Civil War Washington</authority>
+                <publisher>University of Nebraska–Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address>
+                </distributor>
+                <date>2011</date>
+                <availability>
+                    <p>Copyright © 2011 by University of Nebraska–Lincoln, all rights reserved.
+                        Redistribution or republication in any medium, except as allowed under the
+                        Fair Use provisions of U.S. copyright law, requires express written consent
+                        from the editors and advance notification of the publisher, the University
+                        of Nebraska–Lincoln.</p>
+                </availability>
+            </publicationStmt>
+            <notesStmt>
+                <note type="project">The following are responsible for particular readings or for
+                    changes to this file, as noted: 
+ <persName xml:id="kmp">Kenneth M. Price</persName> <persName xml:id="ajh">AJ Howell</persName>
+                    <persName xml:id="mb">Matthew Bosley</persName>
+                    <persName xml:id="el">Elizabeth Lorang</persName>
+                    <persName xml:id="sb">Stacey Berry</persName>
+                    <persName xml:id="et">Elisabeth Tracey</persName>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>The Medical and Surgical History of the War of the Rebellion.
+                        (1861&#8211;65.)</title>
+                    <editor role="compiler">Surgeon General Joseph K. Barnes, United States
+                        Army</editor>
+                    <pubPlace>Washington, D.C.</pubPlace>
+                    <publisher>Government Printing Office</publisher>
+                    <biblScope type="part">Part 1</biblScope>
+                    <biblScope type="volume">Volume 2</biblScope>
+                    <date when="1870">1870</date>
+                    <biblScope type="page">122</biblScope>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <classDecl>
+                <taxonomy xml:id="medsurg">
+                    <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme="#medsurg">
+                    <term>on special wounds and injuries of the head</term>
+                    <term>wounds and injuries of the head</term>
+                    <term>gunshot wounds</term>
+                    <term>gunshot contusions of the cranial bones</term>
+                    <term>contusion of the skull without fracture</term>
+                    <term>tetanus</term>
+                    <term>concussion of brain</term>
+                    <term>musket ball caused contusion of outer table of parietal bone</term>
+                    <term>concussion slight, not knocked down nor disturbed mental faculties</term>
+                    <term>bone denuded of periosteum</term>
+                    <term>burrowing pus in wound</term>
+                    <term>pus under dura mater beneath point of injury</term>
+                    <term>excessive h&#230;morrhage followed injury</term>
+                    <term>autopsy performed</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+ <change who="#kmp" when="2014-05">blessed</change>
+            <change who="#ajh" when="2013-08-16">added figure encoding</change>
+            <change who="#mb" when="2011-10-04">additional proofing of transcription and
+                encoding</change>
+            <change who="#mb" when="2011-06-22">additional proofing of transcription and
+                encoding</change>
+            <change who="#el" when="2011-05-11">case text extracted and transformed from larger
+                file</change>
+            <change who="#sb" when="2011-02-09">enriched encoding</change>
+            <change who="#sb" when="2011-01-28">validated file</change>
+            <change who="#et" when="2009-08-01">encoded</change>
+            <change who="#sb" when="2008-09-22">initial checking of OCR text against PDF;
+                encoded</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body xml:id="ch1.sc3.0127">
+            <p><name type="person" key="401"><hi rend="initialcap">K</hi>RALL, <hi rend="initialcap"
+                        >C</hi>HRISTIAN</name>, Private, <name type="organization" key="610">Co. K,
+                    130th Pennsylvania Volunteers</name>, was wounded, at the battle of <name
+                    type="BATTLE" key="4">Fredericksburg, Virginia</name>, <date type="injury"
+                    when="1862-12-13">December 13th, 1862</date>, by a musket ball which caused a
+                contusion of the outer table of the right parietal bone above and behind the
+                protuberance. The concussion was slight, not even knocking him down, or causing any
+                disturbance of his mental faculties. Excessive h&#230;morrhage followed the injury,
+                which was not arrested for five hours. He was, on <date type="admit"
+                    when="1862-12-17">December 17th</date>, admitted to the <name type="hospital"
+                    key="159">Patent Office Hospital</name>, Washington, D. C., and on <date
+                    type="transfer" when="1862-12-19">December 19th</date>, sent to the <name
+                    type="hospital">Jarvis Hospital at Baltimore</name>, Maryland. On admission, the
+                wound looked healthy, and discharged normal pus. No fracture could be detected, but
+                the bone was denuded of periosteum. On <date type="injury" when="1862-12-24"
+                    >December 24th</date>, symptoms of tetanus, confined chiefly to the muscles of
+                the neck, supervened, followed by nausea and vomiting. <date type="operation"
+                    when="1863-01-01">January 1st, 1863</date>, tetanus was general and well-marked.
+                The wound was extremely sensitive, and the scalp around it puffed, indicating a
+                burrowing of pus. The pains in the head became intolerable, and, during the
+                intervals of the spasmodic throes, he would scream and groan. A free incision of the
+                scalp was made, and the fresh wound allowed to bleed unchecked for some time.
+                Instantaneous relief followed, the pain in the head abated, and the spasms did not
+                recur the following morning. Still no fracture could be detected, but the parietal
+                bone was somewhat roughened, and was evidently exfoliating. On the following day the
+                symptoms had returned. Opium was given, and afterward, <choice>
+                    <sic>cannabis indiea</sic>
+                    <corr>cannabis indica</corr>
+                </choice> was substituted, with some benefit. Death occurred on <date type="death"
+                    when="1863-01-04">January 4th, 1863</date>. At the autopsy, a film of pus was
+                found under the dura mater, beneath the point of injury, amounting to a half drachm.
+                The dura mater was bruised and discolored; the substance of the brain was normal,
+                but a small quantity of bloody serum existed in the lateral ventricles. The
+                pathological specimens were sent to the <name type="hospital" key="431">Army Medical
+                    Museum</name>. One of them is represented in the adjacent wood cut, (<hi
+                    rend="initialcap">F</hi>IG. 36.) It consists of the vault of the cranium,
+                showing incipient caries and necrosis of the outer table of the right parietal bone.
+                The scale of bone, around which the line of demarcation has formed, is elliptical in
+                shape, measuring one inch by one and a half. The inner table presents no
+                pathological appearance. The second specimen is a wet preparation of the dura mater,
+                thickened, inflamed, and having a deposit of pus upon its inner surface. The
+                specimens and history were contributed by <name type="person" key="402">Assistant
+                    Surgeon D. C. Peters</name>, <name type="organization" key="190">U. S. A.</name>
+            </p>
+            <figure>
+                <graphic url="cww.001667.001"/>
+                <head><hi rend="initialcap">F</hi>IG. 36.&#8212;Exfoliation from the right parietal,
+                    from gunshot contusion. <hi rend="italic">Spec</hi>. 613, Sect. I, A. M.
+                    M.</head>
+            </figure>
+        </body>
+    </text>
+</TEI>

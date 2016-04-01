@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e807">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Marshall, Walter</title>
+                <title level="m" type="sub">a machine readable transcription</title>
+                <principal>Susan C. Lawrence</principal>
+                <principal>Kenneth M. Price</principal>
+                <principal>Kenneth J. Winkle</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition><date>2010</date></edition>
+            </editionStmt>
+            <publicationStmt>
+                <idno>med.d1e807</idno>
+                <authority>Civil War Washington</authority>
+                <publisher>University of Nebraska–Lincoln</publisher>
+                <distributor><name>Center for Digital Research in the
+                    Humanities</name><address><addrLine>319 Love Library</addrLine><addrLine>University of Nebraska–Lincoln</addrLine><addrLine>Lincoln, NE 68588-4100</addrLine><addrLine>cdrh@unlnotes.unl.edu</addrLine></address></distributor>
+                <date>2010</date>
+                <availability>
+                    <p>Copyright © 2010 by University of Nebraska–Lincoln, all rights reserved.
+                        Redistribution or republication in any medium, except as allowed under the
+                        Fair Use provisions of U.S. copyright law, requires express written consent
+                        from the editors and advance notification of the publisher, the University
+                        of Nebraska–Lincoln.</p>
+                </availability>
+            </publicationStmt>
+            <notesStmt>
+                <note type="project">The following are responsible for particular readings or for changes to
+                    this file, as noted: 
+                    <persName xml:id="mb">Matthew Bosley</persName>
+                    <persName xml:id="ajh">AJ Howell</persName>
+                    <persName xml:id="el">Elizabeth Lorang</persName>
+                    <persName xml:id="sb">Stacey Berry</persName>
+                    <persName xml:id="ao">Alyssa Olson</persName></note>
+            </notesStmt>
+            <sourceDesc>
+                <bibl><title level="j">The Medical and Surgical History of the War of the Rebellion.</title>
+                    <pubPlace>Washington, DC</pubPlace>
+                    <publisher>Government Printing Office</publisher>
+                    <biblScope type="part">Part 2</biblScope>
+                    <biblScope type="volume">Volume 1</biblScope>
+                    <date when="1879">1879</date>
+                    <biblScope type="page">104</biblScope></bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <classDecl>
+                <taxonomy xml:id="medsurg">
+                    <bibl>Medical and Surgical History of the War of the Rebellion</bibl>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme="#medsurg">
+                    <term>diarrh&#339;a and dysentery</term>
+                    <term>fatal cases of diarrh&#339;a and dysentery, with accounts of the morbid appearances observed</term>
+                    <term>morbid appearances observed in fatal cases</term>
+                    <term>from the Troy Hospital, New York</term>
+                    <term>diarrh&#339;a for four months</term>
+                    <term>chronic diarrh&#339;a</term>                    
+                    <term>abdomen tympanitic</term>
+                    <term>tenderness over transverse colon</term>                    
+                    <term>intussusception of ileum six inches in length</term>
+                    <term>mucous membrane of rectum thickened, indurated, and extensively ulcerated</term>
+                    <term>mesenteric glands enlarged</term>                    
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change who="#mb" when="2012-12-19">additional proofing of transcription and encoding, identified keyword terms and figures</change>
+            <change who="#ajh" when="2012-12-06">additional proofing of transcription and encoding, identified keyword terms</change>
+            <change who="#el" when="2010-11-05">case text extracted and transformed from larger file</change>
+            <change who="#sb" when="2010-05-01">Stacey Berry Enrich encoding, proof and edit</change>
+            <change who="#ao" when="2008-10-02">Alyssa Olson Encoding and editing</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p>The following case was forwarded on medical descriptive lists from the <name type="place"><hi rend="initialcap">T</hi>ROY <hi rend="initialcap">H</hi>OSPITAL, New York</name>, <name type="person" key="xxx">Surgeon George H. Hubbard</name>, <name type="organization" key="132">U. S. V.</name>, in charge:</p>                
+            <p><hi rend="initialcap">C</hi>ASE 99.&#8212;<name type="person" key="114">Private Walter Marshall</name>, <name type="organization" key="125">company K, 93d New York volunteers</name>; age 38; admitted <date type="admit" when="1864-11-18">November 18, 1864</date>.  Chronic diarrh&#339;a.  [This man was admitted to regimental hospital <date type="admit" when="1864-07-21">July 21, 1864</date>, and was returned to duty <date type="duty" when="1864-07-24">July 24th</date>.  <date type="admit" when="1864-09-03">September 3d</date> he was sent to the field hospital of the 3d Division, 2d Army Corps, suffering from diarrh&#339;a. <date type="transfer" when="1864-09-21">September 15th</date> he was transferred to the depot hospital of the same division at <name type="place">City Point, Virginia</name>, whence, <date type="transfer" when="1864-09-19">September 19th</date>, he was sent to <name type="place" key="#Washington">Washington</name>.  <date type="admit" when="1864-09-21">September 21st</date> he was admitted to <name type="hospital" key="172">Emory Hospital</name>, Washington, D. C., where he was treated for diarrh&#339;a until <date type="furlough" when="1864-11-01">November 1st</date>, when he received a furlough and went to his home. While on furlough he was taken worse, and was admitted to this hospital.]  He stated that he had suffered from diarrh&#339;a for <date type="injury" when="1864-07">four months</date>. He is not very much emaciated and debilitated; the expression of his face is anxious, there is a hectic flush on each cheek, and the eyes are suffused; pulse small and feeble; respiration 25; skin dry and harsh; tongue coated with a yellowish-white fur. There is a total loss of appetite, great thirst, and some nausea. The abdomen is slightly tympanitic, and there is some tenderness over the transverse colon, but no pain. He has ten or twelve dark, offensive dejections daily.  From the date of admission this case steadily progressed to a fatal termination. The only apparent improvement under treatment was in the number of discharges, which became less and less frequent, so that at last he had but about two dejections daily. Forty-eight hours before death a high fever came on.  He died <date type="death" when="1864-12-02">December 2d</date>.  He was treated successively with pills of blue mass, opium, and ipecacuanha; pills of persulphate of iron, opium, and quinine; aromatic sulphuric acid and laudanum, acetate of lead and opium, nitrate of silver and opium, chalk-mixture, &#38;c.; milk-punch, egg-nog, &#38;c.  <hi rend="italic">Autopsy:</hi> There was an intussusception of the ileum six inches in length. The mucous membrane of the rectum was very much thickened, indurated, and extensively ulcerated. The mesenteric glands were enlarged.&#8212;<name type="person" key="xxx">Acting Assistant Surgeon Myron J. Davis</name>.</p>
+        </body>
+    </text>
+</TEI>

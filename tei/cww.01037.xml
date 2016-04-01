@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="cww.01037">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>                
+                <title level="m" type="main">Petition of John F. Chin, 28 July 1862</title>
+                <title level="m" type="main">Evidence Relating to the Petition of John F. Chinn, 30 July 1862</title>
+                <title level="m" type="sub">a machine readable transcription</title>
+                <principal>Susan C. Lawrence</principal>
+                <principal>Kenneth M. Price</principal>
+                <principal>Kenneth J. Winkle</principal>
+                <respStmt>
+                    <resp>transcription and encoding</resp>
+                    <name xml:id="jc">Janel Cayer</name>
+                    <name xml:id="el">Elizabeth Lorang</name>
+                <name xml:id="kjw">Kenneth J. Winkle</name>
+</respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2012</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <idno>cww.01037</idno>
+                <distributor>Civil War Washington</distributor>
+                <publisher>University of Nebraska–Lincoln</publisher>
+                <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>P.O. Box 884100</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+            </address>
+                <date>2012</date>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+                        <p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License (http://creativecommons.org/licenses/by-nc-sa/3.0/). Derivatives must be credited to Civil War Washington, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl xml:id="rg21">
+                    <title>Petition of John F. Chin, 28 July 1862</title>                    
+                    <date when="1862-07-28">July 28, 1862</date>
+                    <idno>Microcopy 433, Reel 3</idno>                
+                    <orgName>National Archives and Records Administration</orgName>
+                    <relatedItem type="original">
+                        <bibl>
+                            <title>Petition of John F. Chin, 28 July 1862</title>
+                            <date when="1862-07-28">July 28, 1862</date>
+                            <idno type="rg">Record Group 21</idno>
+                            <orgName>Records of the District Courts of the United States, 1685&#8211;2004, National Archives and Records Administration</orgName>
+                            <orgName>Emancipation Records, compiled 1862&#8211;1863</orgName>
+                            <note type="project">Within the National Archives' Archival Description Catalog, see ARC Identifier 4314547 / MLR Number NC-2 33 (http://arcweb.archives.gov).</note>
+                        </bibl>
+                    </relatedItem>
+                    <note type="project">Our transcription is based on a digital image of a microfilm copy of the original.</note>
+                </bibl>
+                
+                <bibl xml:id="rg217">
+                    <title>Evidence Relating to the Petition of John F. Chinn, 30 July 1862</title>
+                    <date when="1862-07-30">July 30, 1862</date>
+                    <idno>Microcopy 520, Reel 6</idno>
+                    <orgName>National Archives and Records Administration</orgName>
+                    <relatedItem type="original">
+                        <bibl>
+                            <title>Evidence Relating to the Petition of John F. Chinn, 30 July 1862</title>
+                            <date when="1862-07-30">July 30, 1862</date>
+                            <idno type="rg">Record Group 217.6.5</idno>
+                            <orgName>Records of the Accounting Officers of the Department of the Treasury, 1775&#8211;1978, National Archives and Records Administration</orgName>
+                            <note type="project">Within the National Archives' Archival Description Catalog, see ARC Identifier 4644616 / MLR Number A1 347 (http://arcweb.archives.gov).</note>
+                        </bibl>
+                    </relatedItem>
+                    <note type="project">Our transcription is based on a digital image of a microfilm copy of the original.</note>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <particDesc>
+                <person role="owner">
+                    <persName>Frances B. Gibson</persName>
+                </person>
+                <person role="petitioner-slave">
+                    <persName>John F. Chin</persName>
+                </person>                
+            </particDesc>
+        </profileDesc>
+        <revisionDesc>
+<change when="2013-07-10" who="#jc">blessed</change>
+<change when="2013-07-08" who="#kjw">blessed</change>
+            <change when="2013-07-03" who="#el">checked</change>
+            <change when="2012-07-13" who="#jc">transcribed and encoded</change>
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            <!-- Begins with the text of the petition. -->
+            
+            <pb xml:id="leaf001r" facs="cww.01037.001.jpg"/>
+            
+            <div1 type="petition" subtype="mixed" corresp="#rg21">
+
+                <div2 type="document">
+                    <opener>
+                        <salute>To <persName>John A. Smith</persName> <choice><abbr>Esq.</abbr><expan>Esquire</expan></choice>, Clerk of the Circuit Court of the <placeName>District of Columbia</placeName>.</salute>
+                        <salute>Sir:</salute>
+                    </opener>
+                    
+                    <p><seg type="handwritten"><persName>Frances B. Gibson</persName></seg> of <seg type="handwritten"><placeName>Prince Williams County</placeName></seg> having claim to the service or labor of the undersigned, and having refused or neglected to file in your office the statement in writing or schedule provided for in the 9th section of the Act of Congress, entitled "An act for the release of certain persons held to service or labor in said <placeName>District</placeName>," approved <date when="1862-04-16">April 16, 1862</date>, you will please file this petition or schedule in lieu thereof, in pursuance of the provisions of an act supplementary to said act which said last mentioned act was approved <date when="1862-07-12">July 12, 1862</date>. This petitioner further state that the undersigned <seg type="handwritten">has</seg> resided in said <placeName>District</placeName> since the <seg type="handwritten"><date when="1862-04-16">16th</date></seg> and ha<seg type="handwritten">s</seg> resided therein since the <date when="1862-05-12"><seg type="handwritten">12</seg> day of <seg type="handwritten">May</seg> 1862</date>, by and with the consent of <seg type="handwritten">him the</seg> said <seg type="handwritten"><persName>Frances B Gibson</persName></seg>.</p>
+                    
+                    <ab>Name, <seg type="handwritten"><persName>John F. Chin</persName></seg> Age, <seg type="handwritten">40</seg> Sex, <seg type="handwritten">Male</seg> Remarks, <seg type="handwritten">Dark Mulatto.</seg></ab>
+                    
+                    
+                    <closer>
+                        <signed><seg type="handwritten">his X mark <persName>John F Chin</persName></seg></signed><lb/>
+                        <seg type="handwritten">In presence of</seg>
+                        <signed><seg type="handwritten"><persName>George E H Day</persName></seg></signed>
+                    </closer>
+                </div2>                        
+                                        
+                <pb xml:id="leaf001v" facs="cww.01037.002.jpg"/>
+                
+                <div2 type="cover" subtype="handwritten">
+                    <div3 type="section">
+                        <ab>paid</ab>
+                        <ab><persName>John F Chin</persName></ab>
+                        <ab>Petition filed <date when="1862-07-26">July 26, 1862</date></ab>
+                    </div3>
+                    <div3 type="section">
+                        <ab>Recorded in Manumission Record No. 2 folios 92 &#38; 93.</ab>
+                    </div3>
+                    <div3 type="section">
+                        <ab>Filed <date when="1862-07-28">28th July 1862</date>.</ab>
+                    </div3>
+                                       
+                    <div3 type="section">                        
+                        <p>The Commissioners, satisfied on the testimony of <persName>Judge Purcell</persName>, of the truth of the within statement, order the same to be so reported to the Clerk of the Circuit Court of the <placeName>Dist. of Columbia</placeName>. Hon. <persName>M. Mullvey</persName> of <placeName>Ky.</placeName> may be referred to.</p>
+                        <closer>
+                            <signed><persName>Wm R. Woodward</persName><lb/>
+                                Clerk <choice><abbr>Emn</abbr><expan>Emancipation</expan></choice> <choice><abbr>Comn</abbr><expan>Commissioners</expan></choice></signed>
+                            
+                        </closer>
+                    </div3> 
+                    <div3 type="section"><ab><date when="1862-07-30">30th July 1862</date>.</ab></div3>
+                    <div3 type="section">
+                        <ab><choice><abbr>Cert</abbr><expan>Certificate</expan></choice> given to <persName>Jno F Chin</persName> <choice><abbr>Idfd</abbr><expan>Identified</expan></choice> by <persName>Day</persName>,</ab>
+                    </div3>
+                </div2>
+            </div1>
+            
+            <!-- Evidence pertaining to the case begins here. -->
+            
+            <pb xml:id="leaf002r" facs="cww.01037.003.jpg"/>
+            <div1 type="evidence" corresp="#rg217" subtype="handwritten">
+                <dateline><date when="1862-07-30">July 30</date>.</dateline>
+                
+                <div2 type="procedural">
+                    <ab><persName>John F Chinn</persName></ab>
+                    <ab><choice><abbr>servt</abbr><expan>servant</expan></choice> of <persName>Frances B. Gibson</persName></ab>
+                </div2>
+                
+                <div2 type="testimony">
+                    <p>Judge <persName>Wm F Purcell</persName>. Know servant. Knew him in <placeName>Prince William Co V.</placeName> Belonged to what was called <persName>Chinn</persName> family of servants He belonged to Col <persName>John B. Gibson</persName>.</p>
+                    <ab><persName>Col Gibson's</persName> will gave the servants which were his wifes to his wife &#38; rest to wife for life &#38; afterwards to hers</ab>
+                    <p>Have seen servant here frequently in this city Interior Dept during last year. Servant was here sometime before the <unclear reason="illegible" cert="low" resp="#jc">country troubles broke out</unclear>. <persName>Mrs Gibson</persName> lived at <placeName>Fleetwood</placeName> 3 miles from <placeName>Brentsville Prince Wm Co.</placeName> 8 miles from <placeName>Manasses</placeName></p>
+                </div2>
+                
+                <div2 type="procedural">
+                    <ab><choice><abbr>Cert</abbr><expan>Certificate</expan></choice> ordered</ab>
+                </div2>                                
+                
+                <pb xml:id="leaf002v" facs="cww.01037.004.jpg"/>
+                
+                <div2 type="cover">
+                    <ab><persName>John F. Chinn</persName></ab>
+                    <ab><date when="1862-07-30">July 30</date>.</ab>
+                    <ab><date when="1862-07-30">July 30</date>.</ab>
+                </div2>
+                
+            </div1>            
+        </body>
+    </text>
+</TEI>
+                
+                
+                
+                
+                
+
