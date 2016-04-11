@@ -51,8 +51,8 @@
                             <title>Petition of John Jackson, 19 July 1862</title>                          
                             <date when="1862-07-19">July 19, 1862</date>
                             <idno type="rg">Record Group 21</idno>
-                            <orgName>Records of the District Courts of the United States, 1685&#8211;2004, National Archives and Records Administration</orgName>
-                            <orgName>Emancipation Records, compiled 1862&#8211;1863</orgName>
+                            <orgName>Records of the District Courts of the United States, 1685–2004, National Archives and Records Administration</orgName>
+                            <orgName>Emancipation Records, compiled 1862–1863</orgName>
                             <note type="project">Within the National Archives' Archival Description Catalog, see ARC Identifier 4314547 / MLR Number NC-2 33 (http://arcweb.archives.gov).</note>
                         </bibl>
                     </relatedItem>
@@ -69,7 +69,7 @@
                             <title>Evidence Relating to the Petition of John Jackson, 19 July 1862</title>                           
                             <date when="1862-07-19">July 19, 1862</date>
                             <idno type="rg">Record Group 217.6.5</idno>
-                            <orgName>Records of the Accounting Officers of the Department of the Treasury, 1775&#8211;1978, National Archives and Records Administration</orgName>
+                            <orgName>Records of the Accounting Officers of the Department of the Treasury, 1775–1978, National Archives and Records Administration</orgName>
                             <note type="project">Within the National Archives' Archival Description Catalog, see ARC Identifier 4644616 / MLR Number A1 347 (http://arcweb.archives.gov).</note>
                         </bibl>
                     </relatedItem>
@@ -95,7 +95,7 @@
         </revisionDesc>
     </teiHeader>
     
-    <text>
+    <text type="petition">
         <body>
             
             <!-- Begins with the text of the petition. -->
@@ -123,7 +123,7 @@
                     </closer>                    
                 </div2>
                 <div2 type="section">
-                    <ab>Age about 48 Years&#8212;color black name <persName>John Jackson</persName></ab>
+                    <ab>Age about 48 Years—color black name <persName>John Jackson</persName></ab>
                 </div2>
                 
                 <pb xml:id="leaf001v" facs="cww.01065.002.jpg"/>
@@ -133,11 +133,11 @@
                         <ab>paid</ab>
                         <ab><persName>John Jackson</persName></ab>
                         <ab>Filed <date when="1862-07-19">19th July 1862</date></ab>
-                        <ab>Recorded in Manumission Record No. 2 folio 62&#8212;</ab>
+                        <ab>Recorded in Manumission Record No. 2 folio 62—</ab>
                     </div3>
                     
                     <div3 type="section">
-                        <ab><choice><abbr>Cert.</abbr><expan>Certificate</expan></choice> given&#8212;<choice><abbr>Idf'd</abbr><expan>Identified</expan></choice> by <persName>Jno. H. Johnson</persName> <date when="1862-07-19">19th July 1862</date>.</ab>
+                        <ab><choice><abbr>Cert.</abbr><expan>Certificate</expan></choice> given—<choice><abbr>Idf'd</abbr><expan>Identified</expan></choice> by <persName>Jno. H. Johnson</persName> <date when="1862-07-19">19th July 1862</date>.</ab>
                     </div3>                
                                         
                     <div3 type="section">
@@ -165,11 +165,11 @@
                 <div2 type="testimony">
                     <ab><date when="1862-07-19">July 19</date>.</ab>
                     <ab><persName>Henry Gibson</persName>. We have been hiring <persName>John Jackson</persName> from <persName>Henry Chatham</persName> of <placeName>Alexandria</placeName> for three years &amp; paid <unclear reason="illegible" cert="low" resp="#km">him</unclear> wages. servant was here <date when="1862-04-16">16 Apl 1862</date></ab>
-                    <ab>We hired him on farm in <placeName>Alx Co.</placeName> when war broke out and we were afraid soldiers would get him we brought servant with us to <placeName>Wash</placeName>. Master knew it&#8212;</ab>
+                    <ab>We hired him on farm in <placeName>Alx Co.</placeName> when war broke out and we were afraid soldiers would get him we brought servant with us to <placeName>Wash</placeName>. Master knew it—</ab>
                 </div2>
                 
                 <div2 type="testimony">
-                    <ab><persName>John H. Johnson</persName>&#8212;know by reputation that servant belongs to <persName>Hy Cheatham</persName>&#8212;I am frequently at Gibsons restaurant where servant lives&#8212;<unclear reason="illegible" cert="low" resp="#km">and</unclear> <unclear reason="illegible" cert="low" resp="#jc">heard</unclear> that servant was <persName>Cheatham</persName>'s</ab>                                     
+                    <ab><persName>John H. Johnson</persName>—know by reputation that servant belongs to <persName>Hy Cheatham</persName>—I am frequently at Gibsons restaurant where servant lives—<unclear reason="illegible" cert="low" resp="#km">and</unclear> <unclear reason="illegible" cert="low" resp="#jc">heard</unclear> that servant was <persName>Cheatham</persName>'s</ab>                                     
                     <ab>Have seen <persName>Cheatham</persName> <gap reason="illegible" extent="about two words" unit="chars" quantity="7"/> frequently saw him yesterday</ab>
                 </div2>
                 
@@ -185,9 +185,3 @@
         </body>
     </text>
 </TEI>
-                
-                
-                
-                
-                
-

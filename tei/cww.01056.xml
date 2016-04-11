@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng" type="xml"?>
-
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="cww.01056">
     <teiHeader>
         <fileDesc>
@@ -52,8 +51,8 @@
                             <title level="m" type="main">Petition of Mary Thomas and Mary Catharine Thomas, 26 July 1862</title>                    
                             <date when="1862-06-26">July 26, 1862</date>
                             <idno type="rg">Record Group 21</idno>
-                            <orgName>Records of the District Courts of the United States, 1685&#8211;2004, National Archives and Records Administration</orgName>
-                            <orgName>Emancipation Records, compiled 1862&#8211;1863</orgName>
+                            <orgName>Records of the District Courts of the United States, 1685–2004, National Archives and Records Administration</orgName>
+                            <orgName>Emancipation Records, compiled 1862–1863</orgName>
                             <note type="project">Within the National Archives' Archival Description Catalog, see ARC Identifier 4314547 / MLR Number NC-2 33 (http://arcweb.archives.gov).</note>
                         </bibl>
                     </relatedItem>
@@ -70,7 +69,7 @@
                             <title>Evidence Relating to the Petition Mary Thomas and Mary Catharine Thomas, 26 July 1862</title>
                             <date when="1862-07-26">July 26, 1862</date>
                             <idno type="rg">Record Group 217.6.5</idno>
-                            <orgName>Records of the Accounting Officers of the Department of the Treasury, 1775&#8211;1978, National Archives and Records Administration</orgName>
+                            <orgName>Records of the Accounting Officers of the Department of the Treasury, 1775–1978, National Archives and Records Administration</orgName>
                             <note type="project">Within the National Archives' Archival Description Catalog, see ARC Identifier 4644616 / MLR Number A1 347 (http://arcweb.archives.gov).</note>
                         </bibl>
                     </relatedItem>
@@ -99,7 +98,7 @@
         </revisionDesc>
     </teiHeader>
     
-    <text>
+    <text type="petition">
         <body>
             
             <!-- Begins with the text of the petition. -->
@@ -114,13 +113,13 @@
                         <salute>Sir</salute>
                     </opener>
                     
-                    <p>Mr <persName>John F. Boone</persName> having claim to the labor or service of <persName><hi rend="underline">Mary Thomas</hi></persName> aged 45 years &#38; her daughter <persName><hi rend="underline">Mary Catharine</hi> Thomas</persName> and having neglected to file his schedule as provided by the act of Congress concerning Emancipation approved <date when="1862-04-16">April 16, 1862</date>, this Petitioner files her Petition for herself &#38; daughter <persName>Mary Catharine Thomas</persName> in lieu thereof according to the provisions of an act of Congress amendatory thereto approved <date when="1862-07-12">July 12 1862</date>. Petitioner shows that she &#38; her child had resided in this <placeName>District</placeName> ever since she was a child &#38; was in said <placeName>District</placeName> &#38; has remained till the present time by the consent of her owner said <persName>Boone</persName>
+                    <p>Mr <persName>John F. Boone</persName> having claim to the labor or service of <persName><hi rend="underline">Mary Thomas</hi></persName> aged 45 years &amp; her daughter <persName><hi rend="underline">Mary Catharine</hi> Thomas</persName> and having neglected to file his schedule as provided by the act of Congress concerning Emancipation approved <date when="1862-04-16">April 16, 1862</date>, this Petitioner files her Petition for herself &amp; daughter <persName>Mary Catharine Thomas</persName> in lieu thereof according to the provisions of an act of Congress amendatory thereto approved <date when="1862-07-12">July 12 1862</date>. Petitioner shows that she &amp; her child had resided in this <placeName>District</placeName> ever since she was a child &amp; was in said <placeName>District</placeName> &amp; has remained till the present time by the consent of her owner said <persName>Boone</persName>
                     <table>
                         <row>
-                            <cell></cell>
+                            <cell/>
                             <cell>Age</cell>
                             <cell>Color</cell>
-                            <cell></cell>
+                            <cell/>
                         </row>
                         <row>
                             <cell><persName>Mary Thomas</persName></cell>
@@ -130,7 +129,7 @@
                         </row>
                         <row>
                             <cell><persName>Mary Catharine</persName></cell>
-                            <cell>4 &#189;</cell>
+                            <cell>4 ½</cell>
                             <cell>dark <choice><abbr>do</abbr><expan>ditto</expan></choice></cell>
                             <cell>3 feet high</cell>
                         </row>
@@ -206,9 +205,3 @@
         </body>
     </text>
 </TEI>
-                
-                
-                
-                
-                
-

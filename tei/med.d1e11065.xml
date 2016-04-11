@@ -34,8 +34,7 @@
                                 </availability>
                         </publicationStmt>
                         <notesStmt>
-                                <note type="project">The following are responsible for particular readings or for changes to this file, as noted: <persName
-                                                xml:id="mb">Matthew Bosley</persName>
+                                <note type="project">The following are responsible for particular readings or for changes to this file, as noted: <persName xml:id="mb">Matthew Bosley</persName>
                                         <persName xml:id="el">Elizabeth Lorang</persName>
                                         <persName xml:id="sb">Stacey Berry</persName>
                                         <persName xml:id="et">Elisabeth Tracey</persName>
@@ -69,7 +68,7 @@
                                         <term>post-mortem records</term> 
                                         <term>lobar pneumonias</term>
                                         <term>cases with erysipelas</term>                                       
-                                        <term>erysipelas of face and dyspn&#339;a</term> 
+                                        <term>erysipelas of face and dyspnœa</term> 
                                         <term>physical signs of pleuro-pneumonia</term>
                                         <term>pleuritic effusion in chest</term>
                                         <term>lower lobe of lung hepatized throughout</term>
@@ -85,23 +84,19 @@
                         <change who="#et" when="2009-12-01">Initial Checking OCR Text to PDF file,</change>
                 </revisionDesc>
         </teiHeader>
-        <text>
+        <text type="case">
                 <body>
-                        <p><hi rend="initialcap">C</hi>ASE 106.&#8212;<name type="person">Private Daniel Bancroft</name>, <name type="organization">Co. G, 28th Mich.</name>; age 38; admitted <date
-                                        type="admit" when="1865-01-28">Jan. 28, 1865</date>. Pain in
+                        <p><hi rend="initialcap">C</hi>ASE 106.—<name type="person">Private Daniel Bancroft</name>, <name type="organization">Co. G, 28th Mich.</name>; age 38; admitted <date type="admit" when="1865-01-28">Jan. 28, 1865</date>. Pain in
                                 chest anteriorly; much cough; <choice><orig>sputa</orig><reg>sputum</reg></choice> white, tenacious, abundant;
                                 pulse frequent, not hard; much fever at night, with remission in
-                                morning.  31st: Pain in left side; dyspn&#339;a; dry cough; hot
+                                morning.  31st: Pain in left side; dyspnœa; dry cough; hot
                                 skin; frequent pulse; physical signs of pleuro-pneumonia.  February
                                 3: Pleuritic effusion in left chest, extending to fifth rib in front
-                                while sitting.  8th: Erysipelas of face; much dyspn&#339;a;
-                                effusion unaltered; delirium.  12th: Failing; left pleura filling up.  <date type="death" when="1865-02-14">14th</date>: Died.   <hi
-                                        rend="italic">Post-mortem</hi> examination: Left lower lobe
+                                while sitting.  8th: Erysipelas of face; much dyspnœa;
+                                effusion unaltered; delirium.  12th: Failing; left pleura filling up.  <date type="death" when="1865-02-14">14th</date>: Died.   <hi rend="italic">Post-mortem</hi> examination: Left lower lobe
                                 hepatized throughout; a pint of serum and lymph in the pleural
                                 cavity and both pleural surfaces covered with coagulable
-                                        lymph.&#8212;<hi rend="italic"><name type="hospital"
-                                                key="189">Third Division Hospital</name>, <name
-                                                type="place">Alexandria, Va.</name></hi></p>
+                                        lymph.—<hi rend="italic"><name type="hospital" key="189">Third Division Hospital</name>, <name type="place">Alexandria, Va.</name></hi></p>
                 </body>
         </text>
 </TEI>

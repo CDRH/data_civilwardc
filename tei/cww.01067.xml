@@ -51,8 +51,8 @@
                             <title>Petition of Dennis Thomas, 22 July 1862</title>                            
                             <date when="1862-07-22">July 22, 1862</date>
                             <idno type="rg">Record Group 21</idno>
-                            <orgName>Records of the District Courts of the United States, 1685&#8211;2004, National Archives and Records Administration</orgName>
-                            <orgName>Emancipation Records, compiled 1862&#8211;1863</orgName>
+                            <orgName>Records of the District Courts of the United States, 1685–2004, National Archives and Records Administration</orgName>
+                            <orgName>Emancipation Records, compiled 1862–1863</orgName>
                             <note type="project">Within the National Archives' Archival Description Catalog, see ARC Identifier 4314547 / MLR Number NC-2 33 (http://arcweb.archives.gov).</note>
                         </bibl>
                     </relatedItem>
@@ -69,7 +69,7 @@
                             <title>Evidence Relating to the Petition of Dennis Thomas, 22 July 1862</title>                            
                             <date when="1862-07-22">July 22, 1862</date>
                             <idno type="rg">Record Group 217.6.5</idno>
-                            <orgName>Records of the Accounting Officers of the Department of the Treasury, 1775&#8211;1978, National Archives and Records Administration</orgName>
+                            <orgName>Records of the Accounting Officers of the Department of the Treasury, 1775–1978, National Archives and Records Administration</orgName>
                             <note type="project">Within the National Archives' Archival Description Catalog, see ARC Identifier 4644616 / MLR Number A1 347 (http://arcweb.archives.gov).</note>
                         </bibl>
                     </relatedItem>
@@ -95,14 +95,14 @@
         </revisionDesc>
     </teiHeader>
     
-    <text>
+    <text type="petition">
         <body>
             
             <!-- Begins with the text of the petition. -->
             <pb xml:id="leaf001r" facs="cww.01067.001.jpg"/>            
             
             <div1 type="petition" subtype="mixed" corresp="#rg21">                
-                <fw>[Sold by W. H. &#38; O. H. Morrison, Booksellers.</fw>                
+                <fw>[Sold by W. H. &amp; O. H. Morrison, Booksellers.</fw>                
                 <div2 type="document" subtype="mixed">
                    
                     <opener>
@@ -122,11 +122,11 @@
                             <cell><persName>Dennis Thomas</persName></cell>
                             <cell>30</cell>
                             <cell>Male</cell>
-                            <cell>Dark Copper Color or black about five feet &amp; 5 &amp; &#189; inches in <choice><sic>hight</sic><corr>height</corr></choice> Formerly &amp; until the <date when="1862-04-16">16th of April</date> held to service or labor by Mrs <persName><unclear reason="illegible" cert="low" resp="#km">Franilla</unclear> Turner</persName></cell>
+                            <cell>Dark Copper Color or black about five feet &amp; 5 &amp; ½ inches in <choice><sic>hight</sic><corr>height</corr></choice> Formerly &amp; until the <date when="1862-04-16">16th of April</date> held to service or labor by Mrs <persName><unclear reason="illegible" cert="low" resp="#km">Franilla</unclear> Turner</persName></cell>
                         </row>
                     </table>
                     
-                    <p>The persons mentioned in the foregoing schedule <del>were</del> <seg type="handwritten">was</seg>, by reason of African descent and acquired title, <seg type="handwritten">the</seg> property, <del>and by</del> <seg type="handwritten">of &amp;</seg> held to service and labor in the <placeName>District of Columbia</placeName> <seg type="handwritten">by Mrs <persName>F Turner</persName></seg> at the time the act of Congress above cited was approved, the benefit of which is hereby claimed. <seg type="handwritten">by the deponent or Petitioner who has resided in the said <placeName>District of Columbia</placeName> during the last ten years &amp; more &amp; still resides therein&#8212;that during the time aforesaid he has been employed by <persName>John A. Smith</persName> <choice><abbr>Esq.</abbr><expan>Esquire</expan></choice> above named upon his farm&#8212;that this applicant was held to service or labor by Mrs <persName><unclear reason="illegible" cert="low" resp="#km">Franilla</unclear> Turner</persName> who neglected to file her schedule as provided in said act &amp; the undersigned files this schedule in lieu thereof under said act &amp; in accordance with an act amendatory thereto approved <date when="1862-07-12">July 12, 1862</date></seg></p>
+                    <p>The persons mentioned in the foregoing schedule <del>were</del> <seg type="handwritten">was</seg>, by reason of African descent and acquired title, <seg type="handwritten">the</seg> property, <del>and by</del> <seg type="handwritten">of &amp;</seg> held to service and labor in the <placeName>District of Columbia</placeName> <seg type="handwritten">by Mrs <persName>F Turner</persName></seg> at the time the act of Congress above cited was approved, the benefit of which is hereby claimed. <seg type="handwritten">by the deponent or Petitioner who has resided in the said <placeName>District of Columbia</placeName> during the last ten years &amp; more &amp; still resides therein—that during the time aforesaid he has been employed by <persName>John A. Smith</persName> <choice><abbr>Esq.</abbr><expan>Esquire</expan></choice> above named upon his farm—that this applicant was held to service or labor by Mrs <persName><unclear reason="illegible" cert="low" resp="#km">Franilla</unclear> Turner</persName> who neglected to file her schedule as provided in said act &amp; the undersigned files this schedule in lieu thereof under said act &amp; in accordance with an act amendatory thereto approved <date when="1862-07-12">July 12, 1862</date></seg></p>
                     
                     <closer rend="handwritten">
                         <signed>his X mark <persName>Dennis Thomas</persName></signed>
@@ -191,9 +191,3 @@
         </body>
     </text>
 </TEI>
-                
-                
-                
-                
-                
-

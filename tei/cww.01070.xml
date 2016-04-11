@@ -51,8 +51,8 @@
                             <title>Petition of Harriet Neal 19 July 1862</title>                            
                             <date when="1862-07-19">July 19, 1862</date>
                             <idno type="rg">Record Group 21</idno>
-                            <orgName>Records of the District Courts of the United States, 1685&#8211;2004, National Archives and Records Administration</orgName>
-                            <orgName>Emancipation Records, compiled 1862&#8211;1863</orgName>
+                            <orgName>Records of the District Courts of the United States, 1685–2004, National Archives and Records Administration</orgName>
+                            <orgName>Emancipation Records, compiled 1862–1863</orgName>
                             <note type="project">Within the National Archives' Archival Description Catalog, see ARC Identifier 4314547 / MLR Number NC-2 33 (http://arcweb.archives.gov).</note>
                         </bibl>
                     </relatedItem>
@@ -69,7 +69,7 @@
                             <title>Evidence Relating to the Petition of Harriet Neale, 19 July 1862</title>                          
                             <date when="1862-07-22">July 22, 1862</date>
                             <idno type="rg">Record Group 217.6.5</idno>
-                            <orgName>Records of the Accounting Officers of the Department of the Treasury, 1775&#8211;1978, National Archives and Records Administration</orgName>
+                            <orgName>Records of the Accounting Officers of the Department of the Treasury, 1775–1978, National Archives and Records Administration</orgName>
                             <note type="project">Within the National Archives' Archival Description Catalog, see ARC Identifier 4644616 / MLR Number A1 347 (http://arcweb.archives.gov).</note>
                         </bibl>
                     </relatedItem>
@@ -95,7 +95,7 @@
         </revisionDesc>
     </teiHeader>
     
-    <text>
+    <text type="petition">
         <body>
             
             <!-- Begins with the text of the petition. -->
@@ -105,7 +105,7 @@
             <div1 type="petition" subtype="mixed" corresp="#rg21">                
                                 
                 <div2 type="document" subtype="mixed">
-                    <fw>[Sold by W. H. &#38; O. H. Morrison, Booksellers.</fw>
+                    <fw>[Sold by W. H. &amp; O. H. Morrison, Booksellers.</fw>
                     <opener>
                         <salute>To <persName>John A. Smith</persName> <choice><abbr>Esq.</abbr><expan>Esquire</expan></choice>, <hi rend="italic">Clerk of the Circuit Court of the <placeName>District of Columbia</placeName></hi>.</salute>
                         <salute>Sir:</salute>
@@ -123,11 +123,11 @@
                             <cell>Harriet Neal</cell>
                             <cell>30</cell>
                             <cell>female</cell>
-                            <cell>Dark olive about four feet &#38; 10 inches high</cell>
+                            <cell>Dark olive about four feet &amp; 10 inches high</cell>
                         </row>
                     </table>
                     
-                    <p>The persons mentioned in the foregoing schedule w<del>ere</del><seg type="handwritten">as</seg> by reason of African descent and acquired title, <seg type="handwritten">the</seg> property, <del>and by</del> <seg type="handwritten">&#38;</seg> held to service and labor in the <placeName>District of Columbia</placeName> at the time the act of Congress above cited was approved, the benefit of which is hereby claimed <seg type="handwritten">by <persName>Lewis Henry Phillips</persName>. Deponent has resided within the <placeName>District of Columbia</placeName> during fourteen years last past &#38; still resides in said <placeName>District</placeName>. She further says she makes this application for herself &#38; in her own name under the act amendatory to the act of <date when="1862-04-16">16th April 1862</date> approved <date when="1862-07-12">July 12, 1862</date> because her master said Phillips omitted to file his schedule or petition before the commission, as provided in said act</seg></p>                    
+                    <p>The persons mentioned in the foregoing schedule w<del>ere</del><seg type="handwritten">as</seg> by reason of African descent and acquired title, <seg type="handwritten">the</seg> property, <del>and by</del> <seg type="handwritten">&amp;</seg> held to service and labor in the <placeName>District of Columbia</placeName> at the time the act of Congress above cited was approved, the benefit of which is hereby claimed <seg type="handwritten">by <persName>Lewis Henry Phillips</persName>. Deponent has resided within the <placeName>District of Columbia</placeName> during fourteen years last past &amp; still resides in said <placeName>District</placeName>. She further says she makes this application for herself &amp; in her own name under the act amendatory to the act of <date when="1862-04-16">16th April 1862</date> approved <date when="1862-07-12">July 12, 1862</date> because her master said Phillips omitted to file his schedule or petition before the commission, as provided in said act</seg></p>                    
                     <closer>
                         <signed>her X mark <persName>Harriet Neal</persName></signed>
                         <signed>In presence of<lb/>
@@ -174,7 +174,7 @@
                 </div2>
                 
                 <div2 type="testimony">
-                    <ab><persName>Sam Philips</persName> I know petitioner she has been in service of Mr <persName>S. H Philips</persName> a <unclear reason="illegible" cert="high" resp="#km">cousin</unclear> of mine&#8212;for more than a year with masters consent</ab>
+                    <ab><persName>Sam Philips</persName> I know petitioner she has been in service of Mr <persName>S. H Philips</persName> a <unclear reason="illegible" cert="high" resp="#km">cousin</unclear> of mine—for more than a year with masters consent</ab>
                 </div2>
                 
                 <div2 type="procedural">
@@ -190,9 +190,3 @@
         </body>
     </text>
 </TEI>
-                
-                
-                
-                
-                
-

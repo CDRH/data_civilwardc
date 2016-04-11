@@ -28,9 +28,7 @@
           <xsl:text>texts</xsl:text>
         </field>
         <field name="subtype">
-          <!-- Get the filename -->
-          <xsl:variable name="filename" select="tokenize(base-uri(.), '/')[last()-1]"/>
-          <xsl:value-of select="$filename"/>
+          <xsl:value-of select="concat(//text/@type, 's')"/>
         </field>
         <xsl:variable name="title">
           <xsl:choose>

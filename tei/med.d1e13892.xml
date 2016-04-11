@@ -41,7 +41,7 @@
             </notesStmt>
             <sourceDesc>
                 <bibl>
-                    <title>The Medical and Surgical History of the War of the Rebellion. (1861&#8211;65.)</title>
+                    <title>The Medical and Surgical History of the War of the Rebellion. (1861–65.)</title>
                     <editor role="compiler">Surgeon General Joseph K. Barnes, United States Army</editor>
                     <pubPlace>Washington, D.C.</pubPlace>
                     <publisher>Government Printing Office</publisher>
@@ -82,9 +82,9 @@
             <change who="#sb" when="2008-09-22">initial checking of OCR text against PDF; encoded</change>
         </revisionDesc>
     </teiHeader>
-    <text>
+    <text type="case">
         <body xml:id="ch1.sc3.0256">            
-                <p><hi rend="initialcap">C</hi>ASE.&#8212;<name type="person" key="1583">Private
+                <p><hi rend="initialcap">C</hi>ASE.—<name type="person" key="1583">Private
                         Gustave Stork</name>, <name type="organization" key="370">Battery B, 15th
                         New York Artillery</name>, aged 25 years.  Conoidal ball entered just
                     anterior to the external meatus of left ear and lodged, probably in petrous
@@ -93,8 +93,7 @@
                     treatment until <date type="admit" when="1864-05-11">May 11th, 1864</date>, when
                     he was admitted to <name type="hospital" key="157">Columbian Hospital</name>,
                     Washington. He was transferred as follows: <date type="transfer" when="1864-05-15">May 15th, 1864</date>, to Patterson Park,
-                    <name type="place">Baltimore</name>; <date type="transfer" when="1864-08-17">August 17th</date>, to Camden Street, <name type="place">Baltimore</name>, and on <date type="operation" when="1964-09-12"><date type="transfer" when="1964-09-12">September 12th, 1864</date></date>, to <name type="hospital">Mower Hospital, Philadelphia</name>, where an ineffectual attempt to remove the ball was made.  Discharged from service <date type="servicedischarge"
-                        when="1865-06-16">June 16th, 1865</date>.  Not a pensioner.</p>            
+                    <name type="place">Baltimore</name>; <date type="transfer" when="1864-08-17">August 17th</date>, to Camden Street, <name type="place">Baltimore</name>, and on <date type="operation" when="1964-09-12"><date type="transfer" when="1964-09-12">September 12th, 1864</date></date>, to <name type="hospital">Mower Hospital, Philadelphia</name>, where an ineffectual attempt to remove the ball was made.  Discharged from service <date type="servicedischarge" when="1865-06-16">June 16th, 1865</date>.  Not a pensioner.</p>            
         </body>
     </text>
 </TEI>

@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng" type="xml"?>
-
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d2e26449">
     <teiHeader>
         <fileDesc>
@@ -84,10 +83,10 @@
         </revisionDesc>
     </teiHeader>
    
-    <text>
+    <text type="case">
         <body> 
             <p>
-                <hi rend="initialcap">C</hi>ASE 1062.&#8212;<name type="person">Captain James Ferguson</name>, <name type="organization">Co. I, 4th Ohio</name>,
+                <hi rend="initialcap">C</hi>ASE 1062.—<name type="person">Captain James Ferguson</name>, <name type="organization">Co. I, 4th Ohio</name>,
                 was admitted into <name type="hospital">Seminary Hospital, Georgetown</name>, <date type="entry" when="1862-12-20">December 20, 1862</date>, with
                 a shot wound of the left forearm, received at <name type="battle">Fredericksburg</name>. <name type="person">Surgeon J. H. Brinton</name>,
                 U. S. V., who examined this officer's injury, reported: <q>"A conical ball entered below the inner condyle of this humerus, traversed the 
@@ -103,11 +102,10 @@
             <figure>
                 <graphic url="cww.001663.001"/>
                 <head>
-                    <hi rend="intialcap">F</hi>IG 388.&#8212;Conical ball broken upon the radius. [After <hi rend="initialcap">B</hi>RINTON.]
+                    <hi rend="intialcap">F</hi>IG 388.—Conical ball broken upon the radius. [After <hi rend="initialcap">B</hi>RINTON.]
                 </head>
             </figure>
             
         </body>
     </text>
 </TEI>
-

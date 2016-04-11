@@ -41,7 +41,7 @@
             </notesStmt>
             <sourceDesc>
                 <bibl>
-                    <title>The Medical and Surgical History of the War of the Rebellion. (1861&#8211;65.)</title>
+                    <title>The Medical and Surgical History of the War of the Rebellion. (1861–65.)</title>
                     <editor role="compiler">Surgeon General Joseph K. Barnes, United States Army</editor>
                     <pubPlace>Washington, D.C.</pubPlace>
                     <publisher>Government Printing Office</publisher>
@@ -69,7 +69,7 @@
                     <term>complications from intercurrent diseases</term>
                     <term>pneumonia reported as cause of death</term>
                     <term>questioned if pulmonary complications were not embolic phenomena, indicating metastatic foci</term>
-                    <term>questioned whether cases were not more properly classified under head of py&#230;mia</term>
+                    <term>questioned whether cases were not more properly classified under head of pyæmia</term>
                     <term>acute bronchitis</term>
                     <term>wound of anterior portion of the scalp</term>                    
                 </keywords>
@@ -86,20 +86,15 @@
             <change who="#sb" when="2008-09-22">initial checking of OCR text against PDF; encoded</change>
         </revisionDesc>
     </teiHeader>
-    <text>
+    <text type="case">
         <body xml:id="ch1.sc3.0041">            
-                <p><hi rend="initialcap">C</hi>ASE.&#8212;<name type="person" key="1173">Private
+                <p><hi rend="initialcap">C</hi>ASE.—<name type="person" key="1173">Private
                         Benjamin D. Cargill</name>, <name type="organization" key="87">2d Vermont
-                            Volunteers</name>, aged 19 years, received, at the battle of <name type="BATTLE"
-                                key="250"><choice><orig>Spottsylvania</orig><reg>Spotsylvania</reg></choice> Court House, Virginia</name>, <date
-                        type="injury" when="1864-05-08">May 8th, 1864</date>, a gunshot wound of the
+                            Volunteers</name>, aged 19 years, received, at the battle of <name type="BATTLE" key="250"><choice><orig>Spottsylvania</orig><reg>Spotsylvania</reg></choice> Court House, Virginia</name>, <date type="injury" when="1864-05-08">May 8th, 1864</date>, a gunshot wound of the
                     anterior portion of the scalp.  He was admitted to the hospital of the Second
                         Division, Sixth Corps, and, on <date type="transfer" when="1864-05-26">May
                         26th</date>, sent to the <name type="hospital" key="176">Lincoln
-                        Hospital</name>, Washington, D. C.  Furloughed on <date type="furlough"
-                        when="1864-05-24">May 24th</date>, he was readmitted on <date type="admit"
-                        when="1864-06-23">June 23d</date>, and died on <date type="death"
-                        when="1864-08-08">August 8th, 1864</date>, of acute bronchitis.</p>            
+                        Hospital</name>, Washington, D. C.  Furloughed on <date type="furlough" when="1864-05-24">May 24th</date>, he was readmitted on <date type="admit" when="1864-06-23">June 23d</date>, and died on <date type="death" when="1864-08-08">August 8th, 1864</date>, of acute bronchitis.</p>            
         </body>
     </text>
 </TEI>

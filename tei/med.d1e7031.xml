@@ -41,7 +41,7 @@
             </notesStmt>
             <sourceDesc>
                 <bibl>
-                    <title>The Medical and Surgical History of the War of the Rebellion. (1861&#8211;65.)</title>
+                    <title>The Medical and Surgical History of the War of the Rebellion. (1861–65.)</title>
                     <editor role="compiler">Surgeon General Joseph K. Barnes, United States Army</editor>
                     <pubPlace>Washington, D.C.</pubPlace>
                     <publisher>Government Printing Office</publisher>
@@ -70,8 +70,8 @@
                     <term>persistent pain in the head</term>
                     <term>cephalalgia and neuralgia</term>
                     <term>gunshot injury of frontal bone</term>
-                    <term></term>
-                    <term></term>                 
+                    <term/>
+                    <term/>                 
                 </keywords>
             </textClass>
         </profileDesc>
@@ -85,15 +85,10 @@
             <change who="#sb" when="2008-09-22">initial checking of OCR text against PDF; encoded</change>
         </revisionDesc>
     </teiHeader>
-    <text>
+    <text type="case">
         <body xml:id="ch1.sc3.0087">            
-                <p><name type="person" key="362"><hi rend="initialcap">M</hi>ARSHALL, <hi
-                            rend="initialcap">J</hi>AMES</name>, Private, <name type="organization"
-                                key="588">Co. H, 28th Pennsylvania Volunteers</name>, received, at the battle of <name
-                                    type="BATTLE" key="281">Antietam, Maryland</name>, <date
-                        type="injury" when="1862-09-17">September 17th, 1862</date>, a gunshot
-                    injury of the frontal bone.  He was, on <date type="admit" when="1862-10-30">October 30th, 1862</date>, admitted to the <name type="hospital" key="167">Carver Hospital</name>, Washington, D. C., and, on <date type="transfer"
-                        when="1863-01-08">January 8th</date>, was transferred to the <name type="hospital">Patterson Park
+                <p><name type="person" key="362"><hi rend="initialcap">M</hi>ARSHALL, <hi rend="initialcap">J</hi>AMES</name>, Private, <name type="organization" key="588">Co. H, 28th Pennsylvania Volunteers</name>, received, at the battle of <name type="BATTLE" key="281">Antietam, Maryland</name>, <date type="injury" when="1862-09-17">September 17th, 1862</date>, a gunshot
+                    injury of the frontal bone.  He was, on <date type="admit" when="1862-10-30">October 30th, 1862</date>, admitted to the <name type="hospital" key="167">Carver Hospital</name>, Washington, D. C., and, on <date type="transfer" when="1863-01-08">January 8th</date>, was transferred to the <name type="hospital">Patterson Park
                             Hospital, Baltimore</name>.  He was treated in the hospitals of the latter city for
                     cephalalgia and neuralgia, until <date type="duty" when="1863-08-29">August
                         29th, 1863</date>, when he was returned to duty.</p>            

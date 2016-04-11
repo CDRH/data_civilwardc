@@ -41,7 +41,7 @@
             </notesStmt>
             <sourceDesc>
                 <bibl>
-                    <title>The Medical and Surgical History of the War of the Rebellion. (1861&#8211;65.)</title>
+                    <title>The Medical and Surgical History of the War of the Rebellion. (1861–65.)</title>
                     <editor role="compiler">Surgeon General Joseph K. Barnes, United States Army</editor>
                     <pubPlace>Washington, D.C.</pubPlace>
                     <publisher>Government Printing Office</publisher>
@@ -82,19 +82,15 @@
             <change who="#sb" when="2008-09-22">initial checking of OCR text against PDF; encoded</change>
         </revisionDesc>
     </teiHeader>
-    <text>
+    <text type="case">
         <body xml:id="ch1.sc2.0019">            
-                <p><hi rend="initialcap">C</hi>ASE.&#8212;<name type="person" key="1159">Private
+                <p><hi rend="initialcap">C</hi>ASE.—<name type="person" key="1159">Private
                         Peter Cahill</name>, <name type="organization" key="324">Co. C, 79th New
                         York Volunteers</name>, aged 19 years, received an accidental compound
-                    fracture of the external table of the frontal bone, <date type="injury"
-                        when="1865-06-14">June 14th, 1865</date>, while serving on the <name type="organization" key="xx">Provost
+                    fracture of the external table of the frontal bone, <date type="injury" when="1865-06-14">June 14th, 1865</date>, while serving on the <name type="organization" key="xx">Provost
                     Marshal's Guard</name>.  He was admitted to <name type="hospital" key="188">Sickel
                         Hospital</name>, <name type="place">Alexandria</name>, on <date type="admit" when="1865-06-14">June
-                        14th</date>, and discharged from service well, on <date
-                        type="servicedischarge" when="1865-07-04">July 4th, 1865</date>.   <name
-                        type="person" key="134">Surgeon E. Bentley</name>, <name type="organization"
-                        key="132">U. S. V.</name>, records the case.</p>            
+                        14th</date>, and discharged from service well, on <date type="servicedischarge" when="1865-07-04">July 4th, 1865</date>.   <name type="person" key="134">Surgeon E. Bentley</name>, <name type="organization" key="132">U. S. V.</name>, records the case.</p>            
         </body>
     </text>
 </TEI>

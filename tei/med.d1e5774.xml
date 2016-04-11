@@ -41,7 +41,7 @@
             </notesStmt>
             <sourceDesc>
                 <bibl>
-                    <title>The Medical and Surgical History of the War of the Rebellion. (1861&#8211;65.)</title>
+                    <title>The Medical and Surgical History of the War of the Rebellion. (1861–65.)</title>
                     <editor role="compiler">Surgeon General Joseph K. Barnes, United States Army</editor>
                     <pubPlace>Washington, D.C.</pubPlace>
                     <publisher>Government Printing Office</publisher>
@@ -82,16 +82,12 @@
             <change who="#sb" when="2008-09-22">initial checking of OCR text against PDF; encoded</change>
         </revisionDesc>
     </teiHeader>
-    <text>
+    <text type="case">
         <body xml:id="ch1.sc3.0055">               
-                <p><name type="person" key="1177"><hi rend="initialcap">M</hi>ORTON, <hi
-                            rend="initialcap">D</hi>. <hi rend="initialcap">J</hi>.</name>,
+                <p><name type="person" key="1177"><hi rend="initialcap">M</hi>ORTON, <hi rend="initialcap">D</hi>. <hi rend="initialcap">J</hi>.</name>,
                     Lieutenant, <name type="organization" key="446">Co. G, 143d Pennsylvania
-                        Volunteers</name>.  Gunshot contusion of the bones of the skull.  <name
-                        type="BATTLE" key="259">Wilderness</name>, <date type="injury"
-                            when="1864-05-06">May 6th, 1864</date>.  Treated at the Fifth Corps Hospital
-                    and at <name type="place" key="#Washington">Washington</name>.  Mustered out with his regiment, <date type="servicedischarge"
-                        when="1865-06-12">June 12th, 1865</date>.</p>            
+                        Volunteers</name>.  Gunshot contusion of the bones of the skull.  <name type="BATTLE" key="259">Wilderness</name>, <date type="injury" when="1864-05-06">May 6th, 1864</date>.  Treated at the Fifth Corps Hospital
+                    and at <name type="place" key="#Washington">Washington</name>.  Mustered out with his regiment, <date type="servicedischarge" when="1865-06-12">June 12th, 1865</date>.</p>            
         </body>
     </text>
 </TEI>

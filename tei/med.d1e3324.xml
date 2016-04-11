@@ -41,7 +41,7 @@
             </notesStmt>
             <sourceDesc>
                 <bibl>
-                    <title>The Medical and Surgical History of the War of the Rebellion. (1861&#8211;65.)</title>
+                    <title>The Medical and Surgical History of the War of the Rebellion. (1861–65.)</title>
                     <editor role="compiler">Surgeon General Joseph K.Barnes, United States Army</editor>
                     <pubPlace>Washington, D.C.</pubPlace>
                     <publisher>Government Printing Office</publisher>
@@ -82,18 +82,13 @@
             <change who="#sb" when="2008-09-22">initial checking of OCR text against PDF; encoded</change>
         </revisionDesc>
     </teiHeader>
-    <text>
+    <text type="case">
         <body xml:id="ch1.sc2.0018">            
-                <p><hi rend="initialcap">C</hi>ASE.&#8212;<name type="person" key="136">Private
+                <p><hi rend="initialcap">C</hi>ASE.—<name type="person" key="136">Private
                         James Burns</name>, <name type="organization" key="165">Co. B, 39th
-                        Massachusetts Volunteers</name>, aged 57 years, was admitted to <name
-                        type="hospital" key="175">Stanton Hospital</name>, Washington, on <date
-                        type="admit" when="1863-07-14">July 14th, 1863</date>, with a fracture of
-                    the cranium.  He was transferred to <name type="hospital">Satterlee Hospital, Philadelphia</name>, on <date
-                        type="transfer" when="1864-05-10">May 10th, 1864</date>, and returned to
-                    duty <date type="duty" when="1864-10-18">October 18th, 1864</date>.   <name
-                        type="person" key="137">Surgeon I. I. Hayes</name>, <name
-                        type="organization" key="132">U. S. V.</name>, records the case. </p>            
+                        Massachusetts Volunteers</name>, aged 57 years, was admitted to <name type="hospital" key="175">Stanton Hospital</name>, Washington, on <date type="admit" when="1863-07-14">July 14th, 1863</date>, with a fracture of
+                    the cranium.  He was transferred to <name type="hospital">Satterlee Hospital, Philadelphia</name>, on <date type="transfer" when="1864-05-10">May 10th, 1864</date>, and returned to
+                    duty <date type="duty" when="1864-10-18">October 18th, 1864</date>.   <name type="person" key="137">Surgeon I. I. Hayes</name>, <name type="organization" key="132">U. S. V.</name>, records the case. </p>            
         </body>
     </text>
 </TEI>

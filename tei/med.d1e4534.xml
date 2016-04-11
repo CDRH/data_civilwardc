@@ -43,7 +43,7 @@
                         </notesStmt>
                         <sourceDesc>
                                 <bibl>
-                                        <title>The Medical and Surgical History of the War of the Rebellion. (1861&#8211;65.)</title>
+                                        <title>The Medical and Surgical History of the War of the Rebellion. (1861–65.)</title>
                                         <editor role="compiler">Surgeon General Joseph K. Barnes, United States Army</editor>
                                         <pubPlace>Washington, D.C.</pubPlace>
                                         <publisher>Government Printing Office</publisher>
@@ -71,10 +71,10 @@
                                         <term>erysipelas supervened</term>
                                         <term>fatal consequence of meningeal inflammation following invasion of erysipelas</term>
                                         <term>conoidal ball struck over squamous portion of temporal bone</term>
-                                        <term></term>
-                                        <term></term>
-                                        <term></term>
-                                        <term></term>
+                                        <term/>
+                                        <term/>
+                                        <term/>
+                                        <term/>
                                 </keywords>
                         </textClass>
                 </profileDesc>
@@ -88,18 +88,14 @@
                         <change who="#sb" when="2008-09-22">initial checking of OCR text against PDF; encoded</change>
                 </revisionDesc>
         </teiHeader>
-        <text>
+        <text type="case">
                 <body xml:id="ch1.sc3.0021">                        
-                                <p><hi rend="initialcap">C</hi>ASE.&#8212;<name type="person"
-                                                key="319">Private Reinhold Maywold</name>, <name
-                                                type="organization" key="177">Co. G, 6th Wisconsin
+                                <p><hi rend="initialcap">C</hi>ASE.—<name type="person" key="319">Private Reinhold Maywold</name>, <name type="organization" key="177">Co. G, 6th Wisconsin
                                                 Volunteers</name>, aged 27 years, was wounded, in an
-                                        engagement at the <name type="BATTLE" key="283">Southside Railroad</name>, <date type="injury"
-                                                when="1865-04-01">April 1st, 1865</date>, by a
+                                        engagement at the <name type="BATTLE" key="283">Southside Railroad</name>, <date type="injury" when="1865-04-01">April 1st, 1865</date>, by a
                                         conoidal ball, which struck over the squamous portion of the
                                         left temporal bone.  He was, on <date type="admit" when="1865-04-02">the following day</date>, admitted
-                                        to the field hospital of the Fifth Corps, and, on <date
-                                                type="transfer" when="1865-04-04">April 4th</date>,
+                                        to the field hospital of the Fifth Corps, and, on <date type="transfer" when="1865-04-04">April 4th</date>,
                                         was sent to the <name type="hospital" key="176">Lincoln
                                                 Hospital</name>, Washington, D. C., where he died,
                                         on <date type="death" when="1865-04-24">April 24th,

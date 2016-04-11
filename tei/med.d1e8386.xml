@@ -41,7 +41,7 @@
             </notesStmt>
             <sourceDesc>
                 <bibl>
-                    <title>The Medical and Surgical History of the War of the Rebellion. (1861&#8211;65.)</title>
+                    <title>The Medical and Surgical History of the War of the Rebellion. (1861–65.)</title>
                     <editor role="compiler">Surgeon General Joseph K. Barnes, United States Army</editor>
                     <pubPlace>Washington, D.C.</pubPlace>
                     <publisher>Government Printing Office</publisher>
@@ -85,19 +85,15 @@
             <change who="#sb" when="2008-09-22">initial checking of OCR text against PDF; encoded</change>
         </revisionDesc>
     </teiHeader>
-    <text>
+    <text type="case">
         <body xml:id="ch1.sc3.0117">            
-                <p><name type="person" key="390"><hi rend="initialcap">G</hi>EORGE, <hi
-                            rend="initialcap">D</hi>.</name>, Private, <name type="organization"
-                        key="604">Co. K, 1st Michigan Sharpshooters</name>, aged 26 years, received,
+                <p><name type="person" key="390"><hi rend="initialcap">G</hi>EORGE, <hi rend="initialcap">D</hi>.</name>, Private, <name type="organization" key="604">Co. K, 1st Michigan Sharpshooters</name>, aged 26 years, received,
                     at the battle of <name type="BATTLE" key="250"><choice><orig>Spottsylvania</orig><reg>Spotsylvania</reg></choice> Courthouse, Virginia</name>, <date type="injury" when="1864-05-12">May 12th, 1864</date>, a wound
                     of the head, with contusion of the bone, in the right parietal region, by a
                     conoidal musket ball.  He was admitted into the field hospital of the 3d
                     division, Ninth Corps, and transferred thence to <name type="place" key="#Washington">Washington</name>, and admitted, on
-                        <date type="transfer" when="1864-05-25">May 25th</date>, into the <name
-                        type="hospital" key="172">Emory Hospital</name>.  He died comatose on <date type="death" when="1864-05-26">the following day</date>.   The case is
-                    reported by <name type="person" key="297">Surgeon N. R. Mosely</name>, <name
-                        type="organization" key="132">U. S. V. </name></p>            
+                        <date type="transfer" when="1864-05-25">May 25th</date>, into the <name type="hospital" key="172">Emory Hospital</name>.  He died comatose on <date type="death" when="1864-05-26">the following day</date>.   The case is
+                    reported by <name type="person" key="297">Surgeon N. R. Mosely</name>, <name type="organization" key="132">U. S. V. </name></p>            
         </body>
     </text>
 </TEI>

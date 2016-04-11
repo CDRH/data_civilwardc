@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng" type="xml"?>
-
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="cww.01004">
     <teiHeader>
         <fileDesc>
@@ -52,8 +51,8 @@
                             <title>Petition of Caroline Robinson, 30 September 1862</title>
                             <date when="1862-09-30">September 30, 1862</date>
                             <idno type="rg">Record Group 21</idno>
-                            <orgName>Records of the District Courts of the United States, 1685&#8211;2004, National Archives and Records Administration</orgName>
-                            <orgName>Emancipation Records, compiled 1862&#8211;1863</orgName>
+                            <orgName>Records of the District Courts of the United States, 1685–2004, National Archives and Records Administration</orgName>
+                            <orgName>Emancipation Records, compiled 1862–1863</orgName>
                             <note type="project">Within the National Archives' Archival Description Catalog, see ARC Identifier 4314547 / MLR Number NC-2 33 (http://arcweb.archives.gov).</note>
                         </bibl>
                     </relatedItem>
@@ -70,7 +69,7 @@
                             <title>Evidence Relating to the Petition of Caroline Robinson, 2 October 1862</title>
                             <date when="1862-10-02">October 2, 1862</date>
                             <idno type="rg">Record Group 217.6.5</idno>
-                            <orgName>Records of the Accounting Officers of the Department of the Treasury, 1775&#8211;1978, National Archives and Records Administration</orgName>
+                            <orgName>Records of the Accounting Officers of the Department of the Treasury, 1775–1978, National Archives and Records Administration</orgName>
                             <note type="project">Within the National Archives' Archival Description Catalog, see ARC Identifier 4644616 / MLR Number A1 347 (http://arcweb.archives.gov).</note>
                         </bibl>
                     </relatedItem>
@@ -96,7 +95,7 @@
         </revisionDesc>
     </teiHeader>
     
-    <text>
+    <text type="petition">
         <body>
             
             <pb xml:id="leaf001r" facs="cww.01004.001.jpg"/>
@@ -106,12 +105,12 @@
                 <div2 type="document" subtype="handwritten">                   
                 
                     <opener>
-                        <salute>To The Honorable <persName>Daniel R. Goodloe</persName>, <persName>Horatio King</persName> and <persName>John M. Brodhead</persName> commissioners &#38;c&#8212;</salute>
+                        <salute>To The Honorable <persName>Daniel R. Goodloe</persName>, <persName>Horatio King</persName> and <persName>John M. Brodhead</persName> commissioners &amp;c—</salute>
                     </opener>
                     
-                    <p>Your Petitioner <persName>Caroline Robinson</persName> respectfully represents that she is of African descent, is about thirty five years of age, of yellow complexion &#38; of medium height. That on the <date when="1862-04-16">16th day of April 1862</date>, she resided in the <placeName>District of Columbia</placeName> and had done so for several years previously. That on the said <date when="1862-04-16">16th day of April 1862</date>, she belonged to <persName>William M Merrick</persName> and his wife <persName>Mary Merrick</persName> by whom she was then and there held to service and labor; and that the said <persName>William M Merrick</persName> &#38; his said wife then and before resided in the <placeName>District of Columbia</placeName>.</p>
-                    <p>She further alleges that by virtue of an act of Congress entitled "An act for the release of certain persons held to service or labor in the <placeName>District of Columbia</placeName>" approved <date when="1862-04-16">16th of April 1862</date>, she was emancipated, discharged &#38; set free of &#38; from all claim on the part of said <persName>Merrick</persName> &#38; wife to her service and labor as aforesaid. She further avers that the said <persName>Merrick</persName> &#38; wife have neglected and still neglect to file with the clerk of the circuit court for the <placeName>District of Columbia</placeName> the schedule required to be filed by them by the ninth section of the Act aforesaid, whereby your Petitioner has been prevented from receiving the certificate of her release &#38; discharge aforesaid which the said Clerk under the tenth section of the Said act is authorised to issue.</p>
-                    <p>In consideration whereof your Petitioner prays that in pursuance of the 2nd &#38; 3rd sections of an act of Congress approved <date when="1862-07-12">July 12th 1862</date> entitled "an act supplementary to the act for the release of certain persons held to service or labor in the <placeName>District of Columbia</placeName>" approved <date when="1862-04-16">April 16th 1862</date> the foregoing schedule or description of herself may be accepted &#38; filed &#38; that a certificate in proper form declaring her to be freed &#38; discharged from said claim to service &#38; labor &#38; manumitted by the provisions of the Act aforesaid of <date when="1862-04-12">12th April 1862</date> may be issued to her by the said Clerk of the circuit court for the <placeName>District of Columbia</placeName>. And she will ever pray &#38;c</p>                   
+                    <p>Your Petitioner <persName>Caroline Robinson</persName> respectfully represents that she is of African descent, is about thirty five years of age, of yellow complexion &amp; of medium height. That on the <date when="1862-04-16">16th day of April 1862</date>, she resided in the <placeName>District of Columbia</placeName> and had done so for several years previously. That on the said <date when="1862-04-16">16th day of April 1862</date>, she belonged to <persName>William M Merrick</persName> and his wife <persName>Mary Merrick</persName> by whom she was then and there held to service and labor; and that the said <persName>William M Merrick</persName> &amp; his said wife then and before resided in the <placeName>District of Columbia</placeName>.</p>
+                    <p>She further alleges that by virtue of an act of Congress entitled "An act for the release of certain persons held to service or labor in the <placeName>District of Columbia</placeName>" approved <date when="1862-04-16">16th of April 1862</date>, she was emancipated, discharged &amp; set free of &amp; from all claim on the part of said <persName>Merrick</persName> &amp; wife to her service and labor as aforesaid. She further avers that the said <persName>Merrick</persName> &amp; wife have neglected and still neglect to file with the clerk of the circuit court for the <placeName>District of Columbia</placeName> the schedule required to be filed by them by the ninth section of the Act aforesaid, whereby your Petitioner has been prevented from receiving the certificate of her release &amp; discharge aforesaid which the said Clerk under the tenth section of the Said act is authorised to issue.</p>
+                    <p>In consideration whereof your Petitioner prays that in pursuance of the 2nd &amp; 3rd sections of an act of Congress approved <date when="1862-07-12">July 12th 1862</date> entitled "an act supplementary to the act for the release of certain persons held to service or labor in the <placeName>District of Columbia</placeName>" approved <date when="1862-04-16">April 16th 1862</date> the foregoing schedule or description of herself may be accepted &amp; filed &amp; that a certificate in proper form declaring her to be freed &amp; discharged from said claim to service &amp; labor &amp; manumitted by the provisions of the Act aforesaid of <date when="1862-04-12">12th April 1862</date> may be issued to her by the said Clerk of the circuit court for the <placeName>District of Columbia</placeName>. And she will ever pray &amp;c</p>                   
                     
                     <closer>
                         <signed>her X mark <persName>Caroline Robinson</persName></signed><lb/>
@@ -144,7 +143,7 @@
                         <ab>Filed <date when="1862-09-30">Sep 30th 1862</date></ab>
                     </div3>
                     <div3>
-                        <ab>Recorded in Manumission Record No. 2 folios 112 &#38; 113</ab>
+                        <ab>Recorded in Manumission Record No. 2 folios 112 &amp; 113</ab>
                     </div3>                     
                      
                     <div3 type="section">
@@ -184,7 +183,7 @@
                         <salute>Dear Sir,</salute>
                     </opener>
                     
-                    <p>The bearer of this, <persName>Caroline Robinson</persName>, is the woman of whom I spoke to you &#38; whose schedule was filed on yesterday. She has her witnesses ready to prove the essential facts set forth in her petition &#38; I hope it may be convenient for the commissioners to hear them.</p>
+                    <p>The bearer of this, <persName>Caroline Robinson</persName>, is the woman of whom I spoke to you &amp; whose schedule was filed on yesterday. She has her witnesses ready to prove the essential facts set forth in her petition &amp; I hope it may be convenient for the commissioners to hear them.</p>
                     <closer>Very truly yours
                         <signed><persName><unclear reason="illegible" cert="low" resp="#jc">J</unclear>. Holt</persName></signed><lb/>
                         Hon. <persName>Jno. M. Brodhead</persName>
@@ -201,9 +200,3 @@
         </body>
     </text>
 </TEI>
-                
-                
-                
-                
-                
-

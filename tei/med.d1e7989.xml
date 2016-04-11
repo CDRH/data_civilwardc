@@ -41,7 +41,7 @@
             </notesStmt>
             <sourceDesc>
                 <bibl>
-                    <title>The Medical and Surgical History of the War of the Rebellion. (1861&#8211;65.)</title>
+                    <title>The Medical and Surgical History of the War of the Rebellion. (1861–65.)</title>
                     <editor role="compiler">Surgeon General Joseph K. Barnes, United States Army</editor>
                     <pubPlace>Washington, D.C.</pubPlace>
                     <publisher>Government Printing Office</publisher>
@@ -85,18 +85,14 @@
             <change who="#sb" when="2008-09-22">initial checking of OCR text against PDF; encoded</change>
         </revisionDesc>
     </teiHeader>
-    <text>
+    <text type="case">
         <body xml:id="ch1.sc3.0108">            
-                <p><name type="person" key="384"><hi rend="initialcap">A</hi>RTUS, <hi
-                            rend="initialcap">C</hi>HARLES</name>, Private, <name
-                        type="organization" key="370">Co. I, 15th New York Artillery</name>, aged 30
+                <p><name type="person" key="384"><hi rend="initialcap">A</hi>RTUS, <hi rend="initialcap">C</hi>HARLES</name>, Private, <name type="organization" key="370">Co. I, 15th New York Artillery</name>, aged 30
                     years.  Contusion of the left temporal by a piece of shell.  <name type="battle" key="90">Weldon Railroad</name>,
                         <date type="injury" when="1864-08-20">August 20th, 1864</date>.  Treated at
                     field hospital of Fifth Corps, and <name type="hospital" key="165">Mount
                         Pleasant</name>, Washington.  Discharged from service, <date type="servicedischarge" when="1865-06-20">June 20th, 1865</date>,
-                    on account of deafness of the left ear and facial neuralgia, by <name
-                        type="person" key="245">Assistant Surgeon H. Allen</name>, <name
-                        type="organization" key="190">U. S. A.</name>  His name does not appear on the Pension List. </p>            
+                    on account of deafness of the left ear and facial neuralgia, by <name type="person" key="245">Assistant Surgeon H. Allen</name>, <name type="organization" key="190">U. S. A.</name>  His name does not appear on the Pension List. </p>            
         </body>
     </text>
 </TEI>

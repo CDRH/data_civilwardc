@@ -41,7 +41,7 @@
             </notesStmt>
             <sourceDesc>
                 <bibl>
-                    <title>The Medical and Surgical History of the War of the Rebellion. (1861&#8211;65.)</title>
+                    <title>The Medical and Surgical History of the War of the Rebellion. (1861–65.)</title>
                     <editor role="compiler">Surgeon General Joseph K. Barnes, United States Army</editor>
                     <pubPlace>Washington, D.C.</pubPlace>
                     <publisher>Government Printing Office</publisher>
@@ -85,20 +85,16 @@
             <change who="#sb" when="2008-09-22">initial checking of OCR text against PDF; encoded</change>
         </revisionDesc>
     </teiHeader>
-    <text>
+    <text type="case">
         <body xml:id="ch1.sc3.0119">            
-                <p><name type="person" key="392"><hi rend="initialcap">W</hi>ELD, <hi
-                            rend="initialcap">S</hi>.</name>, Corporal, <name type="organization"
-                        key="605">Co. K, 19th Maine Volunteers</name>, aged 31 years, was wounded,
+                <p><name type="person" key="392"><hi rend="initialcap">W</hi>ELD, <hi rend="initialcap">S</hi>.</name>, Corporal, <name type="organization" key="605">Co. K, 19th Maine Volunteers</name>, aged 31 years, was wounded,
                     at the battle of the <name type="battle">Po River, Virginia</name>, <date type="injury" when="1864-05-13">May 13th, 1864</date>, by a conoidal musket ball, which struck at the
                     vertex of the head, producing an open wound three inches in length and one in
                     breadth, and denuding a portion of bone of its periosteum.  He was admitted into
                     the <name type="hospital" key="165">Mount Pleasant Hospital</name>, Washington,
                     from the field, <date type="admit" when="1864-05-16">May 16th</date>, and thence
                     transferred, on <date type="transfer" when="1864-05-19">the 19th</date>, to the
-                    hospital at <name type="place">Annapolis</name>.  Death resulted on <date type="death" when="1864-06-05">June 5th, 1864</date>.   The case is reported by <name type="person"
-                        key="393">Surgeon B. A. Vanderkieft</name>, <name type="organization"
-                        key="132">U. S. V.</name> </p>        
+                    hospital at <name type="place">Annapolis</name>.  Death resulted on <date type="death" when="1864-06-05">June 5th, 1864</date>.   The case is reported by <name type="person" key="393">Surgeon B. A. Vanderkieft</name>, <name type="organization" key="132">U. S. V.</name> </p>        
         </body>
     </text>
 </TEI>

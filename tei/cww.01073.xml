@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng" type="xml"?>
-
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="cww.01073">
     <teiHeader>
         <fileDesc>
@@ -52,8 +51,8 @@
                             <title>Petition of Stephen Smith, 22 July 1862</title>
                             <date when="1862-07-22">July 22, 1862</date>
                             <idno type="rg">Record Group 21</idno>
-                            <orgName>Records of the District Courts of the United States, 1685&#8211;2004, National Archives and Records Administration</orgName>
-                            <orgName>Emancipation Records, compiled 1862&#8211;1863</orgName>
+                            <orgName>Records of the District Courts of the United States, 1685–2004, National Archives and Records Administration</orgName>
+                            <orgName>Emancipation Records, compiled 1862–1863</orgName>
                             <note type="project">Within the National Archives' Archival Description Catalog, see ARC Identifier 4314547 / MLR Number NC-2 33 (http://arcweb.archives.gov).</note>
                         </bibl>
                     </relatedItem>
@@ -70,7 +69,7 @@
                             <title>Evidence Relating to the Petition of Stephen Smith, 23 July 1862</title>
                             <date when="1862-07-23">July 23, 1862</date>
                             <idno type="rg">Record Group 217.6.5</idno>
-                            <orgName>Records of the Accounting Officers of the Department of the Treasury, 1775&#8211;1978, National Archives and Records Administration</orgName>
+                            <orgName>Records of the Accounting Officers of the Department of the Treasury, 1775–1978, National Archives and Records Administration</orgName>
                             <note type="project">Within the National Archives' Archival Description Catalog, see ARC Identifier 4644616 / MLR Number A1 347 (http://arcweb.archives.gov).</note>
                         </bibl>
                     </relatedItem>
@@ -97,14 +96,14 @@
         </revisionDesc>
     </teiHeader>
     
-    <text>
+    <text type="petition">
         <body>
             
             <pb xml:id="leaf001r" facs="cww.01073.001.jpg"/>
             
             <div1 type="petition" subtype="mixed" corresp="#rg21">
                 
-                <fw>[Sold by W. H. &#38; O. H. Morrison, Booksellers.</fw>
+                <fw>[Sold by W. H. &amp; O. H. Morrison, Booksellers.</fw>
 
                 <div2 type="document" subtype="mixed">
                     
@@ -113,7 +112,7 @@
                         <salute>Sir:</salute>
                     </opener>
                     
-                    <p>You will please file and record in your office the annexed statement and schedule, under the provisions of an act of Congress, entitled "An act for the relief of certain persons held to service or labor in the <placeName>District of Columbia</placeName>," approved <date when="1862-04-16">April 16th, 1862</date>: <seg type="handwritten">&#38; an act amendatory thereto approved <date when="1862-07-12">July 12th 1862</date></seg></p>
+                    <p>You will please file and record in your office the annexed statement and schedule, under the provisions of an act of Congress, entitled "An act for the relief of certain persons held to service or labor in the <placeName>District of Columbia</placeName>," approved <date when="1862-04-16">April 16th, 1862</date>: <seg type="handwritten">&amp; an act amendatory thereto approved <date when="1862-07-12">July 12th 1862</date></seg></p>
                     <table rend="handwritten">
                         <row>
                             <cell>Name.</cell>
@@ -130,7 +129,7 @@
                     </table>
                     
                     <p>The persons mentioned in the foregoing schedule were by reason of African descent and acquired title, <seg type="handwritten">the</seg> property, and by <space atLeast="1"/> held to service and labor in the <placeName>District of Columbia</placeName> at the time the act of Congress above cited was approved, the benefit of which is hereby claimed <seg type="handwritten">by <persName>Nathaniel M. McGregor</persName> of <placeName>Washington City D.C.</placeName></seg></p>
-                    <p><seg type="handwritten">This Petitioner represents that he has resided in said <placeName>District</placeName> more than five years last past and still resides therein&#8212;that said <persName>McGregor</persName> did not file his schedule under the provisions of said acts &#38; this Petitioner files this his petition in lieu thereof according to the provisions of an act approved <date when="1862-07-12">July 12, 1862</date> amendatory to said act of <date when="1862-04-16">April 16, 1862</date></seg></p>                   
+                    <p><seg type="handwritten">This Petitioner represents that he has resided in said <placeName>District</placeName> more than five years last past and still resides therein—that said <persName>McGregor</persName> did not file his schedule under the provisions of said acts &amp; this Petitioner files this his petition in lieu thereof according to the provisions of an act approved <date when="1862-07-12">July 12, 1862</date> amendatory to said act of <date when="1862-04-16">April 16, 1862</date></seg></p>                   
                     
                     <closer>
                         <signed><seg type="handwritten">his X mark <persName>Stephen Smith</persName></seg></signed><lb/>
@@ -150,7 +149,7 @@
                         <ab>Filed <date when="1862-07-22">22d July 1862</date>.</ab> 
                     </div3>
                     <div3 type="section">
-                        <ab>Recorded in Manumission Record No. 2 folios 88 &#38; 89.</ab>                        
+                        <ab>Recorded in Manumission Record No. 2 folios 88 &amp; 89.</ab>                        
                     </div3>                 
                       
                     <div3 type="section">
@@ -182,7 +181,7 @@
                 </div2>
                 
                 <div2 type="procedural">
-                    <ab><choice><abbr>Cert</abbr><expan>Certificate</expan></choice> ordered &#38; sent</ab>
+                    <ab><choice><abbr>Cert</abbr><expan>Certificate</expan></choice> ordered &amp; sent</ab>
                 </div2>                
                
                 <pb xml:id="leaf002v" facs="cww.01073.004.jpg"/>
@@ -194,9 +193,3 @@
         </body>
     </text>
 </TEI>
-                
-                
-                
-                
-                
-

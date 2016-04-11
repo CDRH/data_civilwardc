@@ -41,7 +41,7 @@
             </notesStmt>
             <sourceDesc>
                 <bibl>
-                    <title>The Medical and Surgical History of the War of the Rebellion. (1861&#8211;65.)</title>
+                    <title>The Medical and Surgical History of the War of the Rebellion. (1861–65.)</title>
                     <editor role="compiler">Surgeon General Joseph K. Barnes, United States Army</editor>
                     <pubPlace>Washington, D.C.</pubPlace>
                     <publisher>Government Printing Office</publisher>
@@ -66,12 +66,12 @@
                     <term>wounds and injuries of the head</term>
                     <term>gunshot wounds</term>
                     <term>gunshot wounds of the scalp</term> 
-                    <term>h&#230;morrhage, hemorrhage</term>
+                    <term>hæmorrhage, hemorrhage</term>
                     <term>secondary hemorrhage from wounds of scalp</term>
                     <term>successfully treated by ligating wounded vessel</term>
                     <term>patient deserted from hospital</term>
                     <term>conoidal musket ball entered above and lateral to eye, passed through integuments over temporal region, and emerged</term>                    
-                    <term>h&#230;morrhage of temporal artery, artery ligated in its continuity</term>
+                    <term>hæmorrhage of temporal artery, artery ligated in its continuity</term>
                     <term>erysipelas</term>                    
                 </keywords>
             </textClass>
@@ -87,26 +87,21 @@
             <change who="#sb" when="2008-09-22">initial checking of OCR text against PDF; encoded</change>
         </revisionDesc>
     </teiHeader>
-    <text>
+    <text type="case">
         <body xml:id="ch1.sc3.0032">            
-                <p><hi rend="initialcap">C</hi>ASE.&#8212;<name type="person" key="331">Private
+                <p><hi rend="initialcap">C</hi>ASE.—<name type="person" key="331">Private
                         David Jones</name>, <name type="organization" key="151">Co. B, 1st
-                            Massachusetts Volunteers</name>, aged 26 years, was wounded at the battle of <name
-                                type="BATTLE" key="250"><choice><orig>Spottsylvania</orig><reg>Spotsylvania</reg></choice>, Virginia</name>, <date
-                        type="injury" when="1864-05-09">May 9th, 1864</date>, by a conoidal musket
+                            Massachusetts Volunteers</name>, aged 26 years, was wounded at the battle of <name type="BATTLE" key="250"><choice><orig>Spottsylvania</orig><reg>Spotsylvania</reg></choice>, Virginia</name>, <date type="injury" when="1864-05-09">May 9th, 1864</date>, by a conoidal musket
                     ball, which entered above and to the left of the left eye, passed in a direct
                     line through the integuments over the temporal region, and emerged four inches
-                    from the point of entrance.  He was conveyed to the <name type="hospital"
-                        key="187">Second Division Hospital</name> at <name type="place">Alexandria</name>, and, on <date
-                        type="transfer" when="1864-05-21">May 21st</date>, was transferred to <name type="hospital">Mower
+                    from the point of entrance.  He was conveyed to the <name type="hospital" key="187">Second Division Hospital</name> at <name type="place">Alexandria</name>, and, on <date type="transfer" when="1864-05-21">May 21st</date>, was transferred to <name type="hospital">Mower
                             Hospital, Philadelphia</name>. The wound was swollen and painful, and bled freely.  On
                     <date type="operation" when="1864-05-24">May 24th</date>, the temporal artery was ligated in its continuity, in front of the
                     ear, and half an inch below the wound, by <name type="person" key="333">Acting
                         Assistant Surgeon S. D. Marshall</name>. An attack of erysipelas was checked
                     by local applications of iodine and of lead water.  The patient recovered, and
                     was, on <date type="transfer" when="1864-07-07">July 7th, 1864</date>, sent to
-                    the hospital at <name type="place">Beverly, New Jersey</name>, whence he deserted on <date type="deserted"
-                        when="1864-07-23">July 23d, 1864</date>. </p>            
+                    the hospital at <name type="place">Beverly, New Jersey</name>, whence he deserted on <date type="deserted" when="1864-07-23">July 23d, 1864</date>. </p>            
         </body>
     </text>
 </TEI>

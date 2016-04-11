@@ -53,8 +53,8 @@
                             <title>Petition of George Lee, 24 December 1862</title>                            
                             <date when="1862-12-24">December 24, 1862</date>
                             <idno type="rg">Record Group 21</idno>
-                            <orgName>Records of the District Courts of the United States, 1685&#8211;2004, National Archives and Records Administration</orgName>
-                            <orgName>Emancipation Records, compiled 1862&#8211;1863</orgName>
+                            <orgName>Records of the District Courts of the United States, 1685–2004, National Archives and Records Administration</orgName>
+                            <orgName>Emancipation Records, compiled 1862–1863</orgName>
                             <note type="project">Within the National Archives' Archival Description Catalog, see ARC Identifier 4314547 / MLR Number NC-2 33 (http://arcweb.archives.gov).</note>
                         </bibl>
                     </relatedItem>
@@ -71,7 +71,7 @@
                             <title>Evidence Relating to the Petition of George Lee, 24 December 1862</title>                           
                             <date when="1862-12-24">December 24, 1862</date>
                             <idno type="rg">Record Group 217.6.5</idno>
-                            <orgName>Records of the Accounting Officers of the Department of the Treasury, 1775&#8211;1978, National Archives and Records Administration</orgName>
+                            <orgName>Records of the Accounting Officers of the Department of the Treasury, 1775–1978, National Archives and Records Administration</orgName>
                             <note type="project">Within the National Archives' Archival Description Catalog, see ARC Identifier 4644616 / MLR Number A1 347 (http://arcweb.archives.gov).</note>
                         </bibl>
                     </relatedItem>
@@ -97,7 +97,7 @@
         </revisionDesc>
     </teiHeader>
     
-    <text>
+    <text type="petition">
         <body>
             
             <!-- Begins with the text of the petition. -->
@@ -161,7 +161,7 @@
                     </div3>
                     
                     <div3 type="section">
-                        <ab>The commissioners, satisfied on the testimony of <persName>L. Huyck</persName>, firm of Sweeny &#38; Co., and of Samuel Diggs (<choice><abbr>Cold</abbr><expan>colored</expan></choice>) of the truth of the written statement, order the same to be so reported to the Clerk of the Circuit Court of the <placeName>Dist. of Columbia</placeName>.</ab>
+                        <ab>The commissioners, satisfied on the testimony of <persName>L. Huyck</persName>, firm of Sweeny &amp; Co., and of Samuel Diggs (<choice><abbr>Cold</abbr><expan>colored</expan></choice>) of the truth of the written statement, order the same to be so reported to the Clerk of the Circuit Court of the <placeName>Dist. of Columbia</placeName>.</ab>
                         
                         <closer>
                             <signed>Wm R. Woodward <lb/>Clerk <choice><abbr>Emn</abbr><expan>Emancipation</expan></choice> <choice><abbr>Comrs</abbr><expan>Commissioners</expan></choice></signed>
@@ -187,13 +187,13 @@
                 <div2 type="statement" subtype="mixed">
                     
                     <fw><persName>H. B. Sweeney</persName> <hi rend="right"><persName>L. Huyck</persName></hi></fw>
-                        <head type="main">Banking House of Sweeney &#38; Huyck</head>
+                        <head type="main">Banking House of Sweeney &amp; Huyck</head>
                         <head type="sub">No. 517 Seventh Street</head>
                     
                         <opener>
                         <dateline><placeName>Washington, D.C.</placeName> <date when="1862-12-24"><seg type="handwritten">Decr 24</seg> 186<seg type="handwritten">2</seg></date></dateline>
                        
-                        <salute><seg type="handwritten">To the Commissioners under the Act of Congress entitled "Ac Act for the release of certain persons held to service or labor in the <placeName>District of Columbia</placeName> &#8212; Approved <date when="1862-04-16">April 16, 1862</date></seg></salute>
+                        <salute><seg type="handwritten">To the Commissioners under the Act of Congress entitled "Ac Act for the release of certain persons held to service or labor in the <placeName>District of Columbia</placeName> — Approved <date when="1862-04-16">April 16, 1862</date></seg></salute>
                         </opener>
                         <ab type="handwritten"><persName>I L Huyck</persName> of the city of <placeName>Washington</placeName> do hereby certify that the bearer <persName>George Lee</persName> was in my service for four and one half months commencing on the <date when="1862-01-24">24th day of January 1862</date> and that I paid the wages for his services to the agent (<persName><unclear reason="illegible" cert="medium" resp="#km">A W.</unclear> Arnold</persName>) of the owner Miss Nancy Talbot; and further that it was with the consent of the agent of the owner that I employed the said George.</ab>
                         
@@ -213,7 +213,7 @@
                     </div3>
                 
                     <div3 type="testimony">
-                        <ab><persName>Saml Diggs</persName> (<choice><abbr>col</abbr><expan>colored</expan></choice>) I was living at <persName>Mr <unclear reason="illegible" cert="medium" resp="#km">Huck</unclear></persName> and hired this man for <persName>Mr <unclear reason="illegible" cert="medium" resp="#km">Hunck</unclear></persName>&#8212;he lived 4 <choice><abbr>mos</abbr><expan>months</expan></choice> &#38; 15 days with <persName>Mr <unclear reason="illegible" cert="medium" resp="#km">Hunck</unclear></persName> before law passed <persName>Mr Arnold</persName> <choice><abbr>Agt</abbr><expan>agent</expan></choice> drew wages&#8212;living here since &#38; was here on <date when="1862-04-16">16 Apl</date>&#8212;</ab>
+                        <ab><persName>Saml Diggs</persName> (<choice><abbr>col</abbr><expan>colored</expan></choice>) I was living at <persName>Mr <unclear reason="illegible" cert="medium" resp="#km">Huck</unclear></persName> and hired this man for <persName>Mr <unclear reason="illegible" cert="medium" resp="#km">Hunck</unclear></persName>—he lived 4 <choice><abbr>mos</abbr><expan>months</expan></choice> &amp; 15 days with <persName>Mr <unclear reason="illegible" cert="medium" resp="#km">Hunck</unclear></persName> before law passed <persName>Mr Arnold</persName> <choice><abbr>Agt</abbr><expan>agent</expan></choice> drew wages—living here since &amp; was here on <date when="1862-04-16">16 Apl</date>—</ab>
                     </div3>
                 
                     <div3 type="procedural">
@@ -231,9 +231,3 @@
         </body>
     </text>
 </TEI>
-                
-                
-                
-                
-                
-

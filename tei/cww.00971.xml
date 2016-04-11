@@ -52,8 +52,8 @@
                         <title>Petition of Ann Duckett, 22 December 1862</title>
                         <date when="1862-12-22">December 22, 1862</date>
                         <idno type="rg">Record Group 21</idno>
-                        <orgName>Records of the District Courts of the United States, 1685&#8211;2004, National Archives and Records Administration</orgName>
-                        <orgName>Emancipation Records, compiled 1862&#8211;1863</orgName>
+                        <orgName>Records of the District Courts of the United States, 1685–2004, National Archives and Records Administration</orgName>
+                        <orgName>Emancipation Records, compiled 1862–1863</orgName>
                         <note type="project">Within the National Archives' Archival Description Catalog, see ARC Identifier 4314547 / MLR Number NC-2 33 (http://arcweb.archives.gov).</note>
                     </bibl>
                 </relatedItem>
@@ -70,7 +70,7 @@
                          <title>Evidence Relating to the Petition of Ann Duckett, 22 December 1862</title>
                          <date when="1862-12-22">December 22, 1862</date>
                          <idno type="rg">Record Group 217.6.5</idno>
-                         <orgName>Records of the Accounting Officers of the Department of the Treasury, 1775&#8211;1978, National Archives and Records Administration</orgName>
+                         <orgName>Records of the Accounting Officers of the Department of the Treasury, 1775–1978, National Archives and Records Administration</orgName>
                          <note type="project">Within the National Archives' Archival Description Catalog, see ARC Identifier 4644616 / MLR Number A1 347 (http://arcweb.archives.gov).</note>
                      </bibl>
                  </relatedItem>
@@ -97,7 +97,7 @@
       </revisionDesc>
    </teiHeader>
    
-    <text>
+    <text type="petition">
         <body>            
             
             <!-- Begins with the text of the petition. -->
@@ -127,10 +127,10 @@
                                 <cell>Sex</cell>
                                 <cell>age</cell>
                                 <cell>Remarks</cell></row>
-                            <row><cell></cell>
+                            <row><cell/>
                                 <cell>female</cell>
                                 <cell>23</cell>
-                                <cell></cell></row>
+                                <cell/></row>
                         </table>
                     </div3>
                     
@@ -141,12 +141,12 @@
                 
                 <div2 type="cover" subtype="handwritten">
                     <div3 type="section">
-                        <ab><hi rend="underline">paid 50 <choice><abbr>&#162;</abbr><expan>cents</expan></choice></hi></ab>
+                        <ab><hi rend="underline">paid 50 <choice><abbr>¢</abbr><expan>cents</expan></choice></hi></ab>
                         <ab><persName>Ann Duckett</persName></ab>
                         <ab>schedule</ab>
                         <ab>Ammended Act<lb/>
                             <date when="1862-07-12">July 12th 1862</date></ab>
-                        <ab>Recorded in Manumission Record No. 2 folio 105 &#38; 106.</ab>
+                        <ab>Recorded in Manumission Record No. 2 folio 105 &amp; 106.</ab>
                         <ab>Filed <date when="1862-12-22">Decr. 22d 1862</date></ab>
                     </div3>
                     
@@ -166,7 +166,7 @@
             </div1>
             
             <!-- Evidence pertaining to the case begins here. -->            
-            <pb xml:id="leaf003r" facs="cww.00971.004.jpg" />
+            <pb xml:id="leaf003r" facs="cww.00971.004.jpg"/>
             <div1 type="evidence" subtype="handwritten" corresp="#rg217">
                 <dateline><date when="1862-12-22">Dec 22</date></dateline>
                 <div2 type="procedural">
@@ -183,7 +183,7 @@
                     <ab>Certificate ordered and sent.</ab>
                 </div2>
                 
-                <pb xml:id="leaf003v" facs="cww.00971.005.jpg" />
+                <pb xml:id="leaf003v" facs="cww.00971.005.jpg"/>
                 <div2 type="cover">
                     <ab><persName>Ann Duckett</persName></ab>
                     <ab><date when="1862-12-22">Dec 22</date></ab>

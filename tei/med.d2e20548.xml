@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng" type="xml"?>
-
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d2e20548">
  <teiHeader>
   <fileDesc>
@@ -67,7 +66,7 @@
      <term>ball entered below internal malleolus, passed upward and outward, exit anterior and under external malleolus, opening ankle joint</term> 
      <term>leg amputated above ankle, three vessels ligated</term>     
      <term>shoulder and elbow joints contain pus</term>
-     <term>py&#230;mia</term> 
+     <term>pyæmia</term> 
      <term>general anesthesia, ether</term>
      <term>general anesthesia, chloroform</term>
     </keywords>
@@ -82,9 +81,9 @@
    <change who="#ss" when="2008-09-22">initial checking of OCR text; encoded P5 Encoding</change>
   </revisionDesc>
  </teiHeader>
- <text>
+ <text type="case">
   <body>   
-    <p><hi rend="initialcap">C</hi>ASE 777.&#8212;<name type="person" key="1309">Private L.
+    <p><hi rend="initialcap">C</hi>ASE 777.—<name type="person" key="1309">Private L.
       Mock</name>, <name type="organization" key="449">Co. I, 119th Pennsylvania</name>, aged 22
      years, was wounded in the left foot, at <name type="BATTLE" key="15">Rappahannock
       Station</name>, <date type="injury" when="1863-11-07">November 7, 1863</date>, by a musket
@@ -94,14 +93,13 @@
       Square Hospital</name> at Washington <date type="admit" when="1863-11-09">two days after receiving the injury</date>. On <date type="operation" when="1863-12-06">December 6th</date>,
       <name type="person" key="123">Surgeon D. W. Bliss</name>, <name type="organization" key="132">U. S. V.</name>, amputated the leg above the ankle by flap operation, the patient being under
      ether, to which a little chloroform was added towards the last. Three vessels were ligated, the loss of blood being small. The patient reacted well from
-     the an&#230;sthetic. At the time of the operation his constitutional condition was tolerably
+     the anæsthetic. At the time of the operation his constitutional condition was tolerably
      good and the tissues of the wounded parts were in a healthy state. The stump grew painful, but
      its appearance was good. Cold-water dressing was used and nourishing diet with stimulants were
      administered. On December 9th the patient had three chills, followed by profuse perspiration.
      On the following day there was no chill, the stump still looked well, and the patient suffered
      no pain. Quinine and opium were now prescribed in addition to the former treatment. By December
-     18th there was well-developed py&#230;mia, from the effects of which the patient died <date
-      type="death" when="1863-12-21">December 21, 1863</date>. After death yellowness, to an extreme
+     18th there was well-developed pyæmia, from the effects of which the patient died <date type="death" when="1863-12-21">December 21, 1863</date>. After death yellowness, to an extreme
      degree, came on, and, on inspection, the shoulder and elbow were found to contain pus, the
      shoulder having a large quantity and the other joints being believed to be in a like condition.
      The tarsal bones of the amputated limb, contributed with the history by <name type="person" key="123">the operator</name>, constitute specimen 1903 of the Surgical Section of <name type="hospital" key="431">the Museum</name>. The specimen exhibits no perceptible attempt at repair, and shows that the ball passed through the <choice><orig>calcaneum</orig><reg>calcaneus</reg></choice>, which is necrosed, and grazed the <choice><orig>astragalus</orig><reg>talus</reg></choice>, opening the

@@ -3,7 +3,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title level="m" type="main">S&#8212;&#8212;, M.</title>
+                <title level="m" type="main">S——, M.</title>
                 <title level="m" type="sub">a machine readable transcription</title>
                 <principal>Susan C. Lawrence</principal>
                 <principal>Kenneth M. Price</principal>
@@ -41,7 +41,7 @@
             </notesStmt>
             <sourceDesc>
                 <bibl>
-                    <title>The Medical and Surgical History of the War of the Rebellion. (1861&#8211;65.)</title>
+                    <title>The Medical and Surgical History of the War of the Rebellion. (1861–65.)</title>
                     <editor role="compiler">Surgeon General Joseph K. Barnes, United States Army</editor>
                     <pubPlace>Washington, D.C.</pubPlace>
                     <publisher>Government Printing Office</publisher>
@@ -88,18 +88,15 @@
             <change who="#sb" when="2008-09-22">initial checking of OCR text against PDF; encoded</change>
         </revisionDesc>
     </teiHeader>
-    <text>
+    <text type="case">
         <body xml:id="ch1.sc3.0239">            
-                <p><hi rend="initialcap">C</hi>ASE.&#8212;<name type="person" key="1559">Private
-                        M. S&#8212;&#8212;</name>, <name type="organization" key="329">Co.
-                            F, 86th New York Volunteers</name>, aged 25 years, was wounded at the battle of <name
-                                type="BATTLE" key="109">Beverly Ford, Virginia</name>, <date
-                        type="injury" when="1863-06-09">June 9th, 1863</date>, by a musket ball,
+                <p><hi rend="initialcap">C</hi>ASE.—<name type="person" key="1559">Private
+                        M. S——</name>, <name type="organization" key="329">Co.
+                            F, 86th New York Volunteers</name>, aged 25 years, was wounded at the battle of <name type="BATTLE" key="109">Beverly Ford, Virginia</name>, <date type="injury" when="1863-06-09">June 9th, 1863</date>, by a musket ball,
                     which fractured the squamous portion of the left temporal bone.  He was conveyed
                     to <name type="place" key="#Washington">Washington</name>, and was admitted to the <name type="hospital" key="176">Lincoln
                         Hospital</name> on <date type="admit" when="1863-06-10">June 10th</date>,
-                    where water dressings were applied.  Death occurred on <date type="death"
-                        when="1863-06-28">June 28th, 1863</date>.  Autopsy: The fracture, which had
+                    where water dressings were applied.  Death occurred on <date type="death" when="1863-06-28">June 28th, 1863</date>.  Autopsy: The fracture, which had
                     radiating fissures, commenced one and a half inches anteriorly to the left ear
                     and extended one inch posteriorly, the opening being filled with disorganized
                     brain. Upon the removal of the <choice><orig>calvaria</orig><reg>calvarium</reg></choice>, the left hemisphere was observed to be
@@ -109,9 +106,7 @@
                     the middle cornu was disorganized, and had doubtless been involved in the
                     injury. Pus was found upon the superior surface of the cerebellum on both sides.  The pathological specimen is No. 1344, Sect. I, A. M. M., and shows the vault of
                     the cranium, with the line of section through the fractured bone, of which only
-                    the upper part is apparent.   The specimen and history were contributed by <name
-                        type="person" key="76">Surgeon G. S. Palmer</name>, <name
-                        type="organization" key="132">U. S. V.</name></p>            
+                    the upper part is apparent.   The specimen and history were contributed by <name type="person" key="76">Surgeon G. S. Palmer</name>, <name type="organization" key="132">U. S. V.</name></p>            
         </body>
     </text>
 </TEI>

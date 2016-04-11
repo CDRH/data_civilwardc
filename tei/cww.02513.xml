@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng" type="xml"?>
-
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="cww.02513">
     <teiHeader>
         <fileDesc>
@@ -97,10 +96,10 @@
                     <term xml:id="n85220659">Meade, George Gordon, 1815-1872</term>
                     <term xml:id="n90628815">Pierpont, John, 1785-1866</term>
                     <term xml:id="n50017339">Turner, Henry McNeal, 1834-1915</term>
-                    <term xml:id="sh2010113243">Slavery--United States--History--19th century</term>>
+                    <term xml:id="sh2010113243">Slavery--United States--History--19th century</term>&gt;
                     <term xml:id="no00024368">Smith, David, 1784-</term>
                     <term xml:id="n96039168">Union Bethel Church (Washington, D.C.)</term>
-                    <term></term>
+                    <term/>
                 </classCode>
                 <classCode scheme="http://civilwardc.org">
                     <term>Brooks, John Delaware, 1803-1874/75</term>
@@ -146,7 +145,7 @@
         </surface>
     </facsimile>
     
-    <text corresp="#letter #pp2_cropped">
+    <text corresp="#letter #pp2_cropped" type="letter">
         <body>
             <head type="main" subtype="authorial" rend="center"><emph rend="italic">FROM WASHINGTON.</emph></head>
             
@@ -157,7 +156,7 @@
             <div>
                 <p>So rapid is the whirl of events that we find <lb/>it impossible to write as we desire of things as <lb/>we find them here. The amount of common, <lb/>and therefore good, sense found among the <lb/>leading men is truly wonderful. The needs of <lb/>the country are as transparent to them as to <lb/>any member of President Lincoln's Cabinet; <lb/>and they understand quite as well how the <lb/>woes of that country are to be assuaged.</p>
                 
-                <p>But what is most interesting is the personal <lb/>experience of these men&#8212;aye, of the women <lb/>too! They can tell you of circumstances <lb/>which, although years have passed away since <lb/>some of them occurred, have the power to <choice><orig>cur-<lb/>dle</orig><reg>curdle</reg></choice> the blood in your veins. What an <choice><orig>inex-<lb/>haustible</orig><reg>inexhaustible</reg></choice> storehouse this subject of slavery <lb/>will be to the poets and tale and song-writers <lb/>of the next hundred years, and how many of <lb/>the men whose hand we have had the great <lb/>privilege to grasp will find a place in those <lb/>poems, tales and songs?</p>
+                <p>But what is most interesting is the personal <lb/>experience of these men—aye, of the women <lb/>too! They can tell you of circumstances <lb/>which, although years have passed away since <lb/>some of them occurred, have the power to <choice><orig>cur-<lb/>dle</orig><reg>curdle</reg></choice> the blood in your veins. What an <choice><orig>inex-<lb/>haustible</orig><reg>inexhaustible</reg></choice> storehouse this subject of slavery <lb/>will be to the poets and tale and song-writers <lb/>of the next hundred years, and how many of <lb/>the men whose hand we have had the great <lb/>privilege to grasp will find a place in those <lb/>poems, tales and songs?</p>
             </div>
             
             <div>
@@ -165,7 +164,7 @@
                 
                 <p>The manner in which we have been treated <lb/>by the trustees of many of the churches here <lb/>has not only filled us with gratitude, but <lb/>placed us under peculiar obligations to them. <lb/>The pastors of all these churches have not <lb/>only given their willing consent to the use of <lb/>their edifices by us, but the most of them have <lb/>given their invaluable assistance in filling the <lb/>houses and conducting the meetings.</p>
                 
-                <p>The following are the names of the churches <lb/>and their pastors where we have held <choice><orig>meet-<lb/>ings</orig><reg>meetings</reg></choice>, the trustees and pastors of which will <lb/>please accept our most grateful thanks: Israel <lb/>A. M. E. Church, Rev. H. M. Turner, Pastor; <lb/>Zion Wesley Church, Rev. J. D. Brooks, Pastor; <lb/>Asbury M. E. Church; Union Bethel Church, <lb/>Rev. J. P. Handy, Pastor; John Wesley A. M. <lb/>E. Church, Rev. J. P. Hamer, Pastor; <choice><orig>Gal-<lb/>breath</orig><reg>Galbreath</reg></choice> Chapel, Rev. R. H. Dyson; Third <choice><orig>Bap-<lb/>tist</orig><reg>Baptist</reg></choice> Church, Rev. A. Bouldin, Pastor; Mission <lb/>Chapel, E street, Island, Rev. J. J. Herbert; <lb/>Bethel Church, Good Hope, Rev. D. Smith, <choice><orig>Pas-<lb/>tor</orig><reg>Pastor</reg></choice>.  All of these places were furnished us free <lb/>of charge&#8212;the Israel and Asbury charges <lb/>being furnished us twice on the same terms.</p>
+                <p>The following are the names of the churches <lb/>and their pastors where we have held <choice><orig>meet-<lb/>ings</orig><reg>meetings</reg></choice>, the trustees and pastors of which will <lb/>please accept our most grateful thanks: Israel <lb/>A. M. E. Church, Rev. H. M. Turner, Pastor; <lb/>Zion Wesley Church, Rev. J. D. Brooks, Pastor; <lb/>Asbury M. E. Church; Union Bethel Church, <lb/>Rev. J. P. Handy, Pastor; John Wesley A. M. <lb/>E. Church, Rev. J. P. Hamer, Pastor; <choice><orig>Gal-<lb/>breath</orig><reg>Galbreath</reg></choice> Chapel, Rev. R. H. Dyson; Third <choice><orig>Bap-<lb/>tist</orig><reg>Baptist</reg></choice> Church, Rev. A. Bouldin, Pastor; Mission <lb/>Chapel, E street, Island, Rev. J. J. Herbert; <lb/>Bethel Church, Good Hope, Rev. D. Smith, <choice><orig>Pas-<lb/>tor</orig><reg>Pastor</reg></choice>.  All of these places were furnished us free <lb/>of charge—the Israel and Asbury charges <lb/>being furnished us twice on the same terms.</p>
                 
                 <p>Our thanks are also due to the many friends <lb/>who have made our stay in this city so very <lb/>agreeable socially.  To designate by name <lb/>where so much hospitality has been shown <lb/>would not only be invidious, but be in very <lb/>bad taste.</p>
             </div>
@@ -174,7 +173,7 @@
             
             <div>
                 
-                <head type="main" subtype="authorial" rend="center">A LADY NARRATOR&#8212;A THRILLING STORY.</head>
+                <head type="main" subtype="authorial" rend="center">A LADY NARRATOR—A THRILLING STORY.</head>
                 
                 <p>Mrs. R<gap reason="illegible" quantity="5" unit="chars"/> Williams of this city, who was <lb/>carried away to the South about seven years <lb/>ago, gave an account of her sufferings in and <lb/>escape from that guilty portion of our country, <lb/>on the evening of the 12th instant, in John <lb/>Wesley Church.</p>
                 
@@ -242,4 +241,3 @@
         </body>
     </text>
 </TEI>
-

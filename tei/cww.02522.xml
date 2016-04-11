@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng" type="xml"?>
-
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="cww.02522">
     <teiHeader>
         <fileDesc>
@@ -138,7 +137,7 @@
         </surface>
     </facsimile>
     
-    <text corresp="#letter #pp2_cropped">
+    <text corresp="#letter #pp2_cropped" type="letter">
         <body>
             <div>
                 <head type="main" subtype="authorial" rend="center">A DAY WELL SPENT.</head>
@@ -147,7 +146,7 @@
                     
                 <head type="sub" subtype="authorial"><emph rend="italic">Editorial Correspondence.</emph></head>
                 
-                <p><emph rend="smallcaps">This</emph> day has been, by both Houses of <choice><orig>Con-<lb/>gress</orig><reg>Congress</reg></choice>, devoted, almost entirely, to the interest <lb/>of the colored man&#8212;to the advancement of his <lb/>social, educational, and martial rights; and <lb/>hence, to the best interests of the country.</p>
+                <p><emph rend="smallcaps">This</emph> day has been, by both Houses of <choice><orig>Con-<lb/>gress</orig><reg>Congress</reg></choice>, devoted, almost entirely, to the interest <lb/>of the colored man—to the advancement of his <lb/>social, educational, and martial rights; and <lb/>hence, to the best interests of the country.</p>
                 
                 <p>The battle was opened in the Senate by that <lb/>ever-vigilant sentinel of liberty, the Hon. <emph rend="smallcaps">Chas. <lb/>Sumner</emph> of Massachusetts, who, after some <choice><orig>pre-<lb/>liminary</orig><reg>preliminary</reg></choice> business, submitted the following <choice><orig>re-<lb/>solution</orig><reg>resolution</reg></choice>:</p>
            
@@ -236,4 +235,3 @@
         </body>
     </text>
 </TEI>
-

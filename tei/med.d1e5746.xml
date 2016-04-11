@@ -41,7 +41,7 @@
             </notesStmt>
             <sourceDesc>
                 <bibl>
-                    <title>The Medical and Surgical History of the War of the Rebellion. (1861&#8211;65.)</title>
+                    <title>The Medical and Surgical History of the War of the Rebellion. (1861–65.)</title>
                     <editor role="compiler">Surgeon General Joseph K. Barnes, United States Army</editor>
                     <pubPlace>Washington, D.C.</pubPlace>
                     <publisher>Government Printing Office</publisher>
@@ -82,15 +82,9 @@
             <change who="#sb" when="2008-09-22">initial checking of OCR text against PDF; encoded</change>
         </revisionDesc>
     </teiHeader>
-    <text>
+    <text type="case">
         <body xml:id="ch1.sc3.0054">            
-                <p><name type="person" key="1176"><hi rend="initialcap">M</hi>ORIHAN, <hi
-                            rend="initialcap">J</hi>AMES</name>, Private, <name type="organization"
-                        key="141">Co. C, 110th Pennsylvania Volunteers</name>, aged 20 years.  Denudation and contusion of frontal bone by fragment of shell.  <name
-                        type="BATTLE" key="254">Petersburg</name>, <date type="injury"
-                        when="1864-06-16">June 16th, 1864</date>.  Treated at <name type="hospital"
-                        key="173">Harewood</name>.  Mustered out of service, <date
-                        type="servicedischarge" when="1864-06-21">June 21st, 1864</date>.</p>            
+                <p><name type="person" key="1176"><hi rend="initialcap">M</hi>ORIHAN, <hi rend="initialcap">J</hi>AMES</name>, Private, <name type="organization" key="141">Co. C, 110th Pennsylvania Volunteers</name>, aged 20 years.  Denudation and contusion of frontal bone by fragment of shell.  <name type="BATTLE" key="254">Petersburg</name>, <date type="injury" when="1864-06-16">June 16th, 1864</date>.  Treated at <name type="hospital" key="173">Harewood</name>.  Mustered out of service, <date type="servicedischarge" when="1864-06-21">June 21st, 1864</date>.</p>            
         </body>
     </text>
 </TEI>

@@ -41,7 +41,7 @@
             </notesStmt>
             <sourceDesc>
                 <bibl>
-                    <title>The Medical and Surgical History of the War of the Rebellion. (1861&#8211;65.)</title>
+                    <title>The Medical and Surgical History of the War of the Rebellion. (1861–65.)</title>
                     <editor role="compiler">Surgeon General Joseph K.Barnes, United States Army</editor>
                     <pubPlace>Washington, D.C.</pubPlace>
                     <publisher>Government Printing Office</publisher>
@@ -83,14 +83,10 @@
             <change who="#sb" when="2008-09-22">initial checking of OCR text against PDF; encoded</change>
         </revisionDesc>
     </teiHeader>
-    <text>
+    <text type="case">
         <body xml:id="ch1.sc2.0009">           
-                <p><name type="person" key="1157">Private Robert M. Young</name>, <name
-                        type="organization" key="767">Co. D, 107th Illinois Volunteers</name>.  Laceration of the scalp by a blow from the butt of a gun. Admitted to <name
-                        type="hospital" key="162">Douglas Hospital</name>, Washington, <date
-                        type="admit" when="1863-07-17">July 17th, 1863</date>. He was transferred to
-                    the <name type="organization" key="644">Invalid Corps</name>, <date
-                        type="transfer" when="1863-09-16">September 16th, 1863</date>.</p>           
+                <p><name type="person" key="1157">Private Robert M. Young</name>, <name type="organization" key="767">Co. D, 107th Illinois Volunteers</name>.  Laceration of the scalp by a blow from the butt of a gun. Admitted to <name type="hospital" key="162">Douglas Hospital</name>, Washington, <date type="admit" when="1863-07-17">July 17th, 1863</date>. He was transferred to
+                    the <name type="organization" key="644">Invalid Corps</name>, <date type="transfer" when="1863-09-16">September 16th, 1863</date>.</p>           
         </body>
     </text>
 </TEI>

@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?>
-
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="cww.00895">
     <teiHeader>
         <fileDesc>
@@ -88,14 +87,13 @@
 
     </teiHeader>
 
-    <text>
+    <text type="petition">
         <body>
             <pb xml:id="leaf001r" facs="cww.00895.001.jpg"/>
 
             <div1 type="petition" subtype="handwritten">
                 <head type="main"><hi rend="underline">Petition</hi>.</head>
-                <p>To the Commissioners under the act of Congress approved the <date
-                        when="1862-04-16">16th of April 1862</date>, entitled An act for the release
+                <p>To the Commissioners under the act of Congress approved the <date when="1862-04-16">16th of April 1862</date>, entitled An act for the release
                     of certain persons held to service or labor in the <placeName>District of
                         Columbia</placeName>.</p>
 
@@ -130,7 +128,7 @@
                     physical strength of manhood, of which he is now freed by the said act of
                     Congress.</p>
 
-                <p>Your petitioner's claim to the service &#38; labor of the said <persName>Isaiah
+                <p>Your petitioner's claim to the service &amp; labor of the said <persName>Isaiah
                         Carter</persName> was at the time of said discharge therefrom, of the value
                     of seven hundred dollars in money ($700.00)</p>
 

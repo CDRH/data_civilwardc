@@ -41,7 +41,7 @@
             </notesStmt>
             <sourceDesc>
                 <bibl>
-                    <title>The Medical and Surgical History of the War of the Rebellion. (1861&#8211;65.)</title>
+                    <title>The Medical and Surgical History of the War of the Rebellion. (1861–65.)</title>
                     <editor role="compiler">Surgeon General Joseph K. Barnes, United States Army</editor>
                     <pubPlace>Washington, D.C.</pubPlace>
                     <publisher>Government Printing Office</publisher>
@@ -81,18 +81,15 @@
             <change who="#sb" when="2008-09-22">initial checking of OCR text against PDF; encoded</change>
         </revisionDesc>
     </teiHeader>
-    <text>
+    <text type="case">
         <body xml:id="ch1.sc3.0006">            
-                <p><hi rend="initialcap">C</hi>ASE.&#8212;<name type="person" key="303">Private
+                <p><hi rend="initialcap">C</hi>ASE.—<name type="person" key="303">Private
                         William Tait</name>. <name type="organization" key="138">Co. F, 100th
-                            Pennsylvania Volunteers</name>, aged 40 years, received, at the battle of <name
-                                type="BATTLE" key="250"><choice><orig>Spottsylvania</orig><reg>Spotsylvania</reg></choice>, Virginia</name>, <date
-                        type="injury" when="1864-05-12">May 12th, 1864</date>, a gunshot wound of
+                            Pennsylvania Volunteers</name>, aged 40 years, received, at the battle of <name type="BATTLE" key="250"><choice><orig>Spottsylvania</orig><reg>Spotsylvania</reg></choice>, Virginia</name>, <date type="injury" when="1864-05-12">May 12th, 1864</date>, a gunshot wound of
                     the scalp. He was admitted to the hospital of the First Division, Ninth Corps.  On <date type="transfer" when="1864-05-15">May 15th</date>, he was sent to the
                         <name type="hospital" key="165">Mount Pleasant Hospital</name>, Washington,
                     D. C., and, on <date type="transfer" when="1864-05-19">May 19th</date>, to the
-                    <name type="hospital">McClellan Hospital, Philadelphia</name>, where he died on <date type="death"
-                        when="1864-05-28">May 28th, 1864</date>.  <name type="person" key="301">Surgeon Lewis Taylor</name>, <name type="organization" key="190">U. S. A.</name>, reported the case. </p>            
+                    <name type="hospital">McClellan Hospital, Philadelphia</name>, where he died on <date type="death" when="1864-05-28">May 28th, 1864</date>.  <name type="person" key="301">Surgeon Lewis Taylor</name>, <name type="organization" key="190">U. S. A.</name>, reported the case. </p>            
         </body>
     </text>
 </TEI>

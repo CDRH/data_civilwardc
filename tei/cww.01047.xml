@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng" type="xml"?>
-
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="cww.01047">
     <teiHeader>
         <fileDesc>
@@ -52,8 +51,8 @@
                             <title>Petition of Ellen Cox, 13 October 1862</title>
                             <date when="1862-10-13">October 13, 1862</date>
                             <idno type="rg">Record Group 21</idno>
-                            <orgName>Records of the District Courts of the United States, 1685&#8211;2004, National Archives and Records Administration</orgName>
-                            <orgName>Emancipation Records, compiled 1862&#8211;1863</orgName>
+                            <orgName>Records of the District Courts of the United States, 1685–2004, National Archives and Records Administration</orgName>
+                            <orgName>Emancipation Records, compiled 1862–1863</orgName>
                             <note type="project">Within the National Archives' Archival Description Catalog, see ARC Identifier 4314547 / MLR Number NC-2 33 (http://arcweb.archives.gov).</note>
                         </bibl>
                     </relatedItem>
@@ -70,7 +69,7 @@
                             <title>Evidence Relating to the Petition of Ellen Cox, 13 October 1862</title>
                             <date when="1862-10-13">October 13, 1862</date>
                             <idno type="rg">Record Group 217.6.5</idno>
-                            <orgName>Records of the Accounting Officers of the Department of the Treasury, 1775&#8211;1978, National Archives and Records Administration</orgName>
+                            <orgName>Records of the Accounting Officers of the Department of the Treasury, 1775–1978, National Archives and Records Administration</orgName>
                             <note type="project">Within the National Archives' Archival Description Catalog, see ARC Identifier 4644616 / MLR Number A1 347 (http://arcweb.archives.gov).</note>
                         </bibl>
                     </relatedItem>
@@ -96,7 +95,7 @@
         </revisionDesc>
     </teiHeader>
     
-    <text>
+    <text type="petition">
         <body>
             
             <pb xml:id="leaf001r" facs="cww.01047.001.jpg"/>
@@ -108,12 +107,12 @@
                         <salute>To The Honorable Commissioners appointed under an act of Congress entitled "An act for the release of certain persons held to service or labor in the <placeName>District of Columbia</placeName>" approved <date when="1862-04-16">16th April 1862</date>.</salute>
                     </opener>
                     
-                    <p>Your Petitioner <persName>Ellen Cox</persName> would respectfully represent that she is of African descent, if of black complexion, &#38; of medium height &#38; about twenty four years of age. That on the <date when="1862-04-16">16th day of April 1862</date>, she resided in the <placeName>District of Columbia</placeName>, &#38; still resides there, and that at the date aforesaid she was held to service or labor by <persName>William M. Merrick</persName> then &#38; still a citizen of <sic>of</sic> said <placeName>District</placeName>, &#38; had been so held by him for years previously. She further states that the said <persName>Merrick</persName> has neglected and still neglects to file a schedule in regard to herself as required by the ninth Section of the act aforesaid.</p>
-                    <p>Wherefore she prays, that in pursuance of the second and third sections of an act of Congress, Supplementary to the act aforesaid, approved <date when="1862-07-12">12th July 1862</date>, the foregoing schedule may be accepted &#38;
+                    <p>Your Petitioner <persName>Ellen Cox</persName> would respectfully represent that she is of African descent, if of black complexion, &amp; of medium height &amp; about twenty four years of age. That on the <date when="1862-04-16">16th day of April 1862</date>, she resided in the <placeName>District of Columbia</placeName>, &amp; still resides there, and that at the date aforesaid she was held to service or labor by <persName>William M. Merrick</persName> then &amp; still a citizen of <sic>of</sic> said <placeName>District</placeName>, &amp; had been so held by him for years previously. She further states that the said <persName>Merrick</persName> has neglected and still neglects to file a schedule in regard to herself as required by the ninth Section of the act aforesaid.</p>
+                    <p>Wherefore she prays, that in pursuance of the second and third sections of an act of Congress, Supplementary to the act aforesaid, approved <date when="1862-07-12">12th July 1862</date>, the foregoing schedule may be accepted &amp;
                     
                     <pb xml:id="leaf001v" facs="cww.01047.002.jpg"/>
                         
-                        filed and the clerk of the circuit Court of the <placeName>District of Columbia</placeName>, be authorised to issue to your Petitioner a certificate under the seal of said court, declaring her to be duly manumitted and set free by the act aforesaid. And she will ever pray &#38;c</p>
+                        filed and the clerk of the circuit Court of the <placeName>District of Columbia</placeName>, be authorised to issue to your Petitioner a certificate under the seal of said court, declaring her to be duly manumitted and set free by the act aforesaid. And she will ever pray &amp;c</p>
                     <closer>
                         <signed>her X mark <persName>Ellen Cox</persName></signed><lb/>
                         Witness
@@ -132,7 +131,7 @@
                         <ab><choice><abbr>Cert</abbr><expan>Certificate</expan></choice> given <date when="1862-10-13">13th Oct 1862</date> <choice><abbr>Idefd</abbr><expan>Identified</expan></choice> by <persName>Henry Olive</persName></ab>
                     </div3>
                     <div3 type="section">
-                        <ab>Recorded in Manumission Record No. 2 folios 108 &#38; 109.</ab>
+                        <ab>Recorded in Manumission Record No. 2 folios 108 &amp; 109.</ab>
                     </div3>
                     <div3 type="section">
                         <ab>Filed <date when="1862-10-13">13th October 1862</date></ab>
@@ -171,7 +170,7 @@
                 </div2>
                 
                 <div2 type="procedural">
-                    <ab><choice><abbr>Cert</abbr><expan>Certificate</expan></choice>ordered &#38; sent</ab>
+                    <ab><choice><abbr>Cert</abbr><expan>Certificate</expan></choice>ordered &amp; sent</ab>
                 </div2>               
                 
                 <pb xml:id="leaf003v" facs="cww.01047.005.jpg"/>
@@ -184,9 +183,3 @@
         </body>
     </text>
 </TEI>
-                
-                
-                
-                
-                
-

@@ -84,7 +84,7 @@
    <change who="#ss" when="2008-09-22">initial checking of OCR text; encoded P5 Encoding</change>
   </revisionDesc>
  </teiHeader>
- <text>
+ <text type="case">
   <body>
 
    <p>In <date type="injury" when="1863-02">February, 1863</date>, a number of cases of hospital
@@ -92,15 +92,12 @@
     C., and were observed by <name type="person" key="200">Assistant Surgeon William Thomson</name>,
      <name type="organization" key="190">U. S. A.</name>, who, in a special report to the Surgeon
     General, gives the following interesting account of the pathology and treatment of the cases. In
-    several instances later information has been added to the cases cited by <name type="person"
-     key="200">Dr. Thomson</name>.<!--<ref xml:id="n01" target="#n48" n="1" /> --></p>
+    several instances later information has been added to the cases cited by <name type="person" key="200">Dr. Thomson</name>.<!--<ref xml:id="n01" target="#n48" n="1" /> --></p>
    
    <p>"On the 26th of December, 1862, about two hundred wounded from the battle of <name type="BATTLE" key="251">Fredericksburg    
    </name> were received into the <name type="hospital" key="162">Douglas Hospital</name>.</p>
 
-   <p>&quot;CASE I.&#8212;<name type="person" key="xxx">Sergeant Otto Kosack</name>, <name
-     type="organization" key="xxx">Co. K, 2d Maryland</name>, who had been struck by a shell, <date
-     type="injury" when="1862-12-13">December 13, 1862</date>, which made it necessary to amputate
+   <p>"CASE I.—<name type="person" key="xxx">Sergeant Otto Kosack</name>, <name type="organization" key="xxx">Co. K, 2d Maryland</name>, who had been struck by a shell, <date type="injury" when="1862-12-13">December 13, 1862</date>, which made it necessary to amputate
     his left leg at the middle. The operation was done ten minutes after the injury. He was received
     here on tin- <date type="admit" when="1862-12-25">25th of December</date>. The stump closed by
     granulation, a small portion of the tibia having been removed by exfoliation. The cicatrization
@@ -126,7 +123,7 @@
     cast of the stump is preserved in the <name type="hospital" key="431">Army Medical Museum</name>
     and is numbered 6706 of the Sunjicul Section. ] </p>
 
-   <p>&quot;This was a mild case, treated in its iucipieucy with nitric acid most thoroughly. The
+   <p>"This was a mild case, treated in its iucipieucy with nitric acid most thoroughly. The
     ulceration had not extended so deeply, nor so far beneath the margin of the skin, as to make it
     almost impossible to reach every portion of the diseased surface. There was no scorbutis. The
     gums were firm and hard. The patient was very pallid, his heart feeble, and his pupils dilated.

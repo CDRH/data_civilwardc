@@ -41,7 +41,7 @@
             </notesStmt>
             <sourceDesc>
                 <bibl>
-                    <title>The Medical and Surgical History of the War of the Rebellion. (1861&#8211;65.)</title>
+                    <title>The Medical and Surgical History of the War of the Rebellion. (1861–65.)</title>
                     <editor role="compiler">Surgeon General Joseph K. Barnes, United States Army</editor>
                     <pubPlace>Washington, D.C.</pubPlace>
                     <publisher>Government Printing Office</publisher>
@@ -66,7 +66,7 @@
                     <term>wounds and injuries of the head</term>
                     <term>gunshot wounds</term>
                     <term>gunshot wounds of the scalp</term> 
-                    <term>h&#230;morrhage, hemorrhage</term>
+                    <term>hæmorrhage, hemorrhage</term>
                     <term>conoidal musket ball cut scalp over ear, severed  temporal artery</term>
                     <term>treated at his quarters</term>                    
                     <term>primary hemorrhage from temporal artery</term>                    
@@ -84,17 +84,14 @@
             <change who="#sb" when="2008-09-22">initial checking of OCR text against PDF; encoded</change>
         </revisionDesc>
     </teiHeader>
-    <text>
+    <text type="case">
         <body xml:id="ch1.sc3.0025">            
-            <p><hi rend="initialcap">C</hi>ASE.&#8212;<name type="person" key="324">Lieutenant A. St. Clair Smith</name>, <name type="organization" key="145">Co. E, 12th New Hampshire Volunteers</name>, was wounded at the battle of <name type="BATTLE" key="263">Cold Harbor, Virginia</name>, <date type="operation" when="1864-06-03"><date
-                        type="injury" when="1864-06-03">June 3d, 1864</date></date>, by a conoidal musket
+            <p><hi rend="initialcap">C</hi>ASE.—<name type="person" key="324">Lieutenant A. St. Clair Smith</name>, <name type="organization" key="145">Co. E, 12th New Hampshire Volunteers</name>, was wounded at the battle of <name type="BATTLE" key="263">Cold Harbor, Virginia</name>, <date type="operation" when="1864-06-03"><date type="injury" when="1864-06-03">June 3d, 1864</date></date>, by a conoidal musket
                     ball, which cut the scalp over the left ear and severed the temporal artery,
-                    which was secured with some difficulty.  He was admitted, on <date type="admit"
-                        when="1864-06-05">June 5th</date>, to the field hospital of the Eighteenth
+                    which was secured with some difficulty.  He was admitted, on <date type="admit" when="1864-06-05">June 5th</date>, to the field hospital of the Eighteenth
                             Corps, and thence sent to <name type="PLACE" key="#Washington">Washington, D. C.</name>, and was treated, at his quarters, at the <name type="place">Avenue House</name>.  He was
                     furloughed, on <date type="furlough" when="1864-06-11">June 11th, 1864</date>,
-                    and was finally mustered out with his regiment, on <date type="servicedischarge"
-                        when="1865-06-21">June 21st, 1865</date>.   <name type="person" key="424">Acting Assistant Surgeon G. K. Smith</name> recorded the case.</p>            
+                    and was finally mustered out with his regiment, on <date type="servicedischarge" when="1865-06-21">June 21st, 1865</date>.   <name type="person" key="424">Acting Assistant Surgeon G. K. Smith</name> recorded the case.</p>            
         </body>
     </text>
 </TEI>

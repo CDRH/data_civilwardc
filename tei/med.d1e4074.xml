@@ -41,7 +41,7 @@
             </notesStmt>
             <sourceDesc>
                 <bibl>
-                    <title>The Medical and Surgical History of the War of the Rebellion. (1861&#8211;65.)</title>
+                    <title>The Medical and Surgical History of the War of the Rebellion. (1861–65.)</title>
                     <editor role="compiler">Surgeon General Joseph K.Barnes, United States Army</editor>
                     <pubPlace>Washington, D.C.</pubPlace>
                     <publisher>Government Printing Office</publisher>
@@ -81,18 +81,14 @@
             <change who="#sb" when="2008-09-22">initial checking of OCR text against PDF; encoded</change>
         </revisionDesc>
     </teiHeader>
-    <text>
+    <text type="case">
         <body xml:id="ch1.sc3.0008">            
-                <p><hi rend="initialcap">C</hi>ASE.&#8212;<name type="person" key="306">Private
+                <p><hi rend="initialcap">C</hi>ASE.—<name type="person" key="306">Private
                         Jackson W. Vorhees</name>, <name type="organization" key="160">Co. I, 27th
-                            Michigan Volunteers</name>, aged 38 years, received, at the battle of <name
-                                type="BATTLE" key="263">Cold Harbor, Virginia</name>, <date
-                        type="injury" when="1864-06-03">June 3d, 1864</date>, a gunshot flesh wound
+                            Michigan Volunteers</name>, aged 38 years, received, at the battle of <name type="BATTLE" key="263">Cold Harbor, Virginia</name>, <date type="injury" when="1864-06-03">June 3d, 1864</date>, a gunshot flesh wound
                     of the left temple.  He was, on <date type="admit" when="1864-06-08">June 8th</date>, admitted to the hospital of the Third Division, Ninth Corps, and
-                    on <date type="transfer" when="1864-06-14">June 14th</date>, to the <name
-                        type="hospital" key="187">Second Division Hospital</name> at <name type="palce">Alexandria</name>.
-                    Simple dressings were applied.  Death occurred on <date type="death"
-                        when="1864-06-28">June 28th, 1864</date>.   <name type="person" key="307">Surgeon T. Rush Spencer</name>, <name type="organization" key="132">U. S. V.</name>, reported the case. </p>            
+                    on <date type="transfer" when="1864-06-14">June 14th</date>, to the <name type="hospital" key="187">Second Division Hospital</name> at <name type="palce">Alexandria</name>.
+                    Simple dressings were applied.  Death occurred on <date type="death" when="1864-06-28">June 28th, 1864</date>.   <name type="person" key="307">Surgeon T. Rush Spencer</name>, <name type="organization" key="132">U. S. V.</name>, reported the case. </p>            
         </body>
     </text>
 </TEI>

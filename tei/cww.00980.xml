@@ -53,8 +53,8 @@
                             <title>Petition of Harriet Liveless and George W. Liveless, 11 November 1862</title>          
                             <date when="1862-11-11">November 11, 1862</date>
                             <idno type="rg">Record Group 21</idno>
-                            <orgName>Records of the District Courts of the United States, 1685&#8211;2004, National Archives and Records Administration</orgName>
-                            <orgName>Emancipation Records, compiled 1862&#8211;1863</orgName>
+                            <orgName>Records of the District Courts of the United States, 1685–2004, National Archives and Records Administration</orgName>
+                            <orgName>Emancipation Records, compiled 1862–1863</orgName>
                             <note type="project">Within the National Archives' Archival Description Catalog, see ARC Identifier 4314547 / MLR Number NC-2 33 (http://arcweb.archives.gov).</note>
                         </bibl>
                     </relatedItem>
@@ -71,7 +71,7 @@
                             <title>Evidence Relating to the Petition of Harriet Liveless and George W. Liveless, 11 November 1862</title>
                             <date when="1862-11-11">November 11, 1862</date>
                             <idno type="rg">Record Group 217.6.5</idno>
-                            <orgName>Records of the Accounting Officers of the Department of the Treasury, 1775&#8211;1978, National Archives and Records Administration</orgName>
+                            <orgName>Records of the Accounting Officers of the Department of the Treasury, 1775–1978, National Archives and Records Administration</orgName>
                             <note type="project">Within the National Archives' Archival Description Catalog, see ARC Identifier 4644616 / MLR Number A1 347 (http://arcweb.archives.gov).</note>
                         </bibl>
                     </relatedItem>
@@ -100,7 +100,7 @@
         </revisionDesc>
     </teiHeader>
     
-    <text>
+    <text type="petition">
         <body>
             
             <!-- Begins with the text of the petition. -->
@@ -130,14 +130,14 @@
                             <cell><persName>Harriet Liveless</persName></cell>
                             <cell><choice><abbr>abt</abbr><expan>about</expan></choice> 32 years</cell>
                             <cell>Female</cell>
-                            <cell>5 Ft 1.&#189; In</cell>
+                            <cell>5 Ft 1.½ In</cell>
                             <cell>Dark Color</cell>
                         </row>
                         <row>
                             <cell>George W Liveless</cell>
                             <cell>" 6 "</cell>
                             <cell>Male</cell>
-                            <cell></cell>
+                            <cell/>
                             <cell>Dark Color</cell>
                         </row>
                     </table>
@@ -159,7 +159,7 @@
                         <ab><persName>George W Liveless</persName></ab>
                         <ab>slaves</ab>
                         <ab>Mrs <persName>Amelia Gray</persName></ab>                    
-                        <ab>Recorded in Manumission Record No 2 folio 104&#8212;</ab>
+                        <ab>Recorded in Manumission Record No 2 folio 104—</ab>
                         <ab>Filed <date when="1862-11-11">Nov 11th 1862</date></ab>
                     </div3>
                     
@@ -190,7 +190,7 @@
                 
                 <div2 type="testimony">                    
                     <ab><persName>Sarah Ann Keller</persName>. I have known this woman 5 or 6 years living with me. I hired her of <persName><unclear reason="illegible" cert="medium" resp="#km">Walter</unclear> Gray</persName> who was agent of <persName>Amelia Gray</persName>. she was given to <persName>Amelia Gray</persName> by <persName><unclear reason="illegible" cert="medium" resp="#km">Lester</unclear> Gray</persName></ab>
-                    <ab>she went down home voluntarily and alone she sick in the last of February and came back. I have sent &#38; written down to <unclear reason="illegible" cert="medium" resp="#km">owner</unclear> to attend to servant. she has been living with me ever since and no one has made any claim. <persName>Mr Gray</persName> was at my house today but I did not see him. The servant has been at my house backwards &#38; forwards. These servants did belong to my fathers relatives. They all know where the servants <unclear reason="illegible" cert="low" resp="#jc">work</unclear> I had up to time paid the wages to them but since I have not paid them to any one</ab>
+                    <ab>she went down home voluntarily and alone she sick in the last of February and came back. I have sent &amp; written down to <unclear reason="illegible" cert="medium" resp="#km">owner</unclear> to attend to servant. she has been living with me ever since and no one has made any claim. <persName>Mr Gray</persName> was at my house today but I did not see him. The servant has been at my house backwards &amp; forwards. These servants did belong to my fathers relatives. They all know where the servants <unclear reason="illegible" cert="low" resp="#jc">work</unclear> I had up to time paid the wages to them but since I have not paid them to any one</ab>
                 </div2>                  
                 
                 <div2 type="procedural">
@@ -199,7 +199,7 @@
                 
                 <pb xml:id="leaf003v" facs="cww.00980.004.jpg"/>
                 <div2 type="cover">
-                    <ab><persName>Harriet Liveless</persName> &#38; child</ab>
+                    <ab><persName>Harriet Liveless</persName> &amp; child</ab>
                     <ab>servant of <persName>Amelia Gray</persName></ab>
                     <ab><date when="1862-11-11">Nov 11</date></ab>
                 </div2>
@@ -207,9 +207,3 @@
         </body>
     </text>
 </TEI>
-                
-                
-                
-                
-                
-

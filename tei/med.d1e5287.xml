@@ -41,7 +41,7 @@
             </notesStmt>
             <sourceDesc>
                 <bibl>
-                    <title>The Medical and Surgical History of the War of the Rebellion. (1861&#8211;65.)</title>
+                    <title>The Medical and Surgical History of the War of the Rebellion. (1861–65.)</title>
                     <editor role="compiler">Surgeon General Joseph K. Barnes, United States Army</editor>
                     <pubPlace>Washington, D.C.</pubPlace>
                     <publisher>Government Printing Office</publisher>
@@ -69,7 +69,7 @@
                     <term>complications from intercurrent diseases</term>
                     <term>pneumonia reported as cause of death</term>
                     <term>questioned if pulmonary complications were not embolic phenomena, indicating metastatic foci</term>
-                    <term>questioned whether cases were not more properly classified under head of py&#230;mia</term>
+                    <term>questioned whether cases were not more properly classified under head of pyæmia</term>
                     <term>conoidal musket ball tore up scalp over vertex, no injury to bone detected</term>
                     <term>pneumonic complications, sank into typhoid condition, terminated fatally</term>                    
                 </keywords>
@@ -86,17 +86,15 @@
             <change who="#sb" when="2008-09-22">initial checking of OCR text against PDF; encoded</change>
         </revisionDesc>
     </teiHeader>
-    <text>
+    <text type="case">
         <body xml:id="ch1.sc3.0042">            
-                <p><hi rend="initialcap">C</hi>ASE.&#8212;<name type="person" key="343">
+                <p><hi rend="initialcap">C</hi>ASE.—<name type="person" key="343">
                         Sergeant Richard Decker</name>, <name type="organization" key="152">Co. K,
                         1st New Jersey Cavalry</name>, aged 22 years, received, at <name type="battle" key="83">the affair at
                             Salem Church, Virginia</name>, <date type="injury" when="1864-05-28">May 28th,
                         1864</date>, a wound from a conoidal musket ball, which tore up the scalp
                     over the vertex for the length of an inch. No injury to the bone could be
-                    detected.  The patient was sent to <name type="place" key="#Washington">Washington</name>, and admitted to <name
-                        type="hospital" key="165">Mount Pleasant Hospital</name> on <date
-                        type="admit" when="1864-06-04">June 4th, 1864</date>.  Pneumonic
+                    detected.  The patient was sent to <name type="place" key="#Washington">Washington</name>, and admitted to <name type="hospital" key="165">Mount Pleasant Hospital</name> on <date type="admit" when="1864-06-04">June 4th, 1864</date>.  Pneumonic
                     complications supervened, and the patient sank into a typhoid condition, which
                     terminated fatally on <date type="death" when="1864-06-11">June 11th, 1864</date>.   <name type="person" key="245">Assistant Surgeon H.
                     Allen</name>, <name type="organization" key="190">U. S. A.</name>, recorded the

@@ -41,7 +41,7 @@
             </notesStmt>
             <sourceDesc>
                 <bibl>
-                    <title>The Medical and Surgical History of the War of the Rebellion. (1861&#8211;65.)</title>
+                    <title>The Medical and Surgical History of the War of the Rebellion. (1861–65.)</title>
                     <editor role="compiler">Surgeon General Joseph K. Barnes, United States Army</editor>
                     <pubPlace>Washington, D.C.</pubPlace>
                     <publisher>Government Printing Office</publisher>
@@ -85,11 +85,10 @@
             <change who="#sb" when="2008-09-22">initial checking of OCR text against PDF; encoded</change>
         </revisionDesc>
     </teiHeader>
-    <text>
+    <text type="case">
         <body xml:id="ch1.sc3.0142">          
-                <p><hi rend="initialcap">C</hi>ASE.&#8212;<name type="person" key="1277">Sergeant Paul P. Starke</name>, <name type="organization" key="776">Co. H, 
-                            95th Pennsylvania Volunteers</name>, aged 21 years, received, at the battle of <name
-                                type="BATTLE" key="3"><choice><orig>Spottsylvania</orig><reg>Spotsylvania</reg></choice> Court-house,
+                <p><hi rend="initialcap">C</hi>ASE.—<name type="person" key="1277">Sergeant Paul P. Starke</name>, <name type="organization" key="776">Co. H, 
+                            95th Pennsylvania Volunteers</name>, aged 21 years, received, at the battle of <name type="BATTLE" key="3"><choice><orig>Spottsylvania</orig><reg>Spotsylvania</reg></choice> Court-house,
                                 Virginia</name>, <date type="injury" when="1864-05-12">May 12th, 1864</date>, a gunshot
                     fracture of the external table of the frontal bone, at the external edge of the
                     left orbit.  He was <date type="admit" when="1864-05-12">immediately</date> admitted to the hospital of the 1st division,
@@ -97,8 +96,7 @@
                     transferred to the <name type="hospital" key="167">Carver Hospital</name>.  Sequestra were removed from the wound and simple dressings applied. The patient
                     recovered, was furloughed on <date type="furlough" when="1864-05-27">May 27th,
                         1864</date>, and returned to the hospital <date type="transfer" when="1864-06-29">June 29th</date>.   He was pensioned, and
-                    on <date type="pension" when="1866-10-15">October 15th, 1866</date>, <name
-                        type="person" key="428">Pension Examining Surgeon J. Cummiskey</name>,
+                    on <date type="pension" when="1866-10-15">October 15th, 1866</date>, <name type="person" key="428">Pension Examining Surgeon J. Cummiskey</name>,
                     reported his disability as one quarter, and its duration doubtful.</p>            
         </body>
     </text>

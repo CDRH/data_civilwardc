@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?>
-
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="cww.00629">
     <teiHeader>
         <fileDesc>
@@ -88,14 +87,13 @@
 
     </teiHeader>
 
-    <text>
+    <text type="petition">
         <body>
             <pb xml:id="leaf001r" facs="cww.00629.001.jpg"/>
 
             <div1 type="petition" subtype="mixed">
                 <head type="main">PETITION.</head>
-                <p rend="bold">To the Commissioners under the act of Congress approved the <date
-                        when="1862-04-16">16th of April, 1862</date>, entitled "An act for the
+                <p rend="bold">To the Commissioners under the act of Congress approved the <date when="1862-04-16">16th of April, 1862</date>, entitled "An act for the
                     release of certain persons held to service or labor in the <placeName>District
                         of Columbia</placeName>."</p>
 
@@ -105,15 +103,14 @@
                     petition in writing, represents and states, that <seg type="handwritten">he</seg> is a person loyal to the <placeName>United States</placeName>,
                     who, at the time of the passage of the said act of Congress, held a claim to
                     service or labor against <seg type="handwritten">three</seg> person<seg type="handwritten">s</seg> of African descent of the name<seg type="handwritten">s</seg> of <seg type="handwritten"><persName>Maria</persName>, <persName>Kitty</persName>, and
-                            <persName>John</persName></seg> for and during the <del>life</del> <seg
-                        type="underline">lives</seg> of said <seg type="handwritten">persons</seg>
+                            <persName>John</persName></seg> for and during the <del>life</del> <seg type="underline">lives</seg> of said <seg type="handwritten">persons</seg>
                     and that by said act of Congress said <seg type="handwritten">persons were</seg>
                     discharged and freed of and from all claim of your petitioner to such service or
                     labor; that at the time of said discharge said 
                     <list type="mixed">
-                        <item><seg type="handwritten"><persName>Maria</persName> was</seg> of the age of <seg type="handwritten">fifteen years</seg> and of the personal description following:<note type="government" place="foot" xml:id="n1">Here describe the person, so as to identify him or her; and if there be more than one slave, describe each one separately.</note> <seg type="handwritten">dark copper colored girl about four feet ten inches in height&#8212;</seg></item>
-                        <item rend="handwritten"><persName>Kitty</persName>, black girl about thirteen years old about four feet ten inches in height&#8212;</item>
-                        <item rend="handwritten"><persName>John</persName> black boy eleven years old about four feet ten inches in height&#8212;</item></list></p>
+                        <item><seg type="handwritten"><persName>Maria</persName> was</seg> of the age of <seg type="handwritten">fifteen years</seg> and of the personal description following:<note type="government" place="foot" xml:id="n1">Here describe the person, so as to identify him or her; and if there be more than one slave, describe each one separately.</note> <seg type="handwritten">dark copper colored girl about four feet ten inches in height—</seg></item>
+                        <item rend="handwritten"><persName>Kitty</persName>, black girl about thirteen years old about four feet ten inches in height—</item>
+                        <item rend="handwritten"><persName>John</persName> black boy eleven years old about four feet ten inches in height—</item></list></p>
 
                 <pb xml:id="leaf001v" facs="cww.00629.002.jpg"/>
                 <p>That your petitioner acquired <seg type="handwritten">his</seg> claim to the
@@ -126,13 +123,12 @@
                     <seg type="handwritten"><persName>Hannah</persName> the mother of the said three
                         persons was purchased by petitioner out of the estate of <persName>Geo.
                             Kirby</persName> of <placeName>Prince George's Co.
-                        Maryland</placeName>&#8212;Petitioner bought <persName>Hannah</persName>
+                        Maryland</placeName>—Petitioner bought <persName>Hannah</persName>
                         (now dead) and her children <persName>Maria</persName> and
                             <persName>Kitty</persName> and <persName>John</persName> was born while
-                        said <persName>Hannah</persName> was owned by petitioner&#8212;</seg></p>
+                        said <persName>Hannah</persName> was owned by petitioner—</seg></p>
 
-                <p>That your petitioner's claim to the service or labor of said <seg
-                        type="handwritten">persons</seg> was, at the time of said discharge
+                <p>That your petitioner's claim to the service or labor of said <seg type="handwritten">persons</seg> was, at the time of said discharge
                     therefrom, of the value of <seg type="handwritten">sixteen hundred</seg> dollars
                     in money.<note type="government" place="foot" xml:id="n3">Here state such facts,
                         if any there be, touching the value of the petitioner's claim to the service
@@ -147,11 +143,11 @@
                         averment that he has no knowledge of any such infirmity or
                         defect.</note>
                     <list type="handwritten">
-                        <item><persName>Maria</persName> is an honest and industrious girl and very good house servant, strong and healthy&#8212;valued at $600&#8212;</item>
-                        <item><persName>Kitty</persName> is a strong and healthy girl, raised as a house servant&#8212;valued at $500&#8212;</item>
+                        <item><persName>Maria</persName> is an honest and industrious girl and very good house servant, strong and healthy—valued at $600—</item>
+                        <item><persName>Kitty</persName> is a strong and healthy girl, raised as a house servant—valued at $500—</item>
                         <item><persName>John</persName> is a strong and healthy boy valued at $500</item>
                     </list>                    
-                        <seg type="handwritten">These persons are free from any infirmity either bodily, mental or moral&#8212;</seg></p>
+                        <seg type="handwritten">These persons are free from any infirmity either bodily, mental or moral—</seg></p>
 
                 <p>Your petitioner hereby declares that <seg type="handwritten">he</seg> bears true
                     and faithful allegiance to the Government of the <placeName>United
@@ -193,10 +189,10 @@
                 <dateline><date when="1849-12-31">Decr 31, 1849</date></dateline>
                 <p>Received of Mr. <persName>Joseph T. Jenkins</persName> the sum of five hundred
                     dollars for servant woman <persName>Hannah</persName> aged about twenty five
-                    years, also her two youngest children one aged about three years &#38; the other
+                    years, also her two youngest children one aged about three years &amp; the other
                     nine months, belonging to the estate of <persName>Geo. Kirby</persName>
-                    <choice><abbr>decd</abbr><expan>deceased</expan></choice> The said slaves I warrant sound in mind &#38; body&#8212;The said
-                    negroes are sold for life&#8212;</p>
+                    <choice><abbr>decd</abbr><expan>deceased</expan></choice> The said slaves I warrant sound in mind &amp; body—The said
+                    negroes are sold for life—</p>
                 <closer><signed><persName>Jno. H. Bayne</persName><lb/>
                     <choice><abbr>Admr.</abbr><expan>Administrator</expan></choice> of <persName>Geo. Kirby</persName></signed><lb/>
                     Witness.

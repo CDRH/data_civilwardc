@@ -41,7 +41,7 @@
             </notesStmt>
             <sourceDesc>
                 <bibl>
-                    <title>The Medical and Surgical History of the War of the Rebellion. (1861&#8211;65.)</title>
+                    <title>The Medical and Surgical History of the War of the Rebellion. (1861–65.)</title>
                     <editor role="compiler">Surgeon General Joseph K. Barnes, United States Army</editor>
                     <pubPlace>Washington, D.C.</pubPlace>
                     <publisher>Government Printing Office</publisher>
@@ -84,18 +84,16 @@
             <change who="#sb" when="2008-09-22">initial checking of OCR text against PDF; encoded</change>
         </revisionDesc>
     </teiHeader>
-    <text>
+    <text type="case">
         <body xml:id="ch1.sc3.0015">            
-                <p><hi rend="initialcap">C</hi>ASE.&#8212;<name type="person" key="312">Private
+                <p><hi rend="initialcap">C</hi>ASE.—<name type="person" key="312">Private
                         Augustus Hether</name>, <name type="organization" key="105">Co. K, 98th
-                            Pennsylvania Volunteers</name>, aged 46 years, was wounded at the battle of <name
-                                type="BATTLE" key="250"><choice><orig>Spottsylvania</orig><reg>Spotsylvania</reg></choice> Court House, Virginia</name>, <date type="injury" when="1864-05-12">May 12th, 1864</date>, by a
+                            Pennsylvania Volunteers</name>, aged 46 years, was wounded at the battle of <name type="BATTLE" key="250"><choice><orig>Spottsylvania</orig><reg>Spotsylvania</reg></choice> Court House, Virginia</name>, <date type="injury" when="1864-05-12">May 12th, 1864</date>, by a
                     conoidal musket ball, which severely lacerated the scalp. He was <date type="admit" when="1864-05-12">immediately</date>
                     conveyed to the hospital of the Second Division, Sixth Corps; thence transferred
                     to the <name type="hospital" key="186">First Division Hospital</name> at
                     <name type="place">Alexandria</name>.  Death resulted on <date type="death" when="1864-06-17">June 17th,
-                        1864</date>.   <name type="person" key="134">Surgeon E. Bentley</name>, <name
-                        type="organization" key="132">U. S. V.</name>, reports the case. </p>            
+                        1864</date>.   <name type="person" key="134">Surgeon E. Bentley</name>, <name type="organization" key="132">U. S. V.</name>, reports the case. </p>            
         </body>
     </text>
 </TEI>

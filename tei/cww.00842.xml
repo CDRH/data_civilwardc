@@ -90,12 +90,11 @@
         </revisionDesc>
     </teiHeader>
 
-    <text>
+    <text type="petition">
         <body>
             <pb xml:id="leaf001r" facs="cww.00842.001.jpg"/>
             <div1 type="letter" subtype="handwritten">
-                <dateline><placeName>Georgetown</placeName>, <placeName>D.C.</placeName>, <date
-                        when="1862-08-12">Aug. 12, 62</date>.</dateline>
+                <dateline><placeName>Georgetown</placeName>, <placeName>D.C.</placeName>, <date when="1862-08-12">Aug. 12, 62</date>.</dateline>
                 <salute><persName>W. Redin</persName>, <choice>
                         <abbr>Esq</abbr>
                         <expan>Esquire</expan>
@@ -106,7 +105,7 @@
                         <placeName>District of Columbia</placeName>."</p>
                 <p>Enclosed find stamp to pay postage on same at the Office in
                         <placeName>Georgetown</placeName>, and believe me, in haste,</p>
-                <closer>Very truly &#38; <choice>
+                <closer>Very truly &amp; <choice>
                         <abbr>resp'ly</abbr>
                         <expan>respectfully</expan>
                     </choice>

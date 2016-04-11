@@ -34,7 +34,7 @@
    <notesStmt>
     <note type="project">The following are responsible for particular readings or for changes to
      this file, as noted: 
-     <persName>xml:id="mb">Matthew Bosley</persName>
+     <persName>xml:id="mb"&gt;Matthew Bosley</persName>
      <persName xml:id="el">Elizabeth Lorang</persName>
      <persName xml:id="sb">Stacey Berry</persName>
      <persName xml:id="ao">Alyssa Olson</persName>
@@ -62,10 +62,10 @@
   <profileDesc>
    <textClass>
       <keywords scheme="#medsurg">
-       <term>diarrh&#339;a and dysentery</term>
-       <term>reports and extracts from reports relating to diarrh&#339;a and dysentery</term>
+       <term>diarrhœa and dysentery</term>
+       <term>reports and extracts from reports relating to diarrhœa and dysentery</term>
        <term>treatment with nitrate of silver</term>
-       <term>diarrh&#339;a treated with injections of nitrate of silver at the <name type="hospital" key="428">Judiciary Square hospital</name>, Washington, D. C., during the summer of 1863</term>
+       <term>diarrhœa treated with injections of nitrate of silver at the <name type="hospital" key="428">Judiciary Square hospital</name>, Washington, D. C., during the summer of 1863</term>
        <term>compound comminuted fracture of femur from musket bullet</term>
        <term>thigh amputated in upper third</term>
        <term>nitrate of silver used as enema</term>       
@@ -79,10 +79,10 @@
    <change who="#ao" when="2008-10-02">encoding and editing</change>
   </revisionDesc>
  </teiHeader>
- <text>
+ <text type="case">
   <body>
-   <p>Case entered in the book is signed by <name type="person" key="157">Assistant Surgeon A. Hartsuff</name>, <name type="organization" key="190">U. S. A.</name>, temporarily acting as surgeon in charge,&#8432; by whom it is understood the majority if not all the cases were treated. To the account of each case as recorded in the case-book the subsequent history of the patient, whenever it has been possible to obtain it, is appended.    &#8432;In the absence of <name type="person" key="147">Assistant Surgeon E. J. Marsh</name>, <name type="organization" key="190">U. S. A.</name></p>
-   <p><hi rend="initialcap">C</hi>ASE 4.&#8212;<name type="person" key="96">Private Joseph Brinker</name>, <name type="organization" key="106">Company E, 11th Pennsylvania volunteers</name>; admitted <date type="admit" when="1863-04-02">April 2, 1863</date>. Compound comminuted fracture of the right femur from a musket bullet.  <date type="injury" when="1863-06-15">June 15th</date>: The patient was attacked by diarrh&#339;a, having six discharges during the day, for which opium pills were prescribed.  June 20th: The diarrh&#339;a still continuing, ordered pills of tannin and opium, one grain each.  June 25th: &#8478;. Persulphate of iron ten grains, opium five grains, capsicum ten grains; make ten pills. Take one every four hours.   June 30th: The diarrh&#339;a still continues, averaging five stools daily.  &#8478;. Nitrate of silver fifteen grains, water an ounce. Use as an enema.  July 10th: Has had but one passage daily since the enema.  [This man was discharged the service <date type="servicedischarge" when="1865-03-03">March 3, 1865</date>. His right thigh had been amputated in the upper third.]</p>     
+   <p>Case entered in the book is signed by <name type="person" key="157">Assistant Surgeon A. Hartsuff</name>, <name type="organization" key="190">U. S. A.</name>, temporarily acting as surgeon in charge,⃰ by whom it is understood the majority if not all the cases were treated. To the account of each case as recorded in the case-book the subsequent history of the patient, whenever it has been possible to obtain it, is appended.    ⃰In the absence of <name type="person" key="147">Assistant Surgeon E. J. Marsh</name>, <name type="organization" key="190">U. S. A.</name></p>
+   <p><hi rend="initialcap">C</hi>ASE 4.—<name type="person" key="96">Private Joseph Brinker</name>, <name type="organization" key="106">Company E, 11th Pennsylvania volunteers</name>; admitted <date type="admit" when="1863-04-02">April 2, 1863</date>. Compound comminuted fracture of the right femur from a musket bullet.  <date type="injury" when="1863-06-15">June 15th</date>: The patient was attacked by diarrhœa, having six discharges during the day, for which opium pills were prescribed.  June 20th: The diarrhœa still continuing, ordered pills of tannin and opium, one grain each.  June 25th: ℞. Persulphate of iron ten grains, opium five grains, capsicum ten grains; make ten pills. Take one every four hours.   June 30th: The diarrhœa still continues, averaging five stools daily.  ℞. Nitrate of silver fifteen grains, water an ounce. Use as an enema.  July 10th: Has had but one passage daily since the enema.  [This man was discharged the service <date type="servicedischarge" when="1865-03-03">March 3, 1865</date>. His right thigh had been amputated in the upper third.]</p>     
   </body>
  </text>
 </TEI>

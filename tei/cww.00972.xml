@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng" type="xml"?>
-
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="cww.00972">
     <teiHeader>
         <fileDesc>
@@ -52,7 +51,7 @@
                             <title>Petition of Mary A. Prather and Arthur S. Prather, [n.d.]</title>
                             <date notBefore="1862-07-12" notAfter="1862-11-29">Not before July 12, 1862, and not after November 29, 1862</date>
                             <idno type="rg">Record Group 217.6.5</idno>
-                            <orgName>Records of the Accounting Officers of the Department of the Treasury, 1775&#8211;1978, National Archives and Records Administration</orgName>
+                            <orgName>Records of the Accounting Officers of the Department of the Treasury, 1775–1978, National Archives and Records Administration</orgName>
                             <note type="project">Within the National Archives' Archival Description Catalog, see ARC Identifier 4644616 / MLR Number A1 347 (http://arcweb.archives.gov).</note>
                         </bibl>
                     </relatedItem>
@@ -69,7 +68,7 @@
                             <title>Evidence Relating to the Petition of Mary A. Prather and Arthur S. Prather, 29 November 1862</title>
                             <date when="1862-11-29">November 29, 1862</date>
                             <idno type="rg">Record Group 217.6.5</idno>
-                            <orgName>Records of the Accounting Officers of the Department of the Treasury, 1775&#8211;1978, National Archives and Records Administration</orgName>
+                            <orgName>Records of the Accounting Officers of the Department of the Treasury, 1775–1978, National Archives and Records Administration</orgName>
                             <note type="project">Within the National Archives' Archival Description Catalog, see ARC Identifier 4644616 / MLR Number A1 347 (http://arcweb.archives.gov).</note>
                         </bibl>
                     </relatedItem>
@@ -98,13 +97,13 @@
         </revisionDesc>
     </teiHeader>
     
-    <text>
+    <text type="petition">
         <body>          
             
             <div1 type="petition" corresp="#rg217a" subtype="handwritten">
             <pb xml:id="leaf002r" facs="cww.00972.003.jpg"/>                
                     <div2 type="document">
-                        <salute>To <persName>John A Smith</persName> <choice><abbr>Esq.</abbr><expan>Esquire</expan></choice> Clerk Circuit Court of the <placeName>District of Columbia</placeName>&#8212;</salute>
+                        <salute>To <persName>John A Smith</persName> <choice><abbr>Esq.</abbr><expan>Esquire</expan></choice> Clerk Circuit Court of the <placeName>District of Columbia</placeName>—</salute>
                     <salute>Sir,</salute>
                     <p>Dr. <persName>Septimus J. Cook</persName> of <placeName>Prince Georges Co. Md.</placeName> having claim to the service or labor of the undersigned, and having refused or failed to file in your office the statement or schedule provided for in the 9th section of the act of Congress, entitled "an Act for the release of certain persons held to service or labor in the <placeName>District of Columbia</placeName>" approved <date when="1862-04-16">16th April 1862.</date></p>
                     <p>You will please file the annexed schedule in pursuance of an act supplementary to the above recited act approved <date when="1862-07-12">12th July 1862</date>. The undersigned resided in said <placeName>District</placeName> before and at the time of the passage of the said supplemental act with said owner's consent.</p>                
@@ -149,7 +148,7 @@
             <div1 type="evidence" corresp="#rg217b" subtype="handwritten">
                 <dateline><date when="1862-11-04">Nov 4</date></dateline>                
                 <div2 type="procedural">
-                    <ab><persName>Mary A. Prather</persName> &#38;<lb/>
+                    <ab><persName>Mary A. Prather</persName> &amp;<lb/>
                     <persName>Arthur S. Prather</persName><lb/>
                         servants of<lb/>
                     Dr <persName>Septimus J. Cook</persName></ab>
@@ -160,7 +159,7 @@
                 </div2>
                 
                 <div2 type="testimony">
-                    <p><persName>Mary</persName> says she had permission to hire but Master took it away in <gap reason="illegible" extent="about one word" quantity="5" unit="chars"/> carried her away &#38; kept me until <date when="1862-08">August</date>&#8212;Mr <persName>Cook</persName> lives in <placeName>Beltsville</placeName>&#8212;has not tried to get me since. When he took my papers <unclear reason="illegible" cert="medium" resp="#jc">carried</unclear> me.</p>
+                    <p><persName>Mary</persName> says she had permission to hire but Master took it away in <gap reason="illegible" extent="about one word" quantity="5" unit="chars"/> carried her away &amp; kept me until <date when="1862-08">August</date>—Mr <persName>Cook</persName> lives in <placeName>Beltsville</placeName>—has not tried to get me since. When he took my papers <unclear reason="illegible" cert="medium" resp="#jc">carried</unclear> me.</p>
                 </div2>
                 
                 <div2 type="testimony">
@@ -172,15 +171,9 @@
                     <ab><persName>Mary A. Prather</persName><lb/>
                     <persName>Arthur S. Prather</persName></ab>
                     <ab><date when="1862-11-04">Nov 4</date></ab>
-                    <ab><persName>Arthur A. Prather</persName> &#38;</ab>
+                    <ab><persName>Arthur A. Prather</persName> &amp;</ab>
                 </div2>
             </div1>            
         </body>
     </text>
 </TEI>
-                
-                
-                
-                
-                
-

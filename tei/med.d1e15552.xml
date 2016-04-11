@@ -41,7 +41,7 @@
             </notesStmt>
             <sourceDesc>
                 <bibl>
-                    <title>The Medical and Surgical History of the War of the Rebellion. (1861&#8211;65.)</title>
+                    <title>The Medical and Surgical History of the War of the Rebellion. (1861–65.)</title>
                     <editor role="compiler">Surgeon General Joseph K. Barnes, United States Army</editor>
                     <pubPlace>Washington, D.C.</pubPlace>
                     <publisher>Government Printing Office</publisher>
@@ -85,13 +85,9 @@
             <change who="#sb" when="2008-09-22">initial checking of OCR text against PDF; encoded</change>
         </revisionDesc>
     </teiHeader>
-    <text>
+    <text type="case">
         <body xml:id="ch1.sc3.297">
-            <p><name type="person" key="1639"><hi rend="initialcap">A</hi>NDERSON, <hi
-                            rend="initialcap">S</hi>AMUEL, Private</name>, <name type="organization"
-                        key="106">Co. E, 11th Pennsylvania</name>, aged 18 years. <name
-                        type="BATTLE" key="12">Wilderness</name>, <date type="injury"
-                        when="1864-05-06">May 6th, 1864</date>.  Frontal fractured by conoidal ball.  <name type="hospital" key="165">Mount Pleasant Hospital</name>, Washington.  <date type="operation" when="1864-05">In May</date>, fragments of both tables removed.  Duty, <date type="duty" when="1864-08-20">August 20th, 1864</date>.</p>            
+            <p><name type="person" key="1639"><hi rend="initialcap">A</hi>NDERSON, <hi rend="initialcap">S</hi>AMUEL, Private</name>, <name type="organization" key="106">Co. E, 11th Pennsylvania</name>, aged 18 years. <name type="BATTLE" key="12">Wilderness</name>, <date type="injury" when="1864-05-06">May 6th, 1864</date>.  Frontal fractured by conoidal ball.  <name type="hospital" key="165">Mount Pleasant Hospital</name>, Washington.  <date type="operation" when="1864-05">In May</date>, fragments of both tables removed.  Duty, <date type="duty" when="1864-08-20">August 20th, 1864</date>.</p>            
         </body>
     </text>
 </TEI>

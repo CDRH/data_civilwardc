@@ -1,13 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng" type="xml"?>
-
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="cww.01035">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title level="m" type="main">Petition of Elizabeth Herbert, 25 July 1862</title>
                 <title level="m" type="main">Evidence Relating to the Petition of Elizabeth Herbert,
-                    29 July&#8211;1 August 1862</title>
+                    29 July–1 August 1862</title>
                 <title level="m" type="sub">a machine readable transcription</title>
                 <principal>Susan C. Lawrence</principal>
                 <principal>Kenneth M. Price</principal>
@@ -59,9 +58,9 @@
                             <date when="1862-07-25">July 25, 1862</date>
                             <idno type="rg">Record Group 21</idno>
                             <orgName>Records of the District Courts of the United States,
-                                1685&#8211;2004, National Archives and Records
+                                1685–2004, National Archives and Records
                                 Administration</orgName>
-                            <orgName>Emancipation Records, compiled 1862&#8211;1863</orgName>
+                            <orgName>Emancipation Records, compiled 1862–1863</orgName>
                             <note type="project">Within the National Archives' Archival Description
                                 Catalog, see ARC Identifier 4314547 / MLR Number NC-2 33
                                 (http://arcweb.archives.gov).</note>
@@ -72,19 +71,19 @@
                 </bibl>
 
                 <bibl xml:id="rg217">
-                    <title>Evidence Relating to the Petition of Elizabeth Herbert, 29 July&#8211;1
+                    <title>Evidence Relating to the Petition of Elizabeth Herbert, 29 July–1
                         August 1862</title>
-                    <date when="1862-07-29">July 29&#8211;August 1, 1862</date>
+                    <date when="1862-07-29">July 29–August 1, 1862</date>
                     <idno>Microcopy 520, Reel 6</idno>
                     <orgName>National Archives and Records Administration</orgName>
                     <relatedItem type="original">
                         <bibl>
                             <title>Evidence Relating to the Petition of Elizabeth Herbert, 29
-                                July&#8211;1 August 1862</title>
-                            <date when="1862-07-29">July 29&#8211;August 1, 1862</date>
+                                July–1 August 1862</title>
+                            <date when="1862-07-29">July 29–August 1, 1862</date>
                             <idno type="rg">Record Group 217.6.5</idno>
                             <orgName>Records of the Accounting Officers of the Department of the
-                                Treasury, 1775&#8211;1978, National Archives and Records
+                                Treasury, 1775–1978, National Archives and Records
                                 Administration</orgName>
                             <note type="project">Within the National Archives' Archival Description
                                 Catalog, see ARC Identifier 4644616 / MLR Number A1 347
@@ -115,7 +114,7 @@
         </revisionDesc>
     </teiHeader>
 
-    <text>
+    <text type="petition">
         <body>
 
             <pb xml:id="leaf001r" facs="cww.01035.001.jpg"/>
@@ -133,8 +132,7 @@
                         <salute>Sir:</salute>
                     </opener>
 
-                    <p><seg type="handwritten"><persName>Sarah B. Bronaugh</persName></seg> of <seg
-                            type="handwritten"><placeName>Washington City</placeName></seg> having
+                    <p><seg type="handwritten"><persName>Sarah B. Bronaugh</persName></seg> of <seg type="handwritten"><placeName>Washington City</placeName></seg> having
                         claim to the service of labor of the undersigned, and having refused or
                         neglected to file in your office the statement in writing or schedule
                         provided for in the 9th Section of the Act of Congress, entitled "An act for
@@ -143,15 +141,8 @@
                             16, 1862</date>, you will please file this petition or schedule in lieu
                         thereof, in pursuance of the provisions of an act supplementary to said act
                         which said last mentioned act was approved <date when="1862-07-12">July 12,
-                            1862</date>. This petitioner further state that the undersigned <seg
-                            type="handwritten">has</seg> resided in said
-                            <placeName>District</placeName> since the <seg type="handwritten"><date
-                                when="1862-04-16">16th day of April</date></seg> and ha<space
-                            atLeast="1"/> resided therein since the <date when="1862-04-14"><seg
-                                type="handwritten">14</seg> day of <seg type="handwritten"
-                                >April</seg> 1862</date>, by and with the consent of <seg
-                            type="handwritten">the</seg> said <seg type="handwritten"
-                                ><persName>Sarah B Bronaugh</persName></seg>.</p>
+                            1862</date>. This petitioner further state that the undersigned <seg type="handwritten">has</seg> resided in said
+                            <placeName>District</placeName> since the <seg type="handwritten"><date when="1862-04-16">16th day of April</date></seg> and ha<space atLeast="1"/> resided therein since the <date when="1862-04-14"><seg type="handwritten">14</seg> day of <seg type="handwritten">April</seg> 1862</date>, by and with the consent of <seg type="handwritten">the</seg> said <seg type="handwritten"><persName>Sarah B Bronaugh</persName></seg>.</p>
                     <table>
                         <row>
                             <cell>Name,</cell>
@@ -192,8 +183,7 @@
 
                     <div3 type="section">
                         <ab><persName>Mrs Dr Gibbs</persName>
-                            <gap reason="illegible" extent="about four words" quantity="17"
-                                unit="chars"/>
+                            <gap reason="illegible" extent="about four words" quantity="17" unit="chars"/>
                             <unclear reason="illegible" cert="low" resp="#jc">2 pm
                             friday</unclear></ab>
                     </div3>
@@ -227,11 +217,11 @@
 
                     <div3 type="testimony">
                         <p><persName>Stephen Smith</persName> (colored). I know <persName>Elizabeth
-                                Herbert</persName> this is her&#8212;for 6 years&#8212;formerly
+                                Herbert</persName> this is her—for 6 years—formerly
                             belonged to <persName>Mr Sheets</persName> sold her to <persName>Mr
-                                Bronaugh</persName>&#8212;who has gone away&#8212;she belonged to
+                                Bronaugh</persName>—who has gone away—she belonged to
                                 <persName>Mrs Bronaugh</persName> on <date when="1862-04-16">16
-                                Apl</date>&#8212;has been hiring herself out.</p>
+                                Apl</date>—has been hiring herself out.</p>
                     </div3>
 
                     <div3 type="testimony">
@@ -243,8 +233,7 @@
                             I did <date when="1862-04-16">16 Apl</date>
                             <persName>Mr William <unclear>More</unclear></persName>
                             <address><addrLine>K. Street</addrLine></address>. <persName>Mrs E. Dr
-                                Gibbs</persName> near <gap reason="illegible"
-                                extent="about one word" quantity="8" unit="chars"/> knows</ab>
+                                Gibbs</persName> near <gap reason="illegible" extent="about one word" quantity="8" unit="chars"/> knows</ab>
                     </div3>
 
                     <pb xml:id="leaf002v" facs="cww.01035.004.jpg"/>
@@ -286,7 +275,7 @@
                     <div3 type="testimony">
                         <ab><persName>Joseph F. Kelly</persName>. I saw this servant about
                                 <persName>Mr Moores</persName>
-                            <address><addrLine><choice><abbr>Cor</abbr><expan>Corner</expan></choice> H &#38; <gap reason="illegible" extent="about one word" quantity="7" unit="chars"/></addrLine></address>
+                            <address><addrLine><choice><abbr>Cor</abbr><expan>Corner</expan></choice> H &amp; <gap reason="illegible" extent="about one word" quantity="7" unit="chars"/></addrLine></address>
                             northern liberty market about <date when="1862-04-16">16 April
                                 1862</date></ab>
                     </div3>

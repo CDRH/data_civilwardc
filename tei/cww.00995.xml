@@ -52,8 +52,8 @@
                         <title>Petition of Margaret Vaughn, 24 September 1862</title>
                         <date when="1862-09-24">September 24, 1862</date>
                         <idno type="rg">Record Group 21</idno>
-                        <orgName>Records of the District Courts of the United States, 1685&#8211;2004, National Archives and Records Administration</orgName>
-                        <orgName>Emancipation Records, compiled 1862&#8211;1863</orgName>
+                        <orgName>Records of the District Courts of the United States, 1685–2004, National Archives and Records Administration</orgName>
+                        <orgName>Emancipation Records, compiled 1862–1863</orgName>
                         <note type="project">Within the National Archives' Archival Description Catalog, see ARC Identifier 4314547 / MLR Number NC-2 33 (http://arcweb.archives.gov).</note>
                     </bibl>
                 </relatedItem>
@@ -70,7 +70,7 @@
                          <title>Evidence Relating to the Petition of Margaret Vaughn, 26 September 1862</title>
                          <date when="1862-09-26">September 26, 1862</date>
                          <idno type="rg">Record Group 217.6.5</idno>
-                         <orgName>Records of the Accounting Officers of the Department of the Treasury, 1775&#8211;1978, National Archives and Records Administration</orgName>
+                         <orgName>Records of the Accounting Officers of the Department of the Treasury, 1775–1978, National Archives and Records Administration</orgName>
                          <note type="project">Within the National Archives' Archival Description Catalog, see ARC Identifier 4644616 / MLR Number A1 347 (http://arcweb.archives.gov).</note>
                      </bibl>
                  </relatedItem>
@@ -96,7 +96,7 @@
       </revisionDesc>
    </teiHeader>
    
-    <text>
+    <text type="petition">
         <body>            
             
             <!-- Begins with the text of the petition. -->
@@ -106,7 +106,7 @@
                 <div2 type="document" subtype="handwritten">
                     <div3 type="section">
                     <opener>
-                        <salute>To <persName>John A. Smith</persName> <choice><abbr>Esq</abbr><expan>Esquire</expan></choice> Clerk Circuit Court of the <placeName>District of Columbia</placeName>&#8212;</salute>
+                        <salute>To <persName>John A. Smith</persName> <choice><abbr>Esq</abbr><expan>Esquire</expan></choice> Clerk Circuit Court of the <placeName>District of Columbia</placeName>—</salute>
                         <salute>Sir,</salute>
                     </opener>                    
                     <p>Mrs <persName>Alfred Scott</persName> of <placeName>Georgetown D.C.</placeName> having claim to the service or labor of the undersigned, and having refused or failed to file in your Office the statement or schedule provided for in the 9th section of the act of Congress entitled "An act for the release of certain persons held to service or labor in the <placeName>District of Columbia</placeName>." Approved <date when="1862-04-16">16th April 1862</date>.</p>
@@ -145,13 +145,13 @@
                         <ab>Paid $..50</ab>
                         <ab><persName>Margaret Vaughn</persName></ab>
                         <ab>Filed <date when="1862-09-24">24th Sept 1862</date></ab>
-                        <ab>Recorded in Manumission Record No. 2 folios 109 &#38; 110</ab>
+                        <ab>Recorded in Manumission Record No. 2 folios 109 &amp; 110</ab>
                     </div3>
                     
                    <div3 type="section">
-                       <ab>The Commissioners, satisfied on the testimony of Messrs. <persName>Josiah Dent</persName> &#38; <persName>J.C. Marbury</persName>, <choice><abbr>Atts</abbr><expan>Attorneys</expan></choice> at Law, of the truth of the within statement, order the same to be so reported to the Clerk of the Circuit Court of the <placeName>Dist. of Columbia</placeName></ab>
+                       <ab>The Commissioners, satisfied on the testimony of Messrs. <persName>Josiah Dent</persName> &amp; <persName>J.C. Marbury</persName>, <choice><abbr>Atts</abbr><expan>Attorneys</expan></choice> at Law, of the truth of the within statement, order the same to be so reported to the Clerk of the Circuit Court of the <placeName>Dist. of Columbia</placeName></ab>
                         <closer>
-                            <signed><persName>Wm. R. Woodward</persName></signed><lb /> Clerk <choice><abbr>Eman.</abbr><expan>Emancipation</expan></choice> <choice><abbr>Comn</abbr><expan>Commission</expan></choice>
+                            <signed><persName>Wm. R. Woodward</persName></signed><lb/> Clerk <choice><abbr>Eman.</abbr><expan>Emancipation</expan></choice> <choice><abbr>Comn</abbr><expan>Commission</expan></choice>
                             <dateline><date when="1862-09-26">1862, 26 Sept</date>.</dateline>
                         </closer>
                    </div3>
@@ -161,7 +161,7 @@
             
             <!-- Evidence pertaining to the case begins here. -->
             
-            <pb xml:id="leaf003r" facs="cww.00995.003.jpg" />
+            <pb xml:id="leaf003r" facs="cww.00995.003.jpg"/>
             <div1 type="evidence" corresp="#rg217" subtype="handwritten">
                 
                 <dateline><date when="1862-09-26">September 26th 1862</date></dateline>
@@ -182,11 +182,11 @@
                 </div2>
                 
                 <div2 type="procedural">
-                    <ab><choice><abbr>Cert</abbr><expan>Certificate</expan></choice> ordered &#38; sent</ab>
+                    <ab><choice><abbr>Cert</abbr><expan>Certificate</expan></choice> ordered &amp; sent</ab>
                 </div2>               
                
                 
-                <pb xml:id="leaf003v" facs="cww.00995.004.jpg" />
+                <pb xml:id="leaf003v" facs="cww.00995.004.jpg"/>
                 <div2 type="cover">                    
                     <ab><persName>Margt Vaughan<lb/>
                     Margaret</persName></ab>

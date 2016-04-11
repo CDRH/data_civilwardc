@@ -41,7 +41,7 @@
             </notesStmt>
             <sourceDesc>
                 <bibl>
-                    <title>The Medical and Surgical History of the War of the Rebellion. (1861&#8211;65.)</title>
+                    <title>The Medical and Surgical History of the War of the Rebellion. (1861–65.)</title>
                     <editor role="compiler">Surgeon General Joseph K. Barnes, United States Army</editor>
                     <pubPlace>Washington, D.C.</pubPlace>
                     <publisher>Government Printing Office</publisher>
@@ -73,8 +73,8 @@
                     <term>missile produced opening upward and outward from inner angle of eye</term>
                     <term>depressed fracture of frontal bone</term>
                     <term>dura mater lacerated, inflammation of brain and membranes</term>
-                    <term></term>
-                    <term></term>
+                    <term/>
+                    <term/>
                     <term>superior portion of anterior lobe of cerebral hemisphere completely disorganised, corpus callosum softened</term>
                     <term>erysipelas</term>                    
                 </keywords>
@@ -90,13 +90,12 @@
             <change who="#sb" when="2008-09-22">initial checking of OCR text against PDF; encoded</change>
         </revisionDesc>
     </teiHeader>
-    <text>
+    <text type="case">
         <body xml:id="ch1.sc3.0204">            
-                <p><hi rend="initialcap">C</hi>ASE.&#8212;<name type="person" key="1484">Private
+                <p><hi rend="initialcap">C</hi>ASE.—<name type="person" key="1484">Private
                         John H. Wingert</name>, <name type="organization" key="793">Co. E, 14th
                         Indiana Volunteers</name>, received a depressed fracture of the frontal bone
-                    at the battle of <name type="BATTLE" key="4">Fredericksburg</name>, <date
-                        type="injury" when="1862-12-13">December 13th, 1862</date>.  The missile
+                    at the battle of <name type="BATTLE" key="4">Fredericksburg</name>, <date type="injury" when="1862-12-13">December 13th, 1862</date>.  The missile
                     produced an opening two and a quarter inches in length and three-fourths of an
                     inch in width, extending from the inner angle of the right eye upward and
                     outward.  He was sent to the hospital of the 3d division, Second Corps, and on
@@ -106,8 +105,7 @@
                     Inflammation of the brain and its membranes existed, and the surrounding
                     integuments presented an erysipelatous appearance. The pulse was one hundred and
                     twenty and bowels costive. No paralysis existed, and the patient answered questions correctly.  On December 19th stupor
-                    supervened, muttering delirium followed, and death occurred <date type="death"
-                        when="1862-12-20">December 20th, 1862</date>.  On removing the <choice><orig>calvaria</orig><reg>calvarium</reg></choice>, the
+                    supervened, muttering delirium followed, and death occurred <date type="death" when="1862-12-20">December 20th, 1862</date>.  On removing the <choice><orig>calvaria</orig><reg>calvarium</reg></choice>, the
                     anterior half of the dura mater was found thickened, and the superior portion of
                     the anterior lobe of right hemisphere was completely disorganised. The
                     ventricles were filled with a sanguineous fluid, and the corpus callosum was

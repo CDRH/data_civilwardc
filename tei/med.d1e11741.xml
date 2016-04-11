@@ -65,9 +65,9 @@
                                 <keywords scheme="#medsurg">
                                         <term>on certain local diseases</term>
                                         <term>diseases of the kidneys</term>
-                                        <term></term>
-                                        <term></term> 
-                                        <term></term>
+                                        <term/>
+                                        <term/> 
+                                        <term/>
                                         <term>anasarca</term>
                                         <term>erysipelas</term>                                        
                                         <term>kidneys presented appearance of Bright's disease</term>
@@ -85,11 +85,10 @@
                         <change who="#et" when="2009-12-01">Initial Checking OCR Text to PDF file,</change>
                 </revisionDesc>
         </teiHeader>
-        <text>
+        <text type="case">
                 <body>
-                        <p><hi rend="initialcap">C</hi>ASE 10.&#8212;<name type="person">Ashley R. Jackett</name>, <name type="organization">Co. K,
-                                        5th Mich. Cav.</name>, was admitted <date type=" admit"
-                                        when="1863-06-26">June 26, 1863</date>.  No history could be
+                        <p><hi rend="initialcap">C</hi>ASE 10.—<name type="person">Ashley R. Jackett</name>, <name type="organization">Co. K,
+                                        5th Mich. Cav.</name>, was admitted <date type=" admit" when="1863-06-26">June 26, 1863</date>.  No history could be
                                 obtained previous to the occurrence of the anasarca, which appeared
                                 shortly before his admission. The urine, high-colored, acrid and
                                 albuminous, contained tubular casts, renal epithelium, an abundance
@@ -102,7 +101,7 @@
                                 emaciated; hydrothorax, ascites and general anasarca present. The
                                 heart weighed eleven ounces and a half. The lungs were healthy. The
                                 kidneys weighed eight ounces and each presented the appearance of
-                                Bright 's disease.&#8212;<hi rend="italic"><name type="person" key="xx">Act. Ass't Surgeon Norman S. Barnes</name>,
+                                Bright 's disease.—<hi rend="italic"><name type="person" key="xx">Act. Ass't Surgeon Norman S. Barnes</name>,
                                         <name type="hospital" key="186">First Division Hospital</name>, <name type="place">Alexandria, Va.</name></hi> </p>
                 </body>
         </text>

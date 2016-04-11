@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?>
-
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="cww.00636">
     <teiHeader>
         <fileDesc>
@@ -88,14 +87,13 @@
 
     </teiHeader>
 
-    <text>
+    <text type="petition">
         <body>
             <pb xml:id="leaf001r" facs="cww.00636.001.jpg"/>
 
             <div1 type="petition" subtype="mixed">
                 <head type="main">PETITION.</head>
-                <p rend="bold">To the Commissioners under the act of Congress approved the <date
-                        when="1862-04-16">16th of April, 1862</date>, entitled "An act for the
+                <p rend="bold">To the Commissioners under the act of Congress approved the <date when="1862-04-16">16th of April, 1862</date>, entitled "An act for the
                     release of certain persons held to service or labor in the <placeName>District
                         of Columbia</placeName>."</p>
 
@@ -104,65 +102,63 @@
                     this <seg type="handwritten">his</seg> petition in writing, represents and
                     states, that <seg type="handwritten">he</seg> is a person loyal to the
                         <placeName>United States</placeName>, who, at the time of the passage of the
-                    said act of Congress, held a claim to service or labor against <seg
-                        type="handwritten">seven</seg> person<seg type="handwritten">s</seg> of
-                    African descent of the name of <seg type="handwritten"><persName>Anthony Washington</persName>&#8212;<persName>Wesley Snowden</persName>&#8212;<persName>Rosa Brown</persName>&#8212;<persName>Thomas Brown</persName>&#8212;<persName>Robert Brown</persName>&#8212;<persName>Frank Brown</persName> &#38; <persName>Wesley Brown</persName>&#8212;</seg> for and during the li<seg type="handwritten">v</seg>e<seg type="handwritten">s</seg>
+                    said act of Congress, held a claim to service or labor against <seg type="handwritten">seven</seg> person<seg type="handwritten">s</seg> of
+                    African descent of the name of <seg type="handwritten"><persName>Anthony Washington</persName>—<persName>Wesley Snowden</persName>—<persName>Rosa Brown</persName>—<persName>Thomas Brown</persName>—<persName>Robert Brown</persName>—<persName>Frank Brown</persName> &amp; <persName>Wesley Brown</persName>—</seg> for and during the li<seg type="handwritten">v</seg>e<seg type="handwritten">s</seg>
                     of said <seg type="handwritten">seven persons</seg> and that by said act of
                     Congress said <seg type="handwritten">seven persons were</seg> discharged and
                     freed of and from all claim of your petitioner to such service or labor that at
                     the time of said discharge said <seg type="handwritten">seven persons were</seg>
-                    of the age<seg type="handwritten">s</seg> of and of the personal description<seg type="handwritten">s</seg> following:<note type="government" place="foot"
-                        xml:id="n1">Here describe the person, so as to identify him or her; and if
+                    of the age<seg type="handwritten">s</seg> of and of the personal description<seg type="handwritten">s</seg> following:<note type="government" place="foot" xml:id="n1">Here describe the person, so as to identify him or her; and if
                         there be more than one slave, describe each one separately.</note>
                     <table rend="handwritten">
                             <row>
-                                <cell><persName>Anthony Washington</persName>&#8212;</cell>
-                                <cell>male&#8212;</cell>
-                                <cell>age 40&#8212;</cell>
+                                <cell><persName>Anthony Washington</persName>—</cell>
+                                <cell>male—</cell>
+                                <cell>age 40—</cell>
                                 <cell>full height=</cell>
-                                <cell>dark color&#8212;</cell>
+                                <cell>dark color—</cell>
                             </row>
                             <row>
-                                <cell><persName>Wesley Snowden</persName>&#8212; &#8212;</cell>
-                                <cell>&#8212; &#8212;</cell>
-                                <cell>24&#8212;</cell>
-                                <cell>tall&#8212;</cell>
-                                <cell>mulatto&#8212;</cell>
+                                <cell><persName>Wesley Snowden</persName>— —</cell>
+                                <cell>— —</cell>
+                                <cell>24—</cell>
+                                <cell>tall—</cell>
+                                <cell>mulatto—</cell>
                             </row>
                             <row>
-                                <cell><persName>Rosa Brown</persName>&#8212; &#8212;</cell>
-                                <cell>female&#8212;</cell>
-                                <cell>45&#8212;</cell>
-                                <cell>short&#8212;</cell>
-                                <cell>light brown&#8212;</cell>
+                                <cell><persName>Rosa Brown</persName>— —</cell>
+                                <cell>female—</cell>
+                                <cell>45—</cell>
+                                <cell>short—</cell>
+                                <cell>light brown—</cell>
                             </row>
                             <row>
-                                <cell><persName>Thomas Brown</persName>&#8212; &#8212;</cell>
-                                <cell>male&#8212;</cell>
-                                <cell>23&#8212;</cell>
+                                <cell><persName>Thomas Brown</persName>— —</cell>
+                                <cell>male—</cell>
+                                <cell>23—</cell>
                                 <cell>full height=</cell>
-                                <cell>stout&#8212;brown color</cell>
+                                <cell>stout—brown color</cell>
                             </row>
                             <row>
-                                <cell><persName>Robert Brown</persName>&#8212; &#8212;</cell>
-                                <cell>&#8212; &#8212;</cell>
-                                <cell>19&#8212;</cell>
-                                <cell>short&#8212;</cell>
-                                <cell>brown color&#8212;very stout</cell>
+                                <cell><persName>Robert Brown</persName>— —</cell>
+                                <cell>— —</cell>
+                                <cell>19—</cell>
+                                <cell>short—</cell>
+                                <cell>brown color—very stout</cell>
                             </row>
                             <row>
-                                <cell><persName>Frank Brown</persName>&#8212; &#8212;</cell>
-                                <cell>&#8212; &#8212;</cell>
-                                <cell>16&#8212;</cell>
+                                <cell><persName>Frank Brown</persName>— —</cell>
+                                <cell>— —</cell>
+                                <cell>16—</cell>
                                 <cell>dark brown,</cell>
-                                <cell>stout &#38; growthy&#8212;</cell>
+                                <cell>stout &amp; growthy—</cell>
                             </row>
                             <row>
-                                <cell><persName>Wesley Brown</persName>&#8212; &#8212;</cell>
-                                <cell>&#8212; &#8212;</cell>
-                                <cell>13&#8212;</cell>
-                                <cell>light brown&#8212;</cell>
-                                <cell>very active&#8212;</cell>
+                                <cell><persName>Wesley Brown</persName>— —</cell>
+                                <cell>— —</cell>
+                                <cell>13—</cell>
+                                <cell>light brown—</cell>
+                                <cell>very active—</cell>
                             </row>
                         </table>
                 </p>
@@ -176,9 +172,9 @@
                         exhibit thereof, or refer to the public record where the same may be
                         found.</note>
                     <list type="handwritten">
-                        <item><persName>Anthony Washington</persName> purchased of the <persName>Chew</persName> Estate, <placeName>P. George's Co. Md</placeName>. <date when="1857-09-01">Sept 1st '57</date> for $900&#8212;</item>
-                        <item><persName>Wesley Snowden</persName> purchased of <persName>Wm C. Ogle</persName> <choice><abbr>Esq.</abbr><expan>Esquire</expan></choice> <placeName>Md</placeName>. <date when="1854-03-30">March 30th '54</date>&#8212;$800</item>
-                        <item><persName>Rosa Brown</persName> &#38; 4 sons, purchased of <persName>Theodore Mosher</persName> <choice><abbr>Esq.</abbr><expan>Esquire</expan></choice> <date when="1854">1854</date>&#8212;2,800</item>
+                        <item><persName>Anthony Washington</persName> purchased of the <persName>Chew</persName> Estate, <placeName>P. George's Co. Md</placeName>. <date when="1857-09-01">Sept 1st '57</date> for $900—</item>
+                        <item><persName>Wesley Snowden</persName> purchased of <persName>Wm C. Ogle</persName> <choice><abbr>Esq.</abbr><expan>Esquire</expan></choice> <placeName>Md</placeName>. <date when="1854-03-30">March 30th '54</date>—$800</item>
+                        <item><persName>Rosa Brown</persName> &amp; 4 sons, purchased of <persName>Theodore Mosher</persName> <choice><abbr>Esq.</abbr><expan>Esquire</expan></choice> <date when="1854">1854</date>—2,800</item>
                     </list></p>
 
                 <p>That your petitioner's claim to the service or labor of said <seg type="handwritten">seven persons</seg> was, at the time of said discharge
@@ -196,13 +192,13 @@
                         averment that he has no knowledge of any such infirmity or
                         defect.</note>
                     <list type="handwritten">
-                        <item><persName>Anthony Washington accustomed to farming &#38; planting work&#8212;</persName></item>
-                        <item><persName>Wesley Snowden</persName>&#8212; do &#8212; do &#8212; also an excellent ostler&#8212;</item>
-                        <item><persName>Thomas Brown</persName>&#8212; " " " a first rate teamster&#8212;</item>
-                        <item><persName>Robert Brown</persName>&#8212; " " " a good ox driver&#8212;</item>
-                        <item><persName>Wesley Brown</persName>&#8212;an excellent house servant &#38; <hi rend="underline">invaluable</hi></item>
-                        <item><persName>Frank Brown</persName>&#8212;accustomed to farm work&#8212;chopping wood&#8212;working garden &#38;c&#8212;</item>
-                        <item><persName>Rosa Brown</persName>&#8212;excellent cook washer &#38;c&#8212;The above are without defect, unless the last who has one leg short from white swelling in early life&#8212;</item></list></p>
+                        <item><persName>Anthony Washington accustomed to farming &amp; planting work—</persName></item>
+                        <item><persName>Wesley Snowden</persName>— do — do — also an excellent ostler—</item>
+                        <item><persName>Thomas Brown</persName>— " " " a first rate teamster—</item>
+                        <item><persName>Robert Brown</persName>— " " " a good ox driver—</item>
+                        <item><persName>Wesley Brown</persName>—an excellent house servant &amp; <hi rend="underline">invaluable</hi></item>
+                        <item><persName>Frank Brown</persName>—accustomed to farm work—chopping wood—working garden &amp;c—</item>
+                        <item><persName>Rosa Brown</persName>—excellent cook washer &amp;c—The above are without defect, unless the last who has one leg short from white swelling in early life—</item></list></p>
 
                 <p>Your petitioner hereby declares that <seg type="handwritten">he</seg> bears true
                     and faithful allegiance to the Government of the <placeName>United
@@ -243,8 +239,8 @@
                 <p>I have this day received from Mr <persName>Allen Dodge</persName> his <choice><sic>promisory</sic><corr>promissory</corr></choice>
                     note for the sum of nine hundred Dollars being the sum agreed upon by us, for
                     the purchase by him of Servant Man named <persName>Anthony</persName> now in his possession, which
-                    <choice><sic>promisory</sic><corr>promissory</corr></choice> note, when paid will be in full discharge and settlement of the same&#8212;As witness my hand this <date when="1857-09-01">1st day of September 1857</date>&#8212;</p>
-                    <closer><signed><persName>H. C. Matthews</persName> Trustee &#38; Agent for the children &#38; heirs of the late <persName>Elizabeth Ann Chew</persName>&#8212;</signed>
+                    <choice><sic>promisory</sic><corr>promissory</corr></choice> note, when paid will be in full discharge and settlement of the same—As witness my hand this <date when="1857-09-01">1st day of September 1857</date>—</p>
+                    <closer><signed><persName>H. C. Matthews</persName> Trustee &amp; Agent for the children &amp; heirs of the late <persName>Elizabeth Ann Chew</persName>—</signed>
                         <dateline><placeName>George Town D. C</placeName></dateline>
                     </closer>
                 </div2>
@@ -253,7 +249,7 @@
             <pb xml:id="leaf004r" facs="cww.00636.005.jpg"/>
             <div1 type="receipt" subtype="handwritten">
                 <dateline><date when="1854-03-20">March 20th 1854</date></dateline>
-                <p><choice><abbr>Recd.</abbr><expan>Received</expan></choice> of <persName>Allen Dodge</persName> <choice><abbr>Esqr</abbr><expan>Esquire</expan></choice> Eight hundred dollars for negro boy <persName>Wesley</persName> a slave for life, aged 16 years the <date when="1854-06-01">1st June</date>&#8212;</p>
+                <p><choice><abbr>Recd.</abbr><expan>Received</expan></choice> of <persName>Allen Dodge</persName> <choice><abbr>Esqr</abbr><expan>Esquire</expan></choice> Eight hundred dollars for negro boy <persName>Wesley</persName> a slave for life, aged 16 years the <date when="1854-06-01">1st June</date>—</p>
                 <closer><signed><persName>Wm C Ogle</persName></signed></closer>
             </div1>
 
@@ -261,7 +257,7 @@
             <div1 type="BillofSale" subtype="handwritten">
                 <dateline><placeName>Washington</placeName>, <date when="1854-03-25">March 25th 1854</date>.</dateline>
                 <ab>$2.800 00/100</ab>
-                    <p>Received of <persName>Allen Dodge</persName>, <choice><abbr>Esq</abbr><expan>Esquire</expan></choice>, Twenty Eight Hundred Dollars for servant woman <persName>Rosa Brown</persName>, &#38; her four sons <persName>Thomas</persName>, <persName>Robert</persName>, <persName>Frank</persName> &#38; <persName>Wesley</persName>&#8212;</p>
+                    <p>Received of <persName>Allen Dodge</persName>, <choice><abbr>Esq</abbr><expan>Esquire</expan></choice>, Twenty Eight Hundred Dollars for servant woman <persName>Rosa Brown</persName>, &amp; her four sons <persName>Thomas</persName>, <persName>Robert</persName>, <persName>Frank</persName> &amp; <persName>Wesley</persName>—</p>
                 <closer><signed><persName>Theodore Mosher</persName></signed></closer>
             </div1>
 

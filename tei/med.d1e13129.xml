@@ -41,7 +41,7 @@
             </notesStmt>
             <sourceDesc>
                 <bibl>
-                    <title>The Medical and Surgical History of the War of the Rebellion. (1861&#8211;65.)</title>
+                    <title>The Medical and Surgical History of the War of the Rebellion. (1861–65.)</title>
                     <editor role="compiler">Surgeon General Joseph K. Barnes, United States Army</editor>
                     <pubPlace>Washington, D.C.</pubPlace>
                     <publisher>Government Printing Office</publisher>
@@ -71,10 +71,10 @@
                     <term>compression of the brain by extravasation of blood within the skull</term>
                     <term>conoidal ball struck centre of forehead, apparently penetrated bone</term>
                     <term>consciousness never returned</term>
-                    <term></term>
-                    <term></term>
-                    <term></term>
-                    <term></term>
+                    <term/>
+                    <term/>
+                    <term/>
+                    <term/>
                     <term>penetration and fracture of frontal bones in midline</term>                    
                 </keywords>
             </textClass>
@@ -89,19 +89,16 @@
             <change who="#sb" when="2008-09-22">initial checking of OCR text against PDF; encoded</change>
         </revisionDesc>
     </teiHeader>
-    <text>
+    <text type="case">
         <body xml:id="ch1.sc3.0236">            
-                <p><hi rend="initialcap">C</hi>ASE.&#8212;<name type="person" key="1556">Private
+                <p><hi rend="initialcap">C</hi>ASE.—<name type="person" key="1556">Private
                         Joseph Warwick</name>, <name type="organization" key="210">Co. A, 26th
                             Michigan Volunteers</name>, was wounded at the battle of <name type="battle" key="77">Mine Run, Virginia</name>,
                         <date type="injury" when="1863-11-27">November 27th, 1863</date>, by a
                     conoidal ball which struck in the centre of the forehead and apparently
                     penetrated the bone.  He was sent to the hospital of the 1st division, Second
-                        Corps, thence was conveyed to <name type="place">Alexandria</name>, and on <date type="admit"
-                        when="1863-12-04">December 4th</date> was admitted to the <name
-                        type="hospital" key="186">1st division hospital</name> in a state of
-                    insensibility.  Consciousness never returned, and death ensued <date type="death"
-                        when="1863-12-06">December 6th, 1863</date>.</p>            
+                        Corps, thence was conveyed to <name type="place">Alexandria</name>, and on <date type="admit" when="1863-12-04">December 4th</date> was admitted to the <name type="hospital" key="186">1st division hospital</name> in a state of
+                    insensibility.  Consciousness never returned, and death ensued <date type="death" when="1863-12-06">December 6th, 1863</date>.</p>            
         </body>
     </text>
 </TEI>

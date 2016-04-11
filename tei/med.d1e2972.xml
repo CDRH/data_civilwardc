@@ -41,7 +41,7 @@
             </notesStmt>
             <sourceDesc>
                 <bibl>
-                    <title>The Medical and Surgical History of the War of the Rebellion. (1861&#8211;65.)</title>
+                    <title>The Medical and Surgical History of the War of the Rebellion. (1861–65.)</title>
                     <editor role="compiler">Surgeon General Joseph K.Barnes, United States Army</editor>
                     <pubPlace>Washington, D.C.</pubPlace>
                     <publisher>Government Printing Office</publisher>
@@ -83,17 +83,14 @@
             <change who="#sb" when="2008-09-22">initial checking of OCR text against PDF; encoded</change>
         </revisionDesc>
     </teiHeader>
-    <text>
+    <text type="case">
         <body xml:id="ch1.sc2.0008">            
-                <p><name type="person" key="1156">Private Otis J. Libby</name>, <name
-                        type="organization" key="720">Co. H, 16th Maine Volunteers</name>, was
+                <p><name type="person" key="1156">Private Otis J. Libby</name>, <name type="organization" key="720">Co. H, 16th Maine Volunteers</name>, was
                     struck on the head by a musket, at the battle of<name type="BATTLE" key="251">
                         Fredericksburg</name>, <date type="injury" when="1862-12-12">December 12th,
                         1862</date>, and was sent to <name type="PLACE" key="#Alexandria">Alexandria</name>, <date type="admit" when="1862-12-19">December
-                        19th</date>, and was discharged from service, totally disabled, on <date
-                        type="servicedischarge" when="1863-03-30">March 30th, 1863</date>.   The case
-                    was recorded by <name type="person" key="134">Surgeon E. Bentley</name>, <name
-                        type="organization" key="132">U. S. V.</name></p>            
+                        19th</date>, and was discharged from service, totally disabled, on <date type="servicedischarge" when="1863-03-30">March 30th, 1863</date>.   The case
+                    was recorded by <name type="person" key="134">Surgeon E. Bentley</name>, <name type="organization" key="132">U. S. V.</name></p>            
         </body>
     </text>
 </TEI>

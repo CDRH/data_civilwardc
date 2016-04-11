@@ -50,8 +50,8 @@
                             <title>Petition of Nathaniel Kane, 2 August 1862</title>
                             <date when="1862-08-02">August 2, 1862</date>
                             <idno type="rg">Record Group 21</idno>
-                            <orgName>Records of the District Courts of the United States, 1685&#8211;2004, National Archives and Records Administration</orgName>
-                            <orgName>Emancipation Records, compiled 1862&#8211;1863</orgName>
+                            <orgName>Records of the District Courts of the United States, 1685–2004, National Archives and Records Administration</orgName>
+                            <orgName>Emancipation Records, compiled 1862–1863</orgName>
                             <note type="project">Within the National Archives' Archival Description Catalog, see ARC Identifier 4314547 / MLR Number NC-2 33 (http://arcweb.archives.gov).</note>
                         </bibl>
                     </relatedItem>
@@ -77,7 +77,7 @@
         </revisionDesc>
     </teiHeader>
     
-    <text>
+    <text type="petition">
         <body>
             <pb xml:id="leaf001r" facs="cww.01106.001.jpg"/>
             <div1 type="petition" subtype="handwritten">
@@ -101,7 +101,7 @@
                             <cell><persName>Nathaniel Kane</persName></cell>
                             <cell>22</cell>
                             <cell>Male</cell>
-                            <cell></cell>
+                            <cell/>
                             <cell>Dark color</cell>
                         </row>
                     </table>
@@ -131,7 +131,7 @@
                     <div3 type="handwritten">
                         <ab>Witness</ab>
                         <ab><gap reason="illegible" extent="one or two words" quantity="6" unit="chars"/> <persName>Wren</persName><lb/>
-                        <address><addrLine>1<unclear reason="illegible" cert="low" resp="#jc">0</unclear>th Street. <choice><abbr>bet</abbr><expan>between</expan></choice> Avenue &#38; E st</addrLine></address></ab>
+                        <address><addrLine>1<unclear reason="illegible" cert="low" resp="#jc">0</unclear>th Street. <choice><abbr>bet</abbr><expan>between</expan></choice> Avenue &amp; E st</addrLine></address></ab>
                     </div3>
                 </div2>
             </div1>                      

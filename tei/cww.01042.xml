@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng" type="xml"?>
-
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="cww.01042">
     <teiHeader>
         <fileDesc>
@@ -52,8 +51,8 @@
                             <title>Petition of Mary E. Chinn, 28 July 1862</title>
                             <date when="1862-07-28">July 28, 1862</date>
                             <idno type="rg">Record Group 21</idno>
-                            <orgName>Records of the District Courts of the United States, 1685&#8211;2004, National Archives and Records Administration</orgName>
-                            <orgName>Emancipation Records, compiled 1862&#8211;1863</orgName>
+                            <orgName>Records of the District Courts of the United States, 1685–2004, National Archives and Records Administration</orgName>
+                            <orgName>Emancipation Records, compiled 1862–1863</orgName>
                             <note type="project">Within the National Archives' Archival Description Catalog, see ARC Identifier 4314547 / MLR Number NC-2 33 (http://arcweb.archives.gov).</note>
                         </bibl>
                     </relatedItem>
@@ -70,7 +69,7 @@
                             <title>Evidence Relating to the Petition of Mary E. Chinn, 29 July 1862</title>
                             <date when="1862-07-29">July 29, 1862</date>
                             <idno type="rg">Record Group 217.6.5</idno>
-                            <orgName>Records of the Accounting Officers of the Department of the Treasury, 1775&#8211;1978, National Archives and Records Administration</orgName>
+                            <orgName>Records of the Accounting Officers of the Department of the Treasury, 1775–1978, National Archives and Records Administration</orgName>
                             <note type="project">Within the National Archives' Archival Description Catalog, see ARC Identifier 4644616 / MLR Number A1 347 (http://arcweb.archives.gov).</note>
                         </bibl>
                     </relatedItem>
@@ -96,7 +95,7 @@
         </revisionDesc>
     </teiHeader>
     
-    <text>
+    <text type="petition">
         <body>
             
             <pb xml:id="leaf001r" facs="cww.01042.001.jpg"/>
@@ -134,7 +133,7 @@
                     </div3>
                                        
                     <div3 type="section">                        
-                        <p>The Commissioners, satisfied on the testimony of <persName>James Adams</persName>, residing on <address><addrLine>4 &#189; St. <hi rend="underline">Island</hi></addrLine></address>, of the truth of the within statement, order the same to be so reported to the Clerk of the Circuit Court of the <placeName>Dist of Columbia</placeName>.</p>
+                        <p>The Commissioners, satisfied on the testimony of <persName>James Adams</persName>, residing on <address><addrLine>4 ½ St. <hi rend="underline">Island</hi></addrLine></address>, of the truth of the within statement, order the same to be so reported to the Clerk of the Circuit Court of the <placeName>Dist of Columbia</placeName>.</p>
                         <closer>
                             <signed><persName>Wm. R. Woodward</persName><lb/>
                                 Clerk</signed>
@@ -157,7 +156,7 @@
                 </div2>
                 
                 <div2 type="testimony">
-                    <p><persName>James Adams</persName> on the Island. knows the girl she belonged to <persName>Mr Randall</persName> of <placeName><choice><orig>Anapolis</orig><reg>Annapolis</reg></choice></placeName> she belonged until the <date when="1862-04-16">16th April last</date> to <persName>John Henry Smith</persName>. She has been here for some years. She was here by the knowledge &#38; consent of master.</p>
+                    <p><persName>James Adams</persName> on the Island. knows the girl she belonged to <persName>Mr Randall</persName> of <placeName><choice><orig>Anapolis</orig><reg>Annapolis</reg></choice></placeName> she belonged until the <date when="1862-04-16">16th April last</date> to <persName>John Henry Smith</persName>. She has been here for some years. She was here by the knowledge &amp; consent of master.</p>
                 </div2>
                 
                 <div2 type="procedural">
@@ -173,9 +172,3 @@
         </body>
     </text>
 </TEI>
-                
-                
-                
-                
-                
-

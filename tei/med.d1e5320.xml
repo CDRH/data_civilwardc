@@ -41,7 +41,7 @@
             </notesStmt>
             <sourceDesc>
                 <bibl>
-                    <title>The Medical and Surgical History of the War of the Rebellion. (1861&#8211;65.)</title>
+                    <title>The Medical and Surgical History of the War of the Rebellion. (1861–65.)</title>
                     <editor role="compiler">Surgeon General Joseph K. Barnes, United States Army</editor>
                     <pubPlace>Washington, D.C.</pubPlace>
                     <publisher>Government Printing Office</publisher>
@@ -69,7 +69,7 @@
                     <term>complications from intercurrent diseases</term>
                     <term>pneumonia reported as cause of death</term>
                     <term>questioned if pulmonary complications were not embolic phenomena, indicating metastatic foci</term>
-                    <term>questioned whether cases were not more properly classified under head of py&#230;mia</term>
+                    <term>questioned whether cases were not more properly classified under head of pyæmia</term>
                     <term>fragment of shell caused wound of scalp</term>
                     <term>pleuro-pneumonia</term>                   
                 </keywords>
@@ -86,20 +86,16 @@
             <change who="#sb" when="2008-09-22">initial checking of OCR text against PDF; encoded</change>
         </revisionDesc>
     </teiHeader>
-    <text>
+    <text type="case">
         <body xml:id="ch1.sc3.0043">            
-                <p><hi rend="initialcap">C</hi>ASE.&#8212;<name type="person" key="344">Private
+                <p><hi rend="initialcap">C</hi>ASE.—<name type="person" key="344">Private
                         Samuel Healey</name>, <name type="organization" key="159">Co. C, 25th
-                            Massachusetts Volunteers</name>, aged 28 years, was wounded at the battle of <name
-                                type="BATTLE" key="263">Cold Harbor, Virginia</name>, <date
-                        type="injury" when="1864-06-03">June 3d, 1864</date>, by a fragment of
+                            Massachusetts Volunteers</name>, aged 28 years, was wounded at the battle of <name type="BATTLE" key="263">Cold Harbor, Virginia</name>, <date type="injury" when="1864-06-03">June 3d, 1864</date>, by a fragment of
                     shell, which caused a wound of the scalp.  He was <date type="admit" when="1864-06-03">at once</date> admitted to the
                     hospital of the Eighteenth Corps, on <date type="transfer" when="1864-06-07">June 7th</date> transferred to the <name type="hospital" key="187">Second
-                            Division Hospital</name> at <name type="place">Alexandria</name>, and, on <date type="transfer"
-                        when="1864-06-12">June 12th</date>, sent to the hospital at <name type="place">Chester,
+                            Division Hospital</name> at <name type="place">Alexandria</name>, and, on <date type="transfer" when="1864-06-12">June 12th</date>, sent to the hospital at <name type="place">Chester,
                             Pennsylvania</name>.  Warm applications were made to the wound to promote discharge, but
-                    on <date type="injury" when="1864-06-19">the 19th</date> pleuro-pneumonia set in, and death occurred on <date type="death"
-                        when="1864-06-23">June 23d, 1864</date>.   <name type="person" key="134">Surgeon E. Bentley</name>, <name type="organization" key="132">U. S. V.</name>, records the case. </p>            
+                    on <date type="injury" when="1864-06-19">the 19th</date> pleuro-pneumonia set in, and death occurred on <date type="death" when="1864-06-23">June 23d, 1864</date>.   <name type="person" key="134">Surgeon E. Bentley</name>, <name type="organization" key="132">U. S. V.</name>, records the case. </p>            
         </body>
     </text>
 </TEI>

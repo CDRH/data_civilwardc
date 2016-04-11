@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
- <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e317">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="med.d1e317">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -43,7 +43,7 @@
             <sourceDesc>
                 <bibl>
                     <title>The Medical and Surgical History of the War of the Rebellion.
-                        (1861&#8211;65.)</title>
+                        (1861–65.)</title>
                     <editor role="compiler">Surgeon General Joseph K. Barnes, United States Army</editor>
                     <pubPlace>Washington, D.C.</pubPlace>
                     <publisher>Government Printing Office</publisher>
@@ -81,17 +81,12 @@
             <change who="#sb" when="2008-09-22">initial checking of OCR text against PDF; encoded</change>
         </revisionDesc>
     </teiHeader>
-    <text>
+    <text type="case">
         <body xml:id="ch1.sc1.0005">
             
-                <p><name type="person" key="989"><hi rend="initialcap">B</hi>ROOKS, <hi
-                            rend="initialcap">J</hi>. <hi rend="initialcap">K</hi>.</name>,
+                <p><name type="person" key="989"><hi rend="initialcap">B</hi>ROOKS, <hi rend="initialcap">J</hi>. <hi rend="initialcap">K</hi>.</name>,
                     Sergeant, <name type="organization" key="339">Co. C, 1st Maine Cavalry</name>.
-                    Sabre-cut of right side of scalp. <name type="battle">Middleburg, Virginia</name>, <date type="injury"
-                        when="1863-06-19">June 19th, 1863</date>. Admitted to <name type="hospital"
-                            key="172">Emory Hospital</name>, Washington, <date type="admit"
-                        when="1863-06-21">June 21st</date>. Returned to duty <date type="duty"
-                        when="1863-07-03">July 3d, 1863</date>.</p>
+                    Sabre-cut of right side of scalp. <name type="battle">Middleburg, Virginia</name>, <date type="injury" when="1863-06-19">June 19th, 1863</date>. Admitted to <name type="hospital" key="172">Emory Hospital</name>, Washington, <date type="admit" when="1863-06-21">June 21st</date>. Returned to duty <date type="duty" when="1863-07-03">July 3d, 1863</date>.</p>
             
         </body>
     </text>

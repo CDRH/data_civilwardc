@@ -52,8 +52,8 @@
                             <title>Petition of Rosetta Gantt, 18 July 1862</title>                           
                             <date when="1862-07-18">July 18, 1862</date>
                             <idno type="rg">Record Group 21</idno>
-                            <orgName>Records of the District Courts of the United States, 1685&#8211;2004, National Archives and Records Administration</orgName>
-                            <orgName>Emancipation Records, compiled 1862&#8211;1863</orgName>
+                            <orgName>Records of the District Courts of the United States, 1685–2004, National Archives and Records Administration</orgName>
+                            <orgName>Emancipation Records, compiled 1862–1863</orgName>
                             <note type="project">Within the National Archives' Archival Description Catalog, see ARC Identifier 4314547 / MLR Number NC-2 33 (http://arcweb.archives.gov).</note>
                         </bibl>
                     </relatedItem>
@@ -70,7 +70,7 @@
                             <title>Evidence Relating to the Petition of Rozetta Ghentt, 18 July 1862</title>                          
                             <date when="1862-07-18">July 18, 1862</date>
                             <idno type="rg">Record Group 217.6.5</idno>
-                            <orgName>Records of the Accounting Officers of the Department of the Treasury, 1775&#8211;1978, National Archives and Records Administration</orgName>
+                            <orgName>Records of the Accounting Officers of the Department of the Treasury, 1775–1978, National Archives and Records Administration</orgName>
                             <note type="project">Within the National Archives' Archival Description Catalog, see ARC Identifier 4644616 / MLR Number A1 347 (http://arcweb.archives.gov).</note>
                         </bibl>
                     </relatedItem>
@@ -97,7 +97,7 @@
         </revisionDesc>
     </teiHeader>
     
-    <text>
+    <text type="petition">
         <body>
             
             <pb xml:id="leaf001r" facs="cww.01083.001.jpg"/>            
@@ -111,7 +111,7 @@
                         <salute>Sir</salute>
                     </opener>
                     
-                    <p><persName>Sarah Webster</persName> of <placeName>California</placeName>, having claim to the service or labor of the undersigned; and having refused or failed to file in your office the statement in writing or schedule provided for in the 9th section of the Act entitled "An Act for the release of certain persons held to service or labor in the <placeName>District of Columbia</placeName>" approved <date when="1862-04-16">16th April 1862</date>&#8212;You will please file the annexed Schedule in pursuance of an act supplementary to the above recited act approved <date when="1862-07-12">12th July 1862</date>&#8212;</p>
+                    <p><persName>Sarah Webster</persName> of <placeName>California</placeName>, having claim to the service or labor of the undersigned; and having refused or failed to file in your office the statement in writing or schedule provided for in the 9th section of the Act entitled "An Act for the release of certain persons held to service or labor in the <placeName>District of Columbia</placeName>" approved <date when="1862-04-16">16th April 1862</date>—You will please file the annexed Schedule in pursuance of an act supplementary to the above recited act approved <date when="1862-07-12">12th July 1862</date>—</p>
                     <table>
                         <row>
                             <cell>name</cell>
@@ -173,12 +173,12 @@
                 </div2>
                 
                 <div2 type="testimony">
-                    <ab><persName>Rozetta Ghentt</persName> 22, nursing, chamber work&#8212;not very good health</ab>
-                    <ab>&#x24;700&#8212;</ab>
+                    <ab><persName>Rozetta Ghentt</persName> 22, nursing, chamber work—not very good health</ab>
+                    <ab>$700—</ab>
                 </div2>
                 
                 <div2 type="testimony">
-                    <ab>Dr <persName>James E. Morgan</persName>&#8212;I know <persName>Sarah Webster</persName> and that she owns this servant. She gave her to me until she should come back and <unclear reason="illegible" cert="medium" resp="#km">entirely</unclear> if she did not come back. Servant was here <date when="1862-04-16">16 April</date> and for years before with Mrs <persName>S Websters</persName> consent in my employ <persName>Mrs Webster</persName> got the servant from <persName>Mrs <unclear reason="illegible" cert="low" resp="#km">Simall</unclear></persName> of <placeName>Balt Co</placeName> I believe <persName>Mrs Webster</persName> to be loyal from my knowledge of her husband decidedly loyal. her husbands brother is in U. S army <gap reason="illegible" extent="about 6 words" unit="chars" quantity="33"/> all right &#38; might have in <gap reason="illegible" extent="about two words" unit="chars" quantity="4"/></ab>
+                    <ab>Dr <persName>James E. Morgan</persName>—I know <persName>Sarah Webster</persName> and that she owns this servant. She gave her to me until she should come back and <unclear reason="illegible" cert="medium" resp="#km">entirely</unclear> if she did not come back. Servant was here <date when="1862-04-16">16 April</date> and for years before with Mrs <persName>S Websters</persName> consent in my employ <persName>Mrs Webster</persName> got the servant from <persName>Mrs <unclear reason="illegible" cert="low" resp="#km">Simall</unclear></persName> of <placeName>Balt Co</placeName> I believe <persName>Mrs Webster</persName> to be loyal from my knowledge of her husband decidedly loyal. her husbands brother is in U. S army <gap reason="illegible" extent="about 6 words" unit="chars" quantity="33"/> all right &amp; might have in <gap reason="illegible" extent="about two words" unit="chars" quantity="4"/></ab>
                 </div2>                                               
                     
                 <pb xml:id="leaf002v" facs="cww.01083.006.jpg"/>
@@ -192,9 +192,3 @@
         </body>
     </text>
 </TEI>
-                
-                
-                
-                
-                
-

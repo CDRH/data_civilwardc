@@ -41,7 +41,7 @@
             </notesStmt>
             <sourceDesc>
                 <bibl>
-                    <title>The Medical and Surgical History of the War of the Rebellion. (1861&#8211;65.)</title>
+                    <title>The Medical and Surgical History of the War of the Rebellion. (1861–65.)</title>
                     <editor role="compiler">Surgeon General Joseph K. Barnes, United States Army</editor>
                     <pubPlace>Washington, D.C.</pubPlace>
                     <publisher>Government Printing Office</publisher>
@@ -83,16 +83,13 @@
             <change who="#sb" when="2008-09-22">initial checking of OCR text against PDF; encoded</change>
         </revisionDesc>
     </teiHeader>
-    <text>
+    <text type="case">
         <body xml:id="ch1.sc3.0012">            
-                <p><hi rend="initialcap">C</hi>ASE.&#8212;<name type="person" key="309">Private
+                <p><hi rend="initialcap">C</hi>ASE.—<name type="person" key="309">Private
                         J. H. Chase</name>, <name type="organization" key="139">Co. I, 105th New
-                        York Volunteers</name>, aged 42 years, was admitted to the <name
-                        type="hospital" key="176">Lincoln Hospital</name>, Washington, D. C., on
+                        York Volunteers</name>, aged 42 years, was admitted to the <name type="hospital" key="176">Lincoln Hospital</name>, Washington, D. C., on
                         <date type="admit" when="1864-08-19">August 19th, 1864</date>, with a
-                    contused gunshot wound of the scalp.  He was furloughed on <date type="furlough"
-                        when="1864-11-04">November 4th</date>, and died while on furlough, <date
-                        type="death" when="1864-12-12">December 12th, 1864</date>. </p>            
+                    contused gunshot wound of the scalp.  He was furloughed on <date type="furlough" when="1864-11-04">November 4th</date>, and died while on furlough, <date type="death" when="1864-12-12">December 12th, 1864</date>. </p>            
         </body>
     </text>
 </TEI>

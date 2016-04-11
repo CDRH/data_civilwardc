@@ -50,7 +50,7 @@
                             <title>Evidence Relating to the Petition of Anna Scott, 22 July 1862</title>
                             <date when="1862-07-22">July 22, 1862</date>
                             <idno type="rg">Record Group 217.6.5</idno>
-                            <orgName>Records of the Accounting Officers of the Department of the Treasury, 1775&#8211;1978, National Archives and Records Administration</orgName>
+                            <orgName>Records of the Accounting Officers of the Department of the Treasury, 1775–1978, National Archives and Records Administration</orgName>
                             <note type="project">Within the National Archives' Archival Description Catalog, see ARC Identifier 4644616 / MLR Number A1 347 (http://arcweb.archives.gov).</note>
                         </bibl>
                     </relatedItem>
@@ -76,7 +76,7 @@
         </revisionDesc>
     </teiHeader>
     
-    <text>
+    <text type="petition">
         <body>            
             <pb xml:id="leaf001r" facs="cww.01069.001.jpg"/>
             <div1 type="evidence" corresp="#rg217" subtype="handwritten">
@@ -87,12 +87,12 @@
                 </div2>
                 
                 <div2 type="testimony">
-                    <ab><persName>Celia Watts</persName> (<choice><abbr>Col</abbr><expan>Colored</expan></choice>) I know <persName>Anna Scott</persName>. Came up of <date when="1862-02">February</date> last and has remained here since that time she belonged to <persName>Mr McVeigh</persName> late of <placeName>Alex</placeName>. They say he is in <placeName>Richmond</placeName> He did not leave so soon as my master&#8212;</ab>
+                    <ab><persName>Celia Watts</persName> (<choice><abbr>Col</abbr><expan>Colored</expan></choice>) I know <persName>Anna Scott</persName>. Came up of <date when="1862-02">February</date> last and has remained here since that time she belonged to <persName>Mr McVeigh</persName> late of <placeName>Alex</placeName>. They say he is in <placeName>Richmond</placeName> He did not leave so soon as my master—</ab>
                 </div2>
                 
                 <div2 type="testimony">
                     <ab>Servant <persName>Anna</persName>. says her master left <placeName>Alex</placeName> Wednesday after <persName>Ellsworth</persName> was killed.</ab>
-                    <ab>Have never been in <placeName>Alex</placeName> since I left there&#8212;</ab>
+                    <ab>Have never been in <placeName>Alex</placeName> since I left there—</ab>
                 </div2>
                 
                 <pb xml:id="leaf001v" facs="cww.01069.002.jpg"/>
@@ -104,9 +104,3 @@
         </body>
     </text>
 </TEI>
-                
-                
-                
-                
-                
-

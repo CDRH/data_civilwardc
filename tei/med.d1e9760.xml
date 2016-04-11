@@ -41,7 +41,7 @@
             </notesStmt>
             <sourceDesc>
                 <bibl>
-                    <title>The Medical and Surgical History of the War of the Rebellion. (1861&#8211;65.)</title>
+                    <title>The Medical and Surgical History of the War of the Rebellion. (1861–65.)</title>
                     <editor role="compiler">Surgeon General Joseph K. Barnes, United States Army</editor>
                     <pubPlace>Washington, D.C.</pubPlace>
                     <publisher>Government Printing Office</publisher>
@@ -69,13 +69,13 @@
                     <term>gunshot fractures of the external table of the cranium alone</term>
                     <term>grooving of outer plate and diploe, injury appears not to implicate inner table</term>
                     <term>conoidal musket ball struck vertex, laid bare scalp, grooved bone for small distance</term>
-                    <term></term>
-                    <term></term>
-                    <term></term>
-                    <term></term>
-                    <term></term>
-                    <term></term>
-                    <term></term>
+                    <term/>
+                    <term/>
+                    <term/>
+                    <term/>
+                    <term/>
+                    <term/>
+                    <term/>
                 </keywords>
             </textClass>
         </profileDesc>
@@ -89,23 +89,19 @@
             <change who="#sb" when="2008-09-22">initial checking of OCR text against PDF; encoded</change>
         </revisionDesc>
     </teiHeader>
-    <text>
+    <text type="case">
         <body xml:id="ch1.sc3.0148">            
-                <p><hi rend="initialcap">C</hi>ASE.&#8212;<name type="person" key="1322">Private
+                <p><hi rend="initialcap">C</hi>ASE.—<name type="person" key="1322">Private
                         Wilkie Martin</name>, <name type="organization" key="134">Co. H, 6th
-                            Pennsylvania Cavalry</name>, aged 25 years, was wounded at the battle of <name
-                                type="BATTLE" key="12">the Wilderness, Virginia</name>, <date
-                        type="injury" when="1864-05-06">May 6th, 1864</date>, by a conoidal musket
+                            Pennsylvania Cavalry</name>, aged 25 years, was wounded at the battle of <name type="BATTLE" key="12">the Wilderness, Virginia</name>, <date type="injury" when="1864-05-06">May 6th, 1864</date>, by a conoidal musket
                     ball which struck at the vertex, laid bare the scalp, and grooved the bone for a
                     small distance.  He was admitted into the field hospital of the Cavalry Corps on
                     <date type="admit" when="1864-05-07">the following day</date>, and on <date type="transfer" when="1864-05-23">the 23d</date>
                     sent to the <name type="hospital" key="189">3d division hospital</name>,
-                    Alexandria.  Simple dressings were used.  On <date type="transfer"
-                        when="1864-06-06">June 6th</date> the patient was transferred to the <name type="hospital">Mower
+                    Alexandria.  Simple dressings were used.  On <date type="transfer" when="1864-06-06">June 6th</date> the patient was transferred to the <name type="hospital">Mower
                             Hospital, Philadelphia</name>, and on <date type="servicedischarge" when="1864-11-07">November
                         7th, 1864</date>, he was discharged from the service.  The case is reported
-                    by <name type="person" key="134">Surgeon Edwin Bentley</name>, <name
-                        type="organization" key="132">U. S. V.</name>  He is not a pensioner.</p>            
+                    by <name type="person" key="134">Surgeon Edwin Bentley</name>, <name type="organization" key="132">U. S. V.</name>  He is not a pensioner.</p>            
         </body>
     </text>
 </TEI>

@@ -52,8 +52,8 @@
                         <title>Petition of Jane Allen and William Henry Allen, 23 December 1862</title>
                         <date when="1862-12-23">December 23, 1862</date>
                         <idno type="rg">Record Group 21</idno>
-                        <orgName>Records of the District Courts of the United States, 1685&#8211;2004, National Archives and Records Administration</orgName>
-                        <orgName>Emancipation Records, compiled 1862&#8211;1863</orgName>
+                        <orgName>Records of the District Courts of the United States, 1685–2004, National Archives and Records Administration</orgName>
+                        <orgName>Emancipation Records, compiled 1862–1863</orgName>
                         <note type="project">Within the National Archives' Archival Description Catalog, see ARC Identifier 4314547 / MLR Number NC-2 33 (http://arcweb.archives.gov).</note>
                     </bibl>
                 </relatedItem>
@@ -70,7 +70,7 @@
                          <title>Evidence Relating to the Petition of Jane Allen and William Henry Allen, 31 December 1862</title>
                          <date when="1862-12-31">December 31, 1862</date>
                          <idno type="rg">Record Group 217.6.5</idno>
-                         <orgName>Records of the Accounting Officers of the Department of the Treasury, 1775&#8211;1978, National Archives and Records Administration</orgName>
+                         <orgName>Records of the Accounting Officers of the Department of the Treasury, 1775–1978, National Archives and Records Administration</orgName>
                          <note type="project">Within the National Archives' Archival Description Catalog, see ARC Identifier 4644616 / MLR Number A1 347 (http://arcweb.archives.gov).</note>
                      </bibl>
                  </relatedItem>
@@ -100,7 +100,7 @@
       </revisionDesc>
    </teiHeader>
    
-    <text>
+    <text type="petition">
         <body>            
             
             <!-- Begins with the text of the petition. -->
@@ -120,7 +120,7 @@
                         <item><persName>William Henry Allen</persName> " 2 Months</item>
                     </list>                    
                     <closer>
-                        <signed>her X mark <persName>Jane Allen</persName></signed><lb />
+                        <signed>her X mark <persName>Jane Allen</persName></signed><lb/>
                         Witness <persName>Z B Brooke</persName>
                     </closer>
                 </div2>
@@ -130,9 +130,9 @@
                 <div2 type="cover" subtype="handwritten">
                     <div3 type="section">
                         <ab>paid 50 <choice><abbr>cts</abbr><expan>cents</expan></choice></ab>
-                        <ab><persName>Jane Allen</persName> <lb />
+                        <ab><persName>Jane Allen</persName> <lb/>
                             <persName>Wm Henry Allen</persName></ab>
-                        <ab>Recorded in Manumission Record No. 2 folios 115 &#38; 116</ab>
+                        <ab>Recorded in Manumission Record No. 2 folios 115 &amp; 116</ab>
                         <ab>Filed <date when="1862-12-23">Dec. 23d 1862</date></ab>
                     </div3>
                     
@@ -153,7 +153,7 @@
             </div1>
             
             <!-- Evidence pertaining to the case begins here. -->
-            <pb xml:id="leaf003r" facs="cww.00991.003.jpg" />
+            <pb xml:id="leaf003r" facs="cww.00991.003.jpg"/>
             <div1 type="evidence" corresp="#rg217" subtype="handwritten">
                 
                 <dateline><date when="1862-12-31">December 31</date></dateline>
@@ -171,7 +171,7 @@
                     <ab>certificate ordered and sent.</ab>
                 </div2>
                 
-                <pb xml:id="leaf003v" facs="cww.00991.004.jpg" />
+                <pb xml:id="leaf003v" facs="cww.00991.004.jpg"/>
                 <div2 type="cover">
                     <ab><persName>Jane Allen</persName><lb/>
                         <persName>Wm Hy Allen</persName></ab>

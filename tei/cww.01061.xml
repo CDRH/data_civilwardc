@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng" type="xml"?>
-
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="cww.01061">
     <teiHeader>
         <fileDesc>
@@ -52,8 +51,8 @@
                             <title>Petition of Washington Childs, 25 July 1862</title>                            
                             <date when="1862-07-25">July 25, 1862</date>
                             <idno type="rg">Record Group 21</idno>
-                            <orgName>Records of the District Courts of the United States, 1685&#8211;2004, National Archives and Records Administration</orgName>
-                            <orgName>Emancipation Records, compiled 1862&#8211;1863</orgName>
+                            <orgName>Records of the District Courts of the United States, 1685–2004, National Archives and Records Administration</orgName>
+                            <orgName>Emancipation Records, compiled 1862–1863</orgName>
                             <note type="project">Within the National Archives' Archival Description Catalog, see ARC Identifier 4314547 / MLR Number NC-2 33 (http://arcweb.archives.gov).</note>
                         </bibl>
                     </relatedItem>
@@ -70,7 +69,7 @@
                             <title>Evidence Relating to the Petition of Washington Childs, 26 July 1862</title>                            
                             <date when="1862-07-26">July 26, 1862</date>
                             <idno type="rg">Record Group 217.6.5</idno>
-                            <orgName>Records of the Accounting Officers of the Department of the Treasury, 1775&#8211;1978, National Archives and Records Administration</orgName>
+                            <orgName>Records of the Accounting Officers of the Department of the Treasury, 1775–1978, National Archives and Records Administration</orgName>
                             <note type="project">Within the National Archives' Archival Description Catalog, see ARC Identifier 4644616 / MLR Number A1 347 (http://arcweb.archives.gov).</note>
                         </bibl>
                     </relatedItem>
@@ -96,7 +95,7 @@
         </revisionDesc>
     </teiHeader>
     
-    <text>
+    <text type="petition">
         <body>
             
             <!-- Begins with the text of the petition. -->
@@ -129,7 +128,7 @@
                         <salute>Dear <persName>Washington</persName></salute>                        
                     </opener>
                     
-                    <p>I am sorry to write to let you know that my health is no better I had not <choice><sic>bin</sic><corr>been</corr></choice> out of the yard since the <date when="1862-01-06">6th of January</date> but the <gap reason="illegible" extent="one word" unit="chars" quantity="3"/> are all well &amp; I hope this may reach you and <persName>Susan</persName> in good health <persName>Washington</persName> I made a provision for you that is to pay me two hundred Dollars and go <choice><sic>whare</sic><corr>where</corr></choice> you <choice><sic>pleas</sic><corr>please</corr></choice> since you hire last year &#x24;125&#8212;&amp; fifteen Dollars due me before that you would have nothing to pay I want you to get me a barrel of good sugar &amp; sacks of coffee and 2 bolts of cotton &amp; pound of best Tea that is if you can send the tea &amp; cotton by express you had better have a clear discharge drawn &amp; come <choice><orig>fourth</orig><reg>forth</reg></choice> with and I will assign it the <gap reason="illegible" extent="about one word" quantity="7" unit="chars"/> you had better send to the care of <persName>W W <unclear reason="illegible" cert="low" resp="#km">Bowler</unclear></persName> by express and come your self or any friend you have in <placeName>Fredericksburg</placeName> to take charge of&#8212;
+                    <p>I am sorry to write to let you know that my health is no better I had not <choice><sic>bin</sic><corr>been</corr></choice> out of the yard since the <date when="1862-01-06">6th of January</date> but the <gap reason="illegible" extent="one word" unit="chars" quantity="3"/> are all well &amp; I hope this may reach you and <persName>Susan</persName> in good health <persName>Washington</persName> I made a provision for you that is to pay me two hundred Dollars and go <choice><sic>whare</sic><corr>where</corr></choice> you <choice><sic>pleas</sic><corr>please</corr></choice> since you hire last year $125—&amp; fifteen Dollars due me before that you would have nothing to pay I want you to get me a barrel of good sugar &amp; sacks of coffee and 2 bolts of cotton &amp; pound of best Tea that is if you can send the tea &amp; cotton by express you had better have a clear discharge drawn &amp; come <choice><orig>fourth</orig><reg>forth</reg></choice> with and I will assign it the <gap reason="illegible" extent="about one word" quantity="7" unit="chars"/> you had better send to the care of <persName>W W <unclear reason="illegible" cert="low" resp="#km">Bowler</unclear></persName> by express and come your self or any friend you have in <placeName>Fredericksburg</placeName> to take charge of—
                     
                     <pb xml:id="leaf002v" facs="cww.01061.003.jpg"/>
                     the balance of the money you can bring me so it will not cost you a Dollar to come &amp; you <persName>Washington</persName> attend to this as I stand now in need of money &amp; grocery I <choice><sic>now</sic><corr>know</corr></choice> you <choice><sic>cant</sic><corr>can't</corr></choice> think hard of this if you <choice><sic>kew</sic><corr>knew</corr></choice> my <choice><sic>circomstance</sic><corr>circumstance</corr></choice> &amp; you will be at liberty for life</p>
@@ -145,7 +144,7 @@
                     </postscript>
                     
                     <postscript>
-                        <ab>Dear <persName>Washington</persName> since I wrote the above my nearest <choice><sic>naboure</sic><corr>neighbor</corr></choice> is coming to <placeName>Washington</placeName> <unclear reason="illegible" cert="low" resp="#jc">after</unclear> <unclear reason="illegible" cert="high" resp="#km"><choice><abbr>Coff</abbr><expan>coffee</expan></choice></unclear> &amp; sugar who you can see his name is Mr <persName>Charles <unclear reason="illegible" cert="low" resp="#km">Wood</unclear></persName> who lives at <placeName>Timber lakes old place</placeName> who will give you any information bring any thing that you will send but come if you can&#8212; yours respectfully</ab>
+                        <ab>Dear <persName>Washington</persName> since I wrote the above my nearest <choice><sic>naboure</sic><corr>neighbor</corr></choice> is coming to <placeName>Washington</placeName> <unclear reason="illegible" cert="low" resp="#jc">after</unclear> <unclear reason="illegible" cert="high" resp="#km"><choice><abbr>Coff</abbr><expan>coffee</expan></choice></unclear> &amp; sugar who you can see his name is Mr <persName>Charles <unclear reason="illegible" cert="low" resp="#km">Wood</unclear></persName> who lives at <placeName>Timber lakes old place</placeName> who will give you any information bring any thing that you will send but come if you can— yours respectfully</ab>
                         <ab><persName>T A Withers</persName></ab>
                     </postscript>                    
                 </div2>
@@ -189,7 +188,7 @@
                 </div2>
                 
                 <div2 type="testimony">
-                    <ab><persName>L. J. Rothrock</persName>. I know <persName>Washington Childs</persName> for 12 or 15 years in <placeName>Fredericksburg</placeName> and here for five years&#8212;<unclear reason="illegible" cert="medium" resp="#km">was</unclear> here <date when="1862-04-16">16 April</date>&#8212;Always understood he belonged to <persName>Thomas Withers</persName> of <placeName>Stafford Co Virg'a</placeName> understood servant was permitted to hire himself <unclear reason="illegible" cert="medium" resp="#jc">here</unclear> &amp; pay wages to master&#8212;<unclear reason="illegible" cert="high" resp="#km">driving</unclear> back now&#8212;I know when he <unclear reason="illegibe" cert="high" resp="#km">drove</unclear></ab>
+                    <ab><persName>L. J. Rothrock</persName>. I know <persName>Washington Childs</persName> for 12 or 15 years in <placeName>Fredericksburg</placeName> and here for five years—<unclear reason="illegible" cert="medium" resp="#km">was</unclear> here <date when="1862-04-16">16 April</date>—Always understood he belonged to <persName>Thomas Withers</persName> of <placeName>Stafford Co Virg'a</placeName> understood servant was permitted to hire himself <unclear reason="illegible" cert="medium" resp="#jc">here</unclear> &amp; pay wages to master—<unclear reason="illegible" cert="high" resp="#km">driving</unclear> back now—I know when he <unclear reason="illegibe" cert="high" resp="#km">drove</unclear></ab>
                 </div2>
                 
                 <div2 type="procedural">
@@ -197,7 +196,7 @@
                 </div2>
                 
                 <div2 type="testimony">
-                    <ab>servant says drove <unclear reason="illegible" cert="medium" resp="#km"><choice><sic>carrig</sic><corr>carriage</corr></choice></unclear> for <persName>Mrs Fletcher-<unclear reason="illegible" cert="low" resp="#km">Kalorama</unclear></persName>&#8212;<choice><abbr>Col</abbr><expan>Colonel</expan></choice> Harris at navy yard. <persName>Mr Jenkins</persName> member of Congress&#8212;</ab>
+                    <ab>servant says drove <unclear reason="illegible" cert="medium" resp="#km"><choice><sic>carrig</sic><corr>carriage</corr></choice></unclear> for <persName>Mrs Fletcher-<unclear reason="illegible" cert="low" resp="#km">Kalorama</unclear></persName>—<choice><abbr>Col</abbr><expan>Colonel</expan></choice> Harris at navy yard. <persName>Mr Jenkins</persName> member of Congress—</ab>
                 </div2>
                 
                 <pb xml:id="leaf003v" facs="cww.01061.006.jpg"/>
@@ -209,9 +208,3 @@
         </body>
     </text>
 </TEI>
-                
-                
-                
-                
-                
-

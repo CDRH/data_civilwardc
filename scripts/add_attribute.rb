@@ -1,0 +1,38 @@
+#! /usr/local/rvm/rubies/ruby-2.1.3/bin/ruby
+
+require 'nokogiri'
+
+# This script takes the original civilwardc directory structure
+# and adds an attribute so that the type of the document is
+# easy to grab for the solr script
+
+# This script should not be used going forward, as future
+# documents should include a type attribute instead of relying
+# on the directory structure to navigate
+# Leaving it here in case something goes horribly wrong for reference
+
+# go through each directory and note directory name
+dirs = Dir.glob('*').select { |d| File.directory?(d) }
+
+dirs.each do |dir|
+  # I'm assuming because I know the contents that 
+  # I can just take the "s" off the end of the dirs
+  type_attr = dir.chomp('s')
+
+  filenames = Dir["#{dir}/*"]
+  filenames.each do |filename|
+
+    # I am annoyed that w+ isn't working for me, so I'll open the files twice GUH
+    xml = File.open(filename, 'r') { |file| Nokogiri::XML(file) }
+    textNodes = xml.css('text')
+    if textNodes
+      textNodes.each do |text|
+        text["type"] = type_attr
+        puts text.attributes
+      end
+      File.open(filename, 'w') do |file|
+        file.puts(xml.to_xml)
+      end
+    end
+  end
+end

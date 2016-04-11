@@ -41,7 +41,7 @@
             </notesStmt>
             <sourceDesc>
                 <bibl>
-                    <title>The Medical and Surgical History of the War of the Rebellion. (1861&#8211;65.)</title>
+                    <title>The Medical and Surgical History of the War of the Rebellion. (1861–65.)</title>
                     <editor role="compiler">Surgeon General Joseph K. Barnes, United States Army</editor>
                     <pubPlace>Washington, D.C.</pubPlace>
                     <publisher>Government Printing Office</publisher>
@@ -69,7 +69,7 @@
                     <term>complications from intercurrent diseases</term>
                     <term>pneumonia reported as cause of death</term>
                     <term>questioned if pulmonary complications were not embolic phenomena, indicating metastatic foci</term>
-                    <term>questioned whether cases were not more properly classified under head of py&#230;mia</term>
+                    <term>questioned whether cases were not more properly classified under head of pyæmia</term>
                     <term>severe wound of scalp from conoidal ball</term>
                     <term>died from wound and pneumonia</term>                    
                 </keywords>
@@ -86,20 +86,17 @@
             <change who="#sb" when="2008-09-22">initial checking of OCR text against PDF; encoded</change>
         </revisionDesc>
     </teiHeader>
-    <text>
+    <text type="case">
         <body xml:id="ch1.sc3.0044">            
-                <p><hi rend="initialcap">C</hi>ASE.&#8212;<name type="person" key="345">Private
+                <p><hi rend="initialcap">C</hi>ASE.—<name type="person" key="345">Private
                         John A. Huff</name>, <name type="organization" key="169">Co. E, 5th Michigan
                         Cavalry</name>, aged 48 years, received, in an engagement near <name type="battle" key="16">Cold Harbor,
                             Virginia</name>, <date type="injury" when="1864-05-28">May 28th, 1864</date>, a severe
                     gunshot wound of the scalp from a conoidal ball.  He was admitted to the Cavalry
                         Corps Hospital, and, on <date type="transfer" when="1864-06-03">June 3d</date>,
                     sent to the <name type="hospital" key="174">Campbell Hospital</name>,
-                    Washington, D. C., whence he was furloughed on <date type="furlough"
-                        when="1864-06-17">June 17th, 1864</date>.  He died while on furlough, <date
-                        type="death" when="1864-06-23">June 23d, 1864</date>, from wound and
-                    pneumonia.   <name type="person" key="74">Surgeon A. F. Sheldon</name>, <name
-                        type="organization" key="132">U. S. V.</name>, records the case. </p>            
+                    Washington, D. C., whence he was furloughed on <date type="furlough" when="1864-06-17">June 17th, 1864</date>.  He died while on furlough, <date type="death" when="1864-06-23">June 23d, 1864</date>, from wound and
+                    pneumonia.   <name type="person" key="74">Surgeon A. F. Sheldon</name>, <name type="organization" key="132">U. S. V.</name>, records the case. </p>            
         </body>
     </text>
 </TEI>

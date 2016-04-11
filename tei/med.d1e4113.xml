@@ -41,7 +41,7 @@
             </notesStmt>
             <sourceDesc>
                 <bibl>
-                    <title>The Medical and Surgical History of the War of the Rebellion. (1861&#8211;65.)</title>
+                    <title>The Medical and Surgical History of the War of the Rebellion. (1861–65.)</title>
                     <editor role="compiler">Surgeon General Joseph K. Barnes, United States Army</editor>
                     <pubPlace>Washington, D.C.</pubPlace>
                     <publisher>Government Printing Office</publisher>
@@ -82,16 +82,12 @@
             <change who="#sb" when="2008-09-22">initial checking of OCR text against PDF; encoded</change>
         </revisionDesc>
     </teiHeader>
-    <text>
+    <text type="case">
         <body xml:id="ch1.sc3.0009">            
-                <p><hi rend="initialcap">C</hi>ASE.&#8212;<name type="person" key="308">Sergeant W. H. Zimmerman</name>, <name type="organization" key="106">Co. E, 11th Pennsylvania Volunteers</name>, aged 25 years, at the battle of <name type="BATTLE" key="259">the Wilderness, Virginia</name>, <date
-                        type="injury" when="1864-05-06">May 6th, 1864</date>, received a scalp wound
+                <p><hi rend="initialcap">C</hi>ASE.—<name type="person" key="308">Sergeant W. H. Zimmerman</name>, <name type="organization" key="106">Co. E, 11th Pennsylvania Volunteers</name>, aged 25 years, at the battle of <name type="BATTLE" key="259">the Wilderness, Virginia</name>, <date type="injury" when="1864-05-06">May 6th, 1864</date>, received a scalp wound
                     over the right parietal region, from a musket ball, which lodged beneath the
                     integument.  The <date type="operation" when="1864-05-06">missile was extracted on the field</date>, and the patient was sent to
-                    the rear, and conveyed finally to Washington, D. C., entering <name
-                        type="hospital" key="171">Armory Square Hospital</name> on <date
-                        type="admit" when="1864-05-26">May 26th</date>.  He died on <date
-                        type="death" when="1864-06-29">June 29th, 1864</date>. </p>            
+                    the rear, and conveyed finally to Washington, D. C., entering <name type="hospital" key="171">Armory Square Hospital</name> on <date type="admit" when="1864-05-26">May 26th</date>.  He died on <date type="death" when="1864-06-29">June 29th, 1864</date>. </p>            
         </body>
     </text>
 </TEI>

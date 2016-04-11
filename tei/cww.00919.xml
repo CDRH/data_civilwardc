@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?>
-
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="cww.00919">
     <teiHeader>
         <fileDesc>
@@ -90,15 +89,14 @@
 
     </teiHeader>
 
-    <text>
+    <text type="petition">
         <body>
             <pb xml:id="leaf001r" facs="cww.00919.001.jpg"/>
 
 
             <div1 type="petition" subtype="mixed">
                 <head type="main">PETITION.</head>
-                <p rend="bold">To the Commissioners under the act of Congress approved the <date
-                        when="1862-04-16">16th of April, 1862</date>, entitled "An act for the
+                <p rend="bold">To the Commissioners under the act of Congress approved the <date when="1862-04-16">16th of April, 1862</date>, entitled "An act for the
                     release of certain persons held to service or labor in the <placeName>District
                         of Columbia</placeName>."</p>
 
@@ -106,38 +104,31 @@
                     </seg> of <seg type="handwritten">the <placeName>City of
                         Washington</placeName></seg> by this <seg type="handwritten">his</seg>
                     petition in writing, represents and states, that <seg type="handwritten">he</seg> is a person loyal to the <placeName>United States</placeName>,
-                    who, at the time of the passage of the said act of Congress, <seg
-                        type="handwritten">
-                        <persName>Marion M Taylor</persName> since deceased &#38; whose estate he
-                        represents</seg> held a claim to service or labor against <seg
-                        type="handwritten"><persName>Henry Carrol</persName> and <persName>Lotty
-                            Bell</persName></seg> person of African descent of the name of <seg
-                        type="handwritten"><persName>Henry Carrole</persName> &#38; <persName>Lotty
-                            Bell</persName></seg> for and during the life of said <seg
-                        type="handwritten"><persName>Henry</persName> &#38;
+                    who, at the time of the passage of the said act of Congress, <seg type="handwritten">
+                        <persName>Marion M Taylor</persName> since deceased &amp; whose estate he
+                        represents</seg> held a claim to service or labor against <seg type="handwritten"><persName>Henry Carrol</persName> and <persName>Lotty
+                            Bell</persName></seg> person of African descent of the name of <seg type="handwritten"><persName>Henry Carrole</persName> &amp; <persName>Lotty
+                            Bell</persName></seg> for and during the life of said <seg type="handwritten"><persName>Henry</persName> &amp;
                             <persName>Lotty</persName></seg> and that by said act of Congress said
-                        <seg type="handwritten"><persName>Henry</persName> &#38;
+                        <seg type="handwritten"><persName>Henry</persName> &amp;
                             <persName>Lotty</persName> were</seg> discharged and freed of and from
-                    all claim of <seg type="handwritten"> said Estate and</seg> your petitioner <seg
-                        type="handwritten">as administrator</seg> to such service or labor that at
+                    all claim of <seg type="handwritten"> said Estate and</seg> your petitioner <seg type="handwritten">as administrator</seg> to such service or labor that at
                     the time of said discharge said <seg type="handwritten"><persName>Henry
                             Carrol</persName> and said <persName>Lotty</persName> were
                         respectively</seg> of the age of <seg type="handwritten">fifty and forty
-                        five or thereabout</seg> and of the personal description following:<note
-                        type="government" place="foot" xml:id="n1">Here describe the person, so as
+                        five or thereabout</seg> and of the personal description following:<note type="government" place="foot" xml:id="n1">Here describe the person, so as
                         to identify him or her; and if there be more than one slave, describe each
                         one separately.</note>
                     <seg type="handwritten"><persName>Henry</persName> the male about five feet 4
-                        inches&#8212;very dark marked by a scar under the right eye, an honest
-                        industrious man &#38; healthy&#8212;<persName>Lotty</persName> the female
-                        five feet one inch high very dark&#8212;is a house servant and
+                        inches—very dark marked by a scar under the right eye, an honest
+                        industrious man &amp; healthy—<persName>Lotty</persName> the female
+                        five feet one inch high very dark—is a house servant and
                     washer.</seg></p>
 
                 <pb xml:id="leaf001v" facs="cww.00919.002.jpg"/>
                 <p>That your petitioner acquired <seg type="handwritten">his</seg> claim to the
                     aforesaid service or labor of said <seg type="handwritten"><persName>Henry
-                        </persName> &#38; <persName>Lotty</persName></seg> in manner following:<note
-                        type="government" place="foot" xml:id="n2">Here state how the claim was
+                        </persName> &amp; <persName>Lotty</persName></seg> in manner following:<note type="government" place="foot" xml:id="n2">Here state how the claim was
                         acquired, when, from whom, and for what price or consideration; and, if held
                         under any written evidence of title, make exhibit thereof, or refer to the
                         public record where the same may be found.</note>
@@ -145,12 +136,10 @@
                         who purchased said slaves of the Estate of his wife's father <persName>Geo.
                             B. Scott</persName></seg></p>
 
-                <p>That your petitioner's claim to the service or labor of said <seg
-                        type="handwritten"><persName>Henry</persName> &#38;
+                <p>That your petitioner's claim to the service or labor of said <seg type="handwritten"><persName>Henry</persName> &amp;
                             <persName>Lotty</persName></seg> was, at the time of said discharge
                     therefrom, of the value of <seg type="handwritten">four hundred</seg> dollars in
-                        money<del>.</del><seg type="handwritten">,</seg><note type="government"
-                        place="foot" xml:id="n3">Here state such facts, if any there be, touching
+                        money<del>.</del><seg type="handwritten">,</seg><note type="government" place="foot" xml:id="n3">Here state such facts, if any there be, touching
                         the value of the petitioner's claim to the service or labor of the person,
                         as may enhance the same, and also such facts, if any, touching the moral,
                         mental, and bodily infirmities or defects of said person, as impair the
@@ -161,7 +150,7 @@
                         petitioner specify no such infirmity or defect, then his statement touching
                         the value of his claim should conclude with an averment that he has no
                         knowledge of any such infirmity or defect.</note><seg type="handwritten">for
-                            <persName>Henry</persName> &#38; three hundred dollars in money for
+                            <persName>Henry</persName> &amp; three hundred dollars in money for
                             <persName>Lotty</persName></seg></p>
 
                 <p>Your petitioner hereby declares that <seg type="handwritten">he</seg> bears true
@@ -172,12 +161,9 @@
 
                 <p>And your petitioner further states and alleges, that <seg type="handwritten">he</seg> has not brought said <seg type="handwritten">persons</seg> into
                     the <placeName>District of Columbia</placeName> since the passage of said act of
-                    Congress; and that, at the time of the passage thereof, said <seg
-                        type="handwritten"><persName>Henry</persName> &#38;
-                            <persName>Lotty</persName></seg> w<del>as</del><seg type="handwritten">ere</seg> held to service or labor therein under and by virtue of <seg
-                        type="handwritten">the title of said deceased <persName>Taylor</persName>
-                        &#38; now by</seg> your petitioner's claim to such service or labor. <seg
-                        type="handwritten">as administrator H.</seg></p>
+                    Congress; and that, at the time of the passage thereof, said <seg type="handwritten"><persName>Henry</persName> &amp;
+                            <persName>Lotty</persName></seg> w<del>as</del><seg type="handwritten">ere</seg> held to service or labor therein under and by virtue of <seg type="handwritten">the title of said deceased <persName>Taylor</persName>
+                        &amp; now by</seg> your petitioner's claim to such service or labor. <seg type="handwritten">as administrator H.</seg></p>
 
                 <p>Your petitioner further states and alleges, that <seg type="handwritten">the</seg> said claim to the service or labor of said <seg type="handwritten"><persName>persons</persName></seg> does not originate in
                     or by virtue of any transfer heretofore made by any person who has in any manner
@@ -186,7 +172,7 @@
 
                 <p>And your petitioner prays the said Commissioners to investigate and determine the
                     validity of <seg type="handwritten">his</seg> said claim to the service or labor
-                    of said <seg type="handwritten"><persName>Henry</persName> &#38;
+                    of said <seg type="handwritten"><persName>Henry</persName> &amp;
                             <persName>Lotty</persName></seg> herein above set forth; and if the same
                     be found to be valid, that they appraise and apportion the value of said claim
                     in money, and report the same to the Secretary of the Treasury of the

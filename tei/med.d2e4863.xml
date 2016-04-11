@@ -58,11 +58,11 @@
      <term>shot fractures at the hip joint</term>
      <term>shot fractures at the hip joint unsuccessfully treated by conservation</term>
      <term>involved parts of joint not indicated</term>
-     <term></term> 
-     <term></term> 
-     <term></term>
-     <term></term> 
-     <term></term>
+     <term/> 
+     <term/> 
+     <term/>
+     <term/> 
+     <term/>
     </keywords>
    </textClass>
   </profileDesc>
@@ -74,19 +74,17 @@
    <change who="#ss" when="2008-09-22">Sarah Synovec initial checking of OCR text; encoded P5 Encoding</change>
   </revisionDesc>
  </teiHeader>
- <text>
+ <text type="case">
   <body>
    
-    <p><hi rend="initialcap">C</hi>ASE 195.&#8212;<name type="person" key="942">Private J.
+    <p><hi rend="initialcap">C</hi>ASE 195.—<name type="person" key="942">Private J.
       Farrell</name>, <name type="organization" key="387">Co. B, 14th U. S. Infantry</name>, aged 35
-     years, was wounded at <name type="BATTLE" key="3"><choice><orig>Spottsylvania</orig><reg>Spotsylvania</reg></choice></name>, <date type="injury" when="1864-05-12">May 12, 1864</date>, and admitted to the field hospital of the 2d division Fifth Corps. <name type="person" key="xx">Surgeon W. R. DeWitt, jr.</name>, recorded: &#34;Gunshot wound of left
-     thigh; severe.&#34; On <date type="transfer" when="1864-05-18">May 18th</date> the wounded man was
-     received into <name type="hospital" key="162">Douglas Hospital</name>, Washington. <name
-      type="person" key="200">Assistant Surgeon W. Thomson</name>, <name type="organization"
-       key="190">U. S. A.</name>, reported: &#34;Gunshot wound of left hip; fracture of pelvis and femur.
-     H&#230;morrhage to the amount of two ounces occurred from a muscular branch on May 28th, and
+     years, was wounded at <name type="BATTLE" key="3"><choice><orig>Spottsylvania</orig><reg>Spotsylvania</reg></choice></name>, <date type="injury" when="1864-05-12">May 12, 1864</date>, and admitted to the field hospital of the 2d division Fifth Corps. <name type="person" key="xx">Surgeon W. R. DeWitt, jr.</name>, recorded: "Gunshot wound of left
+     thigh; severe." On <date type="transfer" when="1864-05-18">May 18th</date> the wounded man was
+     received into <name type="hospital" key="162">Douglas Hospital</name>, Washington. <name type="person" key="200">Assistant Surgeon W. Thomson</name>, <name type="organization" key="190">U. S. A.</name>, reported: "Gunshot wound of left hip; fracture of pelvis and femur.
+     Hæmorrhage to the amount of two ounces occurred from a muscular branch on May 28th, and
      ceased spontaneously. The patient died of asthenia <date type="death" when="1864-05-28">May 28,
-      1864</date>.&#34; </p>
+      1864</date>." </p>
    
   </body>
  </text>

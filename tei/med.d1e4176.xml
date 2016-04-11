@@ -41,7 +41,7 @@
             </notesStmt>
             <sourceDesc>
                 <bibl>
-                    <title>The Medical and Surgical History of the War of the Rebellion. (1861&#8211;65.)</title>
+                    <title>The Medical and Surgical History of the War of the Rebellion. (1861–65.)</title>
                     <editor role="compiler">Surgeon General Joseph K. Barnes, United States Army</editor>
                     <pubPlace>Washington, D.C.</pubPlace>
                     <publisher>Government Printing Office</publisher>
@@ -83,21 +83,16 @@
             <change who="#sb" when="2008-09-22">initial checking of OCR text against PDF; encoded</change>
         </revisionDesc>
     </teiHeader>
-    <text>
+    <text type="case">
         <body xml:id="ch1.sc3.0011">            
-                <p><hi rend="initialcap">C</hi>ASE.&#8212;<name type="person" key="1170">Private
+                <p><hi rend="initialcap">C</hi>ASE.—<name type="person" key="1170">Private
                         Thomas Bryant</name>, <name type="organization" key="441">Co. C, 118th
-                            Pennsylvania Volunteers</name>, aged 29 years, received, at the battle of <name
-                                type="BATTLE" key="259">the Wilderness, Virginia</name>, <date
-                        type="injury" when="1864-05-07">May 7th, 1864</date>, a slight wound of the
+                            Pennsylvania Volunteers</name>, aged 29 years, received, at the battle of <name type="BATTLE" key="259">the Wilderness, Virginia</name>, <date type="injury" when="1864-05-07">May 7th, 1864</date>, a slight wound of the
                     scalp from a fragment of shell. He was admitted to the hospital of the First
                         Division, Fifth Corps, and, on <date type="transfer" when="1864-05-12">May
                         12th</date>, he was sent to the <name type="hospital" key="174">Campbell
-                        Hospital</name>, Washington,  D. C.  On <date type="furlough"
-                        when="1864-05-27">May 27th</date> he was furloughed, and died while on
-                    furlough, <date type="death" when="1864-07-16">July 16th, 1864</date>.   <name
-                        type="person" key="74">Surgeon A. F. Sheldon</name>, <name
-                        type="organization" key="132">U. S. V.</name>, reports the case.</p>            
+                        Hospital</name>, Washington,  D. C.  On <date type="furlough" when="1864-05-27">May 27th</date> he was furloughed, and died while on
+                    furlough, <date type="death" when="1864-07-16">July 16th, 1864</date>.   <name type="person" key="74">Surgeon A. F. Sheldon</name>, <name type="organization" key="132">U. S. V.</name>, reports the case.</p>            
         </body>
     </text>
 </TEI>

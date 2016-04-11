@@ -52,8 +52,8 @@
                         <title>Petition of Julia Sprigg, 4 November 1862</title>
                         <date when="1862-11-04">November 4, 1862</date>
                         <idno type="rg">Record Group 21</idno>
-                        <orgName>Records of the District Courts of the United States, 1685&#8211;2004, National Archives and Records Administration</orgName>
-                        <orgName>Emancipation Records, compiled 1862&#8211;1863</orgName>
+                        <orgName>Records of the District Courts of the United States, 1685–2004, National Archives and Records Administration</orgName>
+                        <orgName>Emancipation Records, compiled 1862–1863</orgName>
                         <note type="project">Within the National Archives' Archival Description Catalog, see ARC Identifier 4314547 / MLR Number NC-2 33 (http://arcweb.archives.gov).</note>
                     </bibl>
                 </relatedItem>
@@ -70,7 +70,7 @@
                          <title>Evidence Relating to the Petition of Julia Sprigg, 4 November 1862</title>
                          <date when="1862-11-04">November 4, 1862</date>
                          <idno type="rg">Record Group 217.6.5</idno>
-                         <orgName>Records of the Accounting Officers of the Department of the Treasury, 1775&#8211;1978, National Archives and Records Administration</orgName>
+                         <orgName>Records of the Accounting Officers of the Department of the Treasury, 1775–1978, National Archives and Records Administration</orgName>
                          <note type="project">Within the National Archives' Archival Description Catalog, see ARC Identifier 4644616 / MLR Number A1 347 (http://arcweb.archives.gov).</note>
                      </bibl>
                  </relatedItem>
@@ -96,7 +96,7 @@
          <change when="2012-05-08" who="#el">transcribed, encoded</change>
       </revisionDesc>
    </teiHeader>
-   <text>
+   <text type="petition">
         <body>
             
             <pb xml:id="leaf001r" facs="cww.00981.001.jpg"/>
@@ -116,7 +116,7 @@
                     </table>
                     
                     <closer>
-                        <signed>X <persName>Julia Sprigg</persName></signed><lb />
+                        <signed>X <persName>Julia Sprigg</persName></signed><lb/>
                         Witness <persName>J. M. H. Hollingsworth</persName>
                     </closer>
                 </div2>
@@ -131,7 +131,7 @@
                             </dateline>
                             <salute><choice><abbr>Dr</abbr><expan>Dear</expan></choice> Sir</salute>
                         </opener>
-                        <p>The bearer <persName>Julia</persName> is the servant named in Ms <persName>Harriett Williams</persName> will, to be manumitted, she has not yet applied for her Free papers&#8212;She is now anxious to obtain them</p>
+                        <p>The bearer <persName>Julia</persName> is the servant named in Ms <persName>Harriett Williams</persName> will, to be manumitted, she has not yet applied for her Free papers—She is now anxious to obtain them</p>
                         <closer>
                             <salute>Respectfully yours</salute>
                             <signed><persName>John Harry</persName><lb/>
@@ -153,7 +153,7 @@
                         <ab>Filed <date when="1862-11-04">Nov 4th 1862</date></ab>
                     </div3>
                     <div3 type="section">
-                        <ab>The commissioners, satisfied on the testimony of <persName>James <unclear reason="illegible" resp="#el" cert="low">H</unclear> Hollingsworth</persName>, &#38; the certificate of <persName>John Harry</persName>, of the truth of the within statement, order the same to be so reported to the clerk of the Circuit Court of the <placeName>District of Columbia</placeName>.</ab>
+                        <ab>The commissioners, satisfied on the testimony of <persName>James <unclear reason="illegible" resp="#el" cert="low">H</unclear> Hollingsworth</persName>, &amp; the certificate of <persName>John Harry</persName>, of the truth of the within statement, order the same to be so reported to the clerk of the Circuit Court of the <placeName>District of Columbia</placeName>.</ab>
                         <closer>
                             <dateline><date when="1862-11-04">Nov. 4, 1862</date></dateline>
                             <signed><persName>Wm R. Woodward</persName></signed> Clerk to Commissioners
@@ -181,7 +181,7 @@
                 
                 <div2 type="prodedural">
                     <ab>certificate annexed petition of <persName>John Harry</persName> read.</ab>
-                    <ab>Certificate ordered &#38; sent.</ab>
+                    <ab>Certificate ordered &amp; sent.</ab>
                 </div2>
                 
                 <pb xml:id="leaf003v" facs="cww.00981.004.jpg"/>

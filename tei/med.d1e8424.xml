@@ -41,7 +41,7 @@
             </notesStmt>
             <sourceDesc>
                 <bibl>
-                    <title>The Medical and Surgical History of the War of the Rebellion. (1861&#8211;65.)</title>
+                    <title>The Medical and Surgical History of the War of the Rebellion. (1861–65.)</title>
                     <editor role="compiler">Surgeon General Joseph K. Barnes, United States Army</editor>
                     <pubPlace>Washington, D.C.</pubPlace>
                     <publisher>Government Printing Office</publisher>
@@ -85,21 +85,15 @@
             <change who="#sb" when="2008-09-22">initial checking of OCR text against PDF; encoded</change>
         </revisionDesc>
     </teiHeader>
-    <text>
+    <text type="case">
         <body xml:id="ch1.sc3.0118">            
-                <p><name type="person" key="391"><hi rend="initialcap">L</hi>ONG, <hi
-                            rend="initialcap">C</hi>. <hi rend="initialcap">H</hi>.</name>, Private,
+                <p><name type="person" key="391"><hi rend="initialcap">L</hi>ONG, <hi rend="initialcap">C</hi>. <hi rend="initialcap">H</hi>.</name>, Private,
                         <name type="organization" key="423">Co. C., 1st Maine Heavy
-                    Artillery</name>, aged 19 years, was wounded, in front of <name type="BATTLE"
-                        key="7">Petersburg, Virginia</name>, <date type="injury" when="1864-06-18">June 18th, 1864</date>, by a conoidal musket ball, which produced a severe
-                    scalp wound, with contusion of bone.  He was sent, <date type="admit"
-                        when="1864-06-22">June 22d</date>, to the hospital of the 3d division,
+                    Artillery</name>, aged 19 years, was wounded, in front of <name type="BATTLE" key="7">Petersburg, Virginia</name>, <date type="injury" when="1864-06-18">June 18th, 1864</date>, by a conoidal musket ball, which produced a severe
+                    scalp wound, with contusion of bone.  He was sent, <date type="admit" when="1864-06-22">June 22d</date>, to the hospital of the 3d division,
                     Second Corps, at <name type="place">City Point</name>, and thence conveyed to <name type="place" key="#Washington">Washington</name>, and admitted, on
-                        <date type="transfer" when="1864-06-24">June 24th</date>, to <name
-                        type="hospital" key="165">Mount Pleasant Hospital</name>.  On <date
-                        type="transfer" when="1864-06-27">June 27th</date>, he was sent to the Cony
-                    Hospital at <name type="place">Augusta, Maine</name>, where he died on <date type="death"
-                        when="1864-07-16">July 16th, 1864</date>. </p>            
+                        <date type="transfer" when="1864-06-24">June 24th</date>, to <name type="hospital" key="165">Mount Pleasant Hospital</name>.  On <date type="transfer" when="1864-06-27">June 27th</date>, he was sent to the Cony
+                    Hospital at <name type="place">Augusta, Maine</name>, where he died on <date type="death" when="1864-07-16">July 16th, 1864</date>. </p>            
         </body>
     </text>
 </TEI>
